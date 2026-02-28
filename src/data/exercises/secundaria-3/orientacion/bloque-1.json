@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-3",
+  "materia": "orientacion",
+  "bloque": 1,
+  "nombre": "Autoconocimiento",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Identidad personal",
+    "Fortalezas y áreas de oportunidad"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3ov-b1-01",
+        "tema": "Identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el autoconocimiento?",
+        "opciones": [
+          "Comprender nuestras fortalezas, debilidades, intereses y valores",
+          "Solo saber nuestro nombre",
+          "Solo conocer nuestra edad",
+          "No es posible conocerse"
+        ],
+        "respuestaCorrecta": "Comprender nuestras fortalezas, debilidades, intereses y valores",
+        "explicacion": "El autoconocimiento es la base para tomar buenas decisiones sobre nuestro futuro."
+      },
+      {
+        "id": "s3ov-b1-02",
+        "tema": "Fortalezas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es una fortaleza personal?",
+        "opciones": [
+          "Habilidad o cualidad en la que destacamos naturalmente",
+          "Solo ser fuerte físicamente",
+          "Ser perfecto en todo",
+          "No cometer errores nunca"
+        ],
+        "respuestaCorrecta": "Habilidad o cualidad en la que destacamos naturalmente",
+        "explicacion": "Las fortalezas pueden ser académicas, sociales, artísticas, deportivas o personales."
+      },
+      {
+        "id": "s3ov-b1-03",
+        "tema": "Identidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Conocer nuestras debilidades nos ayuda a mejorar",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Identificar áreas de oportunidad es el primer paso para desarrollarnos y crecer."
+      },
+      {
+        "id": "s3ov-b1-04",
+        "tema": "Intereses",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo identificamos nuestros intereses?",
+        "opciones": [
+          "Observando qué actividades disfrutamos más y nos motivan",
+          "Solo por lo que nos dicen los demás",
+          "Al azar",
+          "Solo por la calificación"
+        ],
+        "respuestaCorrecta": "Observando qué actividades disfrutamos más y nos motivan",
+        "explicacion": "Los intereses genuinos surgen de aquello que hacemos con gusto y sin presión."
+      },
+      {
+        "id": "s3ov-b1-05",
+        "tema": "Valores",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son los valores personales?",
+        "opciones": [
+          "Principios que guían nuestras decisiones y comportamiento",
+          "Solo reglas impuestas",
+          "Solo costumbres",
+          "No existen"
+        ],
+        "respuestaCorrecta": "Principios que guían nuestras decisiones y comportamiento",
+        "explicacion": "Los valores como honestidad, respeto y responsabilidad definen quiénes somos."
+      },
+      {
+        "id": "s3ov-b1-06",
+        "tema": "Identidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Todos tenemos habilidades diferentes y eso está bien",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La diversidad de habilidades es lo que hace valioso a cada individuo."
+      },
+      {
+        "id": "s3ov-b1-07",
+        "tema": "Fortalezas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la diferencia entre aptitud y actitud?",
+        "opciones": [
+          "Aptitud es capacidad, actitud es disposición ante algo",
+          "Son lo mismo",
+          "Solo aptitud importa",
+          "Solo actitud importa"
+        ],
+        "respuestaCorrecta": "Aptitud es capacidad, actitud es disposición ante algo",
+        "explicacion": "Ambas son importantes. La aptitud se puede desarrollar y la actitud se puede elegir."
+      },
+      {
+        "id": "s3ov-b1-08",
+        "tema": "Autoconocimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué herramienta nos ayuda a conocernos mejor?",
+        "opciones": [
+          "Tests vocacionales, reflexión personal y retroalimentación de otros",
+          "Solo un examen",
+          "Solo la suerte",
+          "Nada nos ayuda"
+        ],
+        "respuestaCorrecta": "Tests vocacionales, reflexión personal y retroalimentación de otros",
+        "explicacion": "Combinar autorreflexión con opiniones de personas de confianza da una visión completa."
+      },
+      {
+        "id": "s3ov-b1-09",
+        "tema": "Identidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Nuestra identidad se construye a lo largo de la vida, no es fija",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Somos personas en constante desarrollo. Nuestros intereses pueden cambiar y evolucionar."
+      },
+      {
+        "id": "s3ov-b1-10",
+        "tema": "Valores",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué es importante conocer nuestros valores antes de elegir carrera?",
+        "opciones": [
+          "Para elegir una profesión que sea coherente con lo que nos importa",
+          "No es importante",
+          "Solo importa el dinero",
+          "Solo importa la fama"
+        ],
+        "respuestaCorrecta": "Para elegir una profesión que sea coherente con lo que nos importa",
+        "explicacion": "Trabajar en algo alineado a nuestros valores genera satisfacción y sentido de vida."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s3ov-b1-01",
+        "tema": "Identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el autoconocimiento?",
+        "opciones": [
+          "Comprender nuestras fortalezas, debilidades, intereses y valores",
+          "Solo saber nuestro nombre",
+          "Solo conocer nuestra edad",
+          "No es posible conocerse"
+        ],
+        "respuestaCorrecta": "Comprender nuestras fortalezas, debilidades, intereses y valores",
+        "explicacion": "El autoconocimiento es la base para tomar buenas decisiones sobre nuestro futuro."
+      },
+      {
+        "id": "s3ov-b1-02",
+        "tema": "Fortalezas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es una fortaleza personal?",
+        "opciones": [
+          "Habilidad o cualidad en la que destacamos naturalmente",
+          "Solo ser fuerte físicamente",
+          "Ser perfecto en todo",
+          "No cometer errores nunca"
+        ],
+        "respuestaCorrecta": "Habilidad o cualidad en la que destacamos naturalmente",
+        "explicacion": "Las fortalezas pueden ser académicas, sociales, artísticas, deportivas o personales."
+      }
+    ]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "grado": "primaria-6",
+  "materia": "ciencias",
+  "bloque": 2,
+  "nombre": "Genética básica",
+  "meses": "Septiembre-Octubre",
+  "temas": [
+    "ADN y herencia",
+    "Enfermedades hereditarias"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-6-ciencias-b2-001",
+        "tema": "ADN y herencia",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia el tema \"ADN y herencia\"?",
+        "opciones": [
+          "Fenómenos naturales",
+          "Historia humana",
+          "Matemáticas avanzadas",
+          "Arte"
+        ],
+        "explicacion": "ADN y herencia es parte de las ciencias naturales que explican el mundo que nos rodea.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Fenómenos naturales"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-002",
+        "tema": "ADN y herencia",
+        "tipo": "true_false",
+        "pregunta": "ADN y herencia es importante para entender el mundo natural",
+        "explicacion": "Las ciencias nos ayudan a comprender y explicar fenómenos como ADN y herencia.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-003",
+        "tema": "ADN y herencia",
+        "tipo": "fill_blank",
+        "pregunta": "El método ___ es la base de las ciencias",
+        "explicacion": "El método científico: observar, hipótesis, experimento, conclusión.",
+        "nivel": "v1",
+        "respuestaCorrecta": "científico",
+        "datoClave": "Escala de pH: 0-6 ácido, 7 neutro, 8-14 básico. El pH del estómago es ~2 (ácido).",
+        "formula": "pH = -log[H⁺] · Agua pura = 7"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-extra-007",
+        "tema": "ADN y herencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": [
+          "Venus",
+          "Mercurio",
+          "Marte",
+          "Tierra"
+        ],
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio es el planeta más cercano al Sol, a 57.9 millones de kilómetros."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-extra-009",
+        "tema": "ADN y herencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mamíferos son de sangre fría",
+        "respuestaCorrecta": "false",
+        "explicacion": "Los mamíferos somos de sangre caliente (homeotérmicos). Los reptiles sí son de sangre fría."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-extra-011",
+        "tema": "ADN y herencia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis convierte luz solar en ___",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Las plantas usan la luz del sol, CO₂ y agua para fabricar glucosa (azúcar) que les da energía.",
+        "datoClave": "La fotosíntesis convierte energía lumínica en energía química (glucosa). Ocurre en los cloroplastos.",
+        "formula": "6CO₂+ 6H₂O + luz → C₆H₁₂O₆+ 6O₂"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-extra-013",
+        "tema": "ADN y herencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Luna produce su propia luz",
+        "respuestaCorrecta": "false",
+        "explicacion": "La Luna refleja la luz del Sol. No tiene luz propia."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-014",
+        "tema": "ADN y herencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-015",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo.",
+        "datoClave": "Proporción: dos razones iguales. Si a/b = c/d, son proporcionales.",
+        "formula": "a/b = c/d → a×d = b×c"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-016",
+        "tema": "ADN y herencia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-017",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-018",
+        "tema": "ADN y herencia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂.",
+        "datoClave": "La fotosíntesis convierte energía lumínica en energía química (glucosa). Ocurre en los cloroplastos.",
+        "formula": "6CO₂+ 6H₂O + luz → C₆H₁₂O₆+ 6O₂"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-019",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-020",
+        "tema": "ADN y herencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-021",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-6-ciencias-b2-004",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia el tema \"ADN y herencia\"?",
+        "opciones": [
+          "Fenómenos naturales",
+          "Historia humana",
+          "Matemáticas avanzadas",
+          "Arte"
+        ],
+        "explicacion": "ADN y herencia es parte de las ciencias naturales que explican el mundo que nos rodea.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Fenómenos naturales"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-005",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "true_false",
+        "pregunta": "ADN y herencia es importante para entender el mundo natural",
+        "explicacion": "Las ciencias nos ayudan a comprender y explicar fenómenos como ADN y herencia.",
+        "nivel": "v2",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-006",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "fill_blank",
+        "pregunta": "El método ___ es la base de las ciencias",
+        "explicacion": "El método científico: observar, hipótesis, experimento, conclusión.",
+        "nivel": "v2",
+        "respuestaCorrecta": "científico",
+        "datoClave": "Escala de pH: 0-6 ácido, 7 neutro, 8-14 básico. El pH del estómago es ~2 (ácido).",
+        "formula": "pH = -log[H⁺] · Agua pura = 7"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-extra-008",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El oxígeno tiene símbolo químico ___",
+        "respuestaCorrecta": "O",
+        "explicacion": "O es el símbolo del oxígeno en la tabla periódica. Con este respiramos."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-extra-010",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué orgánulo produce energía en la célula?",
+        "opciones": [
+          "Núcleo",
+          "Ribosoma",
+          "Mitocondria",
+          "Vacuola"
+        ],
+        "respuestaCorrecta": "Mitocondria",
+        "explicacion": "Las mitocondrias son \"las plantas de energía\" de la célula. Producen ATP."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-extra-012",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El agua hierve a...",
+        "opciones": [
+          "0°C",
+          "50°C",
+          "100°C",
+          "150°C"
+        ],
+        "respuestaCorrecta": "100°C",
+        "explicacion": "A 100°C (a nivel del mar) el agua pasa de líquido a gas (vapor)."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-014",
+        "tema": "ADN y herencia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂.",
+        "datoClave": "La fotosíntesis convierte energía lumínica en energía química (glucosa). Ocurre en los cloroplastos.",
+        "formula": "6CO₂+ 6H₂O + luz → C₆H₁₂O₆+ 6O₂"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-015",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-016",
+        "tema": "ADN y herencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-017",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-018",
+        "tema": "ADN y herencia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo.",
+        "datoClave": "Proporción: dos razones iguales. Si a/b = c/d, son proporcionales.",
+        "formula": "a/b = c/d → a×d = b×c"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-019",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "primaria-6-ciencias-b2-x-020",
+        "tema": "ADN y herencia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-6-ciencias-b2-001",
+        "tema": "ADN y herencia",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia el tema \"ADN y herencia\"?",
+        "opciones": [
+          "Fenómenos naturales",
+          "Historia humana",
+          "Matemáticas avanzadas",
+          "Arte"
+        ],
+        "explicacion": "ADN y herencia es parte de las ciencias naturales que explican el mundo que nos rodea.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Fenómenos naturales"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-002",
+        "tema": "ADN y herencia",
+        "tipo": "true_false",
+        "pregunta": "ADN y herencia es importante para entender el mundo natural",
+        "explicacion": "Las ciencias nos ayudan a comprender y explicar fenómenos como ADN y herencia.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-6-ciencias-b2-004",
+        "tema": "Enfermedades hereditarias",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia el tema \"ADN y herencia\"?",
+        "opciones": [
+          "Fenómenos naturales",
+          "Historia humana",
+          "Matemáticas avanzadas",
+          "Arte"
+        ],
+        "explicacion": "ADN y herencia es parte de las ciencias naturales que explican el mundo que nos rodea.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Fenómenos naturales"
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:06:30.474Z",
+  "version": "2.0"
+}

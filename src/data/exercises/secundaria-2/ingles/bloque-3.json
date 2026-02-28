@@ -1,0 +1,387 @@
+{
+  "grado": "secundaria-2",
+  "materia": "ingles",
+  "bloque": 3,
+  "nombre": "Comparing Things",
+  "meses": "Diciembre-Enero",
+  "temas": [
+    "Comparatives",
+    "Superlatives",
+    "Describing differences",
+    "Expressing opinions"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-2-ingles-b3-001",
+        "tema": "Superlatives",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Yesterday I ___ to school.\" (Ayer fui a la escuela.)",
+        "opciones": [
+          "go",
+          "goes",
+          "went",
+          "going"
+        ],
+        "respuestaCorrecta": "went",
+        "explicacion": "\"Went\" is the past tense of \"go\". Irregular verb: go → went → gone."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-002",
+        "tema": "Describing differences",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "I am ___ to visit Paris next summer. (Voy a visitar París)",
+        "respuestaCorrecta": "going",
+        "explicacion": "\"Going to + verb\" expresses future plans. \"I am going to visit Paris.\""
+      },
+      {
+        "id": "secundaria-2-ingles-b3-003",
+        "tema": "Expressing opinions",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el comparativo de \"big\"?",
+        "opciones": [
+          "more big",
+          "biggest",
+          "bigger",
+          "most big"
+        ],
+        "respuestaCorrecta": "bigger",
+        "explicacion": "For short adjectives: add -er for comparatives. Big → bigger. Ex: \"Mexico is bigger than Canada.\""
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-007",
+        "tema": "Comparatives",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-008",
+        "tema": "Superlatives",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-009",
+        "tema": "Describing differences",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-010",
+        "tema": "Expressing opinions",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-011",
+        "tema": "Comparatives",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-012",
+        "tema": "Superlatives",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-013",
+        "tema": "Describing differences",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-014",
+        "tema": "Expressing opinions",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-015",
+        "tema": "Comparatives",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-016",
+        "tema": "Superlatives",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-017",
+        "tema": "Describing differences",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-2-ingles-b3-004",
+        "tema": "Comparatives",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Will\" se usa para hacer predicciones en inglés",
+        "respuestaCorrecta": "true",
+        "explicacion": "Yes! \"Will\" expresses predictions and spontaneous decisions. \"It will rain tomorrow.\""
+      },
+      {
+        "id": "secundaria-2-ingles-b3-005",
+        "tema": "Superlatives",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Mexico ___ bigger than Guatemala. (México ES más grande)",
+        "respuestaCorrecta": "is",
+        "explicacion": "We use \"is\" for third person singular in present tense. Mexico + is (= es)."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-006",
+        "tema": "Describing differences",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"You should recycle\" significa...",
+        "opciones": [
+          "Reciclas",
+          "Deberías reciclar",
+          "Reciclé",
+          "Reciclando"
+        ],
+        "respuestaCorrecta": "Deberías reciclar",
+        "explicacion": "\"Should\" expresses advice/obligation: \"You should...\" = Deberías..."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-007",
+        "tema": "Comparatives",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-008",
+        "tema": "Superlatives",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-009",
+        "tema": "Describing differences",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-010",
+        "tema": "Expressing opinions",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-011",
+        "tema": "Comparatives",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-012",
+        "tema": "Superlatives",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-013",
+        "tema": "Describing differences",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-014",
+        "tema": "Expressing opinions",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-015",
+        "tema": "Comparatives",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-016",
+        "tema": "Superlatives",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-x-017",
+        "tema": "Describing differences",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-2-ingles-b3-001",
+        "tema": "Superlatives",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Yesterday I ___ to school.\" (Ayer fui a la escuela.)",
+        "opciones": [
+          "go",
+          "goes",
+          "went",
+          "going"
+        ],
+        "respuestaCorrecta": "went",
+        "explicacion": "\"Went\" is the past tense of \"go\". Irregular verb: go → went → gone."
+      },
+      {
+        "id": "secundaria-2-ingles-b3-002",
+        "tema": "Describing differences",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "I am ___ to visit Paris next summer. (Voy a visitar París)",
+        "respuestaCorrecta": "going",
+        "explicacion": "\"Going to + verb\" expresses future plans. \"I am going to visit Paris.\""
+      },
+      {
+        "id": "secundaria-2-ingles-b3-004",
+        "tema": "Comparatives",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Will\" se usa para hacer predicciones en inglés",
+        "respuestaCorrecta": "true",
+        "explicacion": "Yes! \"Will\" expresses predictions and spontaneous decisions. \"It will rain tomorrow.\""
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:46:14.152Z",
+  "version": "2.0"
+}

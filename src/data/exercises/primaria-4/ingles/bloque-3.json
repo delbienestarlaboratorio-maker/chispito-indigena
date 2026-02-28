@@ -1,0 +1,195 @@
+{
+  "grado": "primaria-4",
+  "materia": "ingles",
+  "bloque": 3,
+  "nombre": "My community",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Places in town",
+    "Asking directions"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p4en-b3-01",
+        "tema": "Lugares",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Hospital\" in Spanish is:",
+        "opciones": [
+          "Hospital",
+          "Escuela",
+          "Mercado",
+          "Parque"
+        ],
+        "respuestaCorrecta": "Hospital",
+        "explicacion": "Hospital se dice igual en ambos idiomas."
+      },
+      {
+        "id": "p4en-b3-02",
+        "tema": "Lugares",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"School\" means:",
+        "opciones": [
+          "Escuela",
+          "Hospital",
+          "Tienda",
+          "Iglesia"
+        ],
+        "respuestaCorrecta": "Escuela",
+        "explicacion": "School = escuela."
+      },
+      {
+        "id": "p4en-b3-03",
+        "tema": "Lugares",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Park\" means mercado",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Park = parque. Market = mercado."
+      },
+      {
+        "id": "p4en-b3-04",
+        "tema": "Direcciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Turn left\" means:",
+        "opciones": [
+          "Gira a la izquierda",
+          "Gira a la derecha",
+          "Sigue derecho",
+          "Para"
+        ],
+        "respuestaCorrecta": "Gira a la izquierda",
+        "explicacion": "Left = izquierda. Right = derecha."
+      },
+      {
+        "id": "p4en-b3-05",
+        "tema": "Direcciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Go straight\" means:",
+        "opciones": [
+          "Sigue derecho",
+          "Gira",
+          "Para",
+          "Regresa"
+        ],
+        "respuestaCorrecta": "Sigue derecho",
+        "explicacion": "Straight = recto, derecho."
+      },
+      {
+        "id": "p4en-b3-06",
+        "tema": "Lugares",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Library\" means:",
+        "opciones": [
+          "Biblioteca",
+          "Librería",
+          "Tienda",
+          "Cafetería"
+        ],
+        "respuestaCorrecta": "Biblioteca",
+        "explicacion": "Library = biblioteca (no librería; bookstore = librería)."
+      },
+      {
+        "id": "p4en-b3-07",
+        "tema": "Direcciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Where is the bank?\" asks for a location",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Where = dónde. Se usa para preguntar la ubicación de algo."
+      },
+      {
+        "id": "p4en-b3-08",
+        "tema": "Lugares",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Supermarket\" means:",
+        "opciones": [
+          "Supermercado",
+          "Restaurante",
+          "Hospital",
+          "Banco"
+        ],
+        "respuestaCorrecta": "Supermercado",
+        "explicacion": "Supermarket = supermercado."
+      },
+      {
+        "id": "p4en-b3-09",
+        "tema": "Direcciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Turn right\" means:",
+        "opciones": [
+          "Gira a la derecha",
+          "Gira a la izquierda",
+          "Sigue recto",
+          "Da la vuelta"
+        ],
+        "respuestaCorrecta": "Gira a la derecha",
+        "explicacion": "Right = derecha."
+      },
+      {
+        "id": "p4en-b3-10",
+        "tema": "Lugares",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Church\" means:",
+        "opciones": [
+          "Iglesia",
+          "Escuela",
+          "Hospital",
+          "Museo"
+        ],
+        "respuestaCorrecta": "Iglesia",
+        "explicacion": "Church = iglesia."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p4en-b3-01",
+        "tema": "Lugares",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Hospital\" in Spanish is:",
+        "opciones": [
+          "Hospital",
+          "Escuela",
+          "Mercado",
+          "Parque"
+        ],
+        "respuestaCorrecta": "Hospital",
+        "explicacion": "Hospital se dice igual en ambos idiomas."
+      },
+      {
+        "id": "p4en-b3-02",
+        "tema": "Lugares",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"School\" means:",
+        "opciones": [
+          "Escuela",
+          "Hospital",
+          "Tienda",
+          "Iglesia"
+        ],
+        "respuestaCorrecta": "Escuela",
+        "explicacion": "School = escuela."
+      }
+    ]
+  }
+}

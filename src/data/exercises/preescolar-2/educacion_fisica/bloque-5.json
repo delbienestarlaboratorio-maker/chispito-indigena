@@ -1,0 +1,196 @@
+{
+  "grado": "preescolar-2",
+  "materia": "educacion_fisica",
+  "bloque": 5,
+  "nombre": "Naturaleza activa",
+  "meses": "Abr-Jun",
+  "temas": [
+    "Aire libre",
+    "Cuidado del entorno"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "preescolar2ef-b5-01",
+        "tema": "Naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué es bueno jugar al aire libre?",
+        "opciones": [
+          "Nos da sol y espacio para movernos",
+          "Porque está de moda",
+          "Para alejarse de casa",
+          "Para no estudiar"
+        ],
+        "respuestaCorrecta": "Nos da sol y espacio para movernos",
+        "explicacion": "El sol nos da vitamina D y el espacio exterior invita a moverse más.",
+        "visual": "🌞"
+      },
+      {
+        "id": "preescolar2ef-b5-02",
+        "tema": "Entorno",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Debemos cuidar las plantas del parque",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Las plantas son seres vivos que benefician al medio ambiente."
+      },
+      {
+        "id": "preescolar2ef-b5-03",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En un día caluroso debemos llevar al parque:",
+        "opciones": [
+          "Agua y protector solar",
+          "Solo dulces",
+          "Un abrigo",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Agua y protector solar",
+        "explicacion": "El agua hidrata y el protector solar cuida la piel del sol.",
+        "visual": "☀️"
+      },
+      {
+        "id": "preescolar2ef-b5-04",
+        "tema": "Entorno",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Dónde tiramos la basura?",
+        "opciones": [
+          "En el bote",
+          "En el suelo",
+          "En el río",
+          "En el pasto"
+        ],
+        "respuestaCorrecta": "En el bote",
+        "explicacion": "Tirar basura en su lugar mantiene los espacios limpios para todos.",
+        "visual": "🗑️"
+      },
+      {
+        "id": "preescolar2ef-b5-05",
+        "tema": "Entorno",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los animales del parque merecen respeto",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los animales son parte del ecosistema y debemos respetarlos."
+      },
+      {
+        "id": "preescolar2ef-b5-06",
+        "tema": "Actividad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacemos en el parque?",
+        "opciones": [
+          "Correr, saltar y jugar",
+          "Solo sentarse",
+          "Solo comer",
+          "Solo ver el celular"
+        ],
+        "respuestaCorrecta": "Correr, saltar y jugar",
+        "explicacion": "El parque es el lugar ideal para actividades físicas variadas.",
+        "visual": "🌳"
+      },
+      {
+        "id": "preescolar2ef-b5-07",
+        "tema": "Entorno",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Arrancar flores del parque está bien",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Las plantas necesitan sus flores para reproducirse. No las arranques."
+      },
+      {
+        "id": "preescolar2ef-b5-08",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacemos si encontramos un animal lastimado?",
+        "opciones": [
+          "Avisamos a un adulto",
+          "Lo dejamos solo",
+          "Lo asustamos",
+          "Lo cargamos y corremos"
+        ],
+        "respuestaCorrecta": "Avisamos a un adulto",
+        "explicacion": "Un adulto sabrá cómo buscar ayuda veterinaria adecuada.",
+        "visual": "🦮"
+      },
+      {
+        "id": "preescolar2ef-b5-09",
+        "tema": "Entorno",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué cerramos la llave cuando no usamos agua?",
+        "opciones": [
+          "Para no desperdiciarla",
+          "Para que no se moje el piso",
+          "Por costumbre",
+          "No la cerramos"
+        ],
+        "respuestaCorrecta": "Para no desperdiciarla",
+        "explicacion": "El agua es un recurso valioso y debemos cuidarla.",
+        "visual": "💧"
+      },
+      {
+        "id": "preescolar2ef-b5-10",
+        "tema": "Actividad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Caminar es un buen ejercicio",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Caminar ejercita el corazón y los músculos de forma sencilla y efectiva."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "preescolar2ef-b5-01",
+        "tema": "Naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué es bueno jugar al aire libre?",
+        "opciones": [
+          "Nos da sol y espacio para movernos",
+          "Porque está de moda",
+          "Para alejarse de casa",
+          "Para no estudiar"
+        ],
+        "respuestaCorrecta": "Nos da sol y espacio para movernos",
+        "explicacion": "El sol nos da vitamina D y el espacio exterior invita a moverse más.",
+        "visual": "🌞"
+      },
+      {
+        "id": "preescolar2ef-b5-02",
+        "tema": "Entorno",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Debemos cuidar las plantas del parque",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Las plantas son seres vivos que benefician al medio ambiente."
+      }
+    ]
+  }
+}

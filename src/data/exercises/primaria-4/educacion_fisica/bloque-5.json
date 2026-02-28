@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-4",
+  "materia": "educacion_fisica",
+  "bloque": 5,
+  "nombre": "Mini olimpiadas y competencias",
+  "meses": "Abr-Jun",
+  "temas": [
+    "Deportes olímpicos",
+    "Espíritu deportivo"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p4ef-b5-01",
+        "tema": "Olimpiadas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cada cuántos años se celebran los Juegos Olímpicos de verano?",
+        "opciones": [
+          "Cada 4 años",
+          "Cada año",
+          "Cada 2 años",
+          "Cada 10 años"
+        ],
+        "respuestaCorrecta": "Cada 4 años",
+        "explicacion": "Los JJOO de verano se celebran cada 4 años en una ciudad diferente del mundo."
+      },
+      {
+        "id": "p4ef-b5-02",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas pruebas tiene el atletismo olímpico?",
+        "opciones": [
+          "Más de 40 pruebas diferentes",
+          "Solo 3",
+          "Solo 10",
+          "Solo 1"
+        ],
+        "respuestaCorrecta": "Más de 40 pruebas diferentes",
+        "explicacion": "El atletismo incluye carreras, saltos, lanzamientos y pruebas combinadas."
+      },
+      {
+        "id": "p4ef-b5-03",
+        "tema": "Espíritu",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El lema olímpico es: Más rápido, más alto, más fuerte - Juntos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Citius, Altius, Fortius - Communiter es el lema actualizado del Comité Olímpico Internacional."
+      },
+      {
+        "id": "p4ef-b5-04",
+        "tema": "Olimpiadas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos aros tiene el símbolo olímpico?",
+        "opciones": [
+          "5 aros de colores",
+          "3 aros",
+          "7 aros",
+          "10 aros"
+        ],
+        "respuestaCorrecta": "5 aros de colores",
+        "explicacion": "Los 5 aros representan los 5 continentes del mundo unidos por el deporte."
+      },
+      {
+        "id": "p4ef-b5-05",
+        "tema": "Espíritu",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué valor es el más importante en una competencia deportiva?",
+        "opciones": [
+          "El respeto y la deportividad",
+          "Solo ganar",
+          "Solo el premio",
+          "El uniforme"
+        ],
+        "respuestaCorrecta": "El respeto y la deportividad",
+        "explicacion": "Competir con respeto es más valioso que ganar a toda costa."
+      },
+      {
+        "id": "p4ef-b5-06",
+        "tema": "Olimpiadas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "México ha participado en los Juegos Olímpicos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "México ha participado desde 1900 y fue sede de los JJOO de 1968 en la Ciudad de México."
+      },
+      {
+        "id": "p4ef-b5-07",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué deporte olímpico se practica en agua?",
+        "opciones": [
+          "Natación",
+          "Atletismo",
+          "Gimnasia",
+          "Ciclismo"
+        ],
+        "respuestaCorrecta": "Natación",
+        "explicacion": "La natación incluye varias pruebas olímpicas: libre, espalda, pecho, mariposa."
+      },
+      {
+        "id": "p4ef-b5-08",
+        "tema": "Espíritu",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si perdemos una competencia, ¿cuál es la mejor actitud?",
+        "opciones": [
+          "Felicitar al ganador y buscar mejorar",
+          "Enojarse y pelear",
+          "No volver a competir nunca",
+          "Culpar al árbitro"
+        ],
+        "respuestaCorrecta": "Felicitar al ganador y buscar mejorar",
+        "explicacion": "Perder con dignidad y aprender de la experiencia nos hace mejores deportistas."
+      },
+      {
+        "id": "p4ef-b5-09",
+        "tema": "Olimpiadas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los Juegos Paralímpicos son para deportistas con discapacidad",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los Paralímpicos demuestran que el deporte es para TODOS sin importar las capacidades."
+      },
+      {
+        "id": "p4ef-b5-10",
+        "tema": "Espíritu",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué aprendemos al organizar unas mini olimpiadas en la escuela?",
+        "opciones": [
+          "Organización, trabajo en equipo y competencia sana",
+          "Solo a ganar",
+          "Solo a pelear",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Organización, trabajo en equipo y competencia sana",
+        "explicacion": "Las mini olimpiadas enseñan valores deportivos y habilidades organizativas."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p4ef-b5-01",
+        "tema": "Olimpiadas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cada cuántos años se celebran los Juegos Olímpicos de verano?",
+        "opciones": [
+          "Cada 4 años",
+          "Cada año",
+          "Cada 2 años",
+          "Cada 10 años"
+        ],
+        "respuestaCorrecta": "Cada 4 años",
+        "explicacion": "Los JJOO de verano se celebran cada 4 años en una ciudad diferente del mundo."
+      },
+      {
+        "id": "p4ef-b5-02",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas pruebas tiene el atletismo olímpico?",
+        "opciones": [
+          "Más de 40 pruebas diferentes",
+          "Solo 3",
+          "Solo 10",
+          "Solo 1"
+        ],
+        "respuestaCorrecta": "Más de 40 pruebas diferentes",
+        "explicacion": "El atletismo incluye carreras, saltos, lanzamientos y pruebas combinadas."
+      }
+    ]
+  }
+}

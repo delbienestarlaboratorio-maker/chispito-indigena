@@ -1,0 +1,202 @@
+{
+  "grado": "kinder",
+  "materia": "educacion_fisica",
+  "bloque": 1,
+  "nombre": "Mi cuerpo se mueve",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Partes del cuerpo",
+    "Movimiento básico"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "kinderef-b1-01",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué parte usamos para correr?",
+        "opciones": [
+          "Las piernas",
+          "Las manos",
+          "Los ojos",
+          "Los oídos"
+        ],
+        "respuestaCorrecta": "Las piernas",
+        "explicacion": "Las piernas nos permiten caminar, correr y saltar.",
+        "visual": "🦵"
+      },
+      {
+        "id": "kinderef-b1-02",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos dedos tenemos en total en las manos?",
+        "opciones": [
+          "10",
+          "5",
+          "8",
+          "6"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "5 dedos en cada mano = 10 en total.",
+        "visual": "🤲"
+      },
+      {
+        "id": "kinderef-b1-03",
+        "tema": "Cuerpo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Podemos aplaudir con los pies",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Aplaudimos con las manos, no con los pies."
+      },
+      {
+        "id": "kinderef-b1-04",
+        "tema": "Movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es saltar?",
+        "opciones": [
+          "Elevarnos del suelo con las piernas",
+          "Dormir",
+          "Comer",
+          "Reír"
+        ],
+        "respuestaCorrecta": "Elevarnos del suelo con las piernas",
+        "explicacion": "Saltar es impulsarnos hacia arriba con fuerza en las piernas.",
+        "visual": "⬆️"
+      },
+      {
+        "id": "kinderef-b1-05",
+        "tema": "Movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo nos movemos al gatear?",
+        "opciones": [
+          "Con manos y rodillas",
+          "Solo con los pies",
+          "Con los codos",
+          "Con la cabeza"
+        ],
+        "respuestaCorrecta": "Con manos y rodillas",
+        "explicacion": "Al gatear apoyamos las manos y las rodillas en el suelo.",
+        "visual": "🐾"
+      },
+      {
+        "id": "kinderef-b1-06",
+        "tema": "Salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Hacer ejercicio nos da energía",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El ejercicio activa el cuerpo y nos da más energía durante el día."
+      },
+      {
+        "id": "kinderef-b1-07",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué usamos para atrapar una pelota?",
+        "opciones": [
+          "Las manos",
+          "Los pies",
+          "La cabeza",
+          "La espalda"
+        ],
+        "respuestaCorrecta": "Las manos",
+        "explicacion": "Con las manos y los dedos agarramos y atrapamos objetos.",
+        "visual": "⚽"
+      },
+      {
+        "id": "kinderef-b1-08",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué parte protege el casco?",
+        "opciones": [
+          "La cabeza",
+          "Los pies",
+          "Las manos",
+          "El cuello"
+        ],
+        "respuestaCorrecta": "La cabeza",
+        "explicacion": "El casco protege nuestra cabeza de golpes al andar en bicicleta.",
+        "visual": "⛑️"
+      },
+      {
+        "id": "kinderef-b1-09",
+        "tema": "Movimiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Correr y caminar son movimientos del cuerpo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Correr y caminar son formas de desplazarnos usando las piernas."
+      },
+      {
+        "id": "kinderef-b1-10",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirve el ejercicio?",
+        "opciones": [
+          "Para estar sanos y fuertes",
+          "Solo para cansarnos",
+          "Para no comer",
+          "Para dormir todo el día"
+        ],
+        "respuestaCorrecta": "Para estar sanos y fuertes",
+        "explicacion": "El ejercicio fortalece músculos, huesos y el corazón.",
+        "visual": "💪"
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "kinderef-b1-01",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué parte usamos para correr?",
+        "opciones": [
+          "Las piernas",
+          "Las manos",
+          "Los ojos",
+          "Los oídos"
+        ],
+        "respuestaCorrecta": "Las piernas",
+        "explicacion": "Las piernas nos permiten caminar, correr y saltar.",
+        "visual": "🦵"
+      },
+      {
+        "id": "kinderef-b1-02",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos dedos tenemos en total en las manos?",
+        "opciones": [
+          "10",
+          "5",
+          "8",
+          "6"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "5 dedos en cada mano = 10 en total.",
+        "visual": "🤲"
+      }
+    ]
+  }
+}

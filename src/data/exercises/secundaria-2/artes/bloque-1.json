@@ -1,0 +1,194 @@
+{
+  "grado": "secundaria-2",
+  "materia": "artes",
+  "bloque": 1,
+  "nombre": "Lenguajes artísticos",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Artes visuales",
+    "Artes escénicas",
+    "Artes sonoras"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2art-b1-01",
+        "tema": "Lenguajes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los principales lenguajes artísticos?",
+        "opciones": [
+          "Visual, musical, teatral y de danza",
+          "Solo pintura",
+          "Solo música",
+          "Solo cine"
+        ],
+        "respuestaCorrecta": "Visual, musical, teatral y de danza",
+        "explicacion": "Las artes se expresan mediante imágenes, sonidos, movimiento y representación escénica."
+      },
+      {
+        "id": "s2art-b1-02",
+        "tema": "Visual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué técnica usa pigmentos mezclados con aceite?",
+        "opciones": [
+          "Pintura al óleo",
+          "Acuarela",
+          "Lápiz de color",
+          "Pastel seco"
+        ],
+        "respuestaCorrecta": "Pintura al óleo",
+        "explicacion": "El óleo usa pigmentos con aceite de linaza, dando colores intensos y duraderos."
+      },
+      {
+        "id": "s2art-b1-03",
+        "tema": "Artes",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La danza combina movimiento corporal con música",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La danza es arte del movimiento rítmico del cuerpo, generalmente acompañado de música."
+      },
+      {
+        "id": "s2art-b1-04",
+        "tema": "Visual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la perspectiva en dibujo?",
+        "opciones": [
+          "Técnica para crear profundidad y distancia en una superficie plana",
+          "Solo colorear",
+          "Hacer líneas rectas",
+          "Copiar fotos"
+        ],
+        "respuestaCorrecta": "Técnica para crear profundidad y distancia en una superficie plana",
+        "explicacion": "La perspectiva simula la tercera dimensión en una hoja o lienzo de dos dimensiones."
+      },
+      {
+        "id": "s2art-b1-05",
+        "tema": "Musical",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la polifonía en música?",
+        "opciones": [
+          "Varias melodías sonando simultáneamente",
+          "Una sola nota",
+          "Solo ritmo sin melodía",
+          "Música sin instrumentos"
+        ],
+        "respuestaCorrecta": "Varias melodías sonando simultáneamente",
+        "explicacion": "La polifonía es la combinación de varias voces o líneas melódicas independientes."
+      },
+      {
+        "id": "s2art-b1-06",
+        "tema": "Escénicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El cine combina artes visuales, sonoras y escénicas",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El cine integra imagen, sonido, actuación, iluminación y narrativa en una sola obra."
+      },
+      {
+        "id": "s2art-b1-07",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la diferencia entre danza folclórica y contemporánea?",
+        "opciones": [
+          "La folclórica preserva tradiciones; la contemporánea experimenta con nuevas formas",
+          "No hay diferencia",
+          "Solo el vestuario",
+          "Solo la música"
+        ],
+        "respuestaCorrecta": "La folclórica preserva tradiciones; la contemporánea experimenta con nuevas formas",
+        "explicacion": "La danza folclórica mantiene raíces culturales; la contemporánea busca innovación expresiva."
+      },
+      {
+        "id": "s2art-b1-08",
+        "tema": "Visual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un boceto?",
+        "opciones": [
+          "Dibujo rápido y preliminar de una idea artística",
+          "La obra final",
+          "Una fotografía",
+          "Un marco para cuadros"
+        ],
+        "respuestaCorrecta": "Dibujo rápido y preliminar de una idea artística",
+        "explicacion": "El boceto es el primer paso para planear una obra antes de la versión definitiva."
+      },
+      {
+        "id": "s2art-b1-09",
+        "tema": "Artes",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El arte puede transmitir mensajes sociales y políticos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "A lo largo de la historia, el arte ha sido vehículo de denuncia, protesta y cambio social."
+      },
+      {
+        "id": "s2art-b1-10",
+        "tema": "Musical",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué género musical es típicamente mexicano?",
+        "opciones": [
+          "El son jarocho, el huapango y el mariachi",
+          "El jazz",
+          "El rock británico",
+          "La ópera italiana"
+        ],
+        "respuestaCorrecta": "El son jarocho, el huapango y el mariachi",
+        "explicacion": "México tiene una rica variedad de géneros musicales regionales con identidad propia."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s2art-b1-01",
+        "tema": "Lenguajes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los principales lenguajes artísticos?",
+        "opciones": [
+          "Visual, musical, teatral y de danza",
+          "Solo pintura",
+          "Solo música",
+          "Solo cine"
+        ],
+        "respuestaCorrecta": "Visual, musical, teatral y de danza",
+        "explicacion": "Las artes se expresan mediante imágenes, sonidos, movimiento y representación escénica."
+      },
+      {
+        "id": "s2art-b1-02",
+        "tema": "Visual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué técnica usa pigmentos mezclados con aceite?",
+        "opciones": [
+          "Pintura al óleo",
+          "Acuarela",
+          "Lápiz de color",
+          "Pastel seco"
+        ],
+        "respuestaCorrecta": "Pintura al óleo",
+        "explicacion": "El óleo usa pigmentos con aceite de linaza, dando colores intensos y duraderos."
+      }
+    ]
+  }
+}

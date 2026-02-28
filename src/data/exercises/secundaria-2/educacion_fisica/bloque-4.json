@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-2",
+  "materia": "educacion_fisica",
+  "bloque": 4,
+  "nombre": "Deportes alternativos y recreación",
+  "meses": "Feb-Mar",
+  "temas": [
+    "Nuevos deportes",
+    "Actividades recreativas"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2ef-b4-01",
+        "tema": "Ultimate",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la regla más especial del Ultimate Frisbee?",
+        "opciones": [
+          "No hay árbitro: los jugadores se autorregulan (Spirit of the Game)",
+          "Hay 3 árbitros",
+          "Se permite el contacto",
+          "No tiene reglas"
+        ],
+        "respuestaCorrecta": "No hay árbitro: los jugadores se autorregulan (Spirit of the Game)",
+        "explicacion": "El Spirit of the Game promueve honestidad, respeto y autoárbitraje."
+      },
+      {
+        "id": "s2ef-b4-02",
+        "tema": "Recreación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué diferencia la actividad recreativa del deporte competitivo?",
+        "opciones": [
+          "La recreación prioriza la diversión; el deporte, el resultado",
+          "No hay diferencia",
+          "La recreación es más difícil",
+          "El deporte no tiene reglas"
+        ],
+        "respuestaCorrecta": "La recreación prioriza la diversión; el deporte, el resultado",
+        "explicacion": "La recreación busca el disfrute personal sin la presión de ganar."
+      },
+      {
+        "id": "s2ef-b4-03",
+        "tema": "Alternativos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El parkour es una disciplina que consiste en desplazarse superando obstáculos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El parkour desarrolla fuerza, agilidad, coordinación y creatividad del movimiento."
+      },
+      {
+        "id": "s2ef-b4-04",
+        "tema": "Alternativos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el slackline?",
+        "opciones": [
+          "Equilibrio sobre una cinta elástica tensada entre dos puntos",
+          "Un deporte acuático",
+          "Un tipo de carrera",
+          "Un baile"
+        ],
+        "respuestaCorrecta": "Equilibrio sobre una cinta elástica tensada entre dos puntos",
+        "explicacion": "El slackline desarrolla equilibrio, concentración y fuerza del core."
+      },
+      {
+        "id": "s2ef-b4-05",
+        "tema": "Recreación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué son importantes las actividades recreativas?",
+        "opciones": [
+          "Reducen estrés, fomentan socialización y mantienen activo al cuerpo",
+          "No son importantes",
+          "Solo para niños pequeños",
+          "Solo los fines de semana"
+        ],
+        "respuestaCorrecta": "Reducen estrés, fomentan socialización y mantienen activo al cuerpo",
+        "explicacion": "La recreación equilibra la vida académica con el bienestar físico y social."
+      },
+      {
+        "id": "s2ef-b4-06",
+        "tema": "Alternativos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El CrossFit adaptado puede practicarse por adolescentes con supervisión",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Con supervisión y cargas adecuadas, el entrenamiento funcional es beneficioso para adolescentes."
+      },
+      {
+        "id": "s2ef-b4-07",
+        "tema": "Alternativos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el flag football?",
+        "opciones": [
+          "Futbol americano sin contacto, usando banderines",
+          "Futbol con banderas en la portería",
+          "Soccer con las manos",
+          "Voleibol adaptado"
+        ],
+        "respuestaCorrecta": "Futbol americano sin contacto, usando banderines",
+        "explicacion": "El flag elimina las tacleadas, haciéndolo seguro e inclusivo."
+      },
+      {
+        "id": "s2ef-b4-08",
+        "tema": "Recreación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué actividad recreativa combina ejercicio con exploración de la naturaleza?",
+        "opciones": [
+          "Senderismo/hiking",
+          "Ajedrez",
+          "Lectura",
+          "Videojuegos"
+        ],
+        "respuestaCorrecta": "Senderismo/hiking",
+        "explicacion": "El senderismo ejercita el cuerpo mientras conectamos con el medio ambiente."
+      },
+      {
+        "id": "s2ef-b4-09",
+        "tema": "Inclusión",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los deportes alternativos son más inclusivos porque se adaptan fácilmente",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Al no tener tradiciones rígidas, se pueden modificar reglas para incluir a todos."
+      },
+      {
+        "id": "s2ef-b4-10",
+        "tema": "Recreación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el mejor beneficio de combinar deporte y diversión?",
+        "opciones": [
+          "Se mantiene la motivación a largo plazo",
+          "Solo perder peso",
+          "Solo competir",
+          "Solo ganar"
+        ],
+        "respuestaCorrecta": "Se mantiene la motivación a largo plazo",
+        "explicacion": "Cuando disfrutamos una actividad, la hacemos consistentemente y se vuelve hábito."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s2ef-b4-01",
+        "tema": "Ultimate",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la regla más especial del Ultimate Frisbee?",
+        "opciones": [
+          "No hay árbitro: los jugadores se autorregulan (Spirit of the Game)",
+          "Hay 3 árbitros",
+          "Se permite el contacto",
+          "No tiene reglas"
+        ],
+        "respuestaCorrecta": "No hay árbitro: los jugadores se autorregulan (Spirit of the Game)",
+        "explicacion": "El Spirit of the Game promueve honestidad, respeto y autoárbitraje."
+      },
+      {
+        "id": "s2ef-b4-02",
+        "tema": "Recreación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué diferencia la actividad recreativa del deporte competitivo?",
+        "opciones": [
+          "La recreación prioriza la diversión; el deporte, el resultado",
+          "No hay diferencia",
+          "La recreación es más difícil",
+          "El deporte no tiene reglas"
+        ],
+        "respuestaCorrecta": "La recreación prioriza la diversión; el deporte, el resultado",
+        "explicacion": "La recreación busca el disfrute personal sin la presión de ganar."
+      }
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "grado": "kinder",
+  "materia": "conocimiento",
+  "bloque": 2,
+  "nombre": "Mi familia y mi casa",
+  "meses": "Septiembre-Octubre",
+  "temas": [
+    "Miembros de la familia",
+    "La casa y sus espacios"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "kinder-conocimiento-b2-001",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Miembros de la familia\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Miembros de la familia es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "kinder-conocimiento-b2-002",
+        "tema": "Miembros de la familia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Miembros de la familia es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "kinder-conocimiento-b2-003",
+        "tema": "Miembros de la familia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En Miembros de la familia, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "kinder-conocimiento-b2-extra-007",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de los 5 sentidos usamos para oír?",
+        "opciones": [
+          "La vista",
+          "El olfato",
+          "El oído",
+          "El tacto"
+        ],
+        "respuestaCorrecta": "El oído",
+        "explicacion": "El oído nos permite escuchar sonidos. Las orejas son el órgano del oído."
+      },
+      {
+        "id": "kinder-conocimiento-b2-extra-009",
+        "tema": "Miembros de la familia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los perros son animales domésticos",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los animales domésticos viven con el ser humano. El perro es el más común.",
+        "visual": "🐶",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-extra-011",
+        "tema": "Miembros de la familia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En invierno hace ___ y en verano hace ___",
+        "respuestaCorrecta": "frío / calor",
+        "explicacion": "Las estaciones cambian la temperatura. Invierno = frío, Verano = calor."
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-012",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "opciones": [
+          "La gallina",
+          "La vaca",
+          "El cerdo",
+          "El caballo"
+        ],
+        "respuestaCorrecta": "La vaca",
+        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
+        "visual": "🦁",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-013",
+        "tema": "La casa y sus espacios",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
+        "visual": "💧",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-014",
+        "tema": "Miembros de la familia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La primavera viene después del ___",
+        "respuestaCorrecta": "invierno",
+        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
+        "visual": "🐦",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-015",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "opciones": [
+          "La gallina",
+          "La vaca",
+          "El cerdo",
+          "El caballo"
+        ],
+        "respuestaCorrecta": "La vaca",
+        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
+        "visual": "🦁",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-016",
+        "tema": "Miembros de la familia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
+        "visual": "💧",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-017",
+        "tema": "La casa y sus espacios",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La primavera viene después del ___",
+        "respuestaCorrecta": "invierno",
+        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
+        "visual": "🐦",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-018",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "opciones": [
+          "La gallina",
+          "La vaca",
+          "El cerdo",
+          "El caballo"
+        ],
+        "respuestaCorrecta": "La vaca",
+        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
+        "visual": "🦁",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-019",
+        "tema": "La casa y sus espacios",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
+        "visual": "💧",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-020",
+        "tema": "Miembros de la familia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La primavera viene después del ___",
+        "respuestaCorrecta": "invierno",
+        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
+        "visual": "🐦",
+        "visualAnimado": true
+      }
+    ],
+    "v2": [
+      {
+        "id": "kinder-conocimiento-b2-004",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"La casa y sus espacios\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "La casa y sus espacios es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
+        "visual": "🏠",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-005",
+        "tema": "La casa y sus espacios",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La casa y sus espacios es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
+        "visual": "🏠",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-006",
+        "tema": "La casa y sus espacios",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En La casa y sus espacios, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia.",
+        "visual": "🏠",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-extra-008",
+        "tema": "La casa y sus espacios",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Los animales que viven en el agua se llaman ___",
+        "respuestaCorrecta": "acuáticos",
+        "explicacion": "Los animales acuáticos viven en el agua: peces, delfines, pulpos.",
+        "visual": "💧",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-extra-010",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "opciones": [
+          "Solo agua",
+          "Agua, sol y tierra",
+          "Solo luz",
+          "Solo abono"
+        ],
+        "respuestaCorrecta": "Agua, sol y tierra",
+        "explicacion": "Las plantas necesitan agua, luz solar y nutrientes del suelo para crecer."
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-012",
+        "tema": "Miembros de la familia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
+        "respuestaCorrecta": "Este",
+        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
+        "visual": "☀️",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-013",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "opciones": [
+          "El elefante",
+          "La ballena azul",
+          "El tiburón ballena",
+          "El hipopótamo"
+        ],
+        "respuestaCorrecta": "La ballena azul",
+        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-014",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sentido usamos para oler?",
+        "opciones": [
+          "La vista",
+          "El tacto",
+          "El olfato",
+          "El gusto"
+        ],
+        "respuestaCorrecta": "El olfato",
+        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-015",
+        "tema": "La casa y sus espacios",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
+        "respuestaCorrecta": "Este",
+        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
+        "visual": "☀️",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-016",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "opciones": [
+          "El elefante",
+          "La ballena azul",
+          "El tiburón ballena",
+          "El hipopótamo"
+        ],
+        "respuestaCorrecta": "La ballena azul",
+        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-017",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sentido usamos para oler?",
+        "opciones": [
+          "La vista",
+          "El tacto",
+          "El olfato",
+          "El gusto"
+        ],
+        "respuestaCorrecta": "El olfato",
+        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-018",
+        "tema": "Miembros de la familia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
+        "respuestaCorrecta": "Este",
+        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
+        "visual": "☀️",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b2-x-019",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "opciones": [
+          "El elefante",
+          "La ballena azul",
+          "El tiburón ballena",
+          "El hipopótamo"
+        ],
+        "respuestaCorrecta": "La ballena azul",
+        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
+        "visual": "➕",
+        "visualAnimado": true
+      }
+    ],
+    "preview": [
+      {
+        "id": "kinder-conocimiento-b2-001",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Miembros de la familia\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Miembros de la familia es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "kinder-conocimiento-b2-002",
+        "tema": "Miembros de la familia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Miembros de la familia es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "kinder-conocimiento-b2-004",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"La casa y sus espacios\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "La casa y sus espacios es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
+        "visual": "🏠",
+        "visualAnimado": true
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:11:23.999Z",
+  "version": "2.0"
+}

@@ -1,0 +1,390 @@
+{
+  "grado": "primaria-2",
+  "materia": "historia",
+  "bloque": 1,
+  "nombre": "Los primeros mexicanos",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Mexico prehispanico"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-2-historia-b1-extra-003",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el \"Benemérito de las Américas\"?",
+        "opciones": [
+          "Miguel Hidalgo",
+          "Benito Juárez",
+          "Emiliano Zapata",
+          "Porfirio Díaz"
+        ],
+        "respuestaCorrecta": "Benito Juárez",
+        "explicacion": "Benito Juárez recibió el título \"Benemérito de las Américas\" por sus reformas liberales."
+      },
+      {
+        "id": "primaria-2-historia-b1-extra-005",
+        "tema": "Mexico prehispanico",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Constitución de 1917 fue resultado de la Revolución Mexicana",
+        "respuestaCorrecta": "true",
+        "explicacion": "Sí. La Constitución de 1917 es uno de los documentos más avanzados de su época."
+      },
+      {
+        "id": "primaria-2-historia-b1-extra-007",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Segunda Guerra Mundial terminó en el año ___",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La Segunda Guerra Mundial terminó en 1945 con la rendición de Alemania y Japón."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-009",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-010",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-011",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-012",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-013",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-014",
+        "tema": "Mexico prehispanico",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-015",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-016",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-017",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-018",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-2-historia-b1-001",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En que anio fundaron los mexicas Tenochtitlan?",
+        "opciones": [
+          "1210",
+          "1325",
+          "1492",
+          "1521"
+        ],
+        "respuestaCorrecta": "1325",
+        "explicacion": "Tenochtitlan fue fundada en 1325 en una isla del lago Texcoco."
+      },
+      {
+        "id": "primaria-2-historia-b1-002",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La civilizacion maya fue famosa por inventar el concepto del ___.",
+        "respuestaCorrecta": "cero",
+        "explicacion": "Los mayas desarrollaron el concepto matematico del cero."
+      },
+      {
+        "id": "primaria-2-historia-b1-extra-004",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El \"Grito de Independencia\" se celebra el 15 de ___ de cada año",
+        "respuestaCorrecta": "septiembre",
+        "explicacion": "El 15 de septiembre se conmemora el Grito de Dolores de 1810 de Hidalgo."
+      },
+      {
+        "id": "primaria-2-historia-b1-extra-006",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué civilización construyó Tenochtitlan?",
+        "opciones": [
+          "Los mayas",
+          "Los olmecas",
+          "Los aztecas",
+          "Los toltecas"
+        ],
+        "respuestaCorrecta": "Los aztecas",
+        "explicacion": "Los mexicas (aztecas) fundaron Tenochtitlan en 1325 donde hoy es Ciudad de México."
+      },
+      {
+        "id": "primaria-2-historia-b1-extra-008",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién escribió el Plan de Ayala?",
+        "opciones": [
+          "Pancho Villa",
+          "Emiliano Zapata",
+          "Venustiano Carranza",
+          "Francisco Madero"
+        ],
+        "respuestaCorrecta": "Emiliano Zapata",
+        "explicacion": "El Plan de Ayala (1911) fue escrito por Zapata para reclamar tierras para los campesinos."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-009",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-010",
+        "tema": "Mexico prehispanico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-011",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-012",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-013",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-014",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-015",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-016",
+        "tema": "Mexico prehispanico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-017",
+        "tema": "Mexico prehispanico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "primaria-2-historia-b1-x-018",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-2-historia-b1-extra-003",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el \"Benemérito de las Américas\"?",
+        "opciones": [
+          "Miguel Hidalgo",
+          "Benito Juárez",
+          "Emiliano Zapata",
+          "Porfirio Díaz"
+        ],
+        "respuestaCorrecta": "Benito Juárez",
+        "explicacion": "Benito Juárez recibió el título \"Benemérito de las Américas\" por sus reformas liberales."
+      },
+      {
+        "id": "primaria-2-historia-b1-extra-005",
+        "tema": "Mexico prehispanico",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Constitución de 1917 fue resultado de la Revolución Mexicana",
+        "respuestaCorrecta": "true",
+        "explicacion": "Sí. La Constitución de 1917 es uno de los documentos más avanzados de su época."
+      },
+      {
+        "id": "primaria-2-historia-b1-001",
+        "tema": "Mexico prehispanico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En que anio fundaron los mexicas Tenochtitlan?",
+        "opciones": [
+          "1210",
+          "1325",
+          "1492",
+          "1521"
+        ],
+        "respuestaCorrecta": "1325",
+        "explicacion": "Tenochtitlan fue fundada en 1325 en una isla del lago Texcoco."
+      }
+    ]
+  },
+  "generado": "2026-02-27T04:04:54.104Z",
+  "version": "2.0"
+}

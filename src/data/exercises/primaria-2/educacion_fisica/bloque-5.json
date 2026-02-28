@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-2",
+  "materia": "educacion_fisica",
+  "bloque": 5,
+  "nombre": "Deportes y juegos tradicionales mexicanos",
+  "meses": "Abr-Jun",
+  "temas": [
+    "Deportes básicos",
+    "Juegos tradicionales"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2ef-b5-01",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos jugadores tiene un equipo de futbol en la cancha?",
+        "opciones": [
+          "11",
+          "5",
+          "7",
+          "15"
+        ],
+        "respuestaCorrecta": "11",
+        "explicacion": "Cada equipo tiene 11 jugadores en cancha, incluyendo el portero."
+      },
+      {
+        "id": "p2ef-b5-02",
+        "tema": "Tradicionales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la \"lotería mexicana\"?",
+        "opciones": [
+          "Un juego de mesa con cartas e imágenes típicas",
+          "Un deporte olímpico",
+          "Una clase de música",
+          "Una receta de cocina"
+        ],
+        "respuestaCorrecta": "Un juego de mesa con cartas e imágenes típicas",
+        "explicacion": "La lotería mexicana es un juego tradicional con figuras como \"El Sol\", \"La Luna\", \"El Nopal\"."
+      },
+      {
+        "id": "p2ef-b5-03",
+        "tema": "Deportes",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En el basquetbol se mete la pelota en una canasta alta",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El objetivo del basquetbol es encestar la pelota en la canasta que está alta."
+      },
+      {
+        "id": "p2ef-b5-04",
+        "tema": "Tradicionales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué juego mexicano se hace con un trompo de madera?",
+        "opciones": [
+          "El trompo: se enrolla un hilo y se lanza para que gire",
+          "Se come",
+          "Se pinta",
+          "Se rompe"
+        ],
+        "respuestaCorrecta": "El trompo: se enrolla un hilo y se lanza para que gire",
+        "explicacion": "El trompo es un juguete tradicional que gira sobre su punta cuando lo lanzamos con un hilo."
+      },
+      {
+        "id": "p2ef-b5-05",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos es un deporte de raqueta?",
+        "opciones": [
+          "Tenis",
+          "Futbol",
+          "Natación",
+          "Ciclismo"
+        ],
+        "respuestaCorrecta": "Tenis",
+        "explicacion": "El tenis usa una raqueta para golpear la pelota por encima de una red."
+      },
+      {
+        "id": "p2ef-b5-06",
+        "tema": "Tradicionales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las canicas son un juego tradicional mexicano",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Las canicas (bolitas de vidrio) se juegan en el piso tratando de golpear las de los demás."
+      },
+      {
+        "id": "p2ef-b5-07",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En la natación, ¿dónde se practica?",
+        "opciones": [
+          "En una alberca o piscina",
+          "En una cancha de futbol",
+          "En un gimnasio seco",
+          "En la calle"
+        ],
+        "respuestaCorrecta": "En una alberca o piscina",
+        "explicacion": "La natación se practica en agua: albercas, ríos o el mar con supervisión."
+      },
+      {
+        "id": "p2ef-b5-08",
+        "tema": "Tradicionales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es \"la víbora de la mar\"?",
+        "opciones": [
+          "Una ronda infantil mexicana donde los niños pasan bajo un arco de brazos",
+          "Un animal peligroso",
+          "Un tipo de comida",
+          "Un deporte olímpico"
+        ],
+        "respuestaCorrecta": "Una ronda infantil mexicana donde los niños pasan bajo un arco de brazos",
+        "explicacion": "En este juego se forma una fila y los niños pasan bajo los brazos de dos compañeros cantando."
+      },
+      {
+        "id": "p2ef-b5-09",
+        "tema": "Deportes",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El atletismo incluye carreras, saltos y lanzamientos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El atletismo es el deporte más básico: correr, saltar y lanzar en diferentes modalidades."
+      },
+      {
+        "id": "p2ef-b5-10",
+        "tema": "Tradicionales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué juego tradicional usa una cuerda larga que dos personas sostienen mientras otros saltan?",
+        "opciones": [
+          "Saltar la cuerda",
+          "Dominó",
+          "Ajedrez",
+          "Memorama"
+        ],
+        "respuestaCorrecta": "Saltar la cuerda",
+        "explicacion": "Saltar la cuerda es un juego activo excelente para la resistencia y coordinación."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p2ef-b5-01",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos jugadores tiene un equipo de futbol en la cancha?",
+        "opciones": [
+          "11",
+          "5",
+          "7",
+          "15"
+        ],
+        "respuestaCorrecta": "11",
+        "explicacion": "Cada equipo tiene 11 jugadores en cancha, incluyendo el portero."
+      },
+      {
+        "id": "p2ef-b5-02",
+        "tema": "Tradicionales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la \"lotería mexicana\"?",
+        "opciones": [
+          "Un juego de mesa con cartas e imágenes típicas",
+          "Un deporte olímpico",
+          "Una clase de música",
+          "Una receta de cocina"
+        ],
+        "respuestaCorrecta": "Un juego de mesa con cartas e imágenes típicas",
+        "explicacion": "La lotería mexicana es un juego tradicional con figuras como \"El Sol\", \"La Luna\", \"El Nopal\"."
+      }
+    ]
+  }
+}

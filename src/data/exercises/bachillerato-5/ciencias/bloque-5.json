@@ -1,0 +1,393 @@
+{
+  "grado": "bachillerato-5",
+  "materia": "ciencias",
+  "bloque": 5,
+  "nombre": "Proyecto STEM",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Método científico aplicado",
+    "Experimento propio",
+    "Informe científico",
+    "Presentación tipo congreso"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "bachillerato-5-ciencias-b5-001",
+        "tema": "Informe científico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la fórmula del agua?",
+        "opciones": [
+          "CO₂",
+          "H₂O",
+          "O₂",
+          "NaCl"
+        ],
+        "respuestaCorrecta": "H₂O",
+        "explicacion": "El agua tiene 2 átomos de Hidrógeno y 1 de Oxígeno: H₂O."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-002",
+        "tema": "Presentación tipo congreso",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La velocidad de la luz en el vacío es aproximadamente 300,000 km/s",
+        "respuestaCorrecta": "true",
+        "explicacion": "c ≈ 299,792 km/s. Se redondea a 300,000 km/s."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-003",
+        "tema": "Método científico aplicado",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "E = mc² es la ecuación de ___ de Einstein",
+        "respuestaCorrecta": "relatividad",
+        "explicacion": "E = mc² es la fórmula de equivalencia masa-energía de la Teoría de la Relatividad Especial (1905)."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-006",
+        "tema": "Método científico aplicado",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-007",
+        "tema": "Experimento propio",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-008",
+        "tema": "Informe científico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-009",
+        "tema": "Presentación tipo congreso",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-010",
+        "tema": "Método científico aplicado",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-011",
+        "tema": "Experimento propio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-012",
+        "tema": "Informe científico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-013",
+        "tema": "Presentación tipo congreso",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-014",
+        "tema": "Método científico aplicado",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-015",
+        "tema": "Experimento propio",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-016",
+        "tema": "Informe científico",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-017",
+        "tema": "Presentación tipo congreso",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      }
+    ],
+    "v2": [
+      {
+        "id": "bachillerato-5-ciencias-b5-004",
+        "tema": "Experimento propio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos cromosomas tiene una célula humana normal?",
+        "opciones": [
+          "23",
+          "46",
+          "48",
+          "92"
+        ],
+        "respuestaCorrecta": "46",
+        "explicacion": "Las células humanas diploides tienen 46 cromosomas (23 pares). Solo los gametos tienen 23."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-005",
+        "tema": "Informe científico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué ley relaciona voltaje, corriente y resistencia?",
+        "opciones": [
+          "Ley de Newton",
+          "Ley de Ohm",
+          "Ley de Faraday",
+          "Ley de Avogadro"
+        ],
+        "respuestaCorrecta": "Ley de Ohm",
+        "explicacion": "Ley de Ohm: V = I × R (Voltaje = Corriente × Resistencia)."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-006",
+        "tema": "Método científico aplicado",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-007",
+        "tema": "Experimento propio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-008",
+        "tema": "Informe científico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-009",
+        "tema": "Presentación tipo congreso",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-010",
+        "tema": "Método científico aplicado",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-011",
+        "tema": "Experimento propio",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-012",
+        "tema": "Informe científico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-013",
+        "tema": "Presentación tipo congreso",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-014",
+        "tema": "Método científico aplicado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-015",
+        "tema": "Experimento propio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-x-016",
+        "tema": "Informe científico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      }
+    ],
+    "preview": [
+      {
+        "id": "bachillerato-5-ciencias-b5-001",
+        "tema": "Informe científico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la fórmula del agua?",
+        "opciones": [
+          "CO₂",
+          "H₂O",
+          "O₂",
+          "NaCl"
+        ],
+        "respuestaCorrecta": "H₂O",
+        "explicacion": "El agua tiene 2 átomos de Hidrógeno y 1 de Oxígeno: H₂O."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-002",
+        "tema": "Presentación tipo congreso",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La velocidad de la luz en el vacío es aproximadamente 300,000 km/s",
+        "respuestaCorrecta": "true",
+        "explicacion": "c ≈ 299,792 km/s. Se redondea a 300,000 km/s."
+      },
+      {
+        "id": "bachillerato-5-ciencias-b5-004",
+        "tema": "Experimento propio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos cromosomas tiene una célula humana normal?",
+        "opciones": [
+          "23",
+          "46",
+          "48",
+          "92"
+        ],
+        "respuestaCorrecta": "46",
+        "explicacion": "Las células humanas diploides tienen 46 cromosomas (23 pares). Solo los gametos tienen 23."
+      }
+    ]
+  },
+  "generado": "2026-02-27T17:22:03.290Z",
+  "version": "3.0"
+}

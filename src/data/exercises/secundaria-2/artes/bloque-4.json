@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-2",
+  "materia": "artes",
+  "bloque": 4,
+  "nombre": "Música y danza contemporánea",
+  "meses": "Feb-Mar",
+  "temas": [
+    "Géneros musicales actuales",
+    "Danza moderna"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2art-b4-01",
+        "tema": "Música",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un género musical?",
+        "opciones": [
+          "Categoría que agrupa música con características similares",
+          "El nombre de una canción",
+          "El instrumento principal",
+          "La duración de la canción"
+        ],
+        "respuestaCorrecta": "Categoría que agrupa música con características similares",
+        "explicacion": "Rock, pop, hip-hop, reggaetón, cumbia, son géneros con estilos y ritmos propios."
+      },
+      {
+        "id": "s2art-b4-02",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué caracteriza a la danza contemporánea?",
+        "opciones": [
+          "Libertad de movimiento y expresión personal",
+          "Solo pasos clásicos de ballet",
+          "Solo folclor",
+          "No tiene técnica"
+        ],
+        "respuestaCorrecta": "Libertad de movimiento y expresión personal",
+        "explicacion": "La danza contemporánea rompe reglas del ballet clásico para explorar nuevas formas de expresión."
+      },
+      {
+        "id": "s2art-b4-03",
+        "tema": "Música",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El hip-hop incluye rap, breakdance, graffiti y DJing",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El hip-hop es una cultura con 4 elementos: MC (rap), DJ, breakdance y graffiti."
+      },
+      {
+        "id": "s2art-b4-04",
+        "tema": "Música",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué instrumento es fundamental en la música electrónica?",
+        "opciones": [
+          "Sintetizador y computadora",
+          "Solo guitarra",
+          "Solo violín",
+          "Solo flauta"
+        ],
+        "respuestaCorrecta": "Sintetizador y computadora",
+        "explicacion": "La música electrónica se crea y manipula con tecnología digital."
+      },
+      {
+        "id": "s2art-b4-05",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién es considerada la madre de la danza moderna?",
+        "opciones": [
+          "Isadora Duncan",
+          "Frida Kahlo",
+          "Martha Graham",
+          "Madonna"
+        ],
+        "respuestaCorrecta": "Isadora Duncan",
+        "explicacion": "Duncan rompió con el ballet clásico creando movimientos libres inspirados en la naturaleza."
+      },
+      {
+        "id": "s2art-b4-06",
+        "tema": "Música",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La música mexicana solo incluye mariachi",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "México tiene cumbia, banda, norteño, son jarocho, hip-hop mexicano, rock en español y más."
+      },
+      {
+        "id": "s2art-b4-07",
+        "tema": "Música",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un sample en música?",
+        "opciones": [
+          "Un fragmento de una canción existente reutilizado en una nueva",
+          "Un instrumento",
+          "Un género",
+          "Una nota musical"
+        ],
+        "respuestaCorrecta": "Un fragmento de una canción existente reutilizado en una nueva",
+        "explicacion": "El sampling toma fragmentos de grabaciones existentes para crear nueva música."
+      },
+      {
+        "id": "s2art-b4-08",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El breakdance fue incluido como deporte olímpico en:",
+        "opciones": [
+          "París 2024",
+          "Tokio 2020",
+          "Atenas 2004",
+          "Beijing 2008"
+        ],
+        "respuestaCorrecta": "París 2024",
+        "explicacion": "El breaking debutó como disciplina olímpica en los Juegos de París 2024."
+      },
+      {
+        "id": "s2art-b4-09",
+        "tema": "Música",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Componer música es una forma de expresión artística",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Componer permite expresar emociones, ideas y experiencias de forma sonora."
+      },
+      {
+        "id": "s2art-b4-10",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué la danza es importante para la salud?",
+        "opciones": [
+          "Ejercita el cuerpo, mejora la coordinación y libera endorfinas",
+          "Solo es entretenimiento",
+          "No tiene beneficios",
+          "Solo es para profesionales"
+        ],
+        "respuestaCorrecta": "Ejercita el cuerpo, mejora la coordinación y libera endorfinas",
+        "explicacion": "Bailar combina ejercicio cardiovascular con expresión emocional y socialización."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s2art-b4-01",
+        "tema": "Música",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un género musical?",
+        "opciones": [
+          "Categoría que agrupa música con características similares",
+          "El nombre de una canción",
+          "El instrumento principal",
+          "La duración de la canción"
+        ],
+        "respuestaCorrecta": "Categoría que agrupa música con características similares",
+        "explicacion": "Rock, pop, hip-hop, reggaetón, cumbia, son géneros con estilos y ritmos propios."
+      },
+      {
+        "id": "s2art-b4-02",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué caracteriza a la danza contemporánea?",
+        "opciones": [
+          "Libertad de movimiento y expresión personal",
+          "Solo pasos clásicos de ballet",
+          "Solo folclor",
+          "No tiene técnica"
+        ],
+        "respuestaCorrecta": "Libertad de movimiento y expresión personal",
+        "explicacion": "La danza contemporánea rompe reglas del ballet clásico para explorar nuevas formas de expresión."
+      }
+    ]
+  }
+}

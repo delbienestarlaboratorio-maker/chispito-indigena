@@ -1,0 +1,391 @@
+{
+  "grado": "primaria-2",
+  "materia": "espanol",
+  "bloque": 2,
+  "nombre": "Escritura correcta",
+  "meses": "Octubre-Noviembre",
+  "temas": [
+    "Uso de la b y la v",
+    "Sustantivos"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-2-espanol-b2-extra-007",
+        "tema": "Uso de la b y la v",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un sustantivo?",
+        "opciones": [
+          "Una acción",
+          "Un nombre de persona, lugar o cosa",
+          "Una descripción",
+          "Una unión de palabras"
+        ],
+        "respuestaCorrecta": "Un nombre de persona, lugar o cosa",
+        "explicacion": "Los sustantivos nombran seres, cosas y lugares: \"niño\", \"ciudad\", \"libro\"."
+      },
+      {
+        "id": "primaria-2-espanol-b2-extra-009",
+        "tema": "Uso de la b y la v",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los sinónimos tienen significados similares",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sinónimos: casa/hogar, grande/enorme, bonito/hermoso."
+      },
+      {
+        "id": "primaria-2-espanol-b2-extra-011",
+        "tema": "Uso de la b y la v",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El opuesto de \"alegre\" es ___",
+        "respuestaCorrecta": "triste",
+        "explicacion": "Los antónimos son palabras de significado opuesto: alegre/triste, grande/pequeño."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-012",
+        "tema": "Uso de la b y la v",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-013",
+        "tema": "Sustantivos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-014",
+        "tema": "Uso de la b y la v",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-015",
+        "tema": "Sustantivos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-016",
+        "tema": "Uso de la b y la v",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-017",
+        "tema": "Sustantivos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-018",
+        "tema": "Uso de la b y la v",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-019",
+        "tema": "Sustantivos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-020",
+        "tema": "Uso de la b y la v",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-2-espanol-b2-001",
+        "tema": "Uso de la b y la v",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Como se escribe el verbo: 'el nino ju_a_a en el jardin'?",
+        "opciones": [
+          "jugava",
+          "jugaba",
+          "jugaVa",
+          "jugaBa"
+        ],
+        "respuestaCorrecta": "jugaba",
+        "explicacion": "JUGABA se escribe con B: los verbos terminados en -ABA llevan B."
+      },
+      {
+        "id": "primaria-2-espanol-b2-002",
+        "tema": "Uso de la b y la v",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La palabra VACA se escribe con V.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. VACA se escribe con V. Las palabras de animales como vaca, vibora, venado llevan V."
+      },
+      {
+        "id": "primaria-2-espanol-b2-003",
+        "tema": "Uso de la b y la v",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El pez vive en el ___(agua/agva).",
+        "respuestaCorrecta": "agua",
+        "explicacion": "AGUA se escribe con GU. La V y B son distintas letras pero suenan igual en espanol."
+      },
+      {
+        "id": "primaria-2-espanol-b2-004",
+        "tema": "Sustantivos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Cual de estas palabras es un SUSTANTIVO?",
+        "opciones": [
+          "correr",
+          "bonito",
+          "mesa",
+          "rapido"
+        ],
+        "respuestaCorrecta": "mesa",
+        "explicacion": "Los sustantivos son nombres de personas, animales o cosas. Mesa es el nombre de una cosa."
+      },
+      {
+        "id": "primaria-2-espanol-b2-005",
+        "tema": "Sustantivos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "PERRO es un sustantivo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Si! PERRO es el nombre de un animal, por eso es un sustantivo."
+      },
+      {
+        "id": "primaria-2-espanol-b2-006",
+        "tema": "Sustantivos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Cual es el sustantivo en: La nina corre rapido.",
+        "opciones": [
+          "La",
+          "nina",
+          "corre",
+          "rapido"
+        ],
+        "respuestaCorrecta": "nina",
+        "explicacion": "Nina es el nombre de una persona = sustantivo."
+      },
+      {
+        "id": "primaria-2-espanol-b2-extra-008",
+        "tema": "Sustantivos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La palabra \"correr\" es un ___",
+        "respuestaCorrecta": "verbo",
+        "explicacion": "Los verbos expresan acciones: correr, saltar, estudiar, comer."
+      },
+      {
+        "id": "primaria-2-espanol-b2-extra-010",
+        "tema": "Sustantivos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Rápidamente\" es un...",
+        "opciones": [
+          "Sustantivo",
+          "Verbo",
+          "Adjetivo",
+          "Adverbio"
+        ],
+        "respuestaCorrecta": "Adverbio",
+        "explicacion": "Los adverbios modifican al verbo, adjetivo u otro adverbio. \"Rápidamente\" modifica cómo se hace algo."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-012",
+        "tema": "Uso de la b y la v",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-013",
+        "tema": "Sustantivos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-014",
+        "tema": "Uso de la b y la v",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-015",
+        "tema": "Sustantivos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-016",
+        "tema": "Uso de la b y la v",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-017",
+        "tema": "Sustantivos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-018",
+        "tema": "Uso de la b y la v",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-2-espanol-b2-x-019",
+        "tema": "Sustantivos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-2-espanol-b2-extra-007",
+        "tema": "Uso de la b y la v",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un sustantivo?",
+        "opciones": [
+          "Una acción",
+          "Un nombre de persona, lugar o cosa",
+          "Una descripción",
+          "Una unión de palabras"
+        ],
+        "respuestaCorrecta": "Un nombre de persona, lugar o cosa",
+        "explicacion": "Los sustantivos nombran seres, cosas y lugares: \"niño\", \"ciudad\", \"libro\"."
+      },
+      {
+        "id": "primaria-2-espanol-b2-extra-009",
+        "tema": "Uso de la b y la v",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los sinónimos tienen significados similares",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sinónimos: casa/hogar, grande/enorme, bonito/hermoso."
+      },
+      {
+        "id": "primaria-2-espanol-b2-001",
+        "tema": "Uso de la b y la v",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Como se escribe el verbo: 'el nino ju_a_a en el jardin'?",
+        "opciones": [
+          "jugava",
+          "jugaba",
+          "jugaVa",
+          "jugaBa"
+        ],
+        "respuestaCorrecta": "jugaba",
+        "explicacion": "JUGABA se escribe con B: los verbos terminados en -ABA llevan B."
+      }
+    ]
+  },
+  "generado": "2026-02-27T04:04:54.098Z",
+  "version": "2.0"
+}

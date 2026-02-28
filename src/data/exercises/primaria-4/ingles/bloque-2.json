@@ -1,0 +1,195 @@
+{
+  "grado": "primaria-4",
+  "materia": "ingles",
+  "bloque": 2,
+  "nombre": "My house and prepositions",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Rooms",
+    "Prepositions of place"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p4en-b2-01",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Kitchen\" means:",
+        "opciones": [
+          "Cocina",
+          "Sala",
+          "Baño",
+          "Recámara"
+        ],
+        "respuestaCorrecta": "Cocina",
+        "explicacion": "Kitchen = cocina, donde se preparan los alimentos."
+      },
+      {
+        "id": "p4en-b2-02",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Bedroom\" means:",
+        "opciones": [
+          "Recámara",
+          "Sala",
+          "Cocina",
+          "Jardín"
+        ],
+        "respuestaCorrecta": "Recámara",
+        "explicacion": "Bedroom = recámara, habitación o cuarto para dormir."
+      },
+      {
+        "id": "p4en-b2-03",
+        "tema": "Casa",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Bathroom\" means comedor",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Bathroom = baño. Dining room = comedor."
+      },
+      {
+        "id": "p4en-b2-04",
+        "tema": "Preposiciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"The cat is ON the table\" — on means:",
+        "opciones": [
+          "Encima de",
+          "Debajo de",
+          "Dentro de",
+          "Junto a"
+        ],
+        "respuestaCorrecta": "Encima de",
+        "explicacion": "On = sobre, encima de."
+      },
+      {
+        "id": "p4en-b2-05",
+        "tema": "Preposiciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"The ball is IN the box\" — in means:",
+        "opciones": [
+          "Dentro de",
+          "Encima de",
+          "Detrás de",
+          "Frente a"
+        ],
+        "respuestaCorrecta": "Dentro de",
+        "explicacion": "In = dentro de, en el interior."
+      },
+      {
+        "id": "p4en-b2-06",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Living room\" means:",
+        "opciones": [
+          "Sala",
+          "Jardín",
+          "Garaje",
+          "Cuarto"
+        ],
+        "respuestaCorrecta": "Sala",
+        "explicacion": "Living room = sala de estar."
+      },
+      {
+        "id": "p4en-b2-07",
+        "tema": "Preposiciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Under\" means debajo de",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Under = debajo de. The cat is under the bed = El gato está debajo de la cama."
+      },
+      {
+        "id": "p4en-b2-08",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Garden\" means:",
+        "opciones": [
+          "Jardín",
+          "Cuarto",
+          "Cocina",
+          "Baño"
+        ],
+        "respuestaCorrecta": "Jardín",
+        "explicacion": "Garden = jardín."
+      },
+      {
+        "id": "p4en-b2-09",
+        "tema": "Preposiciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Next to\" means:",
+        "opciones": [
+          "Al lado de",
+          "Encima de",
+          "Dentro de",
+          "Lejos de"
+        ],
+        "respuestaCorrecta": "Al lado de",
+        "explicacion": "Next to = al lado de, junto a."
+      },
+      {
+        "id": "p4en-b2-10",
+        "tema": "Preposiciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Behind the door\" means:",
+        "opciones": [
+          "Detrás de la puerta",
+          "Frente a la puerta",
+          "Encima de la puerta",
+          "Dentro de la puerta"
+        ],
+        "respuestaCorrecta": "Detrás de la puerta",
+        "explicacion": "Behind = detrás de."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p4en-b2-01",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Kitchen\" means:",
+        "opciones": [
+          "Cocina",
+          "Sala",
+          "Baño",
+          "Recámara"
+        ],
+        "respuestaCorrecta": "Cocina",
+        "explicacion": "Kitchen = cocina, donde se preparan los alimentos."
+      },
+      {
+        "id": "p4en-b2-02",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Bedroom\" means:",
+        "opciones": [
+          "Recámara",
+          "Sala",
+          "Cocina",
+          "Jardín"
+        ],
+        "respuestaCorrecta": "Recámara",
+        "explicacion": "Bedroom = recámara, habitación o cuarto para dormir."
+      }
+    ]
+  }
+}

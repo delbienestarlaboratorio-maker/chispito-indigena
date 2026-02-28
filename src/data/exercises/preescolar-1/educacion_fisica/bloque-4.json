@@ -1,0 +1,196 @@
+{
+  "grado": "preescolar-1",
+  "materia": "educacion_fisica",
+  "bloque": 4,
+  "nombre": "Soy saludable",
+  "meses": "Feb-Mar",
+  "temas": [
+    "Hábitos saludables",
+    "Higiene"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "preescolar1ef-b4-01",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué lavamos las manos?",
+        "opciones": [
+          "Para quitar gérmenes",
+          "Para que brillen",
+          "Para que no crezcan",
+          "Para dormir"
+        ],
+        "respuestaCorrecta": "Para quitar gérmenes",
+        "explicacion": "Lavarse las manos con jabón elimina los gérmenes que nos enferman.",
+        "visual": "🧼"
+      },
+      {
+        "id": "preescolar1ef-b4-02",
+        "tema": "Salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las frutas y verduras nos ayudan a crecer sanos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Tienen vitaminas y minerales esenciales para nuestro cuerpo."
+      },
+      {
+        "id": "preescolar1ef-b4-03",
+        "tema": "Higiene",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas veces debemos lavarnos los dientes?",
+        "opciones": [
+          "3 veces al día",
+          "1 vez por semana",
+          "Nunca",
+          "Solo de noche"
+        ],
+        "respuestaCorrecta": "3 veces al día",
+        "explicacion": "Después de cada comida: desayuno, comida y cena.",
+        "visual": "🦷"
+      },
+      {
+        "id": "preescolar1ef-b4-04",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas horas deben dormir niños de preescolar?",
+        "opciones": [
+          "10 a 13 horas",
+          "3 horas",
+          "24 horas",
+          "5 horas"
+        ],
+        "respuestaCorrecta": "10 a 13 horas",
+        "explicacion": "Los niños pequeños necesitan más horas de sueño para crecer y aprender.",
+        "visual": "😴"
+      },
+      {
+        "id": "preescolar1ef-b4-05",
+        "tema": "Salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Beber agua es importante cada día",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El agua es esencial para que todo el cuerpo funcione bien."
+      },
+      {
+        "id": "preescolar1ef-b4-06",
+        "tema": "Higiene",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo debemos lavarnos las manos?",
+        "opciones": [
+          "Antes de comer y después del baño",
+          "Solo cuando están sucias",
+          "Una vez al día",
+          "Nunca"
+        ],
+        "respuestaCorrecta": "Antes de comer y después del baño",
+        "explicacion": "Estos son los momentos más importantes para prevenir enfermedades.",
+        "visual": "🚿"
+      },
+      {
+        "id": "preescolar1ef-b4-07",
+        "tema": "Salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El ejercicio ayuda a dormir mejor",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Activarse durante el día mejora la calidad del sueño nocturno."
+      },
+      {
+        "id": "preescolar1ef-b4-08",
+        "tema": "Higiene",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo cubrimos al estornudar?",
+        "opciones": [
+          "Con el codo",
+          "Con la mano abierta",
+          "Con nada",
+          "Con la mano de otro"
+        ],
+        "respuestaCorrecta": "Con el codo",
+        "explicacion": "El codo evita que los gérmenes queden en la mano y se propaguen.",
+        "visual": "🤧"
+      },
+      {
+        "id": "preescolar1ef-b4-09",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué alimento da energía real y duradera?",
+        "opciones": [
+          "Frutas y verduras",
+          "Dulces y refrescos",
+          "Solo agua",
+          "Frituras"
+        ],
+        "respuestaCorrecta": "Frutas y verduras",
+        "explicacion": "Los azúcares naturales de frutas y verduras dan energía sostenida.",
+        "visual": "🍎"
+      },
+      {
+        "id": "preescolar1ef-b4-10",
+        "tema": "Salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Comer dulces en exceso es bueno para los dientes",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "El exceso de azúcar daña el esmalte dental y provoca caries."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "preescolar1ef-b4-01",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué lavamos las manos?",
+        "opciones": [
+          "Para quitar gérmenes",
+          "Para que brillen",
+          "Para que no crezcan",
+          "Para dormir"
+        ],
+        "respuestaCorrecta": "Para quitar gérmenes",
+        "explicacion": "Lavarse las manos con jabón elimina los gérmenes que nos enferman.",
+        "visual": "🧼"
+      },
+      {
+        "id": "preescolar1ef-b4-02",
+        "tema": "Salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las frutas y verduras nos ayudan a crecer sanos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Tienen vitaminas y minerales esenciales para nuestro cuerpo."
+      }
+    ]
+  }
+}

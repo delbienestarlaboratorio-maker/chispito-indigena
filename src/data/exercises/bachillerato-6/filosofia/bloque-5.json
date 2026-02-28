@@ -1,0 +1,393 @@
+{
+  "grado": "bachillerato-6",
+  "materia": "filosofia",
+  "bloque": 5,
+  "nombre": "Examen recepcional filosófico",
+  "meses": "Jun",
+  "temas": [
+    "Síntesis de 3 años",
+    "Defensa de tesis filosófica",
+    "Diálogo con el jurado",
+    "Graduación reflexiva"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "bachillerato-6-filosofia-b5-001",
+        "tema": "Diálogo con el jurado",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién dijo \"Cogito, ergo sum\" (Pienso, luego existo)?",
+        "opciones": [
+          "Platón",
+          "Aristóteles",
+          "Descartes",
+          "Kant"
+        ],
+        "respuestaCorrecta": "Descartes",
+        "explicacion": "René Descartes (1596-1650) escribió \"Cogito, ergo sum\" en el \"Discurso del Método\" (1637)."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-002",
+        "tema": "Graduación reflexiva",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El imperativo categórico de Kant dice: \"Actúa solo según aquella máxima que puedas querer que sea una ___ universal\"",
+        "respuestaCorrecta": "ley",
+        "explicacion": "El imperativo categórico de Kant: actúa como si tu acción debiera ser una ley universal: ética deontológica."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-003",
+        "tema": "Síntesis de 3 años",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"El fin justifica los medios\" es una máxima de Maquiavelo",
+        "respuestaCorrecta": "true",
+        "explicacion": "Aunque no es cita textual, resume el pensamiento de Maquiavelo en \"El Príncipe\" (1532): el poder político justifica cualquier medio."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-006",
+        "tema": "Síntesis de 3 años",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-007",
+        "tema": "Defensa de tesis filosófica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-008",
+        "tema": "Diálogo con el jurado",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-009",
+        "tema": "Graduación reflexiva",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-010",
+        "tema": "Síntesis de 3 años",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-011",
+        "tema": "Defensa de tesis filosófica",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-012",
+        "tema": "Diálogo con el jurado",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-013",
+        "tema": "Graduación reflexiva",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-014",
+        "tema": "Síntesis de 3 años",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-015",
+        "tema": "Defensa de tesis filosófica",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-016",
+        "tema": "Diálogo con el jurado",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-017",
+        "tema": "Graduación reflexiva",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      }
+    ],
+    "v2": [
+      {
+        "id": "bachillerato-6-filosofia-b5-004",
+        "tema": "Defensa de tesis filosófica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué filósofo está asociado con el existencialismo?",
+        "opciones": [
+          "Platón",
+          "Jean-Paul Sartre",
+          "Santo Tomás",
+          "Leibniz"
+        ],
+        "respuestaCorrecta": "Jean-Paul Sartre",
+        "explicacion": "Sartre (1905-1980) es el mayor exponente del existencialismo: \"la existencia precede a la esencia\"."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-005",
+        "tema": "Diálogo con el jurado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La falacia \"Ad Hominem\" consiste en...",
+        "opciones": [
+          "Atacar el argumento",
+          "Atacar a la persona en vez del argumento",
+          "Apelar a la autoridad",
+          "Generalizar casos aislados"
+        ],
+        "respuestaCorrecta": "Atacar a la persona en vez del argumento",
+        "explicacion": "Ad hominem = ataque personal que ignora el argumento. Es una falacia porque no refuta la idea."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-006",
+        "tema": "Síntesis de 3 años",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-007",
+        "tema": "Defensa de tesis filosófica",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-008",
+        "tema": "Diálogo con el jurado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-009",
+        "tema": "Graduación reflexiva",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-010",
+        "tema": "Síntesis de 3 años",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-011",
+        "tema": "Defensa de tesis filosófica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-012",
+        "tema": "Diálogo con el jurado",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-013",
+        "tema": "Graduación reflexiva",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-014",
+        "tema": "Síntesis de 3 años",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-015",
+        "tema": "Defensa de tesis filosófica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-x-016",
+        "tema": "Diálogo con el jurado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "bachillerato-6-filosofia-b5-001",
+        "tema": "Diálogo con el jurado",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién dijo \"Cogito, ergo sum\" (Pienso, luego existo)?",
+        "opciones": [
+          "Platón",
+          "Aristóteles",
+          "Descartes",
+          "Kant"
+        ],
+        "respuestaCorrecta": "Descartes",
+        "explicacion": "René Descartes (1596-1650) escribió \"Cogito, ergo sum\" en el \"Discurso del Método\" (1637)."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-002",
+        "tema": "Graduación reflexiva",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El imperativo categórico de Kant dice: \"Actúa solo según aquella máxima que puedas querer que sea una ___ universal\"",
+        "respuestaCorrecta": "ley",
+        "explicacion": "El imperativo categórico de Kant: actúa como si tu acción debiera ser una ley universal: ética deontológica."
+      },
+      {
+        "id": "bachillerato-6-filosofia-b5-004",
+        "tema": "Defensa de tesis filosófica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué filósofo está asociado con el existencialismo?",
+        "opciones": [
+          "Platón",
+          "Jean-Paul Sartre",
+          "Santo Tomás",
+          "Leibniz"
+        ],
+        "respuestaCorrecta": "Jean-Paul Sartre",
+        "explicacion": "Sartre (1905-1980) es el mayor exponente del existencialismo: \"la existencia precede a la esencia\"."
+      }
+    ]
+  },
+  "generado": "2026-02-27T17:22:03.332Z",
+  "version": "3.0"
+}

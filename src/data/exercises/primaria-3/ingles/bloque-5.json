@@ -1,0 +1,195 @@
+{
+  "grado": "primaria-3",
+  "materia": "ingles",
+  "bloque": 5,
+  "nombre": "Food and body",
+  "meses": "Abr-Jun",
+  "temas": [
+    "Food vocabulary",
+    "Body parts"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3en-b5-01",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Apple\" means:",
+        "opciones": [
+          "Manzana",
+          "Naranja",
+          "Plátano",
+          "Uva"
+        ],
+        "respuestaCorrecta": "Manzana",
+        "explicacion": "Apple = manzana."
+      },
+      {
+        "id": "p3en-b5-02",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Water\" means:",
+        "opciones": [
+          "Agua",
+          "Leche",
+          "Jugo",
+          "Refresco"
+        ],
+        "respuestaCorrecta": "Agua",
+        "explicacion": "Water = agua."
+      },
+      {
+        "id": "p3en-b5-03",
+        "tema": "Comida",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Bread\" means arroz",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Bread = pan. Rice = arroz."
+      },
+      {
+        "id": "p3en-b5-04",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Head\" means:",
+        "opciones": [
+          "Cabeza",
+          "Mano",
+          "Pie",
+          "Rodilla"
+        ],
+        "respuestaCorrecta": "Cabeza",
+        "explicacion": "Head = cabeza."
+      },
+      {
+        "id": "p3en-b5-05",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Hand\" means:",
+        "opciones": [
+          "Mano",
+          "Pie",
+          "Brazo",
+          "Pierna"
+        ],
+        "respuestaCorrecta": "Mano",
+        "explicacion": "Hand = mano. Foot = pie."
+      },
+      {
+        "id": "p3en-b5-06",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Milk\" means:",
+        "opciones": [
+          "Leche",
+          "Agua",
+          "Jugo",
+          "Té"
+        ],
+        "respuestaCorrecta": "Leche",
+        "explicacion": "Milk = leche."
+      },
+      {
+        "id": "p3en-b5-07",
+        "tema": "Cuerpo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Eyes\" are used to see",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Eyes = ojos. Usamos los ojos para ver."
+      },
+      {
+        "id": "p3en-b5-08",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I am hungry\" means:",
+        "opciones": [
+          "Tengo hambre",
+          "Tengo sed",
+          "Tengo sueño",
+          "Tengo frío"
+        ],
+        "respuestaCorrecta": "Tengo hambre",
+        "explicacion": "Hungry = hambriento. I am hungry = tengo hambre."
+      },
+      {
+        "id": "p3en-b5-09",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Nose\" means:",
+        "opciones": [
+          "Nariz",
+          "Boca",
+          "Oído",
+          "Ojo"
+        ],
+        "respuestaCorrecta": "Nariz",
+        "explicacion": "Nose = nariz."
+      },
+      {
+        "id": "p3en-b5-10",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Orange\" (fruit) in Spanish is:",
+        "opciones": [
+          "Naranja",
+          "Manzana",
+          "Pera",
+          "Limón"
+        ],
+        "respuestaCorrecta": "Naranja",
+        "explicacion": "Orange = naranja (fruta y color)."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p3en-b5-01",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Apple\" means:",
+        "opciones": [
+          "Manzana",
+          "Naranja",
+          "Plátano",
+          "Uva"
+        ],
+        "respuestaCorrecta": "Manzana",
+        "explicacion": "Apple = manzana."
+      },
+      {
+        "id": "p3en-b5-02",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Water\" means:",
+        "opciones": [
+          "Agua",
+          "Leche",
+          "Jugo",
+          "Refresco"
+        ],
+        "respuestaCorrecta": "Agua",
+        "explicacion": "Water = agua."
+      }
+    ]
+  }
+}

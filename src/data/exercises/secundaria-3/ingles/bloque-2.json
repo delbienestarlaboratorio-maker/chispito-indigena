@@ -1,0 +1,387 @@
+{
+  "grado": "secundaria-3",
+  "materia": "ingles",
+  "bloque": 2,
+  "nombre": "Rights and Responsibilities",
+  "meses": "Octubre-Noviembre",
+  "temas": [
+    "Human rights vocabulary",
+    "Modal verbs (should/ought to)",
+    "Expressing obligation",
+    "Civic discourse"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-3-ingles-b2-001",
+        "tema": "Modal verbs (should/ought to)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"The wheel was invented by humans.\" ¿Qué forma verbal usa?",
+        "opciones": [
+          "Activa",
+          "Pasiva",
+          "Progresiva",
+          "Perfecta"
+        ],
+        "respuestaCorrecta": "Pasiva",
+        "explicacion": "Passive voice: Subject + was/were + past participle. \"Was invented\" = voz pasiva."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-002",
+        "tema": "Expressing obligation",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "If I had more time, I ___ study more. (Condicional 2)",
+        "respuestaCorrecta": "would",
+        "explicacion": "Conditional type 2: \"If + past simple, would + infinitive\". For hypothetical situations."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-003",
+        "tema": "Civic discourse",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I have lived in Mexico for 15 years.\" ¿Qué tiempo es?",
+        "opciones": [
+          "Past simple",
+          "Present perfect",
+          "Future",
+          "Past continuous"
+        ],
+        "respuestaCorrecta": "Present perfect",
+        "explicacion": "\"Have/has + past participle\" = Present perfect. It connects past to present: \"I have lived here...\""
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-006",
+        "tema": "Human rights vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-007",
+        "tema": "Modal verbs (should/ought to)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-008",
+        "tema": "Expressing obligation",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-009",
+        "tema": "Civic discourse",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-010",
+        "tema": "Human rights vocabulary",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-011",
+        "tema": "Modal verbs (should/ought to)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-012",
+        "tema": "Expressing obligation",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-013",
+        "tema": "Civic discourse",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-014",
+        "tema": "Human rights vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-015",
+        "tema": "Modal verbs (should/ought to)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-016",
+        "tema": "Expressing obligation",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-017",
+        "tema": "Civic discourse",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-3-ingles-b2-004",
+        "tema": "Human rights vocabulary",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "A job interview often starts with \"Tell me about yourself\"",
+        "respuestaCorrecta": "true",
+        "explicacion": "\"Tell me about yourself\" is a classic opener in English job interviews."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-005",
+        "tema": "Modal verbs (should/ought to)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el significado de \"career\"?",
+        "opciones": [
+          "Auto de carreras",
+          "Trayectoria profesional",
+          "Carretera",
+          "Correr"
+        ],
+        "respuestaCorrecta": "Trayectoria profesional",
+        "explicacion": "\"Career\" = carrera profesional/trayectoria. Not \"carretera\" (that's highway) or \"carro\" (car)."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-006",
+        "tema": "Human rights vocabulary",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-007",
+        "tema": "Modal verbs (should/ought to)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-008",
+        "tema": "Expressing obligation",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-009",
+        "tema": "Civic discourse",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-010",
+        "tema": "Human rights vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-011",
+        "tema": "Modal verbs (should/ought to)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-012",
+        "tema": "Expressing obligation",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-013",
+        "tema": "Civic discourse",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-014",
+        "tema": "Human rights vocabulary",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-015",
+        "tema": "Modal verbs (should/ought to)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-x-016",
+        "tema": "Expressing obligation",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-3-ingles-b2-001",
+        "tema": "Modal verbs (should/ought to)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"The wheel was invented by humans.\" ¿Qué forma verbal usa?",
+        "opciones": [
+          "Activa",
+          "Pasiva",
+          "Progresiva",
+          "Perfecta"
+        ],
+        "respuestaCorrecta": "Pasiva",
+        "explicacion": "Passive voice: Subject + was/were + past participle. \"Was invented\" = voz pasiva."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-002",
+        "tema": "Expressing obligation",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "If I had more time, I ___ study more. (Condicional 2)",
+        "respuestaCorrecta": "would",
+        "explicacion": "Conditional type 2: \"If + past simple, would + infinitive\". For hypothetical situations."
+      },
+      {
+        "id": "secundaria-3-ingles-b2-004",
+        "tema": "Human rights vocabulary",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "A job interview often starts with \"Tell me about yourself\"",
+        "respuestaCorrecta": "true",
+        "explicacion": "\"Tell me about yourself\" is a classic opener in English job interviews."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:46:14.158Z",
+  "version": "2.0"
+}

@@ -1,0 +1,194 @@
+{
+  "grado": "primaria-6",
+  "materia": "educacion_fisica",
+  "bloque": 4,
+  "nombre": "Liderazgo y organización deportiva",
+  "meses": "Feb-Mar",
+  "temas": [
+    "Liderazgo",
+    "Arbitraje",
+    "Organización de torneos"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p6ef-b4-01",
+        "tema": "Liderazgo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un líder deportivo?",
+        "opciones": [
+          "Alguien que motiva y guía al equipo con el ejemplo",
+          "El que grita más",
+          "El más fuerte",
+          "El más alto"
+        ],
+        "respuestaCorrecta": "Alguien que motiva y guía al equipo con el ejemplo",
+        "explicacion": "Un buen líder inspira, comunica y da el ejemplo con su actitud y esfuerzo."
+      },
+      {
+        "id": "p6ef-b4-02",
+        "tema": "Arbitraje",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la función principal del árbitro?",
+        "opciones": [
+          "Hacer cumplir las reglas del deporte con imparcialidad",
+          "Ayudar a un equipo a ganar",
+          "Solo pitar",
+          "Jugar también"
+        ],
+        "respuestaCorrecta": "Hacer cumplir las reglas del deporte con imparcialidad",
+        "explicacion": "El árbitro es imparcial: no favorece a ningún equipo y aplica las reglas para todos."
+      },
+      {
+        "id": "p6ef-b4-03",
+        "tema": "Organización",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un torneo necesita reglas claras, horarios y equipos organizados",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La organización previa es fundamental para que un torneo sea exitoso y justo."
+      },
+      {
+        "id": "p6ef-b4-04",
+        "tema": "Liderazgo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Un buen capitán de equipo debe:",
+        "opciones": [
+          "Motivar, comunicar y dar el ejemplo",
+          "Solo regañar",
+          "Jugar mejor que todos",
+          "No hablar con nadie"
+        ],
+        "respuestaCorrecta": "Motivar, comunicar y dar el ejemplo",
+        "explicacion": "El capitán es el puente entre el equipo y el entrenador, y lidera con su actitud."
+      },
+      {
+        "id": "p6ef-b4-05",
+        "tema": "Organización",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un \"rol de juegos\" en un torneo?",
+        "opciones": [
+          "La tabla con fechas, horarios y enfrentamientos",
+          "El nombre del trofeo",
+          "La lista de comidas",
+          "El reglamento completo"
+        ],
+        "respuestaCorrecta": "La tabla con fechas, horarios y enfrentamientos",
+        "explicacion": "El rol de juegos organiza qué equipos juegan, cuándo y dónde."
+      },
+      {
+        "id": "p6ef-b4-06",
+        "tema": "Arbitraje",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El árbitro puede equivocarse y debemos respetar su decisión",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Aunque el árbitro cometa errores, debemos respetar sus decisiones. Es parte del juego."
+      },
+      {
+        "id": "p6ef-b4-07",
+        "tema": "Liderazgo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hace un buen líder cuando el equipo pierde?",
+        "opciones": [
+          "Analiza qué se puede mejorar y motiva al equipo",
+          "Culpa a los demás",
+          "Se rinde",
+          "Se enoja con todos"
+        ],
+        "respuestaCorrecta": "Analiza qué se puede mejorar y motiva al equipo",
+        "explicacion": "El liderazgo se demuestra más en la derrota que en la victoria."
+      },
+      {
+        "id": "p6ef-b4-08",
+        "tema": "Organización",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué aprendemos al organizar un evento deportivo?",
+        "opciones": [
+          "Planificación, trabajo en equipo y responsabilidad",
+          "Nada",
+          "Solo a jugar",
+          "Solo a ganar"
+        ],
+        "respuestaCorrecta": "Planificación, trabajo en equipo y responsabilidad",
+        "explicacion": "Organizar eventos desarrolla habilidades de gestión y colaboración."
+      },
+      {
+        "id": "p6ef-b4-09",
+        "tema": "Arbitraje",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Conocer las reglas del deporte nos hace mejores jugadores y jueces",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Saber las reglas permite jugar limpio y comprender las decisiones arbitrales."
+      },
+      {
+        "id": "p6ef-b4-10",
+        "tema": "Liderazgo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto entre compañeros se construye con:",
+        "opciones": [
+          "Comunicación, apoyo mutuo y fair play",
+          "Solo ganando",
+          "Solo siendo el mejor",
+          "Ignorando a los demás"
+        ],
+        "respuestaCorrecta": "Comunicación, apoyo mutuo y fair play",
+        "explicacion": "El respeto se gana con acciones consistentes de apoyo y juego limpio."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p6ef-b4-01",
+        "tema": "Liderazgo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un líder deportivo?",
+        "opciones": [
+          "Alguien que motiva y guía al equipo con el ejemplo",
+          "El que grita más",
+          "El más fuerte",
+          "El más alto"
+        ],
+        "respuestaCorrecta": "Alguien que motiva y guía al equipo con el ejemplo",
+        "explicacion": "Un buen líder inspira, comunica y da el ejemplo con su actitud y esfuerzo."
+      },
+      {
+        "id": "p6ef-b4-02",
+        "tema": "Arbitraje",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la función principal del árbitro?",
+        "opciones": [
+          "Hacer cumplir las reglas del deporte con imparcialidad",
+          "Ayudar a un equipo a ganar",
+          "Solo pitar",
+          "Jugar también"
+        ],
+        "respuestaCorrecta": "Hacer cumplir las reglas del deporte con imparcialidad",
+        "explicacion": "El árbitro es imparcial: no favorece a ningún equipo y aplica las reglas para todos."
+      }
+    ]
+  }
+}

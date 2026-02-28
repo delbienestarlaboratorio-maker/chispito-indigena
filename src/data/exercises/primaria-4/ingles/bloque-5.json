@@ -1,0 +1,195 @@
+{
+  "grado": "primaria-4",
+  "materia": "ingles",
+  "bloque": 5,
+  "nombre": "Weather and seasons",
+  "meses": "Abr-Jun",
+  "temas": [
+    "Seasons",
+    "Weather"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p4en-b5-01",
+        "tema": "Estaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Summer\" means:",
+        "opciones": [
+          "Verano",
+          "Invierno",
+          "Primavera",
+          "Otoño"
+        ],
+        "respuestaCorrecta": "Verano",
+        "explicacion": "Summer = verano, la estación más calurosa."
+      },
+      {
+        "id": "p4en-b5-02",
+        "tema": "Estaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Winter\" means:",
+        "opciones": [
+          "Invierno",
+          "Verano",
+          "Otoño",
+          "Primavera"
+        ],
+        "respuestaCorrecta": "Invierno",
+        "explicacion": "Winter = invierno, la estación más fría."
+      },
+      {
+        "id": "p4en-b5-03",
+        "tema": "Clima",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"It is raining\" means está lloviendo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "It is raining = está lloviendo (presente continuo)."
+      },
+      {
+        "id": "p4en-b5-04",
+        "tema": "Clima",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"It is sunny\" means:",
+        "opciones": [
+          "Hace sol",
+          "Está lloviendo",
+          "Hace frío",
+          "Está nublado"
+        ],
+        "respuestaCorrecta": "Hace sol",
+        "explicacion": "Sunny = soleado. It is sunny = hace sol."
+      },
+      {
+        "id": "p4en-b5-05",
+        "tema": "Estaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Spring\" means:",
+        "opciones": [
+          "Primavera",
+          "Verano",
+          "Otoño",
+          "Invierno"
+        ],
+        "respuestaCorrecta": "Primavera",
+        "explicacion": "Spring = primavera."
+      },
+      {
+        "id": "p4en-b5-06",
+        "tema": "Clima",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Cold\" means:",
+        "opciones": [
+          "Frío",
+          "Calor",
+          "Tibio",
+          "Húmedo"
+        ],
+        "respuestaCorrecta": "Frío",
+        "explicacion": "Cold = frío. Hot = caliente/caluroso."
+      },
+      {
+        "id": "p4en-b5-07",
+        "tema": "Estaciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Fall\" and \"Autumn\" both mean otoño",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Fall (americano) y Autumn (británico) = otoño."
+      },
+      {
+        "id": "p4en-b5-08",
+        "tema": "Clima",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Cloudy\" means:",
+        "opciones": [
+          "Nublado",
+          "Lluvioso",
+          "Soleado",
+          "Ventoso"
+        ],
+        "respuestaCorrecta": "Nublado",
+        "explicacion": "Cloudy = nublado, con muchas nubes en el cielo."
+      },
+      {
+        "id": "p4en-b5-09",
+        "tema": "Clima",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Wind\" means:",
+        "opciones": [
+          "Viento",
+          "Lluvia",
+          "Nieve",
+          "Sol"
+        ],
+        "respuestaCorrecta": "Viento",
+        "explicacion": "Wind = viento. Windy = ventoso."
+      },
+      {
+        "id": "p4en-b5-10",
+        "tema": "Clima",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"It is hot\" means:",
+        "opciones": [
+          "Hace calor",
+          "Hace frío",
+          "Está lloviendo",
+          "Hay niebla"
+        ],
+        "respuestaCorrecta": "Hace calor",
+        "explicacion": "Hot = caliente/caluroso."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p4en-b5-01",
+        "tema": "Estaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Summer\" means:",
+        "opciones": [
+          "Verano",
+          "Invierno",
+          "Primavera",
+          "Otoño"
+        ],
+        "respuestaCorrecta": "Verano",
+        "explicacion": "Summer = verano, la estación más calurosa."
+      },
+      {
+        "id": "p4en-b5-02",
+        "tema": "Estaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Winter\" means:",
+        "opciones": [
+          "Invierno",
+          "Verano",
+          "Otoño",
+          "Primavera"
+        ],
+        "respuestaCorrecta": "Invierno",
+        "explicacion": "Winter = invierno, la estación más fría."
+      }
+    ]
+  }
+}

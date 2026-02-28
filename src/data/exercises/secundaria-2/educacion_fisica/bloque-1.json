@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-2",
+  "materia": "educacion_fisica",
+  "bloque": 1,
+  "nombre": "Condición física y entrenamiento",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Test de condición",
+    "Principios del entrenamiento"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2ef-b1-01",
+        "tema": "Test",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué mide el test de Cooper?",
+        "opciones": [
+          "La resistencia aeróbica (distancia en 12 minutos)",
+          "La fuerza máxima",
+          "La velocidad de reacción",
+          "La flexibilidad"
+        ],
+        "respuestaCorrecta": "La resistencia aeróbica (distancia en 12 minutos)",
+        "explicacion": "En el test de Cooper se corre durante 12 minutos y se mide la distancia recorrida."
+      },
+      {
+        "id": "s2ef-b1-02",
+        "tema": "Principios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el principio de sobrecarga progresiva?",
+        "opciones": [
+          "Aumentar gradualmente la dificultad del ejercicio",
+          "Hacer siempre lo mismo",
+          "Reducir el ejercicio",
+          "No entrenar"
+        ],
+        "respuestaCorrecta": "Aumentar gradualmente la dificultad del ejercicio",
+        "explicacion": "Para mejorar, debemos exigir un poco más al cuerpo de forma gradual y segura."
+      },
+      {
+        "id": "s2ef-b1-03",
+        "tema": "Entrenamiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El principio de especificidad dice que mejoramos en lo que practicamos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Si practicas natación, mejorarás en natación. El cuerpo se adapta al tipo de ejercicio."
+      },
+      {
+        "id": "s2ef-b1-04",
+        "tema": "Test",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué mide la prueba de flexibilidad sit-and-reach?",
+        "opciones": [
+          "La flexibilidad de la espalda baja y los isquiotibiales",
+          "La velocidad máxima",
+          "La fuerza de brazos",
+          "La resistencia"
+        ],
+        "respuestaCorrecta": "La flexibilidad de la espalda baja y los isquiotibiales",
+        "explicacion": "Se sienta con piernas extendidas y se estira hacia adelante midiendo centímetros."
+      },
+      {
+        "id": "s2ef-b1-05",
+        "tema": "Principios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué es importante la variedad en el entrenamiento?",
+        "opciones": [
+          "Para trabajar todos los grupos musculares y evitar el aburrimiento",
+          "No es importante",
+          "Para cansarse más rápido",
+          "Solo para atletas profesionales"
+        ],
+        "respuestaCorrecta": "Para trabajar todos los grupos musculares y evitar el aburrimiento",
+        "explicacion": "La variedad previene el sobreentrenamiento de una sola zona y mantiene la motivación."
+      },
+      {
+        "id": "s2ef-b1-06",
+        "tema": "Entrenamiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los días de descanso son parte esencial del entrenamiento",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El músculo crece y se repara durante el descanso, no durante el ejercicio."
+      },
+      {
+        "id": "s2ef-b1-07",
+        "tema": "Frecuencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "La zona de frecuencia cardíaca ideal para quemar grasa es:",
+        "opciones": [
+          "60-70% de la frecuencia cardíaca máxima",
+          "100% siempre",
+          "Solo en reposo",
+          "Menos del 40%"
+        ],
+        "respuestaCorrecta": "60-70% de la frecuencia cardíaca máxima",
+        "explicacion": "En esta zona el cuerpo usa principalmente grasa como combustible."
+      },
+      {
+        "id": "s2ef-b1-08",
+        "tema": "Test",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirven los test de condición física?",
+        "opciones": [
+          "Para conocer nuestro nivel actual y planificar mejoras",
+          "Para competir contra otros",
+          "Solo para deportistas",
+          "No sirven"
+        ],
+        "respuestaCorrecta": "Para conocer nuestro nivel actual y planificar mejoras",
+        "explicacion": "Los test establecen un punto de partida para diseñar un plan de mejora personalizado."
+      },
+      {
+        "id": "s2ef-b1-09",
+        "tema": "Principios",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El principio de reversibilidad dice que perdemos condición si dejamos de entrenar",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Si dejamos el ejercicio, las adaptaciones del cuerpo se pierden gradualmente."
+      },
+      {
+        "id": "s2ef-b1-10",
+        "tema": "Entrenamiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el entrenamiento HIIT?",
+        "opciones": [
+          "Intervalos de alta intensidad alternados con descansos cortos",
+          "Ejercicio suave y continuo",
+          "Solo estiramientos",
+          "Solo caminar"
+        ],
+        "respuestaCorrecta": "Intervalos de alta intensidad alternados con descansos cortos",
+        "explicacion": "HIIT = High Intensity Interval Training. Muy eficiente en poco tiempo."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s2ef-b1-01",
+        "tema": "Test",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué mide el test de Cooper?",
+        "opciones": [
+          "La resistencia aeróbica (distancia en 12 minutos)",
+          "La fuerza máxima",
+          "La velocidad de reacción",
+          "La flexibilidad"
+        ],
+        "respuestaCorrecta": "La resistencia aeróbica (distancia en 12 minutos)",
+        "explicacion": "En el test de Cooper se corre durante 12 minutos y se mide la distancia recorrida."
+      },
+      {
+        "id": "s2ef-b1-02",
+        "tema": "Principios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el principio de sobrecarga progresiva?",
+        "opciones": [
+          "Aumentar gradualmente la dificultad del ejercicio",
+          "Hacer siempre lo mismo",
+          "Reducir el ejercicio",
+          "No entrenar"
+        ],
+        "respuestaCorrecta": "Aumentar gradualmente la dificultad del ejercicio",
+        "explicacion": "Para mejorar, debemos exigir un poco más al cuerpo de forma gradual y segura."
+      }
+    ]
+  }
+}

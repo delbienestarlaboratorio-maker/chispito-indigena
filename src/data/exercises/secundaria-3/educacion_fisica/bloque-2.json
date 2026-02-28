@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-3",
+  "materia": "educacion_fisica",
+  "bloque": 2,
+  "nombre": "Gestión y organización deportiva",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Eventos deportivos",
+    "Administración del deporte"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3ef-b2-01",
+        "tema": "Organización",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué se necesita para organizar un torneo escolar?",
+        "opciones": [
+          "Reglamento, calendario, equipos, árbitros y logística",
+          "Solo un balón",
+          "Solo una cancha",
+          "Nada en especial"
+        ],
+        "respuestaCorrecta": "Reglamento, calendario, equipos, árbitros y logística",
+        "explicacion": "La organización deportiva requiere planificación en todos los aspectos."
+      },
+      {
+        "id": "s3ef-b2-02",
+        "tema": "Eventos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué formato de torneo permite que todos los equipos se enfrenten entre sí?",
+        "opciones": [
+          "Todos contra todos (round robin)",
+          "Eliminación directa",
+          "Solo un partido",
+          "Lotería"
+        ],
+        "respuestaCorrecta": "Todos contra todos (round robin)",
+        "explicacion": "En round robin cada equipo juega contra todos, el que sume más puntos gana."
+      },
+      {
+        "id": "s3ef-b2-03",
+        "tema": "Arbitraje",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un buen árbitro debe ser imparcial, conocer las reglas y mantener el control",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El árbitro garantiza el juego limpio y la seguridad de todos los participantes."
+      },
+      {
+        "id": "s3ef-b2-04",
+        "tema": "Liderazgo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Un capitán de equipo efectivo debe:",
+        "opciones": [
+          "Motivar, comunicar, dar ejemplo y mediar conflictos",
+          "Solo gritar órdenes",
+          "Jugar solo para él",
+          "No comunicarse"
+        ],
+        "respuestaCorrecta": "Motivar, comunicar, dar ejemplo y mediar conflictos",
+        "explicacion": "El liderazgo deportivo combina habilidades técnicas con inteligencia emocional."
+      },
+      {
+        "id": "s3ef-b2-05",
+        "tema": "Eventos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un acta de juego?",
+        "opciones": [
+          "Documento oficial que registra resultados, incidencias y alineaciones",
+          "Una carta",
+          "Un cuento",
+          "Una receta"
+        ],
+        "respuestaCorrecta": "Documento oficial que registra resultados, incidencias y alineaciones",
+        "explicacion": "El acta es el registro oficial de todo lo ocurrido durante un partido."
+      },
+      {
+        "id": "s3ef-b2-06",
+        "tema": "Organización",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Organizar eventos deportivos desarrolla habilidades de gestión y liderazgo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La organización deportiva enseña planificación, delegación, comunicación y resolución de problemas."
+      },
+      {
+        "id": "s3ef-b2-07",
+        "tema": "Gestión",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son las fases de un evento deportivo?",
+        "opciones": [
+          "Planeación, ejecución y evaluación",
+          "Solo el día del evento",
+          "Solo la premiación",
+          "No tiene fases"
+        ],
+        "respuestaCorrecta": "Planeación, ejecución y evaluación",
+        "explicacion": "Cada fase es fundamental para un evento exitoso y bien organizado."
+      },
+      {
+        "id": "s3ef-b2-08",
+        "tema": "Eventos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el papel de los voluntarios en un evento deportivo?",
+        "opciones": [
+          "Apoyan la logística, atención, arbitraje menor y servicio al público",
+          "No son importantes",
+          "Solo observan",
+          "Solo comen"
+        ],
+        "respuestaCorrecta": "Apoyan la logística, atención, arbitraje menor y servicio al público",
+        "explicacion": "Los voluntarios son esenciales para que un evento funcione correctamente."
+      },
+      {
+        "id": "s3ef-b2-09",
+        "tema": "Gestión",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La evaluación post-evento ayuda a mejorar futuros eventos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Analizar qué funcionó y qué no permite perfeccionar la organización para el próximo evento."
+      },
+      {
+        "id": "s3ef-b2-10",
+        "tema": "Liderazgo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué aprendemos de la gestión deportiva para la vida?",
+        "opciones": [
+          "Planificación, trabajo en equipo, comunicación y responsabilidad",
+          "Nada aplicable",
+          "Solo a competir",
+          "Solo a ganar"
+        ],
+        "respuestaCorrecta": "Planificación, trabajo en equipo, comunicación y responsabilidad",
+        "explicacion": "Las habilidades organizativas deportivas son directamente transferibles a la vida profesional."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s3ef-b2-01",
+        "tema": "Organización",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué se necesita para organizar un torneo escolar?",
+        "opciones": [
+          "Reglamento, calendario, equipos, árbitros y logística",
+          "Solo un balón",
+          "Solo una cancha",
+          "Nada en especial"
+        ],
+        "respuestaCorrecta": "Reglamento, calendario, equipos, árbitros y logística",
+        "explicacion": "La organización deportiva requiere planificación en todos los aspectos."
+      },
+      {
+        "id": "s3ef-b2-02",
+        "tema": "Eventos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué formato de torneo permite que todos los equipos se enfrenten entre sí?",
+        "opciones": [
+          "Todos contra todos (round robin)",
+          "Eliminación directa",
+          "Solo un partido",
+          "Lotería"
+        ],
+        "respuestaCorrecta": "Todos contra todos (round robin)",
+        "explicacion": "En round robin cada equipo juega contra todos, el que sume más puntos gana."
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "grado": "primaria-2",
+  "materia": "formacion",
+  "bloque": 5,
+  "nombre": "Ciudadanía digital",
+  "meses": "Abril-Junio",
+  "temas": [
+    "Uso responsable de internet",
+    "Privacidad",
+    "Huella digital"
+  ],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2fc-b5-01",
+        "tema": "Internet",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué información NO debes compartir en internet?",
+        "opciones": [
+          "Tu dirección y teléfono",
+          "Tu nombre",
+          "Tu color favorito",
+          "Tu animal preferido"
+        ],
+        "respuestaCorrecta": "Tu dirección y teléfono",
+        "explicacion": "Nunca compartas datos personales como dirección, teléfono o contraseñas con desconocidos en línea.",
+        "visual": "🔒"
+      },
+      {
+        "id": "p2fc-b5-02",
+        "tema": "Privacidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cualquier persona puede ver todo lo que publicas en internet",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Depende de la configuración de privacidad. Es importante revisar quién puede ver nuestras publicaciones."
+      },
+      {
+        "id": "p2fc-b5-03",
+        "tema": "Huella digital",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "La huella digital es:",
+        "opciones": [
+          "Lo que dejamos al usar internet",
+          "La huella de tu dedo",
+          "El diseño del teclado",
+          "Tu firma"
+        ],
+        "respuestaCorrecta": "Lo que dejamos al usar internet",
+        "explicacion": "La huella digital son todos los datos y rastros que dejamos al navegar, publicar y usar apps en línea.",
+        "visual": "💻"
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p2fc-b5-01",
+        "tema": "Internet",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué información NO debes compartir en internet?",
+        "opciones": [
+          "Tu dirección y teléfono",
+          "Tu nombre",
+          "Tu color favorito",
+          "Tu animal preferido"
+        ],
+        "respuestaCorrecta": "Tu dirección y teléfono",
+        "explicacion": "Nunca compartas datos personales como dirección, teléfono o contraseñas con desconocidos en línea.",
+        "visual": "🔒"
+      },
+      {
+        "id": "p2fc-b5-02",
+        "tema": "Privacidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cualquier persona puede ver todo lo que publicas en internet",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Depende de la configuración de privacidad. Es importante revisar quién puede ver nuestras publicaciones."
+      }
+    ]
+  }
+}

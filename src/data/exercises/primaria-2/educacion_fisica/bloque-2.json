@@ -1,0 +1,191 @@
+{
+  "grado": "primaria-2",
+  "materia": "educacion_fisica",
+  "bloque": 2,
+  "nombre": "Juegos cooperativos",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Cooperación",
+    "Comunicación en el juego"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2ef-b2-01",
+        "tema": "Cooperación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un juego cooperativo?",
+        "opciones": [
+          "Un juego donde TODOS trabajan juntos para ganar",
+          "Un juego donde solo uno gana",
+          "Un juego sin reglas",
+          "Un juego de computadora"
+        ],
+        "respuestaCorrecta": "Un juego donde TODOS trabajan juntos para ganar",
+        "explicacion": "En los juegos cooperativos no hay un solo ganador: todos colaboran para lograr el objetivo."
+      },
+      {
+        "id": "p2ef-b2-02",
+        "tema": "Equipo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En un juego de equipo, es importante escuchar a los compañeros",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Escuchar las ideas de los demás nos ayuda a jugar mejor y a resolver problemas juntos."
+      },
+      {
+        "id": "p2ef-b2-03",
+        "tema": "Cooperación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En la carrera de relevos, ¿qué se pasan los corredores?",
+        "opciones": [
+          "Un bastón o testimonio",
+          "Una pelota",
+          "Un zapato",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Un bastón o testimonio",
+        "explicacion": "En los relevos, cada corredor pasa el bastón al siguiente. Es trabajo en equipo."
+      },
+      {
+        "id": "p2ef-b2-04",
+        "tema": "Comunicación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo avisamos a un compañero que le van a lanzar la pelota?",
+        "opciones": [
+          "Gritándole su nombre o diciendo \"¡va!\"",
+          "Tirándosela sin avisar",
+          "No avisamos",
+          "Lanzándola al piso"
+        ],
+        "respuestaCorrecta": "Gritándole su nombre o diciendo \"¡va!\"",
+        "explicacion": "Avisar antes de lanzar previene accidentes y mejora la coordinación del equipo."
+      },
+      {
+        "id": "p2ef-b2-05",
+        "tema": "Cooperación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En un juego cooperativo puedo ayudar a un compañero que le cuesta trabajo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Ayudar a los demás es la esencia de los juegos cooperativos."
+      },
+      {
+        "id": "p2ef-b2-06",
+        "tema": "Equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacemos si no estamos de acuerdo con un compañero en el juego?",
+        "opciones": [
+          "Hablamos con calma y buscamos una solución",
+          "Peleamos",
+          "Nos vamos",
+          "Le gritamos"
+        ],
+        "respuestaCorrecta": "Hablamos con calma y buscamos una solución",
+        "explicacion": "Comunicar nuestras ideas con respeto es la mejor manera de resolver desacuerdos."
+      },
+      {
+        "id": "p2ef-b2-07",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué juego necesita que todos formen una fila y pasen un objeto?",
+        "opciones": [
+          "La cadena humana",
+          "El escondite",
+          "Piedra, papel o tijera",
+          "La lotería"
+        ],
+        "respuestaCorrecta": "La cadena humana",
+        "explicacion": "En la cadena humana todos cooperan pasando objetos de mano en mano sin romper la fila."
+      },
+      {
+        "id": "p2ef-b2-08",
+        "tema": "Cooperación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Ganar es lo más importante en un juego cooperativo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "En los juegos cooperativos lo más importante es divertirse y colaborar juntos."
+      },
+      {
+        "id": "p2ef-b2-09",
+        "tema": "Comunicación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué es bueno animar a los compañeros durante un juego?",
+        "opciones": [
+          "Les da confianza y se sienten apoyados",
+          "Para distraerlos",
+          "Para que se enojen",
+          "No sirve de nada"
+        ],
+        "respuestaCorrecta": "Les da confianza y se sienten apoyados",
+        "explicacion": "Animar con palabras positivas motiva a los demás y fortalece al equipo."
+      },
+      {
+        "id": "p2ef-b2-10",
+        "tema": "Equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es una regla básica de convivencia en cualquier juego?",
+        "opciones": [
+          "Respetar a todos los jugadores",
+          "Ganar a toda costa",
+          "Hacer trampa",
+          "Ignorar las reglas"
+        ],
+        "respuestaCorrecta": "Respetar a todos los jugadores",
+        "explicacion": "El respeto hacia los demás es la base de cualquier convivencia deportiva."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p2ef-b2-01",
+        "tema": "Cooperación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un juego cooperativo?",
+        "opciones": [
+          "Un juego donde TODOS trabajan juntos para ganar",
+          "Un juego donde solo uno gana",
+          "Un juego sin reglas",
+          "Un juego de computadora"
+        ],
+        "respuestaCorrecta": "Un juego donde TODOS trabajan juntos para ganar",
+        "explicacion": "En los juegos cooperativos no hay un solo ganador: todos colaboran para lograr el objetivo."
+      },
+      {
+        "id": "p2ef-b2-02",
+        "tema": "Equipo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En un juego de equipo, es importante escuchar a los compañeros",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Escuchar las ideas de los demás nos ayuda a jugar mejor y a resolver problemas juntos."
+      }
+    ]
+  }
+}

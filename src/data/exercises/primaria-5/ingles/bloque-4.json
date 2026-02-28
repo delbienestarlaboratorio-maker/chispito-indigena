@@ -1,0 +1,196 @@
+{
+  "grado": "primaria-5",
+  "materia": "ingles",
+  "bloque": 4,
+  "nombre": "Health and feelings",
+  "meses": "Feb-Mar",
+  "temas": [
+    "Feelings",
+    "Health problems",
+    "Should/shouldn't"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p5en-b4-01",
+        "tema": "Feelings",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I am sad\" means:",
+        "opciones": [
+          "Estoy triste",
+          "Estoy feliz",
+          "Estoy enojado",
+          "Estoy cansado"
+        ],
+        "respuestaCorrecta": "Estoy triste",
+        "explicacion": "Sad = triste. Happy = feliz. Angry = enojado."
+      },
+      {
+        "id": "p5en-b4-02",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I have a headache\" means:",
+        "opciones": [
+          "Me duele la cabeza",
+          "Me duele el estómago",
+          "Tengo tos",
+          "Tengo fiebre"
+        ],
+        "respuestaCorrecta": "Me duele la cabeza",
+        "explicacion": "Headache = dolor de cabeza. Head = cabeza. Ache = dolor."
+      },
+      {
+        "id": "p5en-b4-03",
+        "tema": "Feelings",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Tired\" means cansado",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Tired = cansado/a. I am tired = estoy cansado/a."
+      },
+      {
+        "id": "p5en-b4-04",
+        "tema": "Consejo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"You should drink water\" means:",
+        "opciones": [
+          "Deberías tomar agua",
+          "No tomes agua",
+          "Puedes tomar refresco",
+          "Nunca tomes agua"
+        ],
+        "respuestaCorrecta": "Deberías tomar agua",
+        "explicacion": "Should = deberías (consejo). Should + verbo base."
+      },
+      {
+        "id": "p5en-b4-05",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Stomachache\" means:",
+        "opciones": [
+          "Dolor de estómago",
+          "Dolor de cabeza",
+          "Dolor de oído",
+          "Dolor de garganta"
+        ],
+        "respuestaCorrecta": "Dolor de estómago",
+        "explicacion": "Stomach = estómago. Stomachache = dolor de estómago."
+      },
+      {
+        "id": "p5en-b4-06",
+        "tema": "Feelings",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Scared\" means:",
+        "opciones": [
+          "Asustado",
+          "Feliz",
+          "Aburrido",
+          "Hambriento"
+        ],
+        "respuestaCorrecta": "Asustado",
+        "explicacion": "Scared = asustado/a, con miedo."
+      },
+      {
+        "id": "p5en-b4-07",
+        "tema": "Consejo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"You shouldn't eat too much candy\" means no deberías comer mucho dulce",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Shouldn't = no deberías (consejo negativo)."
+      },
+      {
+        "id": "p5en-b4-08",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"She has a fever\" means:",
+        "opciones": [
+          "Ella tiene fiebre",
+          "Ella tiene tos",
+          "Ella tiene sueño",
+          "Ella está bien"
+        ],
+        "respuestaCorrecta": "Ella tiene fiebre",
+        "explicacion": "Fever = fiebre. She has = ella tiene."
+      },
+      {
+        "id": "p5en-b4-09",
+        "tema": "Feelings",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Excited\" means:",
+        "opciones": [
+          "Emocionado",
+          "Triste",
+          "Cansado",
+          "Aburrido"
+        ],
+        "respuestaCorrecta": "Emocionado",
+        "explicacion": "Excited = emocionado/a, entusiasmado/a."
+      },
+      {
+        "id": "p5en-b4-10",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Go to the doctor\" means:",
+        "opciones": [
+          "Ir al doctor",
+          "Ir a la escuela",
+          "Ir a la tienda",
+          "Ir a dormir"
+        ],
+        "respuestaCorrecta": "Ir al doctor",
+        "explicacion": "Doctor = doctor/médico. Go to the doctor = ir al doctor."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p5en-b4-01",
+        "tema": "Feelings",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I am sad\" means:",
+        "opciones": [
+          "Estoy triste",
+          "Estoy feliz",
+          "Estoy enojado",
+          "Estoy cansado"
+        ],
+        "respuestaCorrecta": "Estoy triste",
+        "explicacion": "Sad = triste. Happy = feliz. Angry = enojado."
+      },
+      {
+        "id": "p5en-b4-02",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I have a headache\" means:",
+        "opciones": [
+          "Me duele la cabeza",
+          "Me duele el estómago",
+          "Tengo tos",
+          "Tengo fiebre"
+        ],
+        "respuestaCorrecta": "Me duele la cabeza",
+        "explicacion": "Headache = dolor de cabeza. Head = cabeza. Ache = dolor."
+      }
+    ]
+  }
+}

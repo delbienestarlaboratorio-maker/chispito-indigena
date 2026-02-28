@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-2",
+  "materia": "educacion_fisica",
+  "bloque": 5,
+  "nombre": "Proyecto deportivo y vida activa",
+  "meses": "Abr-Jun",
+  "temas": [
+    "Plan de vida activa",
+    "Evaluación personal"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2ef-b5-01",
+        "tema": "Plan",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué incluye un plan personal de actividad física?",
+        "opciones": [
+          "Objetivos, frecuencia, tipo de ejercicio y evaluación",
+          "Solo correr diario",
+          "Solo ir al gimnasio",
+          "No incluye nada"
+        ],
+        "respuestaCorrecta": "Objetivos, frecuencia, tipo de ejercicio y evaluación",
+        "explicacion": "Un buen plan es personalizado, medible y tiene seguimiento regular."
+      },
+      {
+        "id": "s2ef-b5-02",
+        "tema": "Evaluación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirve autoevaluar nuestro rendimiento físico?",
+        "opciones": [
+          "Para identificar avances y ajustar el plan de entrenamiento",
+          "Para compararnos con los demás",
+          "Solo por calificación",
+          "No sirve"
+        ],
+        "respuestaCorrecta": "Para identificar avances y ajustar el plan de entrenamiento",
+        "explicacion": "La autoevaluación nos hace conscientes de nuestro progreso y áreas de mejora."
+      },
+      {
+        "id": "s2ef-b5-03",
+        "tema": "Vida activa",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una persona con vida activa tiene menor riesgo de enfermedades crónicas",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La actividad física regular reduce el riesgo de diabetes, hipertensión y enfermedades del corazón."
+      },
+      {
+        "id": "s2ef-b5-04",
+        "tema": "Plan",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo establecemos metas de actividad física realistas?",
+        "opciones": [
+          "Usando el método SMART: específicas, medibles, alcanzables, relevantes y con tiempo",
+          "Metas imposibles",
+          "Sin metas",
+          "Copiar las metas de otros"
+        ],
+        "respuestaCorrecta": "Usando el método SMART: específicas, medibles, alcanzables, relevantes y con tiempo",
+        "explicacion": "Las metas SMART tienen mayor probabilidad de cumplirse."
+      },
+      {
+        "id": "s2ef-b5-05",
+        "tema": "Hábitos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuánto tiempo toma formar un hábito de ejercicio?",
+        "opciones": [
+          "Aproximadamente 21 a 66 días",
+          "Solo 1 día",
+          "Un año",
+          "Nunca se forma"
+        ],
+        "respuestaCorrecta": "Aproximadamente 21 a 66 días",
+        "explicacion": "La investigación sugiere que un nuevo hábito se consolida entre 3 semanas y 2 meses."
+      },
+      {
+        "id": "s2ef-b5-06",
+        "tema": "Vida activa",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El ejercicio regular puede mejorar la concentración en los estudios",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El flujo sanguíneo al cerebro durante el ejercicio mejora la memoria y la atención."
+      },
+      {
+        "id": "s2ef-b5-07",
+        "tema": "Evaluación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un diario de entrenamiento?",
+        "opciones": [
+          "Registro escrito de ejercicios, tiempos, sensaciones y progreso",
+          "Una revista de deportes",
+          "Un libro de texto",
+          "Un cuaderno de matemáticas"
+        ],
+        "respuestaCorrecta": "Registro escrito de ejercicios, tiempos, sensaciones y progreso",
+        "explicacion": "El diario permite analizar patrones, prevenir sobreentrenamiento y celebrar avances."
+      },
+      {
+        "id": "s2ef-b5-08",
+        "tema": "Plan",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la actividad física más accesible del mundo?",
+        "opciones": [
+          "Caminar",
+          "Esquí acuático",
+          "Golf",
+          "Polo"
+        ],
+        "respuestaCorrecta": "Caminar",
+        "explicacion": "Caminar no requiere equipo, dinero ni habilidades especiales. Es universal."
+      },
+      {
+        "id": "s2ef-b5-09",
+        "tema": "Vida activa",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La OMS considera la inactividad física como la cuarta causa de muerte mundial",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El sedentarismo causa más muertes que la obesidad sola, según datos de la OMS."
+      },
+      {
+        "id": "s2ef-b5-10",
+        "tema": "Compromiso",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es tu compromiso contigo mismo/a respecto a la actividad física?",
+        "opciones": [
+          "Mantenerme activo/a de por vida porque me hace sentir bien",
+          "Solo hacer ejercicio cuando me obliguen",
+          "No hacer nada",
+          "Solo en la escuela"
+        ],
+        "respuestaCorrecta": "Mantenerme activo/a de por vida porque me hace sentir bien",
+        "explicacion": "La motivación interna es la que mantiene un estilo de vida activo para siempre."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s2ef-b5-01",
+        "tema": "Plan",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué incluye un plan personal de actividad física?",
+        "opciones": [
+          "Objetivos, frecuencia, tipo de ejercicio y evaluación",
+          "Solo correr diario",
+          "Solo ir al gimnasio",
+          "No incluye nada"
+        ],
+        "respuestaCorrecta": "Objetivos, frecuencia, tipo de ejercicio y evaluación",
+        "explicacion": "Un buen plan es personalizado, medible y tiene seguimiento regular."
+      },
+      {
+        "id": "s2ef-b5-02",
+        "tema": "Evaluación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirve autoevaluar nuestro rendimiento físico?",
+        "opciones": [
+          "Para identificar avances y ajustar el plan de entrenamiento",
+          "Para compararnos con los demás",
+          "Solo por calificación",
+          "No sirve"
+        ],
+        "respuestaCorrecta": "Para identificar avances y ajustar el plan de entrenamiento",
+        "explicacion": "La autoevaluación nos hace conscientes de nuestro progreso y áreas de mejora."
+      }
+    ]
+  }
+}

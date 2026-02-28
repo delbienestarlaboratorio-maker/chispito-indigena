@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-1",
+  "materia": "educacion_fisica",
+  "bloque": 1,
+  "nombre": "Actividad física y salud",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Beneficios del ejercicio",
+    "Capacidades físicas"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s1ef-b1-01",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos minutos diarios de actividad física recomienda la OMS para adolescentes?",
+        "opciones": [
+          "60 minutos",
+          "10 minutos",
+          "120 minutos",
+          "5 minutos"
+        ],
+        "respuestaCorrecta": "60 minutos",
+        "explicacion": "La OMS recomienda mínimo 60 minutos diarios de actividad moderada-vigorosa para jóvenes."
+      },
+      {
+        "id": "s1ef-b1-02",
+        "tema": "Capacidades",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Las capacidades físicas básicas son:",
+        "opciones": [
+          "Fuerza, velocidad, resistencia y flexibilidad",
+          "Solo correr",
+          "Solo nadar",
+          "Solo dormir"
+        ],
+        "respuestaCorrecta": "Fuerza, velocidad, resistencia y flexibilidad",
+        "explicacion": "Estas 4 capacidades son el fundamento de todo rendimiento deportivo."
+      },
+      {
+        "id": "s1ef-b1-03",
+        "tema": "Salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El ejercicio regular reduce el riesgo de enfermedades cardiovasculares",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El ejercicio fortalece el corazón, mejora la circulación y reduce la presión arterial."
+      },
+      {
+        "id": "s1ef-b1-04",
+        "tema": "Sedentarismo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el sedentarismo?",
+        "opciones": [
+          "Estilo de vida con poca actividad física",
+          "Hacer mucho deporte",
+          "Comer saludable",
+          "Dormir 8 horas"
+        ],
+        "respuestaCorrecta": "Estilo de vida con poca actividad física",
+        "explicacion": "El sedentarismo es factor de riesgo para obesidad, diabetes y enfermedades del corazón."
+      },
+      {
+        "id": "s1ef-b1-05",
+        "tema": "Ejercicio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué incluye un calentamiento correcto?",
+        "opciones": [
+          "Movilidad articular y elevación gradual de la frecuencia cardíaca",
+          "Correr a máxima velocidad",
+          "Estiramientos estáticos fuertes",
+          "Sentarse 10 minutos"
+        ],
+        "respuestaCorrecta": "Movilidad articular y elevación gradual de la frecuencia cardíaca",
+        "explicacion": "El calentamiento activa articulaciones, músculos y el sistema cardiovascular progresivamente."
+      },
+      {
+        "id": "s1ef-b1-06",
+        "tema": "Salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El ejercicio físico mejora la concentración y el rendimiento académico",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La actividad física aumenta el flujo sanguíneo al cerebro, mejorando la atención y memoria."
+      },
+      {
+        "id": "s1ef-b1-07",
+        "tema": "Capacidades",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué capacidad permite correr 100 metros lo más rápido posible?",
+        "opciones": [
+          "Velocidad",
+          "Resistencia",
+          "Flexibilidad",
+          "Equilibrio"
+        ],
+        "respuestaCorrecta": "Velocidad",
+        "explicacion": "La velocidad es la capacidad de desplazarse a máxima rapidez en distancias cortas."
+      },
+      {
+        "id": "s1ef-b1-08",
+        "tema": "Ejercicio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirve la vuelta a la calma?",
+        "opciones": [
+          "Reducir gradualmente la frecuencia cardíaca y prevenir mareos",
+          "Cansar más al cuerpo",
+          "Nada importante",
+          "Aumentar la velocidad"
+        ],
+        "respuestaCorrecta": "Reducir gradualmente la frecuencia cardíaca y prevenir mareos",
+        "explicacion": "El enfriamiento evita que la sangre se acumule en las extremidades causando mareos."
+      },
+      {
+        "id": "s1ef-b1-09",
+        "tema": "Hidratación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Hidratarse antes, durante y después del ejercicio es fundamental",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El agua regula la temperatura corporal y mantiene las funciones vitales durante el ejercicio."
+      },
+      {
+        "id": "s1ef-b1-10",
+        "tema": "Capacidades",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "La resistencia aeróbica nos permite:",
+        "opciones": [
+          "Mantener actividad física prolongada",
+          "Levantar objetos muy pesados",
+          "Estirarnos mucho",
+          "Reaccionar rápidamente"
+        ],
+        "respuestaCorrecta": "Mantener actividad física prolongada",
+        "explicacion": "La resistencia aeróbica usa oxígeno para producir energía durante esfuerzos prolongados."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s1ef-b1-01",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos minutos diarios de actividad física recomienda la OMS para adolescentes?",
+        "opciones": [
+          "60 minutos",
+          "10 minutos",
+          "120 minutos",
+          "5 minutos"
+        ],
+        "respuestaCorrecta": "60 minutos",
+        "explicacion": "La OMS recomienda mínimo 60 minutos diarios de actividad moderada-vigorosa para jóvenes."
+      },
+      {
+        "id": "s1ef-b1-02",
+        "tema": "Capacidades",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Las capacidades físicas básicas son:",
+        "opciones": [
+          "Fuerza, velocidad, resistencia y flexibilidad",
+          "Solo correr",
+          "Solo nadar",
+          "Solo dormir"
+        ],
+        "respuestaCorrecta": "Fuerza, velocidad, resistencia y flexibilidad",
+        "explicacion": "Estas 4 capacidades son el fundamento de todo rendimiento deportivo."
+      }
+    ]
+  }
+}

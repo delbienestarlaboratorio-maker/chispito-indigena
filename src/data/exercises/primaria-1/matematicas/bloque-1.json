@@ -1,0 +1,385 @@
+{
+  "grado": "primaria-1",
+  "materia": "matematicas",
+  "bloque": 1,
+  "nombre": "Numeros del 1 al 10",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Numeros del 1 al 10",
+    "Sumas basicas hasta 10"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-1-matematicas-b1-001",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuantas estrellas hay? (5 estrellas)",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "Contamos una por una: 1, 2, 3, 4, 5 = 5 estrellas."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-002",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Que numero va despues del 7?",
+        "opciones": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "respuestaCorrecta": "8",
+        "explicacion": "Los numeros van en orden: ...6, 7, 8. Despues del 7 viene el 8."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-003",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cual es el numero mas grande entre estos?",
+        "opciones": [
+          "3",
+          "7",
+          "5",
+          "9"
+        ],
+        "respuestaCorrecta": "9",
+        "explicacion": "El 9 es el numero mas grande entre 3, 5, 7 y 9."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-012",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-013",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-014",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respuestaCorrecta": "12",
+        "explicacion": "12 meses: enero a diciembre."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-015",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-016",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-017",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respuestaCorrecta": "12",
+        "explicacion": "12 meses: enero a diciembre."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-018",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-019",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-020",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respuestaCorrecta": "12",
+        "explicacion": "12 meses: enero a diciembre."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-1-matematicas-b1-004",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Completa la serie: 1, 2, 3, ___, 5, 6",
+        "respuestaCorrecta": "4",
+        "explicacion": "Los numeros van en orden. Despues del 3 viene el 4."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-005",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El numero 6 es mayor que el numero 8.",
+        "respuestaCorrecta": "false",
+        "explicacion": "El 6 es MENOR que el 8. En la recta numerica, el 8 esta mas a la derecha."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-007",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Que numero esta entre el 4 y el 6?",
+        "opciones": [
+          "3",
+          "5",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "En la secuencia 4, 5, 6 - el numero 5 esta en medio."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-008",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Escribe el numero anterior al 9: ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "Antes del 9 esta el 8: ...7, 8, 9."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-013",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "5 + 4 = 10",
+        "respuestaCorrecta": "false",
+        "explicacion": "5 + 4 = 9, no 10. Cuenta: 6, 7, 8, 9."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-014",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "___ + 6 = 10",
+        "respuestaCorrecta": "4",
+        "explicacion": "Cuanto le falta al 6 para llegar a 10? Necesita 4 mas: 7, 8, 9, 10."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-015",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Cual suma da el resultado 9?",
+        "opciones": [
+          "4 + 4",
+          "5 + 4",
+          "3 + 5",
+          "6 + 4"
+        ],
+        "respuestaCorrecta": "5 + 4",
+        "explicacion": "5 + 4 = 9. Las demas: 4+4=8, 3+5=8, 6+4=10."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-016",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "visual_count",
+        "nivel": "v2",
+        "pregunta": "4 estrellas + 6 estrellas = cuantas?",
+        "opciones": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "4 estrellas + 6 estrellas = 10 estrellas."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-012",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-013",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-014",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3 × 4 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-015",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-016",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-017",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3 × 4 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-018",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-x-019",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-1-matematicas-b1-001",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuantas estrellas hay? (5 estrellas)",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "Contamos una por una: 1, 2, 3, 4, 5 = 5 estrellas."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-002",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Que numero va despues del 7?",
+        "opciones": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "respuestaCorrecta": "8",
+        "explicacion": "Los numeros van en orden: ...6, 7, 8. Despues del 7 viene el 8."
+      },
+      {
+        "id": "primaria-1-matematicas-b1-004",
+        "tema": "Numeros del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Completa la serie: 1, 2, 3, ___, 5, 6",
+        "respuestaCorrecta": "4",
+        "explicacion": "Los numeros van en orden. Despues del 3 viene el 4."
+      }
+    ]
+  },
+  "generado": "2026-02-27T04:04:54.080Z",
+  "version": "2.0"
+}

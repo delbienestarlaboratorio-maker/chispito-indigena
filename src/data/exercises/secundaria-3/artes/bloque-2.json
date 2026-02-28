@@ -1,0 +1,194 @@
+{
+  "grado": "secundaria-3",
+  "materia": "artes",
+  "bloque": 2,
+  "nombre": "Corrientes artísticas del siglo XX",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Vanguardias",
+    "Arte moderno",
+    "Posmodernismo"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3art-b2-01",
+        "tema": "Vanguardias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué caracteriza a las vanguardias artísticas?",
+        "opciones": [
+          "Ruptura con la tradición y búsqueda de nuevas formas de expresión",
+          "Continuar la tradición",
+          "Copiar el arte clásico",
+          "No innovar"
+        ],
+        "respuestaCorrecta": "Ruptura con la tradición y búsqueda de nuevas formas de expresión",
+        "explicacion": "Las vanguardias del s.XX revolucionaron la pintura, música, literatura y danza."
+      },
+      {
+        "id": "s3art-b2-02",
+        "tema": "Surrealismo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué busca representar el surrealismo?",
+        "opciones": [
+          "El mundo de los sueños y el inconsciente",
+          "La realidad fotográfica",
+          "Solo paisajes",
+          "Solo retratos"
+        ],
+        "respuestaCorrecta": "El mundo de los sueños y el inconsciente",
+        "explicacion": "Salvador Dalí y René Magritte exploraron imágenes oníricas e irracionales."
+      },
+      {
+        "id": "s3art-b2-03",
+        "tema": "Pop Art",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El Pop Art usó imágenes de la cultura popular y el consumismo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Andy Warhol y Roy Lichtenstein elevaron la publicidad y los cómics a categoría artística."
+      },
+      {
+        "id": "s3art-b2-04",
+        "tema": "Abstracto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Wassily Kandinsky es considerado padre del:",
+        "opciones": [
+          "Arte abstracto",
+          "Realismo",
+          "Impresionismo",
+          "Renacimiento"
+        ],
+        "respuestaCorrecta": "Arte abstracto",
+        "explicacion": "Kandinsky fue el primero en crear pinturas completamente no figurativas."
+      },
+      {
+        "id": "s3art-b2-05",
+        "tema": "Posmoderno",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué caracteriza al arte posmoderno?",
+        "opciones": [
+          "Mezcla de estilos, cuestionamiento y uso de medios diversos",
+          "Un solo estilo puro",
+          "Solo pintura al óleo",
+          "Arte sin mensaje"
+        ],
+        "respuestaCorrecta": "Mezcla de estilos, cuestionamiento y uso de medios diversos",
+        "explicacion": "El posmodernismo rompe fronteras entre disciplinas y cuestiona qué es arte."
+      },
+      {
+        "id": "s3art-b2-06",
+        "tema": "Impresionismo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El impresionismo capturaba los efectos de la luz y el momento",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Monet, Renoir y Degas pintaban escenas cotidianas con pinceladas sueltas y luminosas."
+      },
+      {
+        "id": "s3art-b2-07",
+        "tema": "Dadaísmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué proponía el dadaísmo?",
+        "opciones": [
+          "Cuestionar todo, incluso el concepto mismo de arte",
+          "Seguir las reglas del arte clásico",
+          "Solo pintar paisajes",
+          "Copiar fotográficamente"
+        ],
+        "respuestaCorrecta": "Cuestionar todo, incluso el concepto mismo de arte",
+        "explicacion": "Dadá fue anti-arte: protestaba contra la guerra y la sociedad burguesa."
+      },
+      {
+        "id": "s3art-b2-08",
+        "tema": "México",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué artista mexicano combinó tradición prehispánica con modernismo?",
+        "opciones": [
+          "Rufino Tamayo",
+          "Claude Monet",
+          "Pablo Picasso",
+          "Salvador Dalí"
+        ],
+        "respuestaCorrecta": "Rufino Tamayo",
+        "explicacion": "Tamayo fusionó la paleta oaxaqueña con las vanguardias europeas."
+      },
+      {
+        "id": "s3art-b2-09",
+        "tema": "Vanguardias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El cubismo muestra un objeto desde múltiples ángulos simultáneamente",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Picasso y Braque descompusieron objetos en formas geométricas vistas desde varios puntos."
+      },
+      {
+        "id": "s3art-b2-10",
+        "tema": "Contemporáneo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué medio usa el arte digital?",
+        "opciones": [
+          "Computadora, software, IA y medios electrónicos",
+          "Solo pincel y lienzo",
+          "Solo mármol",
+          "Solo instrumentos acústicos"
+        ],
+        "respuestaCorrecta": "Computadora, software, IA y medios electrónicos",
+        "explicacion": "El arte digital incluye diseño, animación, arte generativo e inteligencia artificial."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s3art-b2-01",
+        "tema": "Vanguardias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué caracteriza a las vanguardias artísticas?",
+        "opciones": [
+          "Ruptura con la tradición y búsqueda de nuevas formas de expresión",
+          "Continuar la tradición",
+          "Copiar el arte clásico",
+          "No innovar"
+        ],
+        "respuestaCorrecta": "Ruptura con la tradición y búsqueda de nuevas formas de expresión",
+        "explicacion": "Las vanguardias del s.XX revolucionaron la pintura, música, literatura y danza."
+      },
+      {
+        "id": "s3art-b2-02",
+        "tema": "Surrealismo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué busca representar el surrealismo?",
+        "opciones": [
+          "El mundo de los sueños y el inconsciente",
+          "La realidad fotográfica",
+          "Solo paisajes",
+          "Solo retratos"
+        ],
+        "respuestaCorrecta": "El mundo de los sueños y el inconsciente",
+        "explicacion": "Salvador Dalí y René Magritte exploraron imágenes oníricas e irracionales."
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "grado": "primaria-1",
+  "materia": "educacion_fisica",
+  "bloque": 4,
+  "nombre": "Hábitos de vida saludable",
+  "meses": "Feb-Mar",
+  "temas": [
+    "Alimentación",
+    "Higiene y descanso"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1ef-b4-01",
+        "tema": "Alimentación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué alimentos nos dan más energía para jugar?",
+        "opciones": [
+          "Frutas y verduras",
+          "Solo dulces y refrescos",
+          "Solo papas fritas",
+          "Solo galletas"
+        ],
+        "respuestaCorrecta": "Frutas y verduras",
+        "explicacion": "Las frutas y verduras tienen vitaminas y minerales que nos dan energía real y duradera."
+      },
+      {
+        "id": "p1ef-b4-02",
+        "tema": "Higiene",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Es importante lavarse las manos antes de comer",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Lavarse las manos con agua y jabón elimina los gérmenes que nos pueden enfermar."
+      },
+      {
+        "id": "p1ef-b4-03",
+        "tema": "Alimentación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas comidas principales debemos hacer al día?",
+        "opciones": [
+          "3: desayuno, comida y cena",
+          "Solo 1",
+          "Solo 2",
+          "5 comidas grandes"
+        ],
+        "respuestaCorrecta": "3: desayuno, comida y cena",
+        "explicacion": "Las 3 comidas principales nos dan la energía que necesitamos durante todo el día."
+      },
+      {
+        "id": "p1ef-b4-04",
+        "tema": "Descanso",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas horas deben dormir los niños de primaria?",
+        "opciones": [
+          "9 a 12 horas",
+          "3 horas",
+          "Solo 5 horas",
+          "Todo el día"
+        ],
+        "respuestaCorrecta": "9 a 12 horas",
+        "explicacion": "Los niños de 6-7 años necesitan entre 9 y 12 horas de sueño para crecer bien."
+      },
+      {
+        "id": "p1ef-b4-05",
+        "tema": "Hidratación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Tomar agua es importante todos los días",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El agua ayuda a que nuestro cuerpo funcione bien y no se deshidrate."
+      },
+      {
+        "id": "p1ef-b4-06",
+        "tema": "Higiene",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas veces al día debemos cepillarnos los dientes?",
+        "opciones": [
+          "3 veces: después de cada comida",
+          "Solo 1 vez al año",
+          "Nunca",
+          "Solo cuando duelen"
+        ],
+        "respuestaCorrecta": "3 veces: después de cada comida",
+        "explicacion": "Cepillarnos después de cada comida previene las caries y mantiene los dientes sanos."
+      },
+      {
+        "id": "p1ef-b4-07",
+        "tema": "Alimentación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué bebida es la más saludable?",
+        "opciones": [
+          "Agua natural",
+          "Refresco",
+          "Jugo de caja",
+          "Café"
+        ],
+        "respuestaCorrecta": "Agua natural",
+        "explicacion": "El agua natural es la mejor opción para hidratarnos sin azúcar añadida."
+      },
+      {
+        "id": "p1ef-b4-08",
+        "tema": "Descanso",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Hacer ejercicio durante el día nos ayuda a dormir mejor",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La actividad física durante el día nos ayuda a descansar mejor en la noche."
+      },
+      {
+        "id": "p1ef-b4-09",
+        "tema": "Higiene",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo debemos cubrirnos al estornudar?",
+        "opciones": [
+          "Con el codo, no con la mano",
+          "Con la mano abierta hacia los demás",
+          "No cubrirse",
+          "Con la mano del compañero"
+        ],
+        "respuestaCorrecta": "Con el codo, no con la mano",
+        "explicacion": "Cubrirnos con el codo evita que los gérmenes queden en la mano y se contagien."
+      },
+      {
+        "id": "p1ef-b4-10",
+        "tema": "Alimentación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El Plato del Bien Comer tiene:",
+        "opciones": [
+          "Frutas, verduras, cereales y alimentos de origen animal",
+          "Solo carne",
+          "Solo dulces",
+          "Solo leche"
+        ],
+        "respuestaCorrecta": "Frutas, verduras, cereales y alimentos de origen animal",
+        "explicacion": "El Plato del Bien Comer nos enseña a comer de todos los grupos de alimentos."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p1ef-b4-01",
+        "tema": "Alimentación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué alimentos nos dan más energía para jugar?",
+        "opciones": [
+          "Frutas y verduras",
+          "Solo dulces y refrescos",
+          "Solo papas fritas",
+          "Solo galletas"
+        ],
+        "respuestaCorrecta": "Frutas y verduras",
+        "explicacion": "Las frutas y verduras tienen vitaminas y minerales que nos dan energía real y duradera."
+      },
+      {
+        "id": "p1ef-b4-02",
+        "tema": "Higiene",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Es importante lavarse las manos antes de comer",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Lavarse las manos con agua y jabón elimina los gérmenes que nos pueden enfermar."
+      }
+    ]
+  }
+}

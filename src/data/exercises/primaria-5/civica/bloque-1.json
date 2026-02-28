@@ -1,0 +1,403 @@
+{
+  "grado": "primaria-5",
+  "materia": "civica",
+  "bloque": 1,
+  "nombre": "Identidad nacional",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "México y su historia",
+    "Orgullo mexicano"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-5-formacion-b1-001",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el INE?",
+        "opciones": [
+          "Instituto Nacional Económico",
+          "Instituto Nacional Electoral",
+          "Instituto de Niños Educados",
+          "Instituto Nuclear Estatal"
+        ],
+        "respuestaCorrecta": "Instituto Nacional Electoral",
+        "explicacion": "El INE organiza las elecciones en México y garantiza que sean libres y justas."
+      },
+      {
+        "id": "primaria-5-formacion-b1-002",
+        "tema": "México y su historia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU es la ___ de las Naciones Unidas",
+        "respuestaCorrecta": "Organización",
+        "explicacion": "La ONU fue fundada en 1945 para mantener la paz y la cooperación internacional."
+      },
+      {
+        "id": "primaria-5-formacion-b1-003",
+        "tema": "México y su historia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El uso responsable de las redes sociales incluye no compartir datos personales con extraños",
+        "respuestaCorrecta": "true",
+        "explicacion": "En internet es importante proteger tu privacidad: no compartas dirección, teléfono o fotos íntimas."
+      },
+      {
+        "id": "primaria-5-formacion-b1-004",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué significa \"globalización\"?",
+        "opciones": [
+          "Construir más globos",
+          "Interconexión económica y cultural del mundo",
+          "Viajes al espacio",
+          "Solo hablar inglés"
+        ],
+        "respuestaCorrecta": "Interconexión económica y cultural del mundo",
+        "explicacion": "La globalización conecta países en economía, cultura, tecnología y comunicación."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-008",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-009",
+        "tema": "Orgullo mexicano",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-010",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-011",
+        "tema": "Orgullo mexicano",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-012",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-013",
+        "tema": "Orgullo mexicano",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-014",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-015",
+        "tema": "Orgullo mexicano",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-016",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-017",
+        "tema": "Orgullo mexicano",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-018",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-5-formacion-b1-005",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el INE?",
+        "opciones": [
+          "Instituto Nacional Económico",
+          "Instituto Nacional Electoral",
+          "Instituto de Niños Educados",
+          "Instituto Nuclear Estatal"
+        ],
+        "respuestaCorrecta": "Instituto Nacional Electoral",
+        "explicacion": "El INE organiza las elecciones en México y garantiza que sean libres y justas."
+      },
+      {
+        "id": "primaria-5-formacion-b1-006",
+        "tema": "México y su historia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU es la ___ de las Naciones Unidas",
+        "respuestaCorrecta": "Organización",
+        "explicacion": "La ONU fue fundada en 1945 para mantener la paz y la cooperación internacional."
+      },
+      {
+        "id": "primaria-5-formacion-b1-007",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa \"globalización\"?",
+        "opciones": [
+          "Construir más globos",
+          "Interconexión económica y cultural del mundo",
+          "Viajes al espacio",
+          "Solo hablar inglés"
+        ],
+        "respuestaCorrecta": "Interconexión económica y cultural del mundo",
+        "explicacion": "La globalización conecta países en economía, cultura, tecnología y comunicación."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-008",
+        "tema": "México y su historia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-009",
+        "tema": "Orgullo mexicano",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-010",
+        "tema": "México y su historia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-011",
+        "tema": "Orgullo mexicano",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-012",
+        "tema": "México y su historia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-013",
+        "tema": "Orgullo mexicano",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-014",
+        "tema": "México y su historia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-015",
+        "tema": "Orgullo mexicano",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-016",
+        "tema": "México y su historia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-5-civica-b1-x-017",
+        "tema": "Orgullo mexicano",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-5-formacion-b1-001",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el INE?",
+        "opciones": [
+          "Instituto Nacional Económico",
+          "Instituto Nacional Electoral",
+          "Instituto de Niños Educados",
+          "Instituto Nuclear Estatal"
+        ],
+        "respuestaCorrecta": "Instituto Nacional Electoral",
+        "explicacion": "El INE organiza las elecciones en México y garantiza que sean libres y justas."
+      },
+      {
+        "id": "primaria-5-formacion-b1-002",
+        "tema": "México y su historia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU es la ___ de las Naciones Unidas",
+        "respuestaCorrecta": "Organización",
+        "explicacion": "La ONU fue fundada en 1945 para mantener la paz y la cooperación internacional."
+      },
+      {
+        "id": "primaria-5-formacion-b1-005",
+        "tema": "México y su historia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el INE?",
+        "opciones": [
+          "Instituto Nacional Económico",
+          "Instituto Nacional Electoral",
+          "Instituto de Niños Educados",
+          "Instituto Nuclear Estatal"
+        ],
+        "respuestaCorrecta": "Instituto Nacional Electoral",
+        "explicacion": "El INE organiza las elecciones en México y garantiza que sean libres y justas."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:18:13.219Z",
+  "version": "2.0"
+}

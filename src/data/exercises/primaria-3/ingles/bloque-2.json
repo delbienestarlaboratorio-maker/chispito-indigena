@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-3",
+  "materia": "ingles",
+  "bloque": 2,
+  "nombre": "My family and home",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Family members",
+    "Possessives"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3en-b2-01",
+        "tema": "Familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Mother\" in Spanish is:",
+        "opciones": [
+          "Mamá",
+          "Papá",
+          "Hermano",
+          "Tío"
+        ],
+        "respuestaCorrecta": "Mamá",
+        "explicacion": "Mother = mamá, Father = papá."
+      },
+      {
+        "id": "p3en-b2-02",
+        "tema": "Familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "How do you say \"hermano\"?",
+        "opciones": [
+          "Brother",
+          "Sister",
+          "Cousin",
+          "Uncle"
+        ],
+        "respuestaCorrecta": "Brother",
+        "explicacion": "Brother = hermano. Sister = hermana."
+      },
+      {
+        "id": "p3en-b2-03",
+        "tema": "Familia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Grandmother\" means prima",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Grandmother = abuela. Cousin = prima/primo."
+      },
+      {
+        "id": "p3en-b2-04",
+        "tema": "Posesivos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"My\" means:",
+        "opciones": [
+          "Mi / Mis",
+          "Tu / Tus",
+          "Su",
+          "Nuestro"
+        ],
+        "respuestaCorrecta": "Mi / Mis",
+        "explicacion": "My = mi o mis (posesivo de primera persona)."
+      },
+      {
+        "id": "p3en-b2-05",
+        "tema": "Familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Father + Mother = ?",
+        "opciones": [
+          "Parents",
+          "Brothers",
+          "Cousins",
+          "Friends"
+        ],
+        "respuestaCorrecta": "Parents",
+        "explicacion": "Parents = padres (mamá y papá juntos)."
+      },
+      {
+        "id": "p3en-b2-06",
+        "tema": "Familia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Uncle\" means tío",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Uncle = tío. Aunt = tía."
+      },
+      {
+        "id": "p3en-b2-07",
+        "tema": "Posesivos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Her name is Ana\" — Her means:",
+        "opciones": [
+          "Su (de ella)",
+          "Su (de él)",
+          "Mi",
+          "Tu"
+        ],
+        "respuestaCorrecta": "Su (de ella)",
+        "explicacion": "Her = de ella. His = de él."
+      },
+      {
+        "id": "p3en-b2-08",
+        "tema": "Familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Sister\" means:",
+        "opciones": [
+          "Hermana",
+          "Hermano",
+          "Tía",
+          "Abuela"
+        ],
+        "respuestaCorrecta": "Hermana",
+        "explicacion": "Sister = hermana."
+      },
+      {
+        "id": "p3en-b2-09",
+        "tema": "Familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Baby\" in Spanish is:",
+        "opciones": [
+          "Bebé",
+          "Niño",
+          "Adulto",
+          "Joven"
+        ],
+        "respuestaCorrecta": "Bebé",
+        "explicacion": "Baby = bebé."
+      },
+      {
+        "id": "p3en-b2-10",
+        "tema": "Familia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Aunt\" means tía",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Aunt = tía. Uncle = tío."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p3en-b2-01",
+        "tema": "Familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Mother\" in Spanish is:",
+        "opciones": [
+          "Mamá",
+          "Papá",
+          "Hermano",
+          "Tío"
+        ],
+        "respuestaCorrecta": "Mamá",
+        "explicacion": "Mother = mamá, Father = papá."
+      },
+      {
+        "id": "p3en-b2-02",
+        "tema": "Familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "How do you say \"hermano\"?",
+        "opciones": [
+          "Brother",
+          "Sister",
+          "Cousin",
+          "Uncle"
+        ],
+        "respuestaCorrecta": "Brother",
+        "explicacion": "Brother = hermano. Sister = hermana."
+      }
+    ]
+  }
+}

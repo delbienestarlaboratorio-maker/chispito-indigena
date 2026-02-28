@@ -1,0 +1,391 @@
+{
+  "grado": "primaria-1",
+  "materia": "civica",
+  "bloque": 1,
+  "nombre": "Yo y mis emociones",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "¿Qué siento?",
+    "Emociones básicas"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-1-formacion-b1-001",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos es un derecho de los niños?",
+        "opciones": [
+          "Trabajar",
+          "Ir a la escuela",
+          "Manejar autos",
+          "Votar"
+        ],
+        "respuestaCorrecta": "Ir a la escuela",
+        "explicacion": "La educación es un derecho de todos los niños en México y en el mundo."
+      },
+      {
+        "id": "primaria-1-formacion-b1-002",
+        "tema": "¿Qué siento?",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Respetar a los demás es una responsabilidad",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Respetar a las personas y sus derechos es una responsabilidad de todos."
+      },
+      {
+        "id": "primaria-1-formacion-b1-003",
+        "tema": "¿Qué siento?",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El respeto y la honestidad son ___",
+        "respuestaCorrecta": "valores",
+        "explicacion": "Los valores son principios que guían nuestro comportamiento."
+      },
+      {
+        "id": "primaria-1-formacion-b1-004",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacemos cuando hay un problema en el salón?",
+        "opciones": [
+          "Gritar",
+          "Dialogar y buscar soluciones",
+          "Ignorarlo",
+          "Golpear"
+        ],
+        "respuestaCorrecta": "Dialogar y buscar soluciones",
+        "explicacion": "El diálogo es la mejor herramienta para resolver conflictos pacíficamente."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-009",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-010",
+        "tema": "Emociones básicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-011",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-012",
+        "tema": "Emociones básicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-013",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-014",
+        "tema": "Emociones básicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-015",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-016",
+        "tema": "Emociones básicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-017",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-018",
+        "tema": "Emociones básicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-1-formacion-b1-005",
+        "tema": "¿Qué siento?",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En casa y en la escuela tenemos ___ que cumplir",
+        "respuestaCorrecta": "reglas",
+        "explicacion": "Las reglas nos ayudan a vivir mejor en comunidad."
+      },
+      {
+        "id": "primaria-1-formacion-b1-006",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estos es un derecho de los niños?",
+        "opciones": [
+          "Trabajar",
+          "Ir a la escuela",
+          "Manejar autos",
+          "Votar"
+        ],
+        "respuestaCorrecta": "Ir a la escuela",
+        "explicacion": "La educación es un derecho de todos los niños en México y en el mundo."
+      },
+      {
+        "id": "primaria-1-formacion-b1-007",
+        "tema": "¿Qué siento?",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Respetar a los demás es una responsabilidad",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Respetar a las personas y sus derechos es una responsabilidad de todos."
+      },
+      {
+        "id": "primaria-1-formacion-b1-008",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos cuando hay un problema en el salón?",
+        "opciones": [
+          "Gritar",
+          "Dialogar y buscar soluciones",
+          "Ignorarlo",
+          "Golpear"
+        ],
+        "respuestaCorrecta": "Dialogar y buscar soluciones",
+        "explicacion": "El diálogo es la mejor herramienta para resolver conflictos pacíficamente."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-009",
+        "tema": "¿Qué siento?",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-010",
+        "tema": "Emociones básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-011",
+        "tema": "¿Qué siento?",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-012",
+        "tema": "Emociones básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-013",
+        "tema": "¿Qué siento?",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-014",
+        "tema": "Emociones básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-015",
+        "tema": "¿Qué siento?",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-016",
+        "tema": "Emociones básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-017",
+        "tema": "¿Qué siento?",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-1-civica-b1-x-018",
+        "tema": "Emociones básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-1-formacion-b1-001",
+        "tema": "¿Qué siento?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos es un derecho de los niños?",
+        "opciones": [
+          "Trabajar",
+          "Ir a la escuela",
+          "Manejar autos",
+          "Votar"
+        ],
+        "respuestaCorrecta": "Ir a la escuela",
+        "explicacion": "La educación es un derecho de todos los niños en México y en el mundo."
+      },
+      {
+        "id": "primaria-1-formacion-b1-002",
+        "tema": "¿Qué siento?",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Respetar a los demás es una responsabilidad",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Respetar a las personas y sus derechos es una responsabilidad de todos."
+      },
+      {
+        "id": "primaria-1-formacion-b1-005",
+        "tema": "¿Qué siento?",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En casa y en la escuela tenemos ___ que cumplir",
+        "respuestaCorrecta": "reglas",
+        "explicacion": "Las reglas nos ayudan a vivir mejor en comunidad."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:18:13.162Z",
+  "version": "2.0"
+}

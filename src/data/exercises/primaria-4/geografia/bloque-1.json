@@ -1,0 +1,416 @@
+{
+  "grado": "primaria-4",
+  "materia": "geografia",
+  "bloque": 1,
+  "nombre": "México: territorio y relieve",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "División política",
+    "Regiones geográficas"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-4-geografia-b1-001",
+        "tema": "División política",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuántos estados tiene México?",
+        "opciones": [
+          "28",
+          "30",
+          "31",
+          "32"
+        ],
+        "explicacion": "México tiene 31 estados y 1 Ciudad de México (antes DF), para un total de 32 entidades federativas.",
+        "nivel": "v1",
+        "respuestaCorrecta": "31",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-002",
+        "tema": "División política",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la capital de México?",
+        "opciones": [
+          "Guadalajara",
+          "Monterrey",
+          "Puebla",
+          "Ciudad de México"
+        ],
+        "explicacion": "Ciudad de México (CDMX) es la capital y la ciudad más grande del país.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Ciudad de México",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-003",
+        "tema": "División política",
+        "tipo": "fill_blank",
+        "pregunta": "México comparte frontera norte con ___",
+        "explicacion": "La frontera norte de México con EUA tiene más de 3,000 km de longitud.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Estados Unidos",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-extra-007",
+        "tema": "División política",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": [
+          "Mississipi",
+          "Nilo",
+          "Amazonas",
+          "Yangtsé"
+        ],
+        "respuestaCorrecta": "Nilo",
+        "explicacion": "El Nilo (6,650 km) compite con el Amazonas por ser el más largo. El Nilo está en África.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-extra-009",
+        "tema": "División política",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Brasil es el país más grande de América del Sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "Brasil ocupa el 47% del territorio de América del Sur.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-extra-011",
+        "tema": "División política",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La capital de Francia es ___",
+        "respuestaCorrecta": "París",
+        "explicacion": "París es la capital y ciudad más grande de Francia, conocida por la Torre Eiffel.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-013",
+        "tema": "División política",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "China",
+          "EUA",
+          "Rusia",
+          "Canadá"
+        ],
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-014",
+        "tema": "Regiones geográficas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-015",
+        "tema": "División política",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "México limita al sur con ___ y ___",
+        "respuestaCorrecta": "Guatemala y Belice",
+        "explicacion": "Al sur de México están Guatemala y Belice, en América Central.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-016",
+        "tema": "Regiones geográficas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
+        "respuestaCorrecta": "Estados Unidos",
+        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-017",
+        "tema": "División política",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La capital de Japón es ___",
+        "respuestaCorrecta": "Tokio",
+        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-018",
+        "tema": "Regiones geográficas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": [
+          "Sahara",
+          "Atacama",
+          "Gobi",
+          "Antartico"
+        ],
+        "respuestaCorrecta": "Antartico",
+        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-019",
+        "tema": "División política",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué continente está Brasil?",
+        "opciones": [
+          "Norteamérica",
+          "Europa",
+          "África",
+          "Sudamérica"
+        ],
+        "respuestaCorrecta": "Sudamérica",
+        "explicacion": "Brasil es el país más grande de América del Sur.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-020",
+        "tema": "Regiones geográficas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "China",
+          "EUA",
+          "Rusia",
+          "Canadá"
+        ],
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-4-geografia-b1-004",
+        "tema": "Regiones geográficas",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia \"División política\" en geografía?",
+        "opciones": [
+          "La distribución en el espacio",
+          "La historia antigua",
+          "Las ciencias exactas",
+          "La literatura"
+        ],
+        "explicacion": "La geografía estudia cómo se distribuyen División política en el espacio terrestre.",
+        "nivel": "v2",
+        "respuestaCorrecta": "La distribución en el espacio",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-005",
+        "tema": "Regiones geográficas",
+        "tipo": "fill_blank",
+        "pregunta": "Los mapas nos ayudan a ubicar ___",
+        "explicacion": "Los mapas son herramientas clave de la geografía para representar el espacio.",
+        "nivel": "v2",
+        "respuestaCorrecta": "lugares y fenómenos"
+      },
+      {
+        "id": "primaria-4-geografia-b1-006",
+        "tema": "Regiones geográficas",
+        "tipo": "true_false",
+        "pregunta": "La geografía estudia tanto el espacio físico como el humano",
+        "explicacion": "Geografía física: relieve, clima, etc. Geografía humana: población, economía, etc.",
+        "nivel": "v2",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-4-geografia-b1-extra-008",
+        "tema": "Regiones geográficas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El estado más grande de México es ___",
+        "respuestaCorrecta": "Chihuahua",
+        "explicacion": "Chihuahua es el estado más grande de México con 247,455 km²."
+      },
+      {
+        "id": "primaria-4-geografia-b1-extra-010",
+        "tema": "Regiones geográficas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En qué continente está Egipto?",
+        "opciones": [
+          "Asia",
+          "Europa",
+          "África",
+          "América"
+        ],
+        "respuestaCorrecta": "África",
+        "explicacion": "Egipto está en el noreste de África, aunque el Canal de Suez lo conecta con Asia.",
+        "ejemplo": "7 continentes:\n🌎 América · 🌍 Europa · 🌍 África · 🌏 Asia · 🌏 Oceanía · 🌐 Antártida\nTruco: A-AAEO → Amé,Asia,África,Europa,Oceanía"
+      },
+      {
+        "id": "primaria-4-geografia-b1-extra-012",
+        "tema": "Regiones geográficas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos estados tiene México?",
+        "opciones": [
+          "28",
+          "29",
+          "31",
+          "33"
+        ],
+        "respuestaCorrecta": "31",
+        "explicacion": "México tiene 31 estados y 1 entidad (Ciudad de México), total 32 entidades federativas."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-013",
+        "tema": "División política",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La capital de Japón es ___",
+        "respuestaCorrecta": "Tokio",
+        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-014",
+        "tema": "Regiones geográficas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": [
+          "Sahara",
+          "Atacama",
+          "Gobi",
+          "Antartico"
+        ],
+        "respuestaCorrecta": "Antartico",
+        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-015",
+        "tema": "División política",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En qué continente está Brasil?",
+        "opciones": [
+          "Norteamérica",
+          "Europa",
+          "África",
+          "Sudamérica"
+        ],
+        "respuestaCorrecta": "Sudamérica",
+        "explicacion": "Brasil es el país más grande de América del Sur.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-016",
+        "tema": "Regiones geográficas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "China",
+          "EUA",
+          "Rusia",
+          "Canadá"
+        ],
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-017",
+        "tema": "División política",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-018",
+        "tema": "Regiones geográficas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "México limita al sur con ___ y ___",
+        "respuestaCorrecta": "Guatemala y Belice",
+        "explicacion": "Al sur de México están Guatemala y Belice, en América Central."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-019",
+        "tema": "División política",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
+        "respuestaCorrecta": "Estados Unidos",
+        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-x-020",
+        "tema": "Regiones geográficas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La capital de Japón es ___",
+        "respuestaCorrecta": "Tokio",
+        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-4-geografia-b1-001",
+        "tema": "División política",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuántos estados tiene México?",
+        "opciones": [
+          "28",
+          "30",
+          "31",
+          "32"
+        ],
+        "explicacion": "México tiene 31 estados y 1 Ciudad de México (antes DF), para un total de 32 entidades federativas.",
+        "nivel": "v1",
+        "respuestaCorrecta": "31",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-002",
+        "tema": "División política",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la capital de México?",
+        "opciones": [
+          "Guadalajara",
+          "Monterrey",
+          "Puebla",
+          "Ciudad de México"
+        ],
+        "explicacion": "Ciudad de México (CDMX) es la capital y la ciudad más grande del país.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Ciudad de México",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-geografia-b1-004",
+        "tema": "Regiones geográficas",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia \"División política\" en geografía?",
+        "opciones": [
+          "La distribución en el espacio",
+          "La historia antigua",
+          "Las ciencias exactas",
+          "La literatura"
+        ],
+        "explicacion": "La geografía estudia cómo se distribuyen División política en el espacio terrestre.",
+        "nivel": "v2",
+        "respuestaCorrecta": "La distribución en el espacio",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:06:30.415Z",
+  "version": "2.0"
+}

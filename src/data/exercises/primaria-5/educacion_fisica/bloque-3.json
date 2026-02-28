@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-5",
+  "materia": "educacion_fisica",
+  "bloque": 3,
+  "nombre": "Vida activa y prevención de obesidad",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Obesidad infantil",
+    "Actividad física diaria"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p5ef-b3-01",
+        "tema": "Obesidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "México ocupa uno de los primeros lugares mundiales en:",
+        "opciones": [
+          "Obesidad infantil",
+          "Natación olímpica",
+          "Atletismo",
+          "Gimnasia"
+        ],
+        "respuestaCorrecta": "Obesidad infantil",
+        "explicacion": "México tiene una de las tasas más altas de sobrepeso y obesidad infantil en el mundo."
+      },
+      {
+        "id": "p5ef-b3-02",
+        "tema": "Actividad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas horas máximo recomienda la OMS de pantallas al día para niños?",
+        "opciones": [
+          "2 horas",
+          "8 horas",
+          "Sin límite",
+          "6 horas"
+        ],
+        "respuestaCorrecta": "2 horas",
+        "explicacion": "La OMS recomienda limitar el tiempo de pantalla a máximo 2 horas diarias para niños."
+      },
+      {
+        "id": "p5ef-b3-03",
+        "tema": "Obesidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La comida chatarra contribuye a la obesidad infantil",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los alimentos altos en grasa, azúcar y sal, con bajo valor nutricional, favorecen la obesidad."
+      },
+      {
+        "id": "p5ef-b3-04",
+        "tema": "Actividad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es mejor forma de ir a la escuela si vives cerca?",
+        "opciones": [
+          "Caminando o en bicicleta",
+          "Siempre en carro",
+          "En helicóptero",
+          "No ir a la escuela"
+        ],
+        "respuestaCorrecta": "Caminando o en bicicleta",
+        "explicacion": "Caminar o andar en bici es ejercicio gratuito que se puede hacer todos los días."
+      },
+      {
+        "id": "p5ef-b3-05",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el IMC (Índice de Masa Corporal)?",
+        "opciones": [
+          "Una medida que relaciona peso y estatura para evaluar si estamos en un peso saludable",
+          "Solo el peso",
+          "Solo la estatura",
+          "El color de piel"
+        ],
+        "respuestaCorrecta": "Una medida que relaciona peso y estatura para evaluar si estamos en un peso saludable",
+        "explicacion": "IMC = peso(kg) / estatura(m)². Es una referencia básica de salud corporal."
+      },
+      {
+        "id": "p5ef-b3-06",
+        "tema": "Actividad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Jugar videojuegos activos (de movimiento) cuenta como actividad física",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los videojuegos de baile o deportes que requieren movimiento corporal sí generan actividad física."
+      },
+      {
+        "id": "p5ef-b3-07",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la mejor estrategia contra la obesidad?",
+        "opciones": [
+          "Combinar actividad física diaria con alimentación saludable",
+          "Solo hacer dieta",
+          "Solo hacer ejercicio extremo",
+          "No comer nada"
+        ],
+        "respuestaCorrecta": "Combinar actividad física diaria con alimentación saludable",
+        "explicacion": "La prevención de la obesidad requiere tanto movimiento como buena nutrición."
+      },
+      {
+        "id": "p5ef-b3-08",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué son dañinos los refrescos azucarados?",
+        "opciones": [
+          "Tienen exceso de azúcar que favorece obesidad y caries",
+          "Son nutritivos",
+          "Dan vitaminas",
+          "Son buenos para los huesos"
+        ],
+        "respuestaCorrecta": "Tienen exceso de azúcar que favorece obesidad y caries",
+        "explicacion": "Un refresco puede tener hasta 10 cucharadas de azúcar, superando el límite diario."
+      },
+      {
+        "id": "p5ef-b3-09",
+        "tema": "Actividad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los recreos activos (con juegos de movimiento) ayudan a la salud",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Usar el recreo para jugar activamente contribuye a los 60 minutos diarios recomendados."
+      },
+      {
+        "id": "p5ef-b3-10",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hábito saludable debemos practicar TODOS los días?",
+        "opciones": [
+          "Hacer al menos 60 minutos de actividad física",
+          "Comer solo dulces",
+          "Ver TV todo el día",
+          "Dormir solo 3 horas"
+        ],
+        "respuestaCorrecta": "Hacer al menos 60 minutos de actividad física",
+        "explicacion": "60 minutos diarios de ejercicio es el mínimo para mantener una vida activa y saludable."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p5ef-b3-01",
+        "tema": "Obesidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "México ocupa uno de los primeros lugares mundiales en:",
+        "opciones": [
+          "Obesidad infantil",
+          "Natación olímpica",
+          "Atletismo",
+          "Gimnasia"
+        ],
+        "respuestaCorrecta": "Obesidad infantil",
+        "explicacion": "México tiene una de las tasas más altas de sobrepeso y obesidad infantil en el mundo."
+      },
+      {
+        "id": "p5ef-b3-02",
+        "tema": "Actividad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas horas máximo recomienda la OMS de pantallas al día para niños?",
+        "opciones": [
+          "2 horas",
+          "8 horas",
+          "Sin límite",
+          "6 horas"
+        ],
+        "respuestaCorrecta": "2 horas",
+        "explicacion": "La OMS recomienda limitar el tiempo de pantalla a máximo 2 horas diarias para niños."
+      }
+    ]
+  }
+}

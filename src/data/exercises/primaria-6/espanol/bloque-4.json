@@ -1,0 +1,385 @@
+{
+  "grado": "primaria-6",
+  "materia": "espanol",
+  "bloque": 4,
+  "nombre": "Medios digitales",
+  "meses": "Noviembre-Diciembre",
+  "temas": [
+    "Noticias digitales",
+    "Redes sociales y lenguaje"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-6-espanol-b4-001",
+        "tema": "Noticias digitales",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la función principal de la noticias digitales?",
+        "opciones": [
+          "Informar",
+          "Entretener",
+          "Convencer",
+          "Describir"
+        ],
+        "explicacion": "En Noticias digitales el objetivo principal suele ser comunicar.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Informar"
+      },
+      {
+        "id": "primaria-6-espanol-b4-002",
+        "tema": "Noticias digitales",
+        "tipo": "true_false",
+        "pregunta": "Un texto de noticias digitales tiene introducción, desarrollo y conclusión",
+        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-6-espanol-b4-003",
+        "tema": "Noticias digitales",
+        "tipo": "fill_blank",
+        "pregunta": "El ___ de un texto es la idea que lo organiza",
+        "explicacion": "El tema principal es el hilo conductor de todo el texto.",
+        "nivel": "v1",
+        "respuestaCorrecta": "tema principal"
+      },
+      {
+        "id": "primaria-6-espanol-b4-extra-007",
+        "tema": "Noticias digitales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un sustantivo?",
+        "opciones": [
+          "Una acción",
+          "Un nombre de persona, lugar o cosa",
+          "Una descripción",
+          "Una unión de palabras"
+        ],
+        "respuestaCorrecta": "Un nombre de persona, lugar o cosa",
+        "explicacion": "Los sustantivos nombran seres, cosas y lugares: \"niño\", \"ciudad\", \"libro\"."
+      },
+      {
+        "id": "primaria-6-espanol-b4-extra-009",
+        "tema": "Noticias digitales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los sinónimos tienen significados similares",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sinónimos: casa/hogar, grande/enorme, bonito/hermoso."
+      },
+      {
+        "id": "primaria-6-espanol-b4-extra-011",
+        "tema": "Noticias digitales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El opuesto de \"alegre\" es ___",
+        "respuestaCorrecta": "triste",
+        "explicacion": "Los antónimos son palabras de significado opuesto: alegre/triste, grande/pequeño."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-012",
+        "tema": "Noticias digitales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-013",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-014",
+        "tema": "Noticias digitales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-015",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-016",
+        "tema": "Noticias digitales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-017",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-018",
+        "tema": "Noticias digitales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-019",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-020",
+        "tema": "Noticias digitales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-6-espanol-b4-004",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la función principal de la redes sociales y lenguaje?",
+        "opciones": [
+          "Informar",
+          "Entretener",
+          "Convencer",
+          "Describir"
+        ],
+        "explicacion": "En Redes sociales y lenguaje el objetivo principal suele ser comunicar.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Informar"
+      },
+      {
+        "id": "primaria-6-espanol-b4-005",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "true_false",
+        "pregunta": "Un texto de redes sociales y lenguaje tiene introducción, desarrollo y conclusión",
+        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
+        "nivel": "v2",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-6-espanol-b4-006",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "fill_blank",
+        "pregunta": "El ___ de un texto es la idea que lo organiza",
+        "explicacion": "El tema principal es el hilo conductor de todo el texto.",
+        "nivel": "v2",
+        "respuestaCorrecta": "tema principal"
+      },
+      {
+        "id": "primaria-6-espanol-b4-extra-008",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La palabra \"correr\" es un ___",
+        "respuestaCorrecta": "verbo",
+        "explicacion": "Los verbos expresan acciones: correr, saltar, estudiar, comer."
+      },
+      {
+        "id": "primaria-6-espanol-b4-extra-010",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Rápidamente\" es un...",
+        "opciones": [
+          "Sustantivo",
+          "Verbo",
+          "Adjetivo",
+          "Adverbio"
+        ],
+        "respuestaCorrecta": "Adverbio",
+        "explicacion": "Los adverbios modifican al verbo, adjetivo u otro adverbio. \"Rápidamente\" modifica cómo se hace algo."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-012",
+        "tema": "Noticias digitales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-013",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-014",
+        "tema": "Noticias digitales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-015",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-016",
+        "tema": "Noticias digitales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-017",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-018",
+        "tema": "Noticias digitales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-6-espanol-b4-x-019",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-6-espanol-b4-001",
+        "tema": "Noticias digitales",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la función principal de la noticias digitales?",
+        "opciones": [
+          "Informar",
+          "Entretener",
+          "Convencer",
+          "Describir"
+        ],
+        "explicacion": "En Noticias digitales el objetivo principal suele ser comunicar.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Informar"
+      },
+      {
+        "id": "primaria-6-espanol-b4-002",
+        "tema": "Noticias digitales",
+        "tipo": "true_false",
+        "pregunta": "Un texto de noticias digitales tiene introducción, desarrollo y conclusión",
+        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-6-espanol-b4-004",
+        "tema": "Redes sociales y lenguaje",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la función principal de la redes sociales y lenguaje?",
+        "opciones": [
+          "Informar",
+          "Entretener",
+          "Convencer",
+          "Describir"
+        ],
+        "explicacion": "En Redes sociales y lenguaje el objetivo principal suele ser comunicar.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Informar"
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:06:30.469Z",
+  "version": "2.0"
+}

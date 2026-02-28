@@ -1,0 +1,385 @@
+{
+  "grado": "secundaria-2",
+  "materia": "espanol",
+  "bloque": 4,
+  "nombre": "Investigación documental",
+  "meses": "Noviembre-Diciembre",
+  "temas": [
+    "Fuentes primarias y secundarias",
+    "Citar en formato APA"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-2-espanol-b4-001",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Fuentes primarias y secundarias\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Fuentes primarias y secundarias es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-002",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Fuentes primarias y secundarias es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-003",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En Fuentes primarias y secundarias, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-extra-007",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El narrador omnisciente...",
+        "opciones": [
+          "Solo narra lo que ve",
+          "Conoce los pensamientos de todos",
+          "Es el protagonista",
+          "No existe"
+        ],
+        "respuestaCorrecta": "Conoce los pensamientos de todos",
+        "explicacion": "El narrador omnisciente sabe todo: pensamientos, sentimientos y eventos."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-extra-009",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El ensayo es siempre un texto de opinión personal",
+        "respuestaCorrecta": "true",
+        "explicacion": "El ensayo expresa el punto de vista del autor sobre un tema, con argumentos."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-011",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Un oximorón es...",
+        "opciones": [
+          "Sinónimos combinados",
+          "Palabras contrarias en unión",
+          "Una figura matemática",
+          "Un tipo de narrador"
+        ],
+        "respuestaCorrecta": "Palabras contrarias en unión",
+        "explicacion": "Oximorón: unir conceptos contrarios. Ej: \"silencio ensordecedor\", \"oscura claridad\"."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-012",
+        "tema": "Citar en formato APA",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En \"habría comido\", el tiempo verbal es...",
+        "opciones": [
+          "Condicional perfecto",
+          "Subjuntivo imperfecto",
+          "Futuro perfecto",
+          "Indicativo"
+        ],
+        "respuestaCorrecta": "Condicional perfecto",
+        "explicacion": "Habría comido = condicional perfecto, indica acción hipotética en el pasado."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-013",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Octavio Paz escribió el poemario \"___\" (1950)",
+        "respuestaCorrecta": "El laberinto de la soledad",
+        "explicacion": "Obra cumbre de Octavio Paz, Premio Nobel Mexicano."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-014",
+        "tema": "Citar en formato APA",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El español es una lengua ___",
+        "respuestaCorrecta": "romance",
+        "explicacion": "Las lenguas romances derivan del latín: español, francés, italiano, portugués."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-015",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El texto argumentativo busca convencer al lector",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Presenta tesis, argumentos y conclusión para persuadir."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-016",
+        "tema": "Citar en formato APA",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Un oximorón es...",
+        "opciones": [
+          "Sinónimos combinados",
+          "Palabras contrarias en unión",
+          "Una figura matemática",
+          "Un tipo de narrador"
+        ],
+        "respuestaCorrecta": "Palabras contrarias en unión",
+        "explicacion": "Oximorón: unir conceptos contrarios. Ej: \"silencio ensordecedor\", \"oscura claridad\"."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-017",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En \"habría comido\", el tiempo verbal es...",
+        "opciones": [
+          "Condicional perfecto",
+          "Subjuntivo imperfecto",
+          "Futuro perfecto",
+          "Indicativo"
+        ],
+        "respuestaCorrecta": "Condicional perfecto",
+        "explicacion": "Habría comido = condicional perfecto, indica acción hipotética en el pasado."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-018",
+        "tema": "Citar en formato APA",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Octavio Paz escribió el poemario \"___\" (1950)",
+        "respuestaCorrecta": "El laberinto de la soledad",
+        "explicacion": "Obra cumbre de Octavio Paz, Premio Nobel Mexicano."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-019",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El español es una lengua ___",
+        "respuestaCorrecta": "romance",
+        "explicacion": "Las lenguas romances derivan del latín: español, francés, italiano, portugués."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-2-espanol-b4-004",
+        "tema": "Citar en formato APA",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Citar en formato APA\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Citar en formato APA es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-005",
+        "tema": "Citar en formato APA",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Citar en formato APA es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-006",
+        "tema": "Citar en formato APA",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En Citar en formato APA, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-extra-008",
+        "tema": "Citar en formato APA",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La metáfora es una ___ que compara sin usar \"como\"",
+        "respuestaCorrecta": "figura retórica",
+        "explicacion": "La metáfora es una figura que afirma que algo ES otra cosa: \"Sus ojos son estrellas.\""
+      },
+      {
+        "id": "secundaria-2-espanol-b4-extra-010",
+        "tema": "Citar en formato APA",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En \"El perro del hortelano\": ¿es un texto...?",
+        "opciones": [
+          "Lírico",
+          "Dramático",
+          "Narrativo",
+          "Científico"
+        ],
+        "respuestaCorrecta": "Dramático",
+        "explicacion": "Es una obra de teatro de Lope de Vega — texto dramático escrito para representarse."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-011",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El español es una lengua ___",
+        "respuestaCorrecta": "romance",
+        "explicacion": "Las lenguas romances derivan del latín: español, francés, italiano, portugués."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-012",
+        "tema": "Citar en formato APA",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El texto argumentativo busca convencer al lector",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Presenta tesis, argumentos y conclusión para persuadir."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-013",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un oximorón es...",
+        "opciones": [
+          "Sinónimos combinados",
+          "Palabras contrarias en unión",
+          "Una figura matemática",
+          "Un tipo de narrador"
+        ],
+        "respuestaCorrecta": "Palabras contrarias en unión",
+        "explicacion": "Oximorón: unir conceptos contrarios. Ej: \"silencio ensordecedor\", \"oscura claridad\"."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-014",
+        "tema": "Citar en formato APA",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En \"habría comido\", el tiempo verbal es...",
+        "opciones": [
+          "Condicional perfecto",
+          "Subjuntivo imperfecto",
+          "Futuro perfecto",
+          "Indicativo"
+        ],
+        "respuestaCorrecta": "Condicional perfecto",
+        "explicacion": "Habría comido = condicional perfecto, indica acción hipotética en el pasado."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-015",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Octavio Paz escribió el poemario \"___\" (1950)",
+        "respuestaCorrecta": "El laberinto de la soledad",
+        "explicacion": "Obra cumbre de Octavio Paz, Premio Nobel Mexicano."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-016",
+        "tema": "Citar en formato APA",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El español es una lengua ___",
+        "respuestaCorrecta": "romance",
+        "explicacion": "Las lenguas romances derivan del latín: español, francés, italiano, portugués."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-017",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El texto argumentativo busca convencer al lector",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Presenta tesis, argumentos y conclusión para persuadir."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-018",
+        "tema": "Citar en formato APA",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un oximorón es...",
+        "opciones": [
+          "Sinónimos combinados",
+          "Palabras contrarias en unión",
+          "Una figura matemática",
+          "Un tipo de narrador"
+        ],
+        "respuestaCorrecta": "Palabras contrarias en unión",
+        "explicacion": "Oximorón: unir conceptos contrarios. Ej: \"silencio ensordecedor\", \"oscura claridad\"."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-x-019",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En \"habría comido\", el tiempo verbal es...",
+        "opciones": [
+          "Condicional perfecto",
+          "Subjuntivo imperfecto",
+          "Futuro perfecto",
+          "Indicativo"
+        ],
+        "respuestaCorrecta": "Condicional perfecto",
+        "explicacion": "Habría comido = condicional perfecto, indica acción hipotética en el pasado."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-2-espanol-b4-001",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Fuentes primarias y secundarias\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Fuentes primarias y secundarias es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-002",
+        "tema": "Fuentes primarias y secundarias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Fuentes primarias y secundarias es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-2-espanol-b4-004",
+        "tema": "Citar en formato APA",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Citar en formato APA\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Citar en formato APA es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:11:24.058Z",
+  "version": "2.0"
+}

@@ -1,0 +1,384 @@
+{
+  "grado": "primaria-2",
+  "materia": "ciencias",
+  "bloque": 4,
+  "nombre": "Fuerzas y movimiento",
+  "meses": "Febrero-Marzo",
+  "temas": [
+    "Fuerzas y movimiento"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-2-ciencias-b4-001",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Que fuerza hace que los objetos caigan al suelo?",
+        "opciones": [
+          "La electricidad",
+          "La gravedad",
+          "El magnetismo",
+          "La friccion"
+        ],
+        "respuestaCorrecta": "La gravedad",
+        "explicacion": "La gravedad es la fuerza que atrae los objetos hacia el centro de la Tierra."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-extra-003",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": [
+          "Venus",
+          "Mercurio",
+          "Marte",
+          "Tierra"
+        ],
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio es el planeta más cercano al Sol, a 57.9 millones de kilómetros."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-extra-005",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mamíferos son de sangre fría",
+        "respuestaCorrecta": "false",
+        "explicacion": "Los mamíferos somos de sangre caliente (homeotérmicos). Los reptiles sí son de sangre fría."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-extra-007",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis convierte luz solar en ___",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Las plantas usan la luz del sol, CO₂ y agua para fabricar glucosa (azúcar) que les da energía."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-extra-009",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Luna produce su propia luz",
+        "respuestaCorrecta": "false",
+        "explicacion": "La Luna refleja la luz del Sol. No tiene luz propia."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-010",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-011",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-012",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-013",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-014",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-015",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-016",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-017",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-018",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-019",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-2-ciencias-b4-002",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La friccion siempre es mala porque detiene el movimiento.",
+        "respuestaCorrecta": "false",
+        "explicacion": "La friccion tambien es util: nos permite caminar sin resbalar, los frenos del carro funcionan por friccion."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-extra-004",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El oxígeno tiene símbolo químico ___",
+        "respuestaCorrecta": "O",
+        "explicacion": "O es el símbolo del oxígeno en la tabla periódica. Con este respiramos."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-extra-006",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué orgánulo produce energía en la célula?",
+        "opciones": [
+          "Núcleo",
+          "Ribosoma",
+          "Mitocondria",
+          "Vacuola"
+        ],
+        "respuestaCorrecta": "Mitocondria",
+        "explicacion": "Las mitocondrias son \"las plantas de energía\" de la célula. Producen ATP."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-extra-008",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El agua hierve a...",
+        "opciones": [
+          "0°C",
+          "50°C",
+          "100°C",
+          "150°C"
+        ],
+        "respuestaCorrecta": "100°C",
+        "explicacion": "A 100°C (a nivel del mar) el agua pasa de líquido a gas (vapor)."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-010",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-011",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-012",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-013",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-014",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-015",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-016",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-017",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-x-018",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-2-ciencias-b4-001",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Que fuerza hace que los objetos caigan al suelo?",
+        "opciones": [
+          "La electricidad",
+          "La gravedad",
+          "El magnetismo",
+          "La friccion"
+        ],
+        "respuestaCorrecta": "La gravedad",
+        "explicacion": "La gravedad es la fuerza que atrae los objetos hacia el centro de la Tierra."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-extra-003",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": [
+          "Venus",
+          "Mercurio",
+          "Marte",
+          "Tierra"
+        ],
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio es el planeta más cercano al Sol, a 57.9 millones de kilómetros."
+      },
+      {
+        "id": "primaria-2-ciencias-b4-002",
+        "tema": "Fuerzas y movimiento",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La friccion siempre es mala porque detiene el movimiento.",
+        "respuestaCorrecta": "false",
+        "explicacion": "La friccion tambien es util: nos permite caminar sin resbalar, los frenos del carro funcionan por friccion."
+      }
+    ]
+  },
+  "generado": "2026-02-27T04:04:54.103Z",
+  "version": "2.0"
+}

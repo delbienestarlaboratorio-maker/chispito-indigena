@@ -1,0 +1,387 @@
+{
+  "grado": "secundaria-1",
+  "materia": "ingles",
+  "bloque": 5,
+  "nombre": "Free Time and Hobbies",
+  "meses": "Abril-Junio",
+  "temas": [
+    "Sports and games",
+    "Present continuous",
+    "Likes and interests",
+    "Weekend activities"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-1-ingles-b5-001",
+        "tema": "Present continuous",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se dice \"Hola\" en inglés?",
+        "opciones": [
+          "Goodbye",
+          "Hello",
+          "Thank you",
+          "Please"
+        ],
+        "respuestaCorrecta": "Hello",
+        "explicacion": "\"Hello\" is how we say \"Hola\" in English. Other greetings: Hi, Good morning, Good afternoon."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-002",
+        "tema": "Likes and interests",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "My ___ is Carlos. (Mi nombre es Carlos)",
+        "respuestaCorrecta": "name",
+        "explicacion": "\"My name is...\" means \"Mi nombre es...\" — this is how we introduce ourselves."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-003",
+        "tema": "Weekend activities",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuánto es \"fifteen\" en español?",
+        "opciones": [
+          "5",
+          "14",
+          "15",
+          "50"
+        ],
+        "respuestaCorrecta": "15",
+        "explicacion": "\"Fifteen\" = 15. Numbers: thirteen=13, fourteen=14, fifteen=15, sixteen=16..."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-007",
+        "tema": "Sports and games",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-008",
+        "tema": "Present continuous",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-009",
+        "tema": "Likes and interests",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-010",
+        "tema": "Weekend activities",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-011",
+        "tema": "Sports and games",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-012",
+        "tema": "Present continuous",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-013",
+        "tema": "Likes and interests",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-014",
+        "tema": "Weekend activities",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-015",
+        "tema": "Sports and games",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-016",
+        "tema": "Present continuous",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-017",
+        "tema": "Likes and interests",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-1-ingles-b5-004",
+        "tema": "Sports and games",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Red\" is a color",
+        "respuestaCorrecta": "true",
+        "explicacion": "Yes! \"Red\" means rojo. Colors: red, blue, green, yellow, orange, purple..."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-005",
+        "tema": "Present continuous",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa \"I am a student\"?",
+        "opciones": [
+          "Yo tengo un estudiante",
+          "Yo soy un estudiante",
+          "Mi estudiante",
+          "Estudiante mío"
+        ],
+        "respuestaCorrecta": "Yo soy un estudiante",
+        "explicacion": "\"I am\" = \"Yo soy\". \"I am a student\" = Soy un estudiante."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-006",
+        "tema": "Likes and interests",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "_____ is my favorite color. (Mi color favorito es azul)",
+        "respuestaCorrecta": "Blue",
+        "explicacion": "\"Blue\" = azul. Colors: red=rojo, blue=azul, green=verde, yellow=amarillo."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-007",
+        "tema": "Sports and games",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-008",
+        "tema": "Present continuous",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-009",
+        "tema": "Likes and interests",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-010",
+        "tema": "Weekend activities",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-011",
+        "tema": "Sports and games",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-012",
+        "tema": "Present continuous",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-013",
+        "tema": "Likes and interests",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-014",
+        "tema": "Weekend activities",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-015",
+        "tema": "Sports and games",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-016",
+        "tema": "Present continuous",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-x-017",
+        "tema": "Likes and interests",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-1-ingles-b5-001",
+        "tema": "Present continuous",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se dice \"Hola\" en inglés?",
+        "opciones": [
+          "Goodbye",
+          "Hello",
+          "Thank you",
+          "Please"
+        ],
+        "respuestaCorrecta": "Hello",
+        "explicacion": "\"Hello\" is how we say \"Hola\" in English. Other greetings: Hi, Good morning, Good afternoon."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-002",
+        "tema": "Likes and interests",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "My ___ is Carlos. (Mi nombre es Carlos)",
+        "respuestaCorrecta": "name",
+        "explicacion": "\"My name is...\" means \"Mi nombre es...\" — this is how we introduce ourselves."
+      },
+      {
+        "id": "secundaria-1-ingles-b5-004",
+        "tema": "Sports and games",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Red\" is a color",
+        "respuestaCorrecta": "true",
+        "explicacion": "Yes! \"Red\" means rojo. Colors: red, blue, green, yellow, orange, purple..."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:46:14.146Z",
+  "version": "2.0"
+}

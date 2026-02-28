@@ -1,0 +1,398 @@
+{
+  "grado": "preescolar-2",
+  "materia": "artes",
+  "bloque": 2,
+  "nombre": "Música y ritmo",
+  "meses": "Octubre-Noviembre",
+  "temas": [
+    "Modelado con plastilina",
+    "Canciones y ritmos",
+    "Danza creativa",
+    "Cuento ilustrado",
+    "Teatro simple"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "preescolar-2-artes-b2-001",
+        "tema": "Canciones y ritmos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué usamos para pintar?",
+        "opciones": [
+          "Un cuchillo",
+          "Un pincel",
+          "Una regla",
+          "Un eraser"
+        ],
+        "respuestaCorrecta": "Un pincel",
+        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+      },
+      {
+        "id": "preescolar-2-artes-b2-002",
+        "tema": "Danza creativa",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La música tiene ___ y melodía",
+        "respuestaCorrecta": "ritmo",
+        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
+      },
+      {
+        "id": "preescolar-2-artes-b2-003",
+        "tema": "Cuento ilustrado",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Rojo y azul juntos forman morado",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
+        "visual": "🔴",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-006",
+        "tema": "Modelado con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": [
+          "Picasso",
+          "Leonardo da Vinci",
+          "Miguel Ángel",
+          "Rafael"
+        ],
+        "respuestaCorrecta": "Leonardo da Vinci",
+        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-007",
+        "tema": "Canciones y ritmos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La flauta es un instrumento de viento",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-008",
+        "tema": "Danza creativa",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Una obra de teatro se llama también ___",
+        "respuestaCorrecta": "drama",
+        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-009",
+        "tema": "Cuento ilustrado",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
+        "respuestaCorrecta": "charro",
+        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-010",
+        "tema": "Teatro simple",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El color verde se obtiene mezclando azul y ___",
+        "respuestaCorrecta": "amarillo",
+        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
+        "visual": "🔵",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-011",
+        "tema": "Modelado con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "opciones": [
+          "Frida Kahlo",
+          "Diego Rivera",
+          "Rufino Tamayo",
+          "David Siqueiros"
+        ],
+        "respuestaCorrecta": "Diego Rivera",
+        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-012",
+        "tema": "Canciones y ritmos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas notas tiene la escala musical?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-013",
+        "tema": "Danza creativa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": [
+          "Picasso",
+          "Leonardo da Vinci",
+          "Miguel Ángel",
+          "Rafael"
+        ],
+        "respuestaCorrecta": "Leonardo da Vinci",
+        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-014",
+        "tema": "Cuento ilustrado",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La flauta es un instrumento de viento",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-015",
+        "tema": "Teatro simple",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Una obra de teatro se llama también ___",
+        "respuestaCorrecta": "drama",
+        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-016",
+        "tema": "Modelado con plastilina",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
+        "respuestaCorrecta": "charro",
+        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-017",
+        "tema": "Canciones y ritmos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El color verde se obtiene mezclando azul y ___",
+        "respuestaCorrecta": "amarillo",
+        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
+        "visual": "🔵",
+        "visualAnimado": true
+      }
+    ],
+    "v2": [
+      {
+        "id": "preescolar-2-artes-b2-004",
+        "tema": "Teatro simple",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "opciones": [
+          "Agua",
+          "Plastilina",
+          "Luz",
+          "Aire"
+        ],
+        "respuestaCorrecta": "Plastilina",
+        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+      },
+      {
+        "id": "preescolar-2-artes-b2-005",
+        "tema": "Modelado con plastilina",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Bailar es moverse al ritmo de la ___",
+        "respuestaCorrecta": "música",
+        "explicacion": "La danza es el arte de moverse siguiendo la música."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-006",
+        "tema": "Modelado con plastilina",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El color verde se obtiene mezclando azul y ___",
+        "respuestaCorrecta": "amarillo",
+        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
+        "visual": "🔵",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-007",
+        "tema": "Canciones y ritmos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "opciones": [
+          "Frida Kahlo",
+          "Diego Rivera",
+          "Rufino Tamayo",
+          "David Siqueiros"
+        ],
+        "respuestaCorrecta": "Diego Rivera",
+        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-008",
+        "tema": "Danza creativa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas notas tiene la escala musical?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-009",
+        "tema": "Cuento ilustrado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": [
+          "Picasso",
+          "Leonardo da Vinci",
+          "Miguel Ángel",
+          "Rafael"
+        ],
+        "respuestaCorrecta": "Leonardo da Vinci",
+        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-010",
+        "tema": "Teatro simple",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La flauta es un instrumento de viento",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-011",
+        "tema": "Modelado con plastilina",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Una obra de teatro se llama también ___",
+        "respuestaCorrecta": "drama",
+        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-012",
+        "tema": "Canciones y ritmos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
+        "respuestaCorrecta": "charro",
+        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-013",
+        "tema": "Danza creativa",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El color verde se obtiene mezclando azul y ___",
+        "respuestaCorrecta": "amarillo",
+        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
+        "visual": "🔵",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-014",
+        "tema": "Cuento ilustrado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "opciones": [
+          "Frida Kahlo",
+          "Diego Rivera",
+          "Rufino Tamayo",
+          "David Siqueiros"
+        ],
+        "respuestaCorrecta": "Diego Rivera",
+        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-015",
+        "tema": "Teatro simple",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas notas tiene la escala musical?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+      },
+      {
+        "id": "preescolar-2-artes-b2-x-016",
+        "tema": "Modelado con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": [
+          "Picasso",
+          "Leonardo da Vinci",
+          "Miguel Ángel",
+          "Rafael"
+        ],
+        "respuestaCorrecta": "Leonardo da Vinci",
+        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+      }
+    ],
+    "preview": [
+      {
+        "id": "preescolar-2-artes-b2-001",
+        "tema": "Canciones y ritmos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué usamos para pintar?",
+        "opciones": [
+          "Un cuchillo",
+          "Un pincel",
+          "Una regla",
+          "Un eraser"
+        ],
+        "respuestaCorrecta": "Un pincel",
+        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+      },
+      {
+        "id": "preescolar-2-artes-b2-002",
+        "tema": "Danza creativa",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La música tiene ___ y melodía",
+        "respuestaCorrecta": "ritmo",
+        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
+      },
+      {
+        "id": "preescolar-2-artes-b2-004",
+        "tema": "Teatro simple",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "opciones": [
+          "Agua",
+          "Plastilina",
+          "Luz",
+          "Aire"
+        ],
+        "respuestaCorrecta": "Plastilina",
+        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:46:14.137Z",
+  "version": "2.0"
+}

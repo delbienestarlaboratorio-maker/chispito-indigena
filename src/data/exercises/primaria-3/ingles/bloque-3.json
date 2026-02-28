@@ -1,0 +1,195 @@
+{
+  "grado": "primaria-3",
+  "materia": "ingles",
+  "bloque": 3,
+  "nombre": "My school",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Classroom objects",
+    "School verbs"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3en-b3-01",
+        "tema": "Objetos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Pencil\" means:",
+        "opciones": [
+          "Lápiz",
+          "Pluma",
+          "Borrador",
+          "Regla"
+        ],
+        "respuestaCorrecta": "Lápiz",
+        "explicacion": "Pencil = lápiz. Pen = pluma."
+      },
+      {
+        "id": "p3en-b3-02",
+        "tema": "Objetos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Book\" means:",
+        "opciones": [
+          "Libro",
+          "Cuaderno",
+          "Mochila",
+          "Mesa"
+        ],
+        "respuestaCorrecta": "Libro",
+        "explicacion": "Book = libro. Notebook = cuaderno."
+      },
+      {
+        "id": "p3en-b3-03",
+        "tema": "Objetos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Eraser\" means pluma",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Eraser = borrador. Pen = pluma."
+      },
+      {
+        "id": "p3en-b3-04",
+        "tema": "Verbos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I read\" means:",
+        "opciones": [
+          "Yo leo",
+          "Yo escribo",
+          "Yo dibujo",
+          "Yo corro"
+        ],
+        "respuestaCorrecta": "Yo leo",
+        "explicacion": "Read = leer. I read = yo leo."
+      },
+      {
+        "id": "p3en-b3-05",
+        "tema": "Objetos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Ruler\" means:",
+        "opciones": [
+          "Regla",
+          "Tijeras",
+          "Pegamento",
+          "Colores"
+        ],
+        "respuestaCorrecta": "Regla",
+        "explicacion": "Ruler = regla (para medir y trazar líneas)."
+      },
+      {
+        "id": "p3en-b3-06",
+        "tema": "Verbos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"She writes\" means:",
+        "opciones": [
+          "Ella escribe",
+          "Ella corre",
+          "Él escribe",
+          "Ella come"
+        ],
+        "respuestaCorrecta": "Ella escribe",
+        "explicacion": "Write = escribir. She writes = ella escribe."
+      },
+      {
+        "id": "p3en-b3-07",
+        "tema": "Objetos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Backpack\" means mochila",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Backpack = mochila."
+      },
+      {
+        "id": "p3en-b3-08",
+        "tema": "Verbos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"We study\" means:",
+        "opciones": [
+          "Nosotros estudiamos",
+          "Ellos estudian",
+          "Yo estudio",
+          "Tú estudias"
+        ],
+        "respuestaCorrecta": "Nosotros estudiamos",
+        "explicacion": "We = nosotros. Study = estudiar."
+      },
+      {
+        "id": "p3en-b3-09",
+        "tema": "Objetos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Scissors\" means:",
+        "opciones": [
+          "Tijeras",
+          "Pegamento",
+          "Colores",
+          "Papel"
+        ],
+        "respuestaCorrecta": "Tijeras",
+        "explicacion": "Scissors = tijeras."
+      },
+      {
+        "id": "p3en-b3-10",
+        "tema": "Verbos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Open your book\" means:",
+        "opciones": [
+          "Abre tu libro",
+          "Cierra tu libro",
+          "Levanta la mano",
+          "Siéntate"
+        ],
+        "respuestaCorrecta": "Abre tu libro",
+        "explicacion": "Open = abrir. Your book = tu libro."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p3en-b3-01",
+        "tema": "Objetos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Pencil\" means:",
+        "opciones": [
+          "Lápiz",
+          "Pluma",
+          "Borrador",
+          "Regla"
+        ],
+        "respuestaCorrecta": "Lápiz",
+        "explicacion": "Pencil = lápiz. Pen = pluma."
+      },
+      {
+        "id": "p3en-b3-02",
+        "tema": "Objetos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Book\" means:",
+        "opciones": [
+          "Libro",
+          "Cuaderno",
+          "Mochila",
+          "Mesa"
+        ],
+        "respuestaCorrecta": "Libro",
+        "explicacion": "Book = libro. Notebook = cuaderno."
+      }
+    ]
+  }
+}

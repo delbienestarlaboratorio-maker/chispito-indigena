@@ -1,0 +1,195 @@
+{
+  "grado": "secundaria-1",
+  "materia": "artes",
+  "bloque": 1,
+  "nombre": "Elementos del arte visual",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Color",
+    "Forma",
+    "Línea",
+    "Textura"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s1art-b1-01",
+        "tema": "Color",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los 3 colores primarios?",
+        "opciones": [
+          "Rojo, azul y amarillo",
+          "Verde, naranja y morado",
+          "Blanco, negro y gris",
+          "Rosa, café y beige"
+        ],
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "Los colores primarios no se obtienen mezclando otros y son la base del círculo cromático."
+      },
+      {
+        "id": "s1art-b1-02",
+        "tema": "Color",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué color se obtiene al mezclar azul y amarillo?",
+        "opciones": [
+          "Verde",
+          "Naranja",
+          "Morado",
+          "Café"
+        ],
+        "respuestaCorrecta": "Verde",
+        "explicacion": "Azul + amarillo = verde. Es un color secundario."
+      },
+      {
+        "id": "s1art-b1-03",
+        "tema": "Forma",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un triángulo tiene 4 lados",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "El triángulo tiene 3 lados y 3 ángulos. El cuadrado tiene 4 lados."
+      },
+      {
+        "id": "s1art-b1-04",
+        "tema": "Línea",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué tipo de línea no tiene curvas?",
+        "opciones": [
+          "Recta",
+          "Ondulada",
+          "Espiral",
+          "Curva"
+        ],
+        "respuestaCorrecta": "Recta",
+        "explicacion": "La línea recta va de punto a punto sin cambiar de dirección."
+      },
+      {
+        "id": "s1art-b1-05",
+        "tema": "Textura",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la textura en el arte?",
+        "opciones": [
+          "La sensación de superficie de un material",
+          "El color de la obra",
+          "El tamaño del dibujo",
+          "El nombre del artista"
+        ],
+        "respuestaCorrecta": "La sensación de superficie de un material",
+        "explicacion": "La textura puede ser rugosa, lisa, áspera, suave, etc."
+      },
+      {
+        "id": "s1art-b1-06",
+        "tema": "Arte",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El dibujo y la pintura son formas de arte visual",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El arte visual incluye dibujo, pintura, escultura, fotografía y más."
+      },
+      {
+        "id": "s1art-b1-07",
+        "tema": "Color",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son los colores cálidos?",
+        "opciones": [
+          "Rojos, naranjas y amarillos",
+          "Azules, verdes y morados",
+          "Blancos y negros",
+          "Grises y cafés"
+        ],
+        "respuestaCorrecta": "Rojos, naranjas y amarillos",
+        "explicacion": "Los colores cálidos evocan calor, energía y pasión."
+      },
+      {
+        "id": "s1art-b1-08",
+        "tema": "Composición",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la composición en arte?",
+        "opciones": [
+          "La organización de elementos visuales en una obra",
+          "Solo el color",
+          "Solo el tamaño",
+          "El precio de la obra"
+        ],
+        "respuestaCorrecta": "La organización de elementos visuales en una obra",
+        "explicacion": "La composición decide dónde colocar cada elemento para crear armonía visual."
+      },
+      {
+        "id": "s1art-b1-09",
+        "tema": "Color",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los colores fríos incluyen azul, verde y violeta",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los colores fríos transmiten calma, frescura y tranquilidad."
+      },
+      {
+        "id": "s1art-b1-10",
+        "tema": "Arte",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué herramienta usa principalmente un pintor?",
+        "opciones": [
+          "Pincel y lienzo",
+          "Cincel y mármol",
+          "Cámara fotográfica",
+          "Guitarra"
+        ],
+        "respuestaCorrecta": "Pincel y lienzo",
+        "explicacion": "El pincel aplica pintura sobre el lienzo (tela preparada para pintar)."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s1art-b1-01",
+        "tema": "Color",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los 3 colores primarios?",
+        "opciones": [
+          "Rojo, azul y amarillo",
+          "Verde, naranja y morado",
+          "Blanco, negro y gris",
+          "Rosa, café y beige"
+        ],
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "Los colores primarios no se obtienen mezclando otros y son la base del círculo cromático."
+      },
+      {
+        "id": "s1art-b1-02",
+        "tema": "Color",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué color se obtiene al mezclar azul y amarillo?",
+        "opciones": [
+          "Verde",
+          "Naranja",
+          "Morado",
+          "Café"
+        ],
+        "respuestaCorrecta": "Verde",
+        "explicacion": "Azul + amarillo = verde. Es un color secundario."
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "grado": "primaria-3",
+  "materia": "ingles",
+  "bloque": 1,
+  "nombre": "Hello! Greetings and introductions",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Greetings",
+    "Numbers",
+    "Colors"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3en-b1-01",
+        "tema": "Saludos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "How do you say \"Hola\" in English?",
+        "opciones": [
+          "Hello",
+          "Goodbye",
+          "Thanks",
+          "Please"
+        ],
+        "respuestaCorrecta": "Hello",
+        "explicacion": "Hello = Hola. Es el saludo más común en inglés."
+      },
+      {
+        "id": "p3en-b1-02",
+        "tema": "Números",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "How do you say \"tres\" in English?",
+        "opciones": [
+          "Three",
+          "Tree",
+          "Free",
+          "Thee"
+        ],
+        "respuestaCorrecta": "Three",
+        "explicacion": "Three = 3. One, Two, Three..."
+      },
+      {
+        "id": "p3en-b1-03",
+        "tema": "Saludos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Goodbye\" means Hola",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Goodbye = Adiós. Hello = Hola."
+      },
+      {
+        "id": "p3en-b1-04",
+        "tema": "Verbo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Complete: My name ___ Pedro.",
+        "opciones": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "respuestaCorrecta": "is",
+        "explicacion": "Usamos \"is\" con nombres propios: My name is Pedro."
+      },
+      {
+        "id": "p3en-b1-05",
+        "tema": "Números",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "What number comes after five?",
+        "opciones": [
+          "Six",
+          "Four",
+          "Seven",
+          "Eight"
+        ],
+        "respuestaCorrecta": "Six",
+        "explicacion": "Five (5), Six (6), Seven (7)..."
+      },
+      {
+        "id": "p3en-b1-06",
+        "tema": "Colores",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Blue is the color of the sky",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Blue = azul. The sky is blue = El cielo es azul."
+      },
+      {
+        "id": "p3en-b1-07",
+        "tema": "Colores",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "What color is the sun?",
+        "opciones": [
+          "Yellow",
+          "Blue",
+          "Red",
+          "Green"
+        ],
+        "respuestaCorrecta": "Yellow",
+        "explicacion": "Yellow = amarillo. The sun is yellow."
+      },
+      {
+        "id": "p3en-b1-08",
+        "tema": "Saludos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Thank you\" means:",
+        "opciones": [
+          "Gracias",
+          "Por favor",
+          "De nada",
+          "Hola"
+        ],
+        "respuestaCorrecta": "Gracias",
+        "explicacion": "Thank you = Gracias."
+      },
+      {
+        "id": "p3en-b1-09",
+        "tema": "Presentación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"What is your name?\" means:",
+        "opciones": [
+          "¿Cómo te llamas?",
+          "¿Dónde vives?",
+          "¿Cuántos años tienes?",
+          "¿Qué haces?"
+        ],
+        "respuestaCorrecta": "¿Cómo te llamas?",
+        "explicacion": "What is your name? = ¿Cómo te llamas?"
+      },
+      {
+        "id": "p3en-b1-10",
+        "tema": "Saludos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Good morning\" means buenas noches",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Good morning = Buenos días. Good night = Buenas noches."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p3en-b1-01",
+        "tema": "Saludos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "How do you say \"Hola\" in English?",
+        "opciones": [
+          "Hello",
+          "Goodbye",
+          "Thanks",
+          "Please"
+        ],
+        "respuestaCorrecta": "Hello",
+        "explicacion": "Hello = Hola. Es el saludo más común en inglés."
+      },
+      {
+        "id": "p3en-b1-02",
+        "tema": "Números",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "How do you say \"tres\" in English?",
+        "opciones": [
+          "Three",
+          "Tree",
+          "Free",
+          "Thee"
+        ],
+        "respuestaCorrecta": "Three",
+        "explicacion": "Three = 3. One, Two, Three..."
+      }
+    ]
+  }
+}

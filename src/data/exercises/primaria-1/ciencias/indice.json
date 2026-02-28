@@ -1,0 +1,36 @@
+{
+  "grado": "primaria-1",
+  "materia": "ciencias",
+  "bloques": [
+    {
+      "bloque": 1,
+      "nombre": "Mi cuerpo y mis sentidos",
+      "meses": "Agosto-Septiembre",
+      "url": "/primaria-1/ciencias/bloque-1"
+    },
+    {
+      "bloque": 2,
+      "nombre": "Plantas y animales",
+      "meses": "Octubre-Noviembre",
+      "url": "/primaria-1/ciencias/bloque-2"
+    },
+    {
+      "bloque": 3,
+      "nombre": "El agua y el clima",
+      "meses": "Diciembre-Enero",
+      "url": "/primaria-1/ciencias/bloque-3"
+    },
+    {
+      "bloque": 4,
+      "nombre": "La materia y los materiales",
+      "meses": "Febrero-Marzo",
+      "url": "/primaria-1/ciencias/bloque-4"
+    },
+    {
+      "bloque": 5,
+      "nombre": "La energia: luz y sonido",
+      "meses": "Abril-Junio",
+      "url": "/primaria-1/ciencias/bloque-5"
+    }
+  ]
+}

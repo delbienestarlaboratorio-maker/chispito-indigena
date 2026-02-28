@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-3",
+  "materia": "orientacion",
+  "bloque": 2,
+  "nombre": "Exploración de opciones educativas",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Bachillerato",
+    "Tipos de preparatoria"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3ov-b2-01",
+        "tema": "Bachillerato",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos años dura el bachillerato en México?",
+        "opciones": [
+          "3 años (o 2 años en algunos sistemas como CONALEP)",
+          "1 año",
+          "5 años",
+          "10 años"
+        ],
+        "respuestaCorrecta": "3 años (o 2 años en algunos sistemas como CONALEP)",
+        "explicacion": "La educación media superior generalmente dura 3 años después de la secundaria."
+      },
+      {
+        "id": "s3ov-b2-02",
+        "tema": "Tipos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la diferencia entre preparatoria general y técnica?",
+        "opciones": [
+          "La general prepara para universidad; la técnica también da una carrera técnica",
+          "No hay diferencia",
+          "La técnica es inferior",
+          "La general no sirve"
+        ],
+        "respuestaCorrecta": "La general prepara para universidad; la técnica también da una carrera técnica",
+        "explicacion": "El bachillerato técnico da certificado de preparatoria + título de técnico profesional."
+      },
+      {
+        "id": "s3ov-b2-03",
+        "tema": "Opciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El CONALEP, CBTIS, CBTa y preparatoria general son opciones de bachillerato",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Existen múltiples modalidades para elegir según intereses y aspiraciones."
+      },
+      {
+        "id": "s3ov-b2-04",
+        "tema": "Bachillerato",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el COMIPEMS?",
+        "opciones": [
+          "Concurso de asignación a bachilleratos en la zona metropolitana",
+          "Un examen de primaria",
+          "Una carrera universitaria",
+          "Un tipo de escuela"
+        ],
+        "respuestaCorrecta": "Concurso de asignación a bachilleratos en la zona metropolitana",
+        "explicacion": "En la CDMX y zona metropolitana, el COMIPEMS asigna lugares en bachilleratos."
+      },
+      {
+        "id": "s3ov-b2-05",
+        "tema": "Elección",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué factores debes considerar para elegir tu bachillerato?",
+        "opciones": [
+          "Ubicación, plan de estudios, prestigio, costos y tu perfil vocacional",
+          "Solo cercanía",
+          "Solo lo que eligen mis amigos",
+          "Solo el nombre"
+        ],
+        "respuestaCorrecta": "Ubicación, plan de estudios, prestigio, costos y tu perfil vocacional",
+        "explicacion": "Una decisión informada considera múltiples factores prácticos y personales."
+      },
+      {
+        "id": "s3ov-b2-06",
+        "tema": "Opciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El bachillerato en línea o a distancia es una opción válida",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Existen opciones de bachillerato a distancia reconocidas por la SEP."
+      },
+      {
+        "id": "s3ov-b2-07",
+        "tema": "Tipos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué ofrece un bachillerato con especialidad artística?",
+        "opciones": [
+          "Formación artística especializada además del plan académico",
+          "Solo arte sin materias regulares",
+          "Solo matemáticas",
+          "Nada diferente"
+        ],
+        "respuestaCorrecta": "Formación artística especializada además del plan académico",
+        "explicacion": "Escuelas como el CeDArT ofrecen formación artística profesional desde el bachillerato."
+      },
+      {
+        "id": "s3ov-b2-08",
+        "tema": "Elección",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo debes empezar a investigar opciones de bachillerato?",
+        "opciones": [
+          "Desde principios de 3° de secundaria",
+          "En el último mes",
+          "Después de terminar secundaria",
+          "No necesitas investigar"
+        ],
+        "respuestaCorrecta": "Desde principios de 3° de secundaria",
+        "explicacion": "Investigar temprano te da más tiempo para prepararte y tomar una decisión informada."
+      },
+      {
+        "id": "s3ov-b2-09",
+        "tema": "Bachillerato",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El bachillerato es obligatorio en México",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Desde 2012, la educación media superior es obligatoria en México."
+      },
+      {
+        "id": "s3ov-b2-10",
+        "tema": "Opciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué significa bachillerato bivalente?",
+        "opciones": [
+          "Obtienes certificado de preparatoria Y título de técnico profesional",
+          "Solo un certificado",
+          "Solo prácticas",
+          "Dos escuelas al mismo tiempo"
+        ],
+        "respuestaCorrecta": "Obtienes certificado de preparatoria Y título de técnico profesional",
+        "explicacion": "CBTIS, CBTa y CONALEP ofrecen este doble beneficio educativo."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s3ov-b2-01",
+        "tema": "Bachillerato",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos años dura el bachillerato en México?",
+        "opciones": [
+          "3 años (o 2 años en algunos sistemas como CONALEP)",
+          "1 año",
+          "5 años",
+          "10 años"
+        ],
+        "respuestaCorrecta": "3 años (o 2 años en algunos sistemas como CONALEP)",
+        "explicacion": "La educación media superior generalmente dura 3 años después de la secundaria."
+      },
+      {
+        "id": "s3ov-b2-02",
+        "tema": "Tipos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la diferencia entre preparatoria general y técnica?",
+        "opciones": [
+          "La general prepara para universidad; la técnica también da una carrera técnica",
+          "No hay diferencia",
+          "La técnica es inferior",
+          "La general no sirve"
+        ],
+        "respuestaCorrecta": "La general prepara para universidad; la técnica también da una carrera técnica",
+        "explicacion": "El bachillerato técnico da certificado de preparatoria + título de técnico profesional."
+      }
+    ]
+  }
+}

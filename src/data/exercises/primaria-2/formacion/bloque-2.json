@@ -1,0 +1,94 @@
+{
+  "grado": "primaria-2",
+  "materia": "formacion",
+  "bloque": 2,
+  "nombre": "Mi escuela, mi comunidad",
+  "meses": "Octubre-Noviembre",
+  "temas": [
+    "Convivencia escolar",
+    "Bullying",
+    "Normas escolares"
+  ],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2fc-b2-01",
+        "tema": "Convivencia escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué debemos hacer si alguien nos agrede en la escuela?",
+        "opciones": [
+          "Decírselo a un adulto de confianza",
+          "Devolver el golpe",
+          "Ignorarlo siempre",
+          "Huir"
+        ],
+        "respuestaCorrecta": "Decírselo a un adulto de confianza",
+        "explicacion": "Ante situaciones de agresión, busca ayuda de un maestro, director o familiar. No estás solo.",
+        "visual": "🏫"
+      },
+      {
+        "id": "p2fc-b2-02",
+        "tema": "Bullying",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El bullying solo es físico",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "El bullying puede ser físico, verbal, psicológico o cibernético (cyberbullying)."
+      },
+      {
+        "id": "p2fc-b2-03",
+        "tema": "Normas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Las normas escolares existen para:",
+        "opciones": [
+          "Garantizar un ambiente seguro",
+          "Castigar a los alumnos",
+          "Hacer la vida difícil",
+          "Controlarnos"
+        ],
+        "respuestaCorrecta": "Garantizar un ambiente seguro",
+        "explicacion": "Las normas escolares protegen a todos y crean un ambiente de aprendizaje positivo.",
+        "visual": "📋"
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p2fc-b2-01",
+        "tema": "Convivencia escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué debemos hacer si alguien nos agrede en la escuela?",
+        "opciones": [
+          "Decírselo a un adulto de confianza",
+          "Devolver el golpe",
+          "Ignorarlo siempre",
+          "Huir"
+        ],
+        "respuestaCorrecta": "Decírselo a un adulto de confianza",
+        "explicacion": "Ante situaciones de agresión, busca ayuda de un maestro, director o familiar. No estás solo.",
+        "visual": "🏫"
+      },
+      {
+        "id": "p2fc-b2-02",
+        "tema": "Bullying",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El bullying solo es físico",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "El bullying puede ser físico, verbal, psicológico o cibernético (cyberbullying)."
+      }
+    ]
+  }
+}

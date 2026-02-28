@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-3",
+  "materia": "educacion_fisica",
+  "bloque": 4,
+  "nombre": "Deporte y sociedad",
+  "meses": "Feb-Mar",
+  "temas": [
+    "Deporte como derecho",
+    "Igualdad de género en el deporte"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3ef-b4-01",
+        "tema": "Derechos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Es la actividad física un derecho?",
+        "opciones": [
+          "Sí, la ONU reconoce el deporte como derecho humano",
+          "No, es un privilegio",
+          "Solo para algunos",
+          "Solo para profesionales"
+        ],
+        "respuestaCorrecta": "Sí, la ONU reconoce el deporte como derecho humano",
+        "explicacion": "La Carta Internacional de la Educación Física y el Deporte de la UNESCO lo afirma."
+      },
+      {
+        "id": "s3ef-b4-02",
+        "tema": "Igualdad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo participaron mujeres por primera vez en los JJOO?",
+        "opciones": [
+          "París 1900",
+          "Atenas 1896",
+          "Los Ángeles 1984",
+          "Tokio 2020"
+        ],
+        "respuestaCorrecta": "París 1900",
+        "explicacion": "22 mujeres participaron en tenis y golf en los JJOO de París 1900."
+      },
+      {
+        "id": "s3ef-b4-03",
+        "tema": "Igualdad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las mujeres pueden practicar todos los deportes al mismo nivel que los hombres",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Las mujeres destacan en todos los deportes. Las barreras son sociales, no biológicas."
+      },
+      {
+        "id": "s3ef-b4-04",
+        "tema": "Sociedad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo contribuye el deporte a la paz?",
+        "opciones": [
+          "Une personas de diferentes culturas, razas y religiones",
+          "Genera más guerras",
+          "No tiene impacto",
+          "Solo divide"
+        ],
+        "respuestaCorrecta": "Une personas de diferentes culturas, razas y religiones",
+        "explicacion": "Los JJOO fueron creados con el ideal de paz a través del deporte."
+      },
+      {
+        "id": "s3ef-b4-05",
+        "tema": "Igualdad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son los Juegos Paralímpicos?",
+        "opciones": [
+          "Competencia olímpica para atletas con discapacidades",
+          "Juegos para niños",
+          "Juegos de mesa",
+          "Solo exhibición"
+        ],
+        "respuestaCorrecta": "Competencia olímpica para atletas con discapacidades",
+        "explicacion": "Los Paralímpicos demuestran que el talento deportivo no conoce limitaciones."
+      },
+      {
+        "id": "s3ef-b4-06",
+        "tema": "Sociedad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El deporte puede ser herramienta de prevención de violencia juvenil",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Programas deportivos comunitarios reducen la delincuencia juvenil significativamente."
+      },
+      {
+        "id": "s3ef-b4-07",
+        "tema": "Ética",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la ética deportiva?",
+        "opciones": [
+          "Conjunto de valores morales que guían la conducta en el deporte",
+          "Solo las reglas del juego",
+          "No existe",
+          "Solo para profesionales"
+        ],
+        "respuestaCorrecta": "Conjunto de valores morales que guían la conducta en el deporte",
+        "explicacion": "La ética deportiva incluye fair play, respeto, honestidad y solidaridad."
+      },
+      {
+        "id": "s3ef-b4-08",
+        "tema": "Sociedad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo puede el deporte combatir la discriminación?",
+        "opciones": [
+          "Promoviendo equipos diversos, reglas justas e igualdad de oportunidades",
+          "Separando a las personas",
+          "Excluyendo a algunos",
+          "Ignorando el problema"
+        ],
+        "respuestaCorrecta": "Promoviendo equipos diversos, reglas justas e igualdad de oportunidades",
+        "explicacion": "El deporte demuestra que el talento no depende del origen, género o condición social."
+      },
+      {
+        "id": "s3ef-b4-09",
+        "tema": "Igualdad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En los JJOO de Tokio 2020 participaron casi igual número de hombres y mujeres",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Tokio 2020 fue el evento más equitativo en género en la historia olímpica."
+      },
+      {
+        "id": "s3ef-b4-10",
+        "tema": "Derechos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es tu responsabilidad como joven deportista?",
+        "opciones": [
+          "Promover respeto, inclusión y juego limpio en todas las actividades",
+          "Solo ganar",
+          "Solo ser famoso",
+          "No tengo responsabilidad"
+        ],
+        "respuestaCorrecta": "Promover respeto, inclusión y juego limpio en todas las actividades",
+        "explicacion": "Cada deportista es embajador de los valores del deporte."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s3ef-b4-01",
+        "tema": "Derechos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Es la actividad física un derecho?",
+        "opciones": [
+          "Sí, la ONU reconoce el deporte como derecho humano",
+          "No, es un privilegio",
+          "Solo para algunos",
+          "Solo para profesionales"
+        ],
+        "respuestaCorrecta": "Sí, la ONU reconoce el deporte como derecho humano",
+        "explicacion": "La Carta Internacional de la Educación Física y el Deporte de la UNESCO lo afirma."
+      },
+      {
+        "id": "s3ef-b4-02",
+        "tema": "Igualdad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo participaron mujeres por primera vez en los JJOO?",
+        "opciones": [
+          "París 1900",
+          "Atenas 1896",
+          "Los Ángeles 1984",
+          "Tokio 2020"
+        ],
+        "respuestaCorrecta": "París 1900",
+        "explicacion": "22 mujeres participaron en tenis y golf en los JJOO de París 1900."
+      }
+    ]
+  }
+}
