@@ -12,6 +12,8 @@
     "deploy": "npx wrangler pages deploy .vercel/output/static --project-name chispito-mx"
   },
   "dependencies": {
+    "@supabase/ssr": "^0.8.0",
+    "@supabase/supabase-js": "^2.98.0",
     "clsx": "^2.1.1",
     "framer-motion": "^12.34.3",
     "jspdf": "^4.2.0",

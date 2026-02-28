@@ -1,11 +1,34 @@
 "use client";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { Menu, X, Zap } from "lucide-react";
+import { Menu, X, Zap, User, LogOut } from "lucide-react";
 import Link from "next/link";
+import { createClient } from "@/utils/supabase/client";
 
 export default function Navbar() {
     const [open, setOpen] = useState(false);
+    const [user, setUser] = useState<any>(null);
+
+    useEffect(() => {
+        const supabase = createClient();
+
+        // Initial session check
+        supabase.auth.getSession().then(({ data: { session } }) => {
+            setUser(session?.user ?? null);
+        });
+
+        // Listen for auth changes
+        const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+            setUser(session?.user ?? null);
+        });
+
+        return () => subscription.unsubscribe();
+    }, []);
+
+    const handleSignOut = async () => {
+        const supabase = createClient();
+        await supabase.auth.signOut();
+    };
 
     const links = [
         { href: "/#grados", label: "Grados" },
@@ -74,12 +97,31 @@ export default function Navbar() {
 
                     {/* CTA buttons */}
                     <div className="hidden md:flex items-center gap-3">
-                        <Link
-                            href="/login"
-                            className="text-sm text-white/70 hover:text-white font-semibold transition-colors"
-                        >
-                            Iniciar Sesión
-                        </Link>
+                        {user ? (
+                            <div className="flex items-center gap-4">
+                                <Link
+                                    href="/mi-cuenta"
+                                    className="text-sm text-white/70 hover:text-white font-semibold flex items-center gap-2 transition-colors"
+                                >
+                                    <User size={16} />
+                                    Mi Cuenta
+                                </Link>
+                                <button
+                                    onClick={handleSignOut}
+                                    className="text-sm text-red-400 hover:text-red-300 font-semibold flex items-center gap-2 transition-colors"
+                                >
+                                    <LogOut size={16} />
+                                    Salir
+                                </button>
+                            </div>
+                        ) : (
+                            <Link
+                                href="/login"
+                                className="text-sm text-white/70 hover:text-white font-semibold transition-colors"
+                            >
+                                Iniciar Sesión
+                            </Link>
+                        )}
                         <Link href="/planes" className="btn-primary !py-2 !px-5 !text-sm">
                             ¡Prueba Gratis! 🚀
                         </Link>
@@ -114,7 +156,37 @@ export default function Navbar() {
                             {l.label}
                         </Link>
                     ))}
-                    <Link href="/planes" className="btn-primary text-center mt-2">
+                    {user ? (
+                        <>
+                            <Link
+                                href="/mi-cuenta"
+                                className="text-white/80 font-semibold py-2 border-b border-white/10 flex items-center gap-2"
+                                onClick={() => setOpen(false)}
+                            >
+                                <User size={18} />
+                                Mi Cuenta
+                            </Link>
+                            <button
+                                onClick={() => {
+                                    handleSignOut();
+                                    setOpen(false);
+                                }}
+                                className="text-red-400 font-semibold py-2 border-b border-white/10 text-left flex items-center gap-2"
+                            >
+                                <LogOut size={18} />
+                                Cerrar Sesión
+                            </button>
+                        </>
+                    ) : (
+                        <Link
+                            href="/login"
+                            className="text-white/80 font-semibold py-2 border-b border-white/10"
+                            onClick={() => setOpen(false)}
+                        >
+                            Iniciar Sesión
+                        </Link>
+                    )}
+                    <Link href="/planes" className="btn-primary text-center mt-2" onClick={() => setOpen(false)}>
                         ¡Prueba Gratis! 🚀
                     </Link>
                 </motion.div>

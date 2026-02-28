@@ -32,6 +32,12 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image" },
   robots: { index: true, follow: true },
   alternates: { canonical: "https://chispito.mx" },
+  verification: {
+    google: "doynfbnbqoNBGEnBRetDajKxSIUw2k6gsra2uZRgYTw",
+  },
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({
