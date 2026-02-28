@@ -7,9 +7,9 @@
     "build": "next build",
     "start": "next start -p 5000 --hostname 0.0.0.0",
     "lint": "eslint",
-    "pages:build": "npx @opennextjs/cloudflare build",
+    "pages:build": "npx @cloudflare/next-on-pages",
     "preview": "npx wrangler pages dev",
-    "deploy": "npx wrangler pages deploy"
+    "deploy": "npx wrangler pages deploy .vercel/output/static --project-name chispito-mx"
   },
   "dependencies": {
     "clsx": "^2.1.1",

@@ -1,17 +1,8 @@
-# Cloudflare Workers configuration for Chispito.mx
-# Docs: https://opennext.js.org/cloudflare
-
+# Cloudflare Pages configuration for Chispito.mx
 name = "chispito-mx"
 compatibility_date = "2025-01-01"
 compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = ".open-next/assets"
-main = ".open-next/worker.js"
+pages_build_output_dir = ".vercel/output/static"
 
 [vars]
 NEXT_PUBLIC_SITE_URL = "https://chispito.mx"
-
-# Bind D1 o KV aquí si se necesita base de datos en el futuro
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "chispito-db"
-# database_id = "..."
