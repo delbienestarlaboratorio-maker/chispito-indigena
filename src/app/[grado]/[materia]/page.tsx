@@ -5,36 +5,6 @@ import Navbar from "@/components/Navbar";
 import { AdBannerHorizontal } from "@/components/AdBanner";
 import { GRADOS_CONTENIDO } from "@/data/content-primaria";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
-import * as fs from "fs";
-import * as path from "path";
-
-// Lee todos los bloques de una materia desde el sistema de archivos
-function cargarMateriaDesdeFS(grado: string, materia: string) {
-    try {
-        const dir = path.join(process.cwd(), "src", "data", "exercises", grado, materia);
-        if (!fs.existsSync(dir)) return null;
-        const archivos = fs.readdirSync(dir).filter((f) => f.endsWith(".json") && f !== "indice.json").sort();
-        const bloques = archivos.map((f) => {
-            const data = JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"));
-            return {
-                bloque: data.bloque,
-                nombre: data.nombre || `Bloque ${data.bloque}`,
-                meses: data.meses || "",
-                enClase: data.temas || [],
-                guiaPapa: {
-                    intro: `Estudiarás: ${(data.temas || []).join(", ")}.`,
-                    comoExplicar: ["Practica los ejercicios juntos", "Repasa los temas en voz alta"],
-                    truco: "La práctica constante es la clave del aprendizaje.",
-                    error_comun: "No te saltes ningún bloque — cada uno construye sobre el anterior.",
-                    actividad_casa: "Usa la vida cotidiana para practicar estos temas.",
-                },
-                guiaMaestro: { objetivo: data.nombre, competencia: "SEP Plan 2022" },
-                keywords: data.temas || [],
-            };
-        });
-        return bloques.length > 0 ? bloques : null;
-    } catch { return null; }
-}
 
 interface Props {
     params: Promise<{ grado: string; materia: string }>;
@@ -48,20 +18,6 @@ export async function generateStaticParams() {
             params.push({ grado, materia });
         }
     }
-    // Desde el sistema de archivos (kinder, secundaria, civica, formacion, etc.)
-    try {
-        const ejerciciosDir = path.join(process.cwd(), "src", "data", "exercises");
-        if (fs.existsSync(ejerciciosDir)) {
-            for (const grado of fs.readdirSync(ejerciciosDir)) {
-                const gradoDir = path.join(ejerciciosDir, grado);
-                if (!fs.statSync(gradoDir).isDirectory()) continue;
-                for (const materia of fs.readdirSync(gradoDir)) {
-                    const exists = params.some((p) => p.grado === grado && p.materia === materia);
-                    if (!exists) params.push({ grado, materia });
-                }
-            }
-        }
-    } catch { /* ignore */ }
     return params;
 }
 
@@ -86,24 +42,11 @@ export default async function MateriaPage({ params }: Props) {
     const gradoInfo = GRADOS.find((g) => g.slug === grado);
     const materiaInfo = MATERIAS[materia];
 
-    // Intentar desde GRADOS_CONTENIDO primero
-    let materiaData = gradoData?.materias[materia];
-
-    // Fallback: leer directamente del sistema de archivos
-    if (!materiaData && materiaInfo) {
-        const bloquesFS = cargarMateriaDesdeFS(grado, materia);
-        if (bloquesFS && bloquesFS.length > 0) {
-            materiaData = {
-                materia,
-                nombre: materiaInfo.nombre,
-                emoji: materiaInfo.emoji,
-                color: materiaInfo.color,
-                bloques: bloquesFS,
-            };
-        }
-    }
+    // Datos desde GRADOS_CONTENIDO
+    const materiaData = gradoData?.materias[materia];
 
     if (!materiaData || !gradoInfo) notFound();
+
 
     return (
         <main className="min-h-screen" style={{ background: "var(--navy)" }}>

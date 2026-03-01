@@ -1,8 +1,6 @@
 import { MetadataRoute } from 'next';
 import { GRADOS, MATERIAS } from '@/data/curriculum';
 import { GRADOS_CONTENIDO } from '@/data/content-primaria';
-import * as fs from 'fs';
-import * as path from 'path';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://chispito.mx';
 
@@ -56,33 +54,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
                 });
             });
         }
-    }
-
-    // Desde el sistema de archivos (preescolar, secundaria, etc.)
-    try {
-        const ejerciciosDir = path.join(process.cwd(), 'src', 'data', 'exercises');
-        if (fs.existsSync(ejerciciosDir)) {
-            const gradosFS = fs.readdirSync(ejerciciosDir);
-            for (const grado of gradosFS) {
-                const gradoDir = path.join(ejerciciosDir, grado);
-                if (!fs.statSync(gradoDir).isDirectory()) continue;
-
-                const materiasFS = fs.readdirSync(gradoDir);
-                for (const materia of materiasFS) {
-                    // Evitar duplicados si ya están en GRADOS_CONTENIDO
-                    if (!materiaRoutes.some(r => r.url === `${SITE_URL}/${grado}/${materia}`)) {
-                        materiaRoutes.push({
-                            url: `${SITE_URL}/${grado}/${materia}`,
-                            lastModified: new Date(),
-                            changeFrequency: 'weekly',
-                            priority: 0.8,
-                        });
-                    }
-                }
-            }
-        }
-    } catch (e) {
-        console.error("Error reading FS for sitemap", e);
     }
 
     return [...staticRoutes, ...gradoRoutes, ...materiaRoutes];
