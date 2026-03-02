@@ -5,6 +5,7 @@ import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import { AdBannerHorizontal, AdSidebar } from "@/components/AdBanner";
 import { notFound } from "next/navigation";
+import KinderUniverse from "@/components/KinderUniverse";
 
 interface Props {
     params: Promise<{ grado: string }>;
@@ -36,6 +37,17 @@ export default async function GradoPage({ params }: Props) {
 
     const materiasGrado = grado.materias.map((id) => MATERIAS[id]).filter(Boolean);
     const bloquesGrado = BLOQUES[grado.slug] || {};
+
+    if (grado.nivel === "preescolar") {
+        return (
+            <main className="min-h-screen" style={{ background: "var(--navy)" }}>
+                <Navbar />
+                <div className="pt-20">
+                    <KinderUniverse grado={grado} />
+                </div>
+            </main>
+        );
+    }
 
     return (
         <main className="min-h-screen" style={{ background: "var(--navy)" }}>

@@ -17,6 +17,7 @@ const LIBROS_LOCALES: Record<string, Record<string, { paginas: number; titulo: s
         "proyectos-aula": { paginas: 275, titulo: "Proyectos del Aula 1°" },
         "proyectos-comunitarios": { paginas: 275, titulo: "Proyectos Comunitarios 1°" },
         "proyectos-escolares": { paginas: 275, titulo: "Proyectos Escolares 1°" },
+        "trazos-palabras": { paginas: 131, titulo: "Múltiples Lenguajes: Trazos y Palabras 1°" },
     },
     "primaria-2": {
         "saberes": { paginas: 259, titulo: "Nuestros Saberes 2°" },
