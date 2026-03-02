@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import CookieBanner from "@/components/CookieBanner";
+import Script from "next/script";
 
 export const metadata: Metadata = {
   title: {
@@ -71,6 +72,16 @@ export default function RootLayout({
             }),
           }}
         />
+        {/* Google Analytics GA4 */}
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-R7K122D3C0" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-R7K122D3C0');
+          `}
+        </Script>
       </head>
       <body className="antialiased">
         {children}

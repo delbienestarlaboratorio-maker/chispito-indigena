@@ -71,8 +71,15 @@ const LIBROS_EXPANSION = [
     { codigo: "P6INA", nombre: "Activity Book (Inglés)", grado: "primaria-6", materia: "ingles" },
 
     // ════ LENGUAS INDÍGENAS (Múltiples Lenguajes adaptados) ════
-    // La SEP no publica los códigos, usaremos P1MLA_NA, P1MLA_MA, etc.
+    // Importados dinámicamente desde catalogo_indigenas_2024_completo.json
 ];
+
+let catalogPath = path.join(__dirname, '..', 'catalogo_indigenas_2024_completo.json');
+if (fs.existsSync(catalogPath)) {
+    console.log("Cargando catálogo indígena dinámico...");
+    const indigenas = JSON.parse(fs.readFileSync(catalogPath, 'utf8'));
+    LIBROS_EXPANSION.push(...indigenas);
+}
 
 // Opcional: Escáner fuerza bruta para encontrar dialectos que la SEP esconde en sufijos raros
 const SUFIJOS_INDIGENAS = ["NA", "MY", "MA", "TS", "TZ", "MI", "OT", "ZA", "PU", "TL", "TO"];
@@ -132,12 +139,16 @@ async function probarDescargarLibro(libro, estado) {
 
     // Primero, probar si la página 000 o 001 existe para saber si el código es válido
     let paginaInvalida = false;
+    let baseURL = libro.codigo.startsWith("EIP")
+        ? "https://libros.conaliteg.gob.mx/2024/m"
+        : BASE_URL;
+
     try {
-        const urlPrueba = `${BASE_URL}/${libro.codigo}/000.jpg`;
+        const urlPrueba = `${baseURL}/${libro.codigo}/000.jpg`;
         const testDest = path.join(DESTINO, "test.jpg");
         const exito0 = await descargarImagen(urlPrueba, testDest);
         if (!exito0) {
-            const urlPrueba1 = `${BASE_URL}/${libro.codigo}/001.jpg`;
+            const urlPrueba1 = `${baseURL}/${libro.codigo}/001.jpg`;
             const exito1 = await descargarImagen(urlPrueba1, testDest);
             if (!exito1) paginaInvalida = true;
         }
@@ -163,7 +174,7 @@ async function probarDescargarLibro(libro, estado) {
 
     while (pag <= MAX_PAGINAS && perdidasConsecutivas < 3) {
         const numStr = String(pag).padStart(3, "0");
-        const url = `${BASE_URL}/${libro.codigo}/${numStr}.jpg`;
+        const url = `${baseURL}/${libro.codigo}/${numStr}.jpg`;
         const destArchivo = path.join(dirLibro, `pag-${numStr}.jpg`);
 
         if (fs.existsSync(destArchivo)) {
@@ -215,31 +226,10 @@ async function main() {
         await probarDescargarLibro(libro, estado);
     }
 
-    // 2. Probar códigos combinatorios para lenguas indígenas (Brute Force)
-    console.log("\nIniciando escáner de dialectos y lenguas indígenas...");
-    for (const gradoPrefix of GRADOS_PRIMARIA) {
-        const digito = gradoPrefix[1];
-        for (const sufijo of SUFIJOS_INDIGENAS) {
-            // Intenta códigos como P1MLANA (Múltiples lenguajes Náhuatl) o P1MLMA (Maya)
-            const codigosPrueba = [
-                `${gradoPrefix}MLA_${sufijo}`,
-                `${gradoPrefix}MLA${sufijo}`,
-                `${gradoPrefix}ML${sufijo}`
-            ];
+    // 2. Comentando fuerza bruta original porque ya extrajimos los códigos correctos (EIPXXX)
+    // console.log("\nIniciando escáner de dialectos y lenguas indígenas...");
+    // ... brute force removed for efficiency ...
 
-            for (const codigo of codigosPrueba) {
-                if (estado.inexistentes.includes(codigo) || estado.completados.includes(codigo)) continue;
-
-                await probarDescargarLibro({
-                    codigo: codigo,
-                    nombre: `Múltiples Lenguajes (${sufijo})`,
-                    grado: `primaria-${digito}`,
-                    materia: `indigena-${sufijo.toLowerCase()}`
-                }, estado);
-                await sleep(200);
-            }
-        }
-    }
 
     console.log("✅ Escaneo completo.");
 }
