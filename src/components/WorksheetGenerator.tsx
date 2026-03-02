@@ -6,88 +6,104 @@ import { useState } from "react";
 import { Printer, Download } from "lucide-react";
 
 interface Props {
-    grado: string;
-    gradoNombre: string;
-    materia: string;
-    materiaNombre: string;
-    materiaEmoji: string;
-    materiaColor: string;
-    bloqueNum: number;
-    bloqueNombre: string;
-    meses: string;
-    // Ejercicios reales del JSON (ya cargados en el servidor)
-    ejercicios: Array<{
-        id: string;
-        tipo: string;
-        pregunta: string;
-        opciones?: string[];
-        respuestaCorrecta: string;
-        explicacion?: string;
-        visual?: string;
-    }>;
+  grado: string;
+  gradoNombre: string;
+  materia: string;
+  materiaNombre: string;
+  materiaEmoji: string;
+  materiaColor: string;
+  bloqueNum: number;
+  bloqueNombre: string;
+  meses: string;
+  // Ejercicios reales del JSON (ya cargados en el servidor)
+  ejercicios: Array<{
+    id: string;
+    tipo: string;
+    pregunta: string;
+    opciones?: string[];
+    respuestaCorrecta: string;
+    explicacion?: string;
+    visual?: string;
+  }>;
 }
 
 function renderEjercicioHTML(ej: Props["ejercicios"][0], idx: number): string {
-    const num = idx + 1;
-    const visual = ej.visual ? `<span style="font-size:2.5rem;display:block;text-align:center;margin-bottom:6px">${ej.visual}</span>` : "";
+  const num = idx + 1;
+  const visual = ej.visual ? `<span style="font-size:2.5rem;display:block;text-align:center;margin-bottom:6px">${ej.visual}</span>` : "";
 
-    if (ej.tipo === "true_false") {
-        return `
-        <div class="ejercicio">
-            <p class="num">${num}.</p>
-            ${visual}
-            <p class="pregunta">¿Verdadero o Falso? &nbsp;${ej.pregunta}</p>
-            <div class="opciones-tf">
-                <label class="opcion-tf"><span class="circulo"></span> Verdadero</label>
-                <label class="opcion-tf"><span class="circulo"></span> Falso</label>
-            </div>
-        </div>`;
-    }
-
-    if (ej.tipo === "multiple_choice" && ej.opciones) {
-        const opts = ej.opciones.map((op, i) =>
-            `<label class="opcion"><span class="letra">${String.fromCharCode(65 + i)})</span> ${op}</label>`
-        ).join("\n");
-        return `
-        <div class="ejercicio">
-            <p class="num">${num}.</p>
-            ${visual}
-            <p class="pregunta">${ej.pregunta}</p>
-            <div class="opciones">${opts}</div>
-        </div>`;
-    }
-
-    if (ej.tipo === "fill_blank") {
-        const pregWithBlank = ej.pregunta.replace(/___/g, '<span class="linea-resp"></span>');
-        return `
-        <div class="ejercicio">
-            <p class="num">${num}.</p>
-            ${visual}
-            <p class="pregunta">${pregWithBlank}</p>
-            <div class="linea-resp-larga"></div>
-        </div>`;
-    }
-
-    // Default
+  if (ej.tipo === "true_false") {
     return `
-    <div class="ejercicio">
-        <p class="num">${num}.</p>
-        ${visual}
-        <p class="pregunta">${ej.pregunta}</p>
-        <div class="linea-resp-larga"></div>
-        <div class="linea-resp-larga"></div>
-    </div>`;
+        <table class="ejercicio" width="100%" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="num-col" valign="top"><p class="num">${num}.</p></td>
+                <td class="content-col" valign="top">
+                    ${visual}
+                    <p class="pregunta">¿Verdadero o Falso? &nbsp;${ej.pregunta}</p>
+                    <div class="opciones-tf">
+                        <label class="opcion-tf"><span class="circulo"></span> Verdadero</label>
+                        <label class="opcion-tf"><span class="circulo"></span> Falso</label>
+                    </div>
+                </td>
+            </tr>
+        </table>`;
+  }
+
+  if (ej.tipo === "multiple_choice" && ej.opciones) {
+    const opts = ej.opciones.map((op, i) =>
+      `<label class="opcion"><span class="letra">${String.fromCharCode(65 + i)})</span> ${op}</label>`
+    ).join("\n");
+    return `
+        <table class="ejercicio" width="100%" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="num-col" valign="top"><p class="num">${num}.</p></td>
+                <td class="content-col" valign="top">
+                    ${visual}
+                    <p class="pregunta">${ej.pregunta}</p>
+                    <div class="opciones">${opts}</div>
+                </td>
+            </tr>
+        </table>`;
+  }
+
+  if (ej.tipo === "fill_blank") {
+    const pregWithBlank = ej.pregunta.replace(/___/g, '<span class="linea-resp"></span>');
+    return `
+        <table class="ejercicio" width="100%" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="num-col" valign="top"><p class="num">${num}.</p></td>
+                <td class="content-col" valign="top">
+                    ${visual}
+                    <p class="pregunta">${pregWithBlank}</p>
+                    <div class="linea-resp-larga"></div>
+                </td>
+            </tr>
+        </table>`;
+  }
+
+  // Default
+  return `
+    <table class="ejercicio" width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td class="num-col" valign="top"><p class="num">${num}.</p></td>
+            <td class="content-col" valign="top">
+                ${visual}
+                <p class="pregunta">${ej.pregunta}</p>
+                <div class="linea-resp-larga"></div>
+                <div class="linea-resp-larga"></div>
+            </td>
+        </tr>
+    </table>`;
 }
 
 function generarHTML(p: Props): string {
-    const ejerciciosHTML = p.ejercicios
-        .slice(0, 10)
-        .map((e, i) => renderEjercicioHTML(e, i))
-        .join("\n");
+  const ejerciciosHTML = p.ejercicios
+    .slice(0, 10)
+    .map((e, i) => renderEjercicioHTML(e, i))
+    .join("\n");
 
-    const fecha = new Date().toLocaleDateString("es-MX", { year: "numeric", month: "long", day: "numeric" });
+  const fecha = new Date().toLocaleDateString("es-MX", { year: "numeric", month: "long", day: "numeric" });
 
-    return `<!DOCTYPE html>
+  return `<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -167,18 +183,19 @@ function generarHTML(p: Props): string {
     .bloque-header p { font-size: 9pt; color: #666; margin-top: 2px; }
 
     /* ─── EJERCICIOS ─── */
-    .ejercicio {
-      margin-bottom: 18px;
+    table.ejercicio {
+      margin-bottom: 24px;
       padding-bottom: 16px;
       border-bottom: 1px dashed #e2e8f0;
-      display: grid;
-      grid-template-columns: 26px 1fr;
-      gap: 6px;
-      align-items: start;
+      page-break-inside: avoid;
+      width: 100%;
+      table-layout: fixed;
     }
-    .ejercicio:last-child { border-bottom: none; }
+    table.ejercicio:last-child { border-bottom: none; }
+    .num-col { width: 36px; }
+    .content-col { width: auto; }
     .num { font-weight: 800; color: ${p.materiaColor}; font-size: 11pt; padding-top: 1px; }
-    .pregunta { font-size: 11pt; line-height: 1.5; font-weight: 600; color: #1a1a1a; }
+    .pregunta { font-size: 11pt; line-height: 1.5; font-weight: 600; color: #1a1a1a; margin-bottom: 8px; word-wrap: break-word; }
 
     .opciones { display: flex; flex-direction: column; gap: 6px; margin-top: 8px; }
     .opcion {
@@ -296,64 +313,64 @@ function generarHTML(p: Props): string {
 }
 
 export default function WorksheetGenerator({
-    grado, gradoNombre, materia, materiaNombre, materiaEmoji, materiaColor,
-    bloqueNum, bloqueNombre, meses, ejercicios
+  grado, gradoNombre, materia, materiaNombre, materiaEmoji, materiaColor,
+  bloqueNum, bloqueNombre, meses, ejercicios
 }: Props) {
-    const [generando, setGenerando] = useState(false);
+  const [generando, setGenerando] = useState(false);
 
-    // Si no hay ejercicios reales, no mostrar
-    if (!ejercicios || ejercicios.length === 0) return null;
+  // Si no hay ejercicios reales, no mostrar
+  if (!ejercicios || ejercicios.length === 0) return null;
 
-    function imprimir() {
-        setGenerando(true);
-        const html = generarHTML({
-            grado, gradoNombre, materia, materiaNombre, materiaEmoji, materiaColor,
-            bloqueNum, bloqueNombre, meses, ejercicios
-        });
-        const ventana = window.open("", "_blank");
-        if (ventana) {
-            ventana.document.write(html);
-            ventana.document.close();
-            setTimeout(() => { ventana.print(); setGenerando(false); }, 600);
-        } else {
-            setGenerando(false);
-        }
+  function imprimir() {
+    setGenerando(true);
+    const html = generarHTML({
+      grado, gradoNombre, materia, materiaNombre, materiaEmoji, materiaColor,
+      bloqueNum, bloqueNombre, meses, ejercicios
+    });
+    const ventana = window.open("", "_blank");
+    if (ventana) {
+      ventana.document.write(html);
+      ventana.document.close();
+      setTimeout(() => { ventana.print(); setGenerando(false); }, 600);
+    } else {
+      setGenerando(false);
     }
+  }
 
-    return (
-        <button
-            onClick={imprimir}
-            disabled={generando}
-            className="w-full rounded-2xl p-4 flex items-center gap-4 transition-all hover:opacity-90 active:scale-98"
-            style={{
-                background: `${materiaColor}12`,
-                border: `2px solid ${materiaColor}30`,
-            }}
-        >
-            <div
-                className="w-11 h-11 rounded-xl flex items-center justify-center flex-shrink-0"
-                style={{ background: materiaColor }}
-            >
-                {generando
-                    ? <div className="w-5 h-5 border-2 border-white border-t-transparent rounded-full animate-spin" />
-                    : <Printer size={20} color="white" />
-                }
-            </div>
-            <div className="text-left flex-1">
-                <p className="font-bold text-gray-800">
-                    {generando ? "Preparando hoja..." : "📄 Imprimir hoja de práctica"}
-                </p>
-                <p className="text-xs text-gray-500 mt-0.5">
-                    10 ejercicios reales · Módulo {bloqueNum} · Con logo Chispito · Gratis
-                </p>
-            </div>
-            <span
-                className="text-xs px-3 py-1.5 rounded-lg font-bold flex-shrink-0"
-                style={{ background: materiaColor, color: "white" }}
-            >
-                <Download size={12} className="inline mr-1" />
-                PDF
-            </span>
-        </button>
-    );
+  return (
+    <button
+      onClick={imprimir}
+      disabled={generando}
+      className="w-full rounded-2xl p-4 flex items-center gap-4 transition-all hover:opacity-90 active:scale-98"
+      style={{
+        background: `${materiaColor}12`,
+        border: `2px solid ${materiaColor}30`,
+      }}
+    >
+      <div
+        className="w-11 h-11 rounded-xl flex items-center justify-center flex-shrink-0"
+        style={{ background: materiaColor }}
+      >
+        {generando
+          ? <div className="w-5 h-5 border-2 border-white border-t-transparent rounded-full animate-spin" />
+          : <Printer size={20} color="white" />
+        }
+      </div>
+      <div className="text-left flex-1">
+        <p className="font-bold text-gray-800">
+          {generando ? "Preparando hoja..." : "📄 Imprimir hoja de práctica"}
+        </p>
+        <p className="text-xs text-gray-500 mt-0.5">
+          10 ejercicios reales · Módulo {bloqueNum} · Con logo Chispito · Gratis
+        </p>
+      </div>
+      <span
+        className="text-xs px-3 py-1.5 rounded-lg font-bold flex-shrink-0"
+        style={{ background: materiaColor, color: "white" }}
+      >
+        <Download size={12} className="inline mr-1" />
+        PDF
+      </span>
+    </button>
+  );
 }
