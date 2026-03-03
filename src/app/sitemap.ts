@@ -2,6 +2,8 @@ import { MetadataRoute } from 'next';
 import { GRADOS, MATERIAS } from '@/data/curriculum';
 import { GRADOS_CONTENIDO } from '@/data/content-primaria';
 
+export const runtime = 'edge';
+
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://chispito.mx';
 
 export default function sitemap(): MetadataRoute.Sitemap {
