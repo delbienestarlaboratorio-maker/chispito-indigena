@@ -128,6 +128,13 @@ export const MATERIAS: Record<string, Materia> = {
         color: "#0EA5E9",
         bgColor: "#F0F9FF",
     },
+    lenguas: {
+        id: "lenguas",
+        nombre: "Lenguas Indígenas",
+        emoji: "🗣️",
+        color: "#9333EA",
+        bgColor: "#F3E8FF",
+    }
 };
 
 // === GRADOS (matrícula ciclo 2024-2025 SEP) ===
@@ -152,17 +159,17 @@ export const GRADOS: Grado[] = [
     {
         numero: 1, nombre: "1° Primaria", nivel: "primaria", slug: "primaria-1",
         emoji: "🚀", color: "#3B82F6", gradient: "from-blue-400 to-indigo-600",
-        alumnos: 2140000, materias: ["matematicas", "espanol", "conocimiento", "formacion", "artes", "educacion_fisica"],
+        alumnos: 2140000, materias: ["matematicas", "espanol", "lenguas", "conocimiento", "formacion", "artes", "educacion_fisica"],
     },
     {
         numero: 2, nombre: "2° Primaria", nivel: "primaria", slug: "primaria-2",
         emoji: "🌟", color: "#22C55E", gradient: "from-green-400 to-teal-600",
-        alumnos: 2138000, materias: ["matematicas", "espanol", "conocimiento", "formacion", "artes", "educacion_fisica"],
+        alumnos: 2138000, materias: ["matematicas", "espanol", "lenguas", "conocimiento", "formacion", "artes", "educacion_fisica"],
     },
     {
         numero: 3, nombre: "3° Primaria", nivel: "primaria", slug: "primaria-3",
         emoji: "🪐", color: "#8B5CF6", gradient: "from-violet-400 to-purple-600",
-        alumnos: 2130000, materias: ["matematicas", "espanol", "historia", "ciencias", "formacion", "artes", "ingles", "educacion_fisica"],
+        alumnos: 2130000, materias: ["matematicas", "espanol", "lenguas", "historia", "ciencias", "formacion", "artes", "ingles", "educacion_fisica"],
     },
     {
         numero: 4, nombre: "4° Primaria", nivel: "primaria", slug: "primaria-4",

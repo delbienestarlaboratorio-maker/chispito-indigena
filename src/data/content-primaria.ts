@@ -4,6 +4,773 @@
 import { PRIMARIA_3 } from "./content-primaria3";
 import { KINDER } from "./content-kinder";
 
+export const LENGUAS_P1: MateriaContenido = {
+    materia: "lenguas",
+    nombre: "Lenguas Indígenas",
+    emoji: "🗣️",
+    color: "#9333EA",
+    bloques: [
+        {
+            bloque: 1,
+            nombre: "Proyecto en mi lengua: Ch'ol",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Ch'ol directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "ch'ol", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 2,
+            nombre: "Proyecto en mi lengua: Chichimeco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Chichimeco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "chichimeco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 3,
+            nombre: "Proyecto en mi lengua: Cora",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Cora directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "cora", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 4,
+            nombre: "Proyecto en mi lengua: Huichol",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Huichol directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "huichol", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 5,
+            nombre: "Proyecto en mi lengua: Maya",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Maya directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "maya", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 6,
+            nombre: "Proyecto en mi lengua: Mayo",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mayo directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mayo", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 7,
+            nombre: "Proyecto en mi lengua: Mazateco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mazateco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mazateco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 8,
+            nombre: "Proyecto en mi lengua: Mixteco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mixteco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mixteco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 9,
+            nombre: "Proyecto en mi lengua: Náhuatl",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Náhuatl directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "náhuatl", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 10,
+            nombre: "Proyecto en mi lengua: Seri",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Seri directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "seri", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 11,
+            nombre: "Proyecto en mi lengua: Tarahumara (Ralámuli)",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tarahumara (Ralámuli) directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tarahumara (ralámuli)", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 12,
+            nombre: "Proyecto en mi lengua: Totonaco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Totonaco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "totonaco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 13,
+            nombre: "Proyecto en mi lengua: Tseltal",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tseltal directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tseltal", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 14,
+            nombre: "Proyecto en mi lengua: Tsotsil",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tsotsil directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tsotsil", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 15,
+            nombre: "Proyecto en mi lengua: Yaqui",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Yaqui directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "yaqui", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 16,
+            nombre: "Proyecto en mi lengua: Zapoteco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Zapoteco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "zapoteco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 17,
+            nombre: "Proyecto en mi lengua: Tojolabal",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tojolabal directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tojolabal", "lenguas indigenas primaria"],
+        },
+    ],
+};
+
+export const LENGUAS_P2: MateriaContenido = {
+    materia: "lenguas",
+    nombre: "Lenguas Indígenas",
+    emoji: "🗣️",
+    color: "#9333EA",
+    bloques: [
+        {
+            bloque: 1,
+            nombre: "Proyecto en mi lengua: Ch'ol",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Ch'ol directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "ch'ol", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 2,
+            nombre: "Proyecto en mi lengua: Chichimeco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Chichimeco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "chichimeco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 3,
+            nombre: "Proyecto en mi lengua: Cora",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Cora directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "cora", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 4,
+            nombre: "Proyecto en mi lengua: Huichol",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Huichol directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "huichol", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 5,
+            nombre: "Proyecto en mi lengua: Maya",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Maya directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "maya", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 6,
+            nombre: "Proyecto en mi lengua: Mayo",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mayo directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mayo", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 7,
+            nombre: "Proyecto en mi lengua: Mazateco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mazateco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mazateco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 8,
+            nombre: "Proyecto en mi lengua: Mixteco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mixteco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mixteco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 9,
+            nombre: "Proyecto en mi lengua: Náhuatl",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Náhuatl directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "náhuatl", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 10,
+            nombre: "Proyecto en mi lengua: Seri",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Seri directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "seri", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 11,
+            nombre: "Proyecto en mi lengua: Tarahumara (Ralámuli)",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tarahumara (Ralámuli) directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tarahumara (ralámuli)", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 12,
+            nombre: "Proyecto en mi lengua: Totonaco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Totonaco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "totonaco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 13,
+            nombre: "Proyecto en mi lengua: Tseltal",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tseltal directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tseltal", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 14,
+            nombre: "Proyecto en mi lengua: Tsotsil",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tsotsil directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tsotsil", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 15,
+            nombre: "Proyecto en mi lengua: Yaqui",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Yaqui directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "yaqui", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 16,
+            nombre: "Proyecto en mi lengua: Zapoteco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Zapoteco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "zapoteco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 17,
+            nombre: "Proyecto en mi lengua: Tojolabal",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tojolabal directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tojolabal", "lenguas indigenas primaria"],
+        },
+    ],
+};
+
+
 export type BloqueContenido = {
     bloque: number;
     nombre: string;
@@ -362,6 +1129,7 @@ export const PRIMARIA_1: GradoContenido = {
                 },
             ],
         },
+        lenguas: LENGUAS_P1,
     },
 };
 
@@ -679,6 +1447,7 @@ export const PRIMARIA_2: GradoContenido = {
                 },
             ],
         },
+        lenguas: LENGUAS_P2,
     },
 };
 
