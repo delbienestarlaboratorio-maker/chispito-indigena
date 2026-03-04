@@ -7,7 +7,7 @@
  * Espacios vacíos se rellenan con ejercicios extra o cuadros educativos.
  */
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Download, Loader2 } from "lucide-react";
 import jsPDF from "jspdf";
 
@@ -270,7 +270,7 @@ function generarCuadernilloPDF(data: CuadernilloData): jsPDF {
 
     ejs.forEach((ej) => {
         ejIdx++;
-        const alt = calcH(ej);
+        const alt = calcH(ej, d, CW);
         if (doc.y + alt > doc.maxY) {
             doc.newPage();
             d.setFont("helvetica", "bold"); d.setFontSize(7.5); d.setTextColor(...c);
@@ -370,11 +370,22 @@ function generarCuadernilloPDF(data: CuadernilloData): jsPDF {
 }
 
 /* ─── HELPERS DE DIBUJO ─── */
-function calcH(e: Ejercicio): number {
-    let h = 12;
-    if (e.tipo === "multiple_choice" && e.opciones) h += e.opciones.length * 6.5 + 2;
-    else if (e.tipo === "true_false") h += 8;
-    else h += 10;
+function calcH(e: Ejercicio, d: jsPDF, CW: number): number {
+    const pl = d.splitTextToSize(L(e.pregunta), CW - 12);
+    let h = pl.length * 4.5 + 4; // base height for question
+
+    if (e.tipo === "multiple_choice" && e.opciones) {
+        e.opciones.forEach((o) => {
+            const ol = d.splitTextToSize(L(o), CW - 28);
+            h += ol.length * 4 + 2;
+        });
+        h += 2;
+    } else if (e.tipo === "true_false") {
+        h += 8;
+    } else {
+        h += 10;
+    }
+    h += 5; // bottom margin
     return h;
 }
 
@@ -636,8 +647,33 @@ export default function CuadernilloPDF({ cuadernillo, gratis = true }: { cuadern
     const [gen, setGen] = useState(false);
     const [modal, setModal] = useState(false);
     const [pagando, setPagando] = useState(false);
+    const [comprado, setComprado] = useState(false);
 
-    // Descarga directa (módulo gratuito)
+    useEffect(() => {
+        if (typeof window === "undefined") return;
+        const miId = `${cuadernillo.grado}_${cuadernillo.materia}_mod${cuadernillo.bloqueNum}`;
+        const urlParams = new URLSearchParams(window.location.search);
+        const pStatus = urlParams.get("pago");
+        const cId = urlParams.get("cuadernillo");
+
+        let compradosLocal: string[] = [];
+        try {
+            compradosLocal = JSON.parse(localStorage.getItem("chispito_comprados") || "[]");
+        } catch { }
+
+        if (pStatus === "ok" && cId === miId && !compradosLocal.includes(miId)) {
+            compradosLocal.push(miId);
+            localStorage.setItem("chispito_comprados", JSON.stringify(compradosLocal));
+        }
+
+        if (compradosLocal.includes(miId)) {
+            setComprado(true);
+        }
+    }, [cuadernillo]);
+
+    const esGratisOComprado = gratis || comprado;
+
+    // Descarga directa (módulo gratuito o comprado)
     async function descargar() {
         setGen(true);
         try {
@@ -690,14 +726,14 @@ export default function CuadernilloPDF({ cuadernillo, gratis = true }: { cuadern
 
             {/* Botón principal */}
             <button
-                onClick={gratis ? descargar : () => setModal(true)}
+                onClick={esGratisOComprado ? descargar : () => setModal(true)}
                 disabled={gen}
                 className="w-full rounded-2xl p-4 flex items-center gap-4 transition-all hover:scale-[1.01] active:scale-[0.98]"
                 style={{ background: `linear-gradient(135deg,${col}15,${col}08)`, border: `2px solid ${col}30` }}>
                 <div className="w-12 h-12 rounded-xl flex items-center justify-center flex-shrink-0" style={{ background: col }}>
                     {gen
                         ? <Loader2 size={22} color="white" className="animate-spin" />
-                        : gratis
+                        : esGratisOComprado
                             ? <Download size={22} color="white" />
                             : <span className="text-white text-lg">📄</span>
                     }
@@ -712,8 +748,8 @@ export default function CuadernilloPDF({ cuadernillo, gratis = true }: { cuadern
                 </div>
                 <span
                     className="text-xs px-3 py-1.5 rounded-lg font-bold flex-shrink-0"
-                    style={{ background: gratis ? "#22C55E" : col, color: "white" }}>
-                    {gratis ? "GRATIS" : "$10 MXN"}
+                    style={{ background: esGratisOComprado ? "#22C55E" : col, color: "white" }}>
+                    {comprado ? "DESBLOQUEADO" : gratis ? "GRATIS" : "$10 MXN"}
                 </span>
             </button>
         </>
