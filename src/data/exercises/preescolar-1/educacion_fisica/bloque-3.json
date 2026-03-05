@@ -1,0 +1,199 @@
+{
+  "grado": "preescolar-1",
+  "materia": "educacion_fisica",
+  "bloque": 3,
+  "nombre": "Me muevo con música",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Ritmo",
+    "Danza básica"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "preescolar1ef-b3-01",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El ritmo de una canción es como:",
+        "opciones": [
+          "Su latido o pulso",
+          "Su nombre",
+          "Su color",
+          "Su volumen"
+        ],
+        "respuestaCorrecta": "Su latido o pulso",
+        "explicacion": "El ritmo es el pulso regular de la música que podemos seguir.",
+        "visual": "🎵"
+      },
+      {
+        "id": "preescolar1ef-b3-02",
+        "tema": "Danza",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Podemos bailar con todo el cuerpo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Brazos, piernas, cabeza... todo el cuerpo puede bailar."
+      },
+      {
+        "id": "preescolar1ef-b3-03",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo podemos marcar el ritmo?",
+        "opciones": [
+          "Aplaudiendo",
+          "Durmiendo",
+          "Comiendo",
+          "Leyendo"
+        ],
+        "respuestaCorrecta": "Aplaudiendo",
+        "explicacion": "Aplaudir al compás de la música es marcar el ritmo.",
+        "visual": "👏"
+      },
+      {
+        "id": "preescolar1ef-b3-04",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué danza es típica de México?",
+        "opciones": [
+          "El Jarabe Tapatío",
+          "La Salsa",
+          "El Flamenco",
+          "El Tango"
+        ],
+        "respuestaCorrecta": "El Jarabe Tapatío",
+        "explicacion": "El Jarabe Tapatío es el baile nacional de México, originario de Jalisco.",
+        "visual": "🌮"
+      },
+      {
+        "id": "preescolar1ef-b3-05",
+        "tema": "Danza",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Bailar es solo para niñas",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "¡El baile es para todos! Es una forma de expresarse."
+      },
+      {
+        "id": "preescolar1ef-b3-06",
+        "tema": "Movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si la música va rápido, nos movemos:",
+        "opciones": [
+          "Rápido",
+          "Muy despacio",
+          "No nos movemos",
+          "Más despacio aún"
+        ],
+        "respuestaCorrecta": "Rápido",
+        "explicacion": "El cuerpo sigue el tempo de la música.",
+        "visual": "⚡"
+      },
+      {
+        "id": "preescolar1ef-b3-07",
+        "tema": "Salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cuando nos cansamos bailando, debemos descansar",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El descanso y la hidratación son clave durante el ejercicio."
+      },
+      {
+        "id": "preescolar1ef-b3-08",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué movemos cuando \"agitamos los brazos\"?",
+        "opciones": [
+          "Los brazos",
+          "Las piernas",
+          "La cabeza",
+          "Los pies"
+        ],
+        "respuestaCorrecta": "Los brazos",
+        "explicacion": "Agitar los brazos es un movimiento de las extremidades superiores.",
+        "visual": "💃"
+      },
+      {
+        "id": "preescolar1ef-b3-09",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué también marcamos el ritmo además de aplaudir?",
+        "opciones": [
+          "Pisando el suelo",
+          "Con los ojos",
+          "Con la nariz",
+          "Con las orejas"
+        ],
+        "respuestaCorrecta": "Pisando el suelo",
+        "explicacion": "Zapatear o pisar al compás es otra forma de marcar el ritmo.",
+        "visual": "🦶"
+      },
+      {
+        "id": "preescolar1ef-b3-10",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "La danza nos ayuda a:",
+        "opciones": [
+          "Expresarnos y hacer ejercicio",
+          "Solo comer",
+          "Dormir más",
+          "Estudiar matemáticas"
+        ],
+        "respuestaCorrecta": "Expresarnos y hacer ejercicio",
+        "explicacion": "La danza combina expresión artística con actividad física.",
+        "visual": "🎭"
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "preescolar1ef-b3-01",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El ritmo de una canción es como:",
+        "opciones": [
+          "Su latido o pulso",
+          "Su nombre",
+          "Su color",
+          "Su volumen"
+        ],
+        "respuestaCorrecta": "Su latido o pulso",
+        "explicacion": "El ritmo es el pulso regular de la música que podemos seguir.",
+        "visual": "🎵"
+      },
+      {
+        "id": "preescolar1ef-b3-02",
+        "tema": "Danza",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Podemos bailar con todo el cuerpo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Brazos, piernas, cabeza... todo el cuerpo puede bailar."
+      }
+    ]
+  }
+}

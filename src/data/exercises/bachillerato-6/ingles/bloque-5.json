@@ -1,0 +1,387 @@
+{
+  "grado": "bachillerato-6",
+  "materia": "ingles",
+  "bloque": 5,
+  "nombre": "English Exit Exam",
+  "meses": "Jun",
+  "temas": [
+    "Full mock exam",
+    "Portfolio review",
+    "Oral examination",
+    "Certificate preparation"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "bachillerato-6-ingles-b5-001",
+        "tema": "Oral examination",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"She ___ to school every day.\" (Present simple)",
+        "opciones": [
+          "go",
+          "goes",
+          "going",
+          "gone"
+        ],
+        "respuestaCorrecta": "goes",
+        "explicacion": "Third person singular (she/he/it) adds -s or -es. \"She goes\" ✓."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-002",
+        "tema": "Certificate preparation",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "\"I _____ (live) here for 5 years.\" (Present Perfect)",
+        "respuestaCorrecta": "have lived",
+        "explicacion": "\"I have lived here for 5 years\" uses Present Perfect for actions that started in the past and continue to present."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-003",
+        "tema": "Full mock exam",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Despite\" is a conjunction that means \"aunque\" in Spanish",
+        "respuestaCorrecta": "true",
+        "explicacion": "\"Despite\" = \"a pesar de\" (preposition) / \"although/even though\" are conjunctions. Both express contrast."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-006",
+        "tema": "Full mock exam",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-007",
+        "tema": "Portfolio review",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-008",
+        "tema": "Oral examination",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-009",
+        "tema": "Certificate preparation",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-010",
+        "tema": "Full mock exam",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-011",
+        "tema": "Portfolio review",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-012",
+        "tema": "Oral examination",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-013",
+        "tema": "Certificate preparation",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-014",
+        "tema": "Full mock exam",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-015",
+        "tema": "Portfolio review",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-016",
+        "tema": "Oral examination",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-017",
+        "tema": "Certificate preparation",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      }
+    ],
+    "v2": [
+      {
+        "id": "bachillerato-6-ingles-b5-004",
+        "tema": "Portfolio review",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de oración es: \"If I had studied, I would have passed\"?",
+        "opciones": [
+          "Type 0",
+          "Type 1",
+          "Type 2",
+          "Type 3"
+        ],
+        "respuestaCorrecta": "Type 3",
+        "explicacion": "Type 3 conditional uses \"If + past perfect, would have + past participle\". Hypothetical past."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-005",
+        "tema": "Oral examination",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "\"The book ___ written by Gabriel García Márquez.\" (Passive)",
+        "respuestaCorrecta": "was",
+        "explicacion": "\"Was written\" is past passive voice. Subject + was/were + past participle."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-006",
+        "tema": "Full mock exam",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-007",
+        "tema": "Portfolio review",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-008",
+        "tema": "Oral examination",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-009",
+        "tema": "Certificate preparation",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-010",
+        "tema": "Full mock exam",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-011",
+        "tema": "Portfolio review",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-012",
+        "tema": "Oral examination",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-013",
+        "tema": "Certificate preparation",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-014",
+        "tema": "Full mock exam",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-015",
+        "tema": "Portfolio review",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-x-016",
+        "tema": "Oral examination",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "bachillerato-6-ingles-b5-001",
+        "tema": "Oral examination",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"She ___ to school every day.\" (Present simple)",
+        "opciones": [
+          "go",
+          "goes",
+          "going",
+          "gone"
+        ],
+        "respuestaCorrecta": "goes",
+        "explicacion": "Third person singular (she/he/it) adds -s or -es. \"She goes\" ✓."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-002",
+        "tema": "Certificate preparation",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "\"I _____ (live) here for 5 years.\" (Present Perfect)",
+        "respuestaCorrecta": "have lived",
+        "explicacion": "\"I have lived here for 5 years\" uses Present Perfect for actions that started in the past and continue to present."
+      },
+      {
+        "id": "bachillerato-6-ingles-b5-004",
+        "tema": "Portfolio review",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de oración es: \"If I had studied, I would have passed\"?",
+        "opciones": [
+          "Type 0",
+          "Type 1",
+          "Type 2",
+          "Type 3"
+        ],
+        "respuestaCorrecta": "Type 3",
+        "explicacion": "Type 3 conditional uses \"If + past perfect, would have + past participle\". Hypothetical past."
+      }
+    ]
+  },
+  "generado": "2026-02-27T17:22:03.328Z",
+  "version": "3.0"
+}

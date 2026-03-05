@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-2",
+  "materia": "educacion_fisica",
+  "bloque": 1,
+  "nombre": "Conozco mi cuerpo en movimiento",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Lateralidad",
+    "Equilibrio"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2ef-b1-01",
+        "tema": "Lateralidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es tu mano derecha?",
+        "opciones": [
+          "La que usamos para saludar (la mayoría)",
+          "La izquierda",
+          "Las dos",
+          "Ninguna"
+        ],
+        "respuestaCorrecta": "La que usamos para saludar (la mayoría)",
+        "explicacion": "La mayoría de las personas usan la mano derecha para saludar y escribir."
+      },
+      {
+        "id": "p2ef-b1-02",
+        "tema": "Equilibrio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el equilibrio?",
+        "opciones": [
+          "Mantenernos de pie sin caernos",
+          "Correr muy rápido",
+          "Saltar muy alto",
+          "Gritar fuerte"
+        ],
+        "respuestaCorrecta": "Mantenernos de pie sin caernos",
+        "explicacion": "El equilibrio nos permite mantenernos estables al caminar, correr o pararnos en un pie."
+      },
+      {
+        "id": "p2ef-b1-03",
+        "tema": "Lateralidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Tenemos un lado derecho y un lado izquierdo del cuerpo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Nuestro cuerpo tiene dos lados simétricos: derecho e izquierdo."
+      },
+      {
+        "id": "p2ef-b1-04",
+        "tema": "Equilibrio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Puedes mantenerte parado en UN solo pie?",
+        "opciones": [
+          "Sí, con práctica y equilibrio",
+          "No, es imposible",
+          "Solo los adultos pueden",
+          "Solo con los ojos cerrados"
+        ],
+        "respuestaCorrecta": "Sí, con práctica y equilibrio",
+        "explicacion": "Pararse en un pie ejercita nuestro equilibrio. Con práctica mejoramos mucho."
+      },
+      {
+        "id": "p2ef-b1-05",
+        "tema": "Lateralidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si lanzo una pelota con la mano derecha, ¿qué pierna debo adelantar?",
+        "opciones": [
+          "La izquierda",
+          "La derecha",
+          "Ninguna",
+          "Las dos"
+        ],
+        "respuestaCorrecta": "La izquierda",
+        "explicacion": "Al lanzar con la derecha, adelantamos la pierna contraria (izquierda) para mejor equilibrio."
+      },
+      {
+        "id": "p2ef-b1-06",
+        "tema": "Cuerpo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las articulaciones nos permiten doblar partes del cuerpo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los codos, rodillas, muñecas y tobillos son articulaciones que permiten el movimiento."
+      },
+      {
+        "id": "p2ef-b1-07",
+        "tema": "Equilibrio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué ejercicio mejora el equilibrio?",
+        "opciones": [
+          "Caminar sobre una línea recta",
+          "Sentarse todo el día",
+          "Dormir mucho",
+          "Ver la televisión"
+        ],
+        "respuestaCorrecta": "Caminar sobre una línea recta",
+        "explicacion": "Caminar sobre una línea requiere concentración y equilibrio. Es excelente práctica."
+      },
+      {
+        "id": "p2ef-b1-08",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas rodillas tenemos?",
+        "opciones": [
+          "2",
+          "4",
+          "1",
+          "6"
+        ],
+        "respuestaCorrecta": "2",
+        "explicacion": "Tenemos 2 rodillas: una en cada pierna. Nos ayudan a doblar las piernas."
+      },
+      {
+        "id": "p2ef-b1-09",
+        "tema": "Lateralidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Todos usamos la misma mano para escribir",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Algunos son diestros (mano derecha) y otros zurdos (mano izquierda). Ambos está bien."
+      },
+      {
+        "id": "p2ef-b1-10",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirve el calentamiento antes del ejercicio?",
+        "opciones": [
+          "Para preparar los músculos y evitar lesiones",
+          "Para cansarnos antes",
+          "Para perder tiempo",
+          "Para nada"
+        ],
+        "respuestaCorrecta": "Para preparar los músculos y evitar lesiones",
+        "explicacion": "El calentamiento calienta los músculos y los hace más flexibles para no lastimarnos."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p2ef-b1-01",
+        "tema": "Lateralidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es tu mano derecha?",
+        "opciones": [
+          "La que usamos para saludar (la mayoría)",
+          "La izquierda",
+          "Las dos",
+          "Ninguna"
+        ],
+        "respuestaCorrecta": "La que usamos para saludar (la mayoría)",
+        "explicacion": "La mayoría de las personas usan la mano derecha para saludar y escribir."
+      },
+      {
+        "id": "p2ef-b1-02",
+        "tema": "Equilibrio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el equilibrio?",
+        "opciones": [
+          "Mantenernos de pie sin caernos",
+          "Correr muy rápido",
+          "Saltar muy alto",
+          "Gritar fuerte"
+        ],
+        "respuestaCorrecta": "Mantenernos de pie sin caernos",
+        "explicacion": "El equilibrio nos permite mantenernos estables al caminar, correr o pararnos en un pie."
+      }
+    ]
+  }
+}

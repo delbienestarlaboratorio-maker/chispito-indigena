@@ -1,0 +1,419 @@
+{
+  "grado": "kinder",
+  "materia": "conocimiento",
+  "bloque": 4,
+  "nombre": "Mi comunidad",
+  "meses": "Noviembre-Diciembre",
+  "temas": [
+    "El vecindario",
+    "Lugares del pueblo"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "kinder-conocimiento-b4-001",
+        "tema": "El vecindario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"El vecindario\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "El vecindario es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "kinder-conocimiento-b4-002",
+        "tema": "El vecindario",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El vecindario es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "kinder-conocimiento-b4-003",
+        "tema": "El vecindario",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En El vecindario, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "kinder-conocimiento-b4-extra-007",
+        "tema": "El vecindario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de los 5 sentidos usamos para oír?",
+        "opciones": [
+          "La vista",
+          "El olfato",
+          "El oído",
+          "El tacto"
+        ],
+        "respuestaCorrecta": "El oído",
+        "explicacion": "El oído nos permite escuchar sonidos. Las orejas son el órgano del oído."
+      },
+      {
+        "id": "kinder-conocimiento-b4-extra-009",
+        "tema": "El vecindario",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los perros son animales domésticos",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los animales domésticos viven con el ser humano. El perro es el más común.",
+        "visual": "🐶",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-extra-011",
+        "tema": "El vecindario",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En invierno hace ___ y en verano hace ___",
+        "respuestaCorrecta": "frío / calor",
+        "explicacion": "Las estaciones cambian la temperatura. Invierno = frío, Verano = calor."
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-012",
+        "tema": "El vecindario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "opciones": [
+          "La gallina",
+          "La vaca",
+          "El cerdo",
+          "El caballo"
+        ],
+        "respuestaCorrecta": "La vaca",
+        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
+        "visual": "🦁",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-013",
+        "tema": "Lugares del pueblo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
+        "visual": "💧",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-014",
+        "tema": "El vecindario",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La primavera viene después del ___",
+        "respuestaCorrecta": "invierno",
+        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
+        "visual": "🐦",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-015",
+        "tema": "Lugares del pueblo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "opciones": [
+          "La gallina",
+          "La vaca",
+          "El cerdo",
+          "El caballo"
+        ],
+        "respuestaCorrecta": "La vaca",
+        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
+        "visual": "🦁",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-016",
+        "tema": "El vecindario",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
+        "visual": "💧",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-017",
+        "tema": "Lugares del pueblo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La primavera viene después del ___",
+        "respuestaCorrecta": "invierno",
+        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
+        "visual": "🐦",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-018",
+        "tema": "El vecindario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "opciones": [
+          "La gallina",
+          "La vaca",
+          "El cerdo",
+          "El caballo"
+        ],
+        "respuestaCorrecta": "La vaca",
+        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
+        "visual": "🦁",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-019",
+        "tema": "Lugares del pueblo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
+        "visual": "💧",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-020",
+        "tema": "El vecindario",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La primavera viene después del ___",
+        "respuestaCorrecta": "invierno",
+        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
+        "visual": "🐦",
+        "visualAnimado": true
+      }
+    ],
+    "v2": [
+      {
+        "id": "kinder-conocimiento-b4-004",
+        "tema": "Lugares del pueblo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Lugares del pueblo\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Lugares del pueblo es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "kinder-conocimiento-b4-005",
+        "tema": "Lugares del pueblo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Lugares del pueblo es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "kinder-conocimiento-b4-006",
+        "tema": "Lugares del pueblo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En Lugares del pueblo, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "kinder-conocimiento-b4-extra-008",
+        "tema": "Lugares del pueblo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Los animales que viven en el agua se llaman ___",
+        "respuestaCorrecta": "acuáticos",
+        "explicacion": "Los animales acuáticos viven en el agua: peces, delfines, pulpos.",
+        "visual": "💧",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-extra-010",
+        "tema": "Lugares del pueblo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "opciones": [
+          "Solo agua",
+          "Agua, sol y tierra",
+          "Solo luz",
+          "Solo abono"
+        ],
+        "respuestaCorrecta": "Agua, sol y tierra",
+        "explicacion": "Las plantas necesitan agua, luz solar y nutrientes del suelo para crecer."
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-012",
+        "tema": "El vecindario",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
+        "respuestaCorrecta": "Este",
+        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
+        "visual": "☀️",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-013",
+        "tema": "Lugares del pueblo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "opciones": [
+          "El elefante",
+          "La ballena azul",
+          "El tiburón ballena",
+          "El hipopótamo"
+        ],
+        "respuestaCorrecta": "La ballena azul",
+        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-014",
+        "tema": "El vecindario",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sentido usamos para oler?",
+        "opciones": [
+          "La vista",
+          "El tacto",
+          "El olfato",
+          "El gusto"
+        ],
+        "respuestaCorrecta": "El olfato",
+        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-015",
+        "tema": "Lugares del pueblo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
+        "respuestaCorrecta": "Este",
+        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
+        "visual": "☀️",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-016",
+        "tema": "El vecindario",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "opciones": [
+          "El elefante",
+          "La ballena azul",
+          "El tiburón ballena",
+          "El hipopótamo"
+        ],
+        "respuestaCorrecta": "La ballena azul",
+        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-017",
+        "tema": "Lugares del pueblo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sentido usamos para oler?",
+        "opciones": [
+          "La vista",
+          "El tacto",
+          "El olfato",
+          "El gusto"
+        ],
+        "respuestaCorrecta": "El olfato",
+        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-018",
+        "tema": "El vecindario",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
+        "respuestaCorrecta": "Este",
+        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
+        "visual": "☀️",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-conocimiento-b4-x-019",
+        "tema": "Lugares del pueblo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "opciones": [
+          "El elefante",
+          "La ballena azul",
+          "El tiburón ballena",
+          "El hipopótamo"
+        ],
+        "respuestaCorrecta": "La ballena azul",
+        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
+        "visual": "➕",
+        "visualAnimado": true
+      }
+    ],
+    "preview": [
+      {
+        "id": "kinder-conocimiento-b4-001",
+        "tema": "El vecindario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"El vecindario\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "El vecindario es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "kinder-conocimiento-b4-002",
+        "tema": "El vecindario",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El vecindario es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "kinder-conocimiento-b4-004",
+        "tema": "Lugares del pueblo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Lugares del pueblo\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Lugares del pueblo es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:11:24.001Z",
+  "version": "2.0"
+}

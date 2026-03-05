@@ -1,0 +1,390 @@
+{
+  "grado": "primaria-1",
+  "materia": "ciencias",
+  "bloque": 1,
+  "nombre": "Mi cuerpo y mis sentidos",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Mi cuerpo y mis sentidos"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-1-ciencias-b1-001",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuantos sentidos tiene el cuerpo humano?",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "Los 5 sentidos son: vista, oido, olfato, gusto y tacto."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-002",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Con que sentido escuchamos la musica?",
+        "opciones": [
+          "Vista",
+          "Oido",
+          "Olfato",
+          "Tacto"
+        ],
+        "respuestaCorrecta": "Oido",
+        "explicacion": "El oido capta las vibraciones del aire que forman los sonidos."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-003",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los ojos nos sirven para escuchar.",
+        "respuestaCorrecta": "false",
+        "explicacion": "Los ojos son para VER. Para escuchar usamos los oidos."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-extra-006",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": [
+          "Venus",
+          "Mercurio",
+          "Marte",
+          "Tierra"
+        ],
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio es el planeta más cercano al Sol, a 57.9 millones de kilómetros."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-extra-008",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mamíferos son de sangre fría",
+        "respuestaCorrecta": "false",
+        "explicacion": "Los mamíferos somos de sangre caliente (homeotérmicos). Los reptiles sí son de sangre fría."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-extra-010",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis convierte luz solar en ___",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Las plantas usan la luz del sol, CO₂ y agua para fabricar glucosa (azúcar) que les da energía."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-extra-012",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Luna produce su propia luz",
+        "respuestaCorrecta": "false",
+        "explicacion": "La Luna refleja la luz del Sol. No tiene luz propia."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-013",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-014",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-015",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-016",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-017",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-018",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-019",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-020",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-1-ciencias-b1-004",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sentido del ___ nos permite distinguir sabores dulces, salados y acidos.",
+        "respuestaCorrecta": "gusto",
+        "explicacion": "La lengua tiene papilas gustativas que detectan los sabores."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-005",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Que organo del cuerpo nos da el sentido del tacto?",
+        "opciones": [
+          "Los ojos",
+          "La nariz",
+          "La piel",
+          "La lengua"
+        ],
+        "respuestaCorrecta": "La piel",
+        "explicacion": "La piel es el organo mas grande del cuerpo y nos permite sentir calor, frio, presion y dolor."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-extra-007",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El oxígeno tiene símbolo químico ___",
+        "respuestaCorrecta": "O",
+        "explicacion": "O es el símbolo del oxígeno en la tabla periódica. Con este respiramos."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-extra-009",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué orgánulo produce energía en la célula?",
+        "opciones": [
+          "Núcleo",
+          "Ribosoma",
+          "Mitocondria",
+          "Vacuola"
+        ],
+        "respuestaCorrecta": "Mitocondria",
+        "explicacion": "Las mitocondrias son \"las plantas de energía\" de la célula. Producen ATP."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-extra-011",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El agua hierve a...",
+        "opciones": [
+          "0°C",
+          "50°C",
+          "100°C",
+          "150°C"
+        ],
+        "respuestaCorrecta": "100°C",
+        "explicacion": "A 100°C (a nivel del mar) el agua pasa de líquido a gas (vapor)."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-013",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-014",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-015",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-016",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-017",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-018",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-019",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-x-020",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-1-ciencias-b1-001",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuantos sentidos tiene el cuerpo humano?",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "Los 5 sentidos son: vista, oido, olfato, gusto y tacto."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-002",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Con que sentido escuchamos la musica?",
+        "opciones": [
+          "Vista",
+          "Oido",
+          "Olfato",
+          "Tacto"
+        ],
+        "respuestaCorrecta": "Oido",
+        "explicacion": "El oido capta las vibraciones del aire que forman los sonidos."
+      },
+      {
+        "id": "primaria-1-ciencias-b1-004",
+        "tema": "Mi cuerpo y mis sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sentido del ___ nos permite distinguir sabores dulces, salados y acidos.",
+        "respuestaCorrecta": "gusto",
+        "explicacion": "La lengua tiene papilas gustativas que detectan los sabores."
+      }
+    ]
+  },
+  "generado": "2026-02-27T04:04:54.089Z",
+  "version": "2.0"
+}

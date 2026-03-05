@@ -1,0 +1,416 @@
+{
+  "grado": "preescolar-2",
+  "materia": "matematicas",
+  "bloque": 1,
+  "nombre": "Números del 1 al 10",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Números del 1 al 10",
+    "Formas geométricas",
+    "Más, menos, igual",
+    "Orden y secuencias",
+    "Medición básica"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "preescolar-2-matematicas-b1-001",
+        "tema": "Formas geométricas",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
+        "visual": "⭐⭐⭐"
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-002",
+        "tema": "Más, menos, igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál número es el 3?",
+        "opciones": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-003",
+        "tema": "Orden y secuencias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El cuadrado tiene 4 lados",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El cuadrado tiene 4 lados iguales.",
+        "visual": "🟦",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-007",
+        "tema": "Números del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-008",
+        "tema": "Formas geométricas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-009",
+        "tema": "Más, menos, igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respuestaCorrecta": "12",
+        "explicacion": "12 meses: enero a diciembre.",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-010",
+        "tema": "Orden y secuencias",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-011",
+        "tema": "Medición básica",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-012",
+        "tema": "Números del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respuestaCorrecta": "12",
+        "explicacion": "12 meses: enero a diciembre.",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-013",
+        "tema": "Formas geométricas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-014",
+        "tema": "Más, menos, igual",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-015",
+        "tema": "Orden y secuencias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respuestaCorrecta": "12",
+        "explicacion": "12 meses: enero a diciembre.",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-016",
+        "tema": "Medición básica",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-017",
+        "tema": "Números del 1 al 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      }
+    ],
+    "v2": [
+      {
+        "id": "preescolar-2-matematicas-b1-004",
+        "tema": "Medición básica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "1, 2, ___, 4, 5",
+        "respuestaCorrecta": "3",
+        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-005",
+        "tema": "Números del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué figura es redonda?",
+        "opciones": [
+          "Cuadrado",
+          "Triángulo",
+          "Círculo",
+          "Rectángulo"
+        ],
+        "respuestaCorrecta": "Círculo",
+        "explicacion": "El círculo es completamente redondo, sin esquinas."
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-006",
+        "tema": "Formas geométricas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "2 + 1 = ___",
+        "respuestaCorrecta": "3",
+        "explicacion": "2 manzanas más 1 manzana = 3 manzanas.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-007",
+        "tema": "Números del 1 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-008",
+        "tema": "Formas geométricas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
+        "visual": "➖",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-009",
+        "tema": "Más, menos, igual",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3 × 4 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-010",
+        "tema": "Orden y secuencias",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-011",
+        "tema": "Medición básica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
+        "visual": "➖",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-012",
+        "tema": "Números del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3 × 4 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-013",
+        "tema": "Formas geométricas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-014",
+        "tema": "Más, menos, igual",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
+        "visual": "➖",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-015",
+        "tema": "Orden y secuencias",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3 × 4 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-016",
+        "tema": "Medición básica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-x-017",
+        "tema": "Números del 1 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
+        "visual": "➖",
+        "visualAnimado": true
+      }
+    ],
+    "preview": [
+      {
+        "id": "preescolar-2-matematicas-b1-001",
+        "tema": "Formas geométricas",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
+        "visual": "⭐⭐⭐"
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-002",
+        "tema": "Más, menos, igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál número es el 3?",
+        "opciones": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-matematicas-b1-004",
+        "tema": "Medición básica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "1, 2, ___, 4, 5",
+        "respuestaCorrecta": "3",
+        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:46:14.119Z",
+  "version": "2.0"
+}

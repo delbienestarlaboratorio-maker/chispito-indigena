@@ -1,0 +1,194 @@
+{
+  "grado": "secundaria-1",
+  "materia": "artes",
+  "bloque": 5,
+  "nombre": "Arte contemporáneo y digital",
+  "meses": "Abr-Jun",
+  "temas": [
+    "Arte moderno",
+    "Arte digital",
+    "Fotografía"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s1art-b5-01",
+        "tema": "Moderno",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el arte abstracto?",
+        "opciones": [
+          "Arte que no representa objetos reales reconocibles",
+          "Pintura hiperrealista",
+          "Fotografía de naturaleza",
+          "Escultura clásica"
+        ],
+        "respuestaCorrecta": "Arte que no representa objetos reales reconocibles",
+        "explicacion": "El arte abstracto expresa emociones o ideas mediante formas, colores y líneas libres."
+      },
+      {
+        "id": "s1art-b5-02",
+        "tema": "Digital",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es una forma de arte digital?",
+        "opciones": [
+          "Diseño gráfico, animación, arte generado por IA",
+          "Solo pintura rupestre",
+          "Solo escultura en piedra",
+          "Solo óleo sobre lienzo"
+        ],
+        "respuestaCorrecta": "Diseño gráfico, animación, arte generado por IA",
+        "explicacion": "El arte digital usa herramientas tecnológicas para crear imágenes y experiencias."
+      },
+      {
+        "id": "s1art-b5-03",
+        "tema": "Fotografía",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La fotografía artística es reconocida como forma de arte",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La fotografía captura momentos, emociones y perspectivas de forma artística."
+      },
+      {
+        "id": "s1art-b5-04",
+        "tema": "Moderno",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién creó el cubismo?",
+        "opciones": [
+          "Pablo Picasso y Georges Braque",
+          "Leonardo da Vinci",
+          "Miguel Ángel",
+          "Claude Monet"
+        ],
+        "respuestaCorrecta": "Pablo Picasso y Georges Braque",
+        "explicacion": "El cubismo muestra objetos desde múltiples ángulos simultáneamente."
+      },
+      {
+        "id": "s1art-b5-05",
+        "tema": "Digital",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El cine es considerado:",
+        "opciones": [
+          "El séptimo arte",
+          "Solo entretenimiento comercial",
+          "Arte menor",
+          "No es arte"
+        ],
+        "respuestaCorrecta": "El séptimo arte",
+        "explicacion": "El cine combina narrativa, imagen, sonido, actuación y música en una obra audiovisual."
+      },
+      {
+        "id": "s1art-b5-06",
+        "tema": "Arte urbano",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El arte urbano (graffiti, murales callejeros) puede ser arte legítimo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Artistas como Banksy han elevado el arte urbano a categoría de arte contemporáneo reconocido."
+      },
+      {
+        "id": "s1art-b5-07",
+        "tema": "Moderno",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es una instalación artística?",
+        "opciones": [
+          "Obra tridimensional que transforma un espacio y puede recorrerse",
+          "Un cuadro pequeño",
+          "Una foto",
+          "Un dibujo a lápiz"
+        ],
+        "respuestaCorrecta": "Obra tridimensional que transforma un espacio y puede recorrerse",
+        "explicacion": "Las instalaciones son experiencias inmersivas que el espectador habita."
+      },
+      {
+        "id": "s1art-b5-08",
+        "tema": "Digital",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la animación?",
+        "opciones": [
+          "Crear la ilusión de movimiento con imágenes",
+          "Pintar cuadros",
+          "Esculpir piedra",
+          "Tocar música"
+        ],
+        "respuestaCorrecta": "Crear la ilusión de movimiento con imágenes",
+        "explicacion": "La animación da vida a personajes e historias mediante secuencias de imágenes."
+      },
+      {
+        "id": "s1art-b5-09",
+        "tema": "Arte",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El arte sirve para expresar ideas, emociones y cultura",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El arte es un lenguaje universal que comunica lo que las palabras no siempre pueden."
+      },
+      {
+        "id": "s1art-b5-10",
+        "tema": "Contemporáneo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el performance artístico?",
+        "opciones": [
+          "Una obra donde el artista usa su cuerpo como medio de expresión en vivo",
+          "Solo un concierto",
+          "Solo una película",
+          "Solo una pintura"
+        ],
+        "respuestaCorrecta": "Una obra donde el artista usa su cuerpo como medio de expresión en vivo",
+        "explicacion": "El performance es arte efímero que ocurre en tiempo real ante el público."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s1art-b5-01",
+        "tema": "Moderno",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el arte abstracto?",
+        "opciones": [
+          "Arte que no representa objetos reales reconocibles",
+          "Pintura hiperrealista",
+          "Fotografía de naturaleza",
+          "Escultura clásica"
+        ],
+        "respuestaCorrecta": "Arte que no representa objetos reales reconocibles",
+        "explicacion": "El arte abstracto expresa emociones o ideas mediante formas, colores y líneas libres."
+      },
+      {
+        "id": "s1art-b5-02",
+        "tema": "Digital",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es una forma de arte digital?",
+        "opciones": [
+          "Diseño gráfico, animación, arte generado por IA",
+          "Solo pintura rupestre",
+          "Solo escultura en piedra",
+          "Solo óleo sobre lienzo"
+        ],
+        "respuestaCorrecta": "Diseño gráfico, animación, arte generado por IA",
+        "explicacion": "El arte digital usa herramientas tecnológicas para crear imágenes y experiencias."
+      }
+    ]
+  }
+}

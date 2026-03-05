@@ -1,0 +1,191 @@
+{
+  "grado": "primaria-1",
+  "materia": "educacion_fisica",
+  "bloque": 3,
+  "nombre": "Ritmo y expresión corporal",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Expresión con el cuerpo",
+    "Movimiento rítmico"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1ef-b3-01",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el ritmo?",
+        "opciones": [
+          "El pulso o \"tic-tac\" de la música",
+          "El nombre de la canción",
+          "El volumen",
+          "El cantante"
+        ],
+        "respuestaCorrecta": "El pulso o \"tic-tac\" de la música",
+        "explicacion": "El ritmo es el patrón regular que podemos seguir aplaudiendo o bailando."
+      },
+      {
+        "id": "p1ef-b3-02",
+        "tema": "Expresión",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Podemos expresar emociones con nuestro cuerpo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Con gestos, movimientos y postura podemos mostrar alegría, tristeza o sorpresa."
+      },
+      {
+        "id": "p1ef-b3-03",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo seguimos el ritmo de una canción?",
+        "opciones": [
+          "Aplaudiendo con las palmas",
+          "Durmiendo",
+          "Comiendo",
+          "Leyendo"
+        ],
+        "respuestaCorrecta": "Aplaudiendo con las palmas",
+        "explicacion": "Podemos aplaudir, zapatear o mover el cuerpo al compás de la música."
+      },
+      {
+        "id": "p1ef-b3-04",
+        "tema": "Expresión",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si la música es lenta, ¿cómo nos movemos?",
+        "opciones": [
+          "Despacio y suave",
+          "Muy rápido",
+          "No nos movemos",
+          "Brincando fuerte"
+        ],
+        "respuestaCorrecta": "Despacio y suave",
+        "explicacion": "Cuando la música es lenta, nuestros movimientos son lentos y suaves."
+      },
+      {
+        "id": "p1ef-b3-05",
+        "tema": "Expresión",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Bailar es solo para niñas",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Bailar es para todos. Es una forma de expresarse y hacer ejercicio."
+      },
+      {
+        "id": "p1ef-b3-06",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué parte del cuerpo también podemos marcar el ritmo?",
+        "opciones": [
+          "Con los pies, pisando fuerte",
+          "Con los ojos",
+          "Con la nariz",
+          "Con las orejas"
+        ],
+        "respuestaCorrecta": "Con los pies, pisando fuerte",
+        "explicacion": "Zapatear o pisar al compás es otra forma de marcar el ritmo."
+      },
+      {
+        "id": "p1ef-b3-07",
+        "tema": "Expresión",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si quieres expresar ALEGRÍA con tu cuerpo, ¿qué haces?",
+        "opciones": [
+          "Saltar, reír y abrir los brazos",
+          "Arrastrar los pies",
+          "Cruzar los brazos y fruncir el ceño",
+          "Quedarte quieto"
+        ],
+        "respuestaCorrecta": "Saltar, reír y abrir los brazos",
+        "explicacion": "La alegría se expresa con movimientos abiertos, amplios y energéticos."
+      },
+      {
+        "id": "p1ef-b3-08",
+        "tema": "Ritmo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una canción rápida necesita movimientos rápidos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El cuerpo sigue el tempo de la música: rápido con canciones rápidas y lento con lentas."
+      },
+      {
+        "id": "p1ef-b3-09",
+        "tema": "Expresión",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es una ronda infantil?",
+        "opciones": [
+          "Un juego donde los niños cantan y se mueven en círculo",
+          "Un deporte olímpico",
+          "Una clase de matemáticas",
+          "Una comida"
+        ],
+        "respuestaCorrecta": "Un juego donde los niños cantan y se mueven en círculo",
+        "explicacion": "Las rondas como \"La rueda de San Miguel\" combinan canto y movimiento en grupo."
+      },
+      {
+        "id": "p1ef-b3-10",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué instrumentos nos ayudan a hacer ritmo?",
+        "opciones": [
+          "Tambor, maracas, pandero",
+          "Libro, lápiz, borrador",
+          "Cuchara, tenedor, plato",
+          "Zapato, calcetín, moño"
+        ],
+        "respuestaCorrecta": "Tambor, maracas, pandero",
+        "explicacion": "Los instrumentos de percusión como el tambor nos ayudan a marcar el ritmo."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p1ef-b3-01",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el ritmo?",
+        "opciones": [
+          "El pulso o \"tic-tac\" de la música",
+          "El nombre de la canción",
+          "El volumen",
+          "El cantante"
+        ],
+        "respuestaCorrecta": "El pulso o \"tic-tac\" de la música",
+        "explicacion": "El ritmo es el patrón regular que podemos seguir aplaudiendo o bailando."
+      },
+      {
+        "id": "p1ef-b3-02",
+        "tema": "Expresión",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Podemos expresar emociones con nuestro cuerpo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Con gestos, movimientos y postura podemos mostrar alegría, tristeza o sorpresa."
+      }
+    ]
+  }
+}

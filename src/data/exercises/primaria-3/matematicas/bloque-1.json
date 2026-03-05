@@ -1,0 +1,395 @@
+{
+  "grado": "primaria-3",
+  "materia": "matematicas",
+  "bloque": 1,
+  "nombre": "Multiplicacion y tablas",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Multiplicacion basica"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-3-matematicas-b1-001",
+        "tema": "Multiplicacion basica",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "Hay 3 grupos de 2 pizzas. Cuantas pizzas en total?",
+        "opciones": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "respuestaCorrecta": "6",
+        "explicacion": "3 grupos con 2 pizzas cada uno = 3 x 2 = 6 pizzas."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-002",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuanto es 5 x 2?",
+        "opciones": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "5 x 2 significa sumar el 5 dos veces: 5 + 5 = 10."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-extra-006",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el resultado de 234 × 3?",
+        "opciones": [
+          "602",
+          "702",
+          "712",
+          "642"
+        ],
+        "respuestaCorrecta": "702",
+        "explicacion": "234×3: 4×3=12(llevo 1), 3×3+1=10(llevo 1), 2×3+1=7. Resultado: 702."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-extra-008",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El perímetro de un cuadrado de lado 6cm es:",
+        "opciones": [
+          "12 cm",
+          "18 cm",
+          "24 cm",
+          "36 cm"
+        ],
+        "respuestaCorrecta": "24 cm",
+        "explicacion": "Perímetro = 4 × lado = 4 × 6 = 24 cm.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-3-matematicas-b1-extra-010",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "25% de 200 = ___",
+        "respuestaCorrecta": "50",
+        "explicacion": "25% = 1/4. Un cuarto de 200 = 200÷4 = 50."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-extra-012",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un rectángulo mide 8 de base y 5 de altura, su área es:",
+        "opciones": [
+          "26 cm²",
+          "40 cm²",
+          "13 cm²",
+          "52 cm²"
+        ],
+        "respuestaCorrecta": "40 cm²",
+        "explicacion": "Área = base × altura = 8 × 5 = 40 cm².",
+        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-013",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-014",
+        "tema": "Multiplicacion basica",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El área de un triángulo es base×altura÷2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. A = (b × h) / 2.",
+        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-015",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "123² es aproximadamente...",
+        "opciones": [
+          "1000",
+          "5000",
+          "12000",
+          "15000"
+        ],
+        "respuestaCorrecta": "15000",
+        "explicacion": "123² = 15,129. ~15,000."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-016",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el 50% de 80?",
+        "opciones": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "respuestaCorrecta": "40",
+        "explicacion": "50% = 1/2. La mitad de 80 = 40."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-017",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "√36 = ___",
+        "respuestaCorrecta": "6",
+        "explicacion": "6 × 6 = 36, entonces √36 = 6."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-018",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-019",
+        "tema": "Multiplicacion basica",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El área de un triángulo es base×altura÷2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. A = (b × h) / 2.",
+        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-020",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "123² es aproximadamente...",
+        "opciones": [
+          "1000",
+          "5000",
+          "12000",
+          "15000"
+        ],
+        "respuestaCorrecta": "15000",
+        "explicacion": "123² = 15,129. ~15,000."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-3-matematicas-b1-003",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "4 x ___ = 12",
+        "respuestaCorrecta": "3",
+        "explicacion": "4 x 3 = 12. Podemos sumar: 4 + 4 + 4 = 12."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-004",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Cuanto es 6 x 7?",
+        "opciones": [
+          "40",
+          "42",
+          "44",
+          "48"
+        ],
+        "respuestaCorrecta": "42",
+        "explicacion": "6 x 7 = 42. Truco: 6 x 7 = 6 x 5 + 6 x 2 = 30 + 12 = 42."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-005",
+        "tema": "Multiplicacion basica",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "3 x 4 = 4 x 3 (la multiplicacion es conmutativa)",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto! 3 x 4 = 12 y 4 x 3 = 12. El orden de los factores no cambia el producto."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-extra-007",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3/4 + 1/4 = ___",
+        "respuestaCorrecta": "1",
+        "explicacion": "3/4 + 1/4 = 4/4 = 1 entero."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-extra-009",
+        "tema": "Multiplicacion basica",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "0.7 > 0.5",
+        "respuestaCorrecta": "true",
+        "explicacion": "0.7 tiene 7 décimas y 0.5 tiene 5. 7 > 5, entonces 0.7 > 0.5."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-extra-011",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuánto es 12² (doce al cuadrado)?",
+        "opciones": [
+          "24",
+          "144",
+          "121",
+          "169"
+        ],
+        "respuestaCorrecta": "144",
+        "explicacion": "12² = 12 × 12 = 144."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-013",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el 50% de 80?",
+        "opciones": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "respuestaCorrecta": "40",
+        "explicacion": "50% = 1/2. La mitad de 80 = 40."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-014",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "√36 = ___",
+        "respuestaCorrecta": "6",
+        "explicacion": "6 × 6 = 36, entonces √36 = 6."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-015",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-016",
+        "tema": "Multiplicacion basica",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El área de un triángulo es base×altura÷2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. A = (b × h) / 2.",
+        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-017",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "123² es aproximadamente...",
+        "opciones": [
+          "1000",
+          "5000",
+          "12000",
+          "15000"
+        ],
+        "respuestaCorrecta": "15000",
+        "explicacion": "123² = 15,129. ~15,000."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-018",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el 50% de 80?",
+        "opciones": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "respuestaCorrecta": "40",
+        "explicacion": "50% = 1/2. La mitad de 80 = 40."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-019",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "√36 = ___",
+        "respuestaCorrecta": "6",
+        "explicacion": "6 × 6 = 36, entonces √36 = 6."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-x-020",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-3-matematicas-b1-001",
+        "tema": "Multiplicacion basica",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "Hay 3 grupos de 2 pizzas. Cuantas pizzas en total?",
+        "opciones": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "respuestaCorrecta": "6",
+        "explicacion": "3 grupos con 2 pizzas cada uno = 3 x 2 = 6 pizzas."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-002",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuanto es 5 x 2?",
+        "opciones": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "5 x 2 significa sumar el 5 dos veces: 5 + 5 = 10."
+      },
+      {
+        "id": "primaria-3-matematicas-b1-003",
+        "tema": "Multiplicacion basica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "4 x ___ = 12",
+        "respuestaCorrecta": "3",
+        "explicacion": "4 x 3 = 12. Podemos sumar: 4 + 4 + 4 = 12."
+      }
+    ]
+  },
+  "generado": "2026-02-27T04:04:54.107Z",
+  "version": "2.0"
+}

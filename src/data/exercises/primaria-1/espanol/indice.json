@@ -1,0 +1,36 @@
+{
+  "grado": "primaria-1",
+  "materia": "espanol",
+  "bloques": [
+    {
+      "bloque": 1,
+      "nombre": "Vocales y primeras letras",
+      "meses": "Agosto-Septiembre",
+      "url": "/primaria-1/espanol/bloque-1"
+    },
+    {
+      "bloque": 2,
+      "nombre": "Silabas y palabras",
+      "meses": "Octubre-Noviembre",
+      "url": "/primaria-1/espanol/bloque-2"
+    },
+    {
+      "bloque": 3,
+      "nombre": "Oraciones sencillas",
+      "meses": "Diciembre-Enero",
+      "url": "/primaria-1/espanol/bloque-3"
+    },
+    {
+      "bloque": 4,
+      "nombre": "Lectura inicial",
+      "meses": "Febrero-Marzo",
+      "url": "/primaria-1/espanol/bloque-4"
+    },
+    {
+      "bloque": 5,
+      "nombre": "Escritura basica",
+      "meses": "Abril-Junio",
+      "url": "/primaria-1/espanol/bloque-5"
+    }
+  ]
+}

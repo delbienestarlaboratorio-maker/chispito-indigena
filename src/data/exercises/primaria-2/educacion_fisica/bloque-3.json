@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-2",
+  "materia": "educacion_fisica",
+  "bloque": 3,
+  "nombre": "Habilidades motrices",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Coordinación",
+    "Lanzar y atrapar"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2ef-b3-01",
+        "tema": "Coordinación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la coordinación?",
+        "opciones": [
+          "Mover diferentes partes del cuerpo de forma ordenada",
+          "Quedarse quieto",
+          "Dormir bien",
+          "Comer rápido"
+        ],
+        "respuestaCorrecta": "Mover diferentes partes del cuerpo de forma ordenada",
+        "explicacion": "La coordinación nos permite usar ojos, manos y pies juntos para hacer movimientos precisos."
+      },
+      {
+        "id": "p2ef-b3-02",
+        "tema": "Lanzar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para lanzar una pelota lejos, ¿qué hacemos?",
+        "opciones": [
+          "Echamos el brazo hacia atrás y lo lanzamos hacia adelante con fuerza",
+          "La dejamos caer",
+          "La empujamos con los dos pies",
+          "La soplamos"
+        ],
+        "respuestaCorrecta": "Echamos el brazo hacia atrás y lo lanzamos hacia adelante con fuerza",
+        "explicacion": "El movimiento de lanzar empieza desde atrás del cuerpo y termina soltando hacia adelante."
+      },
+      {
+        "id": "p2ef-b3-03",
+        "tema": "Atrapar",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para atrapar una pelota debemos ver hacia dónde viene",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Debemos seguir la pelota con los ojos y abrir las manos para recibirla."
+      },
+      {
+        "id": "p2ef-b3-04",
+        "tema": "Coordinación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué ejercicio mejora la coordinación ojo-mano?",
+        "opciones": [
+          "Rebotar y atrapar una pelota",
+          "Sentarse quieto",
+          "Ver televisión",
+          "Dormir"
+        ],
+        "respuestaCorrecta": "Rebotar y atrapar una pelota",
+        "explicacion": "Rebotar y atrapar requiere que los ojos guíen las manos. Excelente para la coordinación."
+      },
+      {
+        "id": "p2ef-b3-05",
+        "tema": "Lanzar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué parte del pie pateamos un balón de futbol?",
+        "opciones": [
+          "Con el empeine (parte de arriba del pie)",
+          "Con el talón",
+          "Con los dedos del pie",
+          "Con la planta"
+        ],
+        "respuestaCorrecta": "Con el empeine (parte de arriba del pie)",
+        "explicacion": "El empeine da más control y potencia al patear un balón."
+      },
+      {
+        "id": "p2ef-b3-06",
+        "tema": "Coordinación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Brincar alternando las piernas (como trotar) es un ejercicio de coordinación",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Alternar piernas requiere que el cerebro coordine ambos lados del cuerpo."
+      },
+      {
+        "id": "p2ef-b3-07",
+        "tema": "Atrapar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo ponemos las manos para atrapar una pelota que viene alto?",
+        "opciones": [
+          "Arriba de la cabeza con las palmas abiertas",
+          "Cerradas y abajo",
+          "Detrás de la espalda",
+          "En los bolsillos"
+        ],
+        "respuestaCorrecta": "Arriba de la cabeza con las palmas abiertas",
+        "explicacion": "Levantamos las manos con las palmas abiertas hacia la pelota para recibirla."
+      },
+      {
+        "id": "p2ef-b3-08",
+        "tema": "Coordinación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Saltar la cuerda ejercita:",
+        "opciones": [
+          "La coordinación de piernas y el ritmo",
+          "Solo los brazos",
+          "Solo la voz",
+          "Solo los ojos"
+        ],
+        "respuestaCorrecta": "La coordinación de piernas y el ritmo",
+        "explicacion": "Saltar la cuerda combina coordinación de piernas, brazos y ritmo. Es excelente ejercicio."
+      },
+      {
+        "id": "p2ef-b3-09",
+        "tema": "Lanzar",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Podemos lanzar con la mano derecha y con la izquierda",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Es bueno practicar lanzar con ambas manos para mejorar la coordinación bilateral."
+      },
+      {
+        "id": "p2ef-b3-10",
+        "tema": "Coordinación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos movimientos necesita mucha coordinación?",
+        "opciones": [
+          "Andar en bicicleta",
+          "Estar sentado",
+          "Dormir",
+          "Comer sentado"
+        ],
+        "respuestaCorrecta": "Andar en bicicleta",
+        "explicacion": "La bicicleta requiere coordinar pedaleo, equilibrio, dirección y vista al mismo tiempo."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p2ef-b3-01",
+        "tema": "Coordinación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la coordinación?",
+        "opciones": [
+          "Mover diferentes partes del cuerpo de forma ordenada",
+          "Quedarse quieto",
+          "Dormir bien",
+          "Comer rápido"
+        ],
+        "respuestaCorrecta": "Mover diferentes partes del cuerpo de forma ordenada",
+        "explicacion": "La coordinación nos permite usar ojos, manos y pies juntos para hacer movimientos precisos."
+      },
+      {
+        "id": "p2ef-b3-02",
+        "tema": "Lanzar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para lanzar una pelota lejos, ¿qué hacemos?",
+        "opciones": [
+          "Echamos el brazo hacia atrás y lo lanzamos hacia adelante con fuerza",
+          "La dejamos caer",
+          "La empujamos con los dos pies",
+          "La soplamos"
+        ],
+        "respuestaCorrecta": "Echamos el brazo hacia atrás y lo lanzamos hacia adelante con fuerza",
+        "explicacion": "El movimiento de lanzar empieza desde atrás del cuerpo y termina soltando hacia adelante."
+      }
+    ]
+  }
+}

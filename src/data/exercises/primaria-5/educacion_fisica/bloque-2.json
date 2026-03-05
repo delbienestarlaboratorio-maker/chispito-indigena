@@ -1,0 +1,194 @@
+{
+  "grado": "primaria-5",
+  "materia": "educacion_fisica",
+  "bloque": 2,
+  "nombre": "Deportes alternativos",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Frisbee",
+    "Juegos modificados",
+    "Inclusión"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p5ef-b2-01",
+        "tema": "Frisbee",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el Ultimate Frisbee?",
+        "opciones": [
+          "Deporte de equipo con disco volador sin contacto",
+          "Un juego de mesa",
+          "Lanzar piedras",
+          "Un deporte acuático"
+        ],
+        "respuestaCorrecta": "Deporte de equipo con disco volador sin contacto",
+        "explicacion": "El Ultimate se juega en equipos pasando un disco volador hasta anotar en la zona de gol."
+      },
+      {
+        "id": "p5ef-b2-02",
+        "tema": "Inclusión",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son los deportes adaptados?",
+        "opciones": [
+          "Deportes modificados para que todos puedan participar",
+          "Solo deportes para adultos",
+          "Deportes sin reglas",
+          "Deportes imposibles"
+        ],
+        "respuestaCorrecta": "Deportes modificados para que todos puedan participar",
+        "explicacion": "Los deportes adaptados permiten que personas con diferentes capacidades jueguen juntas."
+      },
+      {
+        "id": "p5ef-b2-03",
+        "tema": "Alternativos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El kin-ball es un deporte que usa una pelota gigante",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El kin-ball usa una pelota de 1.22 metros de diámetro. Participan 3 equipos a la vez."
+      },
+      {
+        "id": "p5ef-b2-04",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un \"juego modificado\"?",
+        "opciones": [
+          "Un deporte con reglas cambiadas para adaptarse al grupo",
+          "Un videojuego",
+          "Un juego tramposo",
+          "Un juego sin diversión"
+        ],
+        "respuestaCorrecta": "Un deporte con reglas cambiadas para adaptarse al grupo",
+        "explicacion": "Los juegos modificados adaptan reglas, espacio o equipo para incluir a todos."
+      },
+      {
+        "id": "p5ef-b2-05",
+        "tema": "Frisbee",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué principio tiene el Ultimate Frisbee que lo hace especial?",
+        "opciones": [
+          "El \"Espíritu de Juego\": no hay árbitro, los jugadores resuelven todo",
+          "Ganar a toda costa",
+          "Se permite el contacto físico",
+          "Solo pueden jugar 3 personas"
+        ],
+        "respuestaCorrecta": "El \"Espíritu de Juego\": no hay árbitro, los jugadores resuelven todo",
+        "explicacion": "El Spirit of the Game es un valor central: honestidad, respeto y autoárbitraje."
+      },
+      {
+        "id": "p5ef-b2-06",
+        "tema": "Inclusión",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Todos los niños, independientemente de su habilidad, tienen derecho a jugar",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El deporte es un derecho de todos. Las reglas se pueden adaptar para incluir a cada persona."
+      },
+      {
+        "id": "p5ef-b2-07",
+        "tema": "Alternativos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué deporte usa raquetas de madera y una pelota de goma en una pared?",
+        "opciones": [
+          "Frontón / Pelota vasca",
+          "Tenis",
+          "Ping-pong",
+          "Bádminton"
+        ],
+        "respuestaCorrecta": "Frontón / Pelota vasca",
+        "explicacion": "El frontón o pelota vasca es un deporte tradicional donde se golpea la pelota contra un muro."
+      },
+      {
+        "id": "p5ef-b2-08",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la ventaja de los deportes alternativos?",
+        "opciones": [
+          "Son novedosos, inclusivos y divertidos para todos",
+          "Son más caros",
+          "Son aburridos",
+          "Nadie los conoce"
+        ],
+        "respuestaCorrecta": "Son novedosos, inclusivos y divertidos para todos",
+        "explicacion": "Los deportes alternativos rompen la rutina y permiten que todos participen sin importar su nivel."
+      },
+      {
+        "id": "p5ef-b2-09",
+        "tema": "Inclusión",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Podemos crear reglas nuevas para que un juego sea más justo e inclusivo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Modificar reglas es una forma creativa de hacer que todos disfruten del juego."
+      },
+      {
+        "id": "p5ef-b2-10",
+        "tema": "Alternativos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El flag football se diferencia del futbol americano porque:",
+        "opciones": [
+          "Se quita una bandera (flag) en vez de derribar al rival",
+          "Usa más jugadores",
+          "Se juega en agua",
+          "No tiene reglas"
+        ],
+        "respuestaCorrecta": "Se quita una bandera (flag) en vez de derribar al rival",
+        "explicacion": "El flag football elimina el contacto físico usando banderines que se jalan para detener al corredor."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p5ef-b2-01",
+        "tema": "Frisbee",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el Ultimate Frisbee?",
+        "opciones": [
+          "Deporte de equipo con disco volador sin contacto",
+          "Un juego de mesa",
+          "Lanzar piedras",
+          "Un deporte acuático"
+        ],
+        "respuestaCorrecta": "Deporte de equipo con disco volador sin contacto",
+        "explicacion": "El Ultimate se juega en equipos pasando un disco volador hasta anotar en la zona de gol."
+      },
+      {
+        "id": "p5ef-b2-02",
+        "tema": "Inclusión",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son los deportes adaptados?",
+        "opciones": [
+          "Deportes modificados para que todos puedan participar",
+          "Solo deportes para adultos",
+          "Deportes sin reglas",
+          "Deportes imposibles"
+        ],
+        "respuestaCorrecta": "Deportes modificados para que todos puedan participar",
+        "explicacion": "Los deportes adaptados permiten que personas con diferentes capacidades jueguen juntas."
+      }
+    ]
+  }
+}

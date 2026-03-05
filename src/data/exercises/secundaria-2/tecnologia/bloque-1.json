@@ -1,0 +1,393 @@
+{
+  "grado": "secundaria-2",
+  "materia": "tecnologia",
+  "bloque": 1,
+  "nombre": "Hojas de cálculo",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Excel / Google Sheets",
+    "Fórmulas básicas (suma, promedio)",
+    "Gráficas simples",
+    "Bases de datos pequeñas"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-2-tecnologia-b1-001",
+        "tema": "Gráficas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué lenguaje de programación es más usado en ciencia de datos?",
+        "opciones": [
+          "Java",
+          "C++",
+          "Python",
+          "COBOL"
+        ],
+        "respuestaCorrecta": "Python",
+        "explicacion": "Python es el lenguaje dominante en ciencia de datos, machine learning e inteligencia artificial."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-002",
+        "tema": "Bases de datos pequeñas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "HTML significa HyperText Markup ___",
+        "respuestaCorrecta": "Language",
+        "explicacion": "HTML = HyperText Markup Language. Es el lenguaje base de todas las páginas web."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-003",
+        "tema": "Excel / Google Sheets",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "SQL se usa para consultar bases de datos",
+        "respuestaCorrecta": "true",
+        "explicacion": "SQL (Structured Query Language) permite crear, consultar y modificar bases de datos relacionales."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-006",
+        "tema": "Excel / Google Sheets",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-007",
+        "tema": "Fórmulas básicas (suma, promedio)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-008",
+        "tema": "Gráficas simples",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-009",
+        "tema": "Bases de datos pequeñas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-010",
+        "tema": "Excel / Google Sheets",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-011",
+        "tema": "Fórmulas básicas (suma, promedio)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-012",
+        "tema": "Gráficas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-013",
+        "tema": "Bases de datos pequeñas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-014",
+        "tema": "Excel / Google Sheets",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-015",
+        "tema": "Fórmulas básicas (suma, promedio)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-016",
+        "tema": "Gráficas simples",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-017",
+        "tema": "Bases de datos pequeñas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-2-tecnologia-b1-004",
+        "tema": "Fórmulas básicas (suma, promedio)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa CPU?",
+        "opciones": [
+          "Central Processing Unit",
+          "Computer Power Usage",
+          "Core Processing Utility",
+          "Central Power Unit"
+        ],
+        "respuestaCorrecta": "Central Processing Unit",
+        "explicacion": "CPU = Central Processing Unit. Es el \"cerebro\" del computador que ejecuta instrucciones."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-005",
+        "tema": "Gráficas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el protocolo seguro de navegación web?",
+        "opciones": [
+          "HTTP",
+          "FTP",
+          "HTTPS",
+          "SMTP"
+        ],
+        "respuestaCorrecta": "HTTPS",
+        "explicacion": "HTTPS (HTTP Secure) cifra la comunicación entre el navegador y el servidor usando SSL/TLS."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-006",
+        "tema": "Excel / Google Sheets",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-007",
+        "tema": "Fórmulas básicas (suma, promedio)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-008",
+        "tema": "Gráficas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-009",
+        "tema": "Bases de datos pequeñas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-010",
+        "tema": "Excel / Google Sheets",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-011",
+        "tema": "Fórmulas básicas (suma, promedio)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-012",
+        "tema": "Gráficas simples",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-013",
+        "tema": "Bases de datos pequeñas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-014",
+        "tema": "Excel / Google Sheets",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-015",
+        "tema": "Fórmulas básicas (suma, promedio)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-x-016",
+        "tema": "Gráficas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-2-tecnologia-b1-001",
+        "tema": "Gráficas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué lenguaje de programación es más usado en ciencia de datos?",
+        "opciones": [
+          "Java",
+          "C++",
+          "Python",
+          "COBOL"
+        ],
+        "respuestaCorrecta": "Python",
+        "explicacion": "Python es el lenguaje dominante en ciencia de datos, machine learning e inteligencia artificial."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-002",
+        "tema": "Bases de datos pequeñas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "HTML significa HyperText Markup ___",
+        "respuestaCorrecta": "Language",
+        "explicacion": "HTML = HyperText Markup Language. Es el lenguaje base de todas las páginas web."
+      },
+      {
+        "id": "secundaria-2-tecnologia-b1-004",
+        "tema": "Fórmulas básicas (suma, promedio)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa CPU?",
+        "opciones": [
+          "Central Processing Unit",
+          "Computer Power Usage",
+          "Core Processing Utility",
+          "Central Power Unit"
+        ],
+        "respuestaCorrecta": "Central Processing Unit",
+        "explicacion": "CPU = Central Processing Unit. Es el \"cerebro\" del computador que ejecuta instrucciones."
+      }
+    ]
+  },
+  "generado": "2026-02-27T17:22:03.094Z",
+  "version": "3.0"
+}

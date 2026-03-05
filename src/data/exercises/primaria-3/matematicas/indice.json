@@ -1,0 +1,36 @@
+{
+  "grado": "primaria-3",
+  "materia": "matematicas",
+  "bloques": [
+    {
+      "bloque": 1,
+      "nombre": "Multiplicacion y tablas",
+      "meses": "Agosto-Septiembre",
+      "url": "/primaria-3/matematicas/bloque-1"
+    },
+    {
+      "bloque": 2,
+      "nombre": "Division exacta",
+      "meses": "Octubre-Noviembre",
+      "url": "/primaria-3/matematicas/bloque-2"
+    },
+    {
+      "bloque": 3,
+      "nombre": "Fracciones simples",
+      "meses": "Diciembre-Enero",
+      "url": "/primaria-3/matematicas/bloque-3"
+    },
+    {
+      "bloque": 4,
+      "nombre": "Geometria: perimetro y area",
+      "meses": "Febrero-Marzo",
+      "url": "/primaria-3/matematicas/bloque-4"
+    },
+    {
+      "bloque": 5,
+      "nombre": "Estadistica basica",
+      "meses": "Abril-Junio",
+      "url": "/primaria-3/matematicas/bloque-5"
+    }
+  ]
+}

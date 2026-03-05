@@ -1,0 +1,391 @@
+{
+  "grado": "primaria-4",
+  "materia": "civica",
+  "bloque": 5,
+  "nombre": "Participación ciudadana",
+  "meses": "Enero-Junio",
+  "temas": [
+    "El voto",
+    "Organizaciones civiles"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-4-formacion-b5-001",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos poderes tiene el gobierno federal de México?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "Los 3 poderes son: Ejecutivo (Presidente), Legislativo (Congreso) y Judicial (SCJN)."
+      },
+      {
+        "id": "primaria-4-formacion-b5-002",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Constitución de México se promulgó en el año ___",
+        "respuestaCorrecta": "1917",
+        "explicacion": "La Constitución Política de los Estados Unidos Mexicanos fue promulgada en 1917."
+      },
+      {
+        "id": "primaria-4-formacion-b5-003",
+        "tema": "El voto",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "México es una república federal democrática",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. República = sin rey, Federal = con estados autónomos, Democrática = el pueblo elige."
+      },
+      {
+        "id": "primaria-4-formacion-b5-004",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho a la educación?",
+        "opciones": [
+          "Artículo 3°",
+          "Artículo 1°",
+          "Artículo 7°",
+          "Artículo 27°"
+        ],
+        "respuestaCorrecta": "Artículo 3°",
+        "explicacion": "El Artículo 3° de la Constitución garantiza el derecho a la educación laica y gratuita."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-009",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-010",
+        "tema": "Organizaciones civiles",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-011",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-012",
+        "tema": "Organizaciones civiles",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-013",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-014",
+        "tema": "Organizaciones civiles",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-015",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-016",
+        "tema": "Organizaciones civiles",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-017",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-018",
+        "tema": "Organizaciones civiles",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-4-formacion-b5-005",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Los pueblos ___ son las comunidades originarias de México",
+        "respuestaCorrecta": "indígenas",
+        "explicacion": "México tiene 68 pueblos indígenas con sus propias lenguas y culturas."
+      },
+      {
+        "id": "primaria-4-formacion-b5-006",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos poderes tiene el gobierno federal de México?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "Los 3 poderes son: Ejecutivo (Presidente), Legislativo (Congreso) y Judicial (SCJN)."
+      },
+      {
+        "id": "primaria-4-formacion-b5-007",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Constitución de México se promulgó en el año ___",
+        "respuestaCorrecta": "1917",
+        "explicacion": "La Constitución Política de los Estados Unidos Mexicanos fue promulgada en 1917."
+      },
+      {
+        "id": "primaria-4-formacion-b5-008",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho a la educación?",
+        "opciones": [
+          "Artículo 3°",
+          "Artículo 1°",
+          "Artículo 7°",
+          "Artículo 27°"
+        ],
+        "respuestaCorrecta": "Artículo 3°",
+        "explicacion": "El Artículo 3° de la Constitución garantiza el derecho a la educación laica y gratuita."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-009",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-010",
+        "tema": "Organizaciones civiles",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-011",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-012",
+        "tema": "Organizaciones civiles",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-013",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-014",
+        "tema": "Organizaciones civiles",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-015",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-016",
+        "tema": "Organizaciones civiles",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-017",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-4-civica-b5-x-018",
+        "tema": "Organizaciones civiles",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-4-formacion-b5-001",
+        "tema": "El voto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos poderes tiene el gobierno federal de México?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "Los 3 poderes son: Ejecutivo (Presidente), Legislativo (Congreso) y Judicial (SCJN)."
+      },
+      {
+        "id": "primaria-4-formacion-b5-002",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Constitución de México se promulgó en el año ___",
+        "respuestaCorrecta": "1917",
+        "explicacion": "La Constitución Política de los Estados Unidos Mexicanos fue promulgada en 1917."
+      },
+      {
+        "id": "primaria-4-formacion-b5-005",
+        "tema": "El voto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Los pueblos ___ son las comunidades originarias de México",
+        "respuestaCorrecta": "indígenas",
+        "explicacion": "México tiene 68 pueblos indígenas con sus propias lenguas y culturas."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:18:13.217Z",
+  "version": "2.0"
+}

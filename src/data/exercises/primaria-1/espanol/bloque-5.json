@@ -1,0 +1,391 @@
+{
+  "grado": "primaria-1",
+  "materia": "espanol",
+  "bloque": 5,
+  "nombre": "Escritura basica",
+  "meses": "Abril-Junio",
+  "temas": [
+    "Vocales",
+    "Silabas simples"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-1-espanol-b5-001",
+        "tema": "Vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuales son las vocales?",
+        "opciones": [
+          "a, b, c, d, e",
+          "a, e, i, o, u",
+          "b, d, f, g, h",
+          "p, q, r, s, t"
+        ],
+        "respuestaCorrecta": "a, e, i, o, u",
+        "explicacion": "Las vocales son: A, E, I, O, U. Las demas letras son consonantes."
+      },
+      {
+        "id": "primaria-1-espanol-b5-002",
+        "tema": "Vocales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La letra M es una vocal.",
+        "respuestaCorrecta": "false",
+        "explicacion": "La M es una consonante. Las vocales son: a, e, i, o, u."
+      },
+      {
+        "id": "primaria-1-espanol-b5-003",
+        "tema": "Vocales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La palabra SOL tiene la vocal: ___",
+        "respuestaCorrecta": "o",
+        "explicacion": "En S-O-L, la letra O es la vocal."
+      },
+      {
+        "id": "primaria-1-espanol-b5-extra-007",
+        "tema": "Vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un sustantivo?",
+        "opciones": [
+          "Una acción",
+          "Un nombre de persona, lugar o cosa",
+          "Una descripción",
+          "Una unión de palabras"
+        ],
+        "respuestaCorrecta": "Un nombre de persona, lugar o cosa",
+        "explicacion": "Los sustantivos nombran seres, cosas y lugares: \"niño\", \"ciudad\", \"libro\"."
+      },
+      {
+        "id": "primaria-1-espanol-b5-extra-009",
+        "tema": "Vocales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los sinónimos tienen significados similares",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sinónimos: casa/hogar, grande/enorme, bonito/hermoso."
+      },
+      {
+        "id": "primaria-1-espanol-b5-extra-011",
+        "tema": "Vocales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El opuesto de \"alegre\" es ___",
+        "respuestaCorrecta": "triste",
+        "explicacion": "Los antónimos son palabras de significado opuesto: alegre/triste, grande/pequeño."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-012",
+        "tema": "Vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-013",
+        "tema": "Silabas simples",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-014",
+        "tema": "Vocales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-015",
+        "tema": "Silabas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-016",
+        "tema": "Vocales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-017",
+        "tema": "Silabas simples",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-018",
+        "tema": "Vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-019",
+        "tema": "Silabas simples",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-020",
+        "tema": "Vocales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-1-espanol-b5-004",
+        "tema": "Vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Cuantas vocales tiene la palabra ESCUELA?",
+        "opciones": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "ES-CUE-LA tiene 4 vocales: E, U, E, A."
+      },
+      {
+        "id": "primaria-1-espanol-b5-007",
+        "tema": "Silabas simples",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La palabra PA-LO-MA tiene ___ silabas.",
+        "respuestaCorrecta": "3",
+        "explicacion": "PA-LO-MA: PA, LO, MA = 3 silabas."
+      },
+      {
+        "id": "primaria-1-espanol-b5-008",
+        "tema": "Silabas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Que silaba falta? MA-RI-___ (mariposa)",
+        "opciones": [
+          "sa",
+          "po",
+          "ta",
+          "la"
+        ],
+        "respuestaCorrecta": "po",
+        "explicacion": "MA-RI-PO-SA. La silaba que sigue a MA-RI es PO."
+      },
+      {
+        "id": "primaria-1-espanol-b5-extra-008",
+        "tema": "Silabas simples",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La palabra \"correr\" es un ___",
+        "respuestaCorrecta": "verbo",
+        "explicacion": "Los verbos expresan acciones: correr, saltar, estudiar, comer."
+      },
+      {
+        "id": "primaria-1-espanol-b5-extra-010",
+        "tema": "Silabas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Rápidamente\" es un...",
+        "opciones": [
+          "Sustantivo",
+          "Verbo",
+          "Adjetivo",
+          "Adverbio"
+        ],
+        "respuestaCorrecta": "Adverbio",
+        "explicacion": "Los adverbios modifican al verbo, adjetivo u otro adverbio. \"Rápidamente\" modifica cómo se hace algo."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-012",
+        "tema": "Vocales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-013",
+        "tema": "Silabas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-014",
+        "tema": "Vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-015",
+        "tema": "Silabas simples",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-016",
+        "tema": "Vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-017",
+        "tema": "Silabas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-018",
+        "tema": "Vocales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-1-espanol-b5-x-019",
+        "tema": "Silabas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-1-espanol-b5-001",
+        "tema": "Vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuales son las vocales?",
+        "opciones": [
+          "a, b, c, d, e",
+          "a, e, i, o, u",
+          "b, d, f, g, h",
+          "p, q, r, s, t"
+        ],
+        "respuestaCorrecta": "a, e, i, o, u",
+        "explicacion": "Las vocales son: A, E, I, O, U. Las demas letras son consonantes."
+      },
+      {
+        "id": "primaria-1-espanol-b5-002",
+        "tema": "Vocales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La letra M es una vocal.",
+        "respuestaCorrecta": "false",
+        "explicacion": "La M es una consonante. Las vocales son: a, e, i, o, u."
+      },
+      {
+        "id": "primaria-1-espanol-b5-004",
+        "tema": "Vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Cuantas vocales tiene la palabra ESCUELA?",
+        "opciones": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "ES-CUE-LA tiene 4 vocales: E, U, E, A."
+      }
+    ]
+  },
+  "generado": "2026-02-27T04:04:54.088Z",
+  "version": "2.0"
+}

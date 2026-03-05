@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-3",
+  "materia": "artes",
+  "bloque": 5,
+  "nombre": "Mi voz artística: proyecto de vida creativa",
+  "meses": "Abr-Jun",
+  "temas": [
+    "Identidad artística",
+    "Portfolio final"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3art-b5-01",
+        "tema": "Identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la identidad artística?",
+        "opciones": [
+          "El estilo y voz únicos que cada persona desarrolla al crear arte",
+          "Copiar a un artista famoso",
+          "No tener estilo",
+          "Solo seguir tendencias"
+        ],
+        "respuestaCorrecta": "El estilo y voz únicos que cada persona desarrolla al crear arte",
+        "explicacion": "La identidad artística se construye explorando, experimentando y encontrando tu voz."
+      },
+      {
+        "id": "s3art-b5-02",
+        "tema": "Portfolio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué debe incluir un portfolio artístico de fin de curso?",
+        "opciones": [
+          "Mejores obras, proceso creativo, reflexiones y evolución artística",
+          "Solo una obra",
+          "Solo calificaciones",
+          "Solo fotos"
+        ],
+        "respuestaCorrecta": "Mejores obras, proceso creativo, reflexiones y evolución artística",
+        "explicacion": "El portfolio muestra el crecimiento y las habilidades desarrolladas durante el ciclo."
+      },
+      {
+        "id": "s3art-b5-03",
+        "tema": "Carrera",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las carreras artísticas son una opción profesional válida",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Diseño, cine, música, animación, arquitectura y más son profesiones artísticas con demanda."
+      },
+      {
+        "id": "s3art-b5-04",
+        "tema": "Reflexión",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué aprendiste en 3 años de Artes en secundaria?",
+        "opciones": [
+          "Técnicas, historia del arte, expresión personal y apreciación cultural",
+          "Solo a dibujar",
+          "Nada",
+          "Solo nombres de artistas"
+        ],
+        "respuestaCorrecta": "Técnicas, historia del arte, expresión personal y apreciación cultural",
+        "explicacion": "Artes desarrolla creatividad, sensibilidad, análisis y comunicación visual."
+      },
+      {
+        "id": "s3art-b5-05",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Dónde se puede seguir estudiando artes después de la secundaria?",
+        "opciones": [
+          "En bachilleratos con enfoque artístico, talleres y programas culturales",
+          "En ningún lugar",
+          "Solo en el extranjero",
+          "Solo si tienes mucho dinero"
+        ],
+        "respuestaCorrecta": "En bachilleratos con enfoque artístico, talleres y programas culturales",
+        "explicacion": "Existen opciones accesibles para continuar la formación artística."
+      },
+      {
+        "id": "s3art-b5-06",
+        "tema": "Identidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El arte puede ser una herramienta para comprenderse a uno mismo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La creación artística es un espejo de nuestras emociones, deseos y experiencias."
+      },
+      {
+        "id": "s3art-b5-07",
+        "tema": "Creatividad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la mejor forma de encontrar tu estilo artístico?",
+        "opciones": [
+          "Experimentar con diferentes técnicas, estilos y materiales",
+          "Copiar siempre a los mismos artistas",
+          "No intentar nada nuevo",
+          "Solo seguir tutoriales"
+        ],
+        "respuestaCorrecta": "Experimentar con diferentes técnicas, estilos y materiales",
+        "explicacion": "La exploración libre es el camino hacia una voz artística auténtica."
+      },
+      {
+        "id": "s3art-b5-08",
+        "tema": "Sociedad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo puede el arte contribuir a tu comunidad?",
+        "opciones": [
+          "Embelleciendo espacios, educando, uniendo y creando identidad",
+          "No puede contribuir",
+          "Solo si ganas premios",
+          "Solo si es famoso"
+        ],
+        "respuestaCorrecta": "Embelleciendo espacios, educando, uniendo y creando identidad",
+        "explicacion": "El arte comunitario transforma barrios y fortalece lazos sociales."
+      },
+      {
+        "id": "s3art-b5-09",
+        "tema": "Carrera",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La creatividad desarrollada en Artes es útil en cualquier profesión",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El pensamiento creativo, la comunicación visual y la innovación son valiosos en todas las áreas."
+      },
+      {
+        "id": "s3art-b5-10",
+        "tema": "Reflexión",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el mensaje más importante que te deja Artes?",
+        "opciones": [
+          "El arte es un derecho y una habilidad que todos podemos desarrollar",
+          "Solo los talentosos pueden hacer arte",
+          "El arte no sirve para nada",
+          "El arte es solo diversión"
+        ],
+        "respuestaCorrecta": "El arte es un derecho y una habilidad que todos podemos desarrollar",
+        "explicacion": "Todo ser humano es creativo. El arte es una forma de expresión universal y accesible."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s3art-b5-01",
+        "tema": "Identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la identidad artística?",
+        "opciones": [
+          "El estilo y voz únicos que cada persona desarrolla al crear arte",
+          "Copiar a un artista famoso",
+          "No tener estilo",
+          "Solo seguir tendencias"
+        ],
+        "respuestaCorrecta": "El estilo y voz únicos que cada persona desarrolla al crear arte",
+        "explicacion": "La identidad artística se construye explorando, experimentando y encontrando tu voz."
+      },
+      {
+        "id": "s3art-b5-02",
+        "tema": "Portfolio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué debe incluir un portfolio artístico de fin de curso?",
+        "opciones": [
+          "Mejores obras, proceso creativo, reflexiones y evolución artística",
+          "Solo una obra",
+          "Solo calificaciones",
+          "Solo fotos"
+        ],
+        "respuestaCorrecta": "Mejores obras, proceso creativo, reflexiones y evolución artística",
+        "explicacion": "El portfolio muestra el crecimiento y las habilidades desarrolladas durante el ciclo."
+      }
+    ]
+  }
+}

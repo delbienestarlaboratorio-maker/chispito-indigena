@@ -1,0 +1,385 @@
+{
+  "grado": "primaria-5",
+  "materia": "espanol",
+  "bloque": 6,
+  "nombre": "Producción de textos",
+  "meses": "Febrero-Junio",
+  "temas": [
+    "Ensayo breve",
+    "Revisión y edición"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-5-espanol-b6-001",
+        "tema": "Ensayo breve",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la función principal de la ensayo breve?",
+        "opciones": [
+          "Informar",
+          "Entretener",
+          "Convencer",
+          "Describir"
+        ],
+        "explicacion": "En Ensayo breve el objetivo principal suele ser comunicar.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Informar"
+      },
+      {
+        "id": "primaria-5-espanol-b6-002",
+        "tema": "Ensayo breve",
+        "tipo": "true_false",
+        "pregunta": "Un texto de ensayo breve tiene introducción, desarrollo y conclusión",
+        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-5-espanol-b6-003",
+        "tema": "Ensayo breve",
+        "tipo": "fill_blank",
+        "pregunta": "El ___ de un texto es la idea que lo organiza",
+        "explicacion": "El tema principal es el hilo conductor de todo el texto.",
+        "nivel": "v1",
+        "respuestaCorrecta": "tema principal"
+      },
+      {
+        "id": "primaria-5-espanol-b6-extra-007",
+        "tema": "Ensayo breve",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un sustantivo?",
+        "opciones": [
+          "Una acción",
+          "Un nombre de persona, lugar o cosa",
+          "Una descripción",
+          "Una unión de palabras"
+        ],
+        "respuestaCorrecta": "Un nombre de persona, lugar o cosa",
+        "explicacion": "Los sustantivos nombran seres, cosas y lugares: \"niño\", \"ciudad\", \"libro\"."
+      },
+      {
+        "id": "primaria-5-espanol-b6-extra-009",
+        "tema": "Ensayo breve",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los sinónimos tienen significados similares",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sinónimos: casa/hogar, grande/enorme, bonito/hermoso."
+      },
+      {
+        "id": "primaria-5-espanol-b6-extra-011",
+        "tema": "Ensayo breve",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El opuesto de \"alegre\" es ___",
+        "respuestaCorrecta": "triste",
+        "explicacion": "Los antónimos son palabras de significado opuesto: alegre/triste, grande/pequeño."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-012",
+        "tema": "Ensayo breve",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-013",
+        "tema": "Revisión y edición",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-014",
+        "tema": "Ensayo breve",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-015",
+        "tema": "Revisión y edición",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-016",
+        "tema": "Ensayo breve",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-017",
+        "tema": "Revisión y edición",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-018",
+        "tema": "Ensayo breve",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-019",
+        "tema": "Revisión y edición",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-020",
+        "tema": "Ensayo breve",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-5-espanol-b6-004",
+        "tema": "Revisión y edición",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la función principal de la revisión y edición?",
+        "opciones": [
+          "Informar",
+          "Entretener",
+          "Convencer",
+          "Describir"
+        ],
+        "explicacion": "En Revisión y edición el objetivo principal suele ser comunicar.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Informar"
+      },
+      {
+        "id": "primaria-5-espanol-b6-005",
+        "tema": "Revisión y edición",
+        "tipo": "true_false",
+        "pregunta": "Un texto de revisión y edición tiene introducción, desarrollo y conclusión",
+        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
+        "nivel": "v2",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-5-espanol-b6-006",
+        "tema": "Revisión y edición",
+        "tipo": "fill_blank",
+        "pregunta": "El ___ de un texto es la idea que lo organiza",
+        "explicacion": "El tema principal es el hilo conductor de todo el texto.",
+        "nivel": "v2",
+        "respuestaCorrecta": "tema principal"
+      },
+      {
+        "id": "primaria-5-espanol-b6-extra-008",
+        "tema": "Revisión y edición",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La palabra \"correr\" es un ___",
+        "respuestaCorrecta": "verbo",
+        "explicacion": "Los verbos expresan acciones: correr, saltar, estudiar, comer."
+      },
+      {
+        "id": "primaria-5-espanol-b6-extra-010",
+        "tema": "Revisión y edición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Rápidamente\" es un...",
+        "opciones": [
+          "Sustantivo",
+          "Verbo",
+          "Adjetivo",
+          "Adverbio"
+        ],
+        "respuestaCorrecta": "Adverbio",
+        "explicacion": "Los adverbios modifican al verbo, adjetivo u otro adverbio. \"Rápidamente\" modifica cómo se hace algo."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-012",
+        "tema": "Ensayo breve",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-013",
+        "tema": "Revisión y edición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-014",
+        "tema": "Ensayo breve",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-015",
+        "tema": "Revisión y edición",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-016",
+        "tema": "Ensayo breve",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-017",
+        "tema": "Revisión y edición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-018",
+        "tema": "Ensayo breve",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+      },
+      {
+        "id": "primaria-5-espanol-b6-x-019",
+        "tema": "Revisión y edición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-5-espanol-b6-001",
+        "tema": "Ensayo breve",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la función principal de la ensayo breve?",
+        "opciones": [
+          "Informar",
+          "Entretener",
+          "Convencer",
+          "Describir"
+        ],
+        "explicacion": "En Ensayo breve el objetivo principal suele ser comunicar.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Informar"
+      },
+      {
+        "id": "primaria-5-espanol-b6-002",
+        "tema": "Ensayo breve",
+        "tipo": "true_false",
+        "pregunta": "Un texto de ensayo breve tiene introducción, desarrollo y conclusión",
+        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-5-espanol-b6-004",
+        "tema": "Revisión y edición",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es la función principal de la revisión y edición?",
+        "opciones": [
+          "Informar",
+          "Entretener",
+          "Convencer",
+          "Describir"
+        ],
+        "explicacion": "En Revisión y edición el objetivo principal suele ser comunicar.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Informar"
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:06:30.432Z",
+  "version": "2.0"
+}

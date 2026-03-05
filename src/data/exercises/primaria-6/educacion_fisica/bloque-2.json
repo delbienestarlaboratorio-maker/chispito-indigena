@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-6",
+  "materia": "educacion_fisica",
+  "bloque": 2,
+  "nombre": "Deportes de competencia",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Atletismo avanzado",
+    "Deportes individuales y colectivos"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p6ef-b2-01",
+        "tema": "Atletismo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el decatlón?",
+        "opciones": [
+          "Competencia que combina 10 pruebas de atletismo",
+          "Una carrera de 10 km",
+          "Solo lanzamiento de disco",
+          "Un deporte acuático"
+        ],
+        "respuestaCorrecta": "Competencia que combina 10 pruebas de atletismo",
+        "explicacion": "El decatlón incluye carreras, saltos y lanzamientos: el atleta más completo gana."
+      },
+      {
+        "id": "p6ef-b2-02",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué diferencia un deporte individual de uno colectivo?",
+        "opciones": [
+          "En el individual compites solo; en el colectivo, en equipo",
+          "No hay diferencia",
+          "El individual es más fácil",
+          "El colectivo no tiene reglas"
+        ],
+        "respuestaCorrecta": "En el individual compites solo; en el colectivo, en equipo",
+        "explicacion": "Natación y atletismo son individuales; futbol y basquetbol son colectivos."
+      },
+      {
+        "id": "p6ef-b2-03",
+        "tema": "Atletismo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El salto de altura mide qué tan alto podemos saltar por encima de una barra",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "En el salto de altura se debe pasar por encima de una barra horizontal sin tirarla."
+      },
+      {
+        "id": "p6ef-b2-04",
+        "tema": "Competencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué actitud debemos tener al competir?",
+        "opciones": [
+          "Dar nuestro mejor esfuerzo con respeto",
+          "Ganar a cualquier precio",
+          "Hacer trampa si es necesario",
+          "No esforzarnos"
+        ],
+        "respuestaCorrecta": "Dar nuestro mejor esfuerzo con respeto",
+        "explicacion": "La competencia sana se basa en el esfuerzo personal y el respeto al rival."
+      },
+      {
+        "id": "p6ef-b2-05",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué deporte combina natación, ciclismo y carrera?",
+        "opciones": [
+          "Triatlón",
+          "Maratón",
+          "Pentatlón",
+          "Decatlón"
+        ],
+        "respuestaCorrecta": "Triatlón",
+        "explicacion": "El triatlón prueba tres disciplinas: nadar, pedalear y correr."
+      },
+      {
+        "id": "p6ef-b2-06",
+        "tema": "Competencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En el deporte, perder también enseña lecciones valiosas",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La derrota enseña humildad, perseverancia y a identificar áreas de mejora."
+      },
+      {
+        "id": "p6ef-b2-07",
+        "tema": "Atletismo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuánto mide un maratón?",
+        "opciones": [
+          "42.195 km",
+          "10 km",
+          "21 km",
+          "100 metros"
+        ],
+        "respuestaCorrecta": "42.195 km",
+        "explicacion": "El maratón tiene 42.195 km, inspirado en la leyenda griega de Filípides."
+      },
+      {
+        "id": "p6ef-b2-08",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué deportista mexicana ganó oro olímpico en caminata?",
+        "opciones": [
+          "Una marchista/caminante mexicana",
+          "Un nadador",
+          "Un futbolista",
+          "Un boxeador"
+        ],
+        "respuestaCorrecta": "Una marchista/caminante mexicana",
+        "explicacion": "México ha tenido medallistas olímpicos en marcha/caminata como deporte de pista."
+      },
+      {
+        "id": "p6ef-b2-09",
+        "tema": "Competencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El dopaje (usar sustancias prohibidas) es trampa en el deporte",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El dopaje es antiético, peligroso para la salud y está prohibido por todas las federaciones deportivas."
+      },
+      {
+        "id": "p6ef-b2-10",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué valor nos enseña más el deporte?",
+        "opciones": [
+          "Disciplina, superación y trabajo en equipo",
+          "Solo a ganar trofeos",
+          "Solo a ser famosos",
+          "A ser agresivos"
+        ],
+        "respuestaCorrecta": "Disciplina, superación y trabajo en equipo",
+        "explicacion": "El deporte forma personas con valores que van más allá de la cancha."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p6ef-b2-01",
+        "tema": "Atletismo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el decatlón?",
+        "opciones": [
+          "Competencia que combina 10 pruebas de atletismo",
+          "Una carrera de 10 km",
+          "Solo lanzamiento de disco",
+          "Un deporte acuático"
+        ],
+        "respuestaCorrecta": "Competencia que combina 10 pruebas de atletismo",
+        "explicacion": "El decatlón incluye carreras, saltos y lanzamientos: el atleta más completo gana."
+      },
+      {
+        "id": "p6ef-b2-02",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué diferencia un deporte individual de uno colectivo?",
+        "opciones": [
+          "En el individual compites solo; en el colectivo, en equipo",
+          "No hay diferencia",
+          "El individual es más fácil",
+          "El colectivo no tiene reglas"
+        ],
+        "respuestaCorrecta": "En el individual compites solo; en el colectivo, en equipo",
+        "explicacion": "Natación y atletismo son individuales; futbol y basquetbol son colectivos."
+      }
+    ]
+  }
+}

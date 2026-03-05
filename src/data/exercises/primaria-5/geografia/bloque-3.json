@@ -1,0 +1,385 @@
+{
+  "grado": "primaria-5",
+  "materia": "geografia",
+  "bloque": 3,
+  "nombre": "Climas del mundo",
+  "meses": "Octubre-Noviembre",
+  "temas": [
+    "Zonas climáticas",
+    "El Niño y La Niña"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-5-geografia-b3-001",
+        "tema": "Zonas climáticas",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia \"Zonas climáticas\" en geografía?",
+        "opciones": [
+          "La distribución en el espacio",
+          "La historia antigua",
+          "Las ciencias exactas",
+          "La literatura"
+        ],
+        "explicacion": "La geografía estudia cómo se distribuyen Zonas climáticas en el espacio terrestre.",
+        "nivel": "v1",
+        "respuestaCorrecta": "La distribución en el espacio"
+      },
+      {
+        "id": "primaria-5-geografia-b3-002",
+        "tema": "Zonas climáticas",
+        "tipo": "fill_blank",
+        "pregunta": "Los mapas nos ayudan a ubicar ___",
+        "explicacion": "Los mapas son herramientas clave de la geografía para representar el espacio.",
+        "nivel": "v1",
+        "respuestaCorrecta": "lugares y fenómenos"
+      },
+      {
+        "id": "primaria-5-geografia-b3-003",
+        "tema": "Zonas climáticas",
+        "tipo": "true_false",
+        "pregunta": "La geografía estudia tanto el espacio físico como el humano",
+        "explicacion": "Geografía física: relieve, clima, etc. Geografía humana: población, economía, etc.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-5-geografia-b3-extra-007",
+        "tema": "Zonas climáticas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": [
+          "Mississipi",
+          "Nilo",
+          "Amazonas",
+          "Yangtsé"
+        ],
+        "respuestaCorrecta": "Nilo",
+        "explicacion": "El Nilo (6,650 km) compite con el Amazonas por ser el más largo. El Nilo está en África."
+      },
+      {
+        "id": "primaria-5-geografia-b3-extra-009",
+        "tema": "Zonas climáticas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Brasil es el país más grande de América del Sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "Brasil ocupa el 47% del territorio de América del Sur."
+      },
+      {
+        "id": "primaria-5-geografia-b3-extra-011",
+        "tema": "Zonas climáticas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La capital de Francia es ___",
+        "respuestaCorrecta": "París",
+        "explicacion": "París es la capital y ciudad más grande de Francia, conocida por la Torre Eiffel."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-013",
+        "tema": "Zonas climáticas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "China",
+          "EUA",
+          "Rusia",
+          "Canadá"
+        ],
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-014",
+        "tema": "El Niño y La Niña",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-015",
+        "tema": "Zonas climáticas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "México limita al sur con ___ y ___",
+        "respuestaCorrecta": "Guatemala y Belice",
+        "explicacion": "Al sur de México están Guatemala y Belice, en América Central."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-016",
+        "tema": "El Niño y La Niña",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
+        "respuestaCorrecta": "Estados Unidos",
+        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-017",
+        "tema": "Zonas climáticas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La capital de Japón es ___",
+        "respuestaCorrecta": "Tokio",
+        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-018",
+        "tema": "El Niño y La Niña",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": [
+          "Sahara",
+          "Atacama",
+          "Gobi",
+          "Antartico"
+        ],
+        "respuestaCorrecta": "Antartico",
+        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-019",
+        "tema": "Zonas climáticas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué continente está Brasil?",
+        "opciones": [
+          "Norteamérica",
+          "Europa",
+          "África",
+          "Sudamérica"
+        ],
+        "respuestaCorrecta": "Sudamérica",
+        "explicacion": "Brasil es el país más grande de América del Sur."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-020",
+        "tema": "El Niño y La Niña",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "China",
+          "EUA",
+          "Rusia",
+          "Canadá"
+        ],
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-5-geografia-b3-004",
+        "tema": "El Niño y La Niña",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia \"Zonas climáticas\" en geografía?",
+        "opciones": [
+          "La distribución en el espacio",
+          "La historia antigua",
+          "Las ciencias exactas",
+          "La literatura"
+        ],
+        "explicacion": "La geografía estudia cómo se distribuyen Zonas climáticas en el espacio terrestre.",
+        "nivel": "v2",
+        "respuestaCorrecta": "La distribución en el espacio"
+      },
+      {
+        "id": "primaria-5-geografia-b3-005",
+        "tema": "El Niño y La Niña",
+        "tipo": "fill_blank",
+        "pregunta": "Los mapas nos ayudan a ubicar ___",
+        "explicacion": "Los mapas son herramientas clave de la geografía para representar el espacio.",
+        "nivel": "v2",
+        "respuestaCorrecta": "lugares y fenómenos"
+      },
+      {
+        "id": "primaria-5-geografia-b3-006",
+        "tema": "El Niño y La Niña",
+        "tipo": "true_false",
+        "pregunta": "La geografía estudia tanto el espacio físico como el humano",
+        "explicacion": "Geografía física: relieve, clima, etc. Geografía humana: población, economía, etc.",
+        "nivel": "v2",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-5-geografia-b3-extra-008",
+        "tema": "El Niño y La Niña",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El estado más grande de México es ___",
+        "respuestaCorrecta": "Chihuahua",
+        "explicacion": "Chihuahua es el estado más grande de México con 247,455 km²."
+      },
+      {
+        "id": "primaria-5-geografia-b3-extra-010",
+        "tema": "El Niño y La Niña",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En qué continente está Egipto?",
+        "opciones": [
+          "Asia",
+          "Europa",
+          "África",
+          "América"
+        ],
+        "respuestaCorrecta": "África",
+        "explicacion": "Egipto está en el noreste de África, aunque el Canal de Suez lo conecta con Asia."
+      },
+      {
+        "id": "primaria-5-geografia-b3-extra-012",
+        "tema": "El Niño y La Niña",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos estados tiene México?",
+        "opciones": [
+          "28",
+          "29",
+          "31",
+          "33"
+        ],
+        "respuestaCorrecta": "31",
+        "explicacion": "México tiene 31 estados y 1 entidad (Ciudad de México), total 32 entidades federativas."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-013",
+        "tema": "Zonas climáticas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La capital de Japón es ___",
+        "respuestaCorrecta": "Tokio",
+        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-014",
+        "tema": "El Niño y La Niña",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": [
+          "Sahara",
+          "Atacama",
+          "Gobi",
+          "Antartico"
+        ],
+        "respuestaCorrecta": "Antartico",
+        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-015",
+        "tema": "Zonas climáticas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En qué continente está Brasil?",
+        "opciones": [
+          "Norteamérica",
+          "Europa",
+          "África",
+          "Sudamérica"
+        ],
+        "respuestaCorrecta": "Sudamérica",
+        "explicacion": "Brasil es el país más grande de América del Sur."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-016",
+        "tema": "El Niño y La Niña",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "China",
+          "EUA",
+          "Rusia",
+          "Canadá"
+        ],
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-017",
+        "tema": "Zonas climáticas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-018",
+        "tema": "El Niño y La Niña",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "México limita al sur con ___ y ___",
+        "respuestaCorrecta": "Guatemala y Belice",
+        "explicacion": "Al sur de México están Guatemala y Belice, en América Central."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-019",
+        "tema": "Zonas climáticas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
+        "respuestaCorrecta": "Estados Unidos",
+        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México."
+      },
+      {
+        "id": "primaria-5-geografia-b3-x-020",
+        "tema": "El Niño y La Niña",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La capital de Japón es ___",
+        "respuestaCorrecta": "Tokio",
+        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-5-geografia-b3-001",
+        "tema": "Zonas climáticas",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia \"Zonas climáticas\" en geografía?",
+        "opciones": [
+          "La distribución en el espacio",
+          "La historia antigua",
+          "Las ciencias exactas",
+          "La literatura"
+        ],
+        "explicacion": "La geografía estudia cómo se distribuyen Zonas climáticas en el espacio terrestre.",
+        "nivel": "v1",
+        "respuestaCorrecta": "La distribución en el espacio"
+      },
+      {
+        "id": "primaria-5-geografia-b3-002",
+        "tema": "Zonas climáticas",
+        "tipo": "fill_blank",
+        "pregunta": "Los mapas nos ayudan a ubicar ___",
+        "explicacion": "Los mapas son herramientas clave de la geografía para representar el espacio.",
+        "nivel": "v1",
+        "respuestaCorrecta": "lugares y fenómenos"
+      },
+      {
+        "id": "primaria-5-geografia-b3-004",
+        "tema": "El Niño y La Niña",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia \"Zonas climáticas\" en geografía?",
+        "opciones": [
+          "La distribución en el espacio",
+          "La historia antigua",
+          "Las ciencias exactas",
+          "La literatura"
+        ],
+        "explicacion": "La geografía estudia cómo se distribuyen Zonas climáticas en el espacio terrestre.",
+        "nivel": "v2",
+        "respuestaCorrecta": "La distribución en el espacio"
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:06:30.456Z",
+  "version": "2.0"
+}

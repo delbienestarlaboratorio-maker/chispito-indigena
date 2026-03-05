@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-4",
+  "materia": "educacion_fisica",
+  "bloque": 4,
+  "nombre": "Primeros auxilios básicos",
+  "meses": "Feb-Mar",
+  "temas": [
+    "Prevención de accidentes",
+    "Primeros auxilios"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p4ef-b4-01",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la mejor forma de evitar accidentes deportivos?",
+        "opciones": [
+          "Calentar bien, usar equipo adecuado y seguir las reglas",
+          "Jugar sin reglas",
+          "No calentar nunca",
+          "Usar zapatos viejos"
+        ],
+        "respuestaCorrecta": "Calentar bien, usar equipo adecuado y seguir las reglas",
+        "explicacion": "La prevención es siempre mejor que el tratamiento."
+      },
+      {
+        "id": "p4ef-b4-02",
+        "tema": "Primeros auxilios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un compañero se tuerce el tobillo, ¿qué hacemos primero?",
+        "opciones": [
+          "Avisar al profesor y aplicar hielo si hay",
+          "Correr a casa",
+          "Mover el pie para todos lados",
+          "Ignorarlo"
+        ],
+        "respuestaCorrecta": "Avisar al profesor y aplicar hielo si hay",
+        "explicacion": "Lo primero es avisar a un adulto. El hielo reduce la hinchazón (método RICE)."
+      },
+      {
+        "id": "p4ef-b4-03",
+        "tema": "Prevención",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Usar calzado deportivo adecuado previene lesiones en los pies",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El calzado deportivo amortigua impactos y da estabilidad al pie durante el ejercicio."
+      },
+      {
+        "id": "p4ef-b4-04",
+        "tema": "Primeros auxilios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué significan las siglas R.I.C.E.?",
+        "opciones": [
+          "Reposo, Hielo, Compresión, Elevación",
+          "Rápido, Intenso, Continuo, Exigente",
+          "Relajar, Impulsar, Correr, Estabilizar",
+          "No existen"
+        ],
+        "respuestaCorrecta": "Reposo, Hielo, Compresión, Elevación",
+        "explicacion": "RICE es el método básico para tratar lesiones leves como esguinces y golpes."
+      },
+      {
+        "id": "p4ef-b4-05",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo debemos usar casco?",
+        "opciones": [
+          "Al andar en bicicleta, patines o patineta",
+          "Solo en la escuela",
+          "Al caminar",
+          "Nunca"
+        ],
+        "respuestaCorrecta": "Al andar en bicicleta, patines o patineta",
+        "explicacion": "El casco protege la cabeza de golpes graves en actividades con velocidad."
+      },
+      {
+        "id": "p4ef-b4-06",
+        "tema": "Primeros auxilios",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Si alguien sangra por la nariz, debemos inclinar su cabeza hacia atrás",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Lo correcto es inclinar la cabeza ligeramente HACIA ADELANTE y presionar la nariz."
+      },
+      {
+        "id": "p4ef-b4-07",
+        "tema": "Primeros auxilios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacemos si alguien se desmaya?",
+        "opciones": [
+          "Recostarlo, elevar sus piernas y avisar a un adulto",
+          "Sacudirlo fuerte",
+          "Echarle agua en la cara",
+          "Dejarlo solo"
+        ],
+        "respuestaCorrecta": "Recostarlo, elevar sus piernas y avisar a un adulto",
+        "explicacion": "Elevar las piernas ayuda a que la sangre fluya al cerebro. Siempre avisar a un adulto."
+      },
+      {
+        "id": "p4ef-b4-08",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué NO debemos correr dentro del salón de clases?",
+        "opciones": [
+          "Porque podemos chocar con muebles y lastimarnos",
+          "Porque es divertido",
+          "Porque es obligatorio correr",
+          "Porque el maestro no nos ve"
+        ],
+        "respuestaCorrecta": "Porque podemos chocar con muebles y lastimarnos",
+        "explicacion": "Los espacios cerrados con muebles no son seguros para correr."
+      },
+      {
+        "id": "p4ef-b4-09",
+        "tema": "Primeros auxilios",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Es importante tener un botiquín de primeros auxilios en la escuela",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El botiquín contiene materiales básicos para atender heridas menores."
+      },
+      {
+        "id": "p4ef-b4-10",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Antes de nadar, ¿qué regla de seguridad es la más importante?",
+        "opciones": [
+          "Nunca nadar solo, siempre con supervisión de un adulto",
+          "Saltar de cabeza en aguas desconocidas",
+          "No calentarse antes",
+          "Nadar sin flotador en agua profunda"
+        ],
+        "respuestaCorrecta": "Nunca nadar solo, siempre con supervisión de un adulto",
+        "explicacion": "La supervisión adulta es la regla #1 de seguridad en el agua."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p4ef-b4-01",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la mejor forma de evitar accidentes deportivos?",
+        "opciones": [
+          "Calentar bien, usar equipo adecuado y seguir las reglas",
+          "Jugar sin reglas",
+          "No calentar nunca",
+          "Usar zapatos viejos"
+        ],
+        "respuestaCorrecta": "Calentar bien, usar equipo adecuado y seguir las reglas",
+        "explicacion": "La prevención es siempre mejor que el tratamiento."
+      },
+      {
+        "id": "p4ef-b4-02",
+        "tema": "Primeros auxilios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un compañero se tuerce el tobillo, ¿qué hacemos primero?",
+        "opciones": [
+          "Avisar al profesor y aplicar hielo si hay",
+          "Correr a casa",
+          "Mover el pie para todos lados",
+          "Ignorarlo"
+        ],
+        "respuestaCorrecta": "Avisar al profesor y aplicar hielo si hay",
+        "explicacion": "Lo primero es avisar a un adulto. El hielo reduce la hinchazón (método RICE)."
+      }
+    ]
+  }
+}

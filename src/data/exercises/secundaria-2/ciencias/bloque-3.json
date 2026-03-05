@@ -1,0 +1,385 @@
+{
+  "grado": "secundaria-2",
+  "materia": "ciencias",
+  "bloque": 3,
+  "nombre": "Biología: organismos",
+  "meses": "Octubre-Noviembre",
+  "temas": [
+    "Clasificación de seres vivos",
+    "Reinos naturales"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-2-ciencias-b3-001",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Clasificación de seres vivos\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Clasificación de seres vivos es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-002",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Clasificación de seres vivos es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-003",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En Clasificación de seres vivos, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-extra-007",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": [
+          "Venus",
+          "Mercurio",
+          "Marte",
+          "Tierra"
+        ],
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio es el planeta más cercano al Sol, a 57.9 millones de kilómetros."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-extra-009",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mamíferos son de sangre fría",
+        "respuestaCorrecta": "false",
+        "explicacion": "Los mamíferos somos de sangre caliente (homeotérmicos). Los reptiles sí son de sangre fría."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-extra-011",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis convierte luz solar en ___",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Las plantas usan la luz del sol, CO₂ y agua para fabricar glucosa (azúcar) que les da energía."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-extra-013",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Luna produce su propia luz",
+        "respuestaCorrecta": "false",
+        "explicacion": "La Luna refleja la luz del Sol. No tiene luz propia."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-014",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-015",
+        "tema": "Reinos naturales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-016",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-017",
+        "tema": "Reinos naturales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-018",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-019",
+        "tema": "Reinos naturales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-020",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-021",
+        "tema": "Reinos naturales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-2-ciencias-b3-004",
+        "tema": "Reinos naturales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Reinos naturales\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Reinos naturales es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-005",
+        "tema": "Reinos naturales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Reinos naturales es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-006",
+        "tema": "Reinos naturales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En Reinos naturales, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-extra-008",
+        "tema": "Reinos naturales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El oxígeno tiene símbolo químico ___",
+        "respuestaCorrecta": "O",
+        "explicacion": "O es el símbolo del oxígeno en la tabla periódica. Con este respiramos."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-extra-010",
+        "tema": "Reinos naturales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué orgánulo produce energía en la célula?",
+        "opciones": [
+          "Núcleo",
+          "Ribosoma",
+          "Mitocondria",
+          "Vacuola"
+        ],
+        "respuestaCorrecta": "Mitocondria",
+        "explicacion": "Las mitocondrias son \"las plantas de energía\" de la célula. Producen ATP."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-extra-012",
+        "tema": "Reinos naturales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El agua hierve a...",
+        "opciones": [
+          "0°C",
+          "50°C",
+          "100°C",
+          "150°C"
+        ],
+        "respuestaCorrecta": "100°C",
+        "explicacion": "A 100°C (a nivel del mar) el agua pasa de líquido a gas (vapor)."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-014",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-015",
+        "tema": "Reinos naturales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-016",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-017",
+        "tema": "Reinos naturales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-018",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-019",
+        "tema": "Reinos naturales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-x-020",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-2-ciencias-b3-001",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Clasificación de seres vivos\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Clasificación de seres vivos es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-002",
+        "tema": "Clasificación de seres vivos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Clasificación de seres vivos es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-2-ciencias-b3-004",
+        "tema": "Reinos naturales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Reinos naturales\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Reinos naturales es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:11:24.063Z",
+  "version": "2.0"
+}

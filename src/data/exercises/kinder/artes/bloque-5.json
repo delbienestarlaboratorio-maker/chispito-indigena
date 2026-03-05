@@ -1,0 +1,389 @@
+{
+  "grado": "kinder",
+  "materia": "artes",
+  "bloque": 5,
+  "nombre": "Manualidades",
+  "meses": "Enero-Junio",
+  "temas": [
+    "Papel y tijeras",
+    "Figuras con plastilina"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "kinder-artes-b5-001",
+        "tema": "Papel y tijeras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Papel y tijeras\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Papel y tijeras es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "kinder-artes-b5-002",
+        "tema": "Papel y tijeras",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Papel y tijeras es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "kinder-artes-b5-003",
+        "tema": "Papel y tijeras",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En Papel y tijeras, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "kinder-artes-b5-extra-007",
+        "tema": "Papel y tijeras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los colores secundarios?",
+        "opciones": [
+          "Rojo, azul, amarillo",
+          "Verde, naranja y morado",
+          "Negro, blanco, gris",
+          "Rosa, café, beige"
+        ],
+        "respuestaCorrecta": "Verde, naranja y morado",
+        "explicacion": "Los colores secundarios se forman mezclando primarios: azul+amarillo=verde, etc."
+      },
+      {
+        "id": "kinder-artes-b5-extra-009",
+        "tema": "Papel y tijeras",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El Piano es un instrumento de viento",
+        "respuestaCorrecta": "false",
+        "explicacion": "El piano es de percusión (y cuerdas). Instrumentos de viento: flauta, trompeta, clarinete."
+      },
+      {
+        "id": "kinder-artes-b5-extra-011",
+        "tema": "Papel y tijeras",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La danza tradicional más famosa de México es el ___",
+        "respuestaCorrecta": "jarabe tapatío",
+        "explicacion": "El Jarabe Tapatío es el baile nacional de México, originario de Jalisco.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-artes-b5-x-012",
+        "tema": "Papel y tijeras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": [
+          "Picasso",
+          "Leonardo da Vinci",
+          "Miguel Ángel",
+          "Rafael"
+        ],
+        "respuestaCorrecta": "Leonardo da Vinci",
+        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+      },
+      {
+        "id": "kinder-artes-b5-x-013",
+        "tema": "Figuras con plastilina",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La flauta es un instrumento de viento",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+      },
+      {
+        "id": "kinder-artes-b5-x-014",
+        "tema": "Papel y tijeras",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Una obra de teatro se llama también ___",
+        "respuestaCorrecta": "drama",
+        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+      },
+      {
+        "id": "kinder-artes-b5-x-015",
+        "tema": "Figuras con plastilina",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
+        "respuestaCorrecta": "charro",
+        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+      },
+      {
+        "id": "kinder-artes-b5-x-016",
+        "tema": "Papel y tijeras",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El color verde se obtiene mezclando azul y ___",
+        "respuestaCorrecta": "amarillo",
+        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
+        "visual": "🔵",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-artes-b5-x-017",
+        "tema": "Figuras con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "opciones": [
+          "Frida Kahlo",
+          "Diego Rivera",
+          "Rufino Tamayo",
+          "David Siqueiros"
+        ],
+        "respuestaCorrecta": "Diego Rivera",
+        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+      },
+      {
+        "id": "kinder-artes-b5-x-018",
+        "tema": "Papel y tijeras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas notas tiene la escala musical?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+      },
+      {
+        "id": "kinder-artes-b5-x-019",
+        "tema": "Figuras con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": [
+          "Picasso",
+          "Leonardo da Vinci",
+          "Miguel Ángel",
+          "Rafael"
+        ],
+        "respuestaCorrecta": "Leonardo da Vinci",
+        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+      },
+      {
+        "id": "kinder-artes-b5-x-020",
+        "tema": "Papel y tijeras",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La flauta es un instrumento de viento",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+      }
+    ],
+    "v2": [
+      {
+        "id": "kinder-artes-b5-004",
+        "tema": "Figuras con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Figuras con plastilina\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Figuras con plastilina es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "kinder-artes-b5-005",
+        "tema": "Figuras con plastilina",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Figuras con plastilina es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "kinder-artes-b5-006",
+        "tema": "Figuras con plastilina",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En Figuras con plastilina, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "kinder-artes-b5-extra-008",
+        "tema": "Figuras con plastilina",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El instrumento de cuerdas más conocido es la ___",
+        "respuestaCorrecta": "guitarra",
+        "explicacion": "La guitarra es el instrumento de cuerdas más popular del mundo, especialmente en México.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-artes-b5-extra-010",
+        "tema": "Figuras con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué artista mexicano es famoso por sus murales?",
+        "opciones": [
+          "Picasso",
+          "Van Gogh",
+          "Diego Rivera",
+          "Leonardo da Vinci"
+        ],
+        "respuestaCorrecta": "Diego Rivera",
+        "explicacion": "Diego Rivera es el muralista mexicano más famoso, esposo de Frida Kahlo."
+      },
+      {
+        "id": "kinder-artes-b5-x-012",
+        "tema": "Papel y tijeras",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El color verde se obtiene mezclando azul y ___",
+        "respuestaCorrecta": "amarillo",
+        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
+        "visual": "🔵",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-artes-b5-x-013",
+        "tema": "Figuras con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "opciones": [
+          "Frida Kahlo",
+          "Diego Rivera",
+          "Rufino Tamayo",
+          "David Siqueiros"
+        ],
+        "respuestaCorrecta": "Diego Rivera",
+        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+      },
+      {
+        "id": "kinder-artes-b5-x-014",
+        "tema": "Papel y tijeras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas notas tiene la escala musical?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+      },
+      {
+        "id": "kinder-artes-b5-x-015",
+        "tema": "Figuras con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": [
+          "Picasso",
+          "Leonardo da Vinci",
+          "Miguel Ángel",
+          "Rafael"
+        ],
+        "respuestaCorrecta": "Leonardo da Vinci",
+        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+      },
+      {
+        "id": "kinder-artes-b5-x-016",
+        "tema": "Papel y tijeras",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La flauta es un instrumento de viento",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+      },
+      {
+        "id": "kinder-artes-b5-x-017",
+        "tema": "Figuras con plastilina",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Una obra de teatro se llama también ___",
+        "respuestaCorrecta": "drama",
+        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+      },
+      {
+        "id": "kinder-artes-b5-x-018",
+        "tema": "Papel y tijeras",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
+        "respuestaCorrecta": "charro",
+        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+      },
+      {
+        "id": "kinder-artes-b5-x-019",
+        "tema": "Figuras con plastilina",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El color verde se obtiene mezclando azul y ___",
+        "respuestaCorrecta": "amarillo",
+        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
+        "visual": "🔵",
+        "visualAnimado": true
+      }
+    ],
+    "preview": [
+      {
+        "id": "kinder-artes-b5-001",
+        "tema": "Papel y tijeras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Papel y tijeras\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Papel y tijeras es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "kinder-artes-b5-002",
+        "tema": "Papel y tijeras",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Papel y tijeras es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "kinder-artes-b5-004",
+        "tema": "Figuras con plastilina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Figuras con plastilina\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Figuras con plastilina es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:11:24.011Z",
+  "version": "2.0"
+}

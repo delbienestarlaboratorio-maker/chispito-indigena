@@ -1,0 +1,387 @@
+{
+  "grado": "bachillerato-3",
+  "materia": "ingles",
+  "bloque": 5,
+  "nombre": "Exam Preparation",
+  "meses": "Dic-Ene",
+  "temas": [
+    "TOEFL/IELTS structure",
+    "Reading comprehension test",
+    "Writing essays exam-style",
+    "Vocabulary for exams"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "bachillerato-3-ingles-b5-001",
+        "tema": "Writing essays exam-style",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"She ___ to school every day.\" (Present simple)",
+        "opciones": [
+          "go",
+          "goes",
+          "going",
+          "gone"
+        ],
+        "respuestaCorrecta": "goes",
+        "explicacion": "Third person singular (she/he/it) adds -s or -es. \"She goes\" ✓."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-002",
+        "tema": "Vocabulary for exams",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "\"I _____ (live) here for 5 years.\" (Present Perfect)",
+        "respuestaCorrecta": "have lived",
+        "explicacion": "\"I have lived here for 5 years\" uses Present Perfect for actions that started in the past and continue to present."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-003",
+        "tema": "TOEFL/IELTS structure",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Despite\" is a conjunction that means \"aunque\" in Spanish",
+        "respuestaCorrecta": "true",
+        "explicacion": "\"Despite\" = \"a pesar de\" (preposition) / \"although/even though\" are conjunctions. Both express contrast."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-006",
+        "tema": "TOEFL/IELTS structure",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-007",
+        "tema": "Reading comprehension test",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-008",
+        "tema": "Writing essays exam-style",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-009",
+        "tema": "Vocabulary for exams",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-010",
+        "tema": "TOEFL/IELTS structure",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-011",
+        "tema": "Reading comprehension test",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-012",
+        "tema": "Writing essays exam-style",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-013",
+        "tema": "Vocabulary for exams",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-014",
+        "tema": "TOEFL/IELTS structure",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-015",
+        "tema": "Reading comprehension test",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-016",
+        "tema": "Writing essays exam-style",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-017",
+        "tema": "Vocabulary for exams",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      }
+    ],
+    "v2": [
+      {
+        "id": "bachillerato-3-ingles-b5-004",
+        "tema": "Reading comprehension test",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de oración es: \"If I had studied, I would have passed\"?",
+        "opciones": [
+          "Type 0",
+          "Type 1",
+          "Type 2",
+          "Type 3"
+        ],
+        "respuestaCorrecta": "Type 3",
+        "explicacion": "Type 3 conditional uses \"If + past perfect, would have + past participle\". Hypothetical past."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-005",
+        "tema": "Writing essays exam-style",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "\"The book ___ written by Gabriel García Márquez.\" (Passive)",
+        "respuestaCorrecta": "was",
+        "explicacion": "\"Was written\" is past passive voice. Subject + was/were + past participle."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-006",
+        "tema": "TOEFL/IELTS structure",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-007",
+        "tema": "Reading comprehension test",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-008",
+        "tema": "Writing essays exam-style",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-009",
+        "tema": "Vocabulary for exams",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-010",
+        "tema": "TOEFL/IELTS structure",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-011",
+        "tema": "Reading comprehension test",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-012",
+        "tema": "Writing essays exam-style",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-013",
+        "tema": "Vocabulary for exams",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-014",
+        "tema": "TOEFL/IELTS structure",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-015",
+        "tema": "Reading comprehension test",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-x-016",
+        "tema": "Writing essays exam-style",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "bachillerato-3-ingles-b5-001",
+        "tema": "Writing essays exam-style",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"She ___ to school every day.\" (Present simple)",
+        "opciones": [
+          "go",
+          "goes",
+          "going",
+          "gone"
+        ],
+        "respuestaCorrecta": "goes",
+        "explicacion": "Third person singular (she/he/it) adds -s or -es. \"She goes\" ✓."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-002",
+        "tema": "Vocabulary for exams",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "\"I _____ (live) here for 5 years.\" (Present Perfect)",
+        "respuestaCorrecta": "have lived",
+        "explicacion": "\"I have lived here for 5 years\" uses Present Perfect for actions that started in the past and continue to present."
+      },
+      {
+        "id": "bachillerato-3-ingles-b5-004",
+        "tema": "Reading comprehension test",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de oración es: \"If I had studied, I would have passed\"?",
+        "opciones": [
+          "Type 0",
+          "Type 1",
+          "Type 2",
+          "Type 3"
+        ],
+        "respuestaCorrecta": "Type 3",
+        "explicacion": "Type 3 conditional uses \"If + past perfect, would have + past participle\". Hypothetical past."
+      }
+    ]
+  },
+  "generado": "2026-02-27T17:22:03.214Z",
+  "version": "3.0"
+}

@@ -1,0 +1,393 @@
+{
+  "grado": "bachillerato-4",
+  "materia": "historia",
+  "bloque": 1,
+  "nombre": "Economía política",
+  "meses": "Ene",
+  "temas": [
+    "Capitalismo y socialismo",
+    "Supply and demand",
+    "Inflación y desempleo",
+    "Banco de México"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "bachillerato-4-historia-b1-001",
+        "tema": "Inflación y desempleo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué año comenzó la Revolución Mexicana?",
+        "opciones": [
+          "1900",
+          "1905",
+          "1910",
+          "1921"
+        ],
+        "respuestaCorrecta": "1910",
+        "explicacion": "La Revolución Mexicana inició el 20 de noviembre de 1910 con el Plan de San Luis."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-002",
+        "tema": "Banco de México",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Constitución Mexicana vigente data de ___",
+        "respuestaCorrecta": "1917",
+        "explicacion": "La Constitución de 1917 fue promulgada en Querétaro el 5 de febrero de 1917."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-003",
+        "tema": "Capitalismo y socialismo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada después de la Segunda Guerra Mundial",
+        "respuestaCorrecta": "true",
+        "explicacion": "La ONU se fundó el 24 de octubre de 1945 para mantener la paz internacional tras la WWII."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-006",
+        "tema": "Capitalismo y socialismo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-007",
+        "tema": "Supply and demand",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-008",
+        "tema": "Inflación y desempleo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-009",
+        "tema": "Banco de México",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-010",
+        "tema": "Capitalismo y socialismo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-011",
+        "tema": "Supply and demand",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-012",
+        "tema": "Inflación y desempleo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-013",
+        "tema": "Banco de México",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-014",
+        "tema": "Capitalismo y socialismo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-015",
+        "tema": "Supply and demand",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-016",
+        "tema": "Inflación y desempleo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-017",
+        "tema": "Banco de México",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      }
+    ],
+    "v2": [
+      {
+        "id": "bachillerato-4-historia-b1-004",
+        "tema": "Supply and demand",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria (1824-1829) fue el primer presidente de los Estados Unidos Mexicanos."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-005",
+        "tema": "Inflación y desempleo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué evento detonó la Primera Guerra Mundial?",
+        "opciones": [
+          "Caída del Muro de Berlín",
+          "Asesinato del Archiduque Francisco Fernando",
+          "Revolución Rusa",
+          "Tratado de Versalles"
+        ],
+        "respuestaCorrecta": "Asesinato del Archiduque Francisco Fernando",
+        "explicacion": "El asesinato en Sarajevo (28 junio 1914) detonó la Primera Guerra Mundial."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-006",
+        "tema": "Capitalismo y socialismo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-007",
+        "tema": "Supply and demand",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-008",
+        "tema": "Inflación y desempleo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-009",
+        "tema": "Banco de México",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-010",
+        "tema": "Capitalismo y socialismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-011",
+        "tema": "Supply and demand",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-012",
+        "tema": "Inflación y desempleo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-013",
+        "tema": "Banco de México",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-014",
+        "tema": "Capitalismo y socialismo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-015",
+        "tema": "Supply and demand",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-x-016",
+        "tema": "Inflación y desempleo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "bachillerato-4-historia-b1-001",
+        "tema": "Inflación y desempleo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué año comenzó la Revolución Mexicana?",
+        "opciones": [
+          "1900",
+          "1905",
+          "1910",
+          "1921"
+        ],
+        "respuestaCorrecta": "1910",
+        "explicacion": "La Revolución Mexicana inició el 20 de noviembre de 1910 con el Plan de San Luis."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-002",
+        "tema": "Banco de México",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Constitución Mexicana vigente data de ___",
+        "respuestaCorrecta": "1917",
+        "explicacion": "La Constitución de 1917 fue promulgada en Querétaro el 5 de febrero de 1917."
+      },
+      {
+        "id": "bachillerato-4-historia-b1-004",
+        "tema": "Supply and demand",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria (1824-1829) fue el primer presidente de los Estados Unidos Mexicanos."
+      }
+    ]
+  },
+  "generado": "2026-02-27T17:22:03.242Z",
+  "version": "3.0"
+}

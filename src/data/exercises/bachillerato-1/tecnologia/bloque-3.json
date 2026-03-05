@@ -1,0 +1,393 @@
+{
+  "grado": "bachillerato-1",
+  "materia": "tecnologia",
+  "bloque": 3,
+  "nombre": "Diseño web básico",
+  "meses": "Octubre",
+  "temas": [
+    "HTML básico",
+    "CSS básico",
+    "Estructura de página web",
+    "Publicar en internet"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "bachillerato-1-tecnologia-b3-001",
+        "tema": "Estructura de página web",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué lenguaje de programación es más usado en ciencia de datos?",
+        "opciones": [
+          "Java",
+          "C++",
+          "Python",
+          "COBOL"
+        ],
+        "respuestaCorrecta": "Python",
+        "explicacion": "Python es el lenguaje dominante en ciencia de datos, machine learning e inteligencia artificial."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-002",
+        "tema": "Publicar en internet",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "HTML significa HyperText Markup ___",
+        "respuestaCorrecta": "Language",
+        "explicacion": "HTML = HyperText Markup Language. Es el lenguaje base de todas las páginas web."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-003",
+        "tema": "HTML básico",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "SQL se usa para consultar bases de datos",
+        "respuestaCorrecta": "true",
+        "explicacion": "SQL (Structured Query Language) permite crear, consultar y modificar bases de datos relacionales."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-006",
+        "tema": "HTML básico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-007",
+        "tema": "CSS básico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-008",
+        "tema": "Estructura de página web",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-009",
+        "tema": "Publicar en internet",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-010",
+        "tema": "HTML básico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-011",
+        "tema": "CSS básico",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-012",
+        "tema": "Estructura de página web",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-013",
+        "tema": "Publicar en internet",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-014",
+        "tema": "HTML básico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-015",
+        "tema": "CSS básico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-016",
+        "tema": "Estructura de página web",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-017",
+        "tema": "Publicar en internet",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      }
+    ],
+    "v2": [
+      {
+        "id": "bachillerato-1-tecnologia-b3-004",
+        "tema": "CSS básico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa CPU?",
+        "opciones": [
+          "Central Processing Unit",
+          "Computer Power Usage",
+          "Core Processing Utility",
+          "Central Power Unit"
+        ],
+        "respuestaCorrecta": "Central Processing Unit",
+        "explicacion": "CPU = Central Processing Unit. Es el \"cerebro\" del computador que ejecuta instrucciones."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-005",
+        "tema": "Estructura de página web",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el protocolo seguro de navegación web?",
+        "opciones": [
+          "HTTP",
+          "FTP",
+          "HTTPS",
+          "SMTP"
+        ],
+        "respuestaCorrecta": "HTTPS",
+        "explicacion": "HTTPS (HTTP Secure) cifra la comunicación entre el navegador y el servidor usando SSL/TLS."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-006",
+        "tema": "HTML básico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-007",
+        "tema": "CSS básico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-008",
+        "tema": "Estructura de página web",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-009",
+        "tema": "Publicar en internet",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-010",
+        "tema": "HTML básico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-011",
+        "tema": "CSS básico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-012",
+        "tema": "Estructura de página web",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-013",
+        "tema": "Publicar en internet",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-014",
+        "tema": "HTML básico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-015",
+        "tema": "CSS básico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-x-016",
+        "tema": "Estructura de página web",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "bachillerato-1-tecnologia-b3-001",
+        "tema": "Estructura de página web",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué lenguaje de programación es más usado en ciencia de datos?",
+        "opciones": [
+          "Java",
+          "C++",
+          "Python",
+          "COBOL"
+        ],
+        "respuestaCorrecta": "Python",
+        "explicacion": "Python es el lenguaje dominante en ciencia de datos, machine learning e inteligencia artificial."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-002",
+        "tema": "Publicar en internet",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "HTML significa HyperText Markup ___",
+        "respuestaCorrecta": "Language",
+        "explicacion": "HTML = HyperText Markup Language. Es el lenguaje base de todas las páginas web."
+      },
+      {
+        "id": "bachillerato-1-tecnologia-b3-004",
+        "tema": "CSS básico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa CPU?",
+        "opciones": [
+          "Central Processing Unit",
+          "Computer Power Usage",
+          "Core Processing Utility",
+          "Central Power Unit"
+        ],
+        "respuestaCorrecta": "Central Processing Unit",
+        "explicacion": "CPU = Central Processing Unit. Es el \"cerebro\" del computador que ejecuta instrucciones."
+      }
+    ]
+  },
+  "generado": "2026-02-27T17:22:03.156Z",
+  "version": "3.0"
+}

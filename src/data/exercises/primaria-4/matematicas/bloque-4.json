@@ -1,0 +1,428 @@
+{
+  "grado": "primaria-4",
+  "materia": "matematicas",
+  "bloque": 4,
+  "nombre": "Geometría plana",
+  "meses": "Noviembre-Diciembre",
+  "temas": [
+    "Ángulos",
+    "Perímetro y área"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-4-matematicas-b4-001",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuántos grados tiene un ángulo recto?",
+        "opciones": [
+          "45°",
+          "90°",
+          "120°",
+          "180°"
+        ],
+        "explicacion": "Un ángulo recto mide exactamente 90° — como la esquina de un cuaderno.",
+        "nivel": "v1",
+        "respuestaCorrecta": "90°",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-002",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "pregunta": "Un ángulo de 150° es...",
+        "opciones": [
+          "Agudo",
+          "Recto",
+          "Obtuso",
+          "Llano"
+        ],
+        "explicacion": "Los ángulos obtusos miden más de 90° pero menos de 180°.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Obtuso",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-003",
+        "tema": "Ángulos",
+        "tipo": "fill_blank",
+        "pregunta": "Un ángulo llano mide ___ grados",
+        "explicacion": "Un ángulo llano forma una línea recta y mide 180°.",
+        "nivel": "v1",
+        "respuestaCorrecta": "180",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-extra-007",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el resultado de 234 × 3?",
+        "opciones": [
+          "602",
+          "702",
+          "712",
+          "642"
+        ],
+        "respuestaCorrecta": "702",
+        "explicacion": "234×3: 4×3=12(llevo 1), 3×3+1=10(llevo 1), 2×3+1=7. Resultado: 702.",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-extra-009",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El perímetro de un cuadrado de lado 6cm es:",
+        "opciones": [
+          "12 cm",
+          "18 cm",
+          "24 cm",
+          "36 cm"
+        ],
+        "respuestaCorrecta": "24 cm",
+        "explicacion": "Perímetro = 4 × lado = 4 × 6 = 24 cm.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-extra-011",
+        "tema": "Ángulos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "25% de 200 = ___",
+        "respuestaCorrecta": "50",
+        "explicacion": "25% = 1/4. Un cuarto de 200 = 200÷4 = 50.",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-extra-013",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un rectángulo mide 8 de base y 5 de altura, su área es:",
+        "opciones": [
+          "26 cm²",
+          "40 cm²",
+          "13 cm²",
+          "52 cm²"
+        ],
+        "respuestaCorrecta": "40 cm²",
+        "explicacion": "Área = base × altura = 8 × 5 = 40 cm².",
+        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-014",
+        "tema": "Ángulos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-015",
+        "tema": "Perímetro y área",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El área de un triángulo es base×altura÷2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. A = (b × h) / 2.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-016",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "123² es aproximadamente...",
+        "opciones": [
+          "1000",
+          "5000",
+          "12000",
+          "15000"
+        ],
+        "respuestaCorrecta": "15000",
+        "explicacion": "123² = 15,129. ~15,000.",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-017",
+        "tema": "Perímetro y área",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el 50% de 80?",
+        "opciones": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "respuestaCorrecta": "40",
+        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-018",
+        "tema": "Ángulos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "√36 = ___",
+        "respuestaCorrecta": "6",
+        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-019",
+        "tema": "Perímetro y área",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-020",
+        "tema": "Ángulos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El área de un triángulo es base×altura÷2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. A = (b × h) / 2.",
+        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-021",
+        "tema": "Perímetro y área",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "123² es aproximadamente...",
+        "opciones": [
+          "1000",
+          "5000",
+          "12000",
+          "15000"
+        ],
+        "respuestaCorrecta": "15000",
+        "explicacion": "123² = 15,129. ~15,000.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-4-matematicas-b4-004",
+        "tema": "Perímetro y área",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es el área de un cuadrado de 5cm de lado?",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ],
+        "explicacion": "Área = lado × lado = 5 × 5 = 25 cm².",
+        "nivel": "v2",
+        "respuestaCorrecta": "25 cm²",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-005",
+        "tema": "Perímetro y área",
+        "tipo": "fill_blank",
+        "pregunta": "El perímetro de un triángulo con lados 3, 4 y 5 es ___ cm",
+        "explicacion": "Perímetro = suma de todos los lados = 3+4+5 = 12 cm.",
+        "nivel": "v2",
+        "respuestaCorrecta": "12",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-006",
+        "tema": "Perímetro y área",
+        "tipo": "true_false",
+        "pregunta": "El área de un rectángulo es base × altura",
+        "explicacion": "Correcto. Para un rectángulo de 6×4: área = 6×4 = 24 cm².",
+        "nivel": "v2",
+        "respuestaCorrecta": "true",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-extra-008",
+        "tema": "Perímetro y área",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3/4 + 1/4 = ___",
+        "respuestaCorrecta": "1",
+        "explicacion": "3/4 + 1/4 = 4/4 = 1 entero.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-extra-010",
+        "tema": "Perímetro y área",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "0.7 > 0.5",
+        "respuestaCorrecta": "true",
+        "explicacion": "0.7 tiene 7 décimas y 0.5 tiene 5. 7 > 5, entonces 0.7 > 0.5.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-extra-012",
+        "tema": "Perímetro y área",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuánto es 12² (doce al cuadrado)?",
+        "opciones": [
+          "24",
+          "144",
+          "121",
+          "169"
+        ],
+        "respuestaCorrecta": "144",
+        "explicacion": "12² = 12 × 12 = 144.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-014",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el 50% de 80?",
+        "opciones": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "respuestaCorrecta": "40",
+        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-015",
+        "tema": "Perímetro y área",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "√36 = ___",
+        "respuestaCorrecta": "6",
+        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-016",
+        "tema": "Ángulos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-017",
+        "tema": "Perímetro y área",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El área de un triángulo es base×altura÷2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. A = (b × h) / 2.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-018",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "123² es aproximadamente...",
+        "opciones": [
+          "1000",
+          "5000",
+          "12000",
+          "15000"
+        ],
+        "respuestaCorrecta": "15000",
+        "explicacion": "123² = 15,129. ~15,000.",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-019",
+        "tema": "Perímetro y área",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el 50% de 80?",
+        "opciones": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "respuestaCorrecta": "40",
+        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-x-020",
+        "tema": "Ángulos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "√36 = ___",
+        "respuestaCorrecta": "6",
+        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-4-matematicas-b4-001",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuántos grados tiene un ángulo recto?",
+        "opciones": [
+          "45°",
+          "90°",
+          "120°",
+          "180°"
+        ],
+        "explicacion": "Un ángulo recto mide exactamente 90° — como la esquina de un cuaderno.",
+        "nivel": "v1",
+        "respuestaCorrecta": "90°",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-002",
+        "tema": "Ángulos",
+        "tipo": "multiple_choice",
+        "pregunta": "Un ángulo de 150° es...",
+        "opciones": [
+          "Agudo",
+          "Recto",
+          "Obtuso",
+          "Llano"
+        ],
+        "explicacion": "Los ángulos obtusos miden más de 90° pero menos de 180°.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Obtuso",
+        "ejemplo": "Tipos de ángulo:\n- Agudo: menos de 90° (esquina de papel doblado)\n- Recto: exactamente 90° (esquina de libro)\n- Obtuso: más de 90° (reloj marcando las 2)"
+      },
+      {
+        "id": "primaria-4-matematicas-b4-004",
+        "tema": "Perímetro y área",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál es el área de un cuadrado de 5cm de lado?",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ],
+        "explicacion": "Área = lado × lado = 5 × 5 = 25 cm².",
+        "nivel": "v2",
+        "respuestaCorrecta": "25 cm²",
+        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:06:30.390Z",
+  "version": "2.0"
+}

@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-3",
+  "materia": "orientacion",
+  "bloque": 3,
+  "nombre": "Campos profesionales",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Áreas del conocimiento",
+    "Carreras emergentes"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3ov-b3-01",
+        "tema": "Áreas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son las grandes áreas del conocimiento profesional?",
+        "opciones": [
+          "Ciencias exactas, sociales, humanidades, biológicas, ingenierías y artes",
+          "Solo medicina",
+          "Solo derecho",
+          "Solo ingeniería"
+        ],
+        "respuestaCorrecta": "Ciencias exactas, sociales, humanidades, biológicas, ingenierías y artes",
+        "explicacion": "Existe una enorme variedad de áreas profesionales para todos los perfiles."
+      },
+      {
+        "id": "s3ov-b3-02",
+        "tema": "Emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué carreras serán más demandadas en el futuro?",
+        "opciones": [
+          "Tecnología, IA, energías renovables, biotecnología y ciberseguridad",
+          "Solo abogado",
+          "Solo médico",
+          "Solo contador"
+        ],
+        "respuestaCorrecta": "Tecnología, IA, energías renovables, biotecnología y ciberseguridad",
+        "explicacion": "Las carreras del futuro están vinculadas a la transformación digital y sostenibilidad."
+      },
+      {
+        "id": "s3ov-b3-03",
+        "tema": "Campos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las carreras técnicas pueden ser tan bien remuneradas como las universitarias",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Técnicos especializados en áreas de alta demanda tienen excelentes oportunidades laborales."
+      },
+      {
+        "id": "s3ov-b3-04",
+        "tema": "Profesiones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué profesional diseña edificios y espacios habitables?",
+        "opciones": [
+          "Arquitecto",
+          "Médico",
+          "Abogado",
+          "Contador"
+        ],
+        "respuestaCorrecta": "Arquitecto",
+        "explicacion": "Los arquitectos combinan arte, ciencia y tecnología para diseñar espacios funcionales."
+      },
+      {
+        "id": "s3ov-b3-05",
+        "tema": "Emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la inteligencia artificial como campo profesional?",
+        "opciones": [
+          "Desarrollo de sistemas que aprenden y toman decisiones como humanos",
+          "Solo robots",
+          "Ciencia ficción",
+          "No existe como carrera"
+        ],
+        "respuestaCorrecta": "Desarrollo de sistemas que aprenden y toman decisiones como humanos",
+        "explicacion": "La IA es una de las áreas con mayor crecimiento y demanda laboral en el mundo."
+      },
+      {
+        "id": "s3ov-b3-06",
+        "tema": "Campos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El emprendimiento es una opción válida además de trabajar para una empresa",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Crear tu propio negocio es una forma de aplicar tus habilidades y generar empleo."
+      },
+      {
+        "id": "s3ov-b3-07",
+        "tema": "Profesiones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué campo trabaja un psicólogo?",
+        "opciones": [
+          "Salud mental, educación, organizaciones y desarrollo humano",
+          "Solo hospitales",
+          "Solo en el deporte",
+          "Solo con niños"
+        ],
+        "respuestaCorrecta": "Salud mental, educación, organizaciones y desarrollo humano",
+        "explicacion": "La psicología tiene múltiples campos de aplicación profesional."
+      },
+      {
+        "id": "s3ov-b3-08",
+        "tema": "Emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la economía naranja?",
+        "opciones": [
+          "Industrias creativas y culturales que generan valor económico",
+          "Un tipo de fruta",
+          "Una empresa",
+          "No existe"
+        ],
+        "respuestaCorrecta": "Industrias creativas y culturales que generan valor económico",
+        "explicacion": "Diseño, cine, videojuegos, moda y gastronomía son parte de la economía creativa."
+      },
+      {
+        "id": "s3ov-b3-09",
+        "tema": "Campos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "México tiene universidades públicas gratuitas de alta calidad como la UNAM y el IPN",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La UNAM, IPN, UAM y universidades estatales ofrecen educación gratuita de calidad."
+      },
+      {
+        "id": "s3ov-b3-10",
+        "tema": "Profesiones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué habilidades son transversales a TODAS las profesiones?",
+        "opciones": [
+          "Comunicación, pensamiento crítico, trabajo en equipo y adaptabilidad",
+          "Solo memorizar",
+          "Solo calcular",
+          "Solo escribir"
+        ],
+        "respuestaCorrecta": "Comunicación, pensamiento crítico, trabajo en equipo y adaptabilidad",
+        "explicacion": "Estas habilidades del siglo XXI son valoradas en cualquier campo profesional."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s3ov-b3-01",
+        "tema": "Áreas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son las grandes áreas del conocimiento profesional?",
+        "opciones": [
+          "Ciencias exactas, sociales, humanidades, biológicas, ingenierías y artes",
+          "Solo medicina",
+          "Solo derecho",
+          "Solo ingeniería"
+        ],
+        "respuestaCorrecta": "Ciencias exactas, sociales, humanidades, biológicas, ingenierías y artes",
+        "explicacion": "Existe una enorme variedad de áreas profesionales para todos los perfiles."
+      },
+      {
+        "id": "s3ov-b3-02",
+        "tema": "Emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué carreras serán más demandadas en el futuro?",
+        "opciones": [
+          "Tecnología, IA, energías renovables, biotecnología y ciberseguridad",
+          "Solo abogado",
+          "Solo médico",
+          "Solo contador"
+        ],
+        "respuestaCorrecta": "Tecnología, IA, energías renovables, biotecnología y ciberseguridad",
+        "explicacion": "Las carreras del futuro están vinculadas a la transformación digital y sostenibilidad."
+      }
+    ]
+  }
+}

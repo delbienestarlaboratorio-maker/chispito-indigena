@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-2",
+  "materia": "artes",
+  "bloque": 2,
+  "nombre": "Arte y cultura en México",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Patrimonio cultural",
+    "Arte popular mexicano"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2art-b2-01",
+        "tema": "Patrimonio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el patrimonio cultural?",
+        "opciones": [
+          "Bienes materiales e inmateriales heredados que definen una cultura",
+          "Solo monumentos",
+          "Solo dinero",
+          "Solo libros"
+        ],
+        "respuestaCorrecta": "Bienes materiales e inmateriales heredados que definen una cultura",
+        "explicacion": "Incluye arquitectura, tradiciones, lenguas, danzas, gastronomía y más."
+      },
+      {
+        "id": "s2art-b2-02",
+        "tema": "Popular",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Los alebrijes son figuras artesanales de:",
+        "opciones": [
+          "Oaxaca y Ciudad de México",
+          "Japón",
+          "Francia",
+          "Egipto"
+        ],
+        "respuestaCorrecta": "Oaxaca y Ciudad de México",
+        "explicacion": "Los alebrijes son criaturas fantásticas talladas o de cartonería, coloridas y detalladas."
+      },
+      {
+        "id": "s2art-b2-03",
+        "tema": "Patrimonio",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El Día de Muertos es patrimonio inmaterial de la humanidad por la UNESCO",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "En 2003, la UNESCO reconoció esta tradición mexicana como patrimonio cultural inmaterial."
+      },
+      {
+        "id": "s2art-b2-04",
+        "tema": "Popular",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el papel picado?",
+        "opciones": [
+          "Artesanía de papel recortado con diseños decorativos",
+          "Un tipo de comida",
+          "Un deporte",
+          "Una canción"
+        ],
+        "respuestaCorrecta": "Artesanía de papel recortado con diseños decorativos",
+        "explicacion": "El papel picado decora fiestas y altares de Día de Muertos con figuras caladas en papel."
+      },
+      {
+        "id": "s2art-b2-05",
+        "tema": "Patrimonio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el museo de arte más importante de México?",
+        "opciones": [
+          "El Museo Nacional de Arte (MUNAL) y Bellas Artes",
+          "No hay museos",
+          "Solo museos privados",
+          "Solo museos en Europa"
+        ],
+        "respuestaCorrecta": "El Museo Nacional de Arte (MUNAL) y Bellas Artes",
+        "explicacion": "El Palacio de Bellas Artes alberga murales de Rivera, Siqueiros, Tamayo y Orozco."
+      },
+      {
+        "id": "s2art-b2-06",
+        "tema": "Popular",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La cerámica de Talavera de Puebla es reconocida mundialmente",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La Talavera poblana tiene denominación de origen y es patrimonio cultural de México."
+      },
+      {
+        "id": "s2art-b2-07",
+        "tema": "Cultura",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué arte indígena mexicano usa hilos de colores sobre cera?",
+        "opciones": [
+          "El arte huichol (wixárika)",
+          "La pintura al óleo",
+          "La acuarela",
+          "El grabado"
+        ],
+        "respuestaCorrecta": "El arte huichol (wixárika)",
+        "explicacion": "Los wixáritari crean obras con chaquira y estambre sobre cera de Campeche."
+      },
+      {
+        "id": "s2art-b2-08",
+        "tema": "Patrimonio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué zona arqueológica mexicana es una de las 7 maravillas del mundo moderno?",
+        "opciones": [
+          "Chichén Itzá",
+          "Teotihuacán",
+          "Palenque",
+          "Monte Albán"
+        ],
+        "respuestaCorrecta": "Chichén Itzá",
+        "explicacion": "La pirámide de Kukulcán en Chichén Itzá fue elegida como maravilla mundial en 2007."
+      },
+      {
+        "id": "s2art-b2-09",
+        "tema": "Popular",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corrido es un género musical narrativo tradicional de México",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El corrido cuenta historias de héroes, batallas y vida cotidiana. Es poesía cantada."
+      },
+      {
+        "id": "s2art-b2-10",
+        "tema": "Cultura",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué es importante preservar el arte popular mexicano?",
+        "opciones": [
+          "Porque representa la identidad, historia y creatividad de los pueblos",
+          "No es importante",
+          "Solo para turistas",
+          "Solo para museos"
+        ],
+        "respuestaCorrecta": "Porque representa la identidad, historia y creatividad de los pueblos",
+        "explicacion": "El arte popular transmite saberes ancestrales y mantiene viva la identidad cultural."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s2art-b2-01",
+        "tema": "Patrimonio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el patrimonio cultural?",
+        "opciones": [
+          "Bienes materiales e inmateriales heredados que definen una cultura",
+          "Solo monumentos",
+          "Solo dinero",
+          "Solo libros"
+        ],
+        "respuestaCorrecta": "Bienes materiales e inmateriales heredados que definen una cultura",
+        "explicacion": "Incluye arquitectura, tradiciones, lenguas, danzas, gastronomía y más."
+      },
+      {
+        "id": "s2art-b2-02",
+        "tema": "Popular",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Los alebrijes son figuras artesanales de:",
+        "opciones": [
+          "Oaxaca y Ciudad de México",
+          "Japón",
+          "Francia",
+          "Egipto"
+        ],
+        "respuestaCorrecta": "Oaxaca y Ciudad de México",
+        "explicacion": "Los alebrijes son criaturas fantásticas talladas o de cartonería, coloridas y detalladas."
+      }
+    ]
+  }
+}

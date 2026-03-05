@@ -1,0 +1,196 @@
+{
+  "grado": "primaria-5",
+  "materia": "ingles",
+  "bloque": 3,
+  "nombre": "Shopping and money",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Numbers 20-100",
+    "Prices",
+    "Can I have...?"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p5en-b3-01",
+        "tema": "Números",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Fifty\" means:",
+        "opciones": [
+          "50",
+          "15",
+          "500",
+          "5"
+        ],
+        "respuestaCorrecta": "50",
+        "explicacion": "Fifty = 50. Fifteen = 15."
+      },
+      {
+        "id": "p5en-b3-02",
+        "tema": "Compras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"How much is it?\" means:",
+        "opciones": [
+          "¿Cuánto cuesta?",
+          "¿Cuántos hay?",
+          "¿Dónde está?",
+          "¿Qué es?"
+        ],
+        "respuestaCorrecta": "¿Cuánto cuesta?",
+        "explicacion": "How much = cuánto (precio). How many = cuántos (cantidad)."
+      },
+      {
+        "id": "p5en-b3-03",
+        "tema": "Números",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"One hundred\" equals 100",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "One hundred = 100. Two hundred = 200."
+      },
+      {
+        "id": "p5en-b3-04",
+        "tema": "Compras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Can I have a glass of water, please?\" means:",
+        "opciones": [
+          "¿Puedo tener un vaso de agua, por favor?",
+          "¿Dónde está el agua?",
+          "No quiero agua",
+          "Dame todo el agua"
+        ],
+        "respuestaCorrecta": "¿Puedo tener un vaso de agua, por favor?",
+        "explicacion": "Can I have...? es una forma educada de pedir algo en inglés."
+      },
+      {
+        "id": "p5en-b3-05",
+        "tema": "Números",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Thirty-five\" means:",
+        "opciones": [
+          "35",
+          "53",
+          "305",
+          "350"
+        ],
+        "respuestaCorrecta": "35",
+        "explicacion": "Thirty (30) + five (5) = thirty-five (35)."
+      },
+      {
+        "id": "p5en-b3-06",
+        "tema": "Compras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"It costs twenty pesos\" means:",
+        "opciones": [
+          "Cuesta veinte pesos",
+          "Cuesta doscientos pesos",
+          "Son dos pesos",
+          "Son doce pesos"
+        ],
+        "respuestaCorrecta": "Cuesta veinte pesos",
+        "explicacion": "Twenty = 20."
+      },
+      {
+        "id": "p5en-b3-07",
+        "tema": "Compras",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Expensive\" means barato",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Expensive = caro. Cheap = barato."
+      },
+      {
+        "id": "p5en-b3-08",
+        "tema": "Compras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I want to buy a book\" means:",
+        "opciones": [
+          "Quiero comprar un libro",
+          "Quiero leer un libro",
+          "Tengo un libro",
+          "No quiero libros"
+        ],
+        "respuestaCorrecta": "Quiero comprar un libro",
+        "explicacion": "Buy = comprar. I want to buy = quiero comprar."
+      },
+      {
+        "id": "p5en-b3-09",
+        "tema": "Números",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Seventy-eight\" means:",
+        "opciones": [
+          "78",
+          "87",
+          "708",
+          "780"
+        ],
+        "respuestaCorrecta": "78",
+        "explicacion": "Seventy (70) + eight (8) = seventy-eight (78)."
+      },
+      {
+        "id": "p5en-b3-10",
+        "tema": "Compras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Change\" (in shopping) means:",
+        "opciones": [
+          "Cambio (dinero que te devuelven)",
+          "Cambiar de ropa",
+          "Cambiar de opinión",
+          "Otra tienda"
+        ],
+        "respuestaCorrecta": "Cambio (dinero que te devuelven)",
+        "explicacion": "En compras, change = el cambio/vuelta que te dan al pagar."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p5en-b3-01",
+        "tema": "Números",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Fifty\" means:",
+        "opciones": [
+          "50",
+          "15",
+          "500",
+          "5"
+        ],
+        "respuestaCorrecta": "50",
+        "explicacion": "Fifty = 50. Fifteen = 15."
+      },
+      {
+        "id": "p5en-b3-02",
+        "tema": "Compras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"How much is it?\" means:",
+        "opciones": [
+          "¿Cuánto cuesta?",
+          "¿Cuántos hay?",
+          "¿Dónde está?",
+          "¿Qué es?"
+        ],
+        "respuestaCorrecta": "¿Cuánto cuesta?",
+        "explicacion": "How much = cuánto (precio). How many = cuántos (cantidad)."
+      }
+    ]
+  }
+}

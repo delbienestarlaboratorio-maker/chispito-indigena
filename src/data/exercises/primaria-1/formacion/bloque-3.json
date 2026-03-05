@@ -1,0 +1,97 @@
+{
+  "grado": "primaria-1",
+  "materia": "formacion",
+  "bloque": 3,
+  "nombre": "Vivimos en comunidad",
+  "meses": "Diciembre-Enero",
+  "temas": [
+    "Mi comunidad",
+    "Reglas de convivencia",
+    "Trabajo en equipo"
+  ],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1fc-b3-01",
+        "tema": "Mi comunidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es una comunidad?",
+        "opciones": [
+          "Grupo de personas que viven juntas",
+          "Una sola persona",
+          "Un animal",
+          "Una planta"
+        ],
+        "respuestaCorrecta": "Grupo de personas que viven juntas",
+        "explicacion": "Una comunidad es un conjunto de personas que comparten un lugar y se ayudan mutuamente.",
+        "visual": "🏘️"
+      },
+      {
+        "id": "p1fc-b3-02",
+        "tema": "Reglas de convivencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirven las reglas?",
+        "opciones": [
+          "Para que todos vivamos mejor",
+          "Para castigar",
+          "Para jugar",
+          "Para confundir"
+        ],
+        "respuestaCorrecta": "Para que todos vivamos mejor",
+        "explicacion": "Las reglas de convivencia nos permiten vivir en armonía y resolver conflictos de forma pacífica.",
+        "visual": "📋"
+      },
+      {
+        "id": "p1fc-b3-03",
+        "tema": "Trabajo en equipo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El trabajo en equipo es mejor que trabajar solos siempre",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El trabajo en equipo combina las fortalezas de cada persona y logra mejores resultados."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p1fc-b3-01",
+        "tema": "Mi comunidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es una comunidad?",
+        "opciones": [
+          "Grupo de personas que viven juntas",
+          "Una sola persona",
+          "Un animal",
+          "Una planta"
+        ],
+        "respuestaCorrecta": "Grupo de personas que viven juntas",
+        "explicacion": "Una comunidad es un conjunto de personas que comparten un lugar y se ayudan mutuamente.",
+        "visual": "🏘️"
+      },
+      {
+        "id": "p1fc-b3-02",
+        "tema": "Reglas de convivencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirven las reglas?",
+        "opciones": [
+          "Para que todos vivamos mejor",
+          "Para castigar",
+          "Para jugar",
+          "Para confundir"
+        ],
+        "respuestaCorrecta": "Para que todos vivamos mejor",
+        "explicacion": "Las reglas de convivencia nos permiten vivir en armonía y resolver conflictos de forma pacífica.",
+        "visual": "📋"
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "grado": "primaria-4",
+  "materia": "historia",
+  "bloque": 1,
+  "nombre": "Mesoamérica",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Culturas prehispánicas",
+    "Los mayas"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-4-historia-b1-001",
+        "tema": "Culturas prehispánicas",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál fue la importancia de \"Culturas prehispánicas\" en la historia?",
+        "opciones": [
+          "Cambió al sociedad",
+          "No tuvo impacto",
+          "Solo afectó a un país",
+          "Fue un mito"
+        ],
+        "explicacion": "Culturas prehispánicas fue un evento fundamental que transformó la historia.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Cambió al sociedad"
+      },
+      {
+        "id": "primaria-4-historia-b1-002",
+        "tema": "Culturas prehispánicas",
+        "tipo": "fill_blank",
+        "pregunta": "Culturas prehispánicas ocurrió durante la época ___",
+        "explicacion": "Estudiar la cronología nos ayuda a entender el contexto de Culturas prehispánicas.",
+        "nivel": "v1",
+        "respuestaCorrecta": "histórica correspondiente"
+      },
+      {
+        "id": "primaria-4-historia-b1-003",
+        "tema": "Culturas prehispánicas",
+        "tipo": "true_false",
+        "pregunta": "Conocer Culturas prehispánicas nos ayuda a entender el presente",
+        "explicacion": "La historia siempre tiene lecciones que aplican al mundo de hoy.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-4-historia-b1-extra-007",
+        "tema": "Culturas prehispánicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el \"Benemérito de las Américas\"?",
+        "opciones": [
+          "Miguel Hidalgo",
+          "Benito Juárez",
+          "Emiliano Zapata",
+          "Porfirio Díaz"
+        ],
+        "respuestaCorrecta": "Benito Juárez",
+        "explicacion": "Benito Juárez recibió el título \"Benemérito de las Américas\" por sus reformas liberales."
+      },
+      {
+        "id": "primaria-4-historia-b1-extra-009",
+        "tema": "Culturas prehispánicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Constitución de 1917 fue resultado de la Revolución Mexicana",
+        "respuestaCorrecta": "true",
+        "explicacion": "Sí. La Constitución de 1917 es uno de los documentos más avanzados de su época."
+      },
+      {
+        "id": "primaria-4-historia-b1-extra-011",
+        "tema": "Culturas prehispánicas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Segunda Guerra Mundial terminó en el año ___",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La Segunda Guerra Mundial terminó en 1945 con la rendición de Alemania y Japón."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-013",
+        "tema": "Culturas prehispánicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos.",
+        "ejemplo": "Línea del tiempo:\n1810 → Inicio (Grito de Dolores - Hidalgo)\n1813 → Solemnes Actas de la Independencia\n1821 → Consumación (Agustín de Iturbide)"
+      },
+      {
+        "id": "primaria-4-historia-b1-x-014",
+        "tema": "Los mayas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-015",
+        "tema": "Culturas prehispánicas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-016",
+        "tema": "Los mayas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-017",
+        "tema": "Culturas prehispánicas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-018",
+        "tema": "Los mayas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-019",
+        "tema": "Culturas prehispánicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-020",
+        "tema": "Los mayas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos.",
+        "ejemplo": "Línea del tiempo:\n1810 → Inicio (Grito de Dolores - Hidalgo)\n1813 → Solemnes Actas de la Independencia\n1821 → Consumación (Agustín de Iturbide)"
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-4-historia-b1-004",
+        "tema": "Los mayas",
+        "tipo": "multiple_choice",
+        "pregunta": "¿En qué región vivió la civilización maya?",
+        "opciones": [
+          "Zona andina",
+          "Caribe y Mesoamérica",
+          "Valle del Mississippi",
+          "Patagonia"
+        ],
+        "explicacion": "Los mayas habitaron principalmente el sureste de México, Guatemala, Belice y Honduras.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Caribe y Mesoamérica"
+      },
+      {
+        "id": "primaria-4-historia-b1-005",
+        "tema": "Los mayas",
+        "tipo": "true_false",
+        "pregunta": "Los mayas desarrollaron un sistema de escritura jeroglífica",
+        "explicacion": "Los jeroglíficos mayas son uno de los sistemas de escritura más elaborados de América.",
+        "nivel": "v2",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "primaria-4-historia-b1-006",
+        "tema": "Los mayas",
+        "tipo": "fill_blank",
+        "pregunta": "El calendario maya tenía ___ días en su cuenta corta",
+        "explicacion": "El Tzolkin (calendario ritual maya) tenía 260 días combinando 13 números y 20 signos.",
+        "nivel": "v2",
+        "respuestaCorrecta": "260"
+      },
+      {
+        "id": "primaria-4-historia-b1-extra-008",
+        "tema": "Los mayas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El \"Grito de Independencia\" se celebra el 15 de ___ de cada año",
+        "respuestaCorrecta": "septiembre",
+        "explicacion": "El 15 de septiembre se conmemora el Grito de Dolores de 1810 de Hidalgo.",
+        "ejemplo": "Línea del tiempo:\n1810 → Inicio (Grito de Dolores - Hidalgo)\n1813 → Solemnes Actas de la Independencia\n1821 → Consumación (Agustín de Iturbide)"
+      },
+      {
+        "id": "primaria-4-historia-b1-extra-010",
+        "tema": "Los mayas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué civilización construyó Tenochtitlan?",
+        "opciones": [
+          "Los mayas",
+          "Los olmecas",
+          "Los aztecas",
+          "Los toltecas"
+        ],
+        "respuestaCorrecta": "Los aztecas",
+        "explicacion": "Los mexicas (aztecas) fundaron Tenochtitlan en 1325 donde hoy es Ciudad de México."
+      },
+      {
+        "id": "primaria-4-historia-b1-extra-012",
+        "tema": "Los mayas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién escribió el Plan de Ayala?",
+        "opciones": [
+          "Pancho Villa",
+          "Emiliano Zapata",
+          "Venustiano Carranza",
+          "Francisco Madero"
+        ],
+        "respuestaCorrecta": "Emiliano Zapata",
+        "explicacion": "El Plan de Ayala (1911) fue escrito por Zapata para reclamar tierras para los campesinos."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-013",
+        "tema": "Culturas prehispánicas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-014",
+        "tema": "Los mayas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-015",
+        "tema": "Culturas prehispánicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-016",
+        "tema": "Los mayas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos.",
+        "ejemplo": "Línea del tiempo:\n1810 → Inicio (Grito de Dolores - Hidalgo)\n1813 → Solemnes Actas de la Independencia\n1821 → Consumación (Agustín de Iturbide)"
+      },
+      {
+        "id": "primaria-4-historia-b1-x-017",
+        "tema": "Culturas prehispánicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-018",
+        "tema": "Los mayas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-019",
+        "tema": "Culturas prehispánicas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "primaria-4-historia-b1-x-020",
+        "tema": "Los mayas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-4-historia-b1-001",
+        "tema": "Culturas prehispánicas",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuál fue la importancia de \"Culturas prehispánicas\" en la historia?",
+        "opciones": [
+          "Cambió al sociedad",
+          "No tuvo impacto",
+          "Solo afectó a un país",
+          "Fue un mito"
+        ],
+        "explicacion": "Culturas prehispánicas fue un evento fundamental que transformó la historia.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Cambió al sociedad"
+      },
+      {
+        "id": "primaria-4-historia-b1-002",
+        "tema": "Culturas prehispánicas",
+        "tipo": "fill_blank",
+        "pregunta": "Culturas prehispánicas ocurrió durante la época ___",
+        "explicacion": "Estudiar la cronología nos ayuda a entender el contexto de Culturas prehispánicas.",
+        "nivel": "v1",
+        "respuestaCorrecta": "histórica correspondiente"
+      },
+      {
+        "id": "primaria-4-historia-b1-004",
+        "tema": "Los mayas",
+        "tipo": "multiple_choice",
+        "pregunta": "¿En qué región vivió la civilización maya?",
+        "opciones": [
+          "Zona andina",
+          "Caribe y Mesoamérica",
+          "Valle del Mississippi",
+          "Patagonia"
+        ],
+        "explicacion": "Los mayas habitaron principalmente el sureste de México, Guatemala, Belice y Honduras.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Caribe y Mesoamérica"
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:06:30.409Z",
+  "version": "2.0"
+}

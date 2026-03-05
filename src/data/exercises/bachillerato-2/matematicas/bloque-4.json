@@ -1,0 +1,369 @@
+{
+  "grado": "bachillerato-2",
+  "materia": "matematicas",
+  "bloque": 4,
+  "nombre": "Función cuadrática",
+  "meses": "Abril",
+  "temas": [
+    "Parábola",
+    "Vértice",
+    "Discriminante",
+    "Problemas de optimización"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "bachillerato-2-matematicas-b4-001",
+        "tema": "Discriminante",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el resultado de 3² + 4²?",
+        "opciones": [
+          "25",
+          "20",
+          "15",
+          "30"
+        ],
+        "respuestaCorrecta": "25",
+        "explicacion": "3²=9 y 4²=16, sumados dan 25. (Teorema de Pitágoras: 3-4-5)."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-002",
+        "tema": "Problemas de optimización",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La derivada de f(x) = x³ es f'(x) = ___",
+        "respuestaCorrecta": "3x²",
+        "explicacion": "Regla de la potencia: d/dx(xⁿ) = n·xⁿ⁻¹. Aquí n=3, entonces 3x²."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-003",
+        "tema": "Parábola",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas soluciones tiene x² + 4 = 0 en los reales?",
+        "opciones": [
+          "0",
+          "1",
+          "2",
+          "Infinitas"
+        ],
+        "respuestaCorrecta": "0",
+        "explicacion": "x²= -4 no tiene solución real porque un cuadrado nunca es negativo en ℝ."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-007",
+        "tema": "Parábola",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-008",
+        "tema": "Vértice",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-009",
+        "tema": "Discriminante",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respuestaCorrecta": "12",
+        "explicacion": "12 meses: enero a diciembre."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-010",
+        "tema": "Problemas de optimización",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-011",
+        "tema": "Parábola",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-012",
+        "tema": "Vértice",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respuestaCorrecta": "12",
+        "explicacion": "12 meses: enero a diciembre."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-013",
+        "tema": "Discriminante",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-014",
+        "tema": "Problemas de optimización",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-015",
+        "tema": "Parábola",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "respuestaCorrecta": "12",
+        "explicacion": "12 meses: enero a diciembre."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-016",
+        "tema": "Vértice",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "5 + 3 = ___",
+        "respuestaCorrecta": "8",
+        "explicacion": "5 más 3 son 8."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-017",
+        "tema": "Discriminante",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "10 > 9",
+        "respuestaCorrecta": "true",
+        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+      }
+    ],
+    "v2": [
+      {
+        "id": "bachillerato-2-matematicas-b4-004",
+        "tema": "Vértice",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "log₁₀(100) = 2",
+        "respuestaCorrecta": "true",
+        "explicacion": "log₁₀(100) = 2 porque 10² = 100."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-005",
+        "tema": "Discriminante",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La pendiente de la recta y = 3x + 5 es ___",
+        "respuestaCorrecta": "3",
+        "explicacion": "En la forma y = mx + b, m es la pendiente. Aquí m = 3."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-006",
+        "tema": "Problemas de optimización",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el factorial de 5 (5!)?",
+        "opciones": [
+          "25",
+          "60",
+          "120",
+          "720"
+        ],
+        "respuestaCorrecta": "120",
+        "explicacion": "5! = 5×4×3×2×1 = 120."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-007",
+        "tema": "Parábola",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-008",
+        "tema": "Vértice",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-009",
+        "tema": "Discriminante",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3 × 4 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-010",
+        "tema": "Problemas de optimización",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-011",
+        "tema": "Parábola",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-012",
+        "tema": "Vértice",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3 × 4 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-013",
+        "tema": "Discriminante",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-014",
+        "tema": "Problemas de optimización",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-015",
+        "tema": "Parábola",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3 × 4 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-016",
+        "tema": "Vértice",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-x-017",
+        "tema": "Discriminante",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "20 - 8 = ___",
+        "respuestaCorrecta": "12",
+        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
+      }
+    ],
+    "preview": [
+      {
+        "id": "bachillerato-2-matematicas-b4-001",
+        "tema": "Discriminante",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el resultado de 3² + 4²?",
+        "opciones": [
+          "25",
+          "20",
+          "15",
+          "30"
+        ],
+        "respuestaCorrecta": "25",
+        "explicacion": "3²=9 y 4²=16, sumados dan 25. (Teorema de Pitágoras: 3-4-5)."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-002",
+        "tema": "Problemas de optimización",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La derivada de f(x) = x³ es f'(x) = ___",
+        "respuestaCorrecta": "3x²",
+        "explicacion": "Regla de la potencia: d/dx(xⁿ) = n·xⁿ⁻¹. Aquí n=3, entonces 3x²."
+      },
+      {
+        "id": "bachillerato-2-matematicas-b4-004",
+        "tema": "Vértice",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "log₁₀(100) = 2",
+        "respuestaCorrecta": "true",
+        "explicacion": "log₁₀(100) = 2 porque 10² = 100."
+      }
+    ]
+  },
+  "generado": "2026-02-27T17:22:03.163Z",
+  "version": "3.0"
+}

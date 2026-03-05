@@ -1,0 +1,12 @@
+# Cloudflare Worker para Chispito.indigena (SSR con @opennextjs/cloudflare)
+name = "chispito-indigena"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+main = ".open-next/worker.js"
+
+[vars]
+NEXT_PUBLIC_SITE_URL = "https://chispito-indigena.workers.dev"
+
+[[rules]]
+type = "ESModule"
+globs = ["**/*.mjs"]

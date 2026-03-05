@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-6",
+  "materia": "educacion_fisica",
+  "bloque": 3,
+  "nombre": "Primeros auxilios y seguridad avanzada",
+  "meses": "Dic-Ene",
+  "temas": [
+    "RCP básico",
+    "Prevención de lesiones graves"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p6ef-b3-01",
+        "tema": "RCP",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué significan las siglas RCP?",
+        "opciones": [
+          "Reanimación Cardio Pulmonar",
+          "Respuesta Corporal Parcial",
+          "Revisión Cardíaca Preventiva",
+          "Recuperación Con Protección"
+        ],
+        "respuestaCorrecta": "Reanimación Cardio Pulmonar",
+        "explicacion": "La RCP combina compresiones en el pecho y respiración de rescate para salvar vidas."
+      },
+      {
+        "id": "p6ef-b3-02",
+        "tema": "Emergencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el número de emergencias en México?",
+        "opciones": [
+          "911",
+          "066",
+          "112",
+          "999"
+        ],
+        "respuestaCorrecta": "911",
+        "explicacion": "El 911 es el número único de emergencias en México desde 2017."
+      },
+      {
+        "id": "p6ef-b3-03",
+        "tema": "Primeros auxilios",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Ante una fractura, NO debemos mover la parte lesionada",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Mover un hueso roto puede empeorar la lesión. Hay que inmovilizar y esperar ayuda médica."
+      },
+      {
+        "id": "p6ef-b3-04",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el equipo de protección más importante al andar en bicicleta?",
+        "opciones": [
+          "Casco",
+          "Guantes",
+          "Lentes de sol",
+          "Rodilleras"
+        ],
+        "respuestaCorrecta": "Casco",
+        "explicacion": "El casco puede prevenir lesiones cerebrales graves en caso de caída."
+      },
+      {
+        "id": "p6ef-b3-05",
+        "tema": "Primeros auxilios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacemos si alguien tiene un golpe de calor?",
+        "opciones": [
+          "Llevar a la sombra, refrescar con agua y llamar ayuda",
+          "Dejarlo al sol",
+          "Darle bebida caliente",
+          "Hacerlo correr"
+        ],
+        "respuestaCorrecta": "Llevar a la sombra, refrescar con agua y llamar ayuda",
+        "explicacion": "El golpe de calor es una emergencia: bajar la temperatura corporal es prioritario."
+      },
+      {
+        "id": "p6ef-b3-06",
+        "tema": "Prevención",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Usar protector solar previene quemaduras durante actividades al aire libre",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El protector solar bloquea los rayos UV que dañan la piel y causan quemaduras."
+      },
+      {
+        "id": "p6ef-b3-07",
+        "tema": "RCP",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas compresiones por minuto se hacen en RCP?",
+        "opciones": [
+          "100 a 120",
+          "10 a 20",
+          "200 a 300",
+          "Solo 50"
+        ],
+        "respuestaCorrecta": "100 a 120",
+        "explicacion": "El ritmo de compresiones debe ser de 100-120 por minuto (como el ritmo de Stayin Alive)."
+      },
+      {
+        "id": "p6ef-b3-08",
+        "tema": "Emergencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la posición lateral de seguridad?",
+        "opciones": [
+          "Colocar a una persona inconsciente de lado para que no se ahogue",
+          "Sentarla",
+          "Ponerla boca abajo",
+          "Pararla"
+        ],
+        "respuestaCorrecta": "Colocar a una persona inconsciente de lado para que no se ahogue",
+        "explicacion": "La posición lateral evita que la lengua o el vómito obstruyan las vías respiratorias."
+      },
+      {
+        "id": "p6ef-b3-09",
+        "tema": "Prevención",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Hidratarse adecuadamente previene calambres durante el ejercicio",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los calambres suelen deberse a deshidratación y falta de minerales como potasio y sodio."
+      },
+      {
+        "id": "p6ef-b3-10",
+        "tema": "Primeros auxilios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué debe contener un botiquín escolar básico?",
+        "opciones": [
+          "Gasas, vendas, antiséptico, guantes y lista de teléfonos de emergencia",
+          "Solo dulces",
+          "Solo agua",
+          "Solo termómetro"
+        ],
+        "respuestaCorrecta": "Gasas, vendas, antiséptico, guantes y lista de teléfonos de emergencia",
+        "explicacion": "Un botiquín básico tiene lo necesario para atender heridas menores hasta que llegue ayuda."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p6ef-b3-01",
+        "tema": "RCP",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué significan las siglas RCP?",
+        "opciones": [
+          "Reanimación Cardio Pulmonar",
+          "Respuesta Corporal Parcial",
+          "Revisión Cardíaca Preventiva",
+          "Recuperación Con Protección"
+        ],
+        "respuestaCorrecta": "Reanimación Cardio Pulmonar",
+        "explicacion": "La RCP combina compresiones en el pecho y respiración de rescate para salvar vidas."
+      },
+      {
+        "id": "p6ef-b3-02",
+        "tema": "Emergencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el número de emergencias en México?",
+        "opciones": [
+          "911",
+          "066",
+          "112",
+          "999"
+        ],
+        "respuestaCorrecta": "911",
+        "explicacion": "El 911 es el número único de emergencias en México desde 2017."
+      }
+    ]
+  }
+}

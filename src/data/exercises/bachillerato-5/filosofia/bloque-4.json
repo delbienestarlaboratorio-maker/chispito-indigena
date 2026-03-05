@@ -1,0 +1,393 @@
+{
+  "grado": "bachillerato-5",
+  "materia": "filosofia",
+  "bloque": 4,
+  "nombre": "Filosofía del lenguaje",
+  "meses": "Nov",
+  "temas": [
+    "Lenguaje y realidad",
+    "Juegos de lenguaje (Wittgenstein)",
+    "Metáfora y verdad",
+    "Hechos vs interpretaciones"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "bachillerato-5-filosofia-b4-001",
+        "tema": "Metáfora y verdad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién dijo \"Cogito, ergo sum\" (Pienso, luego existo)?",
+        "opciones": [
+          "Platón",
+          "Aristóteles",
+          "Descartes",
+          "Kant"
+        ],
+        "respuestaCorrecta": "Descartes",
+        "explicacion": "René Descartes (1596-1650) escribió \"Cogito, ergo sum\" en el \"Discurso del Método\" (1637)."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-002",
+        "tema": "Hechos vs interpretaciones",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El imperativo categórico de Kant dice: \"Actúa solo según aquella máxima que puedas querer que sea una ___ universal\"",
+        "respuestaCorrecta": "ley",
+        "explicacion": "El imperativo categórico de Kant: actúa como si tu acción debiera ser una ley universal: ética deontológica."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-003",
+        "tema": "Lenguaje y realidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"El fin justifica los medios\" es una máxima de Maquiavelo",
+        "respuestaCorrecta": "true",
+        "explicacion": "Aunque no es cita textual, resume el pensamiento de Maquiavelo en \"El Príncipe\" (1532): el poder político justifica cualquier medio."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-006",
+        "tema": "Lenguaje y realidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-007",
+        "tema": "Juegos de lenguaje (Wittgenstein)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-008",
+        "tema": "Metáfora y verdad",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-009",
+        "tema": "Hechos vs interpretaciones",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-010",
+        "tema": "Lenguaje y realidad",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-011",
+        "tema": "Juegos de lenguaje (Wittgenstein)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-012",
+        "tema": "Metáfora y verdad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-013",
+        "tema": "Hechos vs interpretaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-014",
+        "tema": "Lenguaje y realidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-015",
+        "tema": "Juegos de lenguaje (Wittgenstein)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-016",
+        "tema": "Metáfora y verdad",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-017",
+        "tema": "Hechos vs interpretaciones",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      }
+    ],
+    "v2": [
+      {
+        "id": "bachillerato-5-filosofia-b4-004",
+        "tema": "Juegos de lenguaje (Wittgenstein)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué filósofo está asociado con el existencialismo?",
+        "opciones": [
+          "Platón",
+          "Jean-Paul Sartre",
+          "Santo Tomás",
+          "Leibniz"
+        ],
+        "respuestaCorrecta": "Jean-Paul Sartre",
+        "explicacion": "Sartre (1905-1980) es el mayor exponente del existencialismo: \"la existencia precede a la esencia\"."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-005",
+        "tema": "Metáfora y verdad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La falacia \"Ad Hominem\" consiste en...",
+        "opciones": [
+          "Atacar el argumento",
+          "Atacar a la persona en vez del argumento",
+          "Apelar a la autoridad",
+          "Generalizar casos aislados"
+        ],
+        "respuestaCorrecta": "Atacar a la persona en vez del argumento",
+        "explicacion": "Ad hominem = ataque personal que ignora el argumento. Es una falacia porque no refuta la idea."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-006",
+        "tema": "Lenguaje y realidad",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-007",
+        "tema": "Juegos de lenguaje (Wittgenstein)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-008",
+        "tema": "Metáfora y verdad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-009",
+        "tema": "Hechos vs interpretaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-010",
+        "tema": "Lenguaje y realidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "opciones": [
+          "Agustín de Iturbide",
+          "Guadalupe Victoria",
+          "Benito Juárez",
+          "Antonio López de Santa Anna"
+        ],
+        "respuestaCorrecta": "Guadalupe Victoria",
+        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-011",
+        "tema": "Juegos de lenguaje (Wittgenstein)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
+        "respuestaCorrecta": "476",
+        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-012",
+        "tema": "Metáfora y verdad",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
+        "respuestaCorrecta": "1945",
+        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-013",
+        "tema": "Hechos vs interpretaciones",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La Revolución Industrial comenzó en ___",
+        "respuestaCorrecta": "Inglaterra",
+        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-014",
+        "tema": "Lenguaje y realidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-015",
+        "tema": "Juegos de lenguaje (Wittgenstein)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién fue Simón Bolívar?",
+        "opciones": [
+          "Rey de España",
+          "Libertador de América del Sur",
+          "Presidente de México",
+          "Conquistador español"
+        ],
+        "respuestaCorrecta": "Libertador de América del Sur",
+        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-x-016",
+        "tema": "Metáfora y verdad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "opciones": [
+          "1773",
+          "1776",
+          "1783",
+          "1800"
+        ],
+        "respuestaCorrecta": "1776",
+        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+      }
+    ],
+    "preview": [
+      {
+        "id": "bachillerato-5-filosofia-b4-001",
+        "tema": "Metáfora y verdad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién dijo \"Cogito, ergo sum\" (Pienso, luego existo)?",
+        "opciones": [
+          "Platón",
+          "Aristóteles",
+          "Descartes",
+          "Kant"
+        ],
+        "respuestaCorrecta": "Descartes",
+        "explicacion": "René Descartes (1596-1650) escribió \"Cogito, ergo sum\" en el \"Discurso del Método\" (1637)."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-002",
+        "tema": "Hechos vs interpretaciones",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El imperativo categórico de Kant dice: \"Actúa solo según aquella máxima que puedas querer que sea una ___ universal\"",
+        "respuestaCorrecta": "ley",
+        "explicacion": "El imperativo categórico de Kant: actúa como si tu acción debiera ser una ley universal: ética deontológica."
+      },
+      {
+        "id": "bachillerato-5-filosofia-b4-004",
+        "tema": "Juegos de lenguaje (Wittgenstein)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué filósofo está asociado con el existencialismo?",
+        "opciones": [
+          "Platón",
+          "Jean-Paul Sartre",
+          "Santo Tomás",
+          "Leibniz"
+        ],
+        "respuestaCorrecta": "Jean-Paul Sartre",
+        "explicacion": "Sartre (1905-1980) es el mayor exponente del existencialismo: \"la existencia precede a la esencia\"."
+      }
+    ]
+  },
+  "generado": "2026-02-27T17:22:03.300Z",
+  "version": "3.0"
+}

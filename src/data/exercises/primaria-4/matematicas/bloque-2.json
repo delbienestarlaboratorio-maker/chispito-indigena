@@ -1,0 +1,422 @@
+{
+  "grado": "primaria-4",
+  "materia": "matematicas",
+  "bloque": 2,
+  "nombre": "Multiplicación y división",
+  "meses": "Septiembre-Octubre",
+  "temas": [
+    "Multiplicación de 2 dígitos",
+    "División exacta"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-4-matematicas-b2-001",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuánto es 23 × 4?",
+        "opciones": [
+          "82",
+          "92",
+          "96",
+          "102"
+        ],
+        "explicacion": "23 × 4 = 20×4 + 3×4 = 80 + 12 = 92.",
+        "nivel": "v1",
+        "respuestaCorrecta": "92",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-002",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "fill_blank",
+        "pregunta": "15 × ___ = 90",
+        "explicacion": "15 × 6 = 90. Verificamos: 10×6=60, 5×6=30, 60+30=90.",
+        "nivel": "v1",
+        "respuestaCorrecta": "6",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-003",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuánto es 32 × 3?",
+        "opciones": [
+          "86",
+          "96",
+          "106",
+          "116"
+        ],
+        "explicacion": "32 × 3 = 30×3 + 2×3 = 90 + 6 = 96.",
+        "nivel": "v1",
+        "respuestaCorrecta": "96",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-extra-007",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el resultado de 234 × 3?",
+        "opciones": [
+          "602",
+          "702",
+          "712",
+          "642"
+        ],
+        "respuestaCorrecta": "702",
+        "explicacion": "234×3: 4×3=12(llevo 1), 3×3+1=10(llevo 1), 2×3+1=7. Resultado: 702.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-extra-009",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El perímetro de un cuadrado de lado 6cm es:",
+        "opciones": [
+          "12 cm",
+          "18 cm",
+          "24 cm",
+          "36 cm"
+        ],
+        "respuestaCorrecta": "24 cm",
+        "explicacion": "Perímetro = 4 × lado = 4 × 6 = 24 cm.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-extra-011",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "25% de 200 = ___",
+        "respuestaCorrecta": "50",
+        "explicacion": "25% = 1/4. Un cuarto de 200 = 200÷4 = 50.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-extra-013",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un rectángulo mide 8 de base y 5 de altura, su área es:",
+        "opciones": [
+          "26 cm²",
+          "40 cm²",
+          "13 cm²",
+          "52 cm²"
+        ],
+        "respuestaCorrecta": "40 cm²",
+        "explicacion": "Área = base × altura = 8 × 5 = 40 cm².",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-014",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-015",
+        "tema": "División exacta",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El área de un triángulo es base×altura÷2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. A = (b × h) / 2.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-016",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "123² es aproximadamente...",
+        "opciones": [
+          "1000",
+          "5000",
+          "12000",
+          "15000"
+        ],
+        "respuestaCorrecta": "15000",
+        "explicacion": "123² = 15,129. ~15,000.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-017",
+        "tema": "División exacta",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el 50% de 80?",
+        "opciones": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "respuestaCorrecta": "40",
+        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-018",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "√36 = ___",
+        "respuestaCorrecta": "6",
+        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-019",
+        "tema": "División exacta",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-020",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El área de un triángulo es base×altura÷2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. A = (b × h) / 2.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-021",
+        "tema": "División exacta",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "123² es aproximadamente...",
+        "opciones": [
+          "1000",
+          "5000",
+          "12000",
+          "15000"
+        ],
+        "respuestaCorrecta": "15000",
+        "explicacion": "123² = 15,129. ~15,000.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-4-matematicas-b2-004",
+        "tema": "División exacta",
+        "tipo": "multiple_choice",
+        "pregunta": "Problema de Multiplicación de 2 dígitos: ¿Cuál opción es correcta?",
+        "opciones": [
+          "Opción A",
+          "Opción B",
+          "Opción C",
+          "Opción D"
+        ],
+        "explicacion": "Esta es la respuesta correcta relacionada con Multiplicación de 2 dígitos.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Opción A",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-005",
+        "tema": "División exacta",
+        "tipo": "fill_blank",
+        "pregunta": "Completa: ___ es la clave en Multiplicación de 2 dígitos",
+        "explicacion": "En Multiplicación de 2 dígitos siempre debemos aplicar el método correcto.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Correcto",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-006",
+        "tema": "División exacta",
+        "tipo": "true_false",
+        "pregunta": "Multiplicación de 2 dígitos es parte de las matemáticas de 4° Primaria",
+        "explicacion": "Sí, Multiplicación de 2 dígitos es un tema central en este grado.",
+        "nivel": "v2",
+        "respuestaCorrecta": "true",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-extra-008",
+        "tema": "División exacta",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3/4 + 1/4 = ___",
+        "respuestaCorrecta": "1",
+        "explicacion": "3/4 + 1/4 = 4/4 = 1 entero.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-extra-010",
+        "tema": "División exacta",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "0.7 > 0.5",
+        "respuestaCorrecta": "true",
+        "explicacion": "0.7 tiene 7 décimas y 0.5 tiene 5. 7 > 5, entonces 0.7 > 0.5.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-extra-012",
+        "tema": "División exacta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuánto es 12² (doce al cuadrado)?",
+        "opciones": [
+          "24",
+          "144",
+          "121",
+          "169"
+        ],
+        "respuestaCorrecta": "144",
+        "explicacion": "12² = 12 × 12 = 144.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-014",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el 50% de 80?",
+        "opciones": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "respuestaCorrecta": "40",
+        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-015",
+        "tema": "División exacta",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "√36 = ___",
+        "respuestaCorrecta": "6",
+        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-016",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "1/2 + 1/4 = ___",
+        "respuestaCorrecta": "3/4",
+        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-017",
+        "tema": "División exacta",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El área de un triángulo es base×altura÷2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. A = (b × h) / 2.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-018",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "123² es aproximadamente...",
+        "opciones": [
+          "1000",
+          "5000",
+          "12000",
+          "15000"
+        ],
+        "respuestaCorrecta": "15000",
+        "explicacion": "123² = 15,129. ~15,000.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-019",
+        "tema": "División exacta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el 50% de 80?",
+        "opciones": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "respuestaCorrecta": "40",
+        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-x-020",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "√36 = ___",
+        "respuestaCorrecta": "6",
+        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-4-matematicas-b2-001",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Cuánto es 23 × 4?",
+        "opciones": [
+          "82",
+          "92",
+          "96",
+          "102"
+        ],
+        "explicacion": "23 × 4 = 20×4 + 3×4 = 80 + 12 = 92.",
+        "nivel": "v1",
+        "respuestaCorrecta": "92",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-002",
+        "tema": "Multiplicación de 2 dígitos",
+        "tipo": "fill_blank",
+        "pregunta": "15 × ___ = 90",
+        "explicacion": "15 × 6 = 90. Verificamos: 10×6=60, 5×6=30, 60+30=90.",
+        "nivel": "v1",
+        "respuestaCorrecta": "6",
+        "ejemplo": "Ejemplo: 6 × 7 = 42\nRecuerda: 6 × 7 = 6 + 6 + 6 + 6 + 6 + 6 + 6 = 42."
+      },
+      {
+        "id": "primaria-4-matematicas-b2-004",
+        "tema": "División exacta",
+        "tipo": "multiple_choice",
+        "pregunta": "Problema de Multiplicación de 2 dígitos: ¿Cuál opción es correcta?",
+        "opciones": [
+          "Opción A",
+          "Opción B",
+          "Opción C",
+          "Opción D"
+        ],
+        "explicacion": "Esta es la respuesta correcta relacionada con Multiplicación de 2 dígitos.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Opción A",
+        "ejemplo": "Ejemplo: 12 ÷ 3 = 4\nPiensa: ¿cuántas veces cabe 3 en 12? 3, 6, 9, 12 → 4 veces."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:06:30.376Z",
+  "version": "2.0"
+}

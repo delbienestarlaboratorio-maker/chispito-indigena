@@ -1,0 +1,424 @@
+{
+  "grado": "preescolar-2",
+  "materia": "espanol",
+  "bloque": 3,
+  "nombre": "Sílabas simples",
+  "meses": "Diciembre-Enero",
+  "temas": [
+    "Las vocales",
+    "Consonantes M P S",
+    "Sílabas simples",
+    "Palabras cortas",
+    "Oraciones simples"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "preescolar-2-espanol-b3-001",
+        "tema": "Consonantes M P S",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es una vocal?",
+        "opciones": [
+          "B",
+          "M",
+          "A",
+          "T"
+        ],
+        "respuestaCorrecta": "A",
+        "explicacion": "Las vocales son: A, E, I, O, U. La A es vocal.",
+        "visual": "🔤",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-002",
+        "tema": "Sílabas simples",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "MAMÁ empieza con la letra ___",
+        "respuestaCorrecta": "M",
+        "explicacion": "M-A-M-Á. La primera letra es la M.",
+        "visual": "🔤",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-003",
+        "tema": "Palabras cortas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"PERRO\" tiene 5 letras",
+        "respuestaCorrecta": "true",
+        "explicacion": "P-E-R-R-O. Sí, tiene 5 letras.",
+        "visual": "🐶",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-006",
+        "tema": "Las vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-007",
+        "tema": "Consonantes M P S",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-008",
+        "tema": "Sílabas simples",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-009",
+        "tema": "Palabras cortas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-010",
+        "tema": "Oraciones simples",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-011",
+        "tema": "Las vocales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-012",
+        "tema": "Consonantes M P S",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-013",
+        "tema": "Sílabas simples",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-014",
+        "tema": "Palabras cortas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-015",
+        "tema": "Oraciones simples",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un verbo?",
+        "opciones": [
+          "Una cosa",
+          "Una acción o estado",
+          "Un nombre",
+          "Una descripción"
+        ],
+        "respuestaCorrecta": "Una acción o estado",
+        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-016",
+        "tema": "Las vocales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-017",
+        "tema": "Consonantes M P S",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte inicial de un cuento se llama ___",
+        "respuestaCorrecta": "introducción",
+        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+      }
+    ],
+    "v2": [
+      {
+        "id": "preescolar-2-espanol-b3-004",
+        "tema": "Oraciones simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas vocales hay en \"CASA\"?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "2",
+        "explicacion": "C-A-S-A. Las vocales son: A y A. Hay 2 vocales.",
+        "visual": "🏠",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-005",
+        "tema": "Las vocales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las vocales son: A, E, ___, O, U",
+        "respuestaCorrecta": "I",
+        "explicacion": "Las 5 vocales son: A, E, I, O, U.",
+        "visual": "🔤",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-006",
+        "tema": "Las vocales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
+        "visual": "📝",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-007",
+        "tema": "Consonantes M P S",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-008",
+        "tema": "Sílabas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
+        "visual": "😊",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-009",
+        "tema": "Palabras cortas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
+        "visual": "📝",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-010",
+        "tema": "Oraciones simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-011",
+        "tema": "Las vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
+        "visual": "😊",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-012",
+        "tema": "Consonantes M P S",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
+        "visual": "📝",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-013",
+        "tema": "Sílabas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-014",
+        "tema": "Palabras cortas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un antónimo de \"alegre\" es...",
+        "opciones": [
+          "Feliz",
+          "Contento",
+          "Triste",
+          "Animado"
+        ],
+        "respuestaCorrecta": "Triste",
+        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
+        "visual": "😊",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-015",
+        "tema": "Oraciones simples",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras con significados similares son ___",
+        "respuestaCorrecta": "sinónimos",
+        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
+        "visual": "📝",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-x-016",
+        "tema": "Las vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+      }
+    ],
+    "preview": [
+      {
+        "id": "preescolar-2-espanol-b3-001",
+        "tema": "Consonantes M P S",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es una vocal?",
+        "opciones": [
+          "B",
+          "M",
+          "A",
+          "T"
+        ],
+        "respuestaCorrecta": "A",
+        "explicacion": "Las vocales son: A, E, I, O, U. La A es vocal.",
+        "visual": "🔤",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-002",
+        "tema": "Sílabas simples",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "MAMÁ empieza con la letra ___",
+        "respuestaCorrecta": "M",
+        "explicacion": "M-A-M-Á. La primera letra es la M.",
+        "visual": "🔤",
+        "visualAnimado": true
+      },
+      {
+        "id": "preescolar-2-espanol-b3-004",
+        "tema": "Oraciones simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas vocales hay en \"CASA\"?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "2",
+        "explicacion": "C-A-S-A. Las vocales son: A y A. Hay 2 vocales.",
+        "visual": "🏠",
+        "visualAnimado": true
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:46:14.129Z",
+  "version": "2.0"
+}

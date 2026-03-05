@@ -1,0 +1,193 @@
+{
+  "grado": "primaria-4",
+  "materia": "ingles",
+  "bloque": 1,
+  "nombre": "Daily routines",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Verb to be",
+    "Daily actions"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p4en-b1-01",
+        "tema": "Verb To Be",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I am happy\" means:",
+        "opciones": [
+          "Yo estoy feliz",
+          "Yo tengo feliz",
+          "Él es feliz",
+          "Ella está feliz"
+        ],
+        "respuestaCorrecta": "Yo estoy feliz",
+        "explicacion": "I am = yo soy / yo estoy. Happy = feliz."
+      },
+      {
+        "id": "p4en-b1-02",
+        "tema": "Rutinas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I wake up\" means:",
+        "opciones": [
+          "Me despierto",
+          "Me duermo",
+          "Como",
+          "Corro"
+        ],
+        "respuestaCorrecta": "Me despierto",
+        "explicacion": "Wake up = despertar(se). I wake up at 7 am."
+      },
+      {
+        "id": "p4en-b1-03",
+        "tema": "Verb To Be",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"He are tall\" is correct English",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Lo correcto es \"He IS tall\". Con he/she/it usamos is."
+      },
+      {
+        "id": "p4en-b1-04",
+        "tema": "Rutinas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I brush my teeth\" means:",
+        "opciones": [
+          "Me cepillo los dientes",
+          "Me peino",
+          "Me baño",
+          "Como"
+        ],
+        "respuestaCorrecta": "Me cepillo los dientes",
+        "explicacion": "Brush teeth = cepillarse los dientes."
+      },
+      {
+        "id": "p4en-b1-05",
+        "tema": "Verb To Have",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I have a dog\" means:",
+        "opciones": [
+          "Yo tengo un perro",
+          "Yo soy un perro",
+          "Yo quiero un perro",
+          "Yo veo un perro"
+        ],
+        "respuestaCorrecta": "Yo tengo un perro",
+        "explicacion": "Have = tener. I have = yo tengo."
+      },
+      {
+        "id": "p4en-b1-06",
+        "tema": "Rutinas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Go to school\" means ir a la escuela",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Go = ir. School = escuela. Go to school = ir a la escuela."
+      },
+      {
+        "id": "p4en-b1-07",
+        "tema": "Tiempo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"In the morning\" means:",
+        "opciones": [
+          "En la mañana",
+          "En la tarde",
+          "En la noche",
+          "Al mediodía"
+        ],
+        "respuestaCorrecta": "En la mañana",
+        "explicacion": "Morning = mañana (parte del día)."
+      },
+      {
+        "id": "p4en-b1-08",
+        "tema": "Rutinas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I eat breakfast\" means:",
+        "opciones": [
+          "Yo desayuno",
+          "Yo como",
+          "Yo ceno",
+          "Yo meriendo"
+        ],
+        "respuestaCorrecta": "Yo desayuno",
+        "explicacion": "Breakfast = desayuno. Lunch = comida. Dinner = cena."
+      },
+      {
+        "id": "p4en-b1-09",
+        "tema": "Verb To Be",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"They are students\" means:",
+        "opciones": [
+          "Ellos son estudiantes",
+          "Ella es estudiante",
+          "Yo soy estudiante",
+          "Tú eres estudiante"
+        ],
+        "respuestaCorrecta": "Ellos son estudiantes",
+        "explicacion": "They are = ellos/ellas son/están."
+      },
+      {
+        "id": "p4en-b1-10",
+        "tema": "Rutinas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"I go to bed\" means me voy a dormir",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Go to bed = irse a la cama = irse a dormir."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p4en-b1-01",
+        "tema": "Verb To Be",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I am happy\" means:",
+        "opciones": [
+          "Yo estoy feliz",
+          "Yo tengo feliz",
+          "Él es feliz",
+          "Ella está feliz"
+        ],
+        "respuestaCorrecta": "Yo estoy feliz",
+        "explicacion": "I am = yo soy / yo estoy. Happy = feliz."
+      },
+      {
+        "id": "p4en-b1-02",
+        "tema": "Rutinas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I wake up\" means:",
+        "opciones": [
+          "Me despierto",
+          "Me duermo",
+          "Como",
+          "Corro"
+        ],
+        "respuestaCorrecta": "Me despierto",
+        "explicacion": "Wake up = despertar(se). I wake up at 7 am."
+      }
+    ]
+  }
+}

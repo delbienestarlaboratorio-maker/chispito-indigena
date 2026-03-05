@@ -1,0 +1,196 @@
+{
+  "grado": "preescolar-1",
+  "materia": "educacion_fisica",
+  "bloque": 2,
+  "nombre": "Jugamos juntos",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Juegos de grupo",
+    "Reglas del juego"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "preescolar1ef-b2-01",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirven las reglas en un juego?",
+        "opciones": [
+          "Para que todos jueguen bien",
+          "Para castigar",
+          "Para ganar siempre",
+          "Para no jugar"
+        ],
+        "respuestaCorrecta": "Para que todos jueguen bien",
+        "explicacion": "Las reglas garantizan diversión justa para todos.",
+        "visual": "🎮"
+      },
+      {
+        "id": "preescolar1ef-b2-02",
+        "tema": "Convivencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Debemos respetar a los demás al jugar",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Respetar a los compañero hace que todos se diviertan."
+      },
+      {
+        "id": "preescolar1ef-b2-03",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En las \"traes\", ¿qué hace quien la lleva?",
+        "opciones": [
+          "Persigue a los demás",
+          "Se esconde",
+          "Se queda quieto",
+          "Canta"
+        ],
+        "respuestaCorrecta": "Persigue a los demás",
+        "explicacion": "Quien \"la lleva\" corre para tocar a otro jugador.",
+        "visual": "🏃"
+      },
+      {
+        "id": "preescolar1ef-b2-04",
+        "tema": "Convivencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un amigo se cae jugando, ¿qué hago?",
+        "opciones": [
+          "Lo ayudo",
+          "Lo ignoro",
+          "Me río",
+          "Sigo jugando"
+        ],
+        "respuestaCorrecta": "Lo ayudo",
+        "explicacion": "Ayudar a un amigo lastimado es lo correcto. Avisa a un adulto si es necesario.",
+        "visual": "🤝"
+      },
+      {
+        "id": "preescolar1ef-b2-05",
+        "tema": "Juego",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Solo los niños grandes pueden jugar",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Todos pueden jugar, adaptando las actividades a cada edad."
+      },
+      {
+        "id": "preescolar1ef-b2-06",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En \"Simón dice\", hacemos caso cuando:",
+        "opciones": [
+          "Simón lo ordena",
+          "Cualquier niño lo diga",
+          "Nadie lo diga",
+          "Solo si queremos"
+        ],
+        "respuestaCorrecta": "Simón lo ordena",
+        "explicacion": "Solo ejecutamos la acción si se dice \"Simón dice...\".",
+        "visual": "👑"
+      },
+      {
+        "id": "preescolar1ef-b2-07",
+        "tema": "Juego",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Jugar en equipo enseña a compartir",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "El juego en equipo fomenta cooperación y convivencia."
+      },
+      {
+        "id": "preescolar1ef-b2-08",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacemos al terminar el juego?",
+        "opciones": [
+          "Guardar materiales y agradecer",
+          "Tirar todo",
+          "Pelearnos",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Guardar materiales y agradecer",
+        "explicacion": "Al terminar guardamos todo y agradecemos a quienes jugaron.",
+        "visual": "🙏"
+      },
+      {
+        "id": "preescolar1ef-b2-09",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas manos usamos para atrapar una pelota grande?",
+        "opciones": [
+          "Dos",
+          "Una",
+          "Ninguna",
+          "Tres"
+        ],
+        "respuestaCorrecta": "Dos",
+        "explicacion": "Con las dos manos sujetamos mejor una pelota grande.",
+        "visual": "🏀"
+      },
+      {
+        "id": "preescolar1ef-b2-10",
+        "tema": "Convivencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Podemos pelear si perdemos un juego",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Perder forma parte del juego. Lo importante es disfrutar y aprender."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "preescolar1ef-b2-01",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirven las reglas en un juego?",
+        "opciones": [
+          "Para que todos jueguen bien",
+          "Para castigar",
+          "Para ganar siempre",
+          "Para no jugar"
+        ],
+        "respuestaCorrecta": "Para que todos jueguen bien",
+        "explicacion": "Las reglas garantizan diversión justa para todos.",
+        "visual": "🎮"
+      },
+      {
+        "id": "preescolar1ef-b2-02",
+        "tema": "Convivencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Debemos respetar a los demás al jugar",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Respetar a los compañero hace que todos se diviertan."
+      }
+    ]
+  }
+}

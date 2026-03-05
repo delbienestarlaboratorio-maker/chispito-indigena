@@ -1,0 +1,403 @@
+{
+  "grado": "primaria-3",
+  "materia": "civica",
+  "bloque": 3,
+  "nombre": "Justicia e igualdad",
+  "meses": "Octubre-Noviembre",
+  "temas": [
+    "Tratar a todos igual",
+    "No discriminación"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-3-formacion-b3-001",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la discriminación?",
+        "opciones": [
+          "Ayudar a todos por igual",
+          "Tratar mal a alguien por diferente",
+          "Respetar la diversidad",
+          "Votar en democracia"
+        ],
+        "respuestaCorrecta": "Tratar mal a alguien por diferente",
+        "explicacion": "La discriminación es dar trato desigual a alguien por su origen, color, género u opinión."
+      },
+      {
+        "id": "primaria-3-formacion-b3-002",
+        "tema": "Tratar a todos igual",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En México todos tenemos los mismos derechos sin importar nuestra raza o religión",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Constitución garantiza igualdad para todos los mexicanos."
+      },
+      {
+        "id": "primaria-3-formacion-b3-003",
+        "tema": "Tratar a todos igual",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El ___ es una forma de expresar nuestra preferencia en democracia",
+        "respuestaCorrecta": "voto",
+        "explicacion": "A través del voto elegimos a quienes nos gobiernan."
+      },
+      {
+        "id": "primaria-3-formacion-b3-004",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la mejor manera de resolver un conflicto?",
+        "opciones": [
+          "Con violencia",
+          "Huyendo",
+          "Con diálogo y acuerdo",
+          "Ignorando el problema"
+        ],
+        "respuestaCorrecta": "Con diálogo y acuerdo",
+        "explicacion": "El diálogo pacífico nos permite encontrar soluciones que beneficien a todos."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-008",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-009",
+        "tema": "No discriminación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-010",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-011",
+        "tema": "No discriminación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-012",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-013",
+        "tema": "No discriminación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-014",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-015",
+        "tema": "No discriminación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-016",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-017",
+        "tema": "No discriminación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-018",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El respeto significa...",
+        "opciones": [
+          "Ser obediente siempre",
+          "Reconocer y valorar a los demás",
+          "Callarse siempre",
+          "Hacer lo que uno quiere"
+        ],
+        "respuestaCorrecta": "Reconocer y valorar a los demás",
+        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-3-formacion-b3-005",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la discriminación?",
+        "opciones": [
+          "Ayudar a todos por igual",
+          "Tratar mal a alguien por diferente",
+          "Respetar la diversidad",
+          "Votar en democracia"
+        ],
+        "respuestaCorrecta": "Tratar mal a alguien por diferente",
+        "explicacion": "La discriminación es dar trato desigual a alguien por su origen, color, género u opinión."
+      },
+      {
+        "id": "primaria-3-formacion-b3-006",
+        "tema": "Tratar a todos igual",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En México todos tenemos los mismos derechos sin importar nuestra raza o religión",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Constitución garantiza igualdad para todos los mexicanos."
+      },
+      {
+        "id": "primaria-3-formacion-b3-007",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la mejor manera de resolver un conflicto?",
+        "opciones": [
+          "Con violencia",
+          "Huyendo",
+          "Con diálogo y acuerdo",
+          "Ignorando el problema"
+        ],
+        "respuestaCorrecta": "Con diálogo y acuerdo",
+        "explicacion": "El diálogo pacífico nos permite encontrar soluciones que beneficien a todos."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-008",
+        "tema": "Tratar a todos igual",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-009",
+        "tema": "No discriminación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-010",
+        "tema": "Tratar a todos igual",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-011",
+        "tema": "No discriminación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-012",
+        "tema": "Tratar a todos igual",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-013",
+        "tema": "No discriminación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-014",
+        "tema": "Tratar a todos igual",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-015",
+        "tema": "No discriminación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-016",
+        "tema": "Tratar a todos igual",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
+        "respuestaCorrecta": "resolver",
+        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
+      },
+      {
+        "id": "primaria-3-civica-b3-x-017",
+        "tema": "No discriminación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al reciclar?",
+        "opciones": [
+          "Contaminar más",
+          "Reutilizar materiales y reducir basura",
+          "Gastar más dinero",
+          "Usar más energía"
+        ],
+        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
+        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-3-formacion-b3-001",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la discriminación?",
+        "opciones": [
+          "Ayudar a todos por igual",
+          "Tratar mal a alguien por diferente",
+          "Respetar la diversidad",
+          "Votar en democracia"
+        ],
+        "respuestaCorrecta": "Tratar mal a alguien por diferente",
+        "explicacion": "La discriminación es dar trato desigual a alguien por su origen, color, género u opinión."
+      },
+      {
+        "id": "primaria-3-formacion-b3-002",
+        "tema": "Tratar a todos igual",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En México todos tenemos los mismos derechos sin importar nuestra raza o religión",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Constitución garantiza igualdad para todos los mexicanos."
+      },
+      {
+        "id": "primaria-3-formacion-b3-005",
+        "tema": "Tratar a todos igual",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la discriminación?",
+        "opciones": [
+          "Ayudar a todos por igual",
+          "Tratar mal a alguien por diferente",
+          "Respetar la diversidad",
+          "Votar en democracia"
+        ],
+        "respuestaCorrecta": "Tratar mal a alguien por diferente",
+        "explicacion": "La discriminación es dar trato desigual a alguien por su origen, color, género u opinión."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:18:13.204Z",
+  "version": "2.0"
+}

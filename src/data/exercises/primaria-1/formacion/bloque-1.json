@@ -1,0 +1,129 @@
+{
+  "grado": "primaria-1",
+  "materia": "formacion",
+  "bloque": 1,
+  "nombre": "Yo soy especial",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Mi identidad",
+    "Mis características",
+    "Me cuido y me quiero"
+  ],
+  "totalEjercicios": 5,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1fc-b1-01",
+        "tema": "Mi identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la identidad?",
+        "opciones": [
+          "Lo que nos hace únicos",
+          "Un juego",
+          "Una materia",
+          "Un color"
+        ],
+        "respuestaCorrecta": "Lo que nos hace únicos",
+        "explicacion": "Tu identidad es todo lo que te hace ser TÚ: tu nombre, tu familia, tu forma de ser.",
+        "visual": "🪞"
+      },
+      {
+        "id": "p1fc-b1-02",
+        "tema": "Mi identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es una forma de cuidarte?",
+        "opciones": [
+          "Lavarse las manos",
+          "No dormir",
+          "Comer solo dulces",
+          "No bañarse"
+        ],
+        "respuestaCorrecta": "Lavarse las manos",
+        "explicacion": "Lavarse las manos nos protege de enfermedades. ¡Es muy importante!",
+        "visual": "🙌"
+      },
+      {
+        "id": "p1fc-b1-03",
+        "tema": "Mi identidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Todos los niños son iguales",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Falso",
+        "explicacion": "Cada persona es única y especial. Todos somos diferentes y eso es maravilloso."
+      },
+      {
+        "id": "p1fc-b1-04",
+        "tema": "Mis características",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hace a cada persona especial?",
+        "opciones": [
+          "Sus características físicas y su personalidad",
+          "Solo su ropa",
+          "Su mochila",
+          "Su color favorito"
+        ],
+        "respuestaCorrecta": "Sus características físicas y su personalidad",
+        "explicacion": "Cada persona tiene rasgos únicos: su cara, su voz, sus gustos, sus talentos.",
+        "visual": "⭐"
+      },
+      {
+        "id": "p1fc-b1-05",
+        "tema": "Me cuido y me quiero",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el autocuidado?",
+        "opciones": [
+          "Cuidar de uno mismo",
+          "Cuidar solo a los demás",
+          "Romper cosas",
+          "Dormir todo el día"
+        ],
+        "respuestaCorrecta": "Cuidar de uno mismo",
+        "explicacion": "El autocuidado incluye: comer bien, descansar, limpiar tu cuerpo y cuidar tus emociones.",
+        "visual": "❤️"
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p1fc-b1-01",
+        "tema": "Mi identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la identidad?",
+        "opciones": [
+          "Lo que nos hace únicos",
+          "Un juego",
+          "Una materia",
+          "Un color"
+        ],
+        "respuestaCorrecta": "Lo que nos hace únicos",
+        "explicacion": "Tu identidad es todo lo que te hace ser TÚ: tu nombre, tu familia, tu forma de ser.",
+        "visual": "🪞"
+      },
+      {
+        "id": "p1fc-b1-02",
+        "tema": "Mi identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es una forma de cuidarte?",
+        "opciones": [
+          "Lavarse las manos",
+          "No dormir",
+          "Comer solo dulces",
+          "No bañarse"
+        ],
+        "respuestaCorrecta": "Lavarse las manos",
+        "explicacion": "Lavarse las manos nos protege de enfermedades. ¡Es muy importante!",
+        "visual": "🙌"
+      }
+    ]
+  }
+}

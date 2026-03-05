@@ -1,0 +1,447 @@
+{
+  "grado": "primaria-5",
+  "materia": "ciencias",
+  "bloque": 3,
+  "nombre": "Física básica",
+  "meses": "Octubre-Noviembre",
+  "temas": [
+    "Movimiento y velocidad",
+    "Fuerzas y fricción"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-5-ciencias-b3-001",
+        "tema": "Movimiento y velocidad",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia el tema \"Movimiento y velocidad\"?",
+        "opciones": [
+          "Fenómenos naturales",
+          "Historia humana",
+          "Matemáticas avanzadas",
+          "Arte"
+        ],
+        "explicacion": "Movimiento y velocidad es parte de las ciencias naturales que explican el mundo que nos rodea.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Fenómenos naturales",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-002",
+        "tema": "Movimiento y velocidad",
+        "tipo": "true_false",
+        "pregunta": "Movimiento y velocidad es importante para entender el mundo natural",
+        "explicacion": "Las ciencias nos ayudan a comprender y explicar fenómenos como Movimiento y velocidad.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-003",
+        "tema": "Movimiento y velocidad",
+        "tipo": "fill_blank",
+        "pregunta": "El método ___ es la base de las ciencias",
+        "explicacion": "El método científico: observar, hipótesis, experimento, conclusión.",
+        "nivel": "v1",
+        "respuestaCorrecta": "científico",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-extra-007",
+        "tema": "Movimiento y velocidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": [
+          "Venus",
+          "Mercurio",
+          "Marte",
+          "Tierra"
+        ],
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio es el planeta más cercano al Sol, a 57.9 millones de kilómetros.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-extra-009",
+        "tema": "Movimiento y velocidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mamíferos son de sangre fría",
+        "respuestaCorrecta": "false",
+        "explicacion": "Los mamíferos somos de sangre caliente (homeotérmicos). Los reptiles sí son de sangre fría.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-extra-011",
+        "tema": "Movimiento y velocidad",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis convierte luz solar en ___",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Las plantas usan la luz del sol, CO₂ y agua para fabricar glucosa (azúcar) que les da energía.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-extra-013",
+        "tema": "Movimiento y velocidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Luna produce su propia luz",
+        "respuestaCorrecta": "false",
+        "explicacion": "La Luna refleja la luz del Sol. No tiene luz propia.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-014",
+        "tema": "Movimiento y velocidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-015",
+        "tema": "Fuerzas y fricción",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo.",
+        "datoClave": "Proporción: dos razones iguales. Si a/b = c/d, son proporcionales.",
+        "formula": "a/b = c/d → a×d = b×c"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-016",
+        "tema": "Movimiento y velocidad",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor).",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-017",
+        "tema": "Fuerzas y fricción",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra.",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-018",
+        "tema": "Movimiento y velocidad",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-019",
+        "tema": "Fuerzas y fricción",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica.",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-020",
+        "tema": "Movimiento y velocidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-021",
+        "tema": "Fuerzas y fricción",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan.",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-5-ciencias-b3-004",
+        "tema": "Fuerzas y fricción",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia el tema \"Movimiento y velocidad\"?",
+        "opciones": [
+          "Fenómenos naturales",
+          "Historia humana",
+          "Matemáticas avanzadas",
+          "Arte"
+        ],
+        "explicacion": "Movimiento y velocidad es parte de las ciencias naturales que explican el mundo que nos rodea.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Fenómenos naturales",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-005",
+        "tema": "Fuerzas y fricción",
+        "tipo": "true_false",
+        "pregunta": "Movimiento y velocidad es importante para entender el mundo natural",
+        "explicacion": "Las ciencias nos ayudan a comprender y explicar fenómenos como Movimiento y velocidad.",
+        "nivel": "v2",
+        "respuestaCorrecta": "true",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-006",
+        "tema": "Fuerzas y fricción",
+        "tipo": "fill_blank",
+        "pregunta": "El método ___ es la base de las ciencias",
+        "explicacion": "El método científico: observar, hipótesis, experimento, conclusión.",
+        "nivel": "v2",
+        "respuestaCorrecta": "científico",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-extra-008",
+        "tema": "Fuerzas y fricción",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El oxígeno tiene símbolo químico ___",
+        "respuestaCorrecta": "O",
+        "explicacion": "O es el símbolo del oxígeno en la tabla periódica. Con este respiramos.",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-extra-010",
+        "tema": "Fuerzas y fricción",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué orgánulo produce energía en la célula?",
+        "opciones": [
+          "Núcleo",
+          "Ribosoma",
+          "Mitocondria",
+          "Vacuola"
+        ],
+        "respuestaCorrecta": "Mitocondria",
+        "explicacion": "Las mitocondrias son \"las plantas de energía\" de la célula. Producen ATP.",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-extra-012",
+        "tema": "Fuerzas y fricción",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El agua hierve a...",
+        "opciones": [
+          "0°C",
+          "50°C",
+          "100°C",
+          "150°C"
+        ],
+        "respuestaCorrecta": "100°C",
+        "explicacion": "A 100°C (a nivel del mar) el agua pasa de líquido a gas (vapor).",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-014",
+        "tema": "Movimiento y velocidad",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-015",
+        "tema": "Fuerzas y fricción",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica.",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-016",
+        "tema": "Movimiento y velocidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-017",
+        "tema": "Fuerzas y fricción",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan.",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-018",
+        "tema": "Movimiento y velocidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo.",
+        "datoClave": "Proporción: dos razones iguales. Si a/b = c/d, son proporcionales.",
+        "formula": "a/b = c/d → a×d = b×c"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-019",
+        "tema": "Fuerzas y fricción",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor).",
+        "datoClave": "La Fuerza (Newton) = masa × aceleración. Ley de Newton.",
+        "formula": "F = m × a"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-x-020",
+        "tema": "Movimiento y velocidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra.",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-5-ciencias-b3-001",
+        "tema": "Movimiento y velocidad",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia el tema \"Movimiento y velocidad\"?",
+        "opciones": [
+          "Fenómenos naturales",
+          "Historia humana",
+          "Matemáticas avanzadas",
+          "Arte"
+        ],
+        "explicacion": "Movimiento y velocidad es parte de las ciencias naturales que explican el mundo que nos rodea.",
+        "nivel": "v1",
+        "respuestaCorrecta": "Fenómenos naturales",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-002",
+        "tema": "Movimiento y velocidad",
+        "tipo": "true_false",
+        "pregunta": "Movimiento y velocidad es importante para entender el mundo natural",
+        "explicacion": "Las ciencias nos ayudan a comprender y explicar fenómenos como Movimiento y velocidad.",
+        "nivel": "v1",
+        "respuestaCorrecta": "true",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      },
+      {
+        "id": "primaria-5-ciencias-b3-004",
+        "tema": "Fuerzas y fricción",
+        "tipo": "multiple_choice",
+        "pregunta": "¿Qué estudia el tema \"Movimiento y velocidad\"?",
+        "opciones": [
+          "Fenómenos naturales",
+          "Historia humana",
+          "Matemáticas avanzadas",
+          "Arte"
+        ],
+        "explicacion": "Movimiento y velocidad es parte de las ciencias naturales que explican el mundo que nos rodea.",
+        "nivel": "v2",
+        "respuestaCorrecta": "Fenómenos naturales",
+        "datoClave": "Velocidad: relación entre distancia recorrida y tiempo empleado. Unidad: m/s o km/h.",
+        "formula": "v = d / t"
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:06:30.437Z",
+  "version": "2.0"
+}

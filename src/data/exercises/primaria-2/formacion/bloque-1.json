@@ -1,0 +1,94 @@
+{
+  "grado": "primaria-2",
+  "materia": "formacion",
+  "bloque": 1,
+  "nombre": "Conozco mis emociones",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Gestión emocional",
+    "Empatía",
+    "Comunicación asertiva"
+  ],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2fc-b1-01",
+        "tema": "Empatía",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la empatía?",
+        "opciones": [
+          "Entender cómo se siente el otro",
+          "Ignorar a los demás",
+          "Competir siempre",
+          "Ganar siempre"
+        ],
+        "respuestaCorrecta": "Entender cómo se siente el otro",
+        "explicacion": "La empatía nos permite ponernos en el lugar de otros y comprenderlos mejor.",
+        "visual": "🤝"
+      },
+      {
+        "id": "p2fc-b1-02",
+        "tema": "Gestión emocional",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Respirar profundo ayuda a calmarse cuando estamos enojados",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La respiración es una técnica efectiva para regular emociones intensas."
+      },
+      {
+        "id": "p2fc-b1-03",
+        "tema": "Comunicación asertiva",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Comunicación asertiva significa:",
+        "opciones": [
+          "Hablar con respeto y claridad",
+          "Gritar siempre",
+          "Callar todo",
+          "Mentir"
+        ],
+        "respuestaCorrecta": "Hablar con respeto y claridad",
+        "explicacion": "La comunicación asertiva expresa lo que pensamos y sentimos sin dañar a los demás.",
+        "visual": "💬"
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p2fc-b1-01",
+        "tema": "Empatía",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la empatía?",
+        "opciones": [
+          "Entender cómo se siente el otro",
+          "Ignorar a los demás",
+          "Competir siempre",
+          "Ganar siempre"
+        ],
+        "respuestaCorrecta": "Entender cómo se siente el otro",
+        "explicacion": "La empatía nos permite ponernos en el lugar de otros y comprenderlos mejor.",
+        "visual": "🤝"
+      },
+      {
+        "id": "p2fc-b1-02",
+        "tema": "Gestión emocional",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Respirar profundo ayuda a calmarse cuando estamos enojados",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La respiración es una técnica efectiva para regular emociones intensas."
+      }
+    ]
+  }
+}

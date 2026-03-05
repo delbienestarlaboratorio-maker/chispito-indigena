@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-3",
+  "materia": "educacion_fisica",
+  "bloque": 1,
+  "nombre": "Alto rendimiento y preparación física",
+  "meses": "Ago-Sep",
+  "temas": [
+    "Planificación avanzada",
+    "Periodización"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3ef-b1-01",
+        "tema": "Periodización",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la periodización del entrenamiento?",
+        "opciones": [
+          "Organizar el entrenamiento en fases con objetivos específicos",
+          "Entrenar igual siempre",
+          "No planificar",
+          "Solo descansar"
+        ],
+        "respuestaCorrecta": "Organizar el entrenamiento en fases con objetivos específicos",
+        "explicacion": "La periodización tiene fases de preparación, competencia y transición."
+      },
+      {
+        "id": "s3ef-b1-02",
+        "tema": "Preparación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué zonas de frecuencia cardíaca existen?",
+        "opciones": [
+          "Baja, moderada, alta y máxima",
+          "Solo una zona",
+          "No hay zonas",
+          "Solo la máxima"
+        ],
+        "respuestaCorrecta": "Baja, moderada, alta y máxima",
+        "explicacion": "Cada zona de FC tiene diferentes beneficios: quema grasa, resistencia, potencia."
+      },
+      {
+        "id": "s3ef-b1-03",
+        "tema": "Rendimiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El sobreentrenamiento puede causar lesiones y bajo rendimiento",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Entrenar en exceso sin descanso lleva a fatiga crónica, lesiones y rendimiento decreciente."
+      },
+      {
+        "id": "s3ef-b1-04",
+        "tema": "Preparación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el VO₂ máx?",
+        "opciones": [
+          "El volumen máximo de oxígeno que el cuerpo puede usar durante el ejercicio",
+          "La velocidad máxima de carrera",
+          "El peso máximo que puedes levantar",
+          "La flexibilidad máxima"
+        ],
+        "respuestaCorrecta": "El volumen máximo de oxígeno que el cuerpo puede usar durante el ejercicio",
+        "explicacion": "El VO₂ máx es el indicador más importante de capacidad aeróbica."
+      },
+      {
+        "id": "s3ef-b1-05",
+        "tema": "Rendimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Por qué es importante el descanso en atletas?",
+        "opciones": [
+          "El cuerpo repara tejidos y consolida las adaptaciones del entrenamiento",
+          "No es importante en atletas",
+          "Solo para principiantes",
+          "El descanso es perder tiempo"
+        ],
+        "respuestaCorrecta": "El cuerpo repara tejidos y consolida las adaptaciones del entrenamiento",
+        "explicacion": "Sin descanso adecuado, el cuerpo no puede adaptarse y mejorar."
+      },
+      {
+        "id": "s3ef-b1-06",
+        "tema": "Preparación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La nutrición es tan importante como el entrenamiento para el rendimiento",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Sin nutrición adecuada, el cuerpo no tiene combustible ni materiales para mejorar."
+      },
+      {
+        "id": "s3ef-b1-07",
+        "tema": "Planificación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Un macrociclo en entrenamiento corresponde a:",
+        "opciones": [
+          "Una temporada completa (generalmente un año)",
+          "Una semana",
+          "Un día",
+          "Un ejercicio"
+        ],
+        "respuestaCorrecta": "Una temporada completa (generalmente un año)",
+        "explicacion": "Macrociclo > mesociclo (mes) > microciclo (semana) > sesión de entrenamiento."
+      },
+      {
+        "id": "s3ef-b1-08",
+        "tema": "Preparación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el entrenamiento cruzado (cross-training)?",
+        "opciones": [
+          "Combinar diferentes actividades deportivas para mejorar el rendimiento general",
+          "Solo un deporte",
+          "No entrenar",
+          "Solo correr"
+        ],
+        "respuestaCorrecta": "Combinar diferentes actividades deportivas para mejorar el rendimiento general",
+        "explicacion": "El cross-training previene lesiones y trabaja capacidades complementarias."
+      },
+      {
+        "id": "s3ef-b1-09",
+        "tema": "Rendimiento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La mentalidad y la motivación son factores clave en el rendimiento deportivo",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La psicología deportiva reconoce que la mente es tan importante como el cuerpo en el deporte."
+      },
+      {
+        "id": "s3ef-b1-10",
+        "tema": "Preparación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la supercompensación?",
+        "opciones": [
+          "El cuerpo se adapta por encima del nivel inicial tras descanso adecuado",
+          "Entrenar sin parar",
+          "No mejorar nunca",
+          "Solo perder peso"
+        ],
+        "respuestaCorrecta": "El cuerpo se adapta por encima del nivel inicial tras descanso adecuado",
+        "explicacion": "Estímulo + descanso = el cuerpo se recupera más fuerte. Es la base del progreso."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s3ef-b1-01",
+        "tema": "Periodización",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la periodización del entrenamiento?",
+        "opciones": [
+          "Organizar el entrenamiento en fases con objetivos específicos",
+          "Entrenar igual siempre",
+          "No planificar",
+          "Solo descansar"
+        ],
+        "respuestaCorrecta": "Organizar el entrenamiento en fases con objetivos específicos",
+        "explicacion": "La periodización tiene fases de preparación, competencia y transición."
+      },
+      {
+        "id": "s3ef-b1-02",
+        "tema": "Preparación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué zonas de frecuencia cardíaca existen?",
+        "opciones": [
+          "Baja, moderada, alta y máxima",
+          "Solo una zona",
+          "No hay zonas",
+          "Solo la máxima"
+        ],
+        "respuestaCorrecta": "Baja, moderada, alta y máxima",
+        "explicacion": "Cada zona de FC tiene diferentes beneficios: quema grasa, resistencia, potencia."
+      }
+    ]
+  }
+}

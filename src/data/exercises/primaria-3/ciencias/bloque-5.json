@@ -1,0 +1,391 @@
+{
+  "grado": "primaria-3",
+  "materia": "ciencias",
+  "bloque": 5,
+  "nombre": "Ser humano y medio ambiente",
+  "meses": "Abril-Junio",
+  "temas": [
+    "El ser humano y el medio ambiente"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "primaria-3-ciencias-b5-001",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Que gas es el principal causante del calentamiento global?",
+        "opciones": [
+          "Oxigeno",
+          "Nitrogeno",
+          "Dioxido de carbono CO2",
+          "Vapor de agua"
+        ],
+        "respuestaCorrecta": "Dioxido de carbono CO2",
+        "explicacion": "El CO2 emitido por autos y fabricas es el principal gas de efecto invernadero."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-extra-003",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": [
+          "Venus",
+          "Mercurio",
+          "Marte",
+          "Tierra"
+        ],
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio es el planeta más cercano al Sol, a 57.9 millones de kilómetros.",
+        "ejemplo": "Orden desde el Sol:\n☿ Mercurio → ♀ Venus → 🌍 Tierra → ♂ Marte → ♃ Júpiter → ♄ Saturno → ♅ Urano → ♆ Neptuno"
+      },
+      {
+        "id": "primaria-3-ciencias-b5-extra-005",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los mamíferos son de sangre fría",
+        "respuestaCorrecta": "false",
+        "explicacion": "Los mamíferos somos de sangre caliente (homeotérmicos). Los reptiles sí son de sangre fría."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-extra-007",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis convierte luz solar en ___",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Las plantas usan la luz del sol, CO₂ y agua para fabricar glucosa (azúcar) que les da energía.",
+        "ejemplo": "Fórmula simplificada:\n☀️ Luz + 💧 Agua + CO₂ → 🍬 Glucosa + O₂\nLas plantas usan el Sol para fabricar su comida."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-extra-009",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Luna produce su propia luz",
+        "respuestaCorrecta": "false",
+        "explicacion": "La Luna refleja la luz del Sol. No tiene luz propia."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-010",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-011",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-012",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-013",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-014",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂.",
+        "ejemplo": "Fórmula simplificada:\n☀️ Luz + 💧 Agua + CO₂ → 🍬 Glucosa + O₂\nLas plantas usan el Sol para fabricar su comida."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-015",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-016",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-017",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-018",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-019",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      }
+    ],
+    "v2": [
+      {
+        "id": "primaria-3-ciencias-b5-002",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El agujero en la capa de ozono es lo mismo que el calentamiento global.",
+        "respuestaCorrecta": "false",
+        "explicacion": "Son dos problemas distintos. El ozono protege de los rayos UV. El calentamiento global es por exceso de CO2."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-extra-004",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El oxígeno tiene símbolo químico ___",
+        "respuestaCorrecta": "O",
+        "explicacion": "O es el símbolo del oxígeno en la tabla periódica. Con este respiramos."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-extra-006",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué orgánulo produce energía en la célula?",
+        "opciones": [
+          "Núcleo",
+          "Ribosoma",
+          "Mitocondria",
+          "Vacuola"
+        ],
+        "respuestaCorrecta": "Mitocondria",
+        "explicacion": "Las mitocondrias son \"las plantas de energía\" de la célula. Producen ATP.",
+        "ejemplo": "La célula es la unidad básica de vida.\nAnimal 🐾: tiene membrana, citoplasma y núcleo.\nVegetal 🌱: además tiene pared celular y cloroplastos."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-extra-008",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El agua hierve a...",
+        "opciones": [
+          "0°C",
+          "50°C",
+          "100°C",
+          "150°C"
+        ],
+        "respuestaCorrecta": "100°C",
+        "explicacion": "A 100°C (a nivel del mar) el agua pasa de líquido a gas (vapor)."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-010",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂.",
+        "ejemplo": "Fórmula simplificada:\n☀️ Luz + 💧 Agua + CO₂ → 🍬 Glucosa + O₂\nLas plantas usan el Sol para fabricar su comida."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-011",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-012",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál gas es necesario para respirar?",
+        "opciones": [
+          "CO₂",
+          "N₂",
+          "O₂",
+          "H₂"
+        ],
+        "respuestaCorrecta": "O₂",
+        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-013",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "opciones": [
+          "106",
+          "206",
+          "306",
+          "406"
+        ],
+        "respuestaCorrecta": "206",
+        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-014",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El corazón bombea sangre a todo el cuerpo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-015",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El agua en estado gaseoso se llama ___",
+        "respuestaCorrecta": "vapor",
+        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-016",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
+        "respuestaCorrecta": "true",
+        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-017",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La fotosíntesis produce ___ y oxígeno",
+        "respuestaCorrecta": "glucosa",
+        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂.",
+        "ejemplo": "Fórmula simplificada:\n☀️ Luz + 💧 Agua + CO₂ → 🍬 Glucosa + O₂\nLas plantas usan el Sol para fabricar su comida."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-x-018",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de energía usa una planta solar?",
+        "opciones": [
+          "Eólica",
+          "Hidráulica",
+          "Solar",
+          "Nuclear"
+        ],
+        "respuestaCorrecta": "Solar",
+        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
+      }
+    ],
+    "preview": [
+      {
+        "id": "primaria-3-ciencias-b5-001",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Que gas es el principal causante del calentamiento global?",
+        "opciones": [
+          "Oxigeno",
+          "Nitrogeno",
+          "Dioxido de carbono CO2",
+          "Vapor de agua"
+        ],
+        "respuestaCorrecta": "Dioxido de carbono CO2",
+        "explicacion": "El CO2 emitido por autos y fabricas es el principal gas de efecto invernadero."
+      },
+      {
+        "id": "primaria-3-ciencias-b5-extra-003",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": [
+          "Venus",
+          "Mercurio",
+          "Marte",
+          "Tierra"
+        ],
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio es el planeta más cercano al Sol, a 57.9 millones de kilómetros.",
+        "ejemplo": "Orden desde el Sol:\n☿ Mercurio → ♀ Venus → 🌍 Tierra → ♂ Marte → ♃ Júpiter → ♄ Saturno → ♅ Urano → ♆ Neptuno"
+      },
+      {
+        "id": "primaria-3-ciencias-b5-002",
+        "tema": "El ser humano y el medio ambiente",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El agujero en la capa de ozono es lo mismo que el calentamiento global.",
+        "respuestaCorrecta": "false",
+        "explicacion": "Son dos problemas distintos. El ozono protege de los rayos UV. El calentamiento global es por exceso de CO2."
+      }
+    ]
+  },
+  "generado": "2026-02-27T04:04:54.115Z",
+  "version": "2.0"
+}

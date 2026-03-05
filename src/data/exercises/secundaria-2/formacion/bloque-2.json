@@ -1,0 +1,391 @@
+{
+  "grado": "secundaria-2",
+  "materia": "formacion",
+  "bloque": 2,
+  "nombre": "Legalidad y justicia",
+  "meses": "Septiembre-Octubre",
+  "temas": [
+    "La ley y su importancia",
+    "Derechos y obligaciones"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-2-formacion-b2-001",
+        "tema": "La ley y su importancia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"La ley y su importancia\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "La ley y su importancia es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-002",
+        "tema": "La ley y su importancia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La ley y su importancia es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-003",
+        "tema": "La ley y su importancia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En La ley y su importancia, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-extra-007",
+        "tema": "La ley y su importancia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son los derechos humanos?",
+        "opciones": [
+          "Privilegios para ricos",
+          "Derechos de solo los adultos",
+          "Derechos de todas las personas por igual",
+          "Reglas del gobierno"
+        ],
+        "respuestaCorrecta": "Derechos de todas las personas por igual",
+        "explicacion": "Los derechos humanos son universales: aplican a todas las personas sin importar origen, género o edad."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-extra-009",
+        "tema": "La ley y su importancia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En México el voto es secreto y universal",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Todos los ciudadanos mexicanos (+18 años) pueden votar en secreto."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-011",
+        "tema": "La ley y su importancia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el bullying?",
+        "opciones": [
+          "Un juego entre amigos",
+          "Acoso reiterado hacia alguien",
+          "Una forma de convivir",
+          "Una materia escolar"
+        ],
+        "respuestaCorrecta": "Acoso reiterado hacia alguien",
+        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-012",
+        "tema": "Derechos y obligaciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "respuestaCorrecta": "true",
+        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-013",
+        "tema": "La ley y su importancia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el bullying?",
+        "opciones": [
+          "Un juego entre amigos",
+          "Acoso reiterado hacia alguien",
+          "Una forma de convivir",
+          "Una materia escolar"
+        ],
+        "respuestaCorrecta": "Acoso reiterado hacia alguien",
+        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-014",
+        "tema": "Derechos y obligaciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "respuestaCorrecta": "true",
+        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-015",
+        "tema": "La ley y su importancia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el bullying?",
+        "opciones": [
+          "Un juego entre amigos",
+          "Acoso reiterado hacia alguien",
+          "Una forma de convivir",
+          "Una materia escolar"
+        ],
+        "respuestaCorrecta": "Acoso reiterado hacia alguien",
+        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-016",
+        "tema": "Derechos y obligaciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "respuestaCorrecta": "true",
+        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-017",
+        "tema": "La ley y su importancia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el bullying?",
+        "opciones": [
+          "Un juego entre amigos",
+          "Acoso reiterado hacia alguien",
+          "Una forma de convivir",
+          "Una materia escolar"
+        ],
+        "respuestaCorrecta": "Acoso reiterado hacia alguien",
+        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-018",
+        "tema": "Derechos y obligaciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "respuestaCorrecta": "true",
+        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-019",
+        "tema": "La ley y su importancia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el bullying?",
+        "opciones": [
+          "Un juego entre amigos",
+          "Acoso reiterado hacia alguien",
+          "Una forma de convivir",
+          "Una materia escolar"
+        ],
+        "respuestaCorrecta": "Acoso reiterado hacia alguien",
+        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-2-formacion-b2-004",
+        "tema": "Derechos y obligaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Derechos y obligaciones\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Derechos y obligaciones es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-005",
+        "tema": "Derechos y obligaciones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Derechos y obligaciones es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-006",
+        "tema": "Derechos y obligaciones",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En Derechos y obligaciones, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-extra-008",
+        "tema": "Derechos y obligaciones",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La democracia es el gobierno del ___, para el pueblo",
+        "respuestaCorrecta": "pueblo",
+        "explicacion": "Democracia viene del griego \"demos\" (pueblo) y \"kratos\" (poder). El pueblo gobierna."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-extra-010",
+        "tema": "Derechos y obligaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es una forma de participación ciudadana?",
+        "opciones": [
+          "No votar",
+          "Ignorar las leyes",
+          "Votar y participar en comunidad",
+          "Solo obedecer sin opinar"
+        ],
+        "respuestaCorrecta": "Votar y participar en comunidad",
+        "explicacion": "Ser ciudadano activo significa votar, participar en organizaciones y defender derechos."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-011",
+        "tema": "La ley y su importancia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
+        "respuestaCorrecta": "discriminación",
+        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-012",
+        "tema": "Derechos y obligaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "opciones": [
+          "Votar muchas veces",
+          "Que el voto tenga valor real",
+          "Voto forzado",
+          "No reelección"
+        ],
+        "respuestaCorrecta": "Que el voto tenga valor real",
+        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-013",
+        "tema": "La ley y su importancia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
+        "respuestaCorrecta": "discriminación",
+        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-014",
+        "tema": "Derechos y obligaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "opciones": [
+          "Votar muchas veces",
+          "Que el voto tenga valor real",
+          "Voto forzado",
+          "No reelección"
+        ],
+        "respuestaCorrecta": "Que el voto tenga valor real",
+        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-015",
+        "tema": "La ley y su importancia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
+        "respuestaCorrecta": "discriminación",
+        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-016",
+        "tema": "Derechos y obligaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "opciones": [
+          "Votar muchas veces",
+          "Que el voto tenga valor real",
+          "Voto forzado",
+          "No reelección"
+        ],
+        "respuestaCorrecta": "Que el voto tenga valor real",
+        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-017",
+        "tema": "La ley y su importancia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
+        "respuestaCorrecta": "discriminación",
+        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-018",
+        "tema": "Derechos y obligaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "opciones": [
+          "Votar muchas veces",
+          "Que el voto tenga valor real",
+          "Voto forzado",
+          "No reelección"
+        ],
+        "respuestaCorrecta": "Que el voto tenga valor real",
+        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-x-019",
+        "tema": "La ley y su importancia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
+        "respuestaCorrecta": "discriminación",
+        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-2-formacion-b2-001",
+        "tema": "La ley y su importancia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"La ley y su importancia\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "La ley y su importancia es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-002",
+        "tema": "La ley y su importancia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La ley y su importancia es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-2-formacion-b2-004",
+        "tema": "Derechos y obligaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Derechos y obligaciones\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Derechos y obligaciones es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:11:24.070Z",
+  "version": "2.0"
+}

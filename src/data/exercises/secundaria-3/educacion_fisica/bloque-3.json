@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-3",
+  "materia": "educacion_fisica",
+  "bloque": 3,
+  "nombre": "Primeros auxilios avanzados",
+  "meses": "Dic-Ene",
+  "temas": [
+    "RCP y DEA",
+    "Urgencias deportivas"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3ef-b3-01",
+        "tema": "RCP",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la secuencia correcta de RCP?",
+        "opciones": [
+          "CAB: Compresiones, Abrir vía aérea, dar Respiraciones (si se está entrenado)",
+          "ABC siempre",
+          "Solo respiraciones",
+          "Solo compresiones"
+        ],
+        "respuestaCorrecta": "CAB: Compresiones, Abrir vía aérea, dar Respiraciones (si se está entrenado)",
+        "explicacion": "La secuencia actual prioriza compresiones cardíacas inmediatas."
+      },
+      {
+        "id": "s3ef-b3-02",
+        "tema": "DEA",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un DEA?",
+        "opciones": [
+          "Desfibrilador Externo Automático: aparato que analiza y puede corregir el ritmo cardíaco",
+          "Un medicamento",
+          "Un vendaje especial",
+          "Un tipo de suero"
+        ],
+        "respuestaCorrecta": "Desfibrilador Externo Automático: aparato que analiza y puede corregir el ritmo cardíaco",
+        "explicacion": "Los DEA son fáciles de usar, dan instrucciones por voz y salvan vidas."
+      },
+      {
+        "id": "s3ef-b3-03",
+        "tema": "Urgencias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Ante asfixia por atragantamiento, la maniobra de Heimlich puede salvar vidas",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La maniobra de Heimlich expulsa el objeto que obstruye la vía aérea con compresiones abdominales."
+      },
+      {
+        "id": "s3ef-b3-04",
+        "tema": "Emergencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la cadena de supervivencia?",
+        "opciones": [
+          "Reconocer, llamar al 911, RCP, DEA, atención médica avanzada",
+          "Solo llamar al doctor",
+          "Solo esperar",
+          "No hacer nada"
+        ],
+        "respuestaCorrecta": "Reconocer, llamar al 911, RCP, DEA, atención médica avanzada",
+        "explicacion": "Cada eslabón es crucial: el tiempo es vida en una emergencia cardíaca."
+      },
+      {
+        "id": "s3ef-b3-05",
+        "tema": "Lesiones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo inmovilizamos una posible fractura?",
+        "opciones": [
+          "Con férula o tablilla, sin mover el hueso, y llamando a servicios médicos",
+          "Moviendo el hueso para acomodarlo",
+          "Solo con hielo",
+          "Solo ignorándola"
+        ],
+        "respuestaCorrecta": "Con férula o tablilla, sin mover el hueso, y llamando a servicios médicos",
+        "explicacion": "Inmovilizar previene daño adicional. Solo personal médico debe manipular fracturas."
+      },
+      {
+        "id": "s3ef-b3-06",
+        "tema": "RCP",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las compresiones torácicas deben tener una profundidad de al menos 5 cm en adultos",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Compresiones efectivas deben ser fuertes (5-6 cm), rápidas (100-120/min) y continuas."
+      },
+      {
+        "id": "s3ef-b3-07",
+        "tema": "Urgencias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacer ante una convulsión?",
+        "opciones": [
+          "Proteger a la persona de golpes, NO meter nada en la boca, ponerla de lado al terminar",
+          "Sujetarla fuerte",
+          "Meter algo en su boca",
+          "Echarle agua"
+        ],
+        "respuestaCorrecta": "Proteger a la persona de golpes, NO meter nada en la boca, ponerla de lado al terminar",
+        "explicacion": "El mito de meter algo en la boca es PELIGROSO. Solo proteger y esperar."
+      },
+      {
+        "id": "s3ef-b3-08",
+        "tema": "DEA",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo se usa un DEA?",
+        "opciones": [
+          "Cuando una persona está inconsciente y no respira normalmente",
+          "Solo en hospitales",
+          "Solo con entrenamiento especial",
+          "Nunca por civiles"
+        ],
+        "respuestaCorrecta": "Cuando una persona está inconsciente y no respira normalmente",
+        "explicacion": "Los DEA son seguros para uso público y dan instrucciones paso a paso."
+      },
+      {
+        "id": "s3ef-b3-09",
+        "tema": "Emergencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Saber primeros auxilios puede hacer la diferencia entre la vida y la muerte",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los primeros minutos son críticos. La atención inmediata salva vidas."
+      },
+      {
+        "id": "s3ef-b3-10",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la mejor prevención de emergencias deportivas?",
+        "opciones": [
+          "Calentamiento, equipo adecuado, hidratación y reglas de seguridad",
+          "No prevenir",
+          "Solo tener botiquín",
+          "Solo rezar"
+        ],
+        "respuestaCorrecta": "Calentamiento, equipo adecuado, hidratación y reglas de seguridad",
+        "explicacion": "La prevención sistemática reduce dramáticamente el riesgo de emergencias."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s3ef-b3-01",
+        "tema": "RCP",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la secuencia correcta de RCP?",
+        "opciones": [
+          "CAB: Compresiones, Abrir vía aérea, dar Respiraciones (si se está entrenado)",
+          "ABC siempre",
+          "Solo respiraciones",
+          "Solo compresiones"
+        ],
+        "respuestaCorrecta": "CAB: Compresiones, Abrir vía aérea, dar Respiraciones (si se está entrenado)",
+        "explicacion": "La secuencia actual prioriza compresiones cardíacas inmediatas."
+      },
+      {
+        "id": "s3ef-b3-02",
+        "tema": "DEA",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un DEA?",
+        "opciones": [
+          "Desfibrilador Externo Automático: aparato que analiza y puede corregir el ritmo cardíaco",
+          "Un medicamento",
+          "Un vendaje especial",
+          "Un tipo de suero"
+        ],
+        "respuestaCorrecta": "Desfibrilador Externo Automático: aparato que analiza y puede corregir el ritmo cardíaco",
+        "explicacion": "Los DEA son fáciles de usar, dan instrucciones por voz y salvan vidas."
+      }
+    ]
+  }
+}

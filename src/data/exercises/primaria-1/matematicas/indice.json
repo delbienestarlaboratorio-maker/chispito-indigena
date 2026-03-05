@@ -1,0 +1,36 @@
+{
+  "grado": "primaria-1",
+  "materia": "matematicas",
+  "bloques": [
+    {
+      "bloque": 1,
+      "nombre": "Numeros del 1 al 10",
+      "meses": "Agosto-Septiembre",
+      "url": "/primaria-1/matematicas/bloque-1"
+    },
+    {
+      "bloque": 2,
+      "nombre": "Sumas basicas hasta 10",
+      "meses": "Octubre-Noviembre",
+      "url": "/primaria-1/matematicas/bloque-2"
+    },
+    {
+      "bloque": 3,
+      "nombre": "Formas geometricas",
+      "meses": "Diciembre-Enero",
+      "url": "/primaria-1/matematicas/bloque-3"
+    },
+    {
+      "bloque": 4,
+      "nombre": "Restas simples",
+      "meses": "Febrero-Marzo",
+      "url": "/primaria-1/matematicas/bloque-4"
+    },
+    {
+      "bloque": 5,
+      "nombre": "Medicion y dinero",
+      "meses": "Abril-Junio",
+      "url": "/primaria-1/matematicas/bloque-5"
+    }
+  ]
+}

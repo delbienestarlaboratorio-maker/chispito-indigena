@@ -1,0 +1,385 @@
+{
+  "grado": "secundaria-3",
+  "materia": "geografia",
+  "bloque": 2,
+  "nombre": "Economía global",
+  "meses": "Septiembre-Octubre",
+  "temas": [
+    "G7 y G20",
+    "Países emergentes"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-3-geografia-b2-001",
+        "tema": "G7 y G20",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"G7 y G20\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "G7 y G20 es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-002",
+        "tema": "G7 y G20",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "G7 y G20 es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-003",
+        "tema": "G7 y G20",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En G7 y G20, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-extra-007",
+        "tema": "G7 y G20",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": [
+          "Mississipi",
+          "Nilo",
+          "Amazonas",
+          "Yangtsé"
+        ],
+        "respuestaCorrecta": "Nilo",
+        "explicacion": "El Nilo (6,650 km) compite con el Amazonas por ser el más largo. El Nilo está en África."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-extra-009",
+        "tema": "G7 y G20",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Brasil es el país más grande de América del Sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "Brasil ocupa el 47% del territorio de América del Sur."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-extra-011",
+        "tema": "G7 y G20",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La capital de Francia es ___",
+        "respuestaCorrecta": "París",
+        "explicacion": "París es la capital y ciudad más grande de Francia, conocida por la Torre Eiffel."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-013",
+        "tema": "G7 y G20",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "China",
+          "EUA",
+          "Rusia",
+          "Canadá"
+        ],
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-014",
+        "tema": "Países emergentes",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-015",
+        "tema": "G7 y G20",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "México limita al sur con ___ y ___",
+        "respuestaCorrecta": "Guatemala y Belice",
+        "explicacion": "Al sur de México están Guatemala y Belice, en América Central."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-016",
+        "tema": "Países emergentes",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
+        "respuestaCorrecta": "Estados Unidos",
+        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-017",
+        "tema": "G7 y G20",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La capital de Japón es ___",
+        "respuestaCorrecta": "Tokio",
+        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-018",
+        "tema": "Países emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": [
+          "Sahara",
+          "Atacama",
+          "Gobi",
+          "Antartico"
+        ],
+        "respuestaCorrecta": "Antartico",
+        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-019",
+        "tema": "G7 y G20",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué continente está Brasil?",
+        "opciones": [
+          "Norteamérica",
+          "Europa",
+          "África",
+          "Sudamérica"
+        ],
+        "respuestaCorrecta": "Sudamérica",
+        "explicacion": "Brasil es el país más grande de América del Sur."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-020",
+        "tema": "Países emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "China",
+          "EUA",
+          "Rusia",
+          "Canadá"
+        ],
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-3-geografia-b2-004",
+        "tema": "Países emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Países emergentes\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Países emergentes es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-005",
+        "tema": "Países emergentes",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Países emergentes es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-006",
+        "tema": "Países emergentes",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En Países emergentes, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-extra-008",
+        "tema": "Países emergentes",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El estado más grande de México es ___",
+        "respuestaCorrecta": "Chihuahua",
+        "explicacion": "Chihuahua es el estado más grande de México con 247,455 km²."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-extra-010",
+        "tema": "Países emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En qué continente está Egipto?",
+        "opciones": [
+          "Asia",
+          "Europa",
+          "África",
+          "América"
+        ],
+        "respuestaCorrecta": "África",
+        "explicacion": "Egipto está en el noreste de África, aunque el Canal de Suez lo conecta con Asia."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-extra-012",
+        "tema": "Países emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos estados tiene México?",
+        "opciones": [
+          "28",
+          "29",
+          "31",
+          "33"
+        ],
+        "respuestaCorrecta": "31",
+        "explicacion": "México tiene 31 estados y 1 entidad (Ciudad de México), total 32 entidades federativas."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-013",
+        "tema": "G7 y G20",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La capital de Japón es ___",
+        "respuestaCorrecta": "Tokio",
+        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-014",
+        "tema": "Países emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": [
+          "Sahara",
+          "Atacama",
+          "Gobi",
+          "Antartico"
+        ],
+        "respuestaCorrecta": "Antartico",
+        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-015",
+        "tema": "G7 y G20",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En qué continente está Brasil?",
+        "opciones": [
+          "Norteamérica",
+          "Europa",
+          "África",
+          "Sudamérica"
+        ],
+        "respuestaCorrecta": "Sudamérica",
+        "explicacion": "Brasil es el país más grande de América del Sur."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-016",
+        "tema": "Países emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "China",
+          "EUA",
+          "Rusia",
+          "Canadá"
+        ],
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-017",
+        "tema": "G7 y G20",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-018",
+        "tema": "Países emergentes",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "México limita al sur con ___ y ___",
+        "respuestaCorrecta": "Guatemala y Belice",
+        "explicacion": "Al sur de México están Guatemala y Belice, en América Central."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-019",
+        "tema": "G7 y G20",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
+        "respuestaCorrecta": "Estados Unidos",
+        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-x-020",
+        "tema": "Países emergentes",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La capital de Japón es ___",
+        "respuestaCorrecta": "Tokio",
+        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-3-geografia-b2-001",
+        "tema": "G7 y G20",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"G7 y G20\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "G7 y G20 es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-002",
+        "tema": "G7 y G20",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "G7 y G20 es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "secundaria-3-geografia-b2-004",
+        "tema": "Países emergentes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Países emergentes\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Países emergentes es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:11:24.101Z",
+  "version": "2.0"
+}

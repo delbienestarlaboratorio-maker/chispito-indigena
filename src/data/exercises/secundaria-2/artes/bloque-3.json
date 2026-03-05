@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-2",
+  "materia": "artes",
+  "bloque": 3,
+  "nombre": "Creación artística y creatividad",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Proceso creativo",
+    "Técnicas mixtas"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2art-b3-01",
+        "tema": "Proceso",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son las etapas del proceso creativo?",
+        "opciones": [
+          "Inspiración, planificación, creación y reflexión",
+          "Solo copiar",
+          "Solo improvisar",
+          "Solo dibujar"
+        ],
+        "respuestaCorrecta": "Inspiración, planificación, creación y reflexión",
+        "explicacion": "El proceso creativo va desde la idea hasta la obra terminada, con evaluación constante."
+      },
+      {
+        "id": "s2art-b3-02",
+        "tema": "Técnicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la técnica mixta en arte?",
+        "opciones": [
+          "Combinar diferentes materiales y técnicas en una sola obra",
+          "Usar solo lápiz",
+          "Usar solo pintura",
+          "No usar ningún material"
+        ],
+        "respuestaCorrecta": "Combinar diferentes materiales y técnicas en una sola obra",
+        "explicacion": "La técnica mixta permite collage, pintura, dibujo y objetos en una misma pieza."
+      },
+      {
+        "id": "s2art-b3-03",
+        "tema": "Creatividad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La creatividad se puede desarrollar con práctica",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La creatividad no es un don fijo; se entrena y mejora con práctica y exploración."
+      },
+      {
+        "id": "s2art-b3-04",
+        "tema": "Proceso",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un portafolio artístico?",
+        "opciones": [
+          "Colección organizada de las mejores obras de un artista",
+          "Un tipo de pintura",
+          "Un instrumento musical",
+          "Un escenario"
+        ],
+        "respuestaCorrecta": "Colección organizada de las mejores obras de un artista",
+        "explicacion": "El portafolio muestra la evolución y las habilidades del artista a lo largo del tiempo."
+      },
+      {
+        "id": "s2art-b3-05",
+        "tema": "Técnicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El collage consiste en:",
+        "opciones": [
+          "Pegar diferentes materiales sobre una superficie",
+          "Solo dibujar",
+          "Solo pintar",
+          "Solo esculpir"
+        ],
+        "respuestaCorrecta": "Pegar diferentes materiales sobre una superficie",
+        "explicacion": "El collage combina recortes, telas, papeles y objetos creando composiciones nuevas."
+      },
+      {
+        "id": "s2art-b3-06",
+        "tema": "Creatividad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cometer errores en el proceso artístico es parte normal de la creación",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los errores en arte pueden convertirse en descubrimientos y nuevas posibilidades."
+      },
+      {
+        "id": "s2art-b3-07",
+        "tema": "Grabado",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es el grabado?",
+        "opciones": [
+          "Técnica donde se talla una imagen en una superficie para imprimirla",
+          "Tomar fotografías",
+          "Hacer esculturas",
+          "Escribir poesía"
+        ],
+        "respuestaCorrecta": "Técnica donde se talla una imagen en una superficie para imprimirla",
+        "explicacion": "José Guadalupe Posada fue el gran grabador mexicano, creador de \"La Catrina\"."
+      },
+      {
+        "id": "s2art-b3-08",
+        "tema": "Proceso",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué artista mexicano creó \"La Catrina\"?",
+        "opciones": [
+          "José Guadalupe Posada",
+          "Diego Rivera",
+          "Frida Kahlo",
+          "Rufino Tamayo"
+        ],
+        "respuestaCorrecta": "José Guadalupe Posada",
+        "explicacion": "Posada creó la calavera garbancera, que Rivera bautizó como \"La Catrina\"."
+      },
+      {
+        "id": "s2art-b3-09",
+        "tema": "Técnicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La escultura es arte tridimensional",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La escultura ocupa espacio en tres dimensiones: alto, ancho y profundidad."
+      },
+      {
+        "id": "s2art-b3-10",
+        "tema": "Creatividad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la mejor fuente de inspiración artística?",
+        "opciones": [
+          "La observación del mundo, las emociones y la cultura propia",
+          "Solo copiar a otros",
+          "Solo usar internet",
+          "No hay inspiración"
+        ],
+        "respuestaCorrecta": "La observación del mundo, las emociones y la cultura propia",
+        "explicacion": "El arte más auténtico surge de la experiencia personal y la sensibilidad hacia el entorno."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s2art-b3-01",
+        "tema": "Proceso",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son las etapas del proceso creativo?",
+        "opciones": [
+          "Inspiración, planificación, creación y reflexión",
+          "Solo copiar",
+          "Solo improvisar",
+          "Solo dibujar"
+        ],
+        "respuestaCorrecta": "Inspiración, planificación, creación y reflexión",
+        "explicacion": "El proceso creativo va desde la idea hasta la obra terminada, con evaluación constante."
+      },
+      {
+        "id": "s2art-b3-02",
+        "tema": "Técnicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la técnica mixta en arte?",
+        "opciones": [
+          "Combinar diferentes materiales y técnicas en una sola obra",
+          "Usar solo lápiz",
+          "Usar solo pintura",
+          "No usar ningún material"
+        ],
+        "respuestaCorrecta": "Combinar diferentes materiales y técnicas en una sola obra",
+        "explicacion": "La técnica mixta permite collage, pintura, dibujo y objetos en una misma pieza."
+      }
+    ]
+  }
+}

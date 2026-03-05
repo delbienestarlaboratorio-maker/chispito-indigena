@@ -1,0 +1,193 @@
+{
+  "grado": "secundaria-2",
+  "materia": "educacion_fisica",
+  "bloque": 3,
+  "nombre": "Salud integral del adolescente",
+  "meses": "Dic-Ene",
+  "temas": [
+    "Cambios en la adolescencia",
+    "Bienestar emocional"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2ef-b3-01",
+        "tema": "Adolescencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué cambios físicos ocurren durante la pubertad?",
+        "opciones": [
+          "Crecimiento acelerado, desarrollo muscular y cambios hormonales",
+          "Ningún cambio",
+          "Solo cambios mentales",
+          "Solo cambios sociales"
+        ],
+        "respuestaCorrecta": "Crecimiento acelerado, desarrollo muscular y cambios hormonales",
+        "explicacion": "La pubertad trae cambios físicos significativos que afectan el rendimiento deportivo."
+      },
+      {
+        "id": "s2ef-b3-02",
+        "tema": "Bienestar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo ayuda el ejercicio a la salud mental del adolescente?",
+        "opciones": [
+          "Reduce estrés, ansiedad y mejora la autoestima",
+          "No ayuda en nada",
+          "Solo cansa más",
+          "Aumenta el estrés"
+        ],
+        "respuestaCorrecta": "Reduce estrés, ansiedad y mejora la autoestima",
+        "explicacion": "Las endorfinas liberadas durante el ejercicio mejoran el estado de ánimo y la confianza."
+      },
+      {
+        "id": "s2ef-b3-03",
+        "tema": "Adolescencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Es normal sentirse diferente y tener cambios de humor en la adolescencia",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Los cambios hormonales causan fluctuaciones emocionales. Es parte normal del desarrollo."
+      },
+      {
+        "id": "s2ef-b3-04",
+        "tema": "Sueño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas horas de sueño necesita un adolescente?",
+        "opciones": [
+          "8 a 10 horas",
+          "4 a 5 horas",
+          "Solo 3 horas",
+          "12 a 14 horas"
+        ],
+        "respuestaCorrecta": "8 a 10 horas",
+        "explicacion": "El sueño es fundamental para el crecimiento, la memoria y la recuperación muscular."
+      },
+      {
+        "id": "s2ef-b3-05",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Durante la adolescencia, ¿por qué es importante el calcio?",
+        "opciones": [
+          "Para el crecimiento y fortalecimiento de los huesos",
+          "Solo para los dientes",
+          "No es importante",
+          "Solo para adultos"
+        ],
+        "respuestaCorrecta": "Para el crecimiento y fortalecimiento de los huesos",
+        "explicacion": "La adolescencia es la etapa de mayor acumulación de masa ósea. El calcio es clave."
+      },
+      {
+        "id": "s2ef-b3-06",
+        "tema": "Bienestar",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Hablar sobre nuestras emociones con alguien de confianza es saludable",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Expresar emociones reduce la carga emocional y ayuda a encontrar soluciones."
+      },
+      {
+        "id": "s2ef-b3-07",
+        "tema": "Imagen",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es una actitud saludable hacia la imagen corporal?",
+        "opciones": [
+          "Aceptar nuestro cuerpo y cuidarlo con ejercicio y buena alimentación",
+          "Compararnos constantemente con modelos",
+          "Solo enfocarnos en el peso",
+          "Hacer dietas extremas"
+        ],
+        "respuestaCorrecta": "Aceptar nuestro cuerpo y cuidarlo con ejercicio y buena alimentación",
+        "explicacion": "La autoaceptación combinada con hábitos saludables es la base de una imagen corporal positiva."
+      },
+      {
+        "id": "s2ef-b3-08",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué sustancias dañan gravemente la salud del adolescente?",
+        "opciones": [
+          "Alcohol, tabaco y drogas",
+          "Solo las verduras",
+          "El agua",
+          "El ejercicio"
+        ],
+        "respuestaCorrecta": "Alcohol, tabaco y drogas",
+        "explicacion": "Estas sustancias dañan órganos en desarrollo y generan adicción."
+      },
+      {
+        "id": "s2ef-b3-09",
+        "tema": "Ejercicio",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El ejercicio regular mejora la calidad del sueño",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "La actividad física promueve un sueño más profundo y reparador."
+      },
+      {
+        "id": "s2ef-b3-10",
+        "tema": "Bienestar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los pilares del bienestar integral?",
+        "opciones": [
+          "Salud física, mental, emocional y social",
+          "Solo salud física",
+          "Solo buenas notas",
+          "Solo tener amigos"
+        ],
+        "respuestaCorrecta": "Salud física, mental, emocional y social",
+        "explicacion": "El bienestar integral abarca todas las dimensiones de la vida."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "s2ef-b3-01",
+        "tema": "Adolescencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué cambios físicos ocurren durante la pubertad?",
+        "opciones": [
+          "Crecimiento acelerado, desarrollo muscular y cambios hormonales",
+          "Ningún cambio",
+          "Solo cambios mentales",
+          "Solo cambios sociales"
+        ],
+        "respuestaCorrecta": "Crecimiento acelerado, desarrollo muscular y cambios hormonales",
+        "explicacion": "La pubertad trae cambios físicos significativos que afectan el rendimiento deportivo."
+      },
+      {
+        "id": "s2ef-b3-02",
+        "tema": "Bienestar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo ayuda el ejercicio a la salud mental del adolescente?",
+        "opciones": [
+          "Reduce estrés, ansiedad y mejora la autoestima",
+          "No ayuda en nada",
+          "Solo cansa más",
+          "Aumenta el estrés"
+        ],
+        "respuestaCorrecta": "Reduce estrés, ansiedad y mejora la autoestima",
+        "explicacion": "Las endorfinas liberadas durante el ejercicio mejoran el estado de ánimo y la confianza."
+      }
+    ]
+  }
+}

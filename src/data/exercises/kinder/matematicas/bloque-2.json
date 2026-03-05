@@ -1,0 +1,441 @@
+{
+  "grado": "kinder",
+  "materia": "matematicas",
+  "bloque": 2,
+  "nombre": "Figuras geométricas",
+  "meses": "Septiembre-Octubre",
+  "temas": [
+    "Círculo, cuadrado, triángulo",
+    "Colores y formas"
+  ],
+  "totalEjercicios": 28,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "kinder-matematicas-b2-001",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Círculo, cuadrado, triángulo\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Círculo, cuadrado, triángulo es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
+        "visual": "⭕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-002",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Círculo, cuadrado, triángulo es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
+        "visual": "⭕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-003",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En Círculo, cuadrado, triángulo, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia.",
+        "visual": "⭕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-extra-007",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas estrellas hay? ⭐⭐⭐⭐",
+        "opciones": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "Hay 4 estrellas. ¡Cuenta: 1, 2, 3, 4!",
+        "visual": "⭐⭐⭐⭐"
+      },
+      {
+        "id": "kinder-matematicas-b2-extra-009",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "2 + 2 = ___",
+        "respuestaCorrecta": "4",
+        "explicacion": "2 manzanas más 2 manzanas son 4 manzanas.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-extra-011",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "1, 2, 3, ___, 5",
+        "respuestaCorrecta": "4",
+        "explicacion": "La secuencia es 1,2,3,4,5. El 4 está entre el 3 y el 5."
+      },
+      {
+        "id": "kinder-matematicas-b2-x-013",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos 🌟 hay? 🌟🌟🌟🌟🌟",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "Hay 5 estrellas. Cuenta: 1,2,3,4,5.",
+        "visual": "🌟🌟🌟🌟🌟"
+      },
+      {
+        "id": "kinder-matematicas-b2-x-014",
+        "tema": "Colores y formas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "3 + 1 = ___",
+        "respuestaCorrecta": "4",
+        "explicacion": "3 objetos más 1 objeto son 4 objetos.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-x-015",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "4 es mayor que 2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Sí, 4 > 2. El 4 viene después del 2 en la recta de números.",
+        "visual": "📏",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-x-016",
+        "tema": "Colores y formas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué figura es redonda?",
+        "opciones": [
+          "Cuadrado",
+          "Triángulo",
+          "Círculo",
+          "Rectángulo"
+        ],
+        "respuestaCorrecta": "Círculo",
+        "explicacion": "El círculo es la figura perfectamente redonda, sin lados ni esquinas."
+      },
+      {
+        "id": "kinder-matematicas-b2-x-017",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué número viene ANTES del 8?",
+        "opciones": [
+          "6",
+          "7",
+          "9",
+          "10"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 viene antes del 8 en la secuencia de números.",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-x-018",
+        "tema": "Colores y formas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos lados tiene un triángulo?",
+        "opciones": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "El triángulo tiene 3 lados y 3 vértices.",
+        "visual": "🔺",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-x-019",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "2, 4, 6, 8, ___",
+        "respuestaCorrecta": "10",
+        "explicacion": "Contamos de 2 en 2. Después del 8 viene el 10."
+      },
+      {
+        "id": "kinder-matematicas-b2-x-020",
+        "tema": "Colores y formas",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos 🌟 hay? 🌟🌟🌟🌟🌟",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "Hay 5 estrellas. Cuenta: 1,2,3,4,5.",
+        "visual": "🌟🌟🌟🌟🌟"
+      }
+    ],
+    "v2": [
+      {
+        "id": "kinder-matematicas-b2-004",
+        "tema": "Colores y formas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Colores y formas\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Colores y formas es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      },
+      {
+        "id": "kinder-matematicas-b2-005",
+        "tema": "Colores y formas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Colores y formas es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+      },
+      {
+        "id": "kinder-matematicas-b2-006",
+        "tema": "Colores y formas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En Colores y formas, la práctica constante nos lleva al ___",
+        "respuestaCorrecta": "aprendizaje",
+        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+      },
+      {
+        "id": "kinder-matematicas-b2-extra-008",
+        "tema": "Colores y formas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué número es el más grande: 3, 7 o 5?",
+        "opciones": [
+          "3",
+          "5",
+          "7",
+          "son iguales"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "El 7 es el más grande. En la recta numérica, el que va más a la derecha es mayor.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-extra-010",
+        "tema": "Colores y formas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál figura tiene 4 lados iguales?",
+        "opciones": [
+          "Círculo",
+          "Triángulo",
+          "Cuadrado",
+          "Rectángulo"
+        ],
+        "respuestaCorrecta": "Cuadrado",
+        "explicacion": "El cuadrado tiene 4 lados iguales y 4 ángulos rectos."
+      },
+      {
+        "id": "kinder-matematicas-b2-extra-012",
+        "tema": "Colores y formas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "5 es mayor que 3",
+        "respuestaCorrecta": "true",
+        "explicacion": "Sí, 5 es mayor que 3. Podemos ver esto contando.",
+        "visual": "📏",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-x-013",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué número viene ANTES del 8?",
+        "opciones": [
+          "6",
+          "7",
+          "9",
+          "10"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 viene antes del 8 en la secuencia de números.",
+        "visual": "🔢",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-x-014",
+        "tema": "Colores y formas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos lados tiene un triángulo?",
+        "opciones": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "El triángulo tiene 3 lados y 3 vértices.",
+        "visual": "🔺",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-x-015",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "2, 4, 6, 8, ___",
+        "respuestaCorrecta": "10",
+        "explicacion": "Contamos de 2 en 2. Después del 8 viene el 10."
+      },
+      {
+        "id": "kinder-matematicas-b2-x-016",
+        "tema": "Colores y formas",
+        "tipo": "visual_count",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos 🌟 hay? 🌟🌟🌟🌟🌟",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "Hay 5 estrellas. Cuenta: 1,2,3,4,5.",
+        "visual": "🌟🌟🌟🌟🌟"
+      },
+      {
+        "id": "kinder-matematicas-b2-x-017",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "3 + 1 = ___",
+        "respuestaCorrecta": "4",
+        "explicacion": "3 objetos más 1 objeto son 4 objetos.",
+        "visual": "➕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-x-018",
+        "tema": "Colores y formas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "4 es mayor que 2",
+        "respuestaCorrecta": "true",
+        "explicacion": "Sí, 4 > 2. El 4 viene después del 2 en la recta de números.",
+        "visual": "📏",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-x-019",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué figura es redonda?",
+        "opciones": [
+          "Cuadrado",
+          "Triángulo",
+          "Círculo",
+          "Rectángulo"
+        ],
+        "respuestaCorrecta": "Círculo",
+        "explicacion": "El círculo es la figura perfectamente redonda, sin lados ni esquinas."
+      },
+      {
+        "id": "kinder-matematicas-b2-x-020",
+        "tema": "Colores y formas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué número viene ANTES del 8?",
+        "opciones": [
+          "6",
+          "7",
+          "9",
+          "10"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "7 viene antes del 8 en la secuencia de números.",
+        "visual": "🔢",
+        "visualAnimado": true
+      }
+    ],
+    "preview": [
+      {
+        "id": "kinder-matematicas-b2-001",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué estudia el tema \"Círculo, cuadrado, triángulo\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Círculo, cuadrado, triángulo es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
+        "visual": "⭕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-002",
+        "tema": "Círculo, cuadrado, triángulo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Círculo, cuadrado, triángulo es parte del currículo oficial de la SEP",
+        "respuestaCorrecta": "true",
+        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
+        "visual": "⭕",
+        "visualAnimado": true
+      },
+      {
+        "id": "kinder-matematicas-b2-004",
+        "tema": "Colores y formas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estudia el tema \"Colores y formas\"?",
+        "opciones": [
+          "El desarrollo humano",
+          "Conocimiento especializado",
+          "Historia básica",
+          "Arte y cultura"
+        ],
+        "respuestaCorrecta": "Conocimiento especializado",
+        "explicacion": "Colores y formas es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+      }
+    ]
+  },
+  "generado": "2026-02-27T16:11:23.982Z",
+  "version": "2.0"
+}

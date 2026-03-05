@@ -1,0 +1,195 @@
+{
+  "grado": "primaria-5",
+  "materia": "ingles",
+  "bloque": 2,
+  "nombre": "Daily life and time",
+  "meses": "Oct-Nov",
+  "temas": [
+    "Telling time",
+    "Frequency adverbs"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p5en-b2-01",
+        "tema": "Hora",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"What time is it?\" means:",
+        "opciones": [
+          "¿Qué hora es?",
+          "¿Qué día es?",
+          "¿Cómo estás?",
+          "¿Dónde estás?"
+        ],
+        "respuestaCorrecta": "¿Qué hora es?",
+        "explicacion": "What time is it? = ¿Qué hora es?"
+      },
+      {
+        "id": "p5en-b2-02",
+        "tema": "Hora",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"It's three o'clock\" means:",
+        "opciones": [
+          "Son las tres en punto",
+          "Son las trece",
+          "Son las treinta",
+          "Es de tres"
+        ],
+        "respuestaCorrecta": "Son las tres en punto",
+        "explicacion": "Three o'clock = las tres en punto."
+      },
+      {
+        "id": "p5en-b2-03",
+        "tema": "Frecuencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Always\" means siempre",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Always = siempre. Never = nunca. Sometimes = a veces."
+      },
+      {
+        "id": "p5en-b2-04",
+        "tema": "Frecuencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"I usually eat at 2 PM\" — usually means:",
+        "opciones": [
+          "Generalmente",
+          "Nunca",
+          "A veces",
+          "Siempre"
+        ],
+        "respuestaCorrecta": "Generalmente",
+        "explicacion": "Usually = generalmente, normalmente."
+      },
+      {
+        "id": "p5en-b2-05",
+        "tema": "Hora",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Half past seven\" means:",
+        "opciones": [
+          "Siete y media",
+          "Siete en punto",
+          "Siete y cuarto",
+          "Ocho menos cuarto"
+        ],
+        "respuestaCorrecta": "Siete y media",
+        "explicacion": "Half past = y media (30 minutos después de la hora)."
+      },
+      {
+        "id": "p5en-b2-06",
+        "tema": "Frecuencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Order from most to least: always, usually, sometimes, never",
+        "opciones": [
+          "Always > Usually > Sometimes > Never",
+          "Never > Sometimes > Always",
+          "Usually > Never > Always",
+          "Sometimes > Always > Never"
+        ],
+        "respuestaCorrecta": "Always > Usually > Sometimes > Never",
+        "explicacion": "Siempre > Generalmente > A veces > Nunca."
+      },
+      {
+        "id": "p5en-b2-07",
+        "tema": "Hora",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"Quarter past nine\" means nueve y cuarto",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "Verdadero",
+        "explicacion": "Quarter past = y cuarto (15 minutos después de la hora)."
+      },
+      {
+        "id": "p5en-b2-08",
+        "tema": "Días",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"Wednesday\" is the ___ day of the week",
+        "opciones": [
+          "Third",
+          "First",
+          "Fifth",
+          "Seventh"
+        ],
+        "respuestaCorrecta": "Third",
+        "explicacion": "Monday (1), Tuesday (2), Wednesday (3)..."
+      },
+      {
+        "id": "p5en-b2-09",
+        "tema": "Frecuencia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"She never eats meat\" means:",
+        "opciones": [
+          "Ella nunca come carne",
+          "Ella siempre come carne",
+          "Ella a veces come carne",
+          "Ella come mucha carne"
+        ],
+        "respuestaCorrecta": "Ella nunca come carne",
+        "explicacion": "Never = nunca."
+      },
+      {
+        "id": "p5en-b2-10",
+        "tema": "Meses",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"January\" is the ___ month",
+        "opciones": [
+          "First",
+          "Second",
+          "Last",
+          "Sixth"
+        ],
+        "respuestaCorrecta": "First",
+        "explicacion": "January = enero, el primer mes del año."
+      }
+    ],
+    "v2": [],
+    "preview": [
+      {
+        "id": "p5en-b2-01",
+        "tema": "Hora",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"What time is it?\" means:",
+        "opciones": [
+          "¿Qué hora es?",
+          "¿Qué día es?",
+          "¿Cómo estás?",
+          "¿Dónde estás?"
+        ],
+        "respuestaCorrecta": "¿Qué hora es?",
+        "explicacion": "What time is it? = ¿Qué hora es?"
+      },
+      {
+        "id": "p5en-b2-02",
+        "tema": "Hora",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "\"It's three o'clock\" means:",
+        "opciones": [
+          "Son las tres en punto",
+          "Son las trece",
+          "Son las treinta",
+          "Es de tres"
+        ],
+        "respuestaCorrecta": "Son las tres en punto",
+        "explicacion": "Three o'clock = las tres en punto."
+      }
+    ]
+  }
+}
