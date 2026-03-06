@@ -2,6 +2,8 @@
 // Crea un link de pago en Clip y devuelve la URL de redirección
 
 import { NextRequest, NextResponse } from "next/server";
+
+export const runtime = 'edge';
 import { crearCheckoutClip, PLANES, type PlanId } from "@/lib/clip";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://chispito.mx";

@@ -4,6 +4,8 @@
 // Verificamos consultando GET /v2/checkout/{id} y procesamos según el status.
 
 import { NextRequest, NextResponse } from "next/server";
+
+export const runtime = 'edge';
 import { consultarCheckoutClip, type ClipWebhookPayload } from "@/lib/clip";
 
 export async function POST(req: NextRequest) {

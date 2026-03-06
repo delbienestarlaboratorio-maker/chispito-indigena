@@ -2,6 +2,8 @@
 // Crea un link de pago de $10 MXN para desbloquear un módulo de cuadernillo
 
 import { NextRequest, NextResponse } from "next/server";
+
+export const runtime = 'edge';
 import { crearCheckoutClip, type CuadernilloCheckoutMeta } from "@/lib/clip";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://chispito.mx";
