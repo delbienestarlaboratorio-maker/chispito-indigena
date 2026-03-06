@@ -1,6 +1,6 @@
-export const runtime = "edge";
 import { notFound } from "next/navigation";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
+import { GRADOS_CONTENIDO } from "@/data/content-primaria";
 import type { Metadata } from "next";
 import Navbar from "@/components/Navbar";
 import ExercisePlayer from "@/components/ExercisePlayer";
@@ -37,6 +37,17 @@ async function cargarBloque(grado: string, materia: string, bloque: string): Pro
 }
 
 
+export async function generateStaticParams() {
+    const params: { grado: string; materia: string; bloque: string }[] = [];
+    for (const [grado, gradoData] of Object.entries(GRADOS_CONTENIDO)) {
+        for (const [materia, materiaData] of Object.entries(gradoData.materias)) {
+            for (let b = 1; b <= materiaData.bloques.length; b++) {
+                params.push({ grado, materia, bloque: `bloque-${b}` });
+            }
+        }
+    }
+    return params;
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const { grado, materia, bloque } = await params;
