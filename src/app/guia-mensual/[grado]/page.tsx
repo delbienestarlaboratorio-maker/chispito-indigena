@@ -1,3 +1,4 @@
+export const runtime = "edge";
 import { notFound } from "next/navigation";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
 import type { Metadata } from "next";

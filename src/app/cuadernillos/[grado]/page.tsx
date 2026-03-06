@@ -1,3 +1,4 @@
+export const runtime = "edge";
 import CuadernilloPDF from "@/components/CuadernilloPDF";
 import type { CuadernilloData, Ejercicio, ContenidoPedagogico } from "@/components/CuadernilloPDF";
 import { GRADOS, MATERIAS } from "@/data/curriculum";

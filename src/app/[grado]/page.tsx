@@ -1,4 +1,4 @@
-
+export const runtime = "edge";
 import { GRADOS, MATERIAS, BLOQUES } from "@/data/curriculum";
 import { GRADOS_CONTENIDO } from "@/data/content-primaria";
 import type { Metadata } from "next";
