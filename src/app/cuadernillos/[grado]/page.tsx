@@ -1,6 +1,3 @@
-export const dynamicParams = false;
-import fs from "fs";
-import path from "path";
 import CuadernilloPDF from "@/components/CuadernilloPDF";
 import type { CuadernilloData, Ejercicio, ContenidoPedagogico } from "@/components/CuadernilloPDF";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
@@ -68,30 +65,22 @@ const COLORES_NIVEL: Record<string, string> = {
     "Bachillerato": "#EF4444",
 };
 
-function cargarCuadernillos(gradoId: string): CuadernilloData[] {
-    const baseDir = path.join(process.cwd(), "src", "data", "exercises", gradoId);
-    if (!fs.existsSync(baseDir)) return [];
+async function cargarCuadernillos(gradoId: string): Promise<CuadernilloData[]> {
+    const gradoData = GRADOS.find(g => g.slug === gradoId);
+    if (!gradoData) return [];
 
     const gradoInfo = NOMBRES_GRADOS[gradoId];
     const gradoNombre = gradoInfo?.nombre ?? gradoId;
 
-    const materias = fs.readdirSync(baseDir).filter(f =>
-        fs.statSync(path.join(baseDir, f)).isDirectory()
-    );
-
     const cuadernillos: CuadernilloData[] = [];
 
-    materias.forEach(materia => {
-        const matDir = path.join(baseDir, materia);
-        const archivos = fs.readdirSync(matDir)
-            .filter(f => f.startsWith("bloque-") && f.endsWith(".json"))
-            .sort();
-
-        archivos.forEach(archivo => {
+    await Promise.all(gradoData.materias.map(async (materia) => {
+        for (let b = 1; b <= 6; b++) {
             try {
-                const raw = JSON.parse(fs.readFileSync(path.join(matDir, archivo), "utf-8"));
+                const module = await import(`@/data/exercises/${gradoId}/${materia}/bloque-${b}.json`);
+                const raw = module.default;
                 const materiaInfo = MATERIAS[materia as keyof typeof MATERIAS];
-                const bloqueNum = raw.bloque || parseInt(archivo.replace("bloque-", "").replace(".json", ""));
+                const bloqueNum = raw.bloque || b;
 
                 cuadernillos.push({
                     grado: gradoId,
@@ -108,15 +97,17 @@ function cargarCuadernillos(gradoId: string): CuadernilloData[] {
                     ejerciciosV2: (raw.ejercicios?.v2 || []) as Ejercicio[],
                     contenidoPedagogico: getBloqueContent(gradoId, materia, bloqueNum),
                 });
-            } catch { /* ignorar errores de lectura */ }
-        });
-    });
+            } catch {
+                // Ignore missing files
+            }
+        }
+    }));
 
-    return cuadernillos;
+    return cuadernillos.sort((a, b) => a.materia.localeCompare(b.materia) || a.bloqueNum - b.bloqueNum);
 }
 
 export async function generateStaticParams() {
-    return Object.keys(NOMBRES_GRADOS).map(grado => ({ grado }));
+    return [];
 }
 
 export default async function CuadernillosGradoPage({
@@ -128,7 +119,7 @@ export default async function CuadernillosGradoPage({
     const gradoInfo = NOMBRES_GRADOS[grado];
     if (!gradoInfo) notFound();
 
-    const cuadernillos = cargarCuadernillos(grado);
+    const cuadernillos = await cargarCuadernillos(grado);
     const porMateria: Record<string, CuadernilloData[]> = {};
     cuadernillos.forEach(c => {
         if (!porMateria[c.materia]) porMateria[c.materia] = [];

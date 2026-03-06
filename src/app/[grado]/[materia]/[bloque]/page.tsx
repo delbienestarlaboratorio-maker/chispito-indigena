@@ -1,4 +1,3 @@
-export const dynamicParams = false;
 import { notFound } from "next/navigation";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
 import type { Metadata } from "next";
@@ -12,8 +11,6 @@ import UniversoBanner from "@/components/UniversoBanner";
 import { AdBannerHorizontal } from "@/components/AdBanner";
 import Link from "next/link";
 import ComentariosSection from "@/components/ComentariosSection";
-import fs from "fs";
-import path from "path";
 
 const GRADOS_KINDER = ["kinder", "preescolar-1", "preescolar-2", "preescolar-3"];
 const GRADOS_PRIMARIA = ["primaria-1", "primaria-2", "primaria-3", "primaria-4", "primaria-5", "primaria-6"];
@@ -29,41 +26,22 @@ type BloqueData = {
     ejercicios: { v1: unknown[]; v2: unknown[]; preview: unknown[] };
 };
 
-function cargarBloque(grado: string, materia: string, bloque: string): BloqueData | null {
+async function cargarBloque(grado: string, materia: string, bloque: string): Promise<BloqueData | null> {
     try {
-        const archivo = path.join(
-            process.cwd(), "src", "data", "exercises", grado, materia, `${bloque}.json`
-        );
-        if (!fs.existsSync(archivo)) return null;
-        return JSON.parse(fs.readFileSync(archivo, "utf8"));
+        const data = await import(`@/data/exercises/${grado}/${materia}/${bloque}.json`);
+        return data.default as BloqueData;
     } catch {
         return null;
     }
 }
 
 export async function generateStaticParams() {
-    const params: { grado: string; materia: string; bloque: string }[] = [];
-    try {
-        const ejerciciosDir = path.join(process.cwd(), "src", "data", "exercises");
-        if (!fs.existsSync(ejerciciosDir)) return params;
-        const grados = fs.readdirSync(ejerciciosDir);
-        for (const grado of grados) {
-            const materias = fs.readdirSync(path.join(ejerciciosDir, grado));
-            for (const materia of materias) {
-                const dir = path.join(ejerciciosDir, grado, materia);
-                const archivos = fs.readdirSync(dir).filter((f) => f.endsWith(".json") && f !== "indice.json");
-                for (const archivo of archivos) {
-                    params.push({ grado, materia, bloque: archivo.replace(".json", "") });
-                }
-            }
-        }
-    } catch { /* */ }
-    return params;
+    return []; // Desactivamos el prerender exhaustivo para evitar timeout/OOM en Cloudflare Pages
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const { grado, materia, bloque } = await params;
-    const datos = cargarBloque(grado, materia, bloque);
+    const datos = await cargarBloque(grado, materia, bloque);
     const gradoInfo = GRADOS.find((g) => g.slug === grado);
     const materiaInfo = MATERIAS[materia];
     if (!datos || !gradoInfo || !materiaInfo) return {};
@@ -76,7 +54,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function BloquePage({ params }: Props) {
     const { grado, materia, bloque } = await params;
-    const datos = cargarBloque(grado, materia, bloque);
+    const datos = await cargarBloque(grado, materia, bloque);
     const gradoInfo = GRADOS.find((g) => g.slug === grado);
     const materiaInfo = MATERIAS[materia];
     if (!datos || !gradoInfo || !materiaInfo) notFound();

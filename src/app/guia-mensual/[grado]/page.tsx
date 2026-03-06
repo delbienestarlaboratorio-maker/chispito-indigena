@@ -1,10 +1,7 @@
-export const dynamicParams = false;
 import { notFound } from "next/navigation";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
 import type { Metadata } from "next";
 import Link from "next/link";
-import fs from "fs";
-import path from "path";
 
 // ─── Tipos ───────────────────────────────────────────
 interface BloqueData {
@@ -32,12 +29,10 @@ const MESES_CICLO = [
     { num: 6, nombre: "Junio", bloque: 5, fin: true },
 ];
 
-function cargarBloqueDatos(grado: string, materia: string, bloqueNum: number): BloqueData | null {
+async function cargarBloqueDatos(grado: string, materia: string, bloqueNum: number): Promise<BloqueData | null> {
     try {
-        const filePath = path.join(process.cwd(), "src/data/exercises", grado, materia, `bloque-${bloqueNum}.json`);
-        if (!fs.existsSync(filePath)) return null;
-        const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-        return { nombre: data.nombre, meses: data.meses, temas: data.temas || [] };
+        const data = await import(`@/data/exercises/${grado}/${materia}/bloque-${bloqueNum}.json`);
+        return { nombre: data.default.nombre, meses: data.default.meses, temas: data.default.temas || [] };
     } catch { return null; }
 }
 
@@ -57,7 +52,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export async function generateStaticParams() {
-    return GRADOS.map(g => ({ grado: g.slug }));
+    return [];
 }
 
 export default async function GuiaMensualPage({ params }: Props) {
@@ -68,15 +63,17 @@ export default async function GuiaMensualPage({ params }: Props) {
     const mesActual = getMesActual();
 
     // Cargar datos de todas las materias × todos los bloques
-    const materiasData = gradoInfo.materias.map(materiaId => {
+    const materiasDataRaw = await Promise.all(gradoInfo.materias.map(async (materiaId) => {
         const materiaInfo = MATERIAS[materiaId];
         if (!materiaInfo) return null;
-        const bloques: (BloqueData | null)[] = [];
+        const bloquesPromises = [];
         for (let b = 1; b <= 6; b++) {
-            bloques.push(cargarBloqueDatos(grado, materiaId, b));
+            bloquesPromises.push(cargarBloqueDatos(grado, materiaId, b));
         }
-        return { materiaInfo, bloques: bloques.filter(Boolean) as BloqueData[] };
-    }).filter(Boolean);
+        const bloquesCargados = await Promise.all(bloquesPromises);
+        return { materiaInfo, bloques: bloquesCargados.filter(Boolean) as BloqueData[] };
+    }));
+    const materiasData = materiasDataRaw.filter(Boolean);
 
     return (
         <main className="min-h-screen" style={{ background: "var(--navy, #0D1B2A)" }}>

@@ -1,45 +1,34 @@
-import fs from "fs";
-import path from "path";
 import CuadernilloPDF from "@/components/CuadernilloPDF";
-import type { CuadernilloData, Ejercicio } from "@/components/CuadernilloPDF";
+import type { CuadernilloData, Ejercicio, ContenidoPedagogico } from "@/components/CuadernilloPDF";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
 import { PRIMARIA_1 } from "@/data/content-primaria";
 import Link from "next/link";
 
 export const dynamic = "force-static";
 
-function cargarBloques(grado: string) {
-    const baseDir = path.join(process.cwd(), "src", "data", "exercises", grado);
-    if (!fs.existsSync(baseDir)) return [];
-
-    const materias = fs.readdirSync(baseDir).filter(f =>
-        fs.statSync(path.join(baseDir, f)).isDirectory()
-    );
+async function cargarBloques(grado: string): Promise<CuadernilloData[]> {
+    const gradoInfo = GRADOS.find(g => g.slug === grado);
+    if (!gradoInfo) return [];
 
     const cuadernillos: CuadernilloData[] = [];
-    const gradoInfo = GRADOS.find(g => g.id === grado);
     const gradoNombre = gradoInfo?.nombre ?? grado;
 
     // Contenido pedagógico real de content-primaria.ts
     const contenidoGrado = PRIMARIA_1;
 
-    materias.forEach(materia => {
-        const matDir = path.join(baseDir, materia);
-        const archivos = fs.readdirSync(matDir)
-            .filter(f => f.startsWith("bloque-") && f.endsWith(".json"))
-            .sort();
-
-        archivos.forEach(archivo => {
+    await Promise.all(gradoInfo.materias.map(async (materia) => {
+        for (let b = 1; b <= 6; b++) {
             try {
-                const raw = JSON.parse(fs.readFileSync(path.join(matDir, archivo), "utf-8"));
+                const md = await import(`@/data/exercises/${grado}/${materia}/bloque-${b}.json`);
+                const raw = md.default;
                 const materiaInfo = MATERIAS[materia as keyof typeof MATERIAS];
-                const bloqueNum = raw.bloque || parseInt(archivo.replace("bloque-", "").replace(".json", ""));
+                const bloqueNum = raw.bloque || b;
 
                 // Buscar contenido pedagógico real para esta materia y bloque
                 const materiaContent = contenidoGrado?.materias?.[materia];
-                const bloqueContent = materiaContent?.bloques?.find(b => b.bloque === bloqueNum);
+                const bloqueContent = materiaContent?.bloques?.find(bc => bc.bloque === bloqueNum);
 
-                const cuadernillo: CuadernilloData = {
+                cuadernillos.push({
                     grado,
                     gradoNombre,
                     materia,
@@ -62,22 +51,20 @@ function cargarBloques(grado: string) {
                         actividadCasa: bloqueContent.guiaPapa?.actividad_casa || "",
                         objetivo: bloqueContent.guiaMaestro?.objetivo || "",
                         competencia: bloqueContent.guiaMaestro?.competencia || "",
-                    } : undefined,
-                };
-
-                cuadernillos.push(cuadernillo);
-            } catch (e) {
-                console.error(`Error leyendo ${archivo}:`, e);
+                    } as ContenidoPedagogico : undefined,
+                });
+            } catch {
+                // Ignore missing file
             }
-        });
-    });
+        }
+    }));
 
-    return cuadernillos;
+    return cuadernillos.sort((a, b) => a.materia.localeCompare(b.materia) || a.bloqueNum - b.bloqueNum);
 }
 
-export default function CuadernillosPage() {
+export default async function CuadernillosPage() {
     const grado = "primaria-1";
-    const cuadernillos = cargarBloques(grado);
+    const cuadernillos = await cargarBloques(grado);
 
     const porMateria: Record<string, CuadernilloData[]> = {};
     cuadernillos.forEach(c => {
@@ -85,7 +72,7 @@ export default function CuadernillosPage() {
         porMateria[c.materia].push(c);
     });
 
-    const gradoInfo = GRADOS.find(g => g.id === grado);
+    const gradoInfo = GRADOS.find(g => g.slug === grado);
 
     return (
         <main className="min-h-screen" style={{ background: "#0D1B2A" }}>
