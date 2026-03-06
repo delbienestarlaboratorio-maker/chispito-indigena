@@ -35,6 +35,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://chispito.mx" },
   verification: {
     google: "doynfbnbqoNBGEnBRetDajKxSIUw2k6gsra2uZRgYTw",
+    other: { "google-adsense-account": "ca-pub-6867283748828267" },
   },
   icons: {
     icon: "/icon.svg",
@@ -52,7 +53,7 @@ export default function RootLayout({
         {/* Google AdSense */}
         <script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXXX"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6867283748828267"
           crossOrigin="anonymous"
         />
         {/* Schema markup: EducationalOrganization */}
