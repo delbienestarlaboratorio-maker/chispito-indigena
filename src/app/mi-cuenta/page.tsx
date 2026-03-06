@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import Navbar from "@/components/Navbar";
 import { createServerClient, type CookieOptions } from '@supabase/ssr'
 import { cookies } from 'next/headers'

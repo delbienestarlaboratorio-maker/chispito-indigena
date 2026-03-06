@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 import { GRADOS, MATERIAS, BLOQUES } from "@/data/curriculum";
 import { GRADOS_CONTENIDO } from "@/data/content-primaria";
 import type { Metadata } from "next";

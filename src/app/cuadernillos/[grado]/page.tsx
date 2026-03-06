@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 import fs from "fs";
 import path from "path";
 import CuadernilloPDF from "@/components/CuadernilloPDF";
