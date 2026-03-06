@@ -1,4 +1,3 @@
-export const runtime = "edge";
 import CuadernilloPDF from "@/components/CuadernilloPDF";
 import type { CuadernilloData, Ejercicio, ContenidoPedagogico } from "@/components/CuadernilloPDF";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
@@ -107,6 +106,9 @@ async function cargarCuadernillos(gradoId: string): Promise<CuadernilloData[]> {
 
 
 
+export async function generateStaticParams() {
+    return Object.keys(NOMBRES_GRADOS).map(grado => ({ grado }));
+}
 export default async function CuadernillosGradoPage({
     params,
 }: {

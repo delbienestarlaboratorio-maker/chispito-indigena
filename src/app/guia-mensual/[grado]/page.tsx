@@ -1,4 +1,3 @@
-export const runtime = "edge";
 import { notFound } from "next/navigation";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
 import type { Metadata } from "next";
@@ -54,6 +53,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 
 
+export async function generateStaticParams() {
+    return GRADOS.map(g => ({ grado: g.slug }));
+}
 export default async function GuiaMensualPage({ params }: Props) {
     const { grado } = await params;
     const gradoInfo = GRADOS.find(g => g.slug === grado);
