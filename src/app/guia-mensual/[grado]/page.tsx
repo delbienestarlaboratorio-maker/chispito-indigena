@@ -52,9 +52,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
 }
 
-export async function generateStaticParams() {
-    return [];
-}
+
 
 export default async function GuiaMensualPage({ params }: Props) {
     const { grado } = await params;

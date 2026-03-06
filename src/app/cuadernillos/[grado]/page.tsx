@@ -105,9 +105,7 @@ async function cargarCuadernillos(gradoId: string): Promise<CuadernilloData[]> {
     return cuadernillos.sort((a, b) => a.materia.localeCompare(b.materia) || a.bloqueNum - b.bloqueNum);
 }
 
-export async function generateStaticParams() {
-    return [];
-}
+
 
 export default async function CuadernillosGradoPage({
     params,

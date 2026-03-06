@@ -11,16 +11,7 @@ interface Props {
     params: Promise<{ grado: string; materia: string }>;
 }
 
-export async function generateStaticParams() {
-    const params: { grado: string; materia: string }[] = [];
-    // Desde GRADOS_CONTENIDO hardcodeado
-    for (const grado of Object.keys(GRADOS_CONTENIDO)) {
-        for (const materia of Object.keys(GRADOS_CONTENIDO[grado].materias)) {
-            params.push({ grado, materia });
-        }
-    }
-    return params;
-}
+
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const { grado, materia } = await params;

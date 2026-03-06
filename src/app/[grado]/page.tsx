@@ -12,9 +12,7 @@ interface Props {
     params: Promise<{ grado: string }>;
 }
 
-export async function generateStaticParams() {
-    return GRADOS.map((g) => ({ grado: g.slug }));
-}
+
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const { grado: gradoSlug } = await params;

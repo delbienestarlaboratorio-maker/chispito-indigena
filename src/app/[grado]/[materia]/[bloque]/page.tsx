@@ -36,9 +36,7 @@ async function cargarBloque(grado: string, materia: string, bloque: string): Pro
     }
 }
 
-export async function generateStaticParams() {
-    return []; // Desactivamos el prerender exhaustivo para evitar timeout/OOM en Cloudflare Pages
-}
+
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const { grado, materia, bloque } = await params;
