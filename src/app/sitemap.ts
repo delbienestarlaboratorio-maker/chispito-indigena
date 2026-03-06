@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { MetadataRoute } from 'next';
 import { GRADOS, MATERIAS } from '@/data/curriculum';
 import { GRADOS_CONTENIDO } from '@/data/content-primaria';
