@@ -8,8 +8,6 @@ import { KINDER } from "@/data/content-kinder";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
-export const dynamic = "force-static";
-
 // Map de contenido pedagógico disponible por grado
 const CONTENIDO_GRADO: Record<string, any> = {
     "primaria-1": PRIMARIA_1,
