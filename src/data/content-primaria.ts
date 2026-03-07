@@ -3,6 +3,7 @@
 
 import { PRIMARIA_3 } from "./content-primaria3";
 import { KINDER } from "./content-kinder";
+import { GRADOS_SUPERIORES } from "./content-grados-superiores";
 
 export const LENGUAS_P1: MateriaContenido = {
     materia: "lenguas",
@@ -1859,9 +1860,12 @@ PRIMARIA_2.materias["historia"] = HISTORIA_P2;
 
 // Índice de todos los grados disponibles
 // Nota: PRIMARIA_3 y KINDER se importan al comienzo del archivo
+
 export const GRADOS_CONTENIDO: Record<string, GradoContenido> = {
     "kinder": KINDER,
     "primaria-1": PRIMARIA_1,
     "primaria-2": PRIMARIA_2,
     "primaria-3": PRIMARIA_3,
+    ...GRADOS_SUPERIORES,
 };
+
