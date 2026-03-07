@@ -37,9 +37,16 @@ async function cargarBloque(grado: string, materia: string, bloque: string): Pro
 }
 
 
+// Solo pre-generamos los grados más visitados para no exceder el límite de memoria de Cloudflare.
+// Los grados superiores (primaria-4+, secundaria) se sirven dinámicamente bajo demanda.
+const GRADOS_PRE_RENDER = ["kinder", "preescolar-1", "preescolar-2", "primaria-1", "primaria-2", "primaria-3"];
+
+export const dynamicParams = true;
+
 export async function generateStaticParams() {
     const params: { grado: string; materia: string; bloque: string }[] = [];
     for (const [grado, gradoData] of Object.entries(GRADOS_CONTENIDO)) {
+        if (!GRADOS_PRE_RENDER.includes(grado)) continue;
         for (const [materia, materiaData] of Object.entries(gradoData.materias)) {
             for (let b = 1; b <= materiaData.bloques.length; b++) {
                 params.push({ grado, materia, bloque: `bloque-${b}` });

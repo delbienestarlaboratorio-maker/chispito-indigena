@@ -10,15 +10,20 @@ interface Props {
     params: Promise<{ grado: string; materia: string }>;
 }
 
+const GRADOS_PRE_RENDER = ["kinder", "preescolar-1", "preescolar-2", "primaria-1", "primaria-2", "primaria-3"];
+export const dynamicParams = true;
+
 export async function generateStaticParams() {
     const params: { grado: string; materia: string }[] = [];
     for (const grado of Object.keys(GRADOS_CONTENIDO)) {
+        if (!GRADOS_PRE_RENDER.includes(grado)) continue;
         for (const materia of Object.keys(GRADOS_CONTENIDO[grado].materias)) {
             params.push({ grado, materia });
         }
     }
     return params;
 }
+
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const { grado, materia } = await params;
