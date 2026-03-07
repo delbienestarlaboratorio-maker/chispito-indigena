@@ -38,7 +38,7 @@ export default async function GradoPage({ params }: Props) {
     const materiasGrado = grado.materias.map((id) => MATERIAS[id]).filter(Boolean);
     const bloquesGrado = BLOQUES[grado.slug] || {};
 
-    if (grado.nivel === "preescolar") {
+    if (grado.slug === "kinder") {
         return (
             <main className="min-h-screen" style={{ background: "var(--navy)" }}>
                 <Navbar />
@@ -48,6 +48,7 @@ export default async function GradoPage({ params }: Props) {
             </main>
         );
     }
+
 
     return (
         <main className="min-h-screen" style={{ background: "var(--navy)" }}>
