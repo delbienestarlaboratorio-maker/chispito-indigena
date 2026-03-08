@@ -3,7 +3,7 @@
 
 import { PRIMARIA_3 } from "./content-primaria3";
 import { KINDER } from "./content-kinder";
-import { GRADOS_SUPERIORES } from "./content-grados-superiores";
+import { PREESCOLAR_1, PREESCOLAR_2, PRIMARIA_4, PRIMARIA_5, PRIMARIA_6, SECUNDARIA_1, SECUNDARIA_2, SECUNDARIA_3 } from "./content-grados-superiores";
 
 export const LENGUAS_P1: MateriaContenido = {
     materia: "lenguas",
@@ -1820,9 +1820,16 @@ PRIMARIA_2.materias["historia"] = HISTORIA_P2;
 
 export const GRADOS_CONTENIDO: Record<string, GradoContenido> = {
     "kinder": KINDER,
+    "preescolar-1": PREESCOLAR_1,
+    "preescolar-2": PREESCOLAR_2,
     "primaria-1": PRIMARIA_1,
     "primaria-2": PRIMARIA_2,
     "primaria-3": PRIMARIA_3,
-    ...GRADOS_SUPERIORES,
+    "primaria-4": PRIMARIA_4,
+    "primaria-5": PRIMARIA_5,
+    "primaria-6": PRIMARIA_6,
+    "secundaria-1": SECUNDARIA_1,
+    "secundaria-2": SECUNDARIA_2,
+    "secundaria-3": SECUNDARIA_3,
 };
 
