@@ -78,10 +78,10 @@ export default async function BloquePage({ params }: Props) {
     const materiaInfo = MATERIAS[materia];
     if (!datos || !gradoInfo || !materiaInfo) notFound();
 
-    // Todos los ejercicios (v1 + v2) para el player
+    // Todos los ejercicios (v1 + v2 opcional) para el player principal
     const todosEjercicios = [
-        ...(datos.ejercicios.v1 as never[]),
-        ...(datos.ejercicios.v2 as never[]),
+        ...((datos.ejercicios.v1 || []) as never[]),
+        ...((datos.ejercicios.v2 || []) as never[]),
     ];
 
     const esKinder = GRADOS_KINDER.includes(grado);

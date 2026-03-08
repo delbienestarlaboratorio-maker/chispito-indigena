@@ -1,0 +1,67 @@
+{
+    "grado": "preescolar-2",
+    "materia": "matematicas",
+    "bloque": 6,
+    "nombre": "Conteo en LSM",
+    "meses": "Julio",
+    "temas": [
+        "Números del 6 al 10",
+        "Cantidades visuales",
+        "Suma con las manos",
+        "Edades en de los amigos"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "pre2-mat-b6-v1-001",
+                "tema": "Números del 6 al 10",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "En LSM, ¿cómo se hace el número '6' con las manos?",
+                "opciones": [
+                    "Con el pulgar hacia apuntando doblado hacia la palma",
+                    "Aplaudiendo 6 veces",
+                    "Solo levantando el meñique y el pulgar"
+                ],
+                "respuestaCorrecta": "Con el pulgar hacia apuntando doblado hacia la palma",
+                "explicacion": "¡El número 6! A partir de aquí usamos una sola mano. Dobla tu dedo pulgar hacia la palma mientras los otros cuatro dedos están estirados. 👍"
+            },
+            {
+                "id": "pre2-mat-b6-v1-002",
+                "tema": "Números del 6 al 10",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para hacer el número '10', abrimos y cerramos toda la ___ como destello rápidamente.",
+                "respuestaCorrecta": "mano",
+                "explicacion": "¡El 10! Un número muy divertido. Abres y cierras los 5 dedos de la mano dos veces rápidamente, como si enviaras estrellitas de luz. ✨"
+            },
+            {
+                "id": "pre2-mat-b6-v1-003",
+                "tema": "Edades en de los amigos",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para preguntar la edad en LSM, debes frotar tu puño contra la barbilla hacia abajo y dibujar un círculo hacia el frente.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Es correcto! '¿Cuántos años tienes?' frotas el puñado cerrado (letra 'Y' si ya la conoces) desde la barbilla hacia abajo. 👶"
+            },
+            {
+                "id": "pre2-mat-b6-v1-004",
+                "tema": "Cantidades visuales",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Si un amigo sordo te enseña el dedo índice y el pulgar (haciendo una L). ¿Qué número es en LSM?",
+                "opciones": [
+                    "2",
+                    "7",
+                    "15",
+                    "10"
+                ],
+                "respuestaCorrecta": "7",
+                "explicacion": "¡Es el número 7! Curiosamente no usamos 2 manos como cuando contamos normal en español, usamos una sola mano con el índice y el pulgar en forma de pistola. 🔫"
+            }
+        ]
+    },
+    "generado": "2026-03-09T04:00:00.000Z",
+    "version": "3.0"
+}
