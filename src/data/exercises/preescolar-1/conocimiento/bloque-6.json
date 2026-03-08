@@ -1,0 +1,292 @@
+{
+    "grado": "preescolar-1",
+    "materia": "conocimiento",
+    "bloque": 6,
+    "nombre": "Mi mundo en señas (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Mi familia en señas",
+        "Colores en LSM",
+        "Animales básicos",
+        "La naturaleza en señas"
+    ],
+    "totalEjercicios": 20,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "pre1-con-b6-v1-001",
+                "tema": "Mi familia en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo es la seña para MAMÁ en LSM?",
+                "opciones": [
+                    "Con la letra 'M' (dedos sobre el pulgar) tocando el lado de la boca/mejilla",
+                    "Pellizcarse la nariz",
+                    "Aplaudir tres veces",
+                    "Tocarse la cabeza"
+                ],
+                "respuestaCorrecta": "Con la letra 'M' (dedos sobre el pulgar) tocando el lado de la boca/mejilla",
+                "explicacion": "¡MAMÁ! Formas la letra 'M' y deslizas ligeramente en la mejilla o lado del mentón. ¡Una seña hermosa y muy usada! 👩‍👧",
+                "visual": "👩"
+            },
+            {
+                "id": "pre1-con-b6-v1-002",
+                "tema": "Mi familia en señas",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para hacer PAPÁ, hacemos la letra 'P', tocamos el pulgar al índice y damos toquecitos en la mejilla",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! 'PAPÁ' es la letra P tocando el rostro un par de veces. ¡Cada miembro de la familia tiene su seña con su inicial! 👨"
+            },
+            {
+                "id": "pre1-con-b6-v1-003",
+                "tema": "Colores en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Para el color BLANCO en LSM, pasamos una letra 'B' sobre el dorso de nuestra otra mano",
+                "opciones": [
+                    "Verdadero (letra B sobre la mano)",
+                    "Falso, se toca el cabello blanco",
+                    "Falso, es cerrar los ojos",
+                    "Falso, es mover la cabeza"
+                ],
+                "respuestaCorrecta": "Verdadero (letra B sobre la mano)",
+                "explicacion": "¡Blanco! Hacemos la 'B' (mano plana pulgar adentro) frotando el dorso de la otra muñeca. ⚪"
+            },
+            {
+                "id": "pre1-con-b6-v1-004",
+                "tema": "Animales básicos",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de PERRO, hacemos el gesto de acariciar un perrito y damos unos toquecitos en nuestra ___",
+                "respuestaCorrecta": "pierna",
+                "explicacion": "¡Perro! Nos damos toquecitos en la pierna (el muslo), como cuando llamamos al perro para que venga. ¡Guau! 🐶"
+            },
+            {
+                "id": "pre1-con-b6-v1-005",
+                "tema": "Animales básicos",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir 'GATO' en señas simulamos acariciar sus bigotes en nuestras mejillas",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! Tiramos de unos 'bigotes invisibles' con el índice y pulgar, desde nuestra nariz o boca hacia afuera. ¡Miau! 🐱"
+            },
+            {
+                "id": "pre1-con-b6-v1-006",
+                "tema": "La naturaleza en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "La seña de SOL implica abrir la mano junto a nuestra cabeza como si salieran los ___",
+                "opciones": [
+                    "Rayos del sol",
+                    "Pájaros",
+                    "Lluvia",
+                    "Nieve"
+                ],
+                "respuestaCorrecta": "Rayos del sol",
+                "explicacion": "¡El SOL! Puño en 'O' cerca de la cara/cabeza y de repente se abre imitando el resplandor o los rayos. ☀️"
+            },
+            {
+                "id": "pre1-con-b6-v1-007",
+                "tema": "Colores en LSM",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para el color 'ROJO', frotamos el dedo índice junto a nuestros ___ (porque también son de ese color)",
+                "respuestaCorrecta": "labios",
+                "explicacion": "¡Rojo! Para rojo, tocamos nuestros labios y bajamos porque son de color rojo. ¡Las señas conectan con nuestra vida! 👄🔴"
+            },
+            {
+                "id": "pre1-con-b6-v1-008",
+                "tema": "Mi familia en señas",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La seña para BEBÉ es mecer los brazos como si tuvieramos un niño arrullando",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Exacto! Bebé es una seña mímica y natural. Formas los brazos en cuna y te meces. 👶❤️"
+            },
+            {
+                "id": "pre1-con-b6-v1-009",
+                "tema": "La naturaleza en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Para decir AGUA, golpeamos ligeramente nuestro labio inferior con qué dedo?",
+                "opciones": [
+                    "El dedo índice formando una pistolita (letra L o G)",
+                    "La mano entera",
+                    "No usamos el dedo, tosemos",
+                    "Aplaudiendo"
+                ],
+                "respuestaCorrecta": "El dedo índice formando una pistolita (letra L o G)",
+                "explicacion": "¡Agua! Con el índice o la letra L, tocamos el labio/barbilla 2 veces. Como el gesto de 'se me hace la boca agua'. 💧"
+            },
+            {
+                "id": "pre1-con-b6-v1-010",
+                "tema": "Animales básicos",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para LEÓN, ponemos la mano rígida como garra y la pasamos por arriba y atrás de la cabeza simulando su ___",
+                "respuestaCorrecta": "melena",
+                "explicacion": "¡León! Manos en garras que peinan hacia atrás una melena grande y salvaje. ¡Raaar! 🦁"
+            }
+        ],
+        "v2": [
+            {
+                "id": "pre1-con-b6-v2-001",
+                "tema": "Mi familia en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cómo se hace la seña para HERMANO?",
+                "opciones": [
+                    "Golpeando juntos los lados de los dedos índices paralelos",
+                    "Golpeando los pies",
+                    "Tocando la nariz",
+                    "Agarrándose las manos"
+                ],
+                "respuestaCorrecta": "Golpeando juntos los lados de los dedos índices paralelos",
+                "explicacion": "¡Hermano! Frotar o juntar los paralelos dedos índices. Representan a dos personas de la misma sangre, creciendo juntas. 👦👦"
+            },
+            {
+                "id": "pre1-con-b6-v2-002",
+                "tema": "Colores en LSM",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "El color AMARILLO se hace con la letra 'A' girando a la altura del pecho y sacudiéndola hacia ___",
+                "respuestaCorrecta": "abajo",
+                "explicacion": "¡Amarillo! Es la letra A con un ligero movimiento o sacudida de muñeca hacia abajo. 🟡"
+            },
+            {
+                "id": "pre1-con-b6-v2-003",
+                "tema": "La naturaleza en señas",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "La seña de ÁRBOL es poner el brazo como tronco y mover la mano abierta arriba simulando las hojas",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! Nuestro brazo parado en ángulo recto es el tronco, y la mano vibrando arriba es el follaje (las hojas). ¡Un árbol vivo! 🌳"
+            },
+            {
+                "id": "pre1-con-b6-v2-004",
+                "tema": "Animales básicos",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Para hacer PÁJARO, juntamos el dedo índice y pulgar frente a nuestra boca simulando el...",
+                "opciones": [
+                    "Pico",
+                    "Ojo",
+                    "Ala",
+                    "Pie"
+                ],
+                "respuestaCorrecta": "Pico",
+                "explicacion": "¡El pico! Juntamos índice y pulgar en nuestros labios y abrimos y cerramos, ¡pío, pío! 🐦"
+            },
+            {
+                "id": "pre1-con-b6-v2-005",
+                "tema": "Mi familia en señas",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "Para decir ABUELO o ABUELA en LSM, hacemos la letra A que da pasitos hacia ___ para simular cómo camina una persona mayor",
+                "respuestaCorrecta": "adelante",
+                "explicacion": "¡A-bu-e-lo! Letra 'A' avanzando con pequeños saltitos curvos desde el mentón como una cana o alguien viejito. 👴👵"
+            },
+            {
+                "id": "pre1-con-b6-v2-006",
+                "tema": "La naturaleza en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Para decir LLOVER, ponemos las manos altas con los dedos apuntando hacia abajo y los...",
+                "opciones": [
+                    "Movemos bajando simulando las gotas cayendo",
+                    "Mantenemos quietos",
+                    "Cerramos en puño",
+                    "Giramos en círculo"
+                ],
+                "respuestaCorrecta": "Movemos bajando simulando las gotas cayendo",
+                "explicacion": "¡Lluvia! Las manos como garras hacia abajo, bajando, bajando, como agua cayendo del cielo. 🌧️"
+            },
+            {
+                "id": "pre1-con-b6-v2-007",
+                "tema": "Animales básicos",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "El PEZ se hace uniendo las dos manos y nadando (moviendo) juntas hacia adelante",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! ¡Las manos unidas son el cuerpo y la cola! Ondulan de un lado hacia el agua mientras avanzan. 🐟"
+            },
+            {
+                "id": "pre1-con-b6-v2-008",
+                "tema": "Colores en LSM",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "El verde (plantas), el amarillo (sol) o el azul (agua/cielo) se llaman los ___ de la naturaleza",
+                "respuestaCorrecta": "colores",
+                "explicacion": "¡Los colores! Saber decir los colores del mundo en señas nos ayuda a describir lo que vemos. 🌈🎨"
+            },
+            {
+                "id": "pre1-con-b6-v2-009",
+                "tema": "La naturaleza en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Para decir FLOR en LSM, ¿qué gesto hacemos en la nariz?",
+                "opciones": [
+                    "Simulamos oler una flor moviendo la mano como un ramo de cada lado de la nariz",
+                    "Apretamos con fuerza (no)",
+                    "Rascamos la nariz (no)",
+                    "Soplamos (no)"
+                ],
+                "respuestaCorrecta": "Simulamos oler una flor moviendo la mano como un ramo de cada lado de la nariz",
+                "explicacion": "¡Flor! Mano en forma de ramillete, llevamos la mano a un lado de la fosa nasal y al otro oliendo su aroma rico. 🌸"
+            },
+            {
+                "id": "pre1-con-b6-v2-010",
+                "tema": "Mi familia en señas",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "Para referirnos a un TÍO o TÍA solemos hacer la letra 'T' tocando nuestra mejilla",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Exacto! La 'T' de Tío en una parte de la cara. Muchas señas familiares dependen de su inicial (P de Papá, M de Mamá). 👨‍👩‍👧❤️"
+            }
+        ],
+        "preview": [
+            {
+                "id": "pre1-con-b6-v1-001",
+                "tema": "Mi familia en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo es la seña para MAMÁ en LSM?",
+                "opciones": [
+                    "Con la letra 'M' (dedos sobre el pulgar) tocando el lado de la boca/mejilla",
+                    "Pellizcarse la nariz",
+                    "Aplaudir tres veces",
+                    "Tocarse la cabeza"
+                ],
+                "respuestaCorrecta": "Con la letra 'M' (dedos sobre el pulgar) tocando el lado de la boca/mejilla",
+                "explicacion": "¡MAMÁ! Letra 'M' tocando la mejilla. 👩‍👧"
+            },
+            {
+                "id": "pre1-con-b6-v1-004",
+                "tema": "Animales básicos",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de PERRO, hacemos el gesto de acariciar un perrito y damos unos toquecitos en nuestra ___",
+                "respuestaCorrecta": "pierna",
+                "explicacion": "¡Toquecitos en la pierna! 🐶"
+            },
+            {
+                "id": "pre1-con-b6-v2-004",
+                "tema": "Animales básicos",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Para hacer PÁJARO, juntamos el dedo índice y pulgar frente a nuestra boca simulando el...",
+                "opciones": [
+                    "Pico",
+                    "Ojo",
+                    "Ala",
+                    "Pie"
+                ],
+                "respuestaCorrecta": "Pico",
+                "explicacion": "¡El pico! 🐦"
+            }
+        ]
+    },
+    "generado": "2026-03-09T04:00:00.000Z",
+    "version": "3.0"
+}

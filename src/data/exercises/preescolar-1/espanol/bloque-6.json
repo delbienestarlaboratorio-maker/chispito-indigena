@@ -1,0 +1,291 @@
+{
+    "grado": "preescolar-1",
+    "materia": "espanol",
+    "bloque": 6,
+    "nombre": "Mis manos hablan (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Las vocales en LSM",
+        "Mi nombre en señas",
+        "Saludos y cortesía",
+        "Palabras mágicas"
+    ],
+    "totalEjercicios": 20,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "pre1-esp-b6-v1-001",
+                "tema": "Las vocales en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "En Lengua de Señas Mexicana (LSM), ¿cómo se hace la letra 'A'?",
+                "opciones": [
+                    "Con el puño cerrado y el pulgar a un lado",
+                    "Con la mano abierta",
+                    "Poniendo un dedo en la nariz",
+                    "Haciendo un círculo con los dedos"
+                ],
+                "respuestaCorrecta": "Con el puño cerrado y el pulgar a un lado",
+                "explicacion": "¡La letra 'A'! Puño cerrado y el dedo gordo (pulgar) descansando en el costado del dedo índice. ✊",
+                "visual": "✊"
+            },
+            {
+                "id": "pre1-esp-b6-v1-002",
+                "tema": "Saludos y cortesía",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir 'HOLA' en LSM, tocamos la frente y alejamos la mano hacia adelante",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡HOLA! Como un saludo militar suave, tocamos la sien o la frente ymovemos la mano hacia adelante. 👋"
+            },
+            {
+                "id": "pre1-esp-b6-v1-003",
+                "tema": "Palabras mágicas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se dice 'GRACIAS' en LSM?",
+                "opciones": [
+                    "Extendiendo el dedo medio desde la palma de la otra mano hacia afuera",
+                    "Aplaudiendo dos veces",
+                    "Pellizcando la nariz",
+                    "Tocando la oreja"
+                ],
+                "respuestaCorrecta": "Extendiendo el dedo medio desde la palma de la otra mano hacia afuera",
+                "explicacion": "¡Gracias! Con la mano dominante, extendemos el dedo medio y lo movemos hacia adelante desde la palma de la otra mano. 🙏"
+            },
+            {
+                "id": "pre1-esp-b6-v1-004",
+                "tema": "Las vocales en LSM",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para hacer la letra 'E' en LSM, doblamos todos los dedos como si fueran unas ___",
+                "respuestaCorrecta": "garras",
+                "explicacion": "¡La letra 'E'! Como si tuvieras garritas encogidas hacia abajo. 🖐️"
+            },
+            {
+                "id": "pre1-esp-b6-v1-005",
+                "tema": "Mi nombre en señas",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Deletrear nuestro nombre letra por letra con las manos se llama 'dactilología'",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! Dactilología significa usar los dedos para deletrear palabras como los nombres propios. 🔠🖐️"
+            },
+            {
+                "id": "pre1-esp-b6-v1-006",
+                "tema": "Saludos y cortesía",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Para despedirnos y decir 'ADIÓS' en LSM, usamos el mismo gesto que usamos normalmente:",
+                "opciones": [
+                    "Mover la mano de lado a lado",
+                    "Mover la cabeza",
+                    "Cerrar los ojos",
+                    "Dar una patada"
+                ],
+                "respuestaCorrecta": "Mover la mano de lado a lado",
+                "explicacion": "¡Adiós! Es una seña natural, mover la mano de lado a lado. Muchas señas son naturales y fáciles de entender. 👋"
+            },
+            {
+                "id": "pre1-esp-b6-v1-007",
+                "tema": "Las vocales en LSM",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para hacer la letra 'I' en LSM, solo levantamos el dedo ___",
+                "respuestaCorrecta": "meñique",
+                "explicacion": "¡La letra 'I'! Puño cerrado pero el dedo más pequeñito (meñique) apunta hacia arriba, como un palito. 🤙"
+            },
+            {
+                "id": "pre1-esp-b6-v1-008",
+                "tema": "Palabras mágicas",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir 'POR FAVOR' en LSM, juntamos las manos como si estuvieramos rezando",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Falso! Para 'POR FAVOR', hacemos la letra F y la giramos frente al pecho, no juntamos las manos. (¡Esta fue una pregunta con truco para probar tu memoria!) ❌"
+            },
+            {
+                "id": "pre1-esp-b6-v1-009",
+                "tema": "Las vocales en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué letra hacemos cuando formamos un círculo con todos los dedos?",
+                "opciones": [
+                    "O",
+                    "A",
+                    "Z",
+                    "X"
+                ],
+                "respuestaCorrecta": "O",
+                "explicacion": "¡La letra 'O'! Todos los dedos se juntan formando un circulito, exactamente como se dibuja la letra O. ⭕"
+            },
+            {
+                "id": "pre1-esp-b6-v1-010",
+                "tema": "Mi nombre en señas",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Las personas sordas suelen tener una seña que los identifica sin tener que deletrear su nombre, se llama su 'nombre en ___'",
+                "respuestaCorrecta": "señas",
+                "explicacion": "¡Nombre en señas! Es una seña única de la comunidad sorda para ti, a menudo basada en una característica física tuya. 🌟"
+            }
+        ],
+        "v2": [
+            {
+                "id": "pre1-esp-b6-v2-001",
+                "tema": "Las vocales en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Para hacer la letra 'U' en LSM, ¿cuántos dedos levantamos?",
+                "opciones": [
+                    "2 (índice y medio juntos)",
+                    "1",
+                    "3",
+                    "Todos"
+                ],
+                "respuestaCorrecta": "2 (índice y medio juntos)",
+                "explicacion": "¡La letra U! Levantamos los dedos índice y medio (como paz) pero bien JUNTITOS. ✌️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-002",
+                "tema": "Saludos y cortesía",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "Para preguntar '¿CÓMO ESTÁS?' tocamos nuestros ___ (una mano en cada uno) y bajamos",
+                "respuestaCorrecta": "hombros",
+                "explicacion": "'¿Cómo estás?' Formamos la letra C con ambas manos, tocamos el pecho/hombros y luego abrimos las manos hacia adelante. 🤷‍♂️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-003",
+                "tema": "Palabras mágicas",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "Para decir 'DE NADA' pasamos la mano hacia arriba debajo de la barbilla",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! Para decir DE NADA extendemos el dorso de la mano y cepillamos hacia afuera por debajo del mentón. ¡Qué educado! 🌟"
+            },
+            {
+                "id": "pre1-esp-b6-v2-004",
+                "tema": "Mi nombre en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Si mi nombre es 'ANA', ¿cuántas señas diferentes de letras tengo que hacer?",
+                "opciones": [
+                    "2 (A y N)",
+                    "3 (A, N, A)",
+                    "1",
+                    "4"
+                ],
+                "respuestaCorrecta": "2 (A y N)",
+                "explicacion": "¡2 señas diferentes! Hago la A, luego la N, y luego LA MISMA A. Así deletreo A-N-A. 🖐️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-005",
+                "tema": "Las vocales en LSM",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "La dactilología mexicana usa ___ manos para deletrear el abecedario",
+                "respuestaCorrecta": "una",
+                "explicacion": "¡Una mano! En LSM, el alfabeto se hace todo con UNA sola mano (usualmente tu mano dominante). ¡En Reino Unido usan las dos manos! 🖐️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-006",
+                "tema": "Saludos y cortesía",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cómo decimos 'BUENOS DÍAS' en LSM?",
+                "opciones": [
+                    "Seña 'BUENO' + mano abre como sol amaneciendo",
+                    "Solo sonreímos",
+                    "Señalamos el cielo",
+                    "Bostezamos"
+                ],
+                "respuestaCorrecta": "Seña 'BUENO' + mano abre como sol amaneciendo",
+                "explicacion": "¡Bueno (mano del pecho hacia adelante) + Días (puño sobre el dorso de la otra mano como un sol saliendo)! ☀️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-007",
+                "tema": "Palabras mágicas",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "Para decir 'PERDÓN' en LSM usamos el dedo índice y lo frotamos sobre el corazón",
+                "respuestaCorrecta": "false",
+                "explicacion": "¡Falso! Para decir PERDÓN hacemos la letra 'Y' y tocamos la barbilla ligeramente o hacemos círculos con la mano cerrada en el pecho. ❤️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-008",
+                "tema": "Mi nombre en señas",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "Comunicarnos con personas que no pueden oír usando nuestras manos los hace sentir ___",
+                "respuestaCorrecta": "incluidos",
+                "explicacion": "¡Incluidos y respetados! La empatía y la inclusión se aprenden desde preescolar. Aprender LSM es abrir el corazón. 🤝❤️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-009",
+                "tema": "Las vocales en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿El abecedario de LSM sirve para todas las palabras del mundo?",
+                "opciones": [
+                    "Solo usamos el abecedario para los nombres propios, lo demás tiene su propia seña",
+                    "Solo usamos el abecedario para todo",
+                    "No existe el abecedario"
+                ],
+                "respuestaCorrecta": "Solo usamos el abecedario para los nombres propios, lo demás tiene su propia seña",
+                "explicacion": "¡Importante! El deletreo (A,B,C) es SOLO para nombres o marcas sin seña. Para frases como 'quiero agua' usamos SEÑAS COMPLETAS. 🖐️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-010",
+                "tema": "Saludos y cortesía",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "La expresión facial (la cara) es fundamental al usar LSM para mostrar emociones",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Absolutamente! El 50% de la seña es el rostro. Si preguntas '¿Cómo estás?' tu cara debe verse como pregunta, no enojada. ¡La cara también habla! 😄🤨"
+            }
+        ],
+        "preview": [
+            {
+                "id": "pre1-esp-b6-v1-001",
+                "tema": "Las vocales en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "En Lengua de Señas Mexicana (LSM), ¿cómo se hace la letra 'A'?",
+                "opciones": [
+                    "Con el puño cerrado y el pulgar a un lado",
+                    "Con la mano abierta",
+                    "Poniendo un dedo en la nariz",
+                    "Haciendo un círculo con los dedos"
+                ],
+                "respuestaCorrecta": "Con el puño cerrado y el pulgar a un lado",
+                "explicacion": "¡La letra 'A'! Puño cerrado y pulgar al lado. ✊"
+            },
+            {
+                "id": "pre1-esp-b6-v1-002",
+                "tema": "Saludos y cortesía",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir 'HOLA' en LSM, tocamos la frente y alejamos la mano hacia adelante",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡HOLA! Como un saludo suave. 👋"
+            },
+            {
+                "id": "pre1-esp-b6-v2-001",
+                "tema": "Las vocales en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Para hacer la letra 'U' en LSM, ¿cuántos dedos levantamos?",
+                "opciones": [
+                    "2 (índice y medio juntos)",
+                    "1",
+                    "3",
+                    "Todos"
+                ],
+                "respuestaCorrecta": "2 (índice y medio juntos)",
+                "explicacion": "Dedos índice y medio juntitos. ✌️"
+            }
+        ]
+    },
+    "generado": "2026-03-09T04:00:00.000Z",
+    "version": "3.0"
+}

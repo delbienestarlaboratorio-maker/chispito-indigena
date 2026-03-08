@@ -1,0 +1,286 @@
+{
+    "grado": "preescolar-1",
+    "materia": "educacion_fisica",
+    "bloque": 6,
+    "nombre": "Mi cuerpo habla (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Partes del cuerpo",
+        "Acciones y movimientos",
+        "Deportes en señas",
+        "Salud y sentir"
+    ],
+    "totalEjercicios": 20,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "pre1-ef-b6-v1-001",
+                "tema": "Partes del cuerpo",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Para hablar de la CABEZA en señas, simplemente ¿qué hacemos?",
+                "opciones": [
+                    "Señalamos o tocamos nuestra cabeza completa con ambas manos o una",
+                    "Saltamos",
+                    "Giramos en el piso",
+                    "Cerramos los ojos fuertemente"
+                ],
+                "respuestaCorrecta": "Señalamos o tocamos nuestra cabeza completa con ambas manos o una",
+                "explicacion": "¡Es muy natural! Cuando el concepto es una parte del cuerpo, la mejor seña es apuntarla o tocarla. 🧠",
+                "visual": "🧠"
+            },
+            {
+                "id": "pre1-ef-b6-v1-002",
+                "tema": "Acciones y movimientos",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La seña de SALTAR es tener una mano como piso, y con dos dedos de la otra mano doblamos (piernas) y brincamos del piso",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! Y nuestros dos dedos (índice y medio) son las piernitas del jugador brincando sobre el escenario de la otra mano. 🦘"
+            },
+            {
+                "id": "pre1-ef-b6-v1-003",
+                "tema": "Deportes en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos FÚTBOL usando las manos?",
+                "opciones": [
+                    "Golpeamos con un dedo (pie falso) a otra mano cerrada en puño (el balón)",
+                    "Aplaudiendo muy alto",
+                    "Haciendo un triángulo invertido",
+                    "Agarrando las rodillas"
+                ],
+                "respuestaCorrecta": "Golpeamos con un dedo (pie falso) a otra mano cerrada en puño (el balón)",
+                "explicacion": "¡Fútbol! Pones un puño cerrado (balón) y con el dedo de tu otra mano das cortitos 'pataditas'. ¡Goooooool! ⚽"
+            },
+            {
+                "id": "pre1-ef-b6-v1-004",
+                "tema": "Acciones y movimientos",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "La seña de CORRER implica tener los brazos en ángulo y moverlos hacia adelante y atrás, igual que al ___ de verdad",
+                "respuestaCorrecta": "correr",
+                "explicacion": "¡Exacto! Pones las muñecas y corres en tu mismo lugar con el braceo. ¡Súper rápido! 🏃‍♀️"
+            },
+            {
+                "id": "pre1-ef-b6-v1-005",
+                "tema": "Salud y sentir",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Si me duele algo, uso el dedo índice de mi mano dominante para presionar o hacer círculos arriba de la zona que sufre el dolor",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! La seña DOLOR + Ubicación. Dedo girando cerquita de la cabeza = dolor de cabeza; en el estómago = dolor de estómago. 🤕"
+            },
+            {
+                "id": "pre1-ef-b6-v1-006",
+                "tema": "Partes del cuerpo",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué seña usamos para OJO?",
+                "opciones": [
+                    "Apuntamos o tocamos delicadamente cerca del ojo",
+                    "Cerramos la boca",
+                    "Tapamos los oídos",
+                    "Mirar al cielo"
+                ],
+                "respuestaCorrecta": "Apuntamos o tocamos delicadamente cerca del ojo",
+                "explicacion": "¡De nuevo, súper natural! Solo señalamos o cruzamos debajo del ojo. 👀"
+            },
+            {
+                "id": "pre1-ef-b6-v1-007",
+                "tema": "Deportes en señas",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para decir NATACIÓN, extendemos ambos brazos y los movemos en círculos hacia los costados, como si estuvieramos en una ___ nadando",
+                "respuestaCorrecta": "alberca",
+                "explicacion": "¡Natación! Simulamos que nadamos el estilo crol avanzando. (Ojo: ¡las albercas sordas usan semáforo de luces para dar salida a las carreras!) 🏊‍♂️"
+            },
+            {
+                "id": "pre1-ef-b6-v1-008",
+                "tema": "Acciones y movimientos",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir JUGAR usamos una 'Y' con ambas manos cruzando los brazos de ida y vuelta",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Jugar! Haces la letra Y moderna (meñique y pulgar sueltos) con ambas y se sacuden o giran simultáneamente en curva. 🎮⚽"
+            },
+            {
+                "id": "pre1-ef-b6-v1-009",
+                "tema": "Salud y sentir",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos que estamos CANSADOS en LSM?",
+                "opciones": [
+                    "Manos curvas en las clavículas rodando/deslizando por el pecho hacia abajo encorvando hombros",
+                    "Saltar alto y gritar",
+                    "Mover la boca rápido",
+                    "No existe esa seña"
+                ],
+                "respuestaCorrecta": "Manos curvas en las clavículas rodando/deslizando por el pecho hacia abajo encorvando hombros",
+                "explicacion": "¡Cansado! Te tocas el pecho un poco curvado y deslizas ambas manos abajo encorvando tus hombros, ¡uff qué pesadez! 😩"
+            },
+            {
+                "id": "pre1-ef-b6-v1-010",
+                "tema": "Partes del cuerpo",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para aprender a escuchar en un niño sordo, el aparato mágico que pueden usar va posicionado dentro de su ___ y se llama implante o auxiliar",
+                "respuestaCorrecta": "oreja",
+                "explicacion": "¡La Oreja! Oídos y Orejas (solo tocándola). ¡Muchos Sordos son orgullosos usuarios de su Lengua y algunos usan auxiliares. Todos merecen respeto! 🦻"
+            }
+        ],
+        "v2": [
+            {
+                "id": "pre1-ef-b6-v2-001",
+                "tema": "Deportes en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cuál sería la seña de BÉISBOL?",
+                "opciones": [
+                    "Simulamos sostener un bat largo y hacer un gran swing o botear la bola",
+                    "Dar patadas a otro amigo",
+                    "Nadar de muertito",
+                    "Jalar la cuerda invisible"
+                ],
+                "respuestaCorrecta": "Simulamos sostener un bat largo y hacer un gran swing o botear la bola",
+                "explicacion": "¡Batear! Como cuando 'pegas un homerun'. Mueves los brazos y giras cintura imaginando un bat. ⚾🏏"
+            },
+            {
+                "id": "pre1-ef-b6-v2-002",
+                "tema": "Partes del cuerpo",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "Para enseñar los BRAZOS, podemos usar una mano dominante deslizando a lo largo y frotando el ___ puesto",
+                "respuestaCorrecta": "brazo",
+                "explicacion": "¡Brazos! Frotar el brazo principal longitudinalmente. Es nuestro puente entre músculos, manos y todo lo que cargamos. 💪"
+            },
+            {
+                "id": "pre1-ef-b6-v2-003",
+                "tema": "Salud y sentir",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "Para indicar que estoy ENFERMO, se usa la letra E tocando la frente o se apoya la cabeza como sintiéndose frágil",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! Tocamos la frente como buscando calor/fiebre, o letra E en la misma zona con expresión decaída. ¡Expresión facial es todo aquí! 🤒"
+            },
+            {
+                "id": "pre1-ef-b6-v2-004",
+                "tema": "Acciones y movimientos",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cómo hacemos la seña de DETENERSE o ALTO?",
+                "opciones": [
+                    "Mano plana y extendida, palma al frente como empujando al aire",
+                    "Esconderse detrás de la silla",
+                    "Abrazarse los brazos",
+                    "Bailar una vuelta sola"
+                ],
+                "respuestaCorrecta": "Mano plana y extendida, palma al frente como empujando al aire",
+                "explicacion": "¡Alto! Levantas la mano plana cortando el paso. Es igual a la señal de un policía de tránsito. 🛑✋"
+            },
+            {
+                "id": "pre1-ef-b6-v2-005",
+                "tema": "Deportes en señas",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "El BÁSQUETBOL (baloncesto) se hace subiendo manos a cabeza y aventando (muñequeando) una pelota invisible hacia un ___ de canasta",
+                "respuestaCorrecta": "aro",
+                "explicacion": "¡Básquet! Tiramos a canasta muñequeando fuerte adelante. ¡Swish! 🏀"
+            },
+            {
+                "id": "pre1-ef-b6-v2-006",
+                "tema": "Partes del cuerpo",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Si estamos jugando Educación Física, para enseñar la BARBILLA o MENTÓN en señas:",
+                "opciones": [
+                    "Solo se le pellizca/toca esa misma zona con el dedo",
+                    "Saltar dos lugares",
+                    "Taparse la frente (falso)",
+                    "Girar toda la cabeza (falso)"
+                ],
+                "respuestaCorrecta": "Solo se le pellizca/toca esa misma zona con el dedo",
+                "explicacion": "¡Tocando debajo de la boca, en la barbilla! Simple forma de ubicarse. 🧔"
+            },
+            {
+                "id": "pre1-ef-b6-v2-007",
+                "tema": "Acciones y movimientos",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "La seña de CAER es cuando una V de dedos (piernas de alguien) 'tropiezan' y voltean sus palmas para quedar bocarriba en la otra mano",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! Alguien iba parado (V), y pumm, voltea la mano indicando una caída espectacular en su propia palma de piso. ¡Cuidado al caer corriendo! 💥"
+            },
+            {
+                "id": "pre1-ef-b6-v2-008",
+                "tema": "Salud y sentir",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "Para decir ESTOY BIEN Y SANO, cerramos puños y bajamos los brazos pegados sacando el ___ en postura de fuerza militar",
+                "respuestaCorrecta": "pecho",
+                "explicacion": "¡Bien (sano/salud)! Puños, fuerza y un pecho orgulloso empujando su salud y pulmones al frente. ¡Súper saludable! 🏥💯"
+            },
+            {
+                "id": "pre1-ef-b6-v2-009",
+                "tema": "Deportes en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Para la seña MEDALLA DE GANADOR, ¿qué hacemos?",
+                "opciones": [
+                    "Juntar pinzas index/pulgar y poner el cuello simulando el listón y medalla en pecho",
+                    "Correr por toda la cancha",
+                    "Comer un ganchito",
+                    "Morder a la otra persona"
+                ],
+                "respuestaCorrecta": "Juntar pinzas index/pulgar y poner el cuello simulando el listón y medalla en pecho",
+                "explicacion": "¡Medalla! Delineamos el collar o directamente colgamos el aro dorado frente al pecho al ganar Olimpiadas sordas. 🥇"
+            },
+            {
+                "id": "pre1-ef-b6-v2-010",
+                "tema": "Acciones y movimientos",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "Al incluir la Lengua de Señas en Educación Física y gritar o hacer ALTO, ayudamos a que compañeros sordos o autistas sigan el visual y confíen",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Todos ganan! Juegos visuales con banderas, semáforos, pañuelos y SEÑAS DE ALTO evitan accidentes y abren los campos del deporte para TODOS los estudiantes. ❤️🏆"
+            }
+        ],
+        "preview": [
+            {
+                "id": "pre1-ef-b6-v1-002",
+                "tema": "Acciones y movimientos",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La seña de SALTAR es tener una mano como piso, y con dos dedos de la otra mano doblamos y brincamos",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! Los dos dedos son las piernitas brincando. 🦘"
+            },
+            {
+                "id": "pre1-ef-b6-v1-003",
+                "tema": "Deportes en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos FÚTBOL usando las manos?",
+                "opciones": [
+                    "Golpeamos con un dedo (pie falso) a otra mano cerrada en puño (el balón)",
+                    "Aplaudiendo muy alto",
+                    "Haciendo un triángulo invertido",
+                    "Agarrando las rodillas"
+                ],
+                "respuestaCorrecta": "Golpeamos con un dedo (pie falso) a otra mano cerrada en puño (el balón)",
+                "explicacion": "¡Golpe de dedo a un puño! Goool. ⚽"
+            },
+            {
+                "id": "pre1-ef-b6-v2-008",
+                "tema": "Salud y sentir",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "Para decir ESTOY BIEN Y SANO, cerramos puños y bajamos los brazos pegados sacando el ___ en postura de fuerza militar",
+                "respuestaCorrecta": "pecho",
+                "explicacion": "¡Sano! Pecho fuerte. 💯"
+            }
+        ]
+    },
+    "generado": "2026-03-09T04:00:00.000Z",
+    "version": "3.0"
+}
