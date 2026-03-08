@@ -2,195 +2,291 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 5,
-  "nombre": "Naturaleza activa",
+  "nombre": "Soy un atleta",
   "meses": "Abr-Jun",
   "temas": [
-    "Aire libre",
-    "Cuidado del entorno"
+    "Destrezas físicas",
+    "Los Olimpicos",
+    "Mi progreso",
+    "Seguridad en el deporte"
   ],
-  "totalEjercicios": 10,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar1ef-b5-01",
-        "tema": "Naturaleza",
+        "id": "pre1-ef-b5-v1-001",
+        "tema": "Destrezas físicas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Por qué es bueno jugar al aire libre?",
+        "pregunta": "¿Cuál ejercicio nos ayuda a fortalecer los brazos?",
         "opciones": [
-          "Nos da sol y espacio para movernos",
-          "Porque está de moda",
-          "Para alejarse de casa",
-          "Para no estudiar"
+          "Las lagartijas (flexiones)",
+          "Saltar",
+          "Correr",
+          "Dormir"
         ],
-        "respuestaCorrecta": "Nos da sol y espacio para movernos",
-        "explicacion": "El sol nos da vitamina D y el espacio exterior invita a moverse más.",
-        "visual": "🌞"
+        "respuestaCorrecta": "Las lagartijas (flexiones)",
+        "explicacion": "¡Las lagartijas fortalecen brazos, pecho y hombros! Se apoyan las manos y los dedos de los pies y se sube y baja el cuerpo. 💪"
       },
       {
-        "id": "preescolar1ef-b5-02",
-        "tema": "Entorno",
+        "id": "pre1-ef-b5-v1-002",
+        "tema": "Los Olimpicos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos cuidar las plantas del parque",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Las plantas son seres vivos que benefician al medio ambiente."
+        "pregunta": "Los Juegos Olímpicos se celebran cada 4 años",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Cada 4 años! Los Juegos Olímpicos reúnen a los mejores atletas del mundo. Son el evento deportivo más grande del planeta. 🏅🌍"
       },
       {
-        "id": "preescolar1ef-b5-03",
-        "tema": "Salud",
+        "id": "pre1-ef-b5-v1-003",
+        "tema": "Seguridad en el deporte",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En un día caluroso debemos llevar al parque:",
+        "pregunta": "¿Qué debemos usar al andar en bicicleta para proteger la cabeza?",
         "opciones": [
-          "Agua y protector solar",
-          "Solo dulces",
-          "Un abrigo",
+          "El casco ⛑️",
+          "Un sombrero de paja",
+          "Una bufanda",
           "Nada"
         ],
-        "respuestaCorrecta": "Agua y protector solar",
-        "explicacion": "El agua hidrata y el protector solar cuida la piel del sol.",
-        "visual": "☀️"
+        "respuestaCorrecta": "El casco ⛑️",
+        "explicacion": "¡El casco protege la cabeza! Es el equipo de seguridad más importante al andar en bici, patines o monopatin. ¡Siempre casco! ⛑️",
+        "visual": "⛑️"
       },
       {
-        "id": "preescolar1ef-b5-04",
-        "tema": "Entorno",
-        "tipo": "multiple_choice",
+        "id": "pre1-ef-b5-v1-004",
+        "tema": "Mi progreso",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Dónde tiramos la basura?",
-        "opciones": [
-          "En el bote",
-          "En el suelo",
-          "En el río",
-          "En el pasto"
-        ],
-        "respuestaCorrecta": "En el bote",
-        "explicacion": "Tirar basura en su lugar mantiene los espacios limpios para todos.",
-        "visual": "🗑️"
+        "pregunta": "Si antes no podía correr 1 km y ahora sí puedo, eso se llama ___",
+        "respuestaCorrecta": "progreso",
+        "explicacion": "¡Progreso! La mejora con el tiempo y el entrenamiento. ¡El cuerpo se adapta y mejora si practicamos! ¡Nunca te rindas! 🌱💪"
       },
       {
-        "id": "preescolar1ef-b5-05",
-        "tema": "Entorno",
+        "id": "pre1-ef-b5-v1-005",
+        "tema": "Destrezas físicas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los animales del parque merecen respeto",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Los animales son parte del ecosistema y debemos respetarlos."
+        "pregunta": "La flexibilidad es la capacidad de doblar el cuerpo sin lastimarse",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La flexibilidad! Los gimnastas y bailarines tienen mucha flexibilidad. ¡Se desarrolla con yoga y estiramientos regulares! 🤸‍♀️"
       },
       {
-        "id": "preescolar1ef-b5-06",
-        "tema": "Actividad",
+        "id": "pre1-ef-b5-v1-006",
+        "tema": "Los Olimpicos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué hacemos en el parque?",
+        "pregunta": "¿De qué color son las 5 medallas más importantes de los Juegos Olímpicos?",
         "opciones": [
-          "Correr, saltar y jugar",
-          "Solo sentarse",
-          "Solo comer",
-          "Solo ver el celular"
+          "Oro, plata y bronce",
+          "Rojo, azul y verde",
+          "Dorado, plateado y normal",
+          "Solo doradas"
         ],
-        "respuestaCorrecta": "Correr, saltar y jugar",
-        "explicacion": "El parque es el lugar ideal para actividades físicas variadas.",
-        "visual": "🌳"
+        "respuestaCorrecta": "Oro, plata y bronce",
+        "explicacion": "¡Oro 🥇 para el 1ro, Plata 🥈 para el 2do, Bronce 🥉 para el 3ro! ¡Ganar cualquier medalla es un honor enorme! 🏅"
       },
       {
-        "id": "preescolar1ef-b5-07",
-        "tema": "Entorno",
+        "id": "pre1-ef-b5-v1-007",
+        "tema": "Seguridad en el deporte",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Beber agua durante el ejercicio evita la ___ y mantiene el cuerpo en funcionamiento",
+        "respuestaCorrecta": "deshidratación",
+        "explicacion": "¡La deshidratación! Cuando sudamos perdemos agua. Si no reponemos líquidos, el cuerpo falla. ¡Siempre hidratarse! 💧🏃"
+      },
+      {
+        "id": "pre1-ef-b5-v1-008",
+        "tema": "Mi progreso",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Arrancar flores del parque está bien",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Falso",
-        "explicacion": "Las plantas necesitan sus flores para reproducirse. No las arranques."
+        "pregunta": "Practicar un deporte requiere constancia y paciencia para mejorar",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La constancia es la clave! Ningún campeón nació sabiendo. ¡Todos practicaron durante años hasta mejorar! 🏆💪"
       },
       {
-        "id": "preescolar1ef-b5-08",
-        "tema": "Salud",
+        "id": "pre1-ef-b5-v1-009",
+        "tema": "Destrezas físicas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué hacemos si encontramos un animal lastimado?",
+        "pregunta": "¿Cuál ejercicio fortalece los músculos del estómago (abdominales)?",
         "opciones": [
-          "Avisamos a un adulto",
-          "Lo dejamos solo",
-          "Lo asustamos",
-          "Lo cargamos y corremos"
+          "Las sentadillas o abdominales",
+          "Saltar en un pie",
+          "Mover solo los brazos",
+          "Respirar profundo"
         ],
-        "respuestaCorrecta": "Avisamos a un adulto",
-        "explicacion": "Un adulto sabrá cómo buscar ayuda veterinaria adecuada.",
-        "visual": "🦮"
+        "respuestaCorrecta": "Las sentadillas o abdominales",
+        "explicacion": "¡Los abdominales fortalecen el core (centro del cuerpo)! Un core fuerte mejora la postura y previene lesiones. 💪"
       },
       {
-        "id": "preescolar1ef-b5-09",
-        "tema": "Entorno",
-        "tipo": "multiple_choice",
+        "id": "pre1-ef-b5-v1-010",
+        "tema": "Los Olimpicos",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Por qué cerramos la llave cuando no usamos agua?",
-        "opciones": [
-          "Para no desperdiciarla",
-          "Para que no se moje el piso",
-          "Por costumbre",
-          "No la cerramos"
-        ],
-        "respuestaCorrecta": "Para no desperdiciarla",
-        "explicacion": "El agua es un recurso valioso y debemos cuidarla.",
-        "visual": "💧"
-      },
-      {
-        "id": "preescolar1ef-b5-10",
-        "tema": "Actividad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Caminar es un buen ejercicio",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Caminar ejercita el corazón y los músculos de forma sencilla y efectiva."
+        "pregunta": "El lema olímpico 'Citius, Altius, Fortius' significa: más rápido, más alto, más ___",
+        "respuestaCorrecta": "fuerte",
+        "explicacion": "¡Más Fuerte! El lema olímpico invita a siempre superarse. ¡Los Juegos Olímpicos son una celebración del esfuerzo humano! 🏅"
       }
     ],
-    "v2": [],
-    "preview": [
+    "v2": [
       {
-        "id": "preescolar1ef-b5-01",
-        "tema": "Naturaleza",
+        "id": "pre1-ef-b5-v2-001",
+        "tema": "Los Olimpicos",
         "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Por qué es bueno jugar al aire libre?",
+        "nivel": "v2",
+        "pregunta": "¿Dónde se celebraron los primeros Juegos Olímpicos de la historia?",
         "opciones": [
-          "Nos da sol y espacio para movernos",
-          "Porque está de moda",
-          "Para alejarse de casa",
-          "Para no estudiar"
+          "En Grecia",
+          "En Roma",
+          "En Francia",
+          "En México"
         ],
-        "respuestaCorrecta": "Nos da sol y espacio para movernos",
-        "explicacion": "El sol nos da vitamina D y el espacio exterior invita a moverse más.",
-        "visual": "🌞"
+        "respuestaCorrecta": "En Grecia",
+        "explicacion": "¡En la Antigua Grecia, hace más de 2,700 años! Olympia fue la sede. Los atletas competían en honor a los dioses. 🏛️🇬🇷"
       },
       {
-        "id": "preescolar1ef-b5-02",
-        "tema": "Entorno",
+        "id": "pre1-ef-b5-v2-002",
+        "tema": "Seguridad en el deporte",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El proceso de preparar el cuerpo con movimientos suaves antes de hacer ejercicio intenso se llama ___",
+        "respuestaCorrecta": "calentamiento",
+        "explicacion": "¡El calentamiento! Aumenta la temperatura muscular y prepara el corazón. ¡Sin calentamiento, hay más riesgo de lesiones! 🔥🏃"
+      },
+      {
+        "id": "pre1-ef-b5-v2-003",
+        "tema": "Destrezas físicas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La resistencia cardiovascular es la capacidad de hacer ejercicio por mucho tiempo sin cansarse",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La resistencia! Los maratonistas tienen una resistencia increíble. ¡Se desarrolla con entrenamiento constante a lo largo del tiempo! 🏃‍♀️❤️"
+      },
+      {
+        "id": "pre1-ef-b5-v2-004",
+        "tema": "Mi progreso",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo podemos medir nuestro progreso en un deporte?",
+        "opciones": [
+          "Registrando tiempos, distancias o repeticiones y comparando con versiones anteriores",
+          "Mirando solo videos",
+          "Preguntando al vecino",
+          "No se puede medir"
+        ],
+        "respuestaCorrecta": "Registrando tiempos, distancias o repeticiones y comparando con versiones anteriores",
+        "explicacion": "¡El registro y comparación! Un diario de entrenamiento es una herramienta poderosa para ver el progreso. 📊📈"
+      },
+      {
+        "id": "pre1-ef-b5-v2-005",
+        "tema": "Destrezas físicas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La capacidad de moverse en diferentes direcciones rápidamente se llama ___",
+        "respuestaCorrecta": "agilidad",
+        "explicacion": "¡La agilidad! Cambiar de dirección rápidamente es crucial en deportes como el fútbol, básquet y tenis. 🔀💨"
+      },
+      {
+        "id": "pre1-ef-b5-v2-006",
+        "tema": "Los Olimpicos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significan los 5 aros olímpicos de diferentes colores?",
+        "opciones": [
+          "Los 5 continentes del mundo",
+          "Los 5 deportes originales",
+          "Los 5 colores de medallas",
+          "Los 5 países fundadores"
+        ],
+        "respuestaCorrecta": "Los 5 continentes del mundo",
+        "explicacion": "¡Los 5 continentes! América, Europa, Asia, África y Oceanía. Los colores representan las banderas de las naciones participantes. 🌍🌏🌎"
+      },
+      {
+        "id": "pre1-ef-b5-v2-007",
+        "tema": "Seguridad en el deporte",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cuando un compañero se lastima durante el juego, lo correcto es avisar a un adulto",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Siempre avisar! Ante una lesión, no moveremos al compañero y llamamos a un adulto. ¡La seguridad primero en todos los deportes! 🆘👨‍⚕️"
+      },
+      {
+        "id": "pre1-ef-b5-v2-008",
+        "tema": "Mi progreso",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La actitud de levantarse después de fallar y seguir intentándolo se llama ___",
+        "respuestaCorrecta": "resiliencia",
+        "explicacion": "¡Resiliencia! Todos los grandes atletas han fallado muchas veces antes de triunfar. ¡La resiliencia es la habilidad más poderosa! 💪🌟"
+      },
+      {
+        "id": "pre1-ef-b5-v2-009",
+        "tema": "Destrezas físicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la fuerza explosiva?",
+        "opciones": [
+          "La capacidad de generar mucha fuerza en muy poco tiempo",
+          "Correr mucho tiempo sin cansarse",
+          "Ser muy flexible",
+          "Nadar rápido"
+        ],
+        "respuestaCorrecta": "La capacidad de generar mucha fuerza en muy poco tiempo",
+        "explicacion": "¡Fuerza explosiva! Los saltadores de longitud y los sprinteres necesitan mucha fuerza explosiva. ¡Potencia instantánea! 💥🏃‍♂️"
+      },
+      {
+        "id": "pre1-ef-b5-v2-010",
+        "tema": "Los Olimpicos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "México ha ganado medallas de oro en los Juegos Olímpicos",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! México tiene varios oros olímpicos. Boxeo, ciclismo, ecuestre... ¡Los deportistas mexicanos han brillado en el mundo! 🥇🇲🇽"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-ef-b5-v1-002",
+        "tema": "Los Olimpicos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos cuidar las plantas del parque",
+        "pregunta": "Los Juegos Olímpicos se celebran cada 4 años",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Cada 4 años reúne a los mejores del mundo! 🏅"
+      },
+      {
+        "id": "pre1-ef-b5-v1-003",
+        "tema": "Seguridad en el deporte",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué debemos usar al andar en bicicleta para proteger la cabeza?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "El casco ⛑️",
+          "Un sombrero de paja",
+          "Una bufanda",
+          "Nada"
         ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Las plantas son seres vivos que benefician al medio ambiente."
+        "respuestaCorrecta": "El casco ⛑️",
+        "explicacion": "¡El casco siempre! ⛑️"
+      },
+      {
+        "id": "pre1-ef-b5-v2-001",
+        "tema": "Los Olimpicos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Dónde se celebraron los primeros Juegos Olímpicos de la historia?",
+        "opciones": [
+          "En Grecia",
+          "En Roma",
+          "En Francia",
+          "En México"
+        ],
+        "respuestaCorrecta": "En Grecia",
+        "explicacion": "¡Grecia Antigua, hace 2,700 años! 🏛️"
       }
     ]
-  }
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

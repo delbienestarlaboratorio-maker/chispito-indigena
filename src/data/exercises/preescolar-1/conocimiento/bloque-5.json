@@ -2,441 +2,287 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 5,
-  "nombre": "La naturaleza",
+  "nombre": "Cuido mi planeta",
   "meses": "Abril-Junio",
   "temas": [
-    "Mi cuerpo",
-    "Los colores",
-    "Los animales",
-    "La familia",
-    "La naturaleza"
+    "Reciclaje",
+    "Cuidar el agua",
+    "Los animales en peligro",
+    "Mi huella en el planeta",
+    "Energía limpia"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-conocimiento-b5-001",
-        "tema": "Los colores",
+        "id": "pre1-con-b5-v1-001",
+        "tema": "Reciclaje",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿De qué color es el contenedor para reciclar PAPEL?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Azul",
+          "Verde",
+          "Amarillo",
+          "Gris"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Azul",
+        "explicacion": "¡Azul para papel y cartón! Verde para vidrio, Amarillo para plástico. Los colores ayudan a separar la basura correctamente. ♻️",
+        "visual": "♻️"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-003",
-        "tema": "La familia",
+        "id": "pre1-con-b5-v1-002",
+        "tema": "Cuidar el agua",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
+        "pregunta": "Debemos cerrar la llave mientras nos cepillamos los dientes para ahorrar agua",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Los peces son animales acuáticos.",
-        "visual": "🐟",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Una llave abierta desperdicia 6-9 litros por minuto. ¡El agua es un tesoro que debemos cuidar! 💧🦷"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b5-v1-003",
+        "tema": "Los animales en peligro",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué significa que un animal esté 'en peligro de extinción'?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Que casi no quedan de esa especie y podría desaparecer",
+          "Que es muy peligroso",
+          "Que es muy grande",
+          "Que vive en el zoo"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Que casi no quedan de esa especie y podría desaparecer",
+        "explicacion": "¡En peligro de extinción significa que podrían desaparecer para siempre! Debemos proteger estas especies. 🦁🌿"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-007",
-        "tema": "Los colores",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-008",
-        "tema": "Los animales",
+        "id": "pre1-con-b5-v1-004",
+        "tema": "Mi huella en el planeta",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "Ir a la escuela en bicicleta en lugar de en coche contamina ___ el aire",
+        "respuestaCorrecta": "menos",
+        "explicacion": "¡La bicicleta no contamina! A diferencia del coche, no suelta gases. ¡Pequeñas decisiones hacen un mundo mejor! 🚲💚"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-009",
-        "tema": "La familia",
+        "id": "pre1-con-b5-v1-005",
+        "tema": "Energía limpia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los paneles solares captan la energía del sol para producir electricidad",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los paneles solares son maravillosos! Usan la luz del sol, que es gratuita e infinita, para generar electricidad limpia. ☀️⚡"
+      },
+      {
+        "id": "pre1-con-b5-v1-006",
+        "tema": "Reciclaje",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Cuál de estos materiales podemos reciclar?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Una botella de plástico",
+          "La basura orgánica mezclada",
+          "Un chicle usado",
+          "Papel mojado con aceite"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Una botella de plástico",
+        "explicacion": "¡Las botellas de plástico se pueden reciclar! Se convierten en nuevas botellas, ropa o juguetes. ¡El reciclaje transforma basura en recursos! ♻️",
+        "visual": "🍶"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-010",
-        "tema": "La naturaleza",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-011",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b5-v1-007",
+        "tema": "Los animales en peligro",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "El oso ___ es el oso más grande del mundo y está en peligro por el calentamiento global",
+        "respuestaCorrecta": "polar",
+        "explicacion": "¡El oso polar! Vive en el Ártico y el calentamiento global derrite su hogar de hielo. ¡Necesita nuestra ayuda! 🐻‍❄️"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-012",
-        "tema": "Los colores",
+        "id": "pre1-con-b5-v1-008",
+        "tema": "Cuidar el agua",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El agua del mar se puede beber directamente",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! El agua del mar es salada y no se puede beber. Hacernos más sed! Solo el 3% del agua en la Tierra es dulce (para beber). 🌊💧"
+      },
+      {
+        "id": "pre1-con-b5-v1-009",
+        "tema": "Mi huella en el planeta",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué es la 'huella de carbono'?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "La cantidad de CO2 que generamos con nuestras actividades",
+          "Una huella de un pie negro",
+          "Un tipo de pintura",
+          "Una seña de manos"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "La cantidad de CO2 que generamos con nuestras actividades",
+        "explicacion": "¡La huella de carbono! Todo lo que hacemos (usar el coche, comer carne, volar) produce CO2. Reducirla ayuda al planeta. 🌍"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-013",
-        "tema": "Los animales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-014",
-        "tema": "La familia",
+        "id": "pre1-con-b5-v1-010",
+        "tema": "Energía limpia",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-015",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
-        "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-017",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "Los molinos de viento modernos para producir electricidad se llaman ___",
+        "respuestaCorrecta": "aerogeneradores",
+        "explicacion": "¡Aerogeneradores o turbinas eólicas! El viento gira sus aspas y produce electricidad sin contaminar. ¡México tiene muchos en Oaxaca! 💨⚡"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-conocimiento-b5-004",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b5-v2-001",
+        "tema": "Reciclaje",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Cuántas veces puede reciclarse el aluminio (latas)?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "Solo 1 vez",
+          "3 veces",
+          "Infinitas veces",
+          "5 veces"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "Infinitas veces",
+        "explicacion": "¡El aluminio se puede reciclar infinitamente! Cada lata reciclada ahorra 95% de la energía que tomaría fabricarla desde cero. ♻️🥤"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-005",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b5-v2-002",
+        "tema": "Cuidar el agua",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol brilla de ___",
-        "respuestaCorrecta": "día",
-        "explicacion": "El sol sale de día y de noche está la luna y las estrellas.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "La deforestación (talar árboles) afecta la ___ porque los árboles ayudan a mantener el agua en el suelo",
+        "respuestaCorrecta": "lluvia",
+        "explicacion": "¡Los árboles atraen lluvia! Sus raíces retienen agua en el suelo y sus hojas evaporan agua que forma nubes. ¡Sin árboles, menos lluvia! 🌳💧"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b5-v2-003",
+        "tema": "Los animales en peligro",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El vaquita marina es el mamífero marino más pequeño del mundo y está en crítico peligro de extinción",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La vaquita marina! Solo quedan menos de 10 en el mundo. Vive en el Golfo de California, México. ¡Es urgente salvarla! 🐬🇲🇽"
+      },
+      {
+        "id": "pre1-con-b5-v2-004",
+        "tema": "Energía limpia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estas energías NO contamina?",
+        "opciones": [
+          "Energía solar",
+          "Energía del petróleo",
+          "Energía del carbón",
+          "Energía nuclear"
+        ],
+        "respuestaCorrecta": "Energía solar",
+        "explicacion": "¡La energía solar es limpia! El sol no produce CO2 ni residuos. Es la fuente de energía más abundante de la Tierra. ☀️🌍"
+      },
+      {
+        "id": "pre1-con-b5-v2-005",
+        "tema": "Mi huella en el planeta",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Las 3 R del medio ambiente son: Reducir, Reutilizar y ___",
+        "respuestaCorrecta": "Reciclar",
+        "explicacion": "¡Las 3 R! Reducir (usar menos), Reutilizar (volver a usar) y Reciclar (transformar en nuevo). ¡Son la guía para cuidar el planeta! ♻️"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-007",
-        "tema": "Los colores",
+        "id": "pre1-con-b5-v2-006",
+        "tema": "Reciclaje",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los residuos orgánicos (vegetales, frutas) pueden convertirse en composta para las plantas",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La composta! Los restos de comida se transforman en un abono natural y rico para las plantas. ¡La basura orgánica vuelve a la tierra! 🌱🍎"
+      },
+      {
+        "id": "pre1-con-b5-v2-007",
+        "tema": "Cuidar el agua",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Qué porcentaje aproximado del agua en la Tierra es agua dulce disponible para tomar?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "50%",
+          "25%",
+          "3%",
+          "10%"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "3%",
+        "explicacion": "¡Solo el 3%! Y de ese 3%, gran parte está en glaciares. El agua potable disponible es preciosa y escasa. ¡Cuídala! 💧🌎"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-008",
-        "tema": "Los animales",
+        "id": "pre1-con-b5-v2-008",
+        "tema": "Los animales en peligro",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
+        "pregunta": "¿Cuál es la principal causa de la extinción de animales?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
+          "La destrucción de su hábitat por humanos",
+          "Las enfermedades naturales",
+          "El frío del invierno",
+          "Los terremotos"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+        "respuestaCorrecta": "La destrucción de su hábitat por humanos",
+        "explicacion": "¡La deforestación y la contaminación destruyen los hogares de los animales! Cuando desaparece el bosque, desaparecen sus habitantes. 🌳🐘"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-009",
-        "tema": "La familia",
+        "id": "pre1-con-b5-v2-009",
+        "tema": "Mi huella en el planeta",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un solo árbol absorbe aproximadamente 48 kilos de CO2 al año",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los árboles son máquinas de absorber CO2! Por eso plantar árboles es una acción directa para combatir el cambio climático. 🌳💚"
+      },
+      {
+        "id": "pre1-con-b5-v2-010",
+        "tema": "Energía limpia",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-010",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-012",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-013",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-014",
-        "tema": "La familia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-015",
-        "tema": "La naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "El gas producido por la descomposición de materia orgánica que se usa como combustible se llama biogás o ___",
+        "respuestaCorrecta": "biocombustible",
+        "explicacion": "¡Los biocombustibles! Se hacen de plantas, residuos o algas. Son alternativas más limpias a la gasolina del petróleo. 🌱⛽"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-conocimiento-b5-001",
-        "tema": "Los colores",
+        "id": "pre1-con-b5-v1-001",
+        "tema": "Reciclaje",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿De qué color es el contenedor para reciclar PAPEL?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Azul",
+          "Verde",
+          "Amarillo",
+          "Gris"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Azul",
+        "explicacion": "¡Azul para papel! ♻️"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-002",
-        "tema": "Los animales",
+        "id": "pre1-con-b5-v1-002",
+        "tema": "Cuidar el agua",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Debemos cerrar la llave mientras nos cepillamos los dientes para ahorrar agua",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Ahorramos 6-9 litros por minuto! 💧"
+      },
+      {
+        "id": "pre1-con-b5-v2-005",
+        "tema": "Mi huella en el planeta",
         "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-004",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
-        "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
-        ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "pregunta": "Las 3 R del medio ambiente son: Reducir, Reutilizar y ___",
+        "respuestaCorrecta": "Reciclar",
+        "explicacion": "¡Las 3 R para cuidar el planeta! ♻️"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.112Z",
-  "version": "2.0"
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

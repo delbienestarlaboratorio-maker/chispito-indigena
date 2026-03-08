@@ -2,195 +2,291 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 4,
-  "nombre": "Soy saludable",
+  "nombre": "Deportes y trabajo en equipo",
   "meses": "Feb-Mar",
   "temas": [
-    "Hábitos saludables",
-    "Higiene"
+    "Básquet y fútbol",
+    "Natación",
+    "Atletismo básico",
+    "Trabajo en equipo"
   ],
-  "totalEjercicios": 10,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar1ef-b4-01",
-        "tema": "Salud",
+        "id": "pre1-ef-b4-v1-001",
+        "tema": "Básquet y fútbol",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué lavamos las manos?",
+        "pregunta": "En el fútbol soccer, ¿cómo metemos el balón en la portería?",
         "opciones": [
-          "Para quitar gérmenes",
-          "Para que brillen",
-          "Para que no crezcan",
-          "Para dormir"
+          "Con el pie o la cabeza",
+          "Con las manos",
+          "Con un palo",
+          "Con la espalda"
         ],
-        "respuestaCorrecta": "Para quitar gérmenes",
-        "explicacion": "Lavarse las manos con jabón elimina los gérmenes que nos enferman.",
-        "visual": "🧼"
+        "respuestaCorrecta": "Con el pie o la cabeza",
+        "explicacion": "¡En el fútbol no se puede usar las manos! Solo el portero puede usar las manos. ¡Los pies y la cabeza son las herramientas del jugador! ⚽",
+        "visual": "⚽"
       },
       {
-        "id": "preescolar1ef-b4-02",
-        "tema": "Salud",
+        "id": "pre1-ef-b4-v1-002",
+        "tema": "Trabajo en equipo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las frutas y verduras nos ayudan a crecer sanos",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Tienen vitaminas y minerales esenciales para nuestro cuerpo."
+        "pregunta": "En los deportes de equipo, todos los compañeros son igualmente importantes",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Cada jugador tiene un papel crucial. ¡Un equipo es como un engranaje: si una pieza falla, todo se detiene! 🤝⚽"
       },
       {
-        "id": "preescolar1ef-b4-03",
-        "tema": "Higiene",
+        "id": "pre1-ef-b4-v1-003",
+        "tema": "Atletismo básico",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas veces debemos lavarnos los dientes?",
+        "pregunta": "¿Qué parte del cuerpo usamos para correr más rápido?",
         "opciones": [
-          "3 veces al día",
-          "1 vez por semana",
-          "Nunca",
-          "Solo de noche"
+          "Las piernas principalmente",
+          "Solo los brazos",
+          "La cabeza",
+          "El cuello"
         ],
-        "respuestaCorrecta": "3 veces al día",
-        "explicacion": "Después de cada comida: desayuno, comida y cena.",
-        "visual": "🦷"
+        "respuestaCorrecta": "Las piernas principalmente",
+        "explicacion": "¡Las piernas son el motor! Pero los brazos también ayudan dando impulso. ¡Todo el cuerpo coopera para correr! 🏃‍♂️"
       },
       {
-        "id": "preescolar1ef-b4-04",
-        "tema": "Salud",
-        "tipo": "multiple_choice",
+        "id": "pre1-ef-b4-v1-004",
+        "tema": "Natación",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Cuántas horas deben dormir niños de preescolar?",
-        "opciones": [
-          "10 a 13 horas",
-          "3 horas",
-          "24 horas",
-          "5 horas"
-        ],
-        "respuestaCorrecta": "10 a 13 horas",
-        "explicacion": "Los niños pequeños necesitan más horas de sueño para crecer y aprender.",
-        "visual": "😴"
+        "pregunta": "En la natación, para no hundirnos movemos los brazos y ___ en el agua",
+        "respuestaCorrecta": "pies",
+        "explicacion": "¡Brazos y pies! Los movimientos combinados de brazos y pies nos mantienen a flote y nos impulsan. ¡La natación es un deporte completo! 🏊"
       },
       {
-        "id": "preescolar1ef-b4-05",
-        "tema": "Salud",
+        "id": "pre1-ef-b4-v1-005",
+        "tema": "Básquet y fútbol",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Beber agua es importante cada día",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "El agua es esencial para que todo el cuerpo funcione bien."
+        "pregunta": "En el básquetbol, metemos el balón en una canasta elevada",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! La canasta del básquet está a 3.05 metros de altura (una canasta estándar). ¡Hay que lanzar con fuerza y puntería! 🏀"
       },
       {
-        "id": "preescolar1ef-b4-06",
-        "tema": "Higiene",
+        "id": "pre1-ef-b4-v1-006",
+        "tema": "Trabajo en equipo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuándo debemos lavarnos las manos?",
+        "pregunta": "¿Qué hacemos cuando queremos pasar el balón a un compañero?",
         "opciones": [
-          "Antes de comer y después del baño",
-          "Solo cuando están sucias",
-          "Una vez al día",
-          "Nunca"
+          "Se lo lanzamos o pasamos",
+          "Lo guardamos para nosotros",
+          "Lo pateamos fuera de la cancha",
+          "Lo tiramos lejos"
         ],
-        "respuestaCorrecta": "Antes de comer y después del baño",
-        "explicacion": "Estos son los momentos más importantes para prevenir enfermedades.",
-        "visual": "🚿"
+        "respuestaCorrecta": "Se lo lanzamos o pasamos",
+        "explicacion": "¡El pase! Compartir el balón crea mejores jugadas. ¡Un equipo que no pasa, no gana! 🤾"
       },
       {
-        "id": "preescolar1ef-b4-07",
-        "tema": "Salud",
+        "id": "pre1-ef-b4-v1-007",
+        "tema": "Atletismo básico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El deporte donde saltamos tan lejos como podemos se llama salto de ___",
+        "respuestaCorrecta": "longitud",
+        "explicacion": "¡Salto de longitud! Corremos y saltamos lo más lejos posible. ¡Es una prueba del atletismo olímpico! 🏅"
+      },
+      {
+        "id": "pre1-ef-b4-v1-008",
+        "tema": "Natación",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El ejercicio ayuda a dormir mejor",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Activarse durante el día mejora la calidad del sueño nocturno."
+        "pregunta": "Aprender a nadar puede salvarnos la vida en una emergencia",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La natación es una habilidad de supervivencia! Saber nadar nos protege en playas, ríos y albercas. ¡Es una de las habilidades más importantes! 🏊‍♀️💙"
       },
       {
-        "id": "preescolar1ef-b4-08",
-        "tema": "Higiene",
+        "id": "pre1-ef-b4-v1-009",
+        "tema": "Básquet y fútbol",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo cubrimos al estornudar?",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de fútbol soccer?",
         "opciones": [
-          "Con el codo",
-          "Con la mano abierta",
-          "Con nada",
-          "Con la mano de otro"
+          "5",
+          "9",
+          "11",
+          "15"
         ],
-        "respuestaCorrecta": "Con el codo",
-        "explicacion": "El codo evita que los gérmenes queden en la mano y se propaguen.",
-        "visual": "🤧"
+        "respuestaCorrecta": "11",
+        "explicacion": "¡11 jugadores! 10 de campo y 1 portero. En total hay 22 jugadores en la cancha durante un partido. ¡Trabajo en equipo máximo! ⚽"
       },
       {
-        "id": "preescolar1ef-b4-09",
-        "tema": "Salud",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué alimento da energía real y duradera?",
-        "opciones": [
-          "Frutas y verduras",
-          "Dulces y refrescos",
-          "Solo agua",
-          "Frituras"
-        ],
-        "respuestaCorrecta": "Frutas y verduras",
-        "explicacion": "Los azúcares naturales de frutas y verduras dan energía sostenida.",
-        "visual": "🍎"
-      },
-      {
-        "id": "preescolar1ef-b4-10",
-        "tema": "Salud",
+        "id": "pre1-ef-b4-v1-010",
+        "tema": "Atletismo básico",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Comer dulces en exceso es bueno para los dientes",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Falso",
-        "explicacion": "El exceso de azúcar daña el esmalte dental y provoca caries."
+        "pregunta": "Estirarse antes y después de hacer ejercicio previene lesiones",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El calentamiento y estiramiento son esenciales! Los músculos fríos se lastiman fácil. ¡Siempre calentar antes de ejercitarse! 🏋️"
       }
     ],
-    "v2": [],
-    "preview": [
+    "v2": [
       {
-        "id": "preescolar1ef-b4-01",
-        "tema": "Salud",
+        "id": "pre1-ef-b4-v2-001",
+        "tema": "Trabajo en equipo",
         "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Para qué lavamos las manos?",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el papel del capitán en un equipo deportivo?",
         "opciones": [
-          "Para quitar gérmenes",
-          "Para que brillen",
-          "Para que no crezcan",
-          "Para dormir"
+          "Guiar y motivar al equipo",
+          "Hacer todos los goles",
+          "Siempre estar en la banca",
+          "Pelear con el árbitro"
         ],
-        "respuestaCorrecta": "Para quitar gérmenes",
-        "explicacion": "Lavarse las manos con jabón elimina los gérmenes que nos enferman.",
-        "visual": "🧼"
+        "respuestaCorrecta": "Guiar y motivar al equipo",
+        "explicacion": "¡El capitán lidera! Comunica, motiva y toma decisiones en el campo. ¡El liderazgo es una habilidad vital en el deporte y la vida! 👑"
       },
       {
-        "id": "preescolar1ef-b4-02",
-        "tema": "Salud",
+        "id": "pre1-ef-b4-v2-002",
+        "tema": "Natación",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Los 4 estilos principales de natación son: crol (libre), pecho, espalda y ___",
+        "respuestaCorrecta": "mariposa",
+        "explicacion": "¡Mariposa! El estilo mariposa es el más difícil. Ambos brazos se mueven juntos como alas de mariposa. ¡Requiere mucha fuerza! 🦋🏊"
+      },
+      {
+        "id": "pre1-ef-b4-v2-003",
+        "tema": "Atletismo básico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Usain Bolt tiene el récord mundial de los 100 metros planos con 9.58 segundos",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Usain Bolt el rayo! Logró este récord en 2009 en Berlín. ¡Corrió a más de 44 km/h! El humano más rápido del planeta. ⚡🏃‍♂️"
+      },
+      {
+        "id": "pre1-ef-b4-v2-004",
+        "tema": "Básquet y fútbol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos puntos vale un tiro de 3 puntos en el baloncesto?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "¡3 puntos si el tiro es desde más allá de la línea de 3 puntos! Es la jugada más espectacular del básquet. 🏀3️⃣"
+      },
+      {
+        "id": "pre1-ef-b4-v2-005",
+        "tema": "Trabajo en equipo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Celebrar los logros de los compañeros y no solo los propios se llama ___",
+        "respuestaCorrecta": "compañerismo",
+        "explicacion": "¡El compañerismo! Alegrarse por los triunfos del equipo, no solo por los propios, es una habilidad socioemocional clave. 🤝🎉"
+      },
+      {
+        "id": "pre1-ef-b4-v2-006",
+        "tema": "Atletismo básico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál deporte del atletismo combina carrera, salto y lanza?",
+        "opciones": [
+          "El decatlón",
+          "El maratón",
+          "La caminata",
+          "Los 100 metros planos"
+        ],
+        "respuestaCorrecta": "El decatlón",
+        "explicacion": "¡El decatlón! 10 pruebas combinadas en 2 días. ¡Los decatletas son considerados los mejores atletas totales del mundo! 🏅"
+      },
+      {
+        "id": "pre1-ef-b4-v2-007",
+        "tema": "Natación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La natación trabaja prácticamente todos los músculos del cuerpo al mismo tiempo",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La natación es uno de los deportes más completos. Trabaja brazos, piernas, abdomen y espalda simultáneamente. ¡Sin estrés en las articulaciones! 💪🏊"
+      },
+      {
+        "id": "pre1-ef-b4-v2-008",
+        "tema": "Básquet y fútbol",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El jugador que está frente a la portería rival y cuya función principal es meter goles se llama ___",
+        "respuestaCorrecta": "delantero",
+        "explicacion": "¡El delantero! También llamado atacante. Su misión es anotar goles. ¡Requiere velocidad, habilidad técnica y oportunismo! ⚽"
+      },
+      {
+        "id": "pre1-ef-b4-v2-009",
+        "tema": "Trabajo en equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la sinergia en un equipo?",
+        "opciones": [
+          "Cuando el equipo unido logra más que cada persona por separado",
+          "Cuando hay peleas",
+          "Cuando alguien no quiere jugar",
+          "El uniforme del equipo"
+        ],
+        "respuestaCorrecta": "Cuando el equipo unido logra más que cada persona por separado",
+        "explicacion": "¡Sinergia! 1+1=3 en términos de equipo. ¡Juntos somos más fuertes! Es el principio fundamental del trabajo en equipo. 🤝"
+      },
+      {
+        "id": "pre1-ef-b4-v2-010",
+        "tema": "Atletismo básico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El maratón es una carrera de 42 kilómetros y 195 metros",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El maratón! Distancia inspirada en la leyenda del soldado griego Fidípides que corrió de Maratón a Atenas. ¡Un reto de resistencia extrema! 🏃‍♀️"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-ef-b4-v1-001",
+        "tema": "Básquet y fútbol",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En el fútbol soccer, ¿cómo metemos el balón en la portería?",
+        "opciones": [
+          "Con el pie o la cabeza",
+          "Con las manos",
+          "Con un palo",
+          "Con la espalda"
+        ],
+        "respuestaCorrecta": "Con el pie o la cabeza",
+        "explicacion": "¡Sin usar las manos! ⚽"
+      },
+      {
+        "id": "pre1-ef-b4-v1-002",
+        "tema": "Trabajo en equipo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las frutas y verduras nos ayudan a crecer sanos",
+        "pregunta": "En los deportes de equipo, todos los compañeros son igualmente importantes",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Todos importan! 🤝"
+      },
+      {
+        "id": "pre1-ef-b4-v2-001",
+        "tema": "Trabajo en equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el papel del capitán en un equipo deportivo?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "Guiar y motivar al equipo",
+          "Hacer todos los goles",
+          "Siempre estar en la banca",
+          "Pelear con el árbitro"
         ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Tienen vitaminas y minerales esenciales para nuestro cuerpo."
+        "respuestaCorrecta": "Guiar y motivar al equipo",
+        "explicacion": "¡El capitán lidera! 👑"
       }
     ]
-  }
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

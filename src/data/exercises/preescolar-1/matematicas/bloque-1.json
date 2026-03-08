@@ -11,15 +11,15 @@
     "Ordena objetos",
     "Patrones simples"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-matematicas-b1-001",
-        "tema": "Figuras básicas",
-        "tipo": "visual_count",
+        "id": "pre1-mat-b1-v1-001",
+        "tema": "Contar del 1 al 5",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
+        "pregunta": "¿Cuántos 🍎 hay? 🍎🍎🍎",
         "opciones": [
           "1",
           "2",
@@ -27,15 +27,50 @@
           "4"
         ],
         "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
+        "explicacion": "¡Contamos: 1, 2, 3! Hay 3 manzanas. ¡Aprender a contar es el primer paso de las matemáticas! 🍎",
+        "visual": "🍎🍎🍎"
       },
       {
-        "id": "preescolar-1-matematicas-b1-002",
+        "id": "pre1-mat-b1-v1-002",
+        "tema": "Figuras básicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El círculo es completamente redondo, sin esquinas",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El círculo es la única figura sin esquinas ni lados rectos. ¡Como la luna llena y las pelotas! ⚽",
+        "visual": "⭕"
+      },
+      {
+        "id": "pre1-mat-b1-v1-003",
+        "tema": "Contar del 1 al 5",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Levanto 4 dedos: 1, 2, 3, ___",
+        "respuestaCorrecta": "4",
+        "explicacion": "¡El 4! Después del 3 viene el 4. ¡Cuatro como las patas de un perro! 🐶☝️"
+      },
+      {
+        "id": "pre1-mat-b1-v1-004",
         "tema": "Más y menos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
+        "pregunta": "Si tengo 2 galletas y me comen 1, ¿cuántas me quedan?",
+        "opciones": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "respuestaCorrecta": "1",
+        "explicacion": "2 galletas - 1 galleta = 1 galleta. ¡Restar es quitar! 🍪",
+        "visual": "🍪"
+      },
+      {
+        "id": "pre1-mat-b1-v1-005",
+        "tema": "Figuras básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas esquinas tiene un triángulo?",
         "opciones": [
           "2",
           "3",
@@ -43,306 +78,164 @@
           "5"
         ],
         "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
+        "explicacion": "¡El triángulo tiene 3 esquinas y 3 lados! TRI = 3. ¡Como las pizzas y los pañales de papel! 🔺",
+        "visual": "🔺"
       },
       {
-        "id": "preescolar-1-matematicas-b1-003",
-        "tema": "Ordena objetos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El cuadrado tiene 4 lados",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El cuadrado tiene 4 lados iguales.",
-        "visual": "🟦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-007",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-008",
-        "tema": "Figuras básicas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-009",
-        "tema": "Más y menos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
-        "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-010",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-011",
-        "tema": "Patrones simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-012",
-        "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
-        "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-013",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-014",
-        "tema": "Más y menos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-015",
-        "tema": "Ordena objetos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
-        "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-016",
+        "id": "pre1-mat-b1-v1-006",
         "tema": "Patrones simples",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "🔴🔵🔴🔵___",
+        "respuestaCorrecta": "🔴",
+        "explicacion": "¡El patrón es rojo-azul-rojo-azul! Después de azul 🔵 viene rojo 🔴. ¡Los patrones se repiten! 🎨"
       },
       {
-        "id": "preescolar-1-matematicas-b1-x-017",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b1-v1-007",
+        "tema": "Ordena objetos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+        "pregunta": "3 es más grande que 5",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! 5 es más grande que 3. En la recta numérica, los números que están más a la derecha son más grandes. 5 > 3 📏"
+      },
+      {
+        "id": "pre1-mat-b1-v1-008",
+        "tema": "Contar del 1 al 5",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué número viene DESPUÉS del 4?",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "¡El 5! 1-2-3-4-5. Después del 4 siempre viene el 5. ¡Como los deditos de una mano! ✋"
+      },
+      {
+        "id": "pre1-mat-b1-v1-009",
+        "tema": "Más y menos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "1 + 1 = ___",
+        "respuestaCorrecta": "2",
+        "explicacion": "1 más 1 son 2. ¡Sumar es juntar! Un papá + una mamá = una familia de 2! 💕"
+      },
+      {
+        "id": "pre1-mat-b1-v1-010",
+        "tema": "Ordena objetos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos objetos tiene forma de CUADRADO?",
+        "opciones": [
+          "Una hoja de papel cuadrada",
+          "Una naranja",
+          "Una pelota",
+          "Un lápiz"
+        ],
+        "respuestaCorrecta": "Una hoja de papel cuadrada",
+        "explicacion": "¡El cuadrado tiene 4 lados iguales! Una hoja cuadrada es el ejemplo perfecto. 🟦"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-matematicas-b1-004",
+        "id": "pre1-mat-b1-v2-001",
         "tema": "Patrones simples",
-        "tipo": "fill_blank",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
+        "pregunta": "1, 2, ___, 4, 5. ¿Qué número falta?",
+        "opciones": [
+          "2",
+          "3",
+          "6",
+          "7"
+        ],
         "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
+        "explicacion": "¡El 3! La secuencia 1-2-3-4-5 va de uno en uno. Siempre hay que buscar la regla del patrón. 🔢"
       },
       {
-        "id": "preescolar-1-matematicas-b1-005",
-        "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué figura es redonda?",
-        "opciones": [
-          "Cuadrado",
-          "Triángulo",
-          "Círculo",
-          "Rectángulo"
-        ],
-        "respuestaCorrecta": "Círculo",
-        "explicacion": "El círculo es completamente redondo, sin esquinas."
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-006",
+        "id": "pre1-mat-b1-v2-002",
         "tema": "Figuras básicas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "2 + 1 = ___",
-        "respuestaCorrecta": "3",
-        "explicacion": "2 manzanas más 1 manzana = 3 manzanas.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "El cuadrado tiene ___ lados iguales",
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 lados iguales! Por eso se llama cuadrado. Si los lados son iguales pero no forma ángulos rectos, a veces se llama rombo. 🟦"
       },
       {
-        "id": "preescolar-1-matematicas-b1-x-007",
-        "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-008",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-009",
+        "id": "pre1-mat-b1-v2-003",
         "tema": "Más y menos",
-        "tipo": "fill_blank",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+        "pregunta": "2 + 3 = 5",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correcto! 2 + 3 = 5. Podemos comprobarlo con los dedos: 2 dedos + 3 dedos = 5 dedos. ✋"
       },
       {
-        "id": "preescolar-1-matematicas-b1-x-010",
-        "tema": "Ordena objetos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-011",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-012",
+        "id": "pre1-mat-b1-v2-004",
         "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-013",
-        "tema": "Figuras básicas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "¿Qué número es el MAYOR de todos estos? 1, 5, 3, 2",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "1",
+          "2",
+          "3",
+          "5"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "5",
+        "explicacion": "¡El 5 es el mayor! Podemos comparar contando: 5 está al final de 1-2-3-4-5, por eso es el más grande. 🏆"
       },
       {
-        "id": "preescolar-1-matematicas-b1-x-014",
-        "tema": "Más y menos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-x-015",
+        "id": "pre1-mat-b1-v2-005",
         "tema": "Ordena objetos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+        "pregunta": "Si ordeno de menor a mayor: 3, 1, 5, 2, 4... el primero es el ___",
+        "respuestaCorrecta": "1",
+        "explicacion": "¡El 1! Ordenar de menor a mayor: 1, 2, 3, 4, 5. El más pequeño va primero. 📊"
       },
       {
-        "id": "preescolar-1-matematicas-b1-x-016",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b1-v2-006",
+        "tema": "Figuras básicas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "¿Cuántos lados tiene un rectángulo?",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 lados! Pero a diferencia del cuadrado, en el rectángulo 2 lados son más largos y 2 más cortos. ¡Como la pantalla de la tele! 📺"
+      },
+      {
+        "id": "pre1-mat-b1-v2-007",
+        "tema": "Más y menos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Tengo 5 caramelos y te doy 2. Me quedan ___ caramelos",
+        "respuestaCorrecta": "3",
+        "explicacion": "5 - 2 = 3. ¡Restar es quitar! Si teníamos 5 y quitamos 2, quedan 3. 🍬"
+      },
+      {
+        "id": "pre1-mat-b1-v2-008",
+        "tema": "Patrones simples",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El patrón 🔵🔴🔵🔴 continúa con 🔵",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El patrón es azul-rojo-azul-rojo. Después del último 🔴 viene el 🔵. ¡Los patrones son predecibles! 🔵"
+      },
+      {
+        "id": "pre1-mat-b1-v2-009",
+        "tema": "Contar del 1 al 5",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos lados tiene un triángulo más un cuadrado?",
         "opciones": [
           "5",
           "6",
@@ -350,29 +243,25 @@
           "8"
         ],
         "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "explicacion": "¡Triángulo (3 lados) + Cuadrado (4 lados) = 7 lados! Sumar también funciona con las propiedades de las figuras. 🔺🟦"
       },
       {
-        "id": "preescolar-1-matematicas-b1-x-017",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b1-v2-010",
+        "tema": "Ordena objetos",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "En la secuencia 5, 4, 3, 2, 1 los números van de MAYOR a MENOR",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correcto! Esta secuencia cuenta hacia atrás: empieza en el más grande (5) y termina en el más pequeño (1). ¡Como el conteo de un cohete! 🚀"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-matematicas-b1-001",
-        "tema": "Figuras básicas",
-        "tipo": "visual_count",
+        "id": "pre1-mat-b1-v1-001",
+        "tema": "Contar del 1 al 5",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
+        "pregunta": "¿Cuántos 🍎 hay? 🍎🍎🍎",
         "opciones": [
           "1",
           "2",
@@ -380,37 +269,34 @@
           "4"
         ],
         "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
+        "explicacion": "¡Contamos: 1, 2, 3! 🍎"
       },
       {
-        "id": "preescolar-1-matematicas-b1-002",
-        "tema": "Más y menos",
-        "tipo": "multiple_choice",
+        "id": "pre1-mat-b1-v1-002",
+        "tema": "Figuras básicas",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
+        "pregunta": "El círculo es completamente redondo, sin esquinas",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sin esquinas ni lados rectos! ⭕"
+      },
+      {
+        "id": "pre1-mat-b1-v2-001",
+        "tema": "Patrones simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "1, 2, ___, 4, 5. ¿Qué número falta?",
         "opciones": [
           "2",
           "3",
-          "4",
-          "5"
+          "6",
+          "7"
         ],
         "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b1-004",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
-        "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
+        "explicacion": "¡El 3! 1-2-3-4-5. 🔢"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.077Z",
-  "version": "2.0"
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

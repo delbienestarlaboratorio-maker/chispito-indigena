@@ -2,441 +2,299 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 2,
-  "nombre": "Colores y formas",
+  "nombre": "Mi entorno natural",
   "meses": "Octubre-Noviembre",
   "temas": [
-    "Mi cuerpo",
-    "Los colores",
-    "Los animales",
-    "La familia",
-    "La naturaleza"
+    "El agua",
+    "El aire",
+    "Las plantas",
+    "Los insectos",
+    "El clima"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-conocimiento-b2-001",
-        "tema": "Los colores",
+        "id": "pre1-con-b2-v1-001",
+        "tema": "El agua",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Para qué necesitamos el agua?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Para beber y bañarnos",
+          "Solo para los peces",
+          "Para hacer barro únicamente",
+          "No la necesitamos"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Para beber y bañarnos",
+        "explicacion": "¡El agua es vida! La bebemos, nos bañamos, cocinamos y regamos plantas con ella. ¡Sin agua no hay vida! 💧",
+        "visual": "💧"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-003",
-        "tema": "La familia",
+        "id": "pre1-con-b2-v1-002",
+        "tema": "Las plantas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
+        "pregunta": "Las flores dan semillas que crecerán en nuevas plantas",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Los peces son animales acuáticos.",
-        "visual": "🐟",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Las flores producen frutos con semillas. Esas semillas caen al suelo y si hay agua y sol, ¡nacen nuevas plantas! 🌸🌱"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b2-v1-003",
+        "tema": "El clima",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué usamos cuando llueve para no mojarnos?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Un paraguas ☂️",
+          "Gafas de sol 🕶️",
+          "Una bufanda",
+          "Un sombrero de paja"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Un paraguas ☂️",
+        "explicacion": "¡El paraguas nos protege de la lluvia! Fue inventado hace miles de años en China. ¡Genial invento! ☂️"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-007",
-        "tema": "Los colores",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-008",
-        "tema": "Los animales",
+        "id": "pre1-con-b2-v1-004",
+        "tema": "Los insectos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "Las abejas producen la ___ que comemos con el desayuno",
+        "respuestaCorrecta": "miel",
+        "explicacion": "¡Las abejas hacen miel! Visitan flores, recogen néctar y lo transforman en miel en su colmena. ¡Son trabajadoras increíbles! 🐝🍯"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-009",
-        "tema": "La familia",
+        "id": "pre1-con-b2-v1-005",
+        "tema": "El aire",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "No podemos ver el aire pero sí podemos sentirlo cuando sopla el viento",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El viento es el aire en movimiento! Lo sentimos en la cara y vemos sus efectos en los árboles y las nubes. 🌬️"
+      },
+      {
+        "id": "pre1-con-b2-v1-006",
+        "tema": "El agua",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿En cuál de estos estados puede estar el agua?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Líquida, sólida (hielo) y gaseosa (vapor)",
+          "Solo líquida",
+          "Solo sólida",
+          "Solo gaseosa"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Líquida, sólida (hielo) y gaseosa (vapor)",
+        "explicacion": "¡El agua es especial! Líquida en el vaso, sólida como el hielo y gaseosa como el vapor del café caliente. 💧🧊🌫️"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-010",
-        "tema": "La naturaleza",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-012",
-        "tema": "Los colores",
+        "id": "pre1-con-b2-v1-007",
+        "tema": "Las plantas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué parte de la planta absorbe el agua del suelo?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Las raíces",
+          "Las hojas",
+          "Las flores",
+          "Los frutos"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Las raíces",
+        "explicacion": "¡Las raíces son la 'boca' de la planta! Absorben agua y nutrientes del suelo para alimentar a toda la planta. 🌱"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-013",
-        "tema": "Los animales",
+        "id": "pre1-con-b2-v1-008",
+        "tema": "Los insectos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "Las mariposas empiezan su vida como orugas",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡Sí! La metamorfosis: huevo → oruga → crisálida → mariposa. ¡Una de las transformaciones más asombrosas de la naturaleza! 🦋"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-014",
-        "tema": "La familia",
+        "id": "pre1-con-b2-v1-009",
+        "tema": "El clima",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "Cuando hace mucho frío y el cielo está nublado, puede caer ___",
+        "respuestaCorrecta": "nieve",
+        "explicacion": "¡La nieve! Es agua congelada que cae en copos. En las montañas altas de México también nieva. ❄️",
+        "visual": "❄️"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-015",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b2-v1-010",
+        "tema": "El aire",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué necesitamos respirar para vivir?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Oxígeno del aire",
+          "Solo agua",
+          "Dióxido de carbono",
+          "Hidrógeno"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-017",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "respuestaCorrecta": "Oxígeno del aire",
+        "explicacion": "¡El oxígeno! Las plantas producen oxígeno. Por eso son tan importantes para la vida en la Tierra. 🌳💨"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-conocimiento-b2-004",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
-        "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
-        ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-005",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b2-v2-001",
+        "tema": "El agua",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol brilla de ___",
-        "respuestaCorrecta": "día",
-        "explicacion": "El sol sale de día y de noche está la luna y las estrellas.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "El proceso donde el agua de los ríos y mares sube al cielo por el calor del sol se llama ___",
+        "respuestaCorrecta": "evaporación",
+        "explicacion": "¡La evaporación! El sol calienta el agua, que se convierte en vapor y sube formando nubes. ¡El ciclo del agua! ☀️💧"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b2-v2-002",
+        "tema": "Los insectos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas patas tienen los insectos?",
+        "opciones": [
+          "4",
+          "6",
+          "8",
+          "10"
+        ],
+        "respuestaCorrecta": "6",
+        "explicacion": "¡6 patas! Todos los insectos tienen 6 patas y 3 partes del cuerpo: cabeza, tórax y abdomen. ¡Las arañas tienen 8 patas y NO son insectos! 🐛"
+      },
+      {
+        "id": "pre1-con-b2-v2-003",
+        "tema": "Las plantas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las cactáceas (cactus) pueden sobrevivir sin agua por mucho tiempo",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los cactus guardan agua en su tallo grueso! Por eso viven en el desierto. ¡México tiene la mayor variedad de cactus del mundo! 🌵🇲🇽"
+      },
+      {
+        "id": "pre1-con-b2-v2-004",
+        "tema": "El clima",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué instrumento mide la temperatura?",
+        "opciones": [
+          "El termómetro",
+          "El microscopio",
+          "La regla",
+          "La brújula"
+        ],
+        "respuestaCorrecta": "El termómetro",
+        "explicacion": "¡El termómetro! Mide cuánto calor o frío hace. La temperatura se mide en grados Celsius (°C) en México. 🌡️"
+      },
+      {
+        "id": "pre1-con-b2-v2-005",
+        "tema": "El aire",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "La contaminación del aire se produce cuando hay demasiado ___ en la atmósfera",
+        "respuestaCorrecta": "smog",
+        "explicacion": "¡El smog! Es una mezcla de humo y niebla de los coches y fábricas. Respirarlo es dañino. ¡Por eso hay que cuidar el aire! 🌫️🚗"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-007",
-        "tema": "Los colores",
+        "id": "pre1-con-b2-v2-006",
+        "tema": "El agua",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Qué porcentaje del cuerpo humano es agua?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "10%",
+          "30%",
+          "60-70%",
+          "90%"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "60-70%",
+        "explicacion": "¡60-70% de nuestro cuerpo es agua! Por eso hay que tomar al menos 8 vasos al día para mantenernos saludables. 💧🏃"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-008",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
+        "id": "pre1-con-b2-v2-007",
+        "tema": "Los insectos",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+        "pregunta": "Las abejas necesitan las flores y las flores necesitan las abejas para reproducirse",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Simbiosis perfecta! Las abejas polinizan las flores (les llevan el polencillo) y a cambio reciben el néctar. ¡Interdependencia! 🐝🌸"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-009",
-        "tema": "La familia",
+        "id": "pre1-con-b2-v2-008",
+        "tema": "Las plantas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "El proceso por el cual las plantas convierten luz solar en alimento se llama ___",
+        "respuestaCorrecta": "fotosíntesis",
+        "explicacion": "¡Foto-sín-te-sis! Las plantas usan luz + agua + CO2 para producir glucosa (su alimento) y liberan oxígeno. ¡Las plantas nos alimentan y nos dan aire! 🌿"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-010",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b2-v2-009",
+        "tema": "El clima",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Cuántas estaciones del año hay?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "2",
+          "3",
+          "4",
+          "5"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 estaciones! Primavera 🌸, Verano ☀️, Otoño 🍂, Invierno ❄️. En México no siempre se sienten las cuatro, pero existen. 🌎"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
+        "id": "pre1-con-b2-v2-010",
+        "tema": "El aire",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-012",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-013",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-014",
-        "tema": "La familia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-015",
-        "tema": "La naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "Plantar árboles ayuda a limpiar el aire que respiramos",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los árboles absorben CO2 y liberan oxígeno! Por eso plantar árboles es una de las mejores cosas que podemos hacer por el planeta. 🌳💚"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-conocimiento-b2-001",
-        "tema": "Los colores",
+        "id": "pre1-con-b2-v1-001",
+        "tema": "El agua",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Para qué necesitamos el agua?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Para beber y bañarnos",
+          "Solo para los peces",
+          "Para hacer barro únicamente",
+          "No la necesitamos"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Para beber y bañarnos",
+        "explicacion": "¡El agua es vida! 💧"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-002",
-        "tema": "Los animales",
+        "id": "pre1-con-b2-v1-004",
+        "tema": "Los insectos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
+        "pregunta": "Las abejas producen la ___ que comemos con el desayuno",
+        "respuestaCorrecta": "miel",
+        "explicacion": "¡Las abejas hacen miel! 🐝🍯"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-004",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b2-v2-002",
+        "tema": "Los insectos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Cuántas patas tienen los insectos?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "4",
+          "6",
+          "8",
+          "10"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "6",
+        "explicacion": "¡6 patas! 🐛"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.109Z",
-  "version": "2.0"
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

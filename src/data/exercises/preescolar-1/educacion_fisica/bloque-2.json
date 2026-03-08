@@ -2,195 +2,297 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 2,
-  "nombre": "Jugamos juntos",
+  "nombre": "Me muevo y me divierto",
   "meses": "Oct-Nov",
   "temas": [
-    "Juegos de grupo",
-    "Reglas del juego"
+    "Juegos de persecución",
+    "Equilibrio",
+    "Lanzar y atrapar",
+    "Bailar"
   ],
-  "totalEjercicios": 10,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar1ef-b2-01",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-001",
+        "tema": "Juegos de persecución",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirven las reglas en un juego?",
+        "pregunta": "En el juego de 'las traes', ¿qué hace el niño que 'la trae'?",
         "opciones": [
-          "Para que todos jueguen bien",
-          "Para castigar",
-          "Para ganar siempre",
-          "Para no jugar"
-        ],
-        "respuestaCorrecta": "Para que todos jueguen bien",
-        "explicacion": "Las reglas garantizan diversión justa para todos.",
-        "visual": "🎮"
-      },
-      {
-        "id": "preescolar1ef-b2-02",
-        "tema": "Convivencia",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Debemos respetar a los demás al jugar",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Respetar a los compañero hace que todos se diviertan."
-      },
-      {
-        "id": "preescolar1ef-b2-03",
-        "tema": "Juego",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En las \"traes\", ¿qué hace quien la lleva?",
-        "opciones": [
-          "Persigue a los demás",
-          "Se esconde",
+          "Corre para tocar a otro jugador",
           "Se queda quieto",
-          "Canta"
+          "Cierra los ojos",
+          "Canta una canción"
         ],
-        "respuestaCorrecta": "Persigue a los demás",
-        "explicacion": "Quien \"la lleva\" corre para tocar a otro jugador.",
-        "visual": "🏃"
+        "respuestaCorrecta": "Corre para tocar a otro jugador",
+        "explicacion": "¡El que 'la trae' corre para tocar a alguien! Al tocarle, ese jugador 'la trae' ahora. ¡Es un juego de persecución divertidísimo! 🏃"
       },
       {
-        "id": "preescolar1ef-b2-04",
-        "tema": "Convivencia",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si un amigo se cae jugando, ¿qué hago?",
-        "opciones": [
-          "Lo ayudo",
-          "Lo ignoro",
-          "Me río",
-          "Sigo jugando"
-        ],
-        "respuestaCorrecta": "Lo ayudo",
-        "explicacion": "Ayudar a un amigo lastimado es lo correcto. Avisa a un adulto si es necesario.",
-        "visual": "🤝"
-      },
-      {
-        "id": "preescolar1ef-b2-05",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-002",
+        "tema": "Equilibrio",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Solo los niños grandes pueden jugar",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Falso",
-        "explicacion": "Todos pueden jugar, adaptando las actividades a cada edad."
+        "pregunta": "Pararnos en un solo pie ayuda a desarrollar el equilibrio",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El equilibrio se entrena con práctica. Pararse en un pie, caminar sobre una línea... ¡retos divertidos para el cuerpo! 🦩"
       },
       {
-        "id": "preescolar1ef-b2-06",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-003",
+        "tema": "Lanzar y atrapar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En \"Simón dice\", hacemos caso cuando:",
+        "pregunta": "¿Cómo debemos poner las manos para atrapar una pelota?",
         "opciones": [
-          "Simón lo ordena",
-          "Cualquier niño lo diga",
-          "Nadie lo diga",
-          "Solo si queremos"
+          "Juntas formando una cesta",
+          "Con los puntos cerrados",
+          "Con los brazos cruzados",
+          "Detrás de la espalda"
         ],
-        "respuestaCorrecta": "Simón lo ordena",
-        "explicacion": "Solo ejecutamos la acción si se dice \"Simón dice...\".",
-        "visual": "👑"
+        "respuestaCorrecta": "Juntas formando una cesta",
+        "explicacion": "¡Las manos forman una cesta! Dedos separados y manos en copa para que la pelota no se escape. 🤲",
+        "visual": "🤲"
       },
       {
-        "id": "preescolar1ef-b2-07",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-004",
+        "tema": "Bailar",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Jugar en equipo enseña a compartir",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "El juego en equipo fomenta cooperación y convivencia."
+        "pregunta": "Bailar con música rápida nos hace mover el cuerpo más rápido",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El cuerpo sigue el ritmo! La música rápida = movimientos rápidos. La música lenta = movimientos suaves. ¡Es comunicación entre la música y el cuerpo! 💃"
       },
       {
-        "id": "preescolar1ef-b2-08",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-005",
+        "tema": "Equilibrio",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Caminar sobre una línea recta sin salirse requiere ___",
+        "respuestaCorrecta": "equilibrio",
+        "explicacion": "¡El equilibrio! Es la capacidad de mantenernos estables. Practicarlo mejora la concentración y coordinación. 🎯"
+      },
+      {
+        "id": "pre1-ef-b2-v1-006",
+        "tema": "Juegos de persecución",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué hacemos al terminar el juego?",
+        "pregunta": "¿Cuántos jugadores se necesitan mínimo para jugar 'las traes'?",
         "opciones": [
-          "Guardar materiales y agradecer",
-          "Tirar todo",
-          "Pelearnos",
-          "Nada"
+          "1",
+          "2",
+          "5",
+          "10"
         ],
-        "respuestaCorrecta": "Guardar materiales y agradecer",
-        "explicacion": "Al terminar guardamos todo y agradecemos a quienes jugaron.",
-        "visual": "🙏"
+        "respuestaCorrecta": "2",
+        "explicacion": "¡Con solo 2 ya se puede jugar! Uno corre y el otro persigue. ¡Más jugadores hacen el juego más emocionante! 👫"
       },
       {
-        "id": "preescolar1ef-b2-09",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-007",
+        "tema": "Lanzar y atrapar",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para lanzar lejos, necesitamos dar impulso con el brazo hacia ___",
+        "respuestaCorrecta": "adelante",
+        "explicacion": "¡El movimiento hacia adelante da el impulso! Balanceamos el brazo atrás y lo soltamos con fuerza hacia adelante. ¡Como un pitcher! ⚾"
+      },
+      {
+        "id": "pre1-ef-b2-v1-008",
+        "tema": "Bailar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas manos usamos para atrapar una pelota grande?",
+        "pregunta": "¿Cuál parte del cuerpo marcamos el ritmo con palmas?",
         "opciones": [
-          "Dos",
-          "Una",
-          "Ninguna",
-          "Tres"
+          "Las manos",
+          "Los pies",
+          "La cabeza",
+          "Los codos"
         ],
-        "respuestaCorrecta": "Dos",
-        "explicacion": "Con las dos manos sujetamos mejor una pelota grande.",
-        "visual": "🏀"
+        "respuestaCorrecta": "Las manos",
+        "explicacion": "¡Aplaudimos con las manos! Las palmas marcan el ritmo de la música. Clap, clap, clap. 👏"
       },
       {
-        "id": "preescolar1ef-b2-10",
-        "tema": "Convivencia",
+        "id": "pre1-ef-b2-v1-009",
+        "tema": "Juegos de persecución",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos pelear si perdemos un juego",
+        "pregunta": "Correr en zigzag nos ayuda a escapar en los juegos de persecución",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El zigzag confunde al perseguidor! Cambiar de dirección rápidamente nos hace más difíciles de atrapar. ¡Estrategia y agilidad! 🏃‍♂️"
+      },
+      {
+        "id": "pre1-ef-b2-v1-010",
+        "tema": "Equilibrio",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué actividad requiere mucho equilibrio?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "Caminar en la banca del parque",
+          "Sentarse en una silla",
+          "Dormir",
+          "Ver televisión"
         ],
-        "respuestaCorrecta": "Falso",
-        "explicacion": "Perder forma parte del juego. Lo importante es disfrutar y aprender."
+        "respuestaCorrecta": "Caminar en la banca del parque",
+        "explicacion": "¡Caminar sobre algo angosto requiere equilibrio! El cuerpo busca constantemente su centro de gravedad. 🌳"
       }
     ],
-    "v2": [],
-    "preview": [
+    "v2": [
       {
-        "id": "preescolar1ef-b2-01",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v2-001",
+        "tema": "Lanzar y atrapar",
         "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Para qué sirven las reglas en un juego?",
+        "nivel": "v2",
+        "pregunta": "¿Qué deporte usa principalmente lanzar y atrapar?",
         "opciones": [
-          "Para que todos jueguen bien",
-          "Para castigar",
-          "Para ganar siempre",
-          "Para no jugar"
+          "El béisbol",
+          "El fútbol soccer",
+          "La natación",
+          "El karate"
         ],
-        "respuestaCorrecta": "Para que todos jueguen bien",
-        "explicacion": "Las reglas garantizan diversión justa para todos.",
-        "visual": "🎮"
+        "respuestaCorrecta": "El béisbol",
+        "explicacion": "¡En el béisbol se lanza y se atrapa! El pitcher lanza y el catcher atrapa. ¡Es un deporte lleno de habilidades! ⚾"
       },
       {
-        "id": "preescolar1ef-b2-02",
-        "tema": "Convivencia",
+        "id": "pre1-ef-b2-v2-002",
+        "tema": "Bailar",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El baile que combina movimientos con acrobacias y es competitivo se llama danza ___",
+        "respuestaCorrecta": "deportiva",
+        "explicacion": "¡La danza deportiva! Combina el arte del baile con la competencia deportiva. ¡Requiere fuerza, flexibilidad y coordinación! 🩰"
+      },
+      {
+        "id": "pre1-ef-b2-v2-003",
+        "tema": "Equilibrio",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las personas mayores también necesitan practicar el equilibrio para evitar caídas",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El equilibrio se pierde con la edad si no se practica. El yoga y tai chi son excelentes para mantenerlo. ¡El ejercicio es para toda la vida! 🧘"
+      },
+      {
+        "id": "pre1-ef-b2-v2-004",
+        "tema": "Juegos de persecución",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué capacidad física principal desarrollamos al jugar 'las traes'?",
+        "opciones": [
+          "La velocidad y la agilidad",
+          "La fuerza muscular",
+          "La flexibilidad",
+          "El equilibrio estático"
+        ],
+        "respuestaCorrecta": "La velocidad y la agilidad",
+        "explicacion": "¡Velocidad para correr y agilidad para cambiar de dirección! Los juegos de persecución son excelente ejercicio cardiovascular. 💨"
+      },
+      {
+        "id": "pre1-ef-b2-v2-005",
+        "tema": "Lanzar y atrapar",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La coordinación ojo-___ es la habilidad de coordinar lo que vemos con el movimiento de la mano",
+        "respuestaCorrecta": "mano",
+        "explicacion": "¡Coordinación ojo-mano! Es fundamental para deportes como tenis, béisbol y básquet. ¡Se entrena con práctica! 👁️🤚"
+      },
+      {
+        "id": "pre1-ef-b2-v2-006",
+        "tema": "Bailar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿A qué edad es recomendable comenzar a practicar danza o baile?",
+        "opciones": [
+          "Desde muy pequeños (3-4 años)",
+          "Solo desde los 18 años",
+          "Nunca antes de los 12",
+          "Solo adultos"
+        ],
+        "respuestaCorrecta": "Desde muy pequeños (3-4 años)",
+        "explicacion": "¡Mientras antes, mejor! Los niños pequeños tienen gran plasticidad corporal. ¡Bailar desde pequeño desarrolla coordinación, memoria y creatividad! 🩺"
+      },
+      {
+        "id": "pre1-ef-b2-v2-007",
+        "tema": "Equilibrio",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El punto del cuerpo alrededor del cual se distribuye nuestro peso de forma equilibrada se llama centro de ___",
+        "respuestaCorrecta": "gravedad",
+        "explicacion": "¡El centro de gravedad! Está aproximadamente en el ombligo. ¡Cuando nos inclinamos demasiado, perdemos el equilibrio! 🔭"
+      },
+      {
+        "id": "pre1-ef-b2-v2-008",
+        "tema": "Juegos de persecución",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los juegos de persecución son buenos para la salud cardiovascular (el corazón)",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Correr hace que el corazón lata más rápido y se fortalezca. ¡Los juegos activos son la mejor medicina para niños! ❤️🏃"
+      },
+      {
+        "id": "pre1-ef-b2-v2-009",
+        "tema": "Bailar",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Aprender coreografías (secuencias de pasos) de baile mejora la memoria",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Recordar pasos de baile entrena la memoria muscular y cerebral. ¡El baile hace más inteligentes a los bailarines! 🧠💃"
+      },
+      {
+        "id": "pre1-ef-b2-v2-010",
+        "tema": "Lanzar y atrapar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué pasa con la trayectoria de una pelota lanzada hacia arriba?",
+        "opciones": [
+          "Sube, se curva y baja por la gravedad",
+          "Va siempre en línea recta",
+          "Sube sin bajar nunca",
+          "Baja de inmediato"
+        ],
+        "respuestaCorrecta": "Sube, se curva y baja por la gravedad",
+        "explicacion": "¡La gravedad! Tira de todos los objetos hacia abajo. Por eso la pelota lanzada arriba siempre baja. ¡Física en el recreo! 🌍🎾"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-ef-b2-v1-001",
+        "tema": "Juegos de persecución",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En el juego de 'las traes', ¿qué hace el niño que 'la trae'?",
+        "opciones": [
+          "Corre para tocar a otro jugador",
+          "Se queda quieto",
+          "Cierra los ojos",
+          "Canta una canción"
+        ],
+        "respuestaCorrecta": "Corre para tocar a otro jugador",
+        "explicacion": "¡El que 'la trae' corre para tocar a alguien! 🏃"
+      },
+      {
+        "id": "pre1-ef-b2-v1-002",
+        "tema": "Equilibrio",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos respetar a los demás al jugar",
+        "pregunta": "Pararnos en un solo pie ayuda a desarrollar el equilibrio",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El equilibrio se entrena! 🦩"
+      },
+      {
+        "id": "pre1-ef-b2-v2-001",
+        "tema": "Lanzar y atrapar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué deporte usa principalmente lanzar y atrapar?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "El béisbol",
+          "El fútbol soccer",
+          "La natación",
+          "El karate"
         ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Respetar a los compañero hace que todos se diviertan."
+        "respuestaCorrecta": "El béisbol",
+        "explicacion": "¡El béisbol! ⚾"
       }
     ]
-  }
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

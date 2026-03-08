@@ -2,415 +2,292 @@
   "grado": "preescolar-1",
   "materia": "matematicas",
   "bloque": 4,
-  "nombre": "Comparar cantidades",
+  "nombre": "Resuelvo problemas",
   "meses": "Febrero-Marzo",
   "temas": [
-    "Contar del 1 al 5",
-    "Figuras básicas",
-    "Más y menos",
-    "Ordena objetos",
-    "Patrones simples"
+    "Problemas con suma",
+    "Problemas con resta",
+    "Tablas simples",
+    "El dinero",
+    "Tiempo y calendario"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-matematicas-b4-001",
-        "tema": "Figuras básicas",
-        "tipo": "visual_count",
+        "id": "pre1-mat-b4-v1-001",
+        "tema": "Problemas con suma",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
+        "pregunta": "Ana tiene 3 muñecas y le dan 2 más. ¿Cuántas muñecas tiene ahora? ___",
+        "respuestaCorrecta": "5",
+        "explicacion": "3 + 2 = 5. ¡Ana tiene 5 muñecas ahora! Resolver problemas con sumas nos ayuda en la vida real. 🪆"
+      },
+      {
+        "id": "pre1-mat-b4-v1-002",
+        "tema": "Tiempo y calendario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "7",
+        "explicacion": "¡7 días! Lunes, Martes, Miércoles, Jueves, Viernes, Sábado y Domingo. ¡7 días, 7 colores del arcoíris! 🌈",
+        "visual": "📅"
+      },
+      {
+        "id": "pre1-mat-b4-v1-003",
+        "tema": "El dinero",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las monedas y billetes son tipos de dinero",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las monedas son de metal y los billetes son de papel especial. Los dos son dinero que usamos para comprar. 💰"
+      },
+      {
+        "id": "pre1-mat-b4-v1-004",
+        "tema": "Problemas con resta",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Hay 6 pájaros en un árbol y se vuelan 4. ¿Cuántos quedan?",
         "opciones": [
           "1",
           "2",
           "3",
           "4"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
+        "respuestaCorrecta": "2",
+        "explicacion": "6 - 4 = 2. ¡Se volaron 4 pájaros y quedaron 2! Los problemas de resta hablan de 'quitar' o 'irse'. 🐦"
       },
       {
-        "id": "preescolar-1-matematicas-b4-002",
-        "tema": "Más y menos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
-        "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-003",
-        "tema": "Ordena objetos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El cuadrado tiene 4 lados",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El cuadrado tiene 4 lados iguales.",
-        "visual": "🟦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-007",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b4-v1-005",
+        "tema": "Tablas simples",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "En una tabla, si hay 2 filas con 3 objetos cada una, hay ___ objetos en total",
+        "respuestaCorrecta": "6",
+        "explicacion": "2 filas × 3 objetos = 6 objetos. Las tablas nos ayudan a organizar y ver cantidades rápidamente. 📊"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-008",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b4-v1-006",
+        "tema": "Tiempo y calendario",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "10 > 9",
+        "pregunta": "El viernes viene después del jueves y antes del sábado",
         "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+        "explicacion": "¡Sí! La semana va: Lun-Mar-Mié-Jue-VIE-Sáb-Dom. El viernes está entre jueves y sábado. 📅"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-009",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b4-v1-007",
+        "tema": "Problemas con suma",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "En el parque hay 4 niñas y 3 niños. ¿Cuántos niños hay en total?",
         "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
+          "5",
+          "6",
+          "7",
+          "8"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "7",
+        "explicacion": "4 niñas + 3 niños = 7 niños en total. ¡Sumar grupos distintos nos da el total! 👫👧"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-010",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-011",
-        "tema": "Patrones simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-012",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b4-v1-008",
+        "tema": "El dinero",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "¿Para qué sirve el dinero?",
         "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
+          "Para comprar cosas que necesitamos",
+          "Para tirar a la basura",
+          "Para hacer aviones de papel",
+          "Para decorar la casa"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "Para comprar cosas que necesitamos",
+        "explicacion": "¡El dinero es un medio de intercambio! Lo usamos para obtener bienes y servicios que necesitamos. 🛒"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-013",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b4-v1-009",
+        "tema": "Problemas con resta",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "Tengo 7 canicas. Le doy 5 a mi primo. Me quedan ___ canicas",
+        "respuestaCorrecta": "2",
+        "explicacion": "7 - 5 = 2. ¡Compartir es restar del total propio! Pero también suma felicidad. 🎮"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-014",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b4-v1-010",
+        "tema": "Tablas simples",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "10 > 9",
+        "pregunta": "Una tabla puede ayudarme a ordenar información de manera visual",
         "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-015",
-        "tema": "Ordena objetos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
-        "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-016",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-017",
-        "tema": "Contar del 1 al 5",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+        "explicacion": "¡Las tablas son herramientas poderosas! Organizan datos con filas y columnas para que sean fáciles de leer. 📊"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-matematicas-b4-004",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
-        "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-005",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b4-v2-001",
+        "tema": "Tiempo y calendario",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué figura es redonda?",
+        "pregunta": "¿Aproximadamente cuántos días tiene un mes?",
         "opciones": [
-          "Cuadrado",
-          "Triángulo",
-          "Círculo",
-          "Rectángulo"
-        ],
-        "respuestaCorrecta": "Círculo",
-        "explicacion": "El círculo es completamente redondo, sin esquinas."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-006",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "2 + 1 = ___",
-        "respuestaCorrecta": "3",
-        "explicacion": "2 manzanas más 1 manzana = 3 manzanas.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-007",
-        "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
-          "6",
           "7",
-          "8"
+          "14",
+          "30",
+          "365"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "30",
+        "explicacion": "¡Aproximadamente 30 días! Algunos meses tienen 28, 29, 30 o 31 días. El año tiene 12 meses y 365 días. 📅"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-008",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b4-v2-002",
+        "tema": "El dinero",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "Si un helado cuesta $5 y doy un billete de $10, me regresan ___ pesos de cambio",
+        "respuestaCorrecta": "5",
+        "explicacion": "$10 - $5 = $5 de cambio. ¡Calcular el cambio es matemáticas de la vida real! 🍦💵"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-009",
-        "tema": "Más y menos",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b4-v2-003",
+        "tema": "Problemas con suma",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+        "pregunta": "Si sumamos 8 + 0 el resultado es 8",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Sumar cero no cambia el número. 8 + 0 = 8. ¡El cero es el elemento neutro de la suma! ✨"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-010",
-        "tema": "Ordena objetos",
+        "id": "pre1-mat-b4-v2-004",
+        "tema": "Tablas simples",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "En una tabla de frutas, la columna 'Manzanas' tiene 3, la de 'Peras' tiene 2. ¿Cuántas frutas hay en total?",
         "opciones": [
+          "3",
+          "4",
           "5",
-          "6",
-          "7",
-          "8"
+          "6"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "5",
+        "explicacion": "3 manzanas + 2 peras = 5 frutas en total. ¡Las tablas hacen los problemas más fáciles! 🍎🍐"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-011",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b4-v2-005",
+        "tema": "Problemas con resta",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "El resultado de restar 6 - 6 es ___",
+        "respuestaCorrecta": "0",
+        "explicacion": "6 - 6 = 0. ¡Cuando restamos un número de sí mismo el resultado es cero! Si tenía 6 galletas y me las comí todas, tengo 0. 🍪"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-012",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b4-v2-006",
+        "tema": "Tiempo y calendario",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+        "pregunta": "El lunes es el primer día de la semana laboral",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡En México y muchos países el lunes es el primer día! Aunque el domingo también se considera inicio de semana en otros países. 📅"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-013",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b4-v2-007",
+        "tema": "Problemas con suma",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "En la granja hay 4 vacas, 3 gallinas y 2 caballos. ¿Cuántos animales hay?",
         "opciones": [
-          "5",
-          "6",
           "7",
-          "8"
+          "8",
+          "9",
+          "10"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "9",
+        "explicacion": "4 + 3 + 2 = 9 animales. ¡Podemos sumar más de dos grupos! 4+3=7, y 7+2=9. 🐄🐔🐴"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-014",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b4-v2-008",
+        "tema": "El dinero",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Ahorrar dinero significa guardarlo para usarlo después",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Ahorrar es una habilidad muy importante! Guardar dinero hoy nos permite comprar cosas más importantes mañana. 🐷💰"
+      },
+      {
+        "id": "pre1-mat-b4-v2-009",
+        "tema": "Tablas simples",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "Si 3 niños tienen 2 lápices cada uno, en total hay ___ lápices",
+        "respuestaCorrecta": "6",
+        "explicacion": "3 grupos de 2 = 6. ¡Este es el concepto de multiplicación! 3 × 2 = 6. ¡La suma repetida! ✏️"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-015",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-016",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b4-v2-010",
+        "tema": "Tiempo y calendario",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "¿Cuántos meses tiene un año?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "10",
+          "11",
+          "12",
+          "13"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-017",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
         "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "explicacion": "¡12 meses! Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septiembre, Octubre, Noviembre y Diciembre. 📅"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-matematicas-b4-001",
-        "tema": "Figuras básicas",
-        "tipo": "visual_count",
+        "id": "pre1-mat-b4-v1-001",
+        "tema": "Problemas con suma",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
+        "pregunta": "Ana tiene 3 muñecas y le dan 2 más. ¿Cuántas muñecas tiene ahora?",
+        "respuestaCorrecta": "5",
+        "explicacion": "3 + 2 = 5. 🪆"
       },
       {
-        "id": "preescolar-1-matematicas-b4-002",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b4-v1-002",
+        "tema": "Tiempo y calendario",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
+        "pregunta": "¿Cuántos días tiene una semana?",
         "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
+          "5",
+          "6",
+          "7",
+          "8"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "7",
+        "explicacion": "7 días: Lunes a Domingo. 📅"
       },
       {
-        "id": "preescolar-1-matematicas-b4-004",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b4-v2-001",
+        "tema": "Tiempo y calendario",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
-        "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
+        "pregunta": "¿Aproximadamente cuántos días tiene un mes?",
+        "opciones": [
+          "7",
+          "14",
+          "30",
+          "365"
+        ],
+        "respuestaCorrecta": "30",
+        "explicacion": "Aproximadamente 30 días. 📅"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.099Z",
-  "version": "2.0"
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

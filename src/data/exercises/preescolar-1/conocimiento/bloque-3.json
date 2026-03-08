@@ -2,441 +2,294 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 3,
-  "nombre": "Los animales",
+  "nombre": "Mi comunidad",
   "meses": "Diciembre-Enero",
   "temas": [
-    "Mi cuerpo",
-    "Los colores",
-    "Los animales",
-    "La familia",
-    "La naturaleza"
+    "El vecindario",
+    "Los trabajos",
+    "Los servicios",
+    "Reglas de convivencia",
+    "Medios de transporte"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-conocimiento-b3-001",
-        "tema": "Los colores",
+        "id": "pre1-con-b3-v1-001",
+        "tema": "Los trabajos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Qué hace un médico?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Cuida la salud de las personas",
+          "Apaga incendios",
+          "Construye casas",
+          "Maneja autobuses"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Cuida la salud de las personas",
+        "explicacion": "¡Los médicos nos cuidan cuando estamos enfermos! Van a la escuela muchos años para ayudar a los demás. 👩‍⚕️",
+        "visual": "👩‍⚕️"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-003",
-        "tema": "La familia",
+        "id": "pre1-con-b3-v1-002",
+        "tema": "El vecindario",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
+        "pregunta": "El parque es un espacio de la comunidad donde todos pueden jugar",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Los peces son animales acuáticos.",
-        "visual": "🐟",
-        "visualAnimado": true
+        "explicacion": "¡Los parques son de todos! Son espacios públicos donde niños y adultos pueden descansar y jugar. 🌳⛲"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b3-v1-003",
+        "tema": "Los servicios",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Dónde vamos cuando estamos muy enfermos y necesitamos medicina?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Al hospital",
+          "Al cine",
+          "Al mercado",
+          "A la escuela"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Al hospital",
+        "explicacion": "¡Al hospital! Ahí trabajan médicos, enfermeras y muchas personas que cuidan nuestra salud. 🏥"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-007",
-        "tema": "Los colores",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-008",
-        "tema": "Los animales",
+        "id": "pre1-con-b3-v1-004",
+        "tema": "Medios de transporte",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "El avión vuela por el ___ y nos lleva a lugares lejanos muy rápido",
+        "respuestaCorrecta": "cielo",
+        "explicacion": "¡El avión vuela en el cielo! Es el medio de transporte más rápido para llegar a otros países. ✈️",
+        "visual": "✈️"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-009",
-        "tema": "La familia",
+        "id": "pre1-con-b3-v1-005",
+        "tema": "Reglas de convivencia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Debemos tirar la basura en los botes y no en el suelo",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Tirar basura en el suelo contamina y daña el vecindario. ¡Cada quien es responsable de su basura! ♻️🗑️"
+      },
+      {
+        "id": "pre1-con-b3-v1-006",
+        "tema": "Los trabajos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Quién enseña a los niños en la escuela?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "El maestro o maestra",
+          "El bombero",
+          "El marinero",
+          "El dentista"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "El maestro o maestra",
+        "explicacion": "¡Los maestros son superhéroes! Enseñan, cuidan y guían a los niños todos los días. 👨‍🏫❤️"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-010",
-        "tema": "La naturaleza",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-011",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b3-v1-007",
+        "tema": "El vecindario",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "La persona que vive en la casa de al lado o en el mismo edificio es nuestro ___",
+        "respuestaCorrecta": "vecino",
+        "explicacion": "¡El vecino! Es la persona que vive cerca. ¡Tener buenos vecinos hace la comunidad más feliz y segura! 🏘️"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-012",
-        "tema": "Los colores",
+        "id": "pre1-con-b3-v1-008",
+        "tema": "Medios de transporte",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La bicicleta es un medio de transporte que no contamina",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La bicicleta es ecológica! No usa gasolina ni contamina. ¡Pedalear también hace bien a la salud! 🚲💚"
+      },
+      {
+        "id": "pre1-con-b3-v1-009",
+        "tema": "Los servicios",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Dónde compramos frutas, verduras y alimentos?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "En el mercado",
+          "En el hospital",
+          "En la escuela",
+          "En el parque"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "En el mercado",
+        "explicacion": "¡En el mercado o tienda! Ahí los comerciantes venden los alimentos que necesitamos. ¡El mercado es el corazón de la comunidad! 🥕🍎🏪"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-013",
-        "tema": "Los animales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-014",
-        "tema": "La familia",
+        "id": "pre1-con-b3-v1-010",
+        "tema": "Reglas de convivencia",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-015",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
-        "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-017",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "Cuando alguien nos hace un favor, decimos ___",
+        "respuestaCorrecta": "gracias",
+        "explicacion": "¡Gracias! Es una de las palabras mágicas de la convivencia. ¡La gratitud hace las comunidades más amables! 😊"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-conocimiento-b3-004",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b3-v2-001",
+        "tema": "Los trabajos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Qué hace un bombero?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "Apaga incendios y rescata personas",
+          "Construye casas",
+          "Maneja el metro",
+          "Vende comida"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "Apaga incendios y rescata personas",
+        "explicacion": "¡Los bomberos son valientes! Apagan incendios, rescatan a personas y a veces ¡hasta salvan animalitos! 🚒🔥",
+        "visual": "🚒"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-005",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b3-v2-002",
+        "tema": "Los servicios",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol brilla de ___",
-        "respuestaCorrecta": "día",
-        "explicacion": "El sol sale de día y de noche está la luna y las estrellas.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Las personas que trabajan protegiendo la ciudad y haciendo cumplir las leyes son los ___",
+        "respuestaCorrecta": "policías",
+        "explicacion": "¡Los policías! Su trabajo es mantener la paz y la seguridad en comunidad. ¡En México se llaman agentes o policías! 👮"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b3-v2-003",
+        "tema": "Medios de transporte",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El metro es un tren subterráneo que existe en la Ciudad de México",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El Metro de CDMX! Es uno de los más grandes del mundo. Transporta millones de personas cada día. ¡Un orgullo mexicano! 🚇🇲🇽"
+      },
+      {
+        "id": "pre1-con-b3-v2-004",
+        "tema": "El vecindario",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estos es un ejemplo de espacio público?",
+        "opciones": [
+          "El parque de la colonia",
+          "El cuarto de tu casa",
+          "El cajón de tu escritorio",
+          "El refrigerador de tu cocina"
+        ],
+        "respuestaCorrecta": "El parque de la colonia",
+        "explicacion": "¡El parque es público! Significa que es de todos y todos podemos usarlo con respeto. ¡Lo público nos pertenece a todos! 🌳"
+      },
+      {
+        "id": "pre1-con-b3-v2-005",
+        "tema": "Reglas de convivencia",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Las reglas de una comunidad existen para que todos puedan vivir en ___ y armonía",
+        "respuestaCorrecta": "paz",
+        "explicacion": "¡Paz y armonía! Las reglas no limitan, ¡protegen! Semáforos, leyes, normas... nos ayudan a vivir juntos mejor. 🕊️"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-007",
-        "tema": "Los colores",
+        "id": "pre1-con-b3-v2-006",
+        "tema": "Los trabajos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Qué profesional cuida los dientes?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "El dentista",
+          "El cardiólogo",
+          "El veterinario",
+          "El ingeniero"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "El dentista",
+        "explicacion": "¡El dentista! Revisa y cuida nuestros dientes. ¡Hay que ir cada 6 meses y cepillarlos 3 veces al día! 🦷😁"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-008",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
+        "id": "pre1-con-b3-v2-007",
+        "tema": "Los servicios",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+        "pregunta": "La escuela es un servicio public que el gobierno provee para que los niños estudien",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La educación pública es un derecho. El gobierno construye escuelas y paga a los maestros para que todos los niños puedan aprender. 🏫📚"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-009",
-        "tema": "La familia",
+        "id": "pre1-con-b3-v2-008",
+        "tema": "Medios de transporte",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "El vehículo impulsado por el viento usando una vela se llama ___",
+        "respuestaCorrecta": "velero",
+        "explicacion": "¡El velero! Usa la energía del viento para moverse en el agua. ¡Un medio de transporte que no contamina! ⛵"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-010",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b3-v2-009",
+        "tema": "El vecindario",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Por qué es importante conocer a los vecinos?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "Para ayudarnos en emergencias y crear comunidad",
+          "Solo para saludar",
+          "Para pedirles comida",
+          "No hay razón válida"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "Para ayudarnos en emergencias y crear comunidad",
+        "explicacion": "¡Una buena comunidad se apoya! Si ocurre algo, los vecinos son los primeros en poder ayudar. ¡La solidaridad salva vidas! 🤝"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
+        "id": "pre1-con-b3-v2-010",
+        "tema": "Reglas de convivencia",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-012",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-013",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-014",
-        "tema": "La familia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-015",
-        "tema": "La naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "Esperar el turno en una fila es una regla de convivencia importante",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La fila es justa! Todos esperamos nuestro turno en orden de llegada. Es una regla de respeto universal. 📋"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-conocimiento-b3-001",
-        "tema": "Los colores",
+        "id": "pre1-con-b3-v1-001",
+        "tema": "Los trabajos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Qué hace un médico?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Cuida la salud de las personas",
+          "Apaga incendios",
+          "Construye casas",
+          "Maneja autobuses"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Cuida la salud de las personas",
+        "explicacion": "¡Los médicos nos cuidan! 👩‍⚕️"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
+        "id": "pre1-con-b3-v1-002",
+        "tema": "El vecindario",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
+        "pregunta": "El parque es un espacio de la comunidad donde todos pueden jugar",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los parques son de todos! 🌳"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-004",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b3-v2-001",
+        "tema": "Los trabajos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Qué hace un bombero?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "Apaga incendios y rescata personas",
+          "Construye casas",
+          "Maneja el metro",
+          "Vende comida"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "Apaga incendios y rescata personas",
+        "explicacion": "¡Los bomberos son valientes! 🚒"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.110Z",
-  "version": "2.0"
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

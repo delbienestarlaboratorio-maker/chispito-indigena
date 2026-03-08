@@ -2,198 +2,297 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 3,
-  "nombre": "Me muevo con música",
+  "nombre": "Cuerpo sano, mente sana",
   "meses": "Dic-Ene",
   "temas": [
-    "Ritmo",
-    "Danza básica"
+    "Salud e higiene",
+    "Descanso y sueño",
+    "Alimentación sana",
+    "Emociones y ejercicio"
   ],
-  "totalEjercicios": 10,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar1ef-b3-01",
-        "tema": "Ritmo",
+        "id": "pre1-ef-b3-v1-001",
+        "tema": "Salud e higiene",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "El ritmo de una canción es como:",
+        "pregunta": "¿Cuántas veces al día debemos lavarnos los dientes?",
         "opciones": [
-          "Su latido o pulso",
-          "Su nombre",
-          "Su color",
-          "Su volumen"
+          "1",
+          "2",
+          "3",
+          "5"
         ],
-        "respuestaCorrecta": "Su latido o pulso",
-        "explicacion": "El ritmo es el pulso regular de la música que podemos seguir.",
-        "visual": "🎵"
+        "respuestaCorrecta": "3",
+        "explicacion": "¡3 veces al día! Después del desayuno, comida y cena. ¡Y también se visita al dentista cada 6 meses! 🦷😄"
       },
       {
-        "id": "preescolar1ef-b3-02",
-        "tema": "Danza",
+        "id": "pre1-ef-b3-v1-002",
+        "tema": "Descanso y sueño",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos bailar con todo el cuerpo",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Brazos, piernas, cabeza... todo el cuerpo puede bailar."
+        "pregunta": "Los niños de preescolar necesitan dormir entre 10 y 12 horas por noche",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los niños necesitan más sueño que los adultos porque su cerebro y cuerpo están creciendo. ¡Dormir bien = crecer bien! 😴🌙"
       },
       {
-        "id": "preescolar1ef-b3-03",
-        "tema": "Ritmo",
+        "id": "pre1-ef-b3-v1-003",
+        "tema": "Alimentación sana",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo podemos marcar el ritmo?",
+        "pregunta": "¿Cuál de estos alimentos es más saludable para un refrigerio?",
         "opciones": [
-          "Aplaudiendo",
-          "Durmiendo",
-          "Comiendo",
-          "Leyendo"
+          "Una manzana 🍎",
+          "Una bolsa de papas fritas 🥔",
+          "Un refresco 🥤",
+          "Un dulce 🍬"
         ],
-        "respuestaCorrecta": "Aplaudiendo",
-        "explicacion": "Aplaudir al compás de la música es marcar el ritmo.",
-        "visual": "👏"
+        "respuestaCorrecta": "Una manzana 🍎",
+        "explicacion": "¡La manzana es nutritiva! Tiene vitaminas, fibra y agua natural. Las papas fritas y dulces tienen demasiada azúcar y grasa. 🍎💚",
+        "visual": "🍎"
       },
       {
-        "id": "preescolar1ef-b3-04",
-        "tema": "Danza",
-        "tipo": "multiple_choice",
+        "id": "pre1-ef-b3-v1-004",
+        "tema": "Emociones y ejercicio",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Qué danza es típica de México?",
-        "opciones": [
-          "El Jarabe Tapatío",
-          "La Salsa",
-          "El Flamenco",
-          "El Tango"
-        ],
-        "respuestaCorrecta": "El Jarabe Tapatío",
-        "explicacion": "El Jarabe Tapatío es el baile nacional de México, originario de Jalisco.",
-        "visual": "🌮"
+        "pregunta": "Cuando hacemos ejercicio, el cuerpo libera sustancias que nos hacen sentir ___",
+        "respuestaCorrecta": "felices",
+        "explicacion": "¡Las endorfinas! Son las 'hormonas de la felicidad'. El ejercicio libera endorfinas que nos dan bienestar en el cuerpo y la mente. 😊💪"
       },
       {
-        "id": "preescolar1ef-b3-05",
-        "tema": "Danza",
+        "id": "pre1-ef-b3-v1-005",
+        "tema": "Salud e higiene",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Bailar es solo para niñas",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Falso",
-        "explicacion": "¡El baile es para todos! Es una forma de expresarse."
+        "pregunta": "Debemos lavarnos las manos antes de comer",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Siempre! Las manos tocan muchas cosas y acumulan gérmenes. Lavarlas antes de comer evita enfermedades. ¡20 segundos con jabón! 🧼👐"
       },
       {
-        "id": "preescolar1ef-b3-06",
-        "tema": "Movimiento",
+        "id": "pre1-ef-b3-v1-006",
+        "tema": "Descanso y sueño",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Si la música va rápido, nos movemos:",
+        "pregunta": "¿Qué hacemos durante el sueño que nos ayuda a crecer?",
         "opciones": [
-          "Rápido",
-          "Muy despacio",
-          "No nos movemos",
-          "Más despacio aún"
+          "El cuerpo crece y el cerebro organiza lo que aprendió",
+          "Hacemos ejercicio",
+          "Comemos más",
+          "Vemos televisión"
         ],
-        "respuestaCorrecta": "Rápido",
-        "explicacion": "El cuerpo sigue el tempo de la música.",
-        "visual": "⚡"
+        "respuestaCorrecta": "El cuerpo crece y el cerebro organiza lo que aprendió",
+        "explicacion": "¡El sueño es el laboratorio secreto del cuerpo! Se secretan hormonas de crecimiento y el cerebro 'archiva' los recuerdos del día. 🧠💤"
       },
       {
-        "id": "preescolar1ef-b3-07",
-        "tema": "Salud",
+        "id": "pre1-ef-b3-v1-007",
+        "tema": "Alimentación sana",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua es la bebida más ___ que podemos tomar",
+        "respuestaCorrecta": "saludable",
+        "explicacion": "¡El agua es la mejor bebida! No tiene azúcar, calorías vacías ni aditivos. Nuestro cuerpo la necesita. ¡8 vasos al día! 💧😊"
+      },
+      {
+        "id": "pre1-ef-b3-v1-008",
+        "tema": "Emociones y ejercicio",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Cuando nos cansamos bailando, debemos descansar",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "El descanso y la hidratación son clave durante el ejercicio."
+        "pregunta": "Jugar con amigos nos hace sentir alegres y nos da bienestar emocional",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El juego activo con amigos desarrolla habilidades sociales y emocionales además de la condición física. ¡El juego es esencial! 🤝😄"
       },
       {
-        "id": "preescolar1ef-b3-08",
-        "tema": "Danza",
+        "id": "pre1-ef-b3-v1-009",
+        "tema": "Salud e higiene",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué movemos cuando \"agitamos los brazos\"?",
+        "pregunta": "¿Para qué sirve el jabón al lavarse las manos?",
         "opciones": [
-          "Los brazos",
-          "Las piernas",
-          "La cabeza",
-          "Los pies"
+          "Elimina los gérmenes que el agua sola no quita",
+          "Solo para que huela bien",
+          "Para hacer burbujas",
+          "Para mancharse de color"
         ],
-        "respuestaCorrecta": "Los brazos",
-        "explicacion": "Agitar los brazos es un movimiento de las extremidades superiores.",
-        "visual": "💃"
+        "respuestaCorrecta": "Elimina los gérmenes que el agua sola no quita",
+        "explicacion": "¡El jabón rompe la membrana de los gérmenes y los elimina! Solo el agua no es suficiente. ¡20 segundos de jabón salvan vidas! 🧼🦠"
       },
       {
-        "id": "preescolar1ef-b3-09",
-        "tema": "Ritmo",
-        "tipo": "multiple_choice",
+        "id": "pre1-ef-b3-v1-010",
+        "tema": "Alimentación sana",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Con qué también marcamos el ritmo además de aplaudir?",
-        "opciones": [
-          "Pisando el suelo",
-          "Con los ojos",
-          "Con la nariz",
-          "Con las orejas"
-        ],
-        "respuestaCorrecta": "Pisando el suelo",
-        "explicacion": "Zapatear o pisar al compás es otra forma de marcar el ritmo.",
-        "visual": "🦶"
-      },
-      {
-        "id": "preescolar1ef-b3-10",
-        "tema": "Danza",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "La danza nos ayuda a:",
-        "opciones": [
-          "Expresarnos y hacer ejercicio",
-          "Solo comer",
-          "Dormir más",
-          "Estudiar matemáticas"
-        ],
-        "respuestaCorrecta": "Expresarnos y hacer ejercicio",
-        "explicacion": "La danza combina expresión artística con actividad física.",
-        "visual": "🎭"
+        "pregunta": "Es importante comer verduras y frutas de todos los colores",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El 'arcoíris de la salud'! Cada color de fruta y verdura tiene diferentes vitaminas. Rojo, naranja, verde, morado... ¡Come variado! 🌈🥦🍊"
       }
     ],
-    "v2": [],
-    "preview": [
+    "v2": [
       {
-        "id": "preescolar1ef-b3-01",
-        "tema": "Ritmo",
+        "id": "pre1-ef-b3-v2-001",
+        "tema": "Alimentación sana",
         "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El ritmo de una canción es como:",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los 3 macronutrientes principales que necesita el cuerpo?",
         "opciones": [
-          "Su latido o pulso",
-          "Su nombre",
-          "Su color",
-          "Su volumen"
+          "Proteínas, carbohidratos y grasas",
+          "Vitaminas, minerales y agua",
+          "Azúcar, sal y grasa",
+          "Calcio, hierro y zinc"
         ],
-        "respuestaCorrecta": "Su latido o pulso",
-        "explicacion": "El ritmo es el pulso regular de la música que podemos seguir.",
-        "visual": "🎵"
+        "respuestaCorrecta": "Proteínas, carbohidratos y grasa",
+        "explicacion": "¡Los macronutrientes! Proteínas (carne, huevo) construyen músculo. Carbohidratos (tortilla, pan) dan energía. Grasas (aguacate) protegen órganos. 🥩🌮🥑"
       },
       {
-        "id": "preescolar1ef-b3-02",
-        "tema": "Danza",
+        "id": "pre1-ef-b3-v2-002",
+        "tema": "Descanso y sueño",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las pantallas (celulares, tablets) antes de dormir afectan la calidad del sueño porque emiten luz ___",
+        "respuestaCorrecta": "azul",
+        "explicacion": "¡Luz azul! Esta luz inhibe la melatonina (hormona del sueño). ¡Media hora sin pantallas antes de dormir mejora el sueño! 📱😴"
+      },
+      {
+        "id": "pre1-ef-b3-v2-003",
+        "tema": "Salud e higiene",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Podemos bailar con todo el cuerpo",
+        "nivel": "v2",
+        "pregunta": "Los gérmenes no se pueden ver a simple vista sin un microscopio",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los gérmenes son microscópicos! Bacterias y virus son tan pequeños que necesitamos un microscopio para verlos. Por eso el lavado de manos es tan importante. 🦠🔬"
+      },
+      {
+        "id": "pre1-ef-b3-v2-004",
+        "tema": "Emociones y ejercicio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hormona libera el cerebro cuando hacemos ejercicio que nos hace sentir bien?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "Endorfinas",
+          "Insulina",
+          "Adrenalina sin parar",
+          "Melatonina"
         ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Brazos, piernas, cabeza... todo el cuerpo puede bailar."
+        "respuestaCorrecta": "Endorfinas",
+        "explicacion": "¡Las endorfinas! Son los analgésicos naturales del cerebro. ¡El 'subidón' después de ejercitarse es real y científico! 🏃‍♂️😊"
+      },
+      {
+        "id": "pre1-ef-b3-v2-005",
+        "tema": "Alimentación sana",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El mineral que fortalece los huesos y dientes y se encuentra en la leche se llama ___",
+        "respuestaCorrecta": "calcio",
+        "explicacion": "¡El calcio! La leche, queso y yogurt tienen calcio. ¡Los niños necesitan mucho calcio para desarrollar huesos fuertes! 🦴🥛"
+      },
+      {
+        "id": "pre1-ef-b3-v2-006",
+        "tema": "Descanso y sueño",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué proceso ocurre en el cerebro mientras dormimos?",
+        "opciones": [
+          "Consolida recuerdos y limpia toxinas",
+          "Nada, el cerebro se apaga",
+          "Produce más neurotrancias de estrés",
+          "Genera energía extra"
+        ],
+        "respuestaCorrecta": "Consolida recuerdos y limpia toxinas",
+        "explicacion": "¡El cerebro trabaja de noche! Consolida lo que aprendimos y el sistema glinfático limpia 'desechos cerebrales'. ¡Dormir es reparador! 🧠💤"
+      },
+      {
+        "id": "pre1-ef-b3-v2-007",
+        "tema": "Salud e higiene",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las vacunas nos protegen contra enfermedades graves enseñando al sistema inmune",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Las vacunas son protectoras! Muestran al sistema inmune cómo combatir una enfermedad sin que nos enfermemos de verdad. ¡Salvan millones de vidas! 💉🛡️"
+      },
+      {
+        "id": "pre1-ef-b3-v2-008",
+        "tema": "Emociones y ejercicio",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Hacer deporte en equipo desarrolla habilidades sociales como la ___ y el compañerismo",
+        "respuestaCorrecta": "cooperación",
+        "explicacion": "¡La cooperación! Trabajar en equipo enseña a escuchar, respetar y ayudarse mutuamente. ¡Habilidades para toda la vida! 🤝⚽"
+      },
+      {
+        "id": "pre1-ef-b3-v2-009",
+        "tema": "Alimentación sana",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué el desayuno es la comida más importante del día?",
+        "opciones": [
+          "Porque activa el metabolismo y da energía para aprender",
+          "Solo porque los adultos lo dicen",
+          "Porque tiene que tener azúcar",
+          "Porque es la primera en el día"
+        ],
+        "respuestaCorrecta": "Porque activa el metabolismo y da energía para aprender",
+        "explicacion": "¡El desayuno rompe el ayuno nocturno! Da combustible al cerebro para concentrarse y aprender. ¡Los niños que desayunan aprenden mejor! 🍳🧠"
+      },
+      {
+        "id": "pre1-ef-b3-v2-010",
+        "tema": "Salud e higiene",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Hacer actividad física al menos 60 minutos al día es la recomendación de la OMS para niños",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡60 minutos de movimiento! La Organización Mundial de la Salud recomienda una hora de actividad física diaria para niños. ¡Jugar cuenta! 🌍🏃‍♀️"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-ef-b3-v1-001",
+        "tema": "Salud e higiene",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas veces al día debemos lavarnos los dientes?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "¡3 veces al día! 🦷"
+      },
+      {
+        "id": "pre1-ef-b3-v1-003",
+        "tema": "Alimentación sana",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos alimentos es más saludable para un refrigerio?",
+        "opciones": [
+          "Una manzana 🍎",
+          "Una bolsa de papas fritas",
+          "Un refresco",
+          "Un dulce"
+        ],
+        "respuestaCorrecta": "Una manzana 🍎",
+        "explicacion": "¡La manzana tiene vitaminas y fibra! 🍎"
+      },
+      {
+        "id": "pre1-ef-b3-v2-001",
+        "tema": "Alimentación sana",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los 3 macronutrientes principales?",
+        "opciones": [
+          "Proteínas, carbohidratos y grasas",
+          "Vitaminas, minerales y agua",
+          "Azúcar, sal y grasa",
+          "Calcio, hierro y zinc"
+        ],
+        "respuestaCorrecta": "Proteínas, carbohidratos y grasas",
+        "explicacion": "¡Los 3 macro! 🥩🌮🥑"
       }
     ]
-  }
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

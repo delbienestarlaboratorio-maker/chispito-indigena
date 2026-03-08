@@ -11,15 +11,15 @@
     "Escuchar cuentos",
     "Mis primeras letras"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-espanol-b1-001",
+        "id": "pre1-esp-b1-v1-001",
         "tema": "Vocales A E I",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es una vocal?",
+        "pregunta": "¿Cuál de estas letras es una VOCAL?",
         "opciones": [
           "B",
           "M",
@@ -27,172 +27,82 @@
           "T"
         ],
         "respuestaCorrecta": "A",
-        "explicacion": "Las vocales son: A, E, I, O, U. La A es vocal.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "explicacion": "Las vocales son: A, E, I, O, U. ¡Son las letras más especiales porque están en todas las palabras!",
+        "visual": "🔤"
       },
       {
-        "id": "preescolar-1-espanol-b1-002",
+        "id": "pre1-esp-b1-v1-002",
         "tema": "Imágenes y palabras",
         "tipo": "fill_blank",
         "nivel": "v1",
         "pregunta": "MAMÁ empieza con la letra ___",
         "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es la M.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "explicacion": "M-A-M-Á. La primera letra es la M. ¡Mamá empieza con M de Maravillosa! 💕"
       },
       {
-        "id": "preescolar-1-espanol-b1-003",
+        "id": "pre1-esp-b1-v1-003",
         "tema": "Escuchar cuentos",
         "tipo": "true_false",
         "nivel": "v1",
         "pregunta": "\"PERRO\" tiene 5 letras",
         "respuestaCorrecta": "true",
-        "explicacion": "P-E-R-R-O. Sí, tiene 5 letras.",
-        "visual": "🐶",
-        "visualAnimado": true
+        "explicacion": "P-E-R-R-O. ¡Contamos: 1,2,3,4,5! Sí, tiene 5 letras. 🐶",
+        "visual": "🐶"
       },
       {
-        "id": "preescolar-1-espanol-b1-x-006",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b1-v1-004",
+        "tema": "Vocales A E I",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
+        "pregunta": "¿Qué vocal es esta? 🍎 (la que suena en 'A' de Apple)",
         "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
+          "A",
+          "E",
+          "I",
+          "O"
         ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+        "respuestaCorrecta": "A",
+        "explicacion": "¡La A! Es la primera vocal. Abre mucho la boca para decirla: aaaa. 😮"
       },
       {
-        "id": "preescolar-1-espanol-b1-x-007",
-        "tema": "Vocales A E I",
+        "id": "pre1-esp-b1-v1-005",
+        "tema": "Mi nombre",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "pregunta": "Todos los nombres de personas empiezan con letra MAYÚSCULA",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+        "explicacion": "¡Sí! Los nombres propios como María, Carlos, Sofia, siempre empiezan con mayúscula. Es una regla importante. 📝"
       },
       {
-        "id": "preescolar-1-espanol-b1-x-008",
+        "id": "pre1-esp-b1-v1-006",
+        "tema": "Mis primeras letras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué letra es la última del abecedario?",
+        "opciones": [
+          "Z",
+          "X",
+          "Y",
+          "W"
+        ],
+        "respuestaCorrecta": "Z",
+        "explicacion": "¡La Z es la última letra del abecedario! A-B-C...X-Y-Z. 🔤"
+      },
+      {
+        "id": "pre1-esp-b1-v1-007",
         "tema": "Imágenes y palabras",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+        "pregunta": "Una imagen de un 🌞 representa la palabra ___",
+        "respuestaCorrecta": "sol",
+        "explicacion": "¡El sol 🌞! Las imágenes nos ayudan a aprender palabras nuevas. ¡Un dibujo vale más que mil palabras!"
       },
       {
-        "id": "preescolar-1-espanol-b1-x-009",
-        "tema": "Escuchar cuentos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-010",
-        "tema": "Mis primeras letras",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-011",
-        "tema": "Mi nombre",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-012",
+        "id": "pre1-esp-b1-v1-008",
         "tema": "Vocales A E I",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-013",
-        "tema": "Imágenes y palabras",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-014",
-        "tema": "Escuchar cuentos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-015",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-016",
-        "tema": "Mi nombre",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-017",
-        "tema": "Vocales A E I",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      }
-    ],
-    "v2": [
-      {
-        "id": "preescolar-1-espanol-b1-004",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas vocales hay en \"CASA\"?",
+        "pregunta": "¿Cuántas vocales tiene la palabra 'NIÑO'?",
         "opciones": [
           "1",
           "2",
@@ -200,184 +110,151 @@
           "4"
         ],
         "respuestaCorrecta": "2",
-        "explicacion": "C-A-S-A. Las vocales son: A y A. Hay 2 vocales.",
-        "visual": "🏠",
-        "visualAnimado": true
+        "explicacion": "N-I-Ñ-O. Las vocales son la I y la O. ¡Hay 2 vocales!"
       },
       {
-        "id": "preescolar-1-espanol-b1-005",
+        "id": "pre1-esp-b1-v1-009",
+        "tema": "Escuchar cuentos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los cuentos tienen personajes, un problema y un final",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Así es! Los cuentos presentan personajes (héroes, villanos), viven aventuras (el problema) y tienen un final feliz o sorpresivo. 📖"
+      },
+      {
+        "id": "pre1-esp-b1-v1-010",
+        "tema": "Mi nombre",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La vocal que suena en 'ELEFANTE' al inicio es la ___",
+        "respuestaCorrecta": "E",
+        "explicacion": "¡E de Elefante! E-L-E-F-A-N-T-E. La primera letra es la vocal E. 🐘"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-esp-b1-v2-001",
+        "tema": "Mis primeras letras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas vocales hay en la palabra 'CASA'?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "2",
+        "explicacion": "C-A-S-A. Las vocales son A y A. ¡Hay 2! 🏠",
+        "visual": "🏠"
+      },
+      {
+        "id": "pre1-esp-b1-v2-002",
         "tema": "Mi nombre",
         "tipo": "fill_blank",
         "nivel": "v2",
         "pregunta": "Las vocales son: A, E, ___, O, U",
         "respuestaCorrecta": "I",
-        "explicacion": "Las 5 vocales son: A, E, I, O, U.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "explicacion": "¡Las 5 vocales! A-E-I-O-U. La que falta es la I. 🔤"
       },
       {
-        "id": "preescolar-1-espanol-b1-x-006",
-        "tema": "Mi nombre",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-007",
-        "tema": "Vocales A E I",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-008",
-        "tema": "Imágenes y palabras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "visual": "😊",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-009",
-        "tema": "Escuchar cuentos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-010",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-011",
-        "tema": "Mi nombre",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "visual": "😊",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-012",
-        "tema": "Vocales A E I",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-013",
-        "tema": "Imágenes y palabras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "preescolar-1-espanol-b1-x-014",
+        "id": "pre1-esp-b1-v2-003",
         "tema": "Escuchar cuentos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
+        "pregunta": "¿Qué es un cuento?",
         "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
+          "Una historia inventada con personajes",
+          "Un número matemático",
+          "Un dibujo de colores",
+          "Un juego de patio"
         ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "visual": "😊",
-        "visualAnimado": true
+        "respuestaCorrecta": "Una historia inventada con personajes",
+        "explicacion": "¡Un cuento es una historia! Tiene personajes, aventuras y una moraleja o enseñanza. 📚"
       },
       {
-        "id": "preescolar-1-espanol-b1-x-015",
-        "tema": "Mis primeras letras",
+        "id": "pre1-esp-b1-v2-004",
+        "tema": "Vocales A E I",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La letra 'I' es una vocal",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La I es la tercera vocal. A-E-I-O-U. ¡Recuérdalas en orden! 🎵"
+      },
+      {
+        "id": "pre1-esp-b1-v2-005",
+        "tema": "Imágenes y palabras",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
+        "pregunta": "Un libro que solo tiene imágenes sin texto se llama libro ___",
+        "respuestaCorrecta": "ilustrado",
+        "explicacion": "Los libros ilustrados enseñan con imágenes. ¡Los bebés aprenden sus primeras palabras con libros de imágenes! 🖼️"
       },
       {
-        "id": "preescolar-1-espanol-b1-x-016",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b1-v2-006",
+        "tema": "Mis primeras letras",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "pregunta": "¿Qué letra falta? A-B-C-___-E",
         "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
+          "D",
+          "G",
+          "F",
+          "H"
         ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+        "respuestaCorrecta": "D",
+        "explicacion": "El abecedario: A-B-C-D-E. La letra que falta es la D. 🔤"
+      },
+      {
+        "id": "pre1-esp-b1-v2-007",
+        "tema": "Mi nombre",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Mi nombre es una parte de mi identidad",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Tu nombre te identifica. Es único y especial porque te hace diferente a todos los demás. 🌟"
+      },
+      {
+        "id": "pre1-esp-b1-v2-008",
+        "tema": "Vocales A E I",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas vocales tiene el español?",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "¡5 vocales! A-E-I-O-U. Son las letras más importantes porque aparecen en casi todas las palabras. 🔤"
+      },
+      {
+        "id": "pre1-esp-b1-v2-009",
+        "tema": "Escuchar cuentos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En el cuento de Caperucita Roja, el villano es el ___",
+        "respuestaCorrecta": "lobo",
+        "explicacion": "¡El lobo feroz! Los villanos de los cuentos crean el problema que el héroe debe resolver. 🐺"
+      },
+      {
+        "id": "pre1-esp-b1-v2-010",
+        "tema": "Imágenes y palabras",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Podemos aprender nuevas palabras mirando imágenes y escuchando su nombre",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las imágenes ayudan al cerebro a asociar una figura con su nombre. ¡Así aprendemos de bebés! 🧠👶"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-espanol-b1-001",
+        "id": "pre1-esp-b1-v1-001",
         "tema": "Vocales A E I",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es una vocal?",
+        "pregunta": "¿Cuál de estas letras es una VOCAL?",
         "opciones": [
           "B",
           "M",
@@ -385,27 +262,24 @@
           "T"
         ],
         "respuestaCorrecta": "A",
-        "explicacion": "Las vocales son: A, E, I, O, U. La A es vocal.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "explicacion": "Las vocales son: A, E, I, O, U. ¡Las más especiales!",
+        "visual": "🔤"
       },
       {
-        "id": "preescolar-1-espanol-b1-002",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
+        "id": "pre1-esp-b1-v1-003",
+        "tema": "Escuchar cuentos",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "MAMÁ empieza con la letra ___",
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es la M.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "pregunta": "\"PERRO\" tiene 5 letras",
+        "respuestaCorrecta": "true",
+        "explicacion": "P-E-R-R-O = 5 letras 🐶"
       },
       {
-        "id": "preescolar-1-espanol-b1-004",
+        "id": "pre1-esp-b1-v2-001",
         "tema": "Mis primeras letras",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántas vocales hay en \"CASA\"?",
+        "pregunta": "¿Cuántas vocales hay en la palabra 'CASA'?",
         "opciones": [
           "1",
           "2",
@@ -413,12 +287,10 @@
           "4"
         ],
         "respuestaCorrecta": "2",
-        "explicacion": "C-A-S-A. Las vocales son: A y A. Hay 2 vocales.",
-        "visual": "🏠",
-        "visualAnimado": true
+        "explicacion": "C-A-S-A: vocales A y A = 2. 🏠"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.101Z",
-  "version": "2.0"
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

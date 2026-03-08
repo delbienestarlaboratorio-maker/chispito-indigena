@@ -2,441 +2,299 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 4,
-  "nombre": "Mi familia",
+  "nombre": "Mi Mexico querido",
   "meses": "Febrero-Marzo",
   "temas": [
-    "Mi cuerpo",
-    "Los colores",
-    "Los animales",
-    "La familia",
-    "La naturaleza"
+    "México y sus colores",
+    "Comida mexicana",
+    "Animales de México",
+    "Tradiciones",
+    "Geografía básica"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-conocimiento-b4-001",
-        "tema": "Los colores",
+        "id": "pre1-con-b4-v1-001",
+        "tema": "México y sus colores",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿De qué colores es la bandera de México?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Verde, blanco y rojo",
+          "Azul, blanco y rojo",
+          "Amarillo, verde y rojo",
+          "Rojo, negro y blanco"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Verde, blanco y rojo",
+        "explicacion": "¡Verde, Blanco y Rojo! La bandera mexicana tiene el águila devorando la serpiente en el centro. ¡Símbolo patrio! 🇲🇽",
+        "visual": "🇲🇽"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-003",
-        "tema": "La familia",
+        "id": "pre1-con-b4-v1-002",
+        "tema": "Comida mexicana",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
+        "pregunta": "Las tortillas de maíz son un alimento típico de México",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Los peces son animales acuáticos.",
-        "visual": "🐟",
-        "visualAnimado": true
+        "explicacion": "¡Las tortillas son nuestras! El maíz fue domesticado en México hace miles de años. Las tortillas son parte de nuestra identidad. 🌽🫓"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b4-v1-003",
+        "tema": "Animales de México",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Cuál es un animal que SOLO existe en México (endémico)?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
+          "El ajolote 🦎",
+          "El perro",
+          "El gato",
           "El caballo"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "El ajolote 🦎",
+        "explicacion": "¡El ajolote! Este animal anfibio único vive en los canales de Xochimilco, CDMX. ¡Es símbolo de México y está en peligro! 🦎🇲🇽",
+        "visual": "🦎"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-007",
-        "tema": "Los colores",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-008",
-        "tema": "Los animales",
+        "id": "pre1-con-b4-v1-004",
+        "tema": "Tradiciones",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "En el Día de Muertos, los mexicanos ponen ofrendas con flores de ___ para guiar a los difuntos",
+        "respuestaCorrecta": "cempasúchil",
+        "explicacion": "¡El cempasúchil! La flor naranja brillante de Día de Muertos. Su aroma guía a las almas de regreso. ¡Tradición hermosa! 🌼"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-009",
-        "tema": "La familia",
+        "id": "pre1-con-b4-v1-005",
+        "tema": "Geografía básica",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "México está en el continente americano",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! México está en América del Norte. Limita al norte con EE.UU. y al sur con Guatemala y Belice. ¡Somos América! 🌎"
+      },
+      {
+        "id": "pre1-con-b4-v1-006",
+        "tema": "Comida mexicana",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿De dónde viene el chocolate?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Del cacao, una planta de México y Centroamérica",
+          "De la leche",
+          "Del trigo",
+          "De las uvas"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Del cacao, una planta de México y Centroamérica",
+        "explicacion": "¡El chocolate es invención mexicana! Los mayas y aztecas ya bebían 'xocolatl' (bebida de cacao) hace miles de años. 🍫🇲🇽"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-010",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b4-v1-007",
+        "tema": "Tradiciones",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "El Grito de Independencia se celebra el 15 de septiembre en México",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡El 15 de septiembre a medianoche! El Presidente toca la campana y grita '¡Viva México!' ¡La fiesta patria más emocionante! 🇲🇽🔔"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-011",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b4-v1-008",
+        "tema": "Animales de México",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "El águila de la bandera mexicana está devorando una ___",
+        "respuestaCorrecta": "serpiente",
+        "explicacion": "¡El águila y la serpiente! Según la leyenda, los aztecas fundaron Tenochtitlán donde vieron esta señal divina. 🦅🐍"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-012",
-        "tema": "Los colores",
+        "id": "pre1-con-b4-v1-009",
+        "tema": "Geografía básica",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Cuál es la capital de México?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Ciudad de México",
+          "Guadalajara",
+          "Monterrey",
+          "Puebla"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Ciudad de México",
+        "explicacion": "¡La Ciudad de México (CDMX)! Es una de las ciudades más grandes del mundo. Antes se llamaba México-Tenochtitlán. 🏙️🇲🇽"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-013",
-        "tema": "Los animales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-014",
-        "tema": "La familia",
+        "id": "pre1-con-b4-v1-010",
+        "tema": "México y sus colores",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-015",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
-        "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-017",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "El papel picado de colores que adorna las fiestas mexicanas se corta en papel de ___",
+        "respuestaCorrecta": "china",
+        "explicacion": "¡El papel de china! Azul, rojo, amarillo, verde, y se perfora con diseños hermosos. ¡Es artesanía mexicana! 🎉"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-conocimiento-b4-004",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b4-v2-001",
+        "tema": "Geografía básica",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Cuántos estados tiene México?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "25",
+          "31",
+          "32",
+          "50"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "32",
+        "explicacion": "¡México tiene 32 entidades federativas! 31 estados más la Ciudad de México. ¡Un país enorme y diverso! 🗺️🇲🇽"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-005",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b4-v2-002",
+        "tema": "Comida mexicana",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol brilla de ___",
-        "respuestaCorrecta": "día",
-        "explicacion": "El sol sale de día y de noche está la luna y las estrellas.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "El chile ___ es el chile jalapeño, uno de los chiles más famosos de México",
+        "respuestaCorrecta": "jalapeño",
+        "explicacion": "¡El jalapeño! Originario de Xalapa, Veracruz. México es el país con más variedad de chiles del mundo (más de 60 tipos). 🌶️🇲🇽"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-con-b4-v2-003",
+        "tema": "Tradiciones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La Lotería es un juego tradicional mexicano con tarjetas ilustradas",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La Lotería! Con cartas como 'el gallo', 'la sirena', 'el corazón'. ¡Un juego que une a las familias y enseña vocabulario! 🃏"
+      },
+      {
+        "id": "pre1-con-b4-v2-004",
+        "tema": "Animales de México",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estos animales está representado en la moneda de 10 pesos?",
+        "opciones": [
+          "El jaguar 🐆",
+          "El cocodrilo",
+          "El nopal",
+          "La serpiente"
+        ],
+        "respuestaCorrecta": "El jaguar 🐆",
+        "explicacion": "¡El jaguar! El felino más grande de América. Jaguar en náhuatl se dice 'ocelote' o 'tlacocelotl'. ¡Animal sagrado en México! 🐆🇲🇽"
+      },
+      {
+        "id": "pre1-con-b4-v2-005",
+        "tema": "México y sus colores",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "El arte de crear figuras coloridas de papel maché rellenas de dulces se llama ___",
+        "respuestaCorrecta": "piñata",
+        "explicacion": "¡La piñata! Tradición nacida en México, mezcla de culturas indígena y española. ¡Sus 7 picos representan los pecados capitales! 🎉"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-007",
-        "tema": "Los colores",
+        "id": "pre1-con-b4-v2-006",
+        "tema": "Geografía básica",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Cuál océano está del lado oeste de México?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "El Pacífico",
+          "El Atlántico",
+          "El Índico",
+          "El Ártico"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "El Pacífico",
+        "explicacion": "¡El Océano Pacífico está al oeste! Y el Golfo de México / Atlántico está al este. ¡México tiene costas en dos grandes mares! 🌊"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-008",
-        "tema": "Los animales",
+        "id": "pre1-con-b4-v2-007",
+        "tema": "Comida mexicana",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El mole es una salsa mexicana que puede tener más de 30 ingredientes",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El mole es un arte! Chiles, chocolate, especias, nueces... ¡algunos moles tienen más de 30 ingredientes! Declarado Patrimonio Cultural Inmaterial. 🇲🇽"
+      },
+      {
+        "id": "pre1-con-b4-v2-008",
+        "tema": "Tradiciones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
+        "pregunta": "Las posadas mexicanas se celebran durante...",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
+          "Diciembre, antes de Navidad",
+          "Enero",
+          "Marzo",
+          "Septiembre"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+        "respuestaCorrecta": "Diciembre, antes de Navidad",
+        "explicacion": "¡Las posadas! Del 16 al 24 de diciembre. Celebran el viaje de María y José buscando posada. ¡Piñatas, ponche y villancicos! 🎄🪅"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-009",
-        "tema": "La familia",
+        "id": "pre1-con-b4-v2-009",
+        "tema": "Animales de México",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "La mariposa ___ viaja desde Canadá hasta los bosques de Michoacán, México",
+        "respuestaCorrecta": "monarca",
+        "explicacion": "¡La mariposa Monarca! Viaja 4,000 km cada año. Sus bosques de hibernación en Michoacán son Patrimonio de la Humanidad. 🦋🇲🇽"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-x-010",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
+        "id": "pre1-con-b4-v2-010",
+        "tema": "México y sus colores",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-012",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-013",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-014",
-        "tema": "La familia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-015",
-        "tema": "La naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b4-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "Las artesanías de Talavera son cerámicas pintadas a mano originarias de Puebla, México",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La Talavera Poblana! Cerámica pintada a mano con diseños azules y blancos. ¡Declarada Patrimonio Cultural Inmaterial de la Humanidad! 🏺🇲🇽"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-conocimiento-b4-001",
-        "tema": "Los colores",
+        "id": "pre1-con-b4-v1-001",
+        "tema": "México y sus colores",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿De qué colores es la bandera de México?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Verde, blanco y rojo",
+          "Azul, blanco y rojo",
+          "Amarillo, verde y rojo",
+          "Rojo, negro y blanco"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Verde, blanco y rojo",
+        "explicacion": "¡Verde, Blanco y Rojo! Con el águila al centro. 🇲🇽"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
+        "id": "pre1-con-b4-v1-003",
+        "tema": "Animales de México",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
+        "pregunta": "¿Cuál es un animal que SOLO existe en México (endémico)?",
+        "opciones": [
+          "El ajolote 🦎",
+          "El perro",
+          "El gato",
+          "El caballo"
+        ],
+        "respuestaCorrecta": "El ajolote 🦎",
+        "explicacion": "¡El ajolote! Único en el mundo. 🦎"
       },
       {
-        "id": "preescolar-1-conocimiento-b4-004",
-        "tema": "La naturaleza",
+        "id": "pre1-con-b4-v2-001",
+        "tema": "Geografía básica",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Cuántos estados tiene México?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "25",
+          "31",
+          "32",
+          "50"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "32",
+        "explicacion": "¡32 entidades federativas! 🗺️🇲🇽"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.111Z",
-  "version": "2.0"
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }
