@@ -16,38 +16,50 @@
         "tema": "Círculo, cuadrado, triángulo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Círculo, cuadrado, triángulo\"?",
+        "pregunta": "¿Cuál figura es redonda como la luna?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Cuadrado",
+          "Triángulo",
+          "Círculo",
+          "Rectángulo"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Círculo, cuadrado, triángulo es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
+        "respuestaCorrecta": "Círculo",
+        "explicacion": "El círculo es perfectamente redondo, ¡como la luna, el sol y una pelota!",
         "visual": "⭕",
         "visualAnimado": true
       },
       {
         "id": "kinder-matematicas-b2-002",
         "tema": "Círculo, cuadrado, triángulo",
-        "tipo": "true_false",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Círculo, cuadrado, triángulo es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
-        "visual": "⭕",
+        "pregunta": "¿Cuántos lados tiene un triángulo?",
+        "opciones": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "El triángulo tiene 3 lados y 3 esquinas. ¡Como una pizza en rebanada!",
+        "visual": "🔺",
         "visualAnimado": true
       },
       {
         "id": "kinder-matematicas-b2-003",
         "tema": "Círculo, cuadrado, triángulo",
-        "tipo": "fill_blank",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En Círculo, cuadrado, triángulo, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia.",
-        "visual": "⭕",
+        "pregunta": "¿Qué figura tiene 4 lados iguales?",
+        "opciones": [
+          "Círculo",
+          "Triángulo",
+          "Cuadrado",
+          "Óvalo"
+        ],
+        "respuestaCorrecta": "Cuadrado",
+        "explicacion": "El cuadrado tiene 4 lados todos iguales. ¡Como una caja o una ventana!",
+        "visual": "🟦",
         "visualAnimado": true
       },
       {
@@ -205,24 +217,26 @@
         "tema": "Colores y formas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Colores y formas\"?",
+        "pregunta": "¿Qué color tiene el cielo en un día soleado?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Rojo",
+          "Azul",
+          "Verde",
+          "Amarillo"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Colores y formas es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Azul",
+        "explicacion": "El cielo es azul en un día sin nubes. Los colores nos ayudan a describir lo que vemos."
       },
       {
         "id": "kinder-matematicas-b2-005",
         "tema": "Colores y formas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Colores y formas es parte del currículo oficial de la SEP",
+        "pregunta": "Un cuadrado tiene 4 lados iguales",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "¡Sí! El cuadrado tiene exactamente 4 lados del mismo tamaño.",
+        "visual": "🟦",
+        "visualAnimado": true
       },
       {
         "id": "kinder-matematicas-b2-006",
@@ -396,15 +410,15 @@
         "tema": "Círculo, cuadrado, triángulo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Círculo, cuadrado, triángulo\"?",
+        "pregunta": "¿Cuál figura es redonda como la luna?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Cuadrado",
+          "Triángulo",
+          "Círculo",
+          "Rectángulo"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Círculo, cuadrado, triángulo es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
+        "respuestaCorrecta": "Círculo",
+        "explicacion": "El círculo es perfectamente redondo, ¡como la luna, el sol y una pelota!",
         "visual": "⭕",
         "visualAnimado": true
       },
@@ -413,10 +427,10 @@
         "tema": "Círculo, cuadrado, triángulo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Círculo, cuadrado, triángulo es parte del currículo oficial de la SEP",
+        "pregunta": "El triángulo tiene 3 lados",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
-        "visual": "⭕",
+        "explicacion": "¡Correcto! El triángulo tiene exactamente 3 lados y 3 vértices.",
+        "visual": "🔺",
         "visualAnimado": true
       },
       {
@@ -424,15 +438,15 @@
         "tema": "Colores y formas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Colores y formas\"?",
+        "pregunta": "¿Qué color tiene el sol?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Azul",
+          "Verde",
+          "Amarillo",
+          "Rojo"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Colores y formas es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Amarillo",
+        "explicacion": "El sol tiene un color amarillo brillante. ¡Los colores están en todas partes!"
       }
     ]
   },
