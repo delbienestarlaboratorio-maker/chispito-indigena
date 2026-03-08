@@ -230,7 +230,12 @@ export default function PrimariaExercisePlayer({ ejercicios, grado, materia, blo
     useEffect(() => {
         if (!ejercicio) return;
         const ops: Record<string, "idle" | "correcto" | "incorrecto"> = {};
-        (ejercicio.opciones || []).forEach(o => { ops[o] = "idle"; });
+        if (ejercicio.opciones) {
+            ejercicio.opciones.forEach(o => { ops[o] = "idle"; });
+        } else if (ejercicio.tipo === "true_false") {
+            ops["true"] = "idle";
+            ops["false"] = "idle";
+        }
         setEstadoOps(ops);
         setRespondido(false);
         setCorrecto(null);
@@ -245,7 +250,8 @@ export default function PrimariaExercisePlayer({ ejercicios, grado, materia, blo
         setFeedIdx(Math.floor(Math.random() * theme.celebraciones.length));
 
         const nuevoEstado = { ...estadoOps };
-        (ejercicio.opciones || []).forEach(o => {
+        const claves = ejercicio.opciones ?? (ejercicio.tipo === "true_false" ? ["true", "false"] : []);
+        claves.forEach(o => {
             if (o === ejercicio.respuestaCorrecta) nuevoEstado[o] = "correcto";
             else if (o === resp && !ok) nuevoEstado[o] = "incorrecto";
         });
@@ -362,6 +368,43 @@ export default function PrimariaExercisePlayer({ ejercicios, grado, materia, blo
                                     fontSize={theme.fontSize}
                                 />
                             ))}
+                        </div>
+                    )}
+
+                    {/* True / False — cuando no vienen opciones en el JSON */}
+                    {ejercicio.tipo === "true_false" && !ejercicio.opciones && (
+                        <div className={tier === 1 ? "grid grid-cols-2 gap-3" : "flex flex-col gap-2"}>
+                            {[
+                                { val: "true", label: tier === 1 ? "✅ Verdadero" : "Verdadero" },
+                                { val: "false", label: tier === 1 ? "❌ Falso" : "Falso" },
+                            ].map(({ val, label }) => {
+                                const estaRespuesta =
+                                    respondido && val === ejercicio.respuestaCorrecta
+                                        ? "correcto"
+                                        : respondido && estadoOps[val] === "incorrecto"
+                                            ? "incorrecto"
+                                            : estadoOps[val] || "idle";
+                                return (
+                                    <OpcionBtn
+                                        key={val}
+                                        texto={label}
+                                        onClick={() => {
+                                            if (!respondido) {
+                                                // marca el estado para feedback visual
+                                                const next = { ...estadoOps };
+                                                next["true"] = "idle";
+                                                next["false"] = "idle";
+                                                setEstadoOps(next);
+                                                responder(val);
+                                            }
+                                        }}
+                                        estado={estaRespuesta}
+                                        color={accentColor}
+                                        radius={theme.btnRadius}
+                                        fontSize={theme.fontSize}
+                                    />
+                                );
+                            })}
                         </div>
                     )}
 
