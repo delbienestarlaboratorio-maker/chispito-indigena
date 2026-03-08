@@ -37,10 +37,13 @@ async function cargarBloque(grado: string, materia: string, bloque: string): Pro
 }
 
 
-// Solo pre-generamos los grados más visitados para no exceder el límite de memoria de Cloudflare.
-// Los grados superiores (primaria-4+, secundaria) se sirven dinámicamente bajo demanda.
-const GRADOS_PRE_RENDER = ["kinder", "preescolar-1", "preescolar-2", "primaria-1", "primaria-2", "primaria-3"];
-
+// Pre-generamos todos los grados básicos y medios para evitar problemas del dynamic import en Edge Runtime.
+// El total de rutas (~450) está muy por debajo del límite que causa OOM.
+const GRADOS_PRE_RENDER = [
+    "kinder", "preescolar-1", "preescolar-2",
+    "primaria-1", "primaria-2", "primaria-3", "primaria-4", "primaria-5", "primaria-6",
+    "secundaria-1", "secundaria-2", "secundaria-3"
+];
 export const dynamicParams = true;
 
 export async function generateStaticParams() {

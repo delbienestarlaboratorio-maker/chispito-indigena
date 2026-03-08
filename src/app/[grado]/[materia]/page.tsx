@@ -10,7 +10,11 @@ interface Props {
     params: Promise<{ grado: string; materia: string }>;
 }
 
-const GRADOS_PRE_RENDER = ["kinder", "preescolar-1", "preescolar-2", "primaria-1", "primaria-2", "primaria-3"];
+const GRADOS_PRE_RENDER = [
+    "kinder", "preescolar-1", "preescolar-2",
+    "primaria-1", "primaria-2", "primaria-3", "primaria-4", "primaria-5", "primaria-6",
+    "secundaria-1", "secundaria-2", "secundaria-3"
+];
 export const dynamicParams = true;
 
 export async function generateStaticParams() {
