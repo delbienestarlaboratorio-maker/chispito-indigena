@@ -1,0 +1,329 @@
+{
+  "grado": "preescolar-1",
+  "materia": "artes",
+  "bloque": 6,
+  "nombre": "Inclusión y Lenguaje de Señas (LSM)",
+  "meses": "Todo el ciclo escolar",
+  "temas": [
+    "Vocabulario básico LSM",
+    "Saludos en LSM",
+    "Colores en LSM",
+    "Animales en LSM"
+  ],
+  "totalEjercicios": 20,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-artes-b6-v1-001",
+        "tema": "Vocabulario básico LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se dice 'Gracias' en Lengua de Señas Mexicana?",
+        "opciones": [
+          "Frotando las palmas",
+          "Llevando la mano a la barbilla y extendiéndola",
+          "Girando el dedo índice",
+          "Cerrando el puño"
+        ],
+        "respuestaCorrecta": "Llevando la mano a la barbilla y extendiéndola",
+        "explicacion": "¡Gracias en LSM! Lleva tu mano abierta a la barbilla y extiéndela hacia adelante. Es como mandar un beso de gratitud. 🤲",
+        "visual": "🙏",
+        "visualAnimado": true
+      },
+      {
+        "id": "pre1-artes-b6-v1-002",
+        "tema": "Saludos en LSM",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En Lengua de Señas Mexicana (LSM) usamos las manos y el cuerpo para comunicarnos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En LSM hablamos con las manos, los gestos de la cara y el cuerpo. Es un idioma completo y hermoso. ✋😊"
+      },
+      {
+        "id": "pre1-artes-b6-v1-003",
+        "tema": "Saludos en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo saludamos diciendo 'Hola' en LSM?",
+        "opciones": [
+          "Cerrando los ojos",
+          "Levantando y abriendo la mano como ola de mar",
+          "Cruzando los brazos",
+          "Aplaudiendo dos veces"
+        ],
+        "respuestaCorrecta": "Levantando y abriendo la mano como ola de mar",
+        "explicacion": "Para decir '¡Hola!' en LSM levantamos la mano abierta y la movemos como una ola. ¡Como cuando saludamos a un amigo desde lejos! 👋",
+        "visual": "👋",
+        "visualAnimado": true
+      },
+      {
+        "id": "pre1-artes-b6-v1-004",
+        "tema": "Vocabulario básico LSM",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Las personas sordas se comunican usando la Lengua de ___.",
+        "respuestaCorrecta": "Señas",
+        "explicacion": "La Lengua de Señas es el idioma que usan las personas sordas. ¡En México se llama LSM (Lengua de Señas Mexicana)! 🤟"
+      },
+      {
+        "id": "pre1-artes-b6-v1-005",
+        "tema": "Animales en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para representar un PERRO en LSM, hacemos el gesto de...",
+        "opciones": [
+          "Poner las manos en la cabeza como orejas",
+          "Agitar brazos como alas",
+          "Frotar la nariz",
+          "Señalar el cielo"
+        ],
+        "respuestaCorrecta": "Poner las manos en la cabeza como orejas",
+        "explicacion": "¡Muy bien! Un perro tiene orejas que cuelgan. Al poner las manos en la cabeza imitamos las orejas del perrito. 🐶",
+        "visual": "🐶",
+        "visualAnimado": true
+      },
+      {
+        "id": "pre1-artes-b6-v1-006",
+        "tema": "Colores en LSM",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Aprender Lengua de Señas nos ayuda a hacer amigos sordos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correcto! Cuando aprendemos LSM podemos comunicarnos con niños sordos y hacerlos sentir incluidos. ¡Eso es empatía! ❤️"
+      },
+      {
+        "id": "pre1-artes-b6-v1-007",
+        "tema": "Colores en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hacemos para decir 'ROJO' en LSM?",
+        "opciones": [
+          "Mover el dedo índice sobre el labio de arriba hacia abajo",
+          "Abrir los brazos",
+          "Aplaudir tres veces",
+          "Señalar el sol"
+        ],
+        "respuestaCorrecta": "Mover el dedo índice sobre el labio de arriba hacia abajo",
+        "explicacion": "El color ROJO en LSM se asocia con los labios rojos. Pasamos un dedo por el labio superior. ❤️🔴",
+        "visual": "🔴",
+        "visualAnimado": false
+      },
+      {
+        "id": "pre1-artes-b6-v1-008",
+        "tema": "Vocabulario básico LSM",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para pedir 'Por favor' en LSM frotamos una ___ sobre la otra.",
+        "respuestaCorrecta": "mano",
+        "explicacion": "¡Así es! Frotar una mano sobre la otra es el gesto de 'Por favor' en LSM. ¡Es muy amable! 🤲"
+      },
+      {
+        "id": "pre1-artes-b6-v1-009",
+        "tema": "Animales en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se dice GATO en LSM?",
+        "opciones": [
+          "Imitando bigotes con los dedos en la mejilla",
+          "Poniendo manos en la cabeza",
+          "Agitando los brazos",
+          "Saltando en el lugar"
+        ],
+        "respuestaCorrecta": "Imitando bigotes con los dedos en la mejilla",
+        "explicacion": "Para decir GATO imitamos los bigotes del gatito con nuestros dedos en la mejilla. ¡Miau! 🐱",
+        "visual": "🐱",
+        "visualAnimado": true
+      },
+      {
+        "id": "pre1-artes-b6-v1-010",
+        "tema": "Vocabulario básico LSM",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Lengua de Señas Mexicana (LSM) solo la pueden aprender las personas sordas.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! ¡Cualquiera puede aprender LSM! Cuando la aprendemos podemos comunicarnos con personas sordas y hacer el mundo más inclusivo. 🌍✨"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-artes-b6-v2-001",
+        "tema": "Saludos en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se dice 'Adiós' en LSM?",
+        "opciones": [
+          "Agitar la mano abierta de lado a lado",
+          "Cerrar los ojos fuerte",
+          "Poner la mano en el corazón",
+          "Cruzar los brazos"
+        ],
+        "respuestaCorrecta": "Agitar la mano abierta de lado a lado",
+        "explicacion": "Decimos 'Adiós' en LSM agitando la mano abierta de un lado a otro. ¡Es igual al gesto típico de despedirse! 👋",
+        "visual": "👋",
+        "visualAnimado": true
+      },
+      {
+        "id": "pre1-artes-b6-v2-002",
+        "tema": "Colores en LSM",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El azul en LSM se hace apuntando al ___ .",
+        "respuestaCorrecta": "cielo",
+        "explicacion": "Para decir AZUL en LSM señalamos el cielo porque el cielo es azul. ¡Mira arriba! ☀️🔵"
+      },
+      {
+        "id": "pre1-artes-b6-v2-003",
+        "tema": "Animales en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Para decir CONEJO en LSM, ponemos dos dedos en la cabeza y...",
+        "opciones": [
+          "Los movemos como orejas largas",
+          "Los giramos como hélice",
+          "Los cerramos en puño",
+          "Los extendemos hacia el lado"
+        ],
+        "respuestaCorrecta": "Los movemos como orejas largas",
+        "explicacion": "El conejo tiene orejas largas que se mueven. En LSM levantamos dos dedos como las orejas del conejito. 🐰",
+        "visual": "🐰",
+        "visualAnimado": true
+      },
+      {
+        "id": "pre1-artes-b6-v2-004",
+        "tema": "Vocabulario básico LSM",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El número 1 en LSM se representa levantando un dedo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! En LSM los números del 1 al 5 son fáciles — levantamos la cantidad de dedos. ¡Un dedo = 1! ☝️"
+      },
+      {
+        "id": "pre1-artes-b6-v2-005",
+        "tema": "Saludos en LSM",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para decir 'Lo siento' o pedir disculpas en LSM, hacemos un círculo en el ___ .",
+        "respuestaCorrecta": "pecho",
+        "explicacion": "Pedimos disculpas haciendo un círculo en el pecho con el puño cerrado. Significa que nuestro corazón lo siente. 💙"
+      },
+      {
+        "id": "pre1-artes-b6-v2-006",
+        "tema": "Colores en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estas señas corresponde al color VERDE en LSM?",
+        "opciones": [
+          "Agitar la mano con la G extendida",
+          "Señalar a los ojos",
+          "Frotar las palmas",
+          "Cerrar el puño y abrirlo"
+        ],
+        "respuestaCorrecta": "Agitar la mano con la G extendida",
+        "explicacion": "VERDE en LSM usa la letra G del abecedario dactilológico, agitando la mano. 💚 🌿",
+        "visual": "💚",
+        "visualAnimado": false
+      },
+      {
+        "id": "pre1-artes-b6-v2-007",
+        "tema": "Vocabulario básico LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo decimos 'Amor' o 'Te quiero' en LSM?",
+        "opciones": [
+          "Cruzar los brazos sobre el pecho",
+          "Levantar los dos pulgares",
+          "Aplaudir rápidamente",
+          "Señalar a la otra persona"
+        ],
+        "respuestaCorrecta": "Cruzar los brazos sobre el pecho",
+        "explicacion": "¡Amor en LSM! Cruzamos los brazos sobre el corazón. Es una de las señas más bonitas. ❤️🤗",
+        "visual": "🤗",
+        "visualAnimado": true
+      },
+      {
+        "id": "pre1-artes-b6-v2-008",
+        "tema": "Animales en LSM",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Al hacer la seña de PÁJARO en LSM, abrimos y cerramos los dedos como si fueran un pico.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Para PÁJARO juntamos el dedo pulgar con el índice y los abrimos/cerramos frente a la boca, imitando el pico. 🐦",
+        "visual": "🐦",
+        "visualAnimado": true
+      },
+      {
+        "id": "pre1-artes-b6-v2-009",
+        "tema": "Saludos en LSM",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En LSM, para decir '¿Cómo estás?' señalamos con dos dedos hacia la ___ de la otra persona.",
+        "respuestaCorrecta": "cara",
+        "explicacion": "Preguntamos '¿Cómo estás?' señalando hacia la cara de la otra persona con el dedo índice y medio. 😊"
+      },
+      {
+        "id": "pre1-artes-b6-v2-010",
+        "tema": "Colores en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas manos necesitamos para hacer la mayoría de señas en LSM?",
+        "opciones": [
+          "Ninguna",
+          "Solo una",
+          "Una o dos, según la seña",
+          "Siempre tres"
+        ],
+        "respuestaCorrecta": "Una o dos, según la seña",
+        "explicacion": "¡Depende! Algunas señas usan una sola mano (como 'Hola') y otras usan las dos manos juntas (como 'Gracias'). ✋🤲",
+        "visual": "🤲",
+        "visualAnimado": false
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-artes-b6-v1-003",
+        "tema": "Saludos en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo saludamos diciendo 'Hola' en LSM?",
+        "opciones": [
+          "Cerrando los ojos",
+          "Levantando y abriendo la mano como ola de mar",
+          "Cruzando los brazos",
+          "Aplaudiendo dos veces"
+        ],
+        "respuestaCorrecta": "Levantando y abriendo la mano como ola de mar",
+        "explicacion": "Para decir '¡Hola!' en LSM levantamos la mano abierta y la movemos como una ola. ¡Como cuando saludamos a un amigo desde lejos! 👋",
+        "visual": "👋",
+        "visualAnimado": true
+      },
+      {
+        "id": "pre1-artes-b6-v1-002",
+        "tema": "Saludos en LSM",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En Lengua de Señas Mexicana (LSM) usamos las manos y el cuerpo para comunicarnos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En LSM hablamos con las manos, los gestos de la cara y el cuerpo. Es un idioma completo y hermoso. ✋😊"
+      },
+      {
+        "id": "pre1-artes-b6-v1-001",
+        "tema": "Vocabulario básico LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se dice 'Gracias' en Lengua de Señas Mexicana?",
+        "opciones": [
+          "Frotando las palmas",
+          "Llevando la mano a la barbilla y extendiéndola",
+          "Girando el dedo índice",
+          "Cerrando el puño"
+        ],
+        "respuestaCorrecta": "Llevando la mano a la barbilla y extendiéndola",
+        "explicacion": "¡Gracias en LSM! Lleva tu mano abierta a la barbilla y extiéndela hacia adelante. 🤲",
+        "visual": "🙏",
+        "visualAnimado": true
+      }
+    ]
+  },
+  "generado": "2026-03-09T03:30:00.000Z",
+  "version": "3.0"
+}
