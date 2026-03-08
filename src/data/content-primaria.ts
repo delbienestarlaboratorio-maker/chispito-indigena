@@ -772,50 +772,7 @@ export const LENGUAS_P2: MateriaContenido = {
 };
 
 
-export type BloqueContenido = {
-    bloque: number;
-    nombre: string;
-    meses: string;
-    // Qué verá el niño en clase (palabras del libro SEP)
-    enClase: string[];
-    // Referencia al libro SEP oficial (para que papás puedan verificar)
-    libroSep?: {
-        codigo: string;      // Código del libro CONALITEG ej: "P1MAA"
-        paginaInicio: number;
-        paginaFin: number;
-        descripcion: string; // Ej: "Libro de Matemáticas 1°, páginas 12-25"
-    };
-    // Cómo explicárselo a tu hijo en casa (para papás)
-    guiaPapa: {
-        intro: string;         // Resumen de 1 línea para el papá
-        comoExplicar: string[]; // Pasos super sencillos
-        truco: string;         // Un truco mnemotécnico o visual
-        error_comun: string;   // El error más frecuente de los niños
-        actividad_casa: string; // Una actividad práctica sin materiales extras
-    };
-    // Para el maestro
-    guiaMaestro: {
-        objetivo: string;
-        competencia: string;
-    };
-    // Palabras clave SEO
-    keywords: string[];
-};
-
-export type MateriaContenido = {
-    materia: string;
-    nombre: string;
-    emoji: string;
-    color: string;
-    bloques: BloqueContenido[];
-};
-
-export type GradoContenido = {
-    grado: string;
-    nombre: string;
-    emoji: string;
-    materias: Record<string, MateriaContenido>;
-};
+import type { BloqueContenido, MateriaContenido, GradoContenido } from "./content-types";
 
 // ============================================================
 // PRIMARIA 1° — Contenido completo masticado

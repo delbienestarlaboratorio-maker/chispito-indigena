@@ -1,7 +1,7 @@
 // Contenido "masticado" para Kinder (Preescolar 3°) 
 // Con referencias al libro SEP oficial CONALITEG 2025
 
-import type { GradoContenido, MateriaContenido } from "./content-primaria";
+import type { GradoContenido, MateriaContenido } from './content-types';
 
 // Códigos de libros CONALITEG Kinder 2025
 // P3PPA = Preescolar 3° Pensamiento Algebraico

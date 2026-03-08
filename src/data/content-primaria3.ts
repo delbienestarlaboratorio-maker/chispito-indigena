@@ -1,7 +1,7 @@
 ﻿// Base de datos de contenido "masticado" para papás y maestros
 // Primaria 3° — Ciclo escolar 2025-2026 SEP México
 
-import type { GradoContenido, MateriaContenido } from "./content-primaria";
+import type { GradoContenido, MateriaContenido } from './content-types';
 
 const LENGUAS_P3: MateriaContenido = {
     materia: "lenguas",
