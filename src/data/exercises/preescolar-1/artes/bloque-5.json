@@ -2,397 +2,298 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 5,
-  "nombre": "Construyo con mis manos",
-  "meses": "Abril-Junio",
+  "nombre": "Apreciación y emociones en el Arte",
+  "meses": "Periodo 5",
   "temas": [
-    "Pintar con dedos",
-    "Cantar canciones",
-    "Bailar",
-    "Dibujar libremente",
-    "Hacer manualidades"
+    "Mis emociones",
+    "Apreciación musical",
+    "Colores y sentimientos",
+    "Galería de arte"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-artes-b5-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b5-v1-001",
+        "tema": "Mis emociones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "Si estoy muy contento, ¿cómo podría pintar ese sentimiento?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Con colores brillantes como amarillo y naranja",
+          "Con colores oscuros como negro y gris",
+          "Sin usar ningún color",
+          "Con solo el color café"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Con colores brillantes como amarillo y naranja",
+        "explicacion": "¡La alegría es brillante! Los colores cálidos y vivos expresan felicidad. ¡El arte expresa lo que sentimos! 😊🌟",
+        "visual": "😊"
       },
       {
-        "id": "preescolar-1-artes-b5-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b5-003",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b5-v1-002",
+        "tema": "Apreciación musical",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Rojo y azul juntos forman morado",
+        "pregunta": "La música puede hacernos sentir tristes, alegres o con ganas de bailar.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
-        "visual": "🔴",
-        "visualAnimado": true
+        "explicacion": "¡Sí! La música mueve nuestras emociones. Una canción lenta puede hacernos sentir tranquilos y una rápida hacernos bailar. 🎵❤️"
       },
       {
-        "id": "preescolar-1-artes-b5-x-006",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b5-v1-003",
+        "tema": "Colores y sentimientos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Qué emoción expresaría un cuadro pintado completamente en azul oscuro?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Tristeza o calma profunda",
+          "Alegría y diversión",
+          "Enojo y rabia",
+          "Sorpresa"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Tristeza o calma profunda",
+        "explicacion": "El azul oscuro puede expresar tristeza, melancolía o calma profunda. ¡Los colores hablan sin palabras! 💙",
+        "visual": "💙"
       },
       {
-        "id": "preescolar-1-artes-b5-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b5-v1-004",
+        "tema": "Galería de arte",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Una galería de arte es un lugar donde podemos ver y apreciar obras de arte.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡En una galería se exponen pinturas, esculturas y más! Los niños también pueden crear su galería en el salón. 🖼️",
+        "visual": "🖼️"
       },
       {
-        "id": "preescolar-1-artes-b5-x-008",
-        "tema": "Bailar",
+        "id": "pre1-artes-b5-v1-005",
+        "tema": "Mis emociones",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "Cuando dibujamos cómo nos sentimos, usamos el arte para expresar nuestras ___.",
+        "respuestaCorrecta": "emociones",
+        "explicacion": "¡El arte es un lenguaje de emociones! Podemos dibujar, pintar o bailar lo que sentimos aunque no tengamos palabras. ❤️🎨"
       },
       {
-        "id": "preescolar-1-artes-b5-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-010",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b5-v1-006",
+        "tema": "Colores y sentimientos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Qué color usarías si quieres pintar algo que da mucho miedo?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Negro o morado oscuro",
+          "Amarillo brillante",
+          "Rosa suave",
+          "Celeste"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Negro o morado oscuro",
+        "explicacion": "Los colores oscuros como el negro y morado se asocian con el misterio y el miedo. ¡Los colores tienen emociones! 😱🖤"
       },
       {
-        "id": "preescolar-1-artes-b5-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-013",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b5-v1-007",
+        "tema": "Apreciación musical",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Podemos apreciar la música sin saber tocar ningún instrumento.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Claro! Escuchar música con atención también es disfrutar el arte. ¡Los oídos son una puerta al arte musical! 👂🎶"
       },
       {
-        "id": "preescolar-1-artes-b5-x-015",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b5-v1-008",
+        "tema": "Galería de arte",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "Cuando exponemos nuestros dibujos en el salón, creamos una pequeña ___ de arte.",
+        "respuestaCorrecta": "galería",
+        "explicacion": "¡Todos somos artistas! Colgar nuestros trabajos en el salón crea una galería. ¡Es un honor mostrar el arte! 🏛️"
       },
       {
-        "id": "preescolar-1-artes-b5-x-016",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b5-v1-009",
+        "tema": "Mis emociones",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+        "pregunta": "¿Qué animal podrías dibujar para expresar que te sientes valiente?",
+        "opciones": [
+          "Un león rugiendo 🦁",
+          "Un ratoncito asustado 🐭",
+          "Un caracol lento 🐌",
+          "Una ovejita dormida 🐑"
+        ],
+        "respuestaCorrecta": "Un león rugiendo 🦁",
+        "explicacion": "¡El león es símbolo de valentía! Cuando dibujamos un animal, también expresamos emociones. ¡El arte habla! 🦁",
+        "visual": "🦁"
       },
       {
-        "id": "preescolar-1-artes-b5-x-017",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b5-v1-010",
+        "tema": "Colores y sentimientos",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
+        "pregunta": "El color rojo puede representar amor, pero también enojo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los colores tienen varios significados! El rojo del corazón es amor ❤️, pero el rojo de una cara furiosa es enojo 😠. ¡El contexto importa!",
+        "visual": "❤️"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-artes-b5-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b5-v2-001",
+        "tema": "Apreciación musical",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "¿Qué es lo que hace diferente a la música clásica de otros géneros?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Usa orquestas con muchos instrumentos y no tiene letra cantada",
+          "Es la más divertida para bailar",
+          "Siempre es muy corta",
+          "Usa electrónica"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Usa orquestas con muchos instrumentos y no tiene letra cantada",
+        "explicacion": "La música clásica usa orquestas (muchos instrumentos juntos) y generalmente es instrumental. ¡Puede ser muy emocionante! 🎻🎹"
       },
       {
-        "id": "preescolar-1-artes-b5-005",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b5-v2-002",
+        "tema": "Galería de arte",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Bailar es moverse al ritmo de la ___",
-        "respuestaCorrecta": "música",
-        "explicacion": "La danza es el arte de moverse siguiendo la música."
+        "pregunta": "El artista mexicano Frida Kahlo era famosa por sus auto___ donde se pintaba a sí misma.",
+        "respuestaCorrecta": "retratos",
+        "explicacion": "¡Los autorretratos son pinturas de uno mismo! Frida Kahlo se pintó más de 55 veces expresando sus emociones. 🎨🌺"
       },
       {
-        "id": "preescolar-1-artes-b5-x-006",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b5-v2-003",
+        "tema": "Colores y sentimientos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Por qué los hospitales y escuelas suelen usar colores claros y suaves en sus paredes?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Porque transmiten calma y bienestar",
+          "Porque son más baratos",
+          "Porque son más bonitos",
+          "Para que no se raye la pared"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Porque transmiten calma y bienestar",
+        "explicacion": "¡Los colores afectan cómo nos sentimos en un lugar! Los colores suaves relajan. Los brillantes energizan. ¡Se llama psicología del color! 🏥💙"
       },
       {
-        "id": "preescolar-1-artes-b5-x-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-010",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b5-v2-004",
+        "tema": "Mis emociones",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "El arte es una forma de procesar y entender nuestras emociones.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Cuando estamos tristes y dibujamos cómo nos sentimos, el arte nos ayuda a entendernos y sentirnos mejor. ❤️‍🩹🎨"
       },
       {
-        "id": "preescolar-1-artes-b5-x-011",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-013",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b5-v2-005",
+        "tema": "Galería de arte",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Cuál es el museo de arte más importante de México?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "El Palacio de Bellas Artes",
+          "El Zócalo",
+          "La Torre Latinoamericana",
+          "El Estadio Azteca"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "El Palacio de Bellas Artes",
+        "explicacion": "¡El Palacio de Bellas Artes en CDMX es un tesoro de México! Tiene murales de Diego Rivera y muchas obras de arte. 🏛️🇲🇽",
+        "visual": "🏛️"
       },
       {
-        "id": "preescolar-1-artes-b5-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b5-v2-006",
+        "tema": "Apreciación musical",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "pregunta": "El instrumento que produce sonido cuando lo golpeamos con baquetas se llama ___.",
+        "respuestaCorrecta": "tambor",
+        "explicacion": "¡El tambor es uno de los instrumentos más antiguos del mundo! Lo usan casi todas las culturas del planeta. 🥁"
       },
       {
-        "id": "preescolar-1-artes-b5-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b5-v2-007",
+        "tema": "Colores y sentimientos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los colores cálidos (rojo, naranja, amarillo) generalmente evocan energía y calor.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Rojo, naranja y amarillo son como el sol y el fuego. Dan energía y calidez. ¡Perfectos para obras alegres! 🔥☀️"
+      },
+      {
+        "id": "pre1-artes-b5-v2-008",
+        "tema": "Mis emociones",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Cuando el arte nos ayuda a calmar emociones difíciles como el enojo o la tristeza, se llama arte ___.",
+        "respuestaCorrecta": "terapéutico",
+        "explicacion": "¡El arte terapéutico es muy poderoso! Dibujar o pintar puede calmar la mente y sanar el corazón. 🌸🎨"
+      },
+      {
+        "id": "pre1-artes-b5-v2-009",
+        "tema": "Galería de arte",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Qué debemos hacer cuando visitamos una galería de arte?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Observar con cuidado y no tocar las obras",
+          "Tocar todas las pinturas",
+          "Hablar muy fuerte",
+          "Correr entre las obras"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Observar con cuidado y no tocar las obras",
+        "explicacion": "¡Las obras de arte son delicadas! Las observamos con respeto y en silencio para apreciarlas mejor. Las manos quietas. 👀🤫"
+      },
+      {
+        "id": "pre1-artes-b5-v2-010",
+        "tema": "Apreciación musical",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cada persona puede sentir emociones diferentes al escuchar la misma música.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Así es la magia del arte! La misma canción puede hacer llorar a unos y bailar a otros. ¡Los sentimientos son únicos! ❤️🎶"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-artes-b5-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b5-v1-001",
+        "tema": "Mis emociones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "Si estoy muy contento, ¿cómo podría pintar ese sentimiento?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Con colores brillantes como amarillo y naranja",
+          "Con colores oscuros como negro y gris",
+          "Sin usar ningún color",
+          "Con solo el color café"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Con colores brillantes como amarillo y naranja",
+        "explicacion": "¡La alegría es brillante! Los colores cálidos y vivos expresan felicidad. 😊🌟",
+        "visual": "😊"
       },
       {
-        "id": "preescolar-1-artes-b5-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b5-v1-002",
+        "tema": "Apreciación musical",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
+        "pregunta": "La música puede hacernos sentir tristes, alegres o con ganas de bailar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La música mueve nuestras emociones. 🎵❤️"
       },
       {
-        "id": "preescolar-1-artes-b5-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b5-v2-005",
+        "tema": "Galería de arte",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "¿Cuál es el museo de arte más importante de México?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "El Palacio de Bellas Artes",
+          "El Zócalo",
+          "La Torre Latinoamericana",
+          "El Estadio Azteca"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "El Palacio de Bellas Artes",
+        "explicacion": "¡El Palacio de Bellas Artes en CDMX es un tesoro de México con murales de Diego Rivera! 🏛️🇲🇽",
+        "visual": "🏛️"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.118Z",
-  "version": "2.0"
+  "generado": "2026-03-09T03:45:00.000Z",
+  "version": "3.0"
 }

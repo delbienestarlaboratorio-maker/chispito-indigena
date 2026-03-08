@@ -2,397 +2,295 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 4,
-  "nombre": "Dibujo y creo",
-  "meses": "Febrero-Marzo",
+  "nombre": "Creación tridimensional y modelado",
+  "meses": "Periodo 4",
   "temas": [
-    "Pintar con dedos",
-    "Cantar canciones",
-    "Bailar",
-    "Dibujar libremente",
-    "Hacer manualidades"
+    "Masas y plastilina",
+    "Ensambles",
+    "Texturas 3D",
+    "Mini esculturas"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-artes-b4-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b4-v1-001",
+        "tema": "Masas y plastilina",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "¿Qué podemos hacer con plastilina?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Aplanar, estirar, enrollar y dar forma",
+          "Solo aplanar",
+          "Solo pintarla",
+          "Solo romperla"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Aplanar, estirar, enrollar y dar forma",
+        "explicacion": "¡La plastilina es mágica! Podemos darle cualquier forma: animales, frutas, personas... ¡Lo que imaginemos! 🎨",
+        "visual": "🟡"
       },
       {
-        "id": "preescolar-1-artes-b4-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b4-003",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b4-v1-002",
+        "tema": "Texturas 3D",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Rojo y azul juntos forman morado",
+        "pregunta": "Una escultura tiene tres dimensiones: alto, ancho y profundidad.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
-        "visual": "🔴",
-        "visualAnimado": true
+        "explicacion": "¡Las esculturas son 3D! A diferencia de un dibujo (2D), podemos dar vuelta a una escultura y verla desde todos lados. 🗿"
       },
       {
-        "id": "preescolar-1-artes-b4-x-006",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b4-v1-003",
+        "tema": "Ensambles",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Qué es un ensamble artístico?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Juntar diferentes materiales para crear algo nuevo",
+          "Pintar con muchos colores",
+          "Bailar en grupo",
+          "Cantar en coro"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Juntar diferentes materiales para crear algo nuevo",
+        "explicacion": "¡Un ensamble une cosas! Podemos pegar palitos, botones, telas y más para crear esculturas únicas. 🔧",
+        "visual": "🔧"
       },
       {
-        "id": "preescolar-1-artes-b4-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b4-v1-004",
+        "tema": "Mini esculturas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para hacer una mini escultura de una serpiente con plastilina, enrollamos un trozo largo formando una ___.",
+        "respuestaCorrecta": "espiral",
+        "explicacion": "¡Una espiral parecida a una serpiente enroscada! La plastilina tiene muchas formas posibles. 🐍"
+      },
+      {
+        "id": "pre1-artes-b4-v1-005",
+        "tema": "Masas y plastilina",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Podemos hacer plastilina casera con harina, agua, sal y colorante.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! La masa de sal es fácil de hacer en casa y podemos pintarla. ¡Es económica y divertida! 🧂🌈"
       },
       {
-        "id": "preescolar-1-artes-b4-x-008",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-010",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b4-v1-006",
+        "tema": "Texturas 3D",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Qué herramienta natural podemos usar para crear texturas en plastilina?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Un palito o una hoja de árbol",
+          "Una pantalla de celular",
+          "Un libro",
+          "Un vaso de agua"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Un palito o una hoja de árbol",
+        "explicacion": "¡Las hojas dejan su huella en la plastilina! Un palito hace rayas. ¡La naturaleza nos da herramientas de arte! 🍃",
+        "visual": "🍃"
       },
       {
-        "id": "preescolar-1-artes-b4-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-013",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b4-v1-007",
+        "tema": "Ensambles",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "En un ensamble, podemos usar materiales reciclados como cajas, tapas y palitos.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Los materiales reciclados son perfectos para ensambles! Una caja de leche + tapas + pintura = ¡obra de arte! ♻️",
+        "visual": "♻️"
       },
       {
-        "id": "preescolar-1-artes-b4-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b4-v1-008",
+        "tema": "Mini esculturas",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "¿Qué parte del cuerpo usamos principalmente para modelar plastilina?",
+        "opciones": [
+          "Las manos y los dedos",
+          "Los pies",
+          "La boca",
+          "Los codos"
+        ],
+        "respuestaCorrecta": "Las manos y los dedos",
+        "explicacion": "¡Las manos son increíbles! Con los dedos podemos dar forma, apretar, estirar y detallar la plastilina. 🖐️"
       },
       {
-        "id": "preescolar-1-artes-b4-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b4-v1-009",
+        "tema": "Masas y plastilina",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+        "pregunta": "Cuando aplastamos una bola de plastilina entre las manos obtenemos un círculo ___.",
+        "respuestaCorrecta": "plano",
+        "explicacion": "¡Una tortilla de plastilina! Al aplastar la esfera se vuelve un círculo plano. ¡Así podemos crear pizzas, galletas y más! 🍕"
       },
       {
-        "id": "preescolar-1-artes-b4-x-017",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b4-v1-010",
+        "tema": "Texturas 3D",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
+        "pregunta": "Podemos tocar una escultura para saber cómo es su textura.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El arte tridimensional podemos verlo Y tocarlo. La textura puede ser suave, rugosa, punteada... 👐"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-artes-b4-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b4-v2-001",
+        "tema": "Mini esculturas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "Miguel Ángel fue un famoso escultor que creó la estatua de David. ¿Con qué material trabajaba?",
         "opciones": [
-          "Agua",
+          "Mármol (piedra blanca)",
+          "Madera",
           "Plastilina",
-          "Luz",
-          "Aire"
+          "Barro cocido"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Mármol (piedra blanca)",
+        "explicacion": "Miguel Ángel esculpía en mármol, una piedra muy dura. ¡Nosotros empezamos con plastilina, que es más fácil! 🗿",
+        "visual": "🗿"
       },
       {
-        "id": "preescolar-1-artes-b4-005",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b4-v2-002",
+        "tema": "Masas y plastilina",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Bailar es moverse al ritmo de la ___",
-        "respuestaCorrecta": "música",
-        "explicacion": "La danza es el arte de moverse siguiendo la música."
+        "pregunta": "El barro es un material natural con el que se hacen ollas y figuras que luego se endurecen con el ___.",
+        "respuestaCorrecta": "fuego",
+        "explicacion": "¡Las piezas de barro se meten al horno (fuego) para cocerse y endurecerse! Así se hacen las vasijas de cerámica. 🏺"
       },
       {
-        "id": "preescolar-1-artes-b4-x-006",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-007",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
-        "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
-        ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-010",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b4-v2-003",
+        "tema": "Ensambles",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "En un ensamble artístico, el orden en que ponemos los materiales puede cambiar completamente el resultado.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Así es! Cambiar la posición o el orden de los elementos da un resultado diferente. ¡El ensamble es como un rompecabezas creativo! 🧩"
       },
       {
-        "id": "preescolar-1-artes-b4-x-011",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-013",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b4-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b4-v2-004",
+        "tema": "Texturas 3D",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Cómo llamamos al arte de crear objetos con barro o cerámica?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Alfarería o cerámica",
+          "Pintura",
+          "Fotografía",
+          "Dibujo"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Alfarería o cerámica",
+        "explicacion": "¡La alfarería es muy antigua! Los pueblos originarios de México ya hacían hermosas vasijas de barro. 🏺🇲🇽"
       },
       {
-        "id": "preescolar-1-artes-b4-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b4-v2-005",
+        "tema": "Mini esculturas",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "pregunta": "Para hacer los ojos de una figura de plastilina podemos usar pequeñas ___ de plástico.",
+        "respuestaCorrecta": "cuentas",
+        "explicacion": "¡Las cuentas o chaquiras son perfectas para los ojitos! Combinar materiales hace las figuras más expresivas. 👀"
       },
       {
-        "id": "preescolar-1-artes-b4-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b4-v2-006",
+        "tema": "Ensambles",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Qué pegamento podemos usar para unir materiales en un ensamble escolar?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Silicón o resistol blanco",
+          "Cinta adhesiva de tela",
+          "Agua",
+          "Solo las manos"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Silicón o resistol blanco",
+        "explicacion": "¡El resistol blanco es ideal! Es seguro para niños y pega bien cartón, tela y madera liviana. 🔧"
+      },
+      {
+        "id": "pre1-artes-b4-v2-007",
+        "tema": "Masas y plastilina",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Trabajar con plastilina fortalece los músculos pequeños de los dedos, lo que nos ayuda a escribir.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Cierto! Amasare y moldear desarrolla la motricidad fina, que son los movimientos pequeños de manos y dedos. ¡El arte tiene beneficios! ✏️🖐️"
+      },
+      {
+        "id": "pre1-artes-b4-v2-008",
+        "tema": "Texturas 3D",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En México, las artesanas de Oaxaca crean figuras de barro pintadas llamadas ___.",
+        "respuestaCorrecta": "Alebrijes",
+        "explicacion": "¡Los Alebrijes son figuras mágicas de animales fantásticos! Son una artesanía mexicana muy colorida y especial. 🦄🇲🇽"
+      },
+      {
+        "id": "pre1-artes-b4-v2-009",
+        "tema": "Mini esculturas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hace diferente a una escultura de un dibujo?",
+        "opciones": [
+          "La escultura tiene volumen y podemos verla desde todos lados",
+          "La escultura usa más colores",
+          "El dibujo es más grande",
+          "No hay diferencia"
+        ],
+        "respuestaCorrecta": "La escultura tiene volumen y podemos verla desde todos lados",
+        "explicacion": "¡El volumen lo es todo! Una escultura ocupa espacio en tres dimensiones. Un dibujo solo tiene dos. 🗿🖼️"
+      },
+      {
+        "id": "pre1-artes-b4-v2-010",
+        "tema": "Masas y plastilina",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La técnica de pellizcar la plastilina en pequeños pellizcos crea patrones decorativos interesantes.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los pellizcos crean texturas como escamas de pez o pétalos de flor. Las manos son el mejor pincel. 🐟🌸"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-artes-b4-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b4-v1-001",
+        "tema": "Masas y plastilina",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "¿Qué podemos hacer con plastilina?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Aplanar, estirar, enrollar y dar forma",
+          "Solo aplanar",
+          "Solo pintarla",
+          "Solo romperla"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Aplanar, estirar, enrollar y dar forma",
+        "explicacion": "¡La plastilina es mágica! Podemos darle cualquier forma. 🎨"
       },
       {
-        "id": "preescolar-1-artes-b4-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b4-v1-002",
+        "tema": "Texturas 3D",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
+        "pregunta": "Una escultura tiene tres dimensiones: alto, ancho y profundidad.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Las esculturas son 3D! A diferencia de un dibujo (2D), podemos verla desde todos lados. 🗿"
       },
       {
-        "id": "preescolar-1-artes-b4-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b4-v1-003",
+        "tema": "Ensambles",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un ensamble artístico?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Juntar diferentes materiales para crear algo nuevo",
+          "Pintar con muchos colores",
+          "Bailar en grupo",
+          "Cantar en coro"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Juntar diferentes materiales para crear algo nuevo",
+        "explicacion": "¡Un ensamble une cosas! Podemos pegar palitos, botones, telas y más. 🔧"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.117Z",
-  "version": "2.0"
+  "generado": "2026-03-09T03:45:00.000Z",
+  "version": "3.0"
 }

@@ -2,397 +2,299 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 3,
-  "nombre": "Bailo y me muevo",
-  "meses": "Diciembre-Enero",
+  "nombre": "Movimiento y expresión corporal",
+  "meses": "Periodo 3",
   "temas": [
-    "Pintar con dedos",
-    "Cantar canciones",
-    "Bailar",
-    "Dibujar libremente",
-    "Hacer manualidades"
+    "Imitación de animales",
+    "Baile con pañuelos",
+    "Las estatuas",
+    "Danza tradicional"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-artes-b3-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b3-v1-001",
+        "tema": "Imitación de animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "¿Cómo nos movemos cuando imitamos a un elefante?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Despacio, con pasos pesados y balanceando los brazos",
+          "Rápido y saltando",
+          "Quietos y sin moverse",
+          "Girando en círculos rápido"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Despacio, con pasos pesados y balanceando los brazos",
+        "explicacion": "¡El elefante es grande y pesado! Da pasos lentos y balancea su trompa (los brazos). ¡Exprésalo con tu cuerpo! 🐘",
+        "visual": "🐘"
       },
       {
-        "id": "preescolar-1-artes-b3-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b3-003",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b3-v1-002",
+        "tema": "Baile con pañuelos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Rojo y azul juntos forman morado",
+        "pregunta": "Podemos usar pañuelos de colores para crear figuras en el aire mientras bailamos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
-        "visual": "🔴",
-        "visualAnimado": true
+        "explicacion": "¡Los pañuelos son como alas de colores! Los movemos al ritmo de la música creando formas en el aire. 🌈",
+        "visual": "🌈"
       },
       {
-        "id": "preescolar-1-artes-b3-x-006",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v1-003",
+        "tema": "Las estatuas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "En el juego de las estatuas, ¿qué hacemos cuando la música para?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Nos quedamos completamente quietos",
+          "Corremos más rápido",
+          "Aplaudimos tres veces",
+          "Nos sentamos en el suelo"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Nos quedamos completamente quietos",
+        "explicacion": "¡Cuando la música para, somos estatuas! No nos movemos nada. ¡El que se mueve sale! 🗽"
       },
       {
-        "id": "preescolar-1-artes-b3-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b3-v1-004",
+        "tema": "Imitación de animales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para imitar a un pájaro extendemos los brazos como si fueran ___.",
+        "respuestaCorrecta": "alas",
+        "explicacion": "¡Nuestros brazos son alas! Los extendemos y los movemos suavemente para volar como los pájaros. 🦅",
+        "visual": "🦅"
+      },
+      {
+        "id": "pre1-artes-b3-v1-005",
+        "tema": "Danza tradicional",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "México tiene danzas tradicionales como el Jarabe Tapatío.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! El Jarabe Tapatío es la danza nacional de México. Los bailarines usan trajes típicos y zapateado. ¡Es hermoso! 🇲🇽",
+        "visual": "🇲🇽"
       },
       {
-        "id": "preescolar-1-artes-b3-x-008",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-010",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v1-006",
+        "tema": "Baile con pañuelos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Qué parte del cuerpo movemos principalmente al bailar con pañuelos?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Los brazos y las muñecas",
+          "Solo los pies",
+          "Solo la cabeza",
+          "Solo las rodillas"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Los brazos y las muñecas",
+        "explicacion": "¡Los brazos y muñecas crean figuras hermosas con el pañuelo! Pero también podemos mover todo el cuerpo. 💃",
+        "visual": "💃"
       },
       {
-        "id": "preescolar-1-artes-b3-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-013",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b3-v1-007",
+        "tema": "Las estatuas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "En el juego de las estatuas, podemos congelarnos en poses graciosas y creativas.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Podemos congelarnos con los brazos en el aire, de puntitas, o en pose de superhéroe. ¡La imaginación manda! 🦸"
       },
       {
-        "id": "preescolar-1-artes-b3-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b3-v1-008",
+        "tema": "Imitación de animales",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "¿Cómo imitamos a un canguro?",
+        "opciones": [
+          "Saltando con los pies juntos",
+          "Caminando en cuatro patas",
+          "Corriendo muy rápido",
+          "Arrastrándose en el suelo"
+        ],
+        "respuestaCorrecta": "Saltando con los pies juntos",
+        "explicacion": "¡El canguro salta con los dos pies juntos! Sus patas traseras son muy fuertes. ¡Brinca como un canguro! 🦘",
+        "visual": "🦘"
       },
       {
-        "id": "preescolar-1-artes-b3-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v1-009",
+        "tema": "Danza tradicional",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+        "pregunta": "En la danza tradicional mexicana, los bailarines hacen un sonido fuerte con los pies que se llama ___.",
+        "respuestaCorrecta": "zapateado",
+        "explicacion": "¡El zapateado! Los bailarines golpean el suelo con los pies al ritmo de la música. ¡Hace un sonido emocionante! 👟",
+        "visual": "👟"
       },
       {
-        "id": "preescolar-1-artes-b3-x-017",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b3-v1-010",
+        "tema": "Baile con pañuelos",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
+        "pregunta": "Bailar con pañuelos nos ayuda a aprender a coordinar los movimientos de los brazos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Mover el pañuelo al ritmo de la música desarrolla la coordinación y expresión artística. ✨"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-artes-b3-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b3-v2-001",
+        "tema": "Imitación de animales",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "Si imitamos a un gato, ¿qué características del gato expresamos con el cuerpo?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Movimientos suaves, acechando y estirándose",
+          "Movimientos bruscos y rápidos",
+          "Saltos muy altos",
+          "Solo maullidos"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Movimientos suaves, acechando y estirándose",
+        "explicacion": "Los gatos son elegantes y sigilosos. Se estiran, acechan y se mueven suavemente. ¡Sé un gato elegante! 🐱",
+        "visual": "🐱"
       },
       {
-        "id": "preescolar-1-artes-b3-005",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v2-002",
+        "tema": "Danza tradicional",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Bailar es moverse al ritmo de la ___",
-        "respuestaCorrecta": "música",
-        "explicacion": "La danza es el arte de moverse siguiendo la música."
+        "pregunta": "La Danza de los Voladores de Papantla es una danza ceremonial de México donde los hombres giran colgados de un ___.",
+        "respuestaCorrecta": "palo",
+        "explicacion": "¡Increíble! Los Voladores de Papantla giran colgados de un palo alto. ¡Es patrimonio cultural de la Humanidad! 🌀"
       },
       {
-        "id": "preescolar-1-artes-b3-x-006",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b3-v2-003",
+        "tema": "Las estatuas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Por qué el juego de las estatuas nos ayuda a desarrollar el control del cuerpo?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Porque aprendemos a parar el movimiento cuando queremos",
+          "Porque corremos muy rápido",
+          "Porque solo movemos las manos",
+          "Porque escuchamos música"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Porque aprendemos a parar el movimiento cuando queremos",
+        "explicacion": "Controlar cuándo parar y cuándo moverse es una habilidad muy importante. ¡Las estatuas nos enseñan autocontrol! 🧘"
       },
       {
-        "id": "preescolar-1-artes-b3-x-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-010",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b3-v2-004",
+        "tema": "Baile con pañuelos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "El baile con pañuelos puede ser lento y delicado o rápido y enérgico, según la música.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡El cuerpo y el pañuelo siguen al ritmo de la música! Música suave = movimientos suaves. Música rápida = movimientos enérgicos. 🎵"
       },
       {
-        "id": "preescolar-1-artes-b3-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v2-005",
+        "tema": "Imitación de animales",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "Cuando imitamos animales con el cuerpo, usamos la ___ para imaginar cómo se mueven.",
+        "respuestaCorrecta": "imaginación",
+        "explicacion": "La imaginación nos permite meternos en el papel del animal. ¡Eso también es actuación y arte! 🎭"
       },
       {
-        "id": "preescolar-1-artes-b3-x-012",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b3-v2-006",
+        "tema": "Danza tradicional",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Para qué servían las danzas tradicionales en las culturas antiguas de México?",
+        "opciones": [
+          "Para agradecer a la naturaleza y celebrar",
+          "Solo para divertirse",
+          "Para comunicarse con otros países",
+          "Para hacer ejercicio únicamente"
+        ],
+        "respuestaCorrecta": "Para agradecer a la naturaleza y celebrar",
+        "explicacion": "Las danzas prehispánicas eran ceremonias sagradas para agradecer la lluvia, el sol, la cosecha. ¡El arte tenía un significado profundo! 🌽☀️"
+      },
+      {
+        "id": "pre1-artes-b3-v2-007",
+        "tema": "Las estatuas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+        "pregunta": "En el juego de estatuas con un compañero, uno hace una pose y el otro la ___ exactamente.",
+        "respuestaCorrecta": "copia",
+        "explicacion": "¡Como un espejo! Copiar la pose del compañero nos ayuda a observar con atención y a coordinar el cuerpo. 🪞"
       },
       {
-        "id": "preescolar-1-artes-b3-x-013",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b3-v2-008",
+        "tema": "Baile con pañuelos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "Si la música que acompaña el baile con pañuelos es muy triste, ¿cómo movemos el pañuelo?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Lentamente, con movimientos suaves y hacia abajo",
+          "Rápido y con saltos",
+          "Sin moverlo para nada",
+          "Solo en círculos"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Lentamente, con movimientos suaves y hacia abajo",
+        "explicacion": "La tristeza se expresa con movimientos lentos y caídos. ¡El arte nos ayuda a expresar emociones! 😢💜"
       },
       {
-        "id": "preescolar-1-artes-b3-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b3-v2-009",
+        "tema": "Imitación de animales",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "pregunta": "A través de la imitación de animales, los niños aprenden a observar cómo se mueven los seres vivos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Para imitar bien a un animal primero debemos observarlo. ¡El arte enseña a mirar el mundo con atención! 👁️"
       },
       {
-        "id": "preescolar-1-artes-b3-x-016",
-        "tema": "Pintar con dedos",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b3-v2-010",
+        "tema": "Danza tradicional",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "pregunta": "Las danzas tradicionales mexicanas varían según la región del país.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Jalisco tiene el Jarabe Tapatío, Veracruz tiene la Bamba, Oaxaca tiene la Zandunga. ¡México es muy diverso! 🗺️🇲🇽"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-artes-b3-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b3-v1-001",
+        "tema": "Imitación de animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "¿Cómo nos movemos cuando imitamos a un elefante?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Despacio, con pasos pesados y balanceando los brazos",
+          "Rápido y saltando",
+          "Quietos y sin moverse",
+          "Girando en círculos rápido"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Despacio, con pasos pesados y balanceando los brazos",
+        "explicacion": "¡El elefante es grande y pesado! Da pasos lentos y balancea su trompa. 🐘",
+        "visual": "🐘"
       },
       {
-        "id": "preescolar-1-artes-b3-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b3-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b3-v1-003",
+        "tema": "Las estatuas",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "nivel": "v1",
+        "pregunta": "En el juego de las estatuas, ¿qué hacemos cuando la música para?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Nos quedamos completamente quietos",
+          "Corremos más rápido",
+          "Aplaudimos tres veces",
+          "Nos sentamos en el suelo"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Nos quedamos completamente quietos",
+        "explicacion": "¡Cuando la música para, somos estatuas! 🗽"
+      },
+      {
+        "id": "pre1-artes-b3-v1-002",
+        "tema": "Baile con pañuelos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Podemos usar pañuelos de colores para crear figuras en el aire mientras bailamos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los pañuelos son como alas de colores! 🌈"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.116Z",
-  "version": "2.0"
+  "generado": "2026-03-09T03:45:00.000Z",
+  "version": "3.0"
 }

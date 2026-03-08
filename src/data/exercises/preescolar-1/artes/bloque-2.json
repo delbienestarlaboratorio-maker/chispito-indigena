@@ -2,397 +2,305 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 2,
-  "nombre": "La música y yo",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Expresión plástica creativa",
+  "meses": "Periodo 2",
   "temas": [
-    "Pintar con dedos",
-    "Cantar canciones",
-    "Bailar",
-    "Dibujar libremente",
-    "Hacer manualidades"
+    "Pintura dactilar",
+    "Mezcla de colores",
+    "Trazos libres",
+    "Texturas naturales"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-artes-b2-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b2-v1-001",
+        "tema": "Pintura dactilar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "La pintura dactilar se hace usando...",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Los dedos",
+          "Un pincel grande",
+          "Una esponja",
+          "Un lápiz"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Los dedos",
+        "explicacion": "'Dactil' viene de dedo. ¡La pintura dactilar se hace con los dedos! Es la forma más divertida y directa de pintar. 🖐️",
+        "visual": "🖐️"
       },
       {
-        "id": "preescolar-1-artes-b2-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b2-003",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b2-v1-002",
+        "tema": "Mezcla de colores",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Rojo y azul juntos forman morado",
+        "pregunta": "Si mezclo pintura azul con pintura amarilla obtengo el color verde.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
-        "visual": "🔴",
-        "visualAnimado": true
+        "explicacion": "¡Magia de colores! Azul + Amarillo = Verde 🟢. ¡Podemos crear nuevos colores mezclando pinturas!",
+        "visual": "🟢"
       },
       {
-        "id": "preescolar-1-artes-b2-x-006",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b2-v1-003",
+        "tema": "Mezcla de colores",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Qué color obtengo si mezclo rojo y amarillo?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Naranja 🟠",
+          "Morado 🟣",
+          "Verde 🟢",
+          "Azul 🔵"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Naranja 🟠",
+        "explicacion": "Rojo + Amarillo = Naranja 🟠. ¡Como el color de las zanahorias! ¡Experimenta con los colores!",
+        "visual": "🟠"
       },
       {
-        "id": "preescolar-1-artes-b2-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b2-v1-004",
+        "tema": "Trazos libres",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Cuando dibujamos líneas sin seguir una regla, lo llamamos trazos libres.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Los trazos libres son líneas que dibujamos como queremos. ¡No hay reglas! Pueden ser rectas, curvas, onduladas... ✏️"
       },
       {
-        "id": "preescolar-1-artes-b2-x-008",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-010",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b2-v1-005",
+        "tema": "Texturas naturales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Cómo se siente una hoja de árbol al tocarla?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Lisa y suave",
+          "Áspera como lija",
+          "Fría como hielo",
+          "Pegajosa como miel"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Lisa y suave",
+        "explicacion": "Muchas hojas son lisas y suaves por encima. ¡Podemos explorar texturas naturales y luego dibujarlas! 🍃",
+        "visual": "🍃"
       },
       {
-        "id": "preescolar-1-artes-b2-x-012",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b2-v1-006",
+        "tema": "Pintura dactilar",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Al poner el dedo en pintura y estamparlo en papel creamos una ___ de huella.",
+        "respuestaCorrecta": "marca",
+        "explicacion": "Cada dedo deja una marca diferente. ¡Tu huella digital es única en el mundo! Úsala para hacer arte. 🖐️✨"
+      },
+      {
+        "id": "pre1-artes-b2-v1-007",
+        "tema": "Mezcla de colores",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
+        "pregunta": "¿Qué pasa cuando mezclo todos los colores de pintura juntos?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Se vuelve un color oscuro/café",
+          "Se vuelve blanco",
+          "Desaparece",
+          "Se vuelve transparente"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "respuestaCorrecta": "Se vuelve un color oscuro/café",
+        "explicacion": "Cuando mezclamos muchos colores juntos se confunden y crean un color oscuro. ¡Por eso usamos pocos colores a la vez! 🎨"
       },
       {
-        "id": "preescolar-1-artes-b2-x-013",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b2-v1-008",
+        "tema": "Trazos libres",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Podemos hacer trazos libres con crayones, plumones o lápices de colores.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Cualquier instrumento que deje marca en el papel sirve para hacer trazos libres. ¡Elige tu favorito! 🖍️"
       },
       {
-        "id": "preescolar-1-artes-b2-x-015",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b2-v1-009",
+        "tema": "Texturas naturales",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "Cuando ponemos una hoja debajo del papel y frotamos un crayón encima, aparece la ___ de la hoja.",
+        "respuestaCorrecta": "textura",
+        "explicacion": "¡Esta técnica se llama frottage (frotado)! Podemos copiar la textura de hojas, monedas y más. 🍃✨"
       },
       {
-        "id": "preescolar-1-artes-b2-x-016",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b2-v1-010",
+        "tema": "Pintura dactilar",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-017",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
+        "pregunta": "¿Por qué la pintura dactilar es buena para los niños de preescolar?",
+        "opciones": [
+          "Estimula el tacto y la creatividad",
+          "Es muy cara",
+          "Solo la hacen artistas",
+          "Mancha la ropa sin ningún beneficio"
+        ],
+        "respuestaCorrecta": "Estimula el tacto y la creatividad",
+        "explicacion": "¡El tacto es un sentido muy importante! Al tocar la pintura con los dedos aprendemos sobre texturas y desarrollamos la creatividad. 🧠🖐️"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-artes-b2-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b2-v2-001",
+        "tema": "Mezcla de colores",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "Los colores primarios son los que no se pueden crear mezclando otros. ¿Cuáles son?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Rojo, azul y amarillo",
+          "Verde, naranja y morado",
+          "Negro, blanco y gris",
+          "Rojo, verde y azul"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "¡Rojo, azul y amarillo son los colores primarios! Con ellos podemos crear TODOS los demás colores. 🔴🔵🟡",
+        "visual": "🎨"
       },
       {
-        "id": "preescolar-1-artes-b2-005",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b2-v2-002",
+        "tema": "Trazos libres",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Bailar es moverse al ritmo de la ___",
-        "respuestaCorrecta": "música",
-        "explicacion": "La danza es el arte de moverse siguiendo la música."
+        "pregunta": "Una línea que se dobla y cambia de dirección muchas veces se llama línea ___.",
+        "respuestaCorrecta": "ondulada",
+        "explicacion": "¡Las líneas onduladas parecen olas del mar! En el dibujo hay líneas rectas, curvas, en zigzag y onduladas. 〰️"
       },
       {
-        "id": "preescolar-1-artes-b2-x-006",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-007",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
-        "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
-        ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-010",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b2-v2-003",
+        "tema": "Texturas naturales",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "La corteza de un árbol tiene una textura áspera y rugosa.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! La corteza protege al árbol y tiene una textura gruesa y rugosa. ¡Podemos copiarla con la técnica del frotado! 🌳"
       },
       {
-        "id": "preescolar-1-artes-b2-x-011",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-013",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b2-v2-004",
+        "tema": "Pintura dactilar",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Qué podemos crear usando solo huellas del dedo pulgar?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Caras, animalitos y flores",
+          "Solo puntos",
+          "Nada útil",
+          "Solo letras"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Caras, animalitos y flores",
+        "explicacion": "¡El pulgar es la base! Huella de pulgar = cuerpo de un animalito. Agrega líneas y ojos con plumón. ¡Infinitas creaciones! 🐛",
+        "visual": "🐛"
       },
       {
-        "id": "preescolar-1-artes-b2-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b2-v2-005",
+        "tema": "Mezcla de colores",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "pregunta": "Si mezclo rojo con blanco obtengo el color ___.",
+        "respuestaCorrecta": "rosa",
+        "explicacion": "Rojo + Blanco = Rosa 🌸. Agregar blanco a cualquier color lo aclara y crea tonos más suaves. ¡Pruébalo! 🎨"
       },
       {
-        "id": "preescolar-1-artes-b2-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b2-v2-006",
+        "tema": "Trazos libres",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un garabato también es una forma válida de expresión artística.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los garabatos son importantes! Son la primera forma de arte de los niños y el primer paso para aprender a dibujar y escribir. ✏️💛"
+      },
+      {
+        "id": "pre1-artes-b2-v2-007",
+        "tema": "Texturas naturales",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Cuál de estos materiales naturales tiene una textura suave?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Algodón 🌿",
+          "Arena gruesa",
+          "Piedra",
+          "Corteza de árbol"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Algodón 🌿",
+        "explicacion": "¡El algodón es suave y esponjoso! Explorar texturas naturales nos enseña sobre el mundo que nos rodea. 🌿",
+        "visual": "🌿"
+      },
+      {
+        "id": "pre1-artes-b2-v2-008",
+        "tema": "Pintura dactilar",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Antes de usar pintura dactilar, nos ponemos una ___ para no manchar la ropa.",
+        "respuestaCorrecta": "bata",
+        "explicacion": "¡Una bata o una camisa vieja nos protege! El arte puede ser un poco desordenado, ¡y eso está bien! 🎨😄"
+      },
+      {
+        "id": "pre1-artes-b2-v2-009",
+        "tema": "Mezcla de colores",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué color se crea mezclando azul y rojo?",
+        "opciones": [
+          "Morado 🟣",
+          "Verde 🟢",
+          "Naranja 🟠",
+          "Café"
+        ],
+        "respuestaCorrecta": "Morado 🟣",
+        "explicacion": "Azul + Rojo = Morado o Violeta 🟣. ¡Los colores secundarios nacen de mezclar dos primarios!",
+        "visual": "🟣"
+      },
+      {
+        "id": "pre1-artes-b2-v2-010",
+        "tema": "Trazos libres",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En la expresión plástica libre, no hay una forma correcta o incorrecta de dibujar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! En el arte libre, cada creación es única y especial. Lo importante es expresar lo que sentimos. ❤️🎨"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-artes-b2-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b2-v1-001",
+        "tema": "Pintura dactilar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "La pintura dactilar se hace usando...",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Los dedos",
+          "Un pincel grande",
+          "Una esponja",
+          "Un lápiz"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Los dedos",
+        "explicacion": "'Dactil' viene de dedo. ¡La pintura dactilar se hace con los dedos! 🖐️",
+        "visual": "🖐️"
       },
       {
-        "id": "preescolar-1-artes-b2-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b2-v1-002",
+        "tema": "Mezcla de colores",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
+        "pregunta": "Si mezclo pintura azul con pintura amarilla obtengo el color verde.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Magia de colores! Azul + Amarillo = Verde 🟢."
       },
       {
-        "id": "preescolar-1-artes-b2-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b2-v2-001",
+        "tema": "Mezcla de colores",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "Los colores primarios son los que no se pueden crear mezclando otros. ¿Cuáles son?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Rojo, azul y amarillo",
+          "Verde, naranja y morado",
+          "Negro, blanco y gris",
+          "Rojo, verde y azul"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "¡Rojo, azul y amarillo son los colores primarios! 🔴🔵🟡"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.115Z",
-  "version": "2.0"
+  "generado": "2026-03-09T03:45:00.000Z",
+  "version": "3.0"
 }

@@ -2,397 +2,299 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 1,
-  "nombre": "Me expreso con colores",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Exploración sonora y ritmos",
+  "meses": "Periodo 1",
   "temas": [
-    "Pintar con dedos",
-    "Cantar canciones",
-    "Bailar",
-    "Dibujar libremente",
-    "Hacer manualidades"
+    "Ritmos corporales",
+    "Instrumentos caseros",
+    "Sonidos de la naturaleza",
+    "Juegos de eco"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-artes-b1-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b1-v1-001",
+        "tema": "Ritmos corporales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "¿Con qué parte del cuerpo podemos hacer ritmos y palmas?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Con las manos",
+          "Con los ojos",
+          "Con la nariz",
+          "Con las orejas"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Con las manos",
+        "explicacion": "¡Las manos son increíbles para hacer ritmos! Podemos aplaudir, dar golpecitos y crear música con ellas. 👏",
+        "visual": "👏"
       },
       {
-        "id": "preescolar-1-artes-b1-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b1-003",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b1-v1-002",
+        "tema": "Sonidos de la naturaleza",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Rojo y azul juntos forman morado",
+        "pregunta": "La lluvia hace un sonido cuando cae sobre las hojas.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
-        "visual": "🔴",
-        "visualAnimado": true
+        "explicacion": "¡Sí! La lluvia hace un sonido suave y rítmico: 'plin, plin, plin'. ¡La naturaleza es una orquesta! 🌧️"
       },
       {
-        "id": "preescolar-1-artes-b1-x-006",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b1-v1-003",
+        "tema": "Instrumentos caseros",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Qué podemos hacer con una botella llena de arroz?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Un sonajero musical",
+          "Un sombrero",
+          "Un libro",
+          "Una pelota"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Un sonajero musical",
+        "explicacion": "¡Una botella con arroz es un sonajero! Al agitarla hace 'chac, chac'. ¡Así inventamos instrumentos en casa! 🎵",
+        "visual": "🎶"
       },
       {
-        "id": "preescolar-1-artes-b1-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b1-v1-004",
+        "tema": "Juegos de eco",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "En el juego de eco, repetimos el mismo sonido o palmada que hace el maestro.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Exacto! El eco repite lo que escucha. Si el maestro hace 'clap clap', tú haces 'clap clap'. ¡Como las montañas! 🏔️"
       },
       {
-        "id": "preescolar-1-artes-b1-x-008",
-        "tema": "Bailar",
+        "id": "pre1-artes-b1-v1-005",
+        "tema": "Ritmos corporales",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "Cuando golpeamos los pies en el suelo al ritmo de la música, estamos ___.",
+        "respuestaCorrecta": "bailando",
+        "explicacion": "¡Bailar es mover el cuerpo al ritmo de la música! Los pies, manos y todo el cuerpo pueden seguir el ritmo. 💃"
       },
       {
-        "id": "preescolar-1-artes-b1-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-010",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b1-v1-006",
+        "tema": "Sonidos de la naturaleza",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Qué animal hace el sonido 'cuac cuac'?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "El pato 🦆",
+          "El gato 🐱",
+          "El perro 🐶",
+          "El pez 🐟"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "El pato 🦆",
+        "explicacion": "¡El pato hace 'cuac cuac'! Los animales también son parte de la música de la naturaleza. 🦆",
+        "visual": "🦆"
       },
       {
-        "id": "preescolar-1-artes-b1-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-013",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b1-v1-007",
+        "tema": "Instrumentos caseros",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Podemos hacer música golpeando suavemente un vaso con una cuchara.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Un vaso y una cuchara hacen un sonido 'ting ting'. ¡Los objetos de casa pueden ser instrumentos musicales! 🥄"
       },
       {
-        "id": "preescolar-1-artes-b1-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b1-v1-008",
+        "tema": "Ritmos corporales",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "Si la música es rápida, ¿cómo movemos el cuerpo?",
+        "opciones": [
+          "Rápido y con energía",
+          "Muy despacio",
+          "Sin moverse",
+          "Durmiendo"
+        ],
+        "respuestaCorrecta": "Rápido y con energía",
+        "explicacion": "La música rápida nos da energía y ganas de movernos rápido. ¡El cuerpo sigue el ritmo de la música! ⚡",
+        "visual": "⚡"
       },
       {
-        "id": "preescolar-1-artes-b1-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b1-v1-009",
+        "tema": "Juegos de eco",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+        "pregunta": "En el juego del eco, escucho el sonido y luego lo ___.",
+        "respuestaCorrecta": "repito",
+        "explicacion": "¡Repito lo que escucho! El eco es la repetición de un sonido. ¡Es como tener una copia del sonido! 🔊"
       },
       {
-        "id": "preescolar-1-artes-b1-x-017",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b1-v1-010",
+        "tema": "Sonidos de la naturaleza",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
+        "pregunta": "El viento también hace sonidos cuando mueve las hojas de los árboles.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Sí, el viento susurra entre las hojas: 'ssshhh'. ¡La naturaleza está llena de música! 🍃",
+        "visual": "🍃"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-artes-b1-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b1-v2-001",
+        "tema": "Instrumentos caseros",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "¿Cuál de estos materiales caseros produce el sonido más grave (bajo)?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Un tambor de lata grande",
+          "Una campanita pequeña",
+          "Un silbato",
+          "Una flauta delgada"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Un tambor de lata grande",
+        "explicacion": "Los objetos grandes producen sonidos graves (bajos). Los objetos pequeños producen sonidos agudos (altos). 🥁",
+        "visual": "🥁"
       },
       {
-        "id": "preescolar-1-artes-b1-005",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b1-v2-002",
+        "tema": "Ritmos corporales",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Bailar es moverse al ritmo de la ___",
-        "respuestaCorrecta": "música",
-        "explicacion": "La danza es el arte de moverse siguiendo la música."
+        "pregunta": "Para marcar el ritmo con el cuerpo podemos aplaudir, zapatear o dar golpecitos con los ___.",
+        "respuestaCorrecta": "dedos",
+        "explicacion": "¡Los dedos son perfectos para marcar ritmos suaves sobre una mesa o las piernas! 👆"
       },
       {
-        "id": "preescolar-1-artes-b1-x-006",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-007",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
-        "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
-        ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-010",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b1-v2-003",
+        "tema": "Juegos de eco",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "En un juego de eco musical, podemos usar la voz para crear ritmos.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Podemos hacer sonidos con la boca: 'ta ta ta', 'bum bum bum', y repetirlos. ¡La voz es el primer instrumento! 🎤"
       },
       {
-        "id": "preescolar-1-artes-b1-x-011",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-013",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b1-v2-004",
+        "tema": "Sonidos de la naturaleza",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Cuál de estos NO es un sonido de la naturaleza?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Música de bocinas",
+          "Canto de pájaros",
+          "Rugido de trueno",
+          "Correr del agua"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Música de bocinas",
+        "explicacion": "Las bocinas son creadas por personas. Los pájaros, truenos y el agua son sonidos que la naturaleza produce sola. 🐦⛈️💧",
+        "visual": "🐦"
       },
       {
-        "id": "preescolar-1-artes-b1-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b1-v2-005",
+        "tema": "Instrumentos caseros",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "pregunta": "Si llenamos dos tapas de olla y las golpeamos entre sí, creamos un son___ de platillos.",
+        "respuestaCorrecta": "ido",
+        "explicacion": "¡Sonido de platillos! Las tapas de olla chocan y hacen 'cling'. ¡Así inventan música los niños creativos! 🎶"
       },
       {
-        "id": "preescolar-1-artes-b1-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b1-v2-006",
+        "tema": "Juegos de eco",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Qué pasa si haces 3 palmadas en el juego de eco?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Tu compañero repite 3 palmadas",
+          "Tu compañero hace 5 palmadas",
+          "Nadie hace nada",
+          "Todos corren"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Tu compañero repite 3 palmadas",
+        "explicacion": "El eco repite exactamente lo mismo. ¡3 palmadas generan 3 palmadas de eco! 👏👏👏"
+      },
+      {
+        "id": "pre1-artes-b1-v2-007",
+        "tema": "Ritmos corporales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Todos los seres humanos tenemos un ritmo natural: el latido del corazón.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Tu corazón es tu primer tambor! Hace 'bum bum' todo el tiempo. ¡Llevamos la música dentro! ❤️🥁",
+        "visual": "❤️"
+      },
+      {
+        "id": "pre1-artes-b1-v2-008",
+        "tema": "Sonidos de la naturaleza",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sonido del mar con sus olas se llama el ___ del mar.",
+        "respuestaCorrecta": "murmullo",
+        "explicacion": "El mar murmulla y susurra con sus olas. Es un sonido suave y relajante que nos calma. 🌊"
+      },
+      {
+        "id": "pre1-artes-b1-v2-009",
+        "tema": "Instrumentos caseros",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué los instrumentos caseros son importantes para los niños?",
+        "opciones": [
+          "Porque despiertan la creatividad y el amor por la música",
+          "Porque son muy caros",
+          "Porque solo los adultos los usan",
+          "Porque hacen mucho ruido"
+        ],
+        "respuestaCorrecta": "Porque despiertan la creatividad y el amor por la música",
+        "explicacion": "Construir tus propios instrumentos despierta tu creatividad. ¡Cualquier objeto puede convertirse en música! 🎨🎵"
+      },
+      {
+        "id": "pre1-artes-b1-v2-010",
+        "tema": "Ritmos corporales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Podemos hacer un ritmo diferente con las dos manos al mismo tiempo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Una mano puede ir más rápido y la otra más lento. Es difícil pero muy divertido practicar. ¡Nos hace más listos! 🧠👏"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-artes-b1-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b1-v1-001",
+        "tema": "Ritmos corporales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "¿Con qué parte del cuerpo podemos hacer ritmos y palmas?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Con las manos",
+          "Con los ojos",
+          "Con la nariz",
+          "Con las orejas"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Con las manos",
+        "explicacion": "¡Las manos son increíbles para hacer ritmos! Podemos aplaudir, dar golpecitos y crear música. 👏",
+        "visual": "👏"
       },
       {
-        "id": "preescolar-1-artes-b1-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b1-v1-002",
+        "tema": "Sonidos de la naturaleza",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
+        "pregunta": "La lluvia hace un sonido cuando cae sobre las hojas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La lluvia hace un sonido suave y rítmico: 'plin, plin, plin'. 🌧️"
       },
       {
-        "id": "preescolar-1-artes-b1-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b1-v1-003",
+        "tema": "Instrumentos caseros",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "nivel": "v1",
+        "pregunta": "¿Qué podemos hacer con una botella llena de arroz?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Un sonajero musical",
+          "Un sombrero",
+          "Un libro",
+          "Una pelota"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Un sonajero musical",
+        "explicacion": "¡Una botella con arroz es un sonajero! Al agitarla hace 'chac, chac'. 🎵"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.113Z",
-  "version": "2.0"
+  "generado": "2026-03-09T03:45:00.000Z",
+  "version": "3.0"
 }
