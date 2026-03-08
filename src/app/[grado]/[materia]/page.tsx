@@ -52,8 +52,9 @@ export default async function MateriaPage({ params }: Props) {
     // Datos desde GRADOS_CONTENIDO
     const materiaData = gradoData?.materias[materia];
 
-    if (!materiaData || !gradoInfo) notFound();
-
+    if (!materiaData || !gradoInfo) {
+        notFound();
+    }
 
     return (
         <main className="min-h-screen" style={{ background: "var(--navy)" }}>

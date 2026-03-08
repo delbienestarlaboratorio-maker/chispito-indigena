@@ -11,54 +11,147 @@ export const PREESCOLAR_1: GradoContenido = {
     materias: {
         artes: {
             materia: "artes",
-            nombre: "Educación Artística",
+            nombre: "Educación Artística e Inclusión",
             emoji: "🎨",
             color: "#EC4899",
             bloques: [
                 {
                     bloque: 1,
-                    nombre: "Me expreso con colores",
+                    nombre: "Exploración sonora y ritmos",
                     meses: "Agosto – Septiembre",
-                    enClase: [],
-                    guiaPapa: { intro: "", comoExplicar: [], truco: "", error_comun: "", actividad_casa: "" },
-                    guiaMaestro: { objetivo: "", competencia: "" },
-                    keywords: [],
+                    enClase: [
+                        "Producir sonidos con diferentes partes del cuerpo.",
+                        "Seguir ritmos simples con instrumentos u objetos cotidianos.",
+                        "Identificar sonidos del entorno y de la naturaleza.",
+                        "Cantar canciones breves acompañadas de percusión corporal."
+                    ],
+                    guiaPapa: {
+                        intro: "En esta sección, tu hijo/a descubrirá el mundo a través del sonido y el ritmo, lo cual es vital para su desarrollo auditivo y motor.",
+                        comoExplicar: ["Anímenlo a usar sus palmas, pies y voz para crear secuencias rítmicas.", "Utilicen objetos de casa (cajas, cucharas) como instrumentos musicales divertidos."],
+                        truco: "¡Jueguen al eco! Haz un ritmo con las palmas y pide que lo repita.",
+                        error_comun: "Creer que todo ruido es malo; el ruido estructurado es el comienzo de la música.",
+                        actividad_casa: "Armar una pequeña 'banda familiar' usando ollas y botes de plástico."
+                    },
+                    guiaMaestro: {
+                        objetivo: "Favorecer la sensibilidad auditiva y la coordinación motriz mediante la experimentación sonora.",
+                        competencia: "Produce sonidos y ritmos intencionados con el cuerpo y objetos del entorno. (PDA Fase 2)"
+                    },
+                    keywords: ["sonido", "ritmo", "música", "cuerpo", "instrumentos"],
                 },
                 {
                     bloque: 2,
-                    nombre: "La música y yo",
+                    nombre: "Expresión plástica creativa",
                     meses: "Octubre – Noviembre",
-                    enClase: [],
-                    guiaPapa: { intro: "", comoExplicar: [], truco: "", error_comun: "", actividad_casa: "" },
-                    guiaMaestro: { objetivo: "", competencia: "" },
-                    keywords: [],
+                    enClase: [
+                        "Experimentar con pintura dactilar (pintar con los dedos).",
+                        "Mezclar colores primarios para descubrir nuevos tonos.",
+                        "Realizar trazos libres sobre papel de gran formato.",
+                        "Crear composiciones visuales usando elementos naturales (hojas, tierra)."
+                    ],
+                    guiaPapa: {
+                        intro: "La pintura y el dibujo libre permiten a los niños expresar emociones que aún no pueden poner en palabras.",
+                        comoExplicar: ["Ofrece materiales variados y permite que experimenten libremente sin buscar la 'perfección'.", "Pregúntale: ¿Qué colores usaste? en lugar de ¿Qué dibujaste? para estimular su descripción."],
+                        truco: "Prepárense para ensuciarse un poco; el arte infantil es un proceso físico.",
+                        error_comun: "Corregir sus dibujos diciendo 'el sol debe ser amarillo y redondo'. Dejemos que imaginen.",
+                        actividad_casa: "Extender papeleo en el piso y pintar un mural familiar usando solo las manos."
+                    },
+                    guiaMaestro: {
+                        objetivo: "Desarrollar la expresión gráfica y el reconocimiento de colores y texturas.",
+                        competencia: "Usa recursos de las artes visuales (colores, formas, líneas) en creaciones propias. (PDA Fase 2)"
+                    },
+                    keywords: ["pintura", "trazos", "colores", "mezclas", "expresión"],
                 },
                 {
                     bloque: 3,
-                    nombre: "Bailo y me muevo",
+                    nombre: "Movimiento y expresión corporal",
                     meses: "Diciembre – Enero",
-                    enClase: [],
-                    guiaPapa: { intro: "", comoExplicar: [], truco: "", error_comun: "", actividad_casa: "" },
-                    guiaMaestro: { objetivo: "", competencia: "" },
-                    keywords: [],
+                    enClase: [
+                        "Crear secuencias de movimiento al ritmo de diferentes géneros musicales.",
+                        "Imitar posturas de animales o elementos de la naturaleza.",
+                        "Participar en bailes o danzas tradicionales sencillas.",
+                        "Juegos de espejos: imitar los movimientos del compañero."
+                    ],
+                    guiaPapa: {
+                        intro: "El cuerpo es su principal herramienta. Esta sección trata de canalizar su energía en movimientos expresivos.",
+                        comoExplicar: ["Bailen juntos en casa sin instrucciones fijas, solo para sentir la música.", "Asocien movimientos con emociones (ej. bailar 'cansados', bailar 'felices')."],
+                        truco: "Usa pañuelos mágicos: pídele que baile moviendo un pañuelo o listón por el aire.",
+                        error_comun: "Obligarlos a seguir pasos exactos que los frustren; a esta edad importa la libertad y la coordinación gruesa.",
+                        actividad_casa: "Juego de las estatuas: bailar y detenerse cuando la música para."
+                    },
+                    guiaMaestro: {
+                        objetivo: "Dotar al niño de herramientas motrices para comunicar estados de ánimo y emociones a través de la danza.",
+                        competencia: "Crea secuencias de movimiento y representa animales o situaciones mediante la expresión corporal. (PDA Fase 2)"
+                    },
+                    keywords: ["movimiento", "cuerpo", "danza", "coordinación", "imitación"],
                 },
                 {
                     bloque: 4,
-                    nombre: "Dibujo y creo",
+                    nombre: "Creación tridimensional y modelado",
                     meses: "Febrero – Marzo",
-                    enClase: [],
-                    guiaPapa: { intro: "", comoExplicar: [], truco: "", error_comun: "", actividad_casa: "" },
-                    guiaMaestro: { objetivo: "", competencia: "" },
-                    keywords: [],
+                    enClase: [
+                        "Amasar, aplastar y hacer bolitas con plastilina o masa casera.",
+                        "Construir pequeñas esculturas ensamblando materiales (cajas, tubos).",
+                        "Crear texturas presionando objetos (monedas, hojas) sobre la masa.",
+                        "Dar forma humana o de animales a sus creaciones tridimensionales."
+                    ],
+                    guiaPapa: {
+                        intro: "Trabajar en 3D (con volumen) ayuda a los niños a comprender el espacio y fortalecer los pequeños músculos de las manos.",
+                        comoExplicar: ["Empiecen haciendo 'viboritas' y 'bolitas' y luego construyan a partir de ellas.", "No importa si no se parece a nada real, el valor está en el acto de moldear."],
+                        truco: "Hacer masa casera con harina, agua y sal es seguro, divertido y económico.",
+                        error_comun: "Hacer el trabajo por ellos para que quede 'bonito'. Lo importante es el ejercicio de sus dedos.",
+                        actividad_casa: "Construir una pequeña ciudad usando cajitas de medicina y rollos de cartón vacíos."
+                    },
+                    guiaMaestro: {
+                        objetivo: "Fortalecer la motricidad fina y la percepción de volumen a través de materiales moldeables y ensambles.",
+                        competencia: "Transforma objetos y materiales utilizando diversas técnicas tridimensionales. (PDA Fase 2)"
+                    },
+                    keywords: ["modelado", "plastilina", "espacio", "masas", "construcción"],
                 },
                 {
                     bloque: 5,
-                    nombre: "Construyo con mis manos",
+                    nombre: "Apreciación y emociones en el Arte",
                     meses: "Abril – Junio",
-                    enClase: [],
-                    guiaPapa: { intro: "", comoExplicar: [], truco: "", error_comun: "", actividad_casa: "" },
-                    guiaMaestro: { objetivo: "", competencia: "" },
-                    keywords: [],
+                    enClase: [
+                        "Observar obras de arte (pinturas, esculturas infantiles) y decir qué sienten.",
+                        "Escuchar piezas musicales clásicas o tradicionales e identificar si evocan alegría o tristeza.",
+                        "Hablar sobre lo que más les gustó de una obra artística.",
+                        "Expresar emociones faciales y corporales ante distintos estímulos estéticos."
+                    ],
+                    guiaPapa: {
+                        intro: "Apreciar el arte es cultivar la sensibilidad. Aquí aprenderán a conectar lo que ven/escuchan con lo que sienten.",
+                        comoExplicar: ["Muestren imágenes de obras de arte (pueden ser en libros o internet) y pregunten: '¿Qué crees que está pasando ahí?'.", "Valida cualquier respuesta que te den, ¡en el arte no hay respuestas equivocadas!"],
+                        truco: "Pregunta '¿de qué color es la alegría?' o '¿de qué color es el enojo?' para asociar emociones y arte.",
+                        error_comun: "Pensar que son muy pequeños para apreciar una obra abstracta; de hecho, a menudo la entienden mejor de forma intuitiva.",
+                        actividad_casa: "Ver juntos un corto animado sin diálogos (como Fantasía) y platicar cómo los hizo sentir la música."
+                    },
+                    guiaMaestro: {
+                        objetivo: "Desarrollar el juicio estético inicial y la capacidad de expresar emociones frente a diferentes lenguajes artísticos.",
+                        competencia: "Identifica qué le provocan diferentes manifestaciones artísticas y lo comparte con sus pares. (PDA Fase 2)"
+                    },
+                    keywords: ["emociones", "obra de arte", "apreciación", "sensibilidad", "observación"],
+                },
+                {
+                    bloque: 6,
+                    nombre: "Inclusión y Lenguaje de Señas (LSM)",
+                    meses: "Todo el ciclo escolar",
+                    enClase: [
+                        "Aprender el abecedario básico y números del 1 al 10 en Lengua de Señas Mexicana (LSM).",
+                        "Expresar saludos ('Hola', 'Buenos días', 'Gracias', 'Por favor') en LSM.",
+                        "Asociar colores y animales con su respectiva seña.",
+                        "Participar en juegos de mímica que favorezcan la comunicación no verbal y la empatía."
+                    ],
+                    guiaPapa: {
+                        intro: "Esta sección introduce la Lengua de Señas Mexicana (LSM) de forma lúdica. Aprender LSM desde pequeños estimula su desarrollo cognitivo, rompe barreras de comunicación y siembra valores de empatía e inclusión hacia la comunidad sorda.",
+                        comoExplicar: ["Háblales de que hay niños que hablan usando sus manos porque sus oídos no funcionan igual.", "Practiquen juntos las señas frente al espejo. Aprender de manera visual es divertido para ellos."],
+                        truco: "Usa las señas en la vida diaria (decir 'gracias' con seña al tiempo que lo dicen con voz).",
+                        error_comun: "Pensar que la LSM retrasará su habla hablada; al contrario, refuerza las redes neuronales del lenguaje profundo.",
+                        actividad_casa: "Elegir un 'saludo secreto familiar' usando una palabra en Lengua de Señas y usarlo cada mañana."
+                    },
+                    guiaMaestro: {
+                        objetivo: "### GUÍA PEDAGÓGICA AVANZADA (INCLUSIÓN Y TACTO)  \n\n**El Tacto Pedagógico (NEM):** Enseñar LSM y arte en edad preescolar requiere inmensa paciencia y una postura profundamente empática. \n- **Evita la frustración:** Si un niño no logra la coordinación motriz para una seña o un trazo, valora el *intento*, no la perfección anatómica de las manos. \n- **Cero comparaciones:** Jamás corrijas diciendo 'mira cómo él sí puede'. Usa andamiaje corporal: tócales suavemente las manos (con permiso) para modelar la seña si lo necesitan. \n- **Multisensorialidad:** Recuerda instruir sin forzar. Fomenta un ambiente seguro donde equivocarse (hacer un rayón fuera del papel o una seña distinta) no sea motivo de regaño, sino de exploración.",
+                        competencia: "Reconoce e interactúa respetuosamente con la diversidad lingüística de su entorno, utilizando la LSM para comunicarse. (PDA Inclusión Fase 2)"
+                    },
+                    keywords: ["lsm", "lenguaje de señas", "inclusión", "empatía", "manos"],
                 }
             ],
         },

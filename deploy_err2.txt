@@ -1,0 +1,50 @@
+﻿
+ Ôøà´©Å wrangler 4.69.0 (update available 4.71.0)
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+node.exe : [33mÔû▓ 
+[43;33m[[43;30mWARNING[43;33m][0m 
+[1mWarning: Your working directory is a 
+git repo and has uncommitted changes[0m
+En línea: 1 Carácter: 1
++ & "C:\Program Files\nodejs/node.exe" 
+"C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : 
+NotSpecified:     ([33mÔû▓ [43;3...ted 
+changes[0m:Str    ing) [], RemoteException
+    + FullyQualifiedErrorId : 
+NativeCommand    Error
+ 
+
+  To silence this warning, pass in 
+--commit-dirty=true
+
+
+Uploading... (1062/1062)
+Ô£¿ Success! Uploaded 0 files (1062 already uploaded) (0.29 sec)
+
+Ô£¿ Compiled Worker successfully
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m 
+[1mA file or directory could not be 
+found.[0m
+
+  
+  Missing file or directory: 
+D:\Paginas_web\Sistema educacion Basica\Chi
+spito.mx\.wrangler\tmp\pages-HlRHaM\77d9fae
+bf7af9e421806970ce10a58e9d83116d7-resvg.was
+m?module
+  
+  This is typically caused by:
+    - The file or directory does not exist
+    - A typo in the file path
+    - The file was moved or deleted
+  
+  Please check the file path and try again.
+
+
+ƒ¬Á  Logs were written to "C:\Users\Adminis
+trador\AppData\Roaming\xdg.config\.wrangler
+\logs\wrangler-2026-03-08_22-00-06_034.log"

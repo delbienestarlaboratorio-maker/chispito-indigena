@@ -177,7 +177,7 @@ export default function KinderExercisePlayer({ ejercicios, grado, materia, bloqu
 
     const responder = useCallback((respuesta: string) => {
         if (respondido || !ejercicio) return;
-        const esCorrecta = respuesta.trim().toLowerCase() === ejercicio.respuestaCorrecta.trim().toLowerCase();
+        const esCorrecta = respuesta.trim().toLowerCase() === String(ejercicio.respuestaCorrecta).trim().toLowerCase();
         setRespondido(true);
         setCorrecto(esCorrecta);
         setFeedbackIdx(Math.floor(Math.random() * (esCorrecta ? CELEBRACIONES.length : ERRORES.length)));
@@ -185,9 +185,15 @@ export default function KinderExercisePlayer({ ejercicios, grado, materia, bloqu
         const nuevoEstado = { ...estadoOps };
         if (ejercicio.opciones) {
             ejercicio.opciones.forEach(o => {
-                if (o === ejercicio.respuestaCorrecta) nuevoEstado[o] = "correcto";
-                else if (o === respuesta && !esCorrecta) nuevoEstado[o] = "incorrecto";
+                if (String(o).toLowerCase() === String(ejercicio.respuestaCorrecta).toLowerCase()) nuevoEstado[o] = "correcto";
+                else if (String(o).toLowerCase() === respuesta.toLowerCase() && !esCorrecta) nuevoEstado[o] = "incorrecto";
             });
+        } else if (ejercicio.tipo === "true_false") {
+            const correctaStr = String(ejercicio.respuestaCorrecta).trim().toLowerCase();
+            nuevoEstado[correctaStr] = "correcto";
+            if (!esCorrecta) {
+                nuevoEstado[respuesta.trim().toLowerCase()] = "incorrecto";
+            }
         }
         setEstadoOps(nuevoEstado);
 
@@ -328,7 +334,7 @@ export default function KinderExercisePlayer({ ejercicios, grado, materia, bloqu
                     </motion.p>
 
                     {/* Botones de opciones */}
-                    {ejercicio.opciones && (
+                    {ejercicio.opciones ? (
                         <div className="grid grid-cols-2 gap-3">
                             {ejercicio.opciones.map(op => (
                                 <OpcionBtn
@@ -339,7 +345,22 @@ export default function KinderExercisePlayer({ ejercicios, grado, materia, bloqu
                                 />
                             ))}
                         </div>
-                    )}
+                    ) : ejercicio.tipo === "true_false" ? (
+                        <div className="grid grid-cols-2 gap-3">
+                            <OpcionBtn
+                                texto="Verdadero"
+                                onClick={() => responder("true")}
+                                estado={estadoOps["true"] || "idle"}
+                                color="#22C55E"
+                            />
+                            <OpcionBtn
+                                texto="Falso"
+                                onClick={() => responder("false")}
+                                estado={estadoOps["false"] || "idle"}
+                                color="#EF4444"
+                            />
+                        </div>
+                    ) : null}
 
                     {/* Fill blank */}
                     {ejercicio.tipo === "fill_blank" && !ejercicio.opciones && (

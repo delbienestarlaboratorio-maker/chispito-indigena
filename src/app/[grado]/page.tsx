@@ -116,6 +116,47 @@ export default async function GradoPage({ params }: Props) {
                             📅 Mes actual: <span className="text-white/60">{new Date().toLocaleString('es-MX', { month: 'long', year: 'numeric' })}</span>
                         </p>
 
+                        {/* BANNER DESTACADO LSM - Solo para Preescolar 1 */}
+                        {grado.slug === 'preescolar-1' && (
+                            <div className="mb-10 rounded-3xl p-6 sm:p-8 relative overflow-hidden transition-all hover:scale-[1.01]" style={{ background: "linear-gradient(135deg, rgba(34, 197, 94, 0.15) 0%, rgba(59, 130, 246, 0.1) 100%)", border: "1px solid rgba(34, 197, 94, 0.3)", boxShadow: "0 10px 40px -10px rgba(34, 197, 94, 0.15)" }}>
+                                <div className="absolute top-0 right-0 -mr-4 -mt-4 text-9xl opacity-5 pointer-events-none">🤟</div>
+                                <div className="relative z-10">
+                                    <div className="flex items-center gap-3 mb-4">
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#22C55E25", color: "#4ADE80" }}>
+                                            ✨ Nueva Sección
+                                        </span>
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#3B82F625", color: "#60A5FA" }}>
+                                            Inclusión SEP
+                                        </span>
+                                    </div>
+                                    <h3 className="font-fredoka text-3xl sm:text-4xl text-white mb-3">
+                                        Aprende Lenguaje de Señas <span className="text-green-400">(LSM)</span> 🤟
+                                    </h3>
+                                    <p className="text-white/70 text-sm sm:text-base max-w-2xl mb-6 leading-relaxed">
+                                        Hemos integrado un programa inicial de Lengua de Señas Mexicana adaptado a niños. Aprende desde el abecedario, colores y la familia, hasta los nombres de los deportes más comunes.
+                                    </p>
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+                                        <Link href="/preescolar-1/espanol/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(34, 197, 94, 0.1)", border: "1px solid rgba(34, 197, 94, 0.2)" }}>
+                                            <span className="text-green-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-green-300">📖 Español</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Vocales y Saludos →</span>
+                                        </Link>
+                                        <Link href="/preescolar-1/conocimiento/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(236, 72, 153, 0.1)", border: "1px solid rgba(236, 72, 153, 0.2)" }}>
+                                            <span className="text-pink-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-pink-300">🔍 Conocimiento</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Familia y Colores →</span>
+                                        </Link>
+                                        <Link href="/preescolar-1/educacion_fisica/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(249, 115, 22, 0.1)", border: "1px solid rgba(249, 115, 22, 0.2)" }}>
+                                            <span className="text-orange-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-orange-300">🏃 Edu. Física</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Deportes y Cuerpo →</span>
+                                        </Link>
+                                        <Link href="/preescolar-1/matematicas/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(59, 130, 246, 0.1)", border: "1px solid rgba(59, 130, 246, 0.2)" }}>
+                                            <span className="text-blue-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-blue-300">📐 Matemáticas</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Números 1 al 10 →</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+
                         {/* Materias con contenido masticado (content-primaria.ts) */}
                         {(() => {
                             const gradoMasticado = GRADOS_CONTENIDO[grado.slug];
@@ -196,61 +237,115 @@ export default async function GradoPage({ params }: Props) {
 
                         <AdBannerHorizontal />
 
-                        {/* Bloques del mes */}
-                        {Object.keys(bloquesGrado).length > 0 && (
-                            <div className="mt-12">
-                                <h2 className="font-fredoka text-3xl text-white mb-6">
-                                    📅 Programa del año escolar
-                                </h2>
-                                {Object.entries(bloquesGrado).map(([materiaId, bloques]) => {
-                                    const mat = MATERIAS[materiaId];
-                                    if (!mat) return null;
-                                    return (
-                                        <div key={materiaId} className="mb-8">
-                                            <h3
-                                                className="font-fredoka text-xl mb-4 flex items-center gap-2"
-                                                style={{ color: mat.color }}
-                                            >
-                                                {mat.emoji} {mat.nombre}
-                                            </h3>
-                                            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-                                                {bloques.map((bloque) => (
-                                                    <Link
-                                                        key={bloque.numero}
-                                                        href={`/${grado.slug}/${materiaId}/bloque-${bloque.numero}`}
-                                                    >
-                                                        <div
-                                                            className="glass rounded-xl p-4 hover:border-white/30 transition-all group"
+                        {/* Programa del año escolar (Bloques) */}
+                        {(() => {
+                            const gradoMasticado = GRADOS_CONTENIDO[grado.slug];
+
+                            // Si tenemos gradoMasticado, usamos sus materias y bloques
+                            if (gradoMasticado) {
+                                const materias = Object.values(gradoMasticado.materias);
+                                if (materias.length === 0) return null;
+
+                                return (
+                                    <div className="mt-12">
+                                        <h2 className="font-fredoka text-3xl text-white mb-6">
+                                            📅 Programa del año escolar
+                                        </h2>
+                                        {materias.map((mat) => (
+                                            <div key={mat.materia} className="mb-8">
+                                                <h3
+                                                    className="font-fredoka text-xl mb-4 flex items-center gap-2"
+                                                    style={{ color: mat.color }}
+                                                >
+                                                    {mat.emoji} {mat.nombre}
+                                                </h3>
+                                                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                                                    {mat.bloques.map((bloque) => (
+                                                        <Link
+                                                            key={bloque.bloque}
+                                                            href={`/${grado.slug}/${mat.materia}/bloque-${bloque.bloque}`}
                                                         >
-                                                            <div className="flex items-center justify-between mb-2">
-                                                                <span
-                                                                    className="text-xs font-bold px-2 py-1 rounded-full"
-                                                                    style={{
-                                                                        background: `${mat.color}25`,
-                                                                        color: mat.color,
-                                                                    }}
-                                                                >
-                                                                    Bloque {bloque.numero}
-                                                                </span>
-                                                                <span className="text-xs text-white/30">
-                                                                    {bloque.meses}
-                                                                </span>
+                                                            <div className="glass rounded-xl p-4 hover:border-white/30 transition-all group">
+                                                                <div className="flex items-center justify-between mb-2">
+                                                                    <span
+                                                                        className="text-xs font-bold px-2 py-1 rounded-full"
+                                                                        style={{ background: `${mat.color}25`, color: mat.color }}
+                                                                    >
+                                                                        Bloque {bloque.bloque}
+                                                                    </span>
+                                                                    <span className="text-xs text-white/30">{bloque.meses}</span>
+                                                                </div>
+                                                                <h4 className="text-white font-semibold text-sm group-hover:text-white transition-colors">
+                                                                    {bloque.nombre}
+                                                                </h4>
+                                                                <p className="text-white/40 text-xs mt-1">
+                                                                    {bloque.enClase?.length || 0} temas • {(bloque.enClase?.length || 0) * 4}+ ejercicios
+                                                                </p>
                                                             </div>
-                                                            <h4 className="text-white font-semibold text-sm group-hover:text-white transition-colors">
-                                                                {bloque.nombre}
-                                                            </h4>
-                                                            <p className="text-white/40 text-xs mt-1">
-                                                                {bloque.temas.length} temas • {bloque.temas.length * 4}+ ejercicios
-                                                            </p>
-                                                        </div>
-                                                    </Link>
-                                                ))}
+                                                        </Link>
+                                                    ))}
+                                                </div>
                                             </div>
-                                        </div>
-                                    );
-                                })}
-                            </div>
-                        )}
+                                        ))}
+                                    </div>
+                                );
+                            }
+
+                            // Fallback para grados legacy que usan BLOQUES
+                            if (Object.keys(bloquesGrado).length > 0) {
+                                return (
+                                    <div className="mt-12">
+                                        <h2 className="font-fredoka text-3xl text-white mb-6">
+                                            📅 Programa del año escolar
+                                        </h2>
+                                        {Object.entries(bloquesGrado).map(([materiaId, bloques]) => {
+                                            const mat = MATERIAS[materiaId];
+                                            if (!mat) return null;
+                                            return (
+                                                <div key={materiaId} className="mb-8">
+                                                    <h3
+                                                        className="font-fredoka text-xl mb-4 flex items-center gap-2"
+                                                        style={{ color: mat.color }}
+                                                    >
+                                                        {mat.emoji} {mat.nombre}
+                                                    </h3>
+                                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                                                        {bloques.map((bloque) => (
+                                                            <Link
+                                                                key={bloque.numero}
+                                                                href={`/${grado.slug}/${materiaId}/bloque-${bloque.numero}`}
+                                                            >
+                                                                <div className="glass rounded-xl p-4 hover:border-white/30 transition-all group">
+                                                                    <div className="flex items-center justify-between mb-2">
+                                                                        <span
+                                                                            className="text-xs font-bold px-2 py-1 rounded-full"
+                                                                            style={{ background: `${mat.color}25`, color: mat.color }}
+                                                                        >
+                                                                            Bloque {bloque.numero}
+                                                                        </span>
+                                                                        <span className="text-xs text-white/30">
+                                                                            {bloque.meses}
+                                                                        </span>
+                                                                    </div>
+                                                                    <h4 className="text-white font-semibold text-sm group-hover:text-white transition-colors">
+                                                                        {bloque.nombre}
+                                                                    </h4>
+                                                                    <p className="text-white/40 text-xs mt-1">
+                                                                        {bloque.temas.length} temas • {bloque.temas.length * 4}+ ejercicios
+                                                                    </p>
+                                                                </div>
+                                                            </Link>
+                                                        ))}
+                                                    </div>
+                                                </div>
+                                            );
+                                        })}
+                                    </div>
+                                );
+                            }
+
+                            return null;
+                        })()}
                     </div>
 
                     {/* Sidebar con anuncio */}
