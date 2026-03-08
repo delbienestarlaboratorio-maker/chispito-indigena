@@ -28,6 +28,8 @@ jobs:
         run: npm run pages:build
         env:
           NEXT_TELEMETRY_DISABLED: 1
+          NEXT_PUBLIC_SUPABASE_URL: "https://dummy.supabase.co"
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: "dummy-key"
 
       - name: Assemble Edge Assets
         run: |
