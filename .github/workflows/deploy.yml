@@ -31,14 +31,10 @@ jobs:
           NEXT_PUBLIC_SUPABASE_URL: "https://dummy.supabase.co"
           NEXT_PUBLIC_SUPABASE_ANON_KEY: "dummy-key"
 
-      - name: Assemble Edge Assets
-        run: |
-          mkdir -p .open-next/assets
-          cp .open-next/worker.js .open-next/assets/_worker.js
-          cp -r .open-next/cloudflare .open-next/assets/cloudflare
-          cp -r .open-next/middleware .open-next/assets/middleware
-          cp -r .open-next/server-functions .open-next/assets/server-functions
-          cp -r .open-next/.build .open-next/assets/.build
+      - name: Assemble Edge Worker
+        run: cp .open-next/worker.js .open-next/assets/_worker.js
+
+
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
