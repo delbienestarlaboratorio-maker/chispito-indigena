@@ -1,6 +1,8 @@
 "use client";
 import { useState, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import Link from "next/link";
+import { Lock, ChevronRight } from "lucide-react";
 
 // ─── Tipos ───────────────────────────────────────────
 type Ejercicio = {
@@ -212,6 +214,7 @@ export default function PrimariaExercisePlayer({ ejercicios, grado, materia, blo
     const theme = TIER_THEME[tier];
     const accentColor = color || theme.accent; // usa color de materia o theme default
 
+    const FREE_LIMIT = 3;
     const lista = ejercicios.slice(0, tier === 1 ? 10 : tier === 2 ? 12 : 15);
     const [indice, setIndice] = useState(0);
     const [estadoOps, setEstadoOps] = useState<Record<string, "idle" | "correcto" | "incorrecto">>({});
@@ -223,9 +226,11 @@ export default function PrimariaExercisePlayer({ ejercicios, grado, materia, blo
     const [feedIdx, setFeedIdx] = useState(0);
     const [inputVal, setInputVal] = useState("");
     const [terminado, setTerminado] = useState(false);
+    const [mostrarPaywall, setMostrarPaywall] = useState(false);
 
     const ejercicio = lista[indice] as Ejercicio;
     const esUltimo = indice >= lista.length - 1;
+    const esUltimoGratis = indice >= FREE_LIMIT - 1;
 
     useEffect(() => {
         if (!ejercicio) return;
@@ -268,7 +273,7 @@ export default function PrimariaExercisePlayer({ ejercicios, grado, materia, blo
     }, [respondido, ejercicio, estadoOps, tier, theme]);
 
     if (terminado || !ejercicio) {
-        const total = lista.length;
+        const total = FREE_LIMIT;
         const pct = Math.round((puntaje / total) * 100);
         const msgs = [
             pct >= 90 ? "¡Maestro! Dominas el tema" :
@@ -283,10 +288,59 @@ export default function PrimariaExercisePlayer({ ejercicios, grado, materia, blo
                 <h2 className="text-2xl font-bold mb-1" style={{ color: pct >= 70 ? "#15803D" : "#92400E" }}>{msgs[0]}</h2>
                 <div className="text-4xl font-bold my-3" style={{ color: accentColor }}>{puntaje}/{total}</div>
                 <div className="text-sm text-gray-500 mb-6">{pct}% correcto · Bloque {bloque} · {meses}</div>
-                <button onClick={() => { setIndice(0); setTerminado(false); setPuntaje(0); setRacha(0); }}
+                <button onClick={() => { setIndice(0); setTerminado(false); setPuntaje(0); setRacha(0); setMostrarPaywall(false); }}
                     className="px-8 py-3 rounded-xl font-bold text-white"
                     style={{ background: accentColor }}>
                     🔄 Intentar de nuevo
+                </button>
+            </motion.div>
+        );
+    }
+
+    // ── PAYWALL ──────────────────────────────────────────────
+    if (mostrarPaywall) {
+        return (
+            <motion.div initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
+                className="rounded-2xl p-8 text-center"
+                style={{ background: "white", border: `3px solid ${accentColor}40`, boxShadow: `0 8px 32px ${accentColor}20` }}>
+                <div className="text-6xl mb-3">{theme.mascot}</div>
+                <h2 className="text-2xl font-bold mb-1" style={{ color: "#0F172A" }}>
+                    ¡Completaste los ejercicios gratis!
+                </h2>
+                <p className="text-gray-500 mb-2">
+                    Respondiste <strong>{puntaje}/{FREE_LIMIT}</strong> correctamente
+                </p>
+                <p className="text-lg font-bold mb-6" style={{ color: accentColor }}>
+                    ¡Hay {lista.length - FREE_LIMIT} ejercicios más en este bloque!
+                </p>
+
+                {/* Preview borrosa de ejercicios bloqueados */}
+                <div className="relative mb-6">
+                    <div className="space-y-2 filter blur-[3px] pointer-events-none select-none opacity-50">
+                        {lista.slice(FREE_LIMIT, FREE_LIMIT + 3).map(ej => (
+                            <div key={ej.id} className="rounded-xl p-3 text-left" style={{ background: `${accentColor}10`, border: `1px solid ${accentColor}20` }}>
+                                <p className="text-gray-700 text-sm truncate">{ej.pregunta}</p>
+                            </div>
+                        ))}
+                    </div>
+                    <div className="absolute inset-0 flex items-center justify-center" style={{ background: "linear-gradient(to top, white 30%, transparent)" }}>
+                        <div className="text-center">
+                            <Lock size={28} style={{ color: accentColor }} className="mx-auto mb-1" />
+                            <p className="font-bold text-sm" style={{ color: accentColor }}>{lista.length - FREE_LIMIT} ejercicios bloqueados</p>
+                        </div>
+                    </div>
+                </div>
+
+                <Link href="/planes"
+                    className="inline-flex items-center gap-2 px-8 py-4 rounded-xl font-bold text-white text-lg shadow-lg transition-all hover:scale-105"
+                    style={{ background: `linear-gradient(135deg, ${accentColor}, ${accentColor}CC)` }}>
+                    🔓 Desbloquear con V2 — $99/mes <ChevronRight size={20} />
+                </Link>
+                <p className="text-gray-400 text-xs mt-3">OXXO · Tarjeta · Transferencia · Cancela cuando quieras</p>
+
+                <button onClick={() => { setIndice(0); setMostrarPaywall(false); setPuntaje(0); setRacha(0); }}
+                    className="mt-4 text-gray-400 hover:text-gray-600 text-sm underline transition-colors">
+                    Volver a intentar los ejercicios gratis
                 </button>
             </motion.div>
         );
@@ -458,11 +512,19 @@ export default function PrimariaExercisePlayer({ ejercicios, grado, materia, blo
                 <motion.button
                     initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
                     whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}
-                    onClick={() => esUltimo ? setTerminado(true) : setIndice(i => i + 1)}
+                    onClick={() => {
+                        if (esUltimoGratis) {
+                            setMostrarPaywall(true);
+                        } else if (esUltimo) {
+                            setTerminado(true);
+                        } else {
+                            setIndice(i => i + 1);
+                        }
+                    }}
                     className="w-full py-4 font-bold text-white text-lg"
                     style={{ borderRadius: theme.btnRadius, background: `linear-gradient(135deg, ${accentColor}, ${accentColor}CC)` }}
                 >
-                    {esUltimo ? `${theme.mascot} Ver resultado` : "Siguiente →"}
+                    {esUltimoGratis ? "🔒 Ver más ejercicios" : esUltimo ? `${theme.mascot} Ver resultado` : "Siguiente →"}
                 </motion.button>
             )}
         </>
