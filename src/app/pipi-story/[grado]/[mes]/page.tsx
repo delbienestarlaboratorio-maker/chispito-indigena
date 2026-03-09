@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, Suspense } from "react";
 import { useParams, useSearchParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, X, Layout, BookOpenText } from "lucide-react";
@@ -27,7 +27,7 @@ const STORY_DATA: Record<number, any> = {
     }
 };
 
-export default function PipiStoryViewer() {
+function PipiStoryViewerInner() {
     const params = useParams();
     const searchParams = useSearchParams();
     const router = useRouter();
@@ -142,5 +142,17 @@ export default function PipiStoryViewer() {
 
             </main>
         </div>
+    );
+}
+
+export default function PipiStoryPage() {
+    return (
+        <Suspense fallback={
+            <div className="min-h-screen flex items-center justify-center" style={{ background: "#0F172A" }}>
+                <div className="text-white text-2xl font-bold animate-pulse">Cargando historia de Pipi...</div>
+            </div>
+        }>
+            <PipiStoryViewerInner />
+        </Suspense>
     );
 }
