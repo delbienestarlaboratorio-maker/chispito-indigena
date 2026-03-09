@@ -32,7 +32,13 @@ jobs:
           NEXT_PUBLIC_SUPABASE_ANON_KEY: "dummy-key"
 
       - name: Assemble Edge Worker
-        run: cp .open-next/worker.js .open-next/assets/_worker.js
+        run: |
+          cp .open-next/worker.js .open-next/assets/_worker.js
+          cp -r .open-next/cloudflare .open-next/assets/cloudflare
+          cp -r .open-next/middleware .open-next/assets/middleware
+          cp -r .open-next/server-functions .open-next/assets/server-functions
+          cp -r .open-next/.build .open-next/assets/.build
+          echo -e "cloudflare\nmiddleware\nserver-functions\n.build" > .open-next/assets/.cfignore
 
 
 
