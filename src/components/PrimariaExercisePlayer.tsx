@@ -240,6 +240,7 @@ export default function PrimariaExercisePlayer({ ejercicios, grado, materia, blo
         setRespondido(false);
         setCorrecto(null);
         setInputVal("");
+        setConfeti(false);
     }, [indice]);
 
     const responder = useCallback((resp: string) => {

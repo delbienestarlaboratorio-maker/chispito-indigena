@@ -157,11 +157,17 @@ export default function KinderExercisePlayer({ ejercicios, grado, materia, bloqu
     useEffect(() => {
         if (!ejercicio) return;
         const ops: Record<string, "idle" | "correcto" | "incorrecto"> = {};
-        (ejercicio.opciones || []).forEach(o => { ops[o] = "idle"; });
+        if (ejercicio.opciones) {
+            ejercicio.opciones.forEach(o => { ops[o] = "idle"; });
+        } else if (ejercicio.tipo === "true_false") {
+            ops["true"] = "idle";
+            ops["false"] = "idle";
+        }
         setEstadoOps(ops);
         setRespondido(false);
         setCorrecto(null);
         setInputVal("");
+        setConfeti(false);
     }, [indice]);
 
     const responder = useCallback((respuesta: string) => {

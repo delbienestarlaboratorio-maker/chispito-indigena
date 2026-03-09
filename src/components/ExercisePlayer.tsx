@@ -246,6 +246,8 @@ export default function ExercisePlayer({ ejercicios, grado, materia, bloque, nom
             setIndice(i => i + 1);
             setRespuestaSeleccionada("");
             setEstado("sin_responder");
+            setShowConfetti(false);
+            setNicoBounce(false);
             setMensajeIndex(i => i + 1);
         }
     }
