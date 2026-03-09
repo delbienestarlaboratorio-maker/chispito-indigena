@@ -5,33 +5,44 @@
   "nombre": "Lectura comprensiva avanzada",
   "meses": "Agosto-Septiembre",
   "temas": [
-    "Sustantivos",
-    "Silabas simples"
+    "Sustantivos y verbos",
+    "Sílabas y ortografía",
+    "Comprensión lectora"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 24,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-3-espanol-b1-004",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v1-001",
+        "tema": "Sustantivos y verbos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuantas silabas tiene la palabra MA-ME-Y?",
+        "pregunta": "¿Cuál de estas palabras es un SUSTANTIVO?",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "correr",
+          "bonito",
+          "mesa",
+          "rápido"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "MA-ME-Y tiene 3 silabas: MA, ME, Y."
+        "respuestaCorrecta": "mesa",
+        "explicacion": "Los sustantivos nombran personas, animales, lugares o cosas. \"Mesa\" es el nombre de una cosa.",
+        "ejemplo": "Sustantivos = nombres.\nPersona: niño 👦 | Animal: perro 🐶 | Lugar: escuela 🏫 | Cosa: pelota ⚽"
       },
       {
-        "id": "primaria-3-espanol-b1-005",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v1-002",
+        "tema": "Sustantivos y verbos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "\"PERRO\" es un sustantivo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! PERRO es el nombre de un animal, por eso es un sustantivo."
+      },
+      {
+        "id": "p3-esp-b1-v1-003",
+        "tema": "Sílabas y ortografía",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuantas silabas tiene CA-SA?",
+        "pregunta": "¿Cuántas sílabas tiene la palabra CA-SA?",
         "opciones": [
           "1",
           "2",
@@ -39,47 +50,11 @@
           "4"
         ],
         "respuestaCorrecta": "2",
-        "explicacion": "CA-SA tiene 2 silabas: CA y SA."
+        "explicacion": "CA-SA tiene 2 sílabas: CA y SA."
       },
       {
-        "id": "primaria-3-espanol-b1-extra-008",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un sustantivo?",
-        "opciones": [
-          "Una acción",
-          "Un nombre de persona, lugar o cosa",
-          "Una descripción",
-          "Una unión de palabras"
-        ],
-        "respuestaCorrecta": "Un nombre de persona, lugar o cosa",
-        "explicacion": "Los sustantivos nombran seres, cosas y lugares: \"niño\", \"ciudad\", \"libro\".",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-3-espanol-b1-extra-010",
-        "tema": "Sustantivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los sinónimos tienen significados similares",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sinónimos: casa/hogar, grande/enorme, bonito/hermoso.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-3-espanol-b1-extra-012",
-        "tema": "Sustantivos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El opuesto de \"alegre\" es ___",
-        "respuestaCorrecta": "triste",
-        "explicacion": "Los antónimos son palabras de significado opuesto: alegre/triste, grande/pequeño.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-3-espanol-b1-x-013",
-        "tema": "Sustantivos",
+        "id": "p3-esp-b1-v1-004",
+        "tema": "Sustantivos y verbos",
         "tipo": "multiple_choice",
         "nivel": "v1",
         "pregunta": "¿Qué es un verbo?",
@@ -91,146 +66,48 @@
         ],
         "respuestaCorrecta": "Una acción o estado",
         "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener).",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
+        "ejemplo": "Verbos = acciones o estados.\nCorrer 🏃, saltar, pensar, ser, estar.\n\"El niño CORRE muy rápido.\""
       },
       {
-        "id": "primaria-3-espanol-b1-x-014",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v1-005",
+        "tema": "Sílabas y ortografía",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "pregunta": "La coma (,) se usa para separar elementos en una lista.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+        "explicacion": "Correcto. Ejemplo: \"Compré manzanas, peras, uvas y plátanos.\""
       },
       {
-        "id": "primaria-3-espanol-b1-x-015",
-        "tema": "Sustantivos",
+        "id": "p3-esp-b1-v1-006",
+        "tema": "Comprensión lectora",
         "tipo": "fill_blank",
         "nivel": "v1",
         "pregunta": "La parte inicial de un cuento se llama ___",
         "respuestaCorrecta": "introducción",
         "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final).",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
+        "ejemplo": "Partes de un cuento:\n1. Introducción: presenta personajes 📖\n2. Desarrollo: pasan las aventuras 🎢\n3. Desenlace: se resuelve todo ✅"
       },
       {
-        "id": "primaria-3-espanol-b1-x-016",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v1-007",
+        "tema": "Sustantivos y verbos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener).",
-        "ejemplo": "Verbos = acciones o estados.\nEjemplo: correr, saltar, pensar, ser, estar.\nEn oración: \"El niño CORRE muy rápido.\""
-      },
-      {
-        "id": "primaria-3-espanol-b1-x-017",
-        "tema": "Sustantivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-3-espanol-b1-x-018",
-        "tema": "Silabas simples",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "primaria-3-espanol-b1-x-019",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener).",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-3-espanol-b1-x-020",
-        "tema": "Silabas simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      }
-    ],
-    "v2": [
-      {
-        "id": "primaria-3-espanol-b1-001",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Cual de estas palabras es un SUSTANTIVO?",
-        "opciones": [
-          "correr",
-          "bonito",
-          "mesa",
-          "rapido"
-        ],
-        "respuestaCorrecta": "mesa",
-        "explicacion": "Los sustantivos son nombres de personas, animales o cosas. Mesa es el nombre de una cosa.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-3-espanol-b1-002",
-        "tema": "Sustantivos",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "PERRO es un sustantivo.",
-        "respuestaCorrecta": "true",
-        "explicacion": "Si! PERRO es el nombre de un animal, por eso es un sustantivo.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-3-espanol-b1-003",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Cual es el sustantivo en: La nina corre rapido.",
+        "pregunta": "¿Cuál es el sustantivo en: \"La niña corre rápido\"?",
         "opciones": [
           "La",
-          "nina",
+          "niña",
           "corre",
-          "rapido"
+          "rápido"
         ],
-        "respuestaCorrecta": "nina",
-        "explicacion": "Nina es el nombre de una persona = sustantivo.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
+        "respuestaCorrecta": "niña",
+        "explicacion": "\"Niña\" es el nombre de una persona, por eso es el sustantivo de la oración."
       },
       {
-        "id": "primaria-3-espanol-b1-006",
-        "tema": "Silabas simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La palabra PA-LO-MA tiene ___ silabas.",
-        "respuestaCorrecta": "3",
-        "explicacion": "PA-LO-MA: PA, LO, MA = 3 silabas."
-      },
-      {
-        "id": "primaria-3-espanol-b1-007",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v1-008",
+        "tema": "Sílabas y ortografía",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Que silaba falta? MA-RI-___ (mariposa)",
+        "nivel": "v1",
+        "pregunta": "¿Qué sílaba falta? MA-RI-___ (mariposa)",
         "opciones": [
           "sa",
           "po",
@@ -238,20 +115,56 @@
           "la"
         ],
         "respuestaCorrecta": "po",
-        "explicacion": "MA-RI-PO-SA. La silaba que sigue a MA-RI es PO."
+        "explicacion": "MA-RI-PO-SA. La sílaba que sigue a MA-RI es PO."
       },
       {
-        "id": "primaria-3-espanol-b1-extra-009",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v1-009",
+        "tema": "Comprensión lectora",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los sinónimos son palabras con significados similares.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. Sinónimos: casa/hogar, grande/enorme, bonito/hermoso."
+      },
+      {
+        "id": "p3-esp-b1-v1-010",
+        "tema": "Comprensión lectora",
         "tipo": "fill_blank",
-        "nivel": "v2",
+        "nivel": "v1",
+        "pregunta": "El opuesto de \"alegre\" es ___",
+        "respuestaCorrecta": "triste",
+        "explicacion": "Los antónimos son palabras de significado opuesto: alegre/triste, grande/pequeño.",
+        "ejemplo": "Antónimos = opuestos.\nalegre ↔ triste | grande ↔ pequeño | rápido ↔ lento"
+      },
+      {
+        "id": "p3-esp-b1-v1-011",
+        "tema": "Sílabas y ortografía",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas sílabas tiene PA-LO-MA?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "PA-LO-MA: PA, LO, MA = 3 sílabas."
+      },
+      {
+        "id": "p3-esp-b1-v1-012",
+        "tema": "Sustantivos y verbos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
         "pregunta": "La palabra \"correr\" es un ___",
         "respuestaCorrecta": "verbo",
         "explicacion": "Los verbos expresan acciones: correr, saltar, estudiar, comer."
-      },
+      }
+    ],
+    "v2": [
       {
-        "id": "primaria-3-espanol-b1-extra-011",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v2-001",
+        "tema": "Comprensión lectora",
         "tipo": "multiple_choice",
         "nivel": "v2",
         "pregunta": "\"Rápidamente\" es un...",
@@ -262,64 +175,24 @@
           "Adverbio"
         ],
         "respuestaCorrecta": "Adverbio",
-        "explicacion": "Los adverbios modifican al verbo, adjetivo u otro adverbio. \"Rápidamente\" modifica cómo se hace algo."
+        "explicacion": "Los adverbios modifican al verbo. \"Rápidamente\" dice CÓMO se hace algo.",
+        "ejemplo": "Adverbios = modifican al verbo.\n\"Corre RÁPIDAMENTE\" → ¿Cómo corre? Rápidamente."
       },
       {
-        "id": "primaria-3-espanol-b1-x-013",
-        "tema": "Sustantivos",
+        "id": "p3-esp-b1-v2-002",
+        "tema": "Comprensión lectora",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-3-espanol-b1-x-014",
-        "tema": "Silabas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "primaria-3-espanol-b1-x-015",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-3-espanol-b1-x-016",
-        "tema": "Silabas simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
+        "pregunta": "Las palabras con significados similares se llaman ___",
         "respuestaCorrecta": "sinónimos",
         "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
       },
       {
-        "id": "primaria-3-espanol-b1-x-017",
-        "tema": "Sustantivos",
+        "id": "p3-esp-b1-v2-003",
+        "tema": "Sílabas y ortografía",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "pregunta": "\"¿Cómo estás?\" lleva signos de interrogación porque es...",
         "opciones": [
           "Una exclamación",
           "Un enunciado",
@@ -327,12 +200,11 @@
           "Un mandato"
         ],
         "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
+        "explicacion": "Los signos ¿? se usan al inicio y al final de las preguntas en español."
       },
       {
-        "id": "primaria-3-espanol-b1-x-018",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v2-004",
+        "tema": "Comprensión lectora",
         "tipo": "multiple_choice",
         "nivel": "v2",
         "pregunta": "Un antónimo de \"alegre\" es...",
@@ -346,53 +218,111 @@
         "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
       },
       {
-        "id": "primaria-3-espanol-b1-x-019",
-        "tema": "Sustantivos",
-        "tipo": "fill_blank",
+        "id": "p3-esp-b1-v2-005",
+        "tema": "Sustantivos y verbos",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
+        "pregunta": "\"Hermoso\" es un adjetivo porque describe cómo es algo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los adjetivos describen cualidades: hermoso, grande, rojo, suave.",
+        "ejemplo": "Adjetivos = describen.\n\"La casa GRANDE\" → ¿Cómo es la casa? Grande."
       },
       {
-        "id": "primaria-3-espanol-b1-x-020",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v2-006",
+        "tema": "Sílabas y ortografía",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "pregunta": "¿Cuál de estas palabras lleva acento en la última sílaba?",
         "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
+          "árbol",
+          "canción",
+          "mesa",
+          "libro"
         ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+        "respuestaCorrecta": "canción",
+        "explicacion": "Las palabras agudas llevan acento en la última sílaba: can-CIÓN."
+      },
+      {
+        "id": "p3-esp-b1-v2-007",
+        "tema": "Comprensión lectora",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La parte del cuento donde se resuelve el problema se llama ___",
+        "respuestaCorrecta": "desenlace",
+        "explicacion": "El desenlace es el final del cuento, donde se resuelve el conflicto."
+      },
+      {
+        "id": "p3-esp-b1-v2-008",
+        "tema": "Sustantivos y verbos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En \"El gato DUERME en el sillón\", ¿cuál es el verbo?",
+        "opciones": [
+          "gato",
+          "duerme",
+          "sillón",
+          "el"
+        ],
+        "respuestaCorrecta": "duerme",
+        "explicacion": "\"Duerme\" es la acción que realiza el gato, por eso es el verbo.",
+        "ejemplo": "El verbo es la acción de la oración.\n\"El gato DUERME\" → ¿Qué hace? Duerme 😴"
+      },
+      {
+        "id": "p3-esp-b1-v2-009",
+        "tema": "Sílabas y ortografía",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los signos ¡! se usan para expresar emociones fuertes.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correcto! Los signos de exclamación expresan sorpresa, alegría o enojo: ¡Qué bonito!"
+      },
+      {
+        "id": "p3-esp-b1-v2-010",
+        "tema": "Comprensión lectora",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estas oraciones tiene un error ortográfico?",
+        "opciones": [
+          "El niño juega.",
+          "La niña estudia.",
+          "El perro ladra fuert.",
+          "Mi mamá cocina."
+        ],
+        "respuestaCorrecta": "El perro ladra fuert.",
+        "explicacion": "\"Fuert\" está incompleto, debería ser \"fuerte\" con la letra 'e' al final."
+      },
+      {
+        "id": "p3-esp-b1-v2-011",
+        "tema": "Sustantivos y verbos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras que describen cualidades como \"grande\" o \"rojo\" son ___",
+        "respuestaCorrecta": "adjetivos",
+        "explicacion": "Los adjetivos califican o describen al sustantivo: casa grande, cielo azul."
+      },
+      {
+        "id": "p3-esp-b1-v2-012",
+        "tema": "Sílabas y ortografía",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas sílabas tiene \"e-le-fan-te\"?",
+        "opciones": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "E-LE-FAN-TE tiene 4 sílabas: e, le, fan, te."
       }
     ],
     "preview": [
       {
-        "id": "primaria-3-espanol-b1-004",
-        "tema": "Silabas simples",
+        "id": "p3-esp-b1-v1-003",
+        "tema": "Sílabas y ortografía",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuantas silabas tiene la palabra MA-ME-Y?",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "MA-ME-Y tiene 3 silabas: MA, ME, Y."
-      },
-      {
-        "id": "primaria-3-espanol-b1-005",
-        "tema": "Silabas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Cuantas silabas tiene CA-SA?",
+        "pregunta": "¿Cuántas sílabas tiene la palabra CA-SA?",
         "opciones": [
           "1",
           "2",
@@ -400,26 +330,40 @@
           "4"
         ],
         "respuestaCorrecta": "2",
-        "explicacion": "CA-SA tiene 2 silabas: CA y SA."
+        "explicacion": "CA-SA tiene 2 sílabas: CA y SA."
       },
       {
-        "id": "primaria-3-espanol-b1-001",
-        "tema": "Sustantivos",
+        "id": "p3-esp-b1-v1-001",
+        "tema": "Sustantivos y verbos",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Cual de estas palabras es un SUSTANTIVO?",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estas palabras es un SUSTANTIVO?",
         "opciones": [
           "correr",
           "bonito",
           "mesa",
-          "rapido"
+          "rápido"
         ],
         "respuestaCorrecta": "mesa",
-        "explicacion": "Los sustantivos son nombres de personas, animales o cosas. Mesa es el nombre de una cosa.",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
+        "explicacion": "Los sustantivos nombran personas, animales, lugares o cosas. \"Mesa\" es el nombre de una cosa."
+      },
+      {
+        "id": "p3-esp-b1-v2-003",
+        "tema": "Sílabas y ortografía",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"¿Cómo estás?\" lleva signos de interrogación porque es...",
+        "opciones": [
+          "Una exclamación",
+          "Un enunciado",
+          "Una pregunta",
+          "Un mandato"
+        ],
+        "respuestaCorrecta": "Una pregunta",
+        "explicacion": "Los signos ¿? se usan al inicio y al final de las preguntas en español."
       }
     ]
   },
-  "generado": "2026-02-27T04:04:54.110Z",
-  "version": "2.0"
+  "generado": "2026-03-09T01:35:00.000Z",
+  "version": "3.0"
 }
