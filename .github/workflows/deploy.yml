@@ -47,10 +47,25 @@ jobs:
         run: |
           echo "==== ASSETS DIRECTORY TREE ===="
           find .open-next/assets -type f | wc -l
-          echo "==== _NEXT JS CHUNKS ===="
-          find .open-next/assets/_next/static -name "*.js" | head -n 20
-          echo "==== _ROUTES.JSON ===="
-          cat .open-next/assets/_routes.json || echo "No _routes.json found"
+      - name: Generate _routes.json
+        run: |
+          cat << 'EOF' > .open-next/assets/_routes.json
+          {
+            "version": 1,
+            "include": [
+              "/*"
+            ],
+            "exclude": [
+              "/_next/*",
+              "/favicon.ico",
+              "/icon.svg",
+              "/robots.txt",
+              "/sitemap.xml"
+            ]
+          }
+          EOF
+          echo "==== GENERATED _ROUTES.JSON ===="
+          cat .open-next/assets/_routes.json
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
