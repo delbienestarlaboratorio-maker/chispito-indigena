@@ -155,6 +155,11 @@ const _TODOS_GRADOS: Grado[] = [
         emoji: "🌈", color: "#F97316", gradient: "from-orange-400 to-amber-600",
         alumnos: 1550000, materias: ["matematicas", "espanol", "conocimiento", "artes", "educacion_fisica"],
     },
+    {
+        numero: 3, nombre: "3° Preescolar", nivel: "preescolar", slug: "preescolar-3",
+        emoji: "🌈", color: "#A855F7", gradient: "from-purple-400 to-violet-600",
+        alumnos: 1550000, materias: ["matematicas", "espanol", "conocimiento", "educacion_fisica"],
+    },
     // PRIMARIA
     {
         numero: 1, nombre: "1° Primaria", nivel: "primaria", slug: "primaria-1",

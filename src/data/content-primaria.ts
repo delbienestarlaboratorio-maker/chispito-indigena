@@ -1821,6 +1821,7 @@ PRIMARIA_2.materias["historia"] = HISTORIA_P2;
 
 export const GRADOS_CONTENIDO: Record<string, GradoContenido> = {
     "kinder": KINDER,
+    "preescolar-3": KINDER,
     "preescolar-1": PREESCOLAR_1_COMPLETE,
     "preescolar-2": PREESCOLAR_2,
     "primaria-1": PRIMARIA_1,

@@ -191,7 +191,48 @@ export default async function GradoPage({ params }: Props) {
                                         </Link>
                                         <Link href="/preescolar-2/matematicas/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(59, 130, 246, 0.1)", border: "1px solid rgba(59, 130, 246, 0.2)" }}>
                                             <span className="text-blue-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-blue-300">📐 Matemáticas</span>
-                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Conteo en LSM →</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Conteo del 6 al 10 →</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+
+                        {/* BANNER DESTACADO LSM - Preescolar 3 */}
+                        {grado.slug === 'preescolar-3' && (
+                            <div className="mb-10 rounded-3xl p-6 sm:p-8 relative overflow-hidden transition-all hover:scale-[1.01]" style={{ background: "linear-gradient(135deg, rgba(168, 85, 247, 0.15) 0%, rgba(59, 130, 246, 0.1) 100%)", border: "1px solid rgba(168, 85, 247, 0.3)", boxShadow: "0 10px 40px -10px rgba(168, 85, 247, 0.15)" }}>
+                                <div className="absolute top-0 right-0 -mr-4 -mt-4 text-9xl opacity-5 pointer-events-none">🤟</div>
+                                <div className="relative z-10">
+                                    <div className="flex items-center gap-3 mb-4">
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#A855F725", color: "#C084FC" }}>
+                                            ✨ Nivel Avanzado
+                                        </span>
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#3B82F625", color: "#60A5FA" }}>
+                                            Inclusión SEP
+                                        </span>
+                                    </div>
+                                    <h3 className="font-fredoka text-3xl sm:text-4xl text-white mb-3">
+                                        Dominando la Lengua de Señas <span className="text-purple-400">(LSM)</span> 🤟
+                                    </h3>
+                                    <p className="text-white/70 text-sm sm:text-base max-w-2xl mb-6 leading-relaxed">
+                                        ¡El reto final de Preescolar! Gradúate dominando las últimas letras del Abecedario (K-Z), formaremos sílabas, oficios de la comunidad y el conteo superior hasta el 20 con tus manos.
+                                    </p>
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+                                        <Link href="/preescolar-3/espanol/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(168, 85, 247, 0.1)", border: "1px solid rgba(168, 85, 247, 0.2)" }}>
+                                            <span className="text-purple-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-purple-300">📖 Español</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Sílabas y Cortesía →</span>
+                                        </Link>
+                                        <Link href="/preescolar-3/conocimiento/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(236, 72, 153, 0.1)", border: "1px solid rgba(236, 72, 153, 0.2)" }}>
+                                            <span className="text-pink-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-pink-300">🔍 Conocimiento</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Oficios y Transportes →</span>
+                                        </Link>
+                                        <Link href="/preescolar-3/educacion_fisica/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(249, 115, 22, 0.1)", border: "1px solid rgba(249, 115, 22, 0.2)" }}>
+                                            <span className="text-orange-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-orange-300">🏃 Edu. Física</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Olimpiadas Silenciosas →</span>
+                                        </Link>
+                                        <Link href="/preescolar-3/matematicas/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(59, 130, 246, 0.1)", border: "1px solid rgba(59, 130, 246, 0.2)" }}>
+                                            <span className="text-blue-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-blue-300">📐 Matemáticas</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Conteo avanzado 11-20 →</span>
                                         </Link>
                                     </div>
                                 </div>
