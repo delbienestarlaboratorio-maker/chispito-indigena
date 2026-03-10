@@ -1,0 +1,61 @@
+{
+    "grado": "primaria-1",
+    "materia": "matematicas",
+    "bloque": 6,
+    "nombre": "Números que hablan (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Números del 20 al 50",
+        "Sumas simples con señas",
+        "Monedas mexicanas en LSM",
+        "Secuencias numéricas"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p1-mat-b6-v1-001",
+                "tema": "Números del 20 al 50",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se forma el número '25' en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "Primero hacemos la seña del 20 (pulgar e índice pellizcándose dos veces) y luego la del 5 (mano abierta con todos los dedos estirados).",
+                    "Mostramos los 5 dedos de una mano y aplaudimos dos veces.",
+                    "Levantamos dos manos y bajamos una."
+                ],
+                "respuestaCorrecta": "Primero hacemos la seña del 20 (pulgar e índice pellizcándose dos veces) y luego la del 5 (mano abierta con todos los dedos estirados).",
+                "explicacion": "¡Correcto! Los números compuestos en LSM se forman señando primero las decenas y luego las unidades. Para 25: primero el 20 y luego el 5. 🔢"
+            },
+            {
+                "id": "p1-mat-b6-v1-002",
+                "tema": "Sumas simples con señas",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir '3 + 2 = 5' en LSM, primero hacemos la seña del 3 (tres dedos levantados), luego la seña de 'MÁS' (índices cruzados en forma de +), después la seña del 2, y finalmente la seña de 'IGUAL' (ambas manos planas moviéndose en paralelo) y la seña del 5.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! En LSM las operaciones matemáticas siguen el mismo orden que en papel. La seña de MÁS forma una cruz (+) con los dedos índice, y la de IGUAL usa ambas manos planas moviéndose juntas. ➕"
+            },
+            {
+                "id": "p1-mat-b6-v1-003",
+                "tema": "Monedas mexicanas en LSM",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de 'DINERO' o 'PESOS', frotamos el pulgar contra las yemas de los dedos ___ y medio, como si tuviéramos un billete invisible entre ellos.",
+                "respuestaCorrecta": "índice",
+                "explicacion": "¡Así es! El movimiento de frotar pulgar contra índice y medio es universal para representar dinero. En México lo asociamos con los pesos. 💰"
+            },
+            {
+                "id": "p1-mat-b6-v1-004",
+                "tema": "Secuencias numéricas",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En LSM, para contar de 10 en 10 (10, 20, 30...), basta con repetir la misma seña cambiando solo la orientación de la mano.",
+                "respuestaCorrecta": "false",
+                "explicacion": "¡Falso! Cada decena tiene su propia seña específica. El 10 se hace de una forma, el 20 de otra (pellizco), y el 30 de otra distinta. No es solo cambiar la orientación. 🧮"
+            }
+        ]
+    },
+    "generado": "2026-03-10T13:40:00.000Z",
+    "version": "3.0"
+}

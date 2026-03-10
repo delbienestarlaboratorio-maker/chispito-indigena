@@ -1816,6 +1816,109 @@ PRIMARIA_1.materias["historia"] = HISTORIA_P1;
 PRIMARIA_2.materias["ciencias"] = CIENCIAS_P2;
 PRIMARIA_2.materias["historia"] = HISTORIA_P2;
 
+// === Bloque 6: Lengua de Señas Mexicana (LSM) para Primaria 1 ===
+// Inyectamos un bloque 6 extra en cada materia para ofrecer contenido de inclusión
+if (PRIMARIA_1.materias["espanol"]) {
+    PRIMARIA_1.materias["espanol"].bloques.push({
+        bloque: 6,
+        nombre: "Mis palabras en señas (LSM)",
+        meses: "Julio",
+        enClase: ["Presentación personal en LSM", "Deletreo de palabras cortas", "Saludos y despedidas formales", "Emociones complejas"],
+        guiaPapa: {
+            intro: "Tu hijo ya domina el abecedario escrito. Ahora aprenderá a deletrearlo con las manos, presentarse en LSM y expresar emociones complejas sin decir una sola palabra.",
+            comoExplicar: [
+                "Practiquen frente al espejo: cada uno se presenta en LSM diciendo 'Me llamo...' y deletreando su nombre.",
+                "Jueguen a deletrear objetos de la casa: MESA, SILLA, FLOR. El que adivine primero, gana.",
+            ],
+            truco: "Las emociones en LSM exigen EXPRESIÓN FACIAL. Si la cara no acompaña, la seña pierde significado. Practiquen 'sorpresa', 'enojo' y 'tristeza' exagerando los gestos.",
+            error_comun: "Deletrear demasiado rápido. En la vida real, el deletreo en LSM es pausado y claro, no una carrera de velocidad.",
+            actividad_casa: "El noticiero silencioso: Tu hijo 'presenta' las noticias del día de la familia usando solo señas y expresiones faciales. Tú adivinas lo que dice.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno se presenta y deletrea palabras cortas usando el abecedario manual de la LSM con fluidez creciente.",
+            competencia: "Comunicación Inclusiva — Lenguaje y Comunicación — SEP Plan 2022",
+        },
+        keywords: ["LSM primaria 1", "deletreo señas primer grado", "lengua de señas primaria SEP"],
+    });
+}
+if (PRIMARIA_1.materias["matematicas"]) {
+    PRIMARIA_1.materias["matematicas"].bloques.push({
+        bloque: 6,
+        nombre: "Números que hablan (LSM)",
+        meses: "Julio",
+        enClase: ["Números del 20 al 50", "Sumas simples con señas", "Monedas mexicanas en LSM", "Secuencias numéricas"],
+        guiaPapa: {
+            intro: "Después de dominar los números del 1 al 20 en preescolar, tu hijo ahora aprenderá los números mayores, las operaciones básicas y la seña de 'dinero' en LSM.",
+            comoExplicar: [
+                "Practiquen los números de 10 en 10 hasta el 50, notando que cada decena tiene seña propia.",
+                "Hagan sumas simples señando: 3 + MÁS + 2 + IGUAL + 5.",
+            ],
+            truco: "Contar dinero real (monedas de $1, $2, $5 y $10) mientras hacen la seña de cada valor. Matemáticas + LSM + vida real.",
+            error_comun: "Confundir las decenas. El 20, 30 y 40 en LSM son señas muy diferentes entre sí; no son multiplicaciones del gesto del 2, 3 o 4.",
+            actividad_casa: "La tiendita silenciosa: Pongan precios a juguetes y compren usando solo señas para los números y 'dinero'. El cajero cuenta en LSM.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno expresa cantidades numéricas hasta 50 y operaciones aritméticas básicas usando LSM.",
+            competencia: "Pensamiento Matemático Inclusivo — SEP Plan 2022",
+        },
+        keywords: ["numeros señas primaria", "matematicas LSM", "sumas lengua señas SEP"],
+    });
+}
+if (PRIMARIA_1.materias["conocimiento"]) {
+    PRIMARIA_1.materias["conocimiento"].bloques.push({
+        bloque: 6,
+        nombre: "Mi mundo en señas (LSM)",
+        meses: "Julio",
+        enClase: ["Animales de México en LSM", "Las estaciones del año", "Higiene y salud", "La escuela y sus espacios"],
+        guiaPapa: {
+            intro: "Conectamos el entorno natural y social del niño con un vocabulario silencioso. Desde el águila del escudo hasta las estaciones del año.",
+            comoExplicar: [
+                "Visiten un parque y nombren en señas los animales que encuentren (pájaro, perro, hormiga).",
+                "Practiquen las estaciones: INVIERNO (tiritar), VERANO (abanicarse), PRIMAVERA (flor abriendo).",
+            ],
+            truco: "Las señas de animales suelen imitar su rasgo más visible: el pico del águila, las orejas del conejo, la trompa del elefante.",
+            error_comun: "Inventar señas para animales en lugar de usar las oficiales de LSM. Cada animal tiene su seña específica.",
+            actividad_casa: "El zoológico silencioso: Dibujen animales en tarjetas. Uno saca una tarjeta y hace la seña; el otro adivina el animal.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno amplía su vocabulario de LSM con elementos del entorno natural, social e institucional.",
+            competencia: "Exploración del Mundo Natural y Social Inclusivo — SEP Plan 2022",
+        },
+        keywords: ["animales LSM primaria", "escuela señas", "higiene lengua señas SEP"],
+    });
+}
+// Agregar educacion_fisica LSM si no existe como materia formal en PRIMARIA_1
+if (!PRIMARIA_1.materias["educacion_fisica"]) {
+    PRIMARIA_1.materias["educacion_fisica"] = {
+        materia: "educacion_fisica",
+        nombre: "Educación Física",
+        emoji: "🏃",
+        color: "#F97316",
+        bloques: [],
+    };
+}
+PRIMARIA_1.materias["educacion_fisica"].bloques.push({
+    bloque: 6,
+    nombre: "Juego y me comunico (LSM)",
+    meses: "Julio",
+    enClase: ["Instrucciones de juego en LSM", "Deportes de equipo", "Calentamiento completo", "Expresión corporal"],
+    guiaPapa: {
+        intro: "Combinamos actividad física con comunicación silenciosa. Tu hijo aprenderá a dar instrucciones deportivas, celebrar goles y hacer calentamientos usando LSM.",
+        comoExplicar: [
+            "Jueguen un partido de fútbol donde las indicaciones se dan SOLO con señas: ALTO, PASA, GOL.",
+            "Hagan una rutina de calentamiento donde cada ejercicio se nombra en señas antes de hacerlo.",
+        ],
+        truco: "La seña de SALTAR usa los dedos como piernitas sobre la otra palma. A los niños les encanta porque es como un muñeco invisible.",
+        error_comun: "Confundir la celebración real con la seña formal. 'GOL' en LSM es brazos arriba con puños cerrados, no cualquier celebración.",
+        actividad_casa: "Las olimpiadas del silencio: Hagan competencias familiares donde todas las indicaciones se comunican solo con señas.",
+    },
+    guiaMaestro: {
+        objetivo: "El alumno coordina instrucciones motrices y deportivas mediante el vocabulario de LSM.",
+        competencia: "Desarrollo de la Motricidad Inclusiva — SEP Plan 2022",
+    },
+    keywords: ["deportes LSM primaria", "educacion fisica señas", "juegos inclusivos SEP"],
+});
+
 // Índice de todos los grados disponibles
 // Nota: PRIMARIA_3 y KINDER se importan al comienzo del archivo
 
