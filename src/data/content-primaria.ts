@@ -2125,6 +2125,101 @@ PRIMARIA_3.materias["formacion"].bloques.push({
     keywords: ["valores lsm", "derechos discapacidad visual", "inclusion lengua señas"],
 });
 
+// === Bloque 7: Lengua de Señas Mexicana (LSM) para Primaria 4 ===
+// Nota: Primaria 4 ya tiene bloque-6 regular, por lo que LSM va como bloque 7.
+if (PRIMARIA_4.materias["espanol"]) {
+    PRIMARIA_4.materias["espanol"].bloques.push({
+        bloque: 7,
+        nombre: "Mi lengua tiene forma (LSM)",
+        meses: "Julio",
+        enClase: ["Clasificadores de forma y tamaño", "Narración de leyendas mexicanas", "Sinónimos contextuales en LSM", "El orden de la oración en LSM vs Español oral"],
+        guiaPapa: {
+            intro: "A los 9-10 años, tu hijo descubrirá los 'clasificadores': formas de la mano que representan CATEGORÍAS enteras de objetos (planos, cilíndricos, pequeños). Es como aprender los 'moldes' del lenguaje visual.",
+            comoExplicar: [
+                "Practiquen el cambio de rol: Al contar una leyenda, gira tu torso ligeramente para 'ser' cada personaje diferente.",
+                "Jueguen con 'bonito': Haz la seña grande y amplia para un paisaje, y pequeña y delicada para una joya. ¡El tamaño de la seña ES el adjetivo!",
+            ],
+            truco: "El orden en LSM es Tema-Comentario: primero DÓNDE, luego QUIÉN, y al final QUÉ HACE. Es como describir una escena de película: estableces el escenario antes de la acción.",
+            error_comun: "Traducir palabra por palabra del español oral. La LSM tiene su propia gramática; no usa artículos (el, la, los) ni preposiciones separadas.",
+            actividad_casa: "El Cuentacuentos Silencioso: Cada noche, uno cuenta una leyenda mexicana usando LSM, con cambios de rol para cada personaje.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno domina clasificadores descriptivos de la LSM y produce narrativas visuales con cambio de rol y estructura Tema-Comentario.",
+            competencia: "Narrativa Visual y Clasificadores — SEP Plan 2022",
+        },
+        keywords: ["clasificadores lsm", "leyendas señas", "orden oracion lsm"],
+    });
+}
+if (PRIMARIA_4.materias["matematicas"]) {
+    PRIMARIA_4.materias["matematicas"].bloques.push({
+        bloque: 7,
+        nombre: "Números que vuelan (LSM)",
+        meses: "Julio",
+        enClase: ["Fracciones avanzadas en LSM", "Multiplicación visual con señas", "Unidades de medida (metro, kilo, litro)", "Gráficas y datos con las manos"],
+        guiaPapa: {
+            intro: "Las fracciones flotan en 3D y la multiplicación es una X con los dedos. Tu hijo aprenderá a construir gráficas estadísticas usando las manos como barras espaciales.",
+            comoExplicar: [
+                "Para fracciones: el numerador va ARRIBA, la línea de fracción se traza horizontal con el índice, y el denominador va ABAJO.",
+                "Hagan gráficas humanas: Cada miembro de la familia es una 'barra' que se para a diferente altura según un dato.",
+            ],
+            truco: "Las unidades de medida combinan el concepto base (peso, distancia) con la letra inicial del alfabeto manual: K para Kilo, M para Metro, L para Litro.",
+            error_comun: "Hacer la seña de 'dividir' cuando quieren decir 'fracción'. Dividir es un movimiento de corte; la fracción es una estructura vertical (numerador-línea-denominador).",
+            actividad_casa: "El Mercado LSM: Simulen comprar frutas por kilogramos y líquidos por litros, usando las señas de las unidades de medida.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno representa fracciones y operaciones de multiplicación en el espacio tridimensional de la LSM, integrando unidades de medida inicializadas.",
+            competencia: "Matemáticas Espaciales Avanzadas — SEP Plan 2022",
+        },
+        keywords: ["fracciones lsm", "multiplicacion señas", "medidas lsm"],
+    });
+}
+if (PRIMARIA_4.materias["ciencias"]) {
+    PRIMARIA_4.materias["ciencias"].bloques.push({
+        bloque: 7,
+        nombre: "México natural (LSM)",
+        meses: "Julio",
+        enClase: ["Ecosistemas de México en LSM", "Cadena alimenticia con señas", "Energía y luz: fuentes y usos", "Contaminación y reciclaje"],
+        guiaPapa: {
+            intro: "Desde selvas hasta desiertos, tu hijo aprenderá a describir los ecosistemas de México usando clasificadores espaciales. También entenderá la cadena alimenticia como una secuencia direccional.",
+            comoExplicar: [
+                "Para SELVA: los antebrazos son troncos y las manos abiertas son copas frondosas. Para DESIERTO: las manos planas con expresión de calor.",
+                "Practiquen la cadena alimenticia en señas: PLANTA → RATÓN COME → SERPIENTE COME → ÁGUILA COME. La dirección muestra el flujo de energía.",
+            ],
+            truco: "La seña de RECICLAR imita el símbolo universal ♻️: manos girando en bucle. Es una señal compuesta que los niños memorizan instantáneamente.",
+            error_comun: "Confundir la seña de 'bosque' con la de 'selva'. El bosque tiene árboles más separados (manos quietas); la selva tiene vegetación densa (manos moviéndose mucho).",
+            actividad_casa: "Ecodetective: Clasifiquen la basura de la casa usando las señas de ORGÁNICO, PLÁSTICO y PAPEL, y la seña de RECICLAR para lo que pueda reutilizarse.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno describe ecosistemas mexicanos y cadenas tróficas utilizando secuencias direccionales y clasificadores espaciales de la LSM.",
+            competencia: "Conciencia Ambiental Visual — SEP Plan 2022",
+        },
+        keywords: ["ecosistemas lsm", "cadena alimenticia señas", "reciclaje lsm"],
+    });
+}
+if (PRIMARIA_4.materias["historia"]) {
+    PRIMARIA_4.materias["historia"].bloques.push({
+        bloque: 7,
+        nombre: "México en mis manos (LSM)",
+        meses: "Julio",
+        enClase: ["Culturas prehispánicas en LSM", "La Independencia de México", "Patrimonio cultural y tradiciones", "Héroes nacionales: sus nombres en deletreo"],
+        guiaPapa: {
+            intro: "La historia cobra vida con las manos. Tu hijo aprenderá la seña del águila mexica, el concepto visual de libertad (cadenas rompiéndose), y practicará la dactilología con nombres de héroes nacionales.",
+            comoExplicar: [
+                "La seña de MEXICA/AZTECA evoca al águila: una mano como cuerpo, la otra como alas extendidas. ¡Es el escudo nacional en LSM!",
+                "Para 'Independencia': GRITO (mano cónica frente a la boca) + LIBRE (muñecas cruzadas que se separan rompiendo cadenas imaginarias).",
+            ],
+            truco: "Cuando un personaje no tiene seña asignada, se usa la dactilología (deletreo manual): H-I-D-A-L-G-O. Practiquen velocidad de deletreo como juego de rapidez.",
+            error_comun: "Inventar señas para los nombres propios. Si no hay seña establecida, SIEMPRE se deletrea. Cada comunidad sorda puede tener señas propias para héroes locales.",
+            actividad_casa: "La Línea del Tiempo con las Manos: Ordenen 5 eventos históricos usando la línea temporal de LSM (pasado atrás, futuro adelante).",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno narra eventos históricos clave de México aplicando la línea temporal espacial, señas compuestas y dactilología de la LSM.",
+            competencia: "Identidad Nacional e Historia Visual — SEP Plan 2022",
+        },
+        keywords: ["historia mexico lsm", "independencia señas", "culturas prehispanicas lsm"],
+    });
+}
+
 // Nota: PRIMARIA_3 y KINDER se importan al comienzo del archivo
 
 export const GRADOS_CONTENIDO: Record<string, GradoContenido> = {

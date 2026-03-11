@@ -362,6 +362,47 @@ export default async function GradoPage({ params }: Props) {
                             </div>
                         )}
 
+                        {/* BANNER DESTACADO LSM - Primaria 4 */}
+                        {grado.slug === 'primaria-4' && (
+                            <div className="mb-10 rounded-3xl p-6 sm:p-8 relative overflow-hidden transition-all hover:scale-[1.01]" style={{ background: "linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(217, 119, 6, 0.1) 100%)", border: "1px solid rgba(245, 158, 11, 0.3)", boxShadow: "0 10px 40px -10px rgba(245, 158, 11, 0.15)" }}>
+                                <div className="absolute top-0 right-0 -mr-4 -mt-4 text-9xl opacity-5 pointer-events-none">🤟</div>
+                                <div className="relative z-10">
+                                    <div className="flex items-center gap-3 mb-4">
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#F59E0B25", color: "#FCD34D" }}>
+                                            🚀 Primaria LSM Nivel 4
+                                        </span>
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#22C55E25", color: "#4ADE80" }}>
+                                            Inclusión SEP
+                                        </span>
+                                    </div>
+                                    <h3 className="font-fredoka text-3xl sm:text-4xl text-white mb-3">
+                                        Lengua de Señas en <span className="text-amber-400">4° Primaria</span> 🤟
+                                    </h3>
+                                    <p className="text-white/70 text-sm sm:text-base max-w-2xl mb-6 leading-relaxed">
+                                        ¡Nivel avanzado! Domina los clasificadores que representan categorías completas de objetos, narra leyendas prehispánicas, construye fracciones en 3D y aprende las señas del patrimonio de México.
+                                    </p>
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+                                        <Link href="/primaria-4/espanol/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(245, 158, 11, 0.1)", border: "1px solid rgba(245, 158, 11, 0.2)" }}>
+                                            <span className="text-amber-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-amber-300">📖 Español</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Clasificadores y Leyendas →</span>
+                                        </Link>
+                                        <Link href="/primaria-4/historia/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(236, 72, 153, 0.1)", border: "1px solid rgba(236, 72, 153, 0.2)" }}>
+                                            <span className="text-pink-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-pink-300">🏛️ Historia</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Aztecas e Independencia →</span>
+                                        </Link>
+                                        <Link href="/primaria-4/ciencias/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(34, 197, 94, 0.1)", border: "1px solid rgba(34, 197, 94, 0.2)" }}>
+                                            <span className="text-green-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-green-300">🌿 C. Naturales</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Ecosistemas y Reciclaje →</span>
+                                        </Link>
+                                        <Link href="/primaria-4/matematicas/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(139, 92, 246, 0.1)", border: "1px solid rgba(139, 92, 246, 0.2)" }}>
+                                            <span className="text-violet-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-violet-300">📐 Matemáticas</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Fracciones 3D y Gráficas →</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+
                         {/* Materias con contenido masticado (content-primaria.ts) */}
                         {(() => {
                             const gradoMasticado = GRADOS_CONTENIDO[grado.slug];
