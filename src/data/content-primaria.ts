@@ -2220,6 +2220,100 @@ if (PRIMARIA_4.materias["historia"]) {
     });
 }
 
+// === Bloque 7: Lengua de Señas Mexicana (LSM) para Primaria 5 ===
+if (PRIMARIA_5.materias["espanol"]) {
+    PRIMARIA_5.materias["espanol"].bloques.push({
+        bloque: 7,
+        nombre: "Expresiones con alma (LSM)",
+        meses: "Julio",
+        enClase: ["Expresiones idiomáticas en LSM", "Registro formal e informal", "Debate y argumentación visual", "Poesía visual: ritmo con las manos"],
+        guiaPapa: {
+            intro: "A los 10-11 años tu hijo descubrirá que la LSM no es una traducción del español: tiene sus propias expresiones, registros formales e incluso ¡poesía! Las señas formales son más amplias y pausadas que las informales.",
+            comoExplicar: [
+                "Explora expresiones: 'Me cayó el veinte' NO se traduce literalmente. En LSM se dice ENTENDER directamente (dedo índice desde la sien hacia afuera).",
+                "Practiquen debate: Uno defiende una postura con señas y el otro contra-argumenta. Importante: ¡la cara debe mostrar convicción o duda!",
+            ],
+            truco: "La poesía en LSM no usa rima sonora sino simetría visual (manos espejo), ritmo (pausas dramáticas) y repetición de formas. ¡Es arte cinético vivo!",
+            error_comun: "Traducir refranes y dichos del español palabra por palabra. La LSM tiene su propio repertorio de expresiones figurativas.",
+            actividad_casa: "Poema de las Manos: Inventen un poema visual de 4 versos usando simetría de manos y pausas dramáticas. Grábenlo en video.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno distingue registros sociolingüísticos de la LSM y produce discurso argumentativo y poético en lengua viso-gestual.",
+            competencia: "Sociolingüística Visual y Expresión Artística — SEP Plan 2022",
+        },
+        keywords: ["expresiones lsm", "poesia señas", "debate lengua señas"],
+    });
+}
+if (PRIMARIA_5.materias["matematicas"]) {
+    PRIMARIA_5.materias["matematicas"].bloques.push({
+        bloque: 7,
+        nombre: "El lenguaje del porcentaje (LSM)",
+        meses: "Julio",
+        enClase: ["Porcentajes en LSM", "Números decimales con señas", "Proporciones y razones", "Problemas de la vida real"],
+        guiaPapa: {
+            intro: "Los porcentajes y decimales en LSM son fascinantes: el punto decimal es un 'golpe seco' flotante y el porcentaje combina el número con la seña de CIEN.",
+            comoExplicar: [
+                "Para decimales: 3.5 = seña de TRES, punto (golpe seco en el aire), seña de CINCO. La precisión es absoluta.",
+                "Jueguen al Supermercado: '¡50% de descuento!' = DESCUENTO + CINCO-CERO + POR-CIENTO. También vale decir MITAD DE PRECIO.",
+            ],
+            truco: "La seña de DOBLE = dedos índice y medio que suben (el 2 que crece). TRIPLE = tres dedos que suben. El patrón es intuitivo.",
+            error_comun: "Olvidar el 'golpe seco' del punto decimal y que los números se confundan (35 vs 3.5). La pausa y el golpe son esenciales.",
+            actividad_casa: "Recetas Matemáticas: Cocinen algo y expresen las cantidades en LSM: 0.5 litros de leche, 250 gramos de harina.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno opera con porcentajes y decimales utilizando la notación espacial de la LSM, resolviendo problemas reales de consumo.",
+            competencia: "Matemáticas Aplicadas y Consumo Responsable — SEP Plan 2022",
+        },
+        keywords: ["porcentajes lsm", "decimales señas", "matematicas inclusivas"],
+    });
+}
+if (PRIMARIA_5.materias["ciencias"]) {
+    PRIMARIA_5.materias["ciencias"].bloques.push({
+        bloque: 7,
+        nombre: "Mi cuerpo por dentro (LSM)",
+        meses: "Julio",
+        enClase: ["Sistema digestivo en LSM", "Sistema circulatorio: el corazón", "Sistema nervioso: el cerebro", "Salud y prevención"],
+        guiaPapa: {
+            intro: "El cuerpo humano se convierte en un mapa tridimensional. Cada sistema se traza sobre el propio cuerpo del alumno: digestivo (boca a intestinos), circulatorio (corazón pulsante), nervioso (sien y columna).",
+            comoExplicar: [
+                "Tracen el sistema digestivo en el cuerpo: desde la boca, bajando por el pecho, haciendo un círculo en el abdomen (estómago) y serpenteando abajo (intestinos).",
+                "El corazón se hace con las manos abriéndose y cerrándose rítmicamente sobre el pecho. Para sangre, los dedos 'fluyen' por los brazos.",
+            ],
+            truco: "VACUNA = inyección en el brazo (icónica). PASTILLA = algo pequeño que va a la boca. La LSM médica imita la experiencia real del paciente.",
+            error_comun: "Ubicar el corazón en el centro del pecho. En LSM anatómica se coloca ligeramente a la izquierda, como en la realidad física.",
+            actividad_casa: "Doctor Silencioso: Uno es el doctor y diagnostica síntomas usando solo LSM. El otro describe qué le duele (usando señas de ubicación corporal).",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno traza y nombra los principales sistemas del cuerpo humano utilizando el espacio corporal como mapa anatómico en LSM.",
+            competencia: "Anatomía Visual Espacial — SEP Plan 2022",
+        },
+        keywords: ["sistemas cuerpo lsm", "anatomia señas", "salud lengua señas"],
+    });
+}
+if (PRIMARIA_5.materias["historia"]) {
+    PRIMARIA_5.materias["historia"].bloques.push({
+        bloque: 7,
+        nombre: "La Revolución habla (LSM)",
+        meses: "Julio",
+        enClase: ["La Revolución Mexicana en LSM", "La Constitución de 1917", "México moderno: derechos sociales", "Línea del tiempo avanzada"],
+        guiaPapa: {
+            intro: "La Revolución Mexicana cobra vida con señas poderosas: puños girando (revolución), L sobre palma (ley/constitución), D ascendente firme (derechos). La línea temporal espacial permite ordenar eventos en 3D.",
+            comoExplicar: [
+                "REVOLUCIÓN: ambos puños girando uno alrededor del otro con energía. Transmite el cambio radical y la agitación.",
+                "Construyan la línea del tiempo: 1810 (atrás, hombro), 1910 (cuerpo), 1917 (adelante). Los eventos se 'colocan' en el espacio.",
+            ],
+            truco: "LEY/CONSTITUCIÓN = L apoyada sobre la palma abierta (el libro). DERECHO = D moviéndose hacia arriba con firmeza (algo que nos pertenece inherentemente).",
+            error_comun: "Confundir 'revolución' con 'guerra'. La guerra es un conflicto entre dos (manos chocando); la revolución es un cambio total del sistema (puños girando).",
+            actividad_casa: "La Línea del Tiempo Familiar: Ubiquen 5 eventos familiares importantes en la línea temporal de LSM (pasado atrás, presente en el cuerpo, futuro adelante).",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno narra la Revolución Mexicana y sus consecuencias institucionales utilizando señas compuestas, dactilología y la línea temporal tridimensional.",
+            competencia: "Memoria Histórica e Identidad Nacional — SEP Plan 2022",
+        },
+        keywords: ["revolucion mexicana lsm", "constitucion señas", "derechos sociales lsm"],
+    });
+}
+
 // Nota: PRIMARIA_3 y KINDER se importan al comienzo del archivo
 
 export const GRADOS_CONTENIDO: Record<string, GradoContenido> = {

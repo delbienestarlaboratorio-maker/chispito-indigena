@@ -403,6 +403,47 @@ export default async function GradoPage({ params }: Props) {
                             </div>
                         )}
 
+                        {/* BANNER DESTACADO LSM - Primaria 5 */}
+                        {grado.slug === 'primaria-5' && (
+                            <div className="mb-10 rounded-3xl p-6 sm:p-8 relative overflow-hidden transition-all hover:scale-[1.01]" style={{ background: "linear-gradient(135deg, rgba(236, 72, 153, 0.15) 0%, rgba(219, 39, 119, 0.1) 100%)", border: "1px solid rgba(236, 72, 153, 0.3)", boxShadow: "0 10px 40px -10px rgba(236, 72, 153, 0.15)" }}>
+                                <div className="absolute top-0 right-0 -mr-4 -mt-4 text-9xl opacity-5 pointer-events-none">🤟</div>
+                                <div className="relative z-10">
+                                    <div className="flex items-center gap-3 mb-4">
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#EC489925", color: "#F9A8D4" }}>
+                                            🚀 Primaria LSM Nivel 5
+                                        </span>
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#22C55E25", color: "#4ADE80" }}>
+                                            Inclusión SEP
+                                        </span>
+                                    </div>
+                                    <h3 className="font-fredoka text-3xl sm:text-4xl text-white mb-3">
+                                        Lengua de Señas en <span className="text-pink-400">5° Primaria</span> 🤟
+                                    </h3>
+                                    <p className="text-white/70 text-sm sm:text-base max-w-2xl mb-6 leading-relaxed">
+                                        ¡Nivel experto! Domina expresiones idiomáticas, debate con argumentos visuales, construye porcentajes en el aire, traza sistemas anatómicos sobre tu cuerpo y narra la Revolución Mexicana.
+                                    </p>
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+                                        <Link href="/primaria-5/espanol/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(236, 72, 153, 0.1)", border: "1px solid rgba(236, 72, 153, 0.2)" }}>
+                                            <span className="text-pink-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-pink-300">📖 Español</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Expresiones y Poesía →</span>
+                                        </Link>
+                                        <Link href="/primaria-5/historia/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(245, 158, 11, 0.1)", border: "1px solid rgba(245, 158, 11, 0.2)" }}>
+                                            <span className="text-amber-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-amber-300">🏛️ Historia</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Revolución y Constitución →</span>
+                                        </Link>
+                                        <Link href="/primaria-5/ciencias/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(34, 197, 94, 0.1)", border: "1px solid rgba(34, 197, 94, 0.2)" }}>
+                                            <span className="text-green-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-green-300">🫁 C. Naturales</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Sistemas del Cuerpo →</span>
+                                        </Link>
+                                        <Link href="/primaria-5/matematicas/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(139, 92, 246, 0.1)", border: "1px solid rgba(139, 92, 246, 0.2)" }}>
+                                            <span className="text-violet-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-violet-300">📐 Matemáticas</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Porcentajes y Decimales →</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+
                         {/* Materias con contenido masticado (content-primaria.ts) */}
                         {(() => {
                             const gradoMasticado = GRADOS_CONTENIDO[grado.slug];

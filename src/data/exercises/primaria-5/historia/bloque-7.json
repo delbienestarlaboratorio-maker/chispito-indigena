@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-5",
+    "materia": "historia",
+    "bloque": 7,
+    "nombre": "La Revolución habla (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "La Revolución Mexicana en LSM",
+        "La Constitución de 1917",
+        "México moderno: derechos sociales",
+        "Línea del tiempo avanzada"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p5-his-b7-v1-001",
+                "tema": "La Revolución Mexicana",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se expresa 'REVOLUCIÓN' en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "Ambos puños giran uno alrededor del otro en movimiento circular rápido, representando el cambio radical y la agitación social.",
+                    "Se hace la seña de 'guerra' seguida de la seña de 'México'.",
+                    "Se deletrea R-E-V-O-L-U-C-I-Ó-N."
+                ],
+                "respuestaCorrecta": "Ambos puños giran uno alrededor del otro en movimiento circular rápido, representando el cambio radical y la agitación social.",
+                "explicacion": "¡Correcto! La seña de REVOLUCIÓN captura la esencia del concepto: un movimiento circular que voltea todo. Los puños representan fuerza, y el giro representa transformación total. ✊"
+            },
+            {
+                "id": "p5-his-b7-v1-002",
+                "tema": "La Constitución de 1917",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La seña de 'LEY' o 'CONSTITUCIÓN' en LSM se hace con la mano en forma de letra L apoyada sobre la palma abierta de la otra mano, como si la L (Ley) estuviera firmemente plantada sobre un libro o documento.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! La L sobre la palma (el libro/documento) es una seña inicializada perfecta. La ley está 'escrita' y 'establecida' sobre un soporte oficial. 📜"
+            },
+            {
+                "id": "p5-his-b7-v1-003",
+                "tema": "Derechos sociales",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de 'DERECHO' (como en derechos humanos), se usa la mano dominante en forma de letra D, moviendose hacia arriba con firmeza, indicando algo que nos ___ como personas.",
+                "respuestaCorrecta": "pertenece",
+                "explicacion": "¡Así es! El movimiento ascendente firme transmite dignidad y posesión legítima. Un derecho no se pide, se tiene. La seña refleja esa firmeza inherente. ⚖️"
+            },
+            {
+                "id": "p5-his-b7-v1-004",
+                "tema": "Línea del tiempo avanzada",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "En LSM, la línea del tiempo usa el espacio corporal. ¿Cómo ordenarías 3 eventos históricos (Independencia 1810, Revolución 1910, Constitución 1917)?",
+                "opciones": [
+                    "El evento más antiguo (1810) se ubica más atrás sobre el hombro, el intermedio (1910) a la altura del cuerpo, y el más reciente (1917) se proyecta ligeramente hacia adelante.",
+                    "Todos se colocan a la misma altura, solo cambia el número.",
+                    "Se cuentan los años con los dedos de derecha a izquierda."
+                ],
+                "respuestaCorrecta": "El evento más antiguo (1810) se ubica más atrás sobre el hombro, el intermedio (1910) a la altura del cuerpo, y el más reciente (1917) se proyecta ligeramente hacia adelante.",
+                "explicacion": "¡Exacto! La línea temporal de la LSM es ESPACIAL: pasado = atrás, presente = cuerpo, futuro = adelante. Puedes construir líneas del tiempo tridimensionales señalando eventos en diferentes puntos del espacio. 📍"
+            }
+        ]
+    },
+    "generado": "2026-03-10T19:25:00.000Z",
+    "version": "3.0"
+}
