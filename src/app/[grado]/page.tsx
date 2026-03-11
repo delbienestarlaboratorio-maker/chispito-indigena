@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import { AdBannerHorizontal, AdSidebar } from "@/components/AdBanner";
+import BuscadorPagina from "@/components/BuscadorPagina";
 import { notFound } from "next/navigation";
 import KinderUniverse from "@/components/KinderUniverse";
 
@@ -115,6 +116,13 @@ export default async function GradoPage({ params }: Props) {
                         <p className="text-white/40 text-sm mb-8">
                             📅 Mes actual: <span className="text-white/60">{new Date().toLocaleString('es-MX', { month: 'long', year: 'numeric' })}</span>
                         </p>
+
+                        {/* Buscador por página del libro - solo preescolar-1 */}
+                        {grado.slug === 'preescolar-1' && (
+                            <div className="mb-8">
+                                <BuscadorPagina gradoSlug={grado.slug} />
+                            </div>
+                        )}
 
                         {/* BANNER DESTACADO LSM - Preescolar 1 */}
                         {grado.slug === 'preescolar-1' && (
