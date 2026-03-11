@@ -2,299 +2,362 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 3,
-  "nombre": "Movimiento y expresión corporal",
-  "meses": "Periodo 3",
+  "nombre": "Esculturas, animales y arte prehispánico",
+  "libroSep": "K1MLA",
+  "paginasLibro": "95-132",
+  "meses": "Diciembre–Enero",
   "temas": [
-    "Imitación de animales",
-    "Baile con pañuelos",
-    "Las estatuas",
-    "Danza tradicional"
+    "Animales en el arte prehispánico",
+    "Esculturas de barro y piedra",
+    "Fotografía artística",
+    "Crear con las manos"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-artes-b3-v1-001",
-        "tema": "Imitación de animales",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo nos movemos cuando imitamos a un elefante?",
+        "pregunta": "En tu libro hay esculturas de animales hechas hace mucho tiempo. ¿De qué material están hechas?",
         "opciones": [
-          "Despacio, con pasos pesados y balanceando los brazos",
-          "Rápido y saltando",
-          "Quietos y sin moverse",
-          "Girando en círculos rápido"
+          "De barro y piedra",
+          "De plástico",
+          "De papel",
+          "De tela"
         ],
-        "respuestaCorrecta": "Despacio, con pasos pesados y balanceando los brazos",
-        "explicacion": "¡El elefante es grande y pesado! Da pasos lentos y balancea su trompa (los brazos). ¡Exprésalo con tu cuerpo! 🐘",
-        "visual": "🐘"
+        "respuestaCorrecta": "De barro y piedra",
+        "explicacion": "¡Los artistas de antes hacían esculturas de barro y piedra! Eran tan fuertes que todavía las podemos ver hoy. 🏺",
+        "visual": "🏺",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
         "id": "pre1-artes-b3-v1-002",
-        "tema": "Baile con pañuelos",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos usar pañuelos de colores para crear figuras en el aire mientras bailamos.",
+        "pregunta": "En tu libro aparecen esculturas de perros hechas por personas que vivieron en México hace mucho tiempo.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Los pañuelos son como alas de colores! Los movemos al ritmo de la música creando formas en el aire. 🌈",
-        "visual": "🌈"
+        "explicacion": "¡Sí! Los antiguos mexicanos hacían esculturas de perros como el xoloitzcuintle. ¡Los perros eran muy importantes para ellos! 🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
         "id": "pre1-artes-b3-v1-003",
-        "tema": "Las estatuas",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el juego de las estatuas, ¿qué hacemos cuando la música para?",
+        "pregunta": "Además de perros, ¿qué otro animal aparece en las esculturas del libro?",
         "opciones": [
-          "Nos quedamos completamente quietos",
-          "Corremos más rápido",
-          "Aplaudimos tres veces",
-          "Nos sentamos en el suelo"
+          "Un jaguar",
+          "Un dinosaurio",
+          "Un unicornio",
+          "Un elefante"
         ],
-        "respuestaCorrecta": "Nos quedamos completamente quietos",
-        "explicacion": "¡Cuando la música para, somos estatuas! No nos movemos nada. ¡El que se mueve sale! 🗽"
+        "respuestaCorrecta": "Un jaguar",
+        "explicacion": "¡El jaguar! Era el animal más poderoso para los pueblos de México. Lo esculpían en piedra para honrarlo. 🐆",
+        "visual": "🐆",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
         "id": "pre1-artes-b3-v1-004",
-        "tema": "Imitación de animales",
-        "tipo": "fill_blank",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para imitar a un pájaro extendemos los brazos como si fueran ___.",
-        "respuestaCorrecta": "alas",
-        "explicacion": "¡Nuestros brazos son alas! Los extendemos y los movemos suavemente para volar como los pájaros. 🦅",
-        "visual": "🦅"
+        "pregunta": "Una escultura es una obra de arte que podemos tocar porque tiene forma en 3 dimensiones.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! A diferencia de una pintura (que es plana), una escultura tiene alto, ancho y profundidad. ¡Puedes verla desde todos los lados! 🗿"
       },
       {
         "id": "pre1-artes-b3-v1-005",
-        "tema": "Danza tradicional",
-        "tipo": "true_false",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "México tiene danzas tradicionales como el Jarabe Tapatío.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El Jarabe Tapatío es la danza nacional de México. Los bailarines usan trajes típicos y zapateado. ¡Es hermoso! 🇲🇽",
-        "visual": "🇲🇽"
+        "pregunta": "¿Con qué puedes hacer una escultura en tu casa?",
+        "opciones": [
+          "Con plastilina",
+          "Con agua",
+          "Con aire",
+          "Con una canción"
+        ],
+        "respuestaCorrecta": "Con plastilina",
+        "explicacion": "¡La plastilina es perfecta para hacer esculturas! Puedes moldearla con tus manos y crear cualquier figura. 🟡🟢",
+        "visual": "🎨"
       },
       {
         "id": "pre1-artes-b3-v1-006",
-        "tema": "Baile con pañuelos",
+        "tema": "Fotografía artística",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué parte del cuerpo movemos principalmente al bailar con pañuelos?",
+        "pregunta": "En tu libro aparecen fotos en blanco y negro. ¿Quién las tomó?",
         "opciones": [
-          "Los brazos y las muñecas",
-          "Solo los pies",
-          "Solo la cabeza",
-          "Solo las rodillas"
+          "Manuel Álvarez Bravo",
+          "Mario Núñez",
+          "Un niño",
+          "Un robot"
         ],
-        "respuestaCorrecta": "Los brazos y las muñecas",
-        "explicacion": "¡Los brazos y muñecas crean figuras hermosas con el pañuelo! Pero también podemos mover todo el cuerpo. 💃",
-        "visual": "💃"
+        "respuestaCorrecta": "Manuel Álvarez Bravo",
+        "explicacion": "¡Manuel Álvarez Bravo es un famoso fotógrafo mexicano! Sus fotos en blanco y negro son obras de arte. 📷",
+        "visual": "📷",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
       },
       {
         "id": "pre1-artes-b3-v1-007",
-        "tema": "Las estatuas",
+        "tema": "Fotografía artística",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En el juego de las estatuas, podemos congelarnos en poses graciosas y creativas.",
+        "pregunta": "La fotografía también es una forma de hacer arte.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Podemos congelarnos con los brazos en el aire, de puntitas, o en pose de superhéroe. ¡La imaginación manda! 🦸"
+        "explicacion": "¡Sí! La fotografía es arte. Un fotógrafo elige qué capturar, la luz, los colores... ¡cada foto cuenta una historia! 📸",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
       },
       {
         "id": "pre1-artes-b3-v1-008",
-        "tema": "Imitación de animales",
+        "tema": "Crear con las manos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo imitamos a un canguro?",
+        "pregunta": "¿Qué puedes crear con papel, tijeras y pegamento?",
         "opciones": [
-          "Saltando con los pies juntos",
-          "Caminando en cuatro patas",
-          "Corriendo muy rápido",
-          "Arrastrándose en el suelo"
+          "Un collage",
+          "Una canción",
+          "Un baile",
+          "Un sabor"
         ],
-        "respuestaCorrecta": "Saltando con los pies juntos",
-        "explicacion": "¡El canguro salta con los dos pies juntos! Sus patas traseras son muy fuertes. ¡Brinca como un canguro! 🦘",
-        "visual": "🦘"
+        "respuestaCorrecta": "Un collage",
+        "explicacion": "¡Un collage! Es una obra de arte donde pegas diferentes papeles, telas y materiales para crear una imagen. ✂️📄",
+        "visual": "✂️"
       },
       {
         "id": "pre1-artes-b3-v1-009",
-        "tema": "Danza tradicional",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En la danza tradicional mexicana, los bailarines hacen un sonido fuerte con los pies que se llama ___.",
-        "respuestaCorrecta": "zapateado",
-        "explicacion": "¡El zapateado! Los bailarines golpean el suelo con los pies al ritmo de la música. ¡Hace un sonido emocionante! 👟",
-        "visual": "👟"
+        "pregunta": "Las esculturas de animales del libro están hechas de ba___ y piedra.",
+        "respuestaCorrecta": "rro",
+        "explicacion": "¡Barro! El barro es arcilla que se moldea con las manos y después se endurece con el calor del fuego. 🏺🔥",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
         "id": "pre1-artes-b3-v1-010",
-        "tema": "Baile con pañuelos",
+        "tema": "Crear con las manos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Bailar con pañuelos nos ayuda a aprender a coordinar los movimientos de los brazos.",
+        "pregunta": "Con nuestras manos podemos crear arte: dibujar, pintar, moldear y pegar.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mover el pañuelo al ritmo de la música desarrolla la coordinación y expresión artística. ✨"
+        "explicacion": "¡Nuestras manos son las herramientas más poderosas del arte! Con ellas podemos crear todo lo que imaginemos. ✋🎨"
       }
     ],
     "v2": [
       {
         "id": "pre1-artes-b3-v2-001",
-        "tema": "Imitación de animales",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Si imitamos a un gato, ¿qué características del gato expresamos con el cuerpo?",
+        "pregunta": "¿Por qué los antiguos mexicanos hacían esculturas de animales como jaguares y perros?",
         "opciones": [
-          "Movimientos suaves, acechando y estirándose",
-          "Movimientos bruscos y rápidos",
-          "Saltos muy altos",
-          "Solo maullidos"
+          "Porque eran sagrados y los admiraban",
+          "Para venderlos en tiendas",
+          "Para jugar fútbol",
+          "Por aburrimiento"
         ],
-        "respuestaCorrecta": "Movimientos suaves, acechando y estirándose",
-        "explicacion": "Los gatos son elegantes y sigilosos. Se estiran, acechan y se mueven suavemente. ¡Sé un gato elegante! 🐱",
-        "visual": "🐱"
+        "respuestaCorrecta": "Porque eran sagrados y los admiraban",
+        "explicacion": "Los animales eran sagrados para los pueblos antiguos. El jaguar representaba fuerza y el perro era compañero en la vida y la muerte. 🐆🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
         "id": "pre1-artes-b3-v2-002",
-        "tema": "Danza tradicional",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La Danza de los Voladores de Papantla es una danza ceremonial de México donde los hombres giran colgados de un ___.",
-        "respuestaCorrecta": "palo",
-        "explicacion": "¡Increíble! Los Voladores de Papantla giran colgados de un palo alto. ¡Es patrimonio cultural de la Humanidad! 🌀"
+        "pregunta": "El perro sin pelo que los mexicanos amaban se llama xoloitzcuin___.",
+        "respuestaCorrecta": "tle",
+        "explicacion": "¡Xoloitzcuintle! Es un perro sin pelo que ha existido en México desde tiempos prehispánicos. ¡Todavía existe hoy! 🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
         "id": "pre1-artes-b3-v2-003",
-        "tema": "Las estatuas",
-        "tipo": "multiple_choice",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Por qué el juego de las estatuas nos ayuda a desarrollar el control del cuerpo?",
-        "opciones": [
-          "Porque aprendemos a parar el movimiento cuando queremos",
-          "Porque corremos muy rápido",
-          "Porque solo movemos las manos",
-          "Porque escuchamos música"
-        ],
-        "respuestaCorrecta": "Porque aprendemos a parar el movimiento cuando queremos",
-        "explicacion": "Controlar cuándo parar y cuándo moverse es una habilidad muy importante. ¡Las estatuas nos enseñan autocontrol! 🧘"
+        "pregunta": "La diferencia entre una escultura y una pintura es que la escultura ocupa espacio en 3 dimensiones.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Una pintura es plana (2D: arriba-abajo, izquierda-derecha). Una escultura tiene volumen (3D: ¡puedes rodearla!). 🗿"
       },
       {
         "id": "pre1-artes-b3-v2-004",
-        "tema": "Baile con pañuelos",
-        "tipo": "true_false",
+        "tema": "Fotografía artística",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El baile con pañuelos puede ser lento y delicado o rápido y enérgico, según la música.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡El cuerpo y el pañuelo siguen al ritmo de la música! Música suave = movimientos suaves. Música rápida = movimientos enérgicos. 🎵"
+        "pregunta": "Manuel Álvarez Bravo es famoso por sus fotografías. ¿De qué país es?",
+        "opciones": [
+          "México",
+          "Francia",
+          "Japón",
+          "Brasil"
+        ],
+        "respuestaCorrecta": "México",
+        "explicacion": "¡Manuel Álvarez Bravo es mexicano! Es uno de los fotógrafos más importantes de la historia de México. 🇲🇽📷",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
       },
       {
         "id": "pre1-artes-b3-v2-005",
-        "tema": "Imitación de animales",
+        "tema": "Fotografía artística",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Cuando imitamos animales con el cuerpo, usamos la ___ para imaginar cómo se mueven.",
-        "respuestaCorrecta": "imaginación",
-        "explicacion": "La imaginación nos permite meternos en el papel del animal. ¡Eso también es actuación y arte! 🎭"
+        "pregunta": "Las fotos del libro de Manuel Álvarez Bravo son en blanco y ___.",
+        "respuestaCorrecta": "negro",
+        "explicacion": "¡Blanco y negro! Antes no había fotos a colores. Las fotos en blanco y negro tienen un encanto especial y artístico. 🖤🤍",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
       },
       {
         "id": "pre1-artes-b3-v2-006",
-        "tema": "Danza tradicional",
+        "tema": "Crear con las manos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Para qué servían las danzas tradicionales en las culturas antiguas de México?",
+        "pregunta": "¿Cuántas formas de arte hay?",
         "opciones": [
-          "Para agradecer a la naturaleza y celebrar",
-          "Solo para divertirse",
-          "Para comunicarse con otros países",
-          "Para hacer ejercicio únicamente"
+          "Muchas: pintura, escultura, música, danza, fotografía, teatro...",
+          "Solo una",
+          "Dos: dibujar y cantar",
+          "Ninguna"
         ],
-        "respuestaCorrecta": "Para agradecer a la naturaleza y celebrar",
-        "explicacion": "Las danzas prehispánicas eran ceremonias sagradas para agradecer la lluvia, el sol, la cosecha. ¡El arte tenía un significado profundo! 🌽☀️"
+        "respuestaCorrecta": "Muchas: pintura, escultura, música, danza, fotografía, teatro...",
+        "explicacion": "¡El arte tiene muchas formas! Pintura, escultura, música, danza, fotografía, teatro, cine... ¡El arte está en todas partes! 🎨🎵🎭📷"
       },
       {
         "id": "pre1-artes-b3-v2-007",
-        "tema": "Las estatuas",
-        "tipo": "fill_blank",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En el juego de estatuas con un compañero, uno hace una pose y el otro la ___ exactamente.",
-        "respuestaCorrecta": "copia",
-        "explicacion": "¡Como un espejo! Copiar la pose del compañero nos ayuda a observar con atención y a coordinar el cuerpo. 🪞"
+        "pregunta": "En la página 121 de tu libro hay una escultura de piedra gris con forma de perro o coyote.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Es una escultura de piedra gris con forma geométrica — las líneas rectas le dan un aspecto moderno aunque tiene miles de años. 🐺",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
         "id": "pre1-artes-b3-v2-008",
-        "tema": "Baile con pañuelos",
+        "tema": "Esculturas de barro y piedra",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Si la música que acompaña el baile con pañuelos es muy triste, ¿cómo movemos el pañuelo?",
+        "pregunta": "¿Qué pasa cuando el barro se mete al fuego o al horno?",
         "opciones": [
-          "Lentamente, con movimientos suaves y hacia abajo",
-          "Rápido y con saltos",
-          "Sin moverlo para nada",
-          "Solo en círculos"
+          "Se endurece y se convierte en cerámica",
+          "Se derrite",
+          "Desaparece",
+          "Se convierte en agua"
         ],
-        "respuestaCorrecta": "Lentamente, con movimientos suaves y hacia abajo",
-        "explicacion": "La tristeza se expresa con movimientos lentos y caídos. ¡El arte nos ayuda a expresar emociones! 😢💜"
+        "respuestaCorrecta": "Se endurece y se convierte en cerámica",
+        "explicacion": "¡El calor endurece el barro! Así es como los artistas hacían vasijas, platos y esculturas que duran miles de años. 🔥🏺"
       },
       {
         "id": "pre1-artes-b3-v2-009",
-        "tema": "Imitación de animales",
+        "tema": "Fotografía artística",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "A través de la imitación de animales, los niños aprenden a observar cómo se mueven los seres vivos.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! Para imitar bien a un animal primero debemos observarlo. ¡El arte enseña a mirar el mundo con atención! 👁️"
+        "pregunta": "Una fotografía artística solo muestra cosas bonitas y nunca cosas cotidianas.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! La fotografía artística puede mostrar cosas cotidianas — una silla, una ventana, una calle. ¡El arte está en cómo se mira! 👁️📷"
       },
       {
         "id": "pre1-artes-b3-v2-010",
-        "tema": "Danza tradicional",
-        "tipo": "true_false",
+        "tema": "Crear con las manos",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las danzas tradicionales mexicanas varían según la región del país.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Jalisco tiene el Jarabe Tapatío, Veracruz tiene la Bamba, Oaxaca tiene la Zandunga. ¡México es muy diverso! 🗺️🇲🇽"
+        "pregunta": "Para hacer un collage necesitas papel, tijeras y pega___.",
+        "respuestaCorrecta": "mento",
+        "explicacion": "¡Pegamento! Con papel, tijeras y pegamento puedes crear collages increíbles mezclando diferentes materiales. ✂️💎"
       }
     ],
     "preview": [
       {
         "id": "pre1-artes-b3-v1-001",
-        "tema": "Imitación de animales",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo nos movemos cuando imitamos a un elefante?",
+        "pregunta": "¿De qué están hechas las esculturas de animales de tu libro?",
         "opciones": [
-          "Despacio, con pasos pesados y balanceando los brazos",
-          "Rápido y saltando",
-          "Quietos y sin moverse",
-          "Girando en círculos rápido"
+          "De barro y piedra",
+          "De plástico",
+          "De papel",
+          "De tela"
         ],
-        "respuestaCorrecta": "Despacio, con pasos pesados y balanceando los brazos",
-        "explicacion": "¡El elefante es grande y pesado! Da pasos lentos y balancea su trompa. 🐘",
-        "visual": "🐘"
+        "respuestaCorrecta": "De barro y piedra",
+        "explicacion": "¡De barro y piedra! ¡Tienen miles de años! 🏺",
+        "visual": "🏺",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-artes-b3-v1-003",
-        "tema": "Las estatuas",
+        "id": "pre1-artes-b3-v1-006",
+        "tema": "Fotografía artística",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el juego de las estatuas, ¿qué hacemos cuando la música para?",
+        "pregunta": "¿Quién tomó las fotos en blanco y negro del libro?",
         "opciones": [
-          "Nos quedamos completamente quietos",
-          "Corremos más rápido",
-          "Aplaudimos tres veces",
-          "Nos sentamos en el suelo"
+          "Manuel Álvarez Bravo",
+          "Mario Núñez",
+          "Un niño",
+          "Un robot"
         ],
-        "respuestaCorrecta": "Nos quedamos completamente quietos",
-        "explicacion": "¡Cuando la música para, somos estatuas! 🗽"
+        "respuestaCorrecta": "Manuel Álvarez Bravo",
+        "explicacion": "¡Manuel Álvarez Bravo, fotógrafo mexicano! 📷",
+        "visual": "📷",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-artes-b3-v1-002",
-        "tema": "Baile con pañuelos",
+        "id": "pre1-artes-b3-v1-004",
+        "tema": "Esculturas de barro y piedra",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos usar pañuelos de colores para crear figuras en el aire mientras bailamos.",
+        "pregunta": "Una escultura podemos tocarla porque tiene forma en 3 dimensiones.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Los pañuelos son como alas de colores! 🌈"
+        "explicacion": "¡Sí! Las esculturas se pueden ver desde todos lados. 🗿"
       }
     ]
   },
-  "generado": "2026-03-09T03:45:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T11:25:00.000Z",
+  "version": "4.0-SEP"
 }

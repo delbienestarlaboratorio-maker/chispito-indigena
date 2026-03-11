@@ -2,299 +2,335 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 2,
-  "nombre": "Mi entorno natural",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Mi familia y las personas que me rodean",
+  "libroSep": "K1LPA",
+  "paginasLibro": "35-55",
+  "meses": "Octubre–Noviembre",
   "temas": [
-    "El agua",
-    "El aire",
-    "Las plantas",
-    "Los insectos",
-    "El clima"
+    "Nuestras familias son distintas",
+    "Mis amigos de la escuela",
+    "Quiénes me cuidan",
+    "Sentimientos y emociones"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "pre1-con-b2-v1-001",
-        "tema": "El agua",
+        "id": "pre1-conoc-b2-v1-001",
+        "tema": "Nuestras familias son distintas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué necesitamos el agua?",
+        "pregunta": "En tu libro dice que 'nuestras familias son distintas'. ¿Qué significa?",
         "opciones": [
-          "Para beber y bañarnos",
-          "Solo para los peces",
-          "Para hacer barro únicamente",
-          "No la necesitamos"
+          "Que cada familia es diferente y especial",
+          "Que solo hay un tipo de familia",
+          "Que las familias no importan",
+          "Que todas son iguales"
         ],
-        "respuestaCorrecta": "Para beber y bañarnos",
-        "explicacion": "¡El agua es vida! La bebemos, nos bañamos, cocinamos y regamos plantas con ella. ¡Sin agua no hay vida! 💧",
-        "visual": "💧"
+        "respuestaCorrecta": "Que cada familia es diferente y especial",
+        "explicacion": "¡Cada familia es única y especial! Hay familias grandes, pequeñas, con abuelos, con mamá, con papá... ¡Todas son hermosas! 👨‍👩‍👧‍👦",
+        "visual": "👨‍👩‍👧",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "pre1-con-b2-v1-002",
-        "tema": "Las plantas",
+        "id": "pre1-conoc-b2-v1-002",
+        "tema": "Nuestras familias son distintas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las flores dan semillas que crecerán en nuevas plantas",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Las flores producen frutos con semillas. Esas semillas caen al suelo y si hay agua y sol, ¡nacen nuevas plantas! 🌸🌱"
+        "pregunta": "Todas las familias son iguales, siempre tienen mamá, papá e hijos.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Las familias son diferentes: algunas tienen solo mamá, otras tienen abuelos, otras tienen tíos. ¡Todas son válidas y llenas de amor! ❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "pre1-con-b2-v1-003",
-        "tema": "El clima",
+        "id": "pre1-conoc-b2-v1-003",
+        "tema": "Mis amigos de la escuela",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos cuando llueve para no mojarnos?",
+        "pregunta": "¿Qué cosas puedes hacer con tus amigos en la escuela?",
         "opciones": [
-          "Un paraguas ☂️",
-          "Gafas de sol 🕶️",
-          "Una bufanda",
-          "Un sombrero de paja"
+          "Jugar, platicar y aprender juntos",
+          "Pelear",
+          "Ignorarlos",
+          "Nada"
         ],
-        "respuestaCorrecta": "Un paraguas ☂️",
-        "explicacion": "¡El paraguas nos protege de la lluvia! Fue inventado hace miles de años en China. ¡Genial invento! ☂️"
+        "respuestaCorrecta": "Jugar, platicar y aprender juntos",
+        "explicacion": "¡Los amigos hacen la escuela más divertida! Juntos jugamos, platicamos, compartimos y aprendemos. 👫😊",
+        "visual": "👫"
       },
       {
-        "id": "pre1-con-b2-v1-004",
-        "tema": "Los insectos",
+        "id": "pre1-conoc-b2-v1-004",
+        "tema": "Quiénes me cuidan",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Mi mamá, mi papá, mis abuelos y mis maestros son personas que me cuidan.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Hay muchas personas que te quieren y cuidan. ¡Son tu red de amor y protección! 🤗❤️"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-005",
+        "tema": "Sentimientos y emociones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando algo te hace sentir contento, tu emoción se llama...",
+        "opciones": [
+          "Alegría",
+          "Tristeza",
+          "Enojo",
+          "Miedo"
+        ],
+        "respuestaCorrecta": "Alegría",
+        "explicacion": "¡Alegría! Es la emoción que sentimos cuando estamos contentos. ¡Como cuando juegas con tus amigos! 😊🌈",
+        "visual": "😊"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-006",
+        "tema": "Sentimientos y emociones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Está bien sentir tristeza a veces. Todas las emociones son normales.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Todas las emociones son normales! A veces estamos tristes, a veces contentos. Lo importante es hablar de lo que sentimos. 💙"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-007",
+        "tema": "Nuestras familias son distintas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Las abejas producen la ___ que comemos con el desayuno",
-        "respuestaCorrecta": "miel",
-        "explicacion": "¡Las abejas hacen miel! Visitan flores, recogen néctar y lo transforman en miel en su colmena. ¡Son trabajadoras increíbles! 🐝🍯"
+        "pregunta": "Las personas de mi familia que me quieren mucho son mi fami___.",
+        "respuestaCorrecta": "lia",
+        "explicacion": "¡Tu familia! Son las personas que te aman, te cuidan y te acompañan. ¡Tu familia es tu tesoro! 💎❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "pre1-con-b2-v1-005",
-        "tema": "El aire",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "No podemos ver el aire pero sí podemos sentirlo cuando sopla el viento",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡El viento es el aire en movimiento! Lo sentimos en la cara y vemos sus efectos en los árboles y las nubes. 🌬️"
-      },
-      {
-        "id": "pre1-con-b2-v1-006",
-        "tema": "El agua",
+        "id": "pre1-conoc-b2-v1-008",
+        "tema": "Mis amigos de la escuela",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿En cuál de estos estados puede estar el agua?",
+        "pregunta": "Para ser un buen amigo, lo más importante es...",
         "opciones": [
-          "Líquida, sólida (hielo) y gaseosa (vapor)",
-          "Solo líquida",
-          "Solo sólida",
-          "Solo gaseosa"
+          "Respetar, compartir y escuchar",
+          "Pegar",
+          "Gritar",
+          "No hablar"
         ],
-        "respuestaCorrecta": "Líquida, sólida (hielo) y gaseosa (vapor)",
-        "explicacion": "¡El agua es especial! Líquida en el vaso, sólida como el hielo y gaseosa como el vapor del café caliente. 💧🧊🌫️"
+        "respuestaCorrecta": "Respetar, compartir y escuchar",
+        "explicacion": "¡Los buenos amigos se respetan, comparten y se escuchan! La amistad se cuida con cariño. 🤝💖",
+        "visual": "🤝"
       },
       {
-        "id": "pre1-con-b2-v1-007",
-        "tema": "Las plantas",
+        "id": "pre1-conoc-b2-v1-009",
+        "tema": "Quiénes me cuidan",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué parte de la planta absorbe el agua del suelo?",
+        "pregunta": "Si te sientes mal o te duele algo, ¿a quién le dices?",
         "opciones": [
-          "Las raíces",
-          "Las hojas",
-          "Las flores",
-          "Los frutos"
+          "A un adulto de confianza",
+          "A nadie",
+          "A un extraño",
+          "A un gatito"
         ],
-        "respuestaCorrecta": "Las raíces",
-        "explicacion": "¡Las raíces son la 'boca' de la planta! Absorben agua y nutrientes del suelo para alimentar a toda la planta. 🌱"
+        "respuestaCorrecta": "A un adulto de confianza",
+        "explicacion": "¡Siempre le dices a un adulto de confianza! Tu mamá, papá, abuelita o maestra te pueden ayudar. 🤗"
       },
       {
-        "id": "pre1-con-b2-v1-008",
-        "tema": "Los insectos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las mariposas empiezan su vida como orugas",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! La metamorfosis: huevo → oruga → crisálida → mariposa. ¡Una de las transformaciones más asombrosas de la naturaleza! 🦋"
-      },
-      {
-        "id": "pre1-con-b2-v1-009",
-        "tema": "El clima",
+        "id": "pre1-conoc-b2-v1-010",
+        "tema": "Sentimientos y emociones",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Cuando hace mucho frío y el cielo está nublado, puede caer ___",
-        "respuestaCorrecta": "nieve",
-        "explicacion": "¡La nieve! Es agua congelada que cae en copos. En las montañas altas de México también nieva. ❄️",
-        "visual": "❄️"
-      },
-      {
-        "id": "pre1-con-b2-v1-010",
-        "tema": "El aire",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué necesitamos respirar para vivir?",
-        "opciones": [
-          "Oxígeno del aire",
-          "Solo agua",
-          "Dióxido de carbono",
-          "Hidrógeno"
-        ],
-        "respuestaCorrecta": "Oxígeno del aire",
-        "explicacion": "¡El oxígeno! Las plantas producen oxígeno. Por eso son tan importantes para la vida en la Tierra. 🌳💨"
+        "pregunta": "Cuando algo me da mucho gusto sonrío porque siento ale___.",
+        "respuestaCorrecta": "gría",
+        "explicacion": "¡Alegría! La sonrisa es la señal de que estamos contentos. ¡Sonreír es contagioso! 😊🌞"
       }
     ],
     "v2": [
       {
-        "id": "pre1-con-b2-v2-001",
-        "tema": "El agua",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El proceso donde el agua de los ríos y mares sube al cielo por el calor del sol se llama ___",
-        "respuestaCorrecta": "evaporación",
-        "explicacion": "¡La evaporación! El sol calienta el agua, que se convierte en vapor y sube formando nubes. ¡El ciclo del agua! ☀️💧"
-      },
-      {
-        "id": "pre1-con-b2-v2-002",
-        "tema": "Los insectos",
+        "id": "pre1-conoc-b2-v2-001",
+        "tema": "Nuestras familias son distintas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántas patas tienen los insectos?",
+        "pregunta": "En el libro aparecen dos familias diferentes. ¿Qué tienen en común?",
         "opciones": [
-          "4",
-          "6",
-          "8",
-          "10"
+          "Ambas se aman y se cuidan",
+          "Nada",
+          "Son idénticas",
+          "Se pelean"
         ],
-        "respuestaCorrecta": "6",
-        "explicacion": "¡6 patas! Todos los insectos tienen 6 patas y 3 partes del cuerpo: cabeza, tórax y abdomen. ¡Las arañas tienen 8 patas y NO son insectos! 🐛"
+        "respuestaCorrecta": "Ambas se aman y se cuidan",
+        "explicacion": "¡Aunque las familias se ven diferentes por fuera, por dentro todas comparten lo mismo: amor y cuidado! ❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "pre1-con-b2-v2-003",
-        "tema": "Las plantas",
+        "id": "pre1-conoc-b2-v2-002",
+        "tema": "Mis amigos de la escuela",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Las cactáceas (cactus) pueden sobrevivir sin agua por mucho tiempo",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Los cactus guardan agua en su tallo grueso! Por eso viven en el desierto. ¡México tiene la mayor variedad de cactus del mundo! 🌵🇲🇽"
+        "pregunta": "Para tener amigos, todos tienen que ser iguales a mí, pensar igual y verse igual.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Los amigos pueden ser muy diferentes a ti. ¡La diversidad hace la amistad más rica y divertida! 🌈👫"
       },
       {
-        "id": "pre1-con-b2-v2-004",
-        "tema": "El clima",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué instrumento mide la temperatura?",
-        "opciones": [
-          "El termómetro",
-          "El microscopio",
-          "La regla",
-          "La brújula"
-        ],
-        "respuestaCorrecta": "El termómetro",
-        "explicacion": "¡El termómetro! Mide cuánto calor o frío hace. La temperatura se mide en grados Celsius (°C) en México. 🌡️"
-      },
-      {
-        "id": "pre1-con-b2-v2-005",
-        "tema": "El aire",
+        "id": "pre1-conoc-b2-v2-003",
+        "tema": "Quiénes me cuidan",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La contaminación del aire se produce cuando hay demasiado ___ en la atmósfera",
-        "respuestaCorrecta": "smog",
-        "explicacion": "¡El smog! Es una mezcla de humo y niebla de los coches y fábricas. Respirarlo es dañino. ¡Por eso hay que cuidar el aire! 🌫️🚗"
+        "pregunta": "La persona que me enseña en la escuela es mi maes___.",
+        "respuestaCorrecta": "tra",
+        "explicacion": "¡Tu maestra o maestro! Te ayudan a aprender, descubrir y crecer. ¡Son personas muy importantes en tu vida! 👩‍🏫📚"
       },
       {
-        "id": "pre1-con-b2-v2-006",
-        "tema": "El agua",
+        "id": "pre1-conoc-b2-v2-004",
+        "tema": "Sentimientos y emociones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué porcentaje del cuerpo humano es agua?",
+        "pregunta": "¿Cuáles son las 4 emociones básicas?",
         "opciones": [
-          "10%",
-          "30%",
-          "60-70%",
-          "90%"
+          "Alegría, tristeza, miedo y enojo",
+          "Solo alegría",
+          "Aburrimiento y sueño",
+          "Hambre y sed"
         ],
-        "respuestaCorrecta": "60-70%",
-        "explicacion": "¡60-70% de nuestro cuerpo es agua! Por eso hay que tomar al menos 8 vasos al día para mantenernos saludables. 💧🏃"
+        "respuestaCorrecta": "Alegría, tristeza, miedo y enojo",
+        "explicacion": "¡Las 4 emociones básicas! Todas son normales y necesarias. Lo importante es saber nombrarlas. 😊😢😨😡"
       },
       {
-        "id": "pre1-con-b2-v2-007",
-        "tema": "Los insectos",
+        "id": "pre1-conoc-b2-v2-005",
+        "tema": "Nuestras familias son distintas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Las abejas necesitan las flores y las flores necesitan las abejas para reproducirse",
+        "pregunta": "En algunas familias viven los abuelos junto con los nietos, y eso es bonito.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Simbiosis perfecta! Las abejas polinizan las flores (les llevan el polencillo) y a cambio reciben el néctar. ¡Interdependencia! 🐝🌸"
+        "explicacion": "¡Sí! Muchas familias mexicanas incluyen a los abuelos. Ellos comparten sabiduría, cariño e historias. 👴👵❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "pre1-con-b2-v2-008",
-        "tema": "Las plantas",
+        "id": "pre1-conoc-b2-v2-006",
+        "tema": "Mis amigos de la escuela",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si un compañero está solo y triste, ¿qué puedes hacer?",
+        "opciones": [
+          "Invitarlo a jugar y preguntarle cómo se siente",
+          "Reírte",
+          "Ignorarlo",
+          "Correr"
+        ],
+        "respuestaCorrecta": "Invitarlo a jugar y preguntarle cómo se siente",
+        "explicacion": "¡Ser amable y acercarte! A veces solo necesita que alguien le pregunte '¿estás bien?'. ¡Eso cambia todo! 🤗"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-007",
+        "tema": "Sentimientos y emociones",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El proceso por el cual las plantas convierten luz solar en alimento se llama ___",
-        "respuestaCorrecta": "fotosíntesis",
-        "explicacion": "¡Foto-sín-te-sis! Las plantas usan luz + agua + CO2 para producir glucosa (su alimento) y liberan oxígeno. ¡Las plantas nos alimentan y nos dan aire! 🌿"
+        "pregunta": "Cuando algo me asusta, la emoción que siento se llama mi___.",
+        "respuestaCorrecta": "edo",
+        "explicacion": "¡Miedo! Es normal sentir miedo a veces. Lo valiente es decirlo y pedir ayuda. 💪😨"
       },
       {
-        "id": "pre1-con-b2-v2-009",
-        "tema": "El clima",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas estaciones del año hay?",
-        "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
-        ],
-        "respuestaCorrecta": "4",
-        "explicacion": "¡4 estaciones! Primavera 🌸, Verano ☀️, Otoño 🍂, Invierno ❄️. En México no siempre se sienten las cuatro, pero existen. 🌎"
-      },
-      {
-        "id": "pre1-con-b2-v2-010",
-        "tema": "El aire",
+        "id": "pre1-conoc-b2-v2-008",
+        "tema": "Quiénes me cuidan",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Plantar árboles ayuda a limpiar el aire que respiramos",
+        "pregunta": "Nunca debes irte con una persona desconocida, aunque te ofrezca dulces.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Los árboles absorben CO2 y liberan oxígeno! Por eso plantar árboles es una de las mejores cosas que podemos hacer por el planeta. 🌳💚"
+        "explicacion": "¡Nunca te vayas con desconocidos! Si alguien que no conoces quiere llevarte, di NO y corre a un adulto de confianza. 🚫"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-009",
+        "tema": "Nuestras familias son distintas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es lo más importante que todas las familias deben tener?",
+        "opciones": [
+          "Amor, respeto y comunicación",
+          "Una casa grande",
+          "Mucho dinero",
+          "Muchos juguetes"
+        ],
+        "respuestaCorrecta": "Amor, respeto y comunicación",
+        "explicacion": "¡Lo más importante es el amor, respeto y comunicación! Con eso, cualquier familia es feliz. ❤️🗣️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
+      },
+      {
+        "id": "pre1-conoc-b2-v2-010",
+        "tema": "Sentimientos y emociones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Hablar de lo que sentimos nos ayuda a estar mejor.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Expresar nuestras emociones es sano. Cuando dices 'estoy triste' o 'estoy enojado', empiezas a sentirte mejor. 💬❤️"
       }
     ],
     "preview": [
       {
-        "id": "pre1-con-b2-v1-001",
-        "tema": "El agua",
+        "id": "pre1-conoc-b2-v1-001",
+        "tema": "Nuestras familias son distintas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué necesitamos el agua?",
+        "pregunta": "'Nuestras familias son distintas' — ¿Qué significa?",
         "opciones": [
-          "Para beber y bañarnos",
-          "Solo para los peces",
-          "Para hacer barro únicamente",
-          "No la necesitamos"
+          "Que cada familia es diferente y especial",
+          "Que solo hay un tipo",
+          "Que no importan",
+          "Que son iguales"
         ],
-        "respuestaCorrecta": "Para beber y bañarnos",
-        "explicacion": "¡El agua es vida! 💧"
+        "respuestaCorrecta": "Que cada familia es diferente y especial",
+        "explicacion": "¡Todas las familias son hermosas! 👨‍👩‍👧‍👦",
+        "visual": "👨‍👩‍👧",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-con-b2-v1-004",
-        "tema": "Los insectos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Las abejas producen la ___ que comemos con el desayuno",
-        "respuestaCorrecta": "miel",
-        "explicacion": "¡Las abejas hacen miel! 🐝🍯"
-      },
-      {
-        "id": "pre1-con-b2-v2-002",
-        "tema": "Los insectos",
+        "id": "pre1-conoc-b2-v1-005",
+        "tema": "Sentimientos y emociones",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas patas tienen los insectos?",
+        "nivel": "v1",
+        "pregunta": "Cuando estás contento, tu emoción se llama...",
         "opciones": [
-          "4",
-          "6",
-          "8",
-          "10"
+          "Alegría",
+          "Tristeza",
+          "Enojo",
+          "Miedo"
         ],
-        "respuestaCorrecta": "6",
-        "explicacion": "¡6 patas! 🐛"
+        "respuestaCorrecta": "Alegría",
+        "explicacion": "¡Alegría! 😊🌈",
+        "visual": "😊"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-004",
+        "tema": "Quiénes me cuidan",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Mi mamá, papá, abuelos y maestros me cuidan.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Son tu red de amor! 🤗❤️"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T11:45:00.000Z",
+  "version": "4.0-SEP"
 }

@@ -28,8 +28,17 @@ const MAX_PARALELO = 3;  // Descargas simultáneas de páginas
 // ── Catálogo completo de libros CONALITEG 2025 ─────────────────
 // Formato: { codigo, nombre, grado, nivel, materia }
 const LIBROS = [
-    // ════ PREESCOLAR ════
+    // ════ PREESCOLAR — Libros de apoyo (Fase 2, todos los grados) ════
+    { codigo: "K0CFA", nombre: "Crianza para la libertad (Familias)", grado: "preescolar-apoyo", nivel: "preescolar", materia: "familias" },
+    { codigo: "K0LPM", nombre: "Un libro sin recetas (Maestros)", grado: "preescolar-apoyo", nivel: "preescolar", materia: "maestros" },
+    { codigo: "K0MTM", nombre: "Modalidades de trabajo (codiseño)", grado: "preescolar-apoyo", nivel: "preescolar", materia: "modalidades" },
+    { codigo: "K0TAM", nombre: "Ficheros de acción transformadora", grado: "preescolar-apoyo", nivel: "preescolar", materia: "ficheros" },
+
+    // ════ PREESCOLAR 1° ════
     { codigo: "K1MLA", nombre: "Múltiples Lenguajes", grado: "preescolar-1", nivel: "preescolar", materia: "lenguaje" },
+    { codigo: "K1LPA", nombre: "Explorar e imaginar", grado: "preescolar-1", nivel: "preescolar", materia: "explorar" },
+    { codigo: "K1LMA", nombre: "Jugar e imaginar (Material Manipulable)", grado: "preescolar-1", nivel: "preescolar", materia: "material-manipulable" },
+    { codigo: "K1LDG", nombre: "Láminas de diálogo", grado: "preescolar-1", nivel: "preescolar", materia: "laminas-dialogo" },
     { codigo: "K1SDA", nombre: "Nuestros Saberes", grado: "preescolar-1", nivel: "preescolar", materia: "saberes" },
     { codigo: "K2MLA", nombre: "Múltiples Lenguajes", grado: "preescolar-2", nivel: "preescolar", materia: "lenguaje" },
     { codigo: "K2SDA", nombre: "Nuestros Saberes", grado: "preescolar-2", nivel: "preescolar", materia: "saberes" },

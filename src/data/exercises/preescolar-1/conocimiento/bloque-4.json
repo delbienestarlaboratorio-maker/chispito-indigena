@@ -2,299 +2,312 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 4,
-  "nombre": "Mi Mexico querido",
-  "meses": "Febrero-Marzo",
+  "nombre": "Mi cuerpo y cómo cuidarlo",
+  "libroSep": "K1LPA",
+  "paginasLibro": "81-110",
+  "meses": "Febrero–Marzo",
   "temas": [
-    "México y sus colores",
-    "Comida mexicana",
-    "Animales de México",
-    "Tradiciones",
-    "Geografía básica"
+    "Las partes de mi cuerpo",
+    "Los 5 sentidos",
+    "Alimentación saludable",
+    "Higiene y salud"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "pre1-con-b4-v1-001",
-        "tema": "México y sus colores",
+        "id": "pre1-conoc-b4-v1-001",
+        "tema": "Las partes de mi cuerpo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿De qué colores es la bandera de México?",
+        "pregunta": "¿Con qué parte del cuerpo vemos?",
         "opciones": [
-          "Verde, blanco y rojo",
-          "Azul, blanco y rojo",
-          "Amarillo, verde y rojo",
-          "Rojo, negro y blanco"
+          "Con los ojos 👀",
+          "Con las orejas 👂",
+          "Con la nariz 👃",
+          "Con la boca 👄"
         ],
-        "respuestaCorrecta": "Verde, blanco y rojo",
-        "explicacion": "¡Verde, Blanco y Rojo! La bandera mexicana tiene el águila devorando la serpiente en el centro. ¡Símbolo patrio! 🇲🇽",
-        "visual": "🇲🇽"
+        "respuestaCorrecta": "Con los ojos 👀",
+        "explicacion": "¡Con los ojos! Los ojos nos permiten ver los colores, las formas y todo lo hermoso del mundo. 👀🌈",
+        "visual": "👀"
       },
       {
-        "id": "pre1-con-b4-v1-002",
-        "tema": "Comida mexicana",
+        "id": "pre1-conoc-b4-v1-002",
+        "tema": "Las partes de mi cuerpo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las tortillas de maíz son un alimento típico de México",
+        "pregunta": "Las manos nos sirven para tocar, agarrar y escribir.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Las tortillas son nuestras! El maíz fue domesticado en México hace miles de años. Las tortillas son parte de nuestra identidad. 🌽🫓"
+        "explicacion": "¡Nuestras manos son increíbles! Podemos tocar, agarrar, dibujar, escribir, aplaudir y dar abrazos. ✋🤗"
       },
       {
-        "id": "pre1-con-b4-v1-003",
-        "tema": "Animales de México",
+        "id": "pre1-conoc-b4-v1-003",
+        "tema": "Los 5 sentidos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es un animal que SOLO existe en México (endémico)?",
+        "pregunta": "¿Cuáles son los 5 sentidos del cuerpo?",
         "opciones": [
-          "El ajolote 🦎",
-          "El perro",
-          "El gato",
-          "El caballo"
+          "Vista, oído, olfato, gusto y tacto",
+          "Solo 2: ver y oír",
+          "Solo 1: tocar",
+          "No tenemos sentidos"
         ],
-        "respuestaCorrecta": "El ajolote 🦎",
-        "explicacion": "¡El ajolote! Este animal anfibio único vive en los canales de Xochimilco, CDMX. ¡Es símbolo de México y está en peligro! 🦎🇲🇽",
-        "visual": "🦎"
+        "respuestaCorrecta": "Vista, oído, olfato, gusto y tacto",
+        "explicacion": "¡Tenemos 5 sentidos! Con los ojos vemos, con los oídos escuchamos, con la nariz olemos, con la lengua probamos y con la piel tocamos. 👁️👂👃👅✋",
+        "visual": "👁️"
       },
       {
-        "id": "pre1-con-b4-v1-004",
-        "tema": "Tradiciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En el Día de Muertos, los mexicanos ponen ofrendas con flores de ___ para guiar a los difuntos",
-        "respuestaCorrecta": "cempasúchil",
-        "explicacion": "¡El cempasúchil! La flor naranja brillante de Día de Muertos. Su aroma guía a las almas de regreso. ¡Tradición hermosa! 🌼"
-      },
-      {
-        "id": "pre1-con-b4-v1-005",
-        "tema": "Geografía básica",
+        "id": "pre1-conoc-b4-v1-004",
+        "tema": "Los 5 sentidos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "México está en el continente americano",
+        "pregunta": "Con la nariz podemos oler las flores y la comida.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! México está en América del Norte. Limita al norte con EE.UU. y al sur con Guatemala y Belice. ¡Somos América! 🌎"
+        "explicacion": "¡La nariz es para oler! Puedes oler flores bonitas, comida rica y también olores feos que te avisan de peligro. 👃🌺"
       },
       {
-        "id": "pre1-con-b4-v1-006",
-        "tema": "Comida mexicana",
+        "id": "pre1-conoc-b4-v1-005",
+        "tema": "Alimentación saludable",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿De dónde viene el chocolate?",
+        "pregunta": "¿Qué alimentos son más saludables para tu cuerpo?",
         "opciones": [
-          "Del cacao, una planta de México y Centroamérica",
-          "De la leche",
-          "Del trigo",
-          "De las uvas"
+          "Frutas y verduras 🥦🍎",
+          "Solo dulces 🍬",
+          "Solo refrescos 🥤",
+          "Solo papitas 🍟"
         ],
-        "respuestaCorrecta": "Del cacao, una planta de México y Centroamérica",
-        "explicacion": "¡El chocolate es invención mexicana! Los mayas y aztecas ya bebían 'xocolatl' (bebida de cacao) hace miles de años. 🍫🇲🇽"
+        "respuestaCorrecta": "Frutas y verduras 🥦🍎",
+        "explicacion": "¡Las frutas y verduras son lo mejor! Tienen vitaminas que te hacen fuerte y sano. ¡Come muchos colores! 🥦🍎🥕🍌",
+        "visual": "🥦"
       },
       {
-        "id": "pre1-con-b4-v1-007",
-        "tema": "Tradiciones",
+        "id": "pre1-conoc-b4-v1-006",
+        "tema": "Alimentación saludable",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El Grito de Independencia se celebra el 15 de septiembre en México",
+        "pregunta": "Tomar agua es mejor para tu cuerpo que tomar refresco.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡El 15 de septiembre a medianoche! El Presidente toca la campana y grita '¡Viva México!' ¡La fiesta patria más emocionante! 🇲🇽🔔"
+        "explicacion": "¡El agua es la mejor bebida! Tu cuerpo necesita agua para funcionar bien. Los refrescos tienen mucha azúcar. 💧"
       },
       {
-        "id": "pre1-con-b4-v1-008",
-        "tema": "Animales de México",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El águila de la bandera mexicana está devorando una ___",
-        "respuestaCorrecta": "serpiente",
-        "explicacion": "¡El águila y la serpiente! Según la leyenda, los aztecas fundaron Tenochtitlán donde vieron esta señal divina. 🦅🐍"
-      },
-      {
-        "id": "pre1-con-b4-v1-009",
-        "tema": "Geografía básica",
+        "id": "pre1-conoc-b4-v1-007",
+        "tema": "Higiene y salud",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es la capital de México?",
+        "pregunta": "¿Cuándo debes lavarte las manos?",
         "opciones": [
-          "Ciudad de México",
-          "Guadalajara",
-          "Monterrey",
-          "Puebla"
+          "Antes de comer y después de ir al baño",
+          "Nunca",
+          "Solo los domingos",
+          "Solo cuando llueve"
         ],
-        "respuestaCorrecta": "Ciudad de México",
-        "explicacion": "¡La Ciudad de México (CDMX)! Es una de las ciudades más grandes del mundo. Antes se llamaba México-Tenochtitlán. 🏙️🇲🇽"
+        "respuestaCorrecta": "Antes de comer y después de ir al baño",
+        "explicacion": "¡Siempre antes de comer y después del baño! Lavarse las manos quita los gérmenes que nos enferman. 🧼🤲",
+        "visual": "🧼"
       },
       {
-        "id": "pre1-con-b4-v1-010",
-        "tema": "México y sus colores",
+        "id": "pre1-conoc-b4-v1-008",
+        "tema": "Higiene y salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Lavarse los dientes es importante para tener una boca sana.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Hay que lavarse los dientes después de cada comida para que no aparezcan caries. ¡Dientes limpios, sonrisa brillante! 🦷✨"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-009",
+        "tema": "Las partes de mi cuerpo",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El papel picado de colores que adorna las fiestas mexicanas se corta en papel de ___",
-        "respuestaCorrecta": "china",
-        "explicacion": "¡El papel de china! Azul, rojo, amarillo, verde, y se perfora con diseños hermosos. ¡Es artesanía mexicana! 🎉"
+        "pregunta": "La parte del cuerpo que está dentro de nuestra cabeza y nos ayuda a pensar es el cere___.",
+        "respuestaCorrecta": "bro",
+        "explicacion": "¡El cerebro! Es como una supercomputadora que nos permite pensar, recordar, soñar y aprender. 🧠✨"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-010",
+        "tema": "Los 5 sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué sentido escuchas la música?",
+        "opciones": [
+          "Con el oído 👂",
+          "Con el gusto 👅",
+          "Con el tacto ✋",
+          "Con el olfato 👃"
+        ],
+        "respuestaCorrecta": "Con el oído 👂",
+        "explicacion": "¡Con el oído! Los oídos nos permiten escuchar la música, las voces y todos los sonidos del mundo. 👂🎵",
+        "visual": "👂"
       }
     ],
     "v2": [
       {
-        "id": "pre1-con-b4-v2-001",
-        "tema": "Geografía básica",
+        "id": "pre1-conoc-b4-v2-001",
+        "tema": "Las partes de mi cuerpo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos estados tiene México?",
+        "pregunta": "¿Qué órgano bombea la sangre por todo tu cuerpo?",
         "opciones": [
-          "25",
-          "31",
-          "32",
-          "50"
+          "El corazón ❤️",
+          "El estómago",
+          "Los pulmones",
+          "Los ojos"
         ],
-        "respuestaCorrecta": "32",
-        "explicacion": "¡México tiene 32 entidades federativas! 31 estados más la Ciudad de México. ¡Un país enorme y diverso! 🗺️🇲🇽"
+        "respuestaCorrecta": "El corazón ❤️",
+        "explicacion": "¡El corazón! Late todo el día, 'bum bum', enviando sangre a todo tu cuerpo. ¡Es tu motor interno! ❤️"
       },
       {
-        "id": "pre1-con-b4-v2-002",
-        "tema": "Comida mexicana",
+        "id": "pre1-conoc-b4-v2-002",
+        "tema": "Las partes de mi cuerpo",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El chile ___ es el chile jalapeño, uno de los chiles más famosos de México",
-        "respuestaCorrecta": "jalapeño",
-        "explicacion": "¡El jalapeño! Originario de Xalapa, Veracruz. México es el país con más variedad de chiles del mundo (más de 60 tipos). 🌶️🇲🇽"
+        "pregunta": "Los huesos que están dentro de nuestro cuerpo forman el esque___.",
+        "respuestaCorrecta": "leto",
+        "explicacion": "¡El esqueleto! Es la estructura que sostiene tu cuerpo, como los postes sostienen una casa. 💀🦴"
       },
       {
-        "id": "pre1-con-b4-v2-003",
-        "tema": "Tradiciones",
+        "id": "pre1-conoc-b4-v2-003",
+        "tema": "Los 5 sentidos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La Lotería es un juego tradicional mexicano con tarjetas ilustradas",
+        "pregunta": "Las personas que no pueden ver usan el sentido del tacto para leer un sistema de puntitos llamado Braille.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡La Lotería! Con cartas como 'el gallo', 'la sirena', 'el corazón'. ¡Un juego que une a las familias y enseña vocabulario! 🃏"
+        "explicacion": "¡Sí! El Braille son puntitos que se tocan con los dedos para leer. ¡Los otros sentidos se vuelven más fuertes! ✋📖"
       },
       {
-        "id": "pre1-con-b4-v2-004",
-        "tema": "Animales de México",
+        "id": "pre1-conoc-b4-v2-004",
+        "tema": "Alimentación saludable",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estos animales está representado en la moneda de 10 pesos?",
+        "pregunta": "El plato del bien comer recomienda comer de 3 grupos. ¿Cuáles son?",
         "opciones": [
-          "El jaguar 🐆",
-          "El cocodrilo",
-          "El nopal",
-          "La serpiente"
+          "Frutas/verduras, cereales y leguminosas/alimentos de origen animal",
+          "Solo carne",
+          "Solo pan",
+          "Solo dulces"
         ],
-        "respuestaCorrecta": "El jaguar 🐆",
-        "explicacion": "¡El jaguar! El felino más grande de América. Jaguar en náhuatl se dice 'ocelote' o 'tlacocelotl'. ¡Animal sagrado en México! 🐆🇲🇽"
+        "respuestaCorrecta": "Frutas/verduras, cereales y leguminosas/alimentos de origen animal",
+        "explicacion": "¡Los 3 grupos! Frutas y verduras, cereales (tortilla, arroz), y proteínas (frijoles, carne, huevo). ¡Equilibrio perfecto! 🥗"
       },
       {
-        "id": "pre1-con-b4-v2-005",
-        "tema": "México y sus colores",
+        "id": "pre1-conoc-b4-v2-005",
+        "tema": "Alimentación saludable",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El arte de crear figuras coloridas de papel maché rellenas de dulces se llama ___",
-        "respuestaCorrecta": "piñata",
-        "explicacion": "¡La piñata! Tradición nacida en México, mezcla de culturas indígena y española. ¡Sus 7 picos representan los pecados capitales! 🎉"
+        "pregunta": "Las vitaminas que tienen las frutas y verduras nos ayudan a no enfer___.",
+        "respuestaCorrecta": "marnos",
+        "explicacion": "¡Las vitaminas nos protegen! La vitamina C de las naranjas y la vitamina A de las zanahorias nos mantienen sanos. 🍊🥕"
       },
       {
-        "id": "pre1-con-b4-v2-006",
-        "tema": "Geografía básica",
+        "id": "pre1-conoc-b4-v2-006",
+        "tema": "Higiene y salud",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál océano está del lado oeste de México?",
+        "pregunta": "¿Cuánto tiempo debes lavarte las manos para que queden realmente limpias?",
         "opciones": [
-          "El Pacífico",
-          "El Atlántico",
-          "El Índico",
-          "El Ártico"
+          "20 segundos con agua y jabón",
+          "1 segundo",
+          "0 segundos",
+          "Solo con agua"
         ],
-        "respuestaCorrecta": "El Pacífico",
-        "explicacion": "¡El Océano Pacífico está al oeste! Y el Golfo de México / Atlántico está al este. ¡México tiene costas en dos grandes mares! 🌊"
+        "respuestaCorrecta": "20 segundos con agua y jabón",
+        "explicacion": "¡20 segundos! Puedes cantar 'Las mañanitas' mientras te lavas. ¡Así eliminas los gérmenes! 🧼🎵"
       },
       {
-        "id": "pre1-con-b4-v2-007",
-        "tema": "Comida mexicana",
+        "id": "pre1-conoc-b4-v2-007",
+        "tema": "Higiene y salud",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El mole es una salsa mexicana que puede tener más de 30 ingredientes",
+        "pregunta": "Dormir bien por la noche ayuda a que tu cuerpo crezca y tu cerebro descanse.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡El mole es un arte! Chiles, chocolate, especias, nueces... ¡algunos moles tienen más de 30 ingredientes! Declarado Patrimonio Cultural Inmaterial. 🇲🇽"
+        "explicacion": "¡Sí! Mientras duermes, tu cuerpo se repara y crece. ¡Los niños necesitan dormir bien para estar fuertes y listos! 😴💪"
       },
       {
-        "id": "pre1-con-b4-v2-008",
-        "tema": "Tradiciones",
+        "id": "pre1-conoc-b4-v2-008",
+        "tema": "Las partes de mi cuerpo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los músculos nos permiten movernos: caminar, correr, saltar y brincar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los músculos son tu motor de movimiento! Se contraen y estiran para que puedas hacer todo tipo de movimientos. 💪🏃"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-009",
+        "tema": "Los 5 sentidos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Las posadas mexicanas se celebran durante...",
+        "pregunta": "¿Cuál sentido te ayuda a saber si algo está frío o caliente antes de tocarlo con las manos?",
         "opciones": [
-          "Diciembre, antes de Navidad",
-          "Enero",
-          "Marzo",
-          "Septiembre"
+          "El tacto — la piel siente la temperatura",
+          "La vista",
+          "El oído",
+          "El gusto"
         ],
-        "respuestaCorrecta": "Diciembre, antes de Navidad",
-        "explicacion": "¡Las posadas! Del 16 al 24 de diciembre. Celebran el viaje de María y José buscando posada. ¡Piñatas, ponche y villancicos! 🎄🪅"
+        "respuestaCorrecta": "El tacto — la piel siente la temperatura",
+        "explicacion": "¡El tacto! Tu piel tiene sensores que detectan frío, calor, suavidad y dolor. ¡Te protegen de quemarte! ✋🔥❄️"
       },
       {
-        "id": "pre1-con-b4-v2-009",
-        "tema": "Animales de México",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La mariposa ___ viaja desde Canadá hasta los bosques de Michoacán, México",
-        "respuestaCorrecta": "monarca",
-        "explicacion": "¡La mariposa Monarca! Viaja 4,000 km cada año. Sus bosques de hibernación en Michoacán son Patrimonio de la Humanidad. 🦋🇲🇽"
-      },
-      {
-        "id": "pre1-con-b4-v2-010",
-        "tema": "México y sus colores",
+        "id": "pre1-conoc-b4-v2-010",
+        "tema": "Alimentación saludable",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Las artesanías de Talavera son cerámicas pintadas a mano originarias de Puebla, México",
+        "pregunta": "Comer muchos dulces puede causar caries en los dientes y hacernos subir de peso.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡La Talavera Poblana! Cerámica pintada a mano con diseños azules y blancos. ¡Declarada Patrimonio Cultural Inmaterial de la Humanidad! 🏺🇲🇽"
+        "explicacion": "¡Sí! Los dulces en exceso dañan los dientes y pueden causar problemas de salud. ¡Mejor fruta como postre! 🍬❌🍎✅"
       }
     ],
     "preview": [
       {
-        "id": "pre1-con-b4-v1-001",
-        "tema": "México y sus colores",
+        "id": "pre1-conoc-b4-v1-003",
+        "tema": "Los 5 sentidos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿De qué colores es la bandera de México?",
+        "pregunta": "¿Cuáles son los 5 sentidos?",
         "opciones": [
-          "Verde, blanco y rojo",
-          "Azul, blanco y rojo",
-          "Amarillo, verde y rojo",
-          "Rojo, negro y blanco"
+          "Vista, oído, olfato, gusto y tacto",
+          "Solo 2",
+          "Solo 1",
+          "Ninguno"
         ],
-        "respuestaCorrecta": "Verde, blanco y rojo",
-        "explicacion": "¡Verde, Blanco y Rojo! Con el águila al centro. 🇲🇽"
+        "respuestaCorrecta": "Vista, oído, olfato, gusto y tacto",
+        "explicacion": "¡5 sentidos increíbles! 👁️👂👃👅✋",
+        "visual": "👁️"
       },
       {
-        "id": "pre1-con-b4-v1-003",
-        "tema": "Animales de México",
+        "id": "pre1-conoc-b4-v1-005",
+        "tema": "Alimentación saludable",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es un animal que SOLO existe en México (endémico)?",
+        "pregunta": "¿Qué alimentos son más saludables?",
         "opciones": [
-          "El ajolote 🦎",
-          "El perro",
-          "El gato",
-          "El caballo"
+          "Frutas y verduras 🥦🍎",
+          "Solo dulces 🍬",
+          "Solo refrescos 🥤",
+          "Solo papitas 🍟"
         ],
-        "respuestaCorrecta": "El ajolote 🦎",
-        "explicacion": "¡El ajolote! Único en el mundo. 🦎"
+        "respuestaCorrecta": "Frutas y verduras 🥦🍎",
+        "explicacion": "¡Frutas y verduras! 🥦🍎🥕🍌",
+        "visual": "🥦"
       },
       {
-        "id": "pre1-con-b4-v2-001",
-        "tema": "Geografía básica",
+        "id": "pre1-conoc-b4-v1-007",
+        "tema": "Higiene y salud",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos estados tiene México?",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo debes lavarte las manos?",
         "opciones": [
-          "25",
-          "31",
-          "32",
-          "50"
+          "Antes de comer y después del baño",
+          "Nunca",
+          "Solo domingos",
+          "Solo lloviendo"
         ],
-        "respuestaCorrecta": "32",
-        "explicacion": "¡32 entidades federativas! 🗺️🇲🇽"
+        "respuestaCorrecta": "Antes de comer y después del baño",
+        "explicacion": "¡Siempre! 🧼🤲",
+        "visual": "🧼"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T11:55:00.000Z",
+  "version": "4.0-SEP"
 }

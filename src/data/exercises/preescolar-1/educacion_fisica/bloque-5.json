@@ -2,291 +2,303 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 5,
-  "nombre": "Soy un atleta",
-  "meses": "Abr-Jun",
+  "nombre": "Mini olimpiada y vida activa",
+  "meses": "Abril–Junio",
   "temas": [
-    "Destrezas físicas",
-    "Los Olimpicos",
-    "Mi progreso",
-    "Seguridad en el deporte"
+    "Mini olimpiada escolar",
+    "Deportes acuáticos y al aire libre",
+    "Hábitos de vida activa",
+    "Celebración del cuerpo"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-ef-b5-v1-001",
-        "tema": "Destrezas físicas",
+        "tema": "Mini olimpiada escolar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál ejercicio nos ayuda a fortalecer los brazos?",
+        "pregunta": "¿Qué son las olimpiadas?",
         "opciones": [
-          "Las lagartijas (flexiones)",
-          "Saltar",
-          "Correr",
-          "Dormir"
+          "Una competencia deportiva entre muchos países",
+          "Una fiesta de comida",
+          "Una clase de lectura",
+          "Un concurso de dibujo"
         ],
-        "respuestaCorrecta": "Las lagartijas (flexiones)",
-        "explicacion": "¡Las lagartijas fortalecen brazos, pecho y hombros! Se apoyan las manos y los dedos de los pies y se sube y baja el cuerpo. 💪"
+        "respuestaCorrecta": "Una competencia deportiva entre muchos países",
+        "explicacion": "¡Las olimpiadas reúnen a los mejores deportistas del mundo! Compiten en muchos deportes. ¡Tu escuela puede hacer su propia mini olimpiada! 🏅🌍",
+        "visual": "🏅"
       },
       {
         "id": "pre1-ef-b5-v1-002",
-        "tema": "Los Olimpicos",
+        "tema": "Mini olimpiada escolar",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los Juegos Olímpicos se celebran cada 4 años",
+        "pregunta": "En una mini olimpiada escolar todos pueden participar y divertirse.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Cada 4 años! Los Juegos Olímpicos reúnen a los mejores atletas del mundo. Son el evento deportivo más grande del planeta. 🏅🌍"
+        "explicacion": "¡Sí! En la mini olimpiada lo importante es participar, dar lo mejor y divertirse. ¡Todos son campeones! 🏆😊"
       },
       {
         "id": "pre1-ef-b5-v1-003",
-        "tema": "Seguridad en el deporte",
+        "tema": "Deportes acuáticos y al aire libre",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué debemos usar al andar en bicicleta para proteger la cabeza?",
+        "pregunta": "¿Qué deporte se practica en el agua?",
         "opciones": [
-          "El casco ⛑️",
-          "Un sombrero de paja",
-          "Una bufanda",
-          "Nada"
+          "Natación 🏊",
+          "Fútbol ⚽",
+          "Ciclismo 🚴",
+          "Salto de cuerda"
         ],
-        "respuestaCorrecta": "El casco ⛑️",
-        "explicacion": "¡El casco protege la cabeza! Es el equipo de seguridad más importante al andar en bici, patines o monopatin. ¡Siempre casco! ⛑️",
-        "visual": "⛑️"
+        "respuestaCorrecta": "Natación 🏊",
+        "explicacion": "¡La natación! Es uno de los mejores ejercicios porque trabaja todo el cuerpo. ¡Y es muy refrescante! 🏊💦",
+        "visual": "🏊"
       },
       {
         "id": "pre1-ef-b5-v1-004",
-        "tema": "Mi progreso",
-        "tipo": "fill_blank",
+        "tema": "Deportes acuáticos y al aire libre",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Si antes no podía correr 1 km y ahora sí puedo, eso se llama ___",
-        "respuestaCorrecta": "progreso",
-        "explicacion": "¡Progreso! La mejora con el tiempo y el entrenamiento. ¡El cuerpo se adapta y mejora si practicamos! ¡Nunca te rindas! 🌱💪"
+        "pregunta": "Jugar al aire libre es bueno para la salud y el ánimo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El sol, el aire fresco y el movimiento al aire libre nos hacen más felices y sanos. ☀️🌳😊"
       },
       {
         "id": "pre1-ef-b5-v1-005",
-        "tema": "Destrezas físicas",
-        "tipo": "true_false",
+        "tema": "Hábitos de vida activa",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "La flexibilidad es la capacidad de doblar el cuerpo sin lastimarse",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡La flexibilidad! Los gimnastas y bailarines tienen mucha flexibilidad. ¡Se desarrolla con yoga y estiramientos regulares! 🤸‍♀️"
+        "pregunta": "¿Qué es mejor para tu salud?",
+        "opciones": [
+          "Jugar afuera y hacer ejercicio",
+          "Ver tele todo el día",
+          "Jugar videojuegos 10 horas",
+          "No moverse nunca"
+        ],
+        "respuestaCorrecta": "Jugar afuera y hacer ejercicio",
+        "explicacion": "¡Moverse es vida! Jugar afuera, correr, saltar y hacer deporte es mucho mejor que estar sentado todo el día. 🏃🌳",
+        "visual": "🏃"
       },
       {
         "id": "pre1-ef-b5-v1-006",
-        "tema": "Los Olimpicos",
-        "tipo": "multiple_choice",
+        "tema": "Hábitos de vida activa",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿De qué color son las 5 medallas más importantes de los Juegos Olímpicos?",
-        "opciones": [
-          "Oro, plata y bronce",
-          "Rojo, azul y verde",
-          "Dorado, plateado y normal",
-          "Solo doradas"
-        ],
-        "respuestaCorrecta": "Oro, plata y bronce",
-        "explicacion": "¡Oro 🥇 para el 1ro, Plata 🥈 para el 2do, Bronce 🥉 para el 3ro! ¡Ganar cualquier medalla es un honor enorme! 🏅"
+        "pregunta": "Caminar al parque con tu familia es una forma de hacer ejercicio.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Caminar es ejercicio. ¡No necesitas un gimnasio — el parque, la calle o tu patio son perfectos! 🚶‍♂️🌳"
       },
       {
         "id": "pre1-ef-b5-v1-007",
-        "tema": "Seguridad en el deporte",
+        "tema": "Celebración del cuerpo",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Beber agua durante el ejercicio evita la ___ y mantiene el cuerpo en funcionamiento",
-        "respuestaCorrecta": "deshidratación",
-        "explicacion": "¡La deshidratación! Cuando sudamos perdemos agua. Si no reponemos líquidos, el cuerpo falla. ¡Siempre hidratarse! 💧🏃"
+        "pregunta": "Mi cuerpo es increíble porque puedo correr, saltar, bailar y jug___.",
+        "respuestaCorrecta": "ar",
+        "explicacion": "¡Jugar! Tu cuerpo puede hacer cosas asombrosas. ¡Celebra todo lo que tu cuerpo puede hacer! 🎉💪"
       },
       {
         "id": "pre1-ef-b5-v1-008",
-        "tema": "Mi progreso",
-        "tipo": "true_false",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Practicar un deporte requiere constancia y paciencia para mejorar",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡La constancia es la clave! Ningún campeón nació sabiendo. ¡Todos practicaron durante años hasta mejorar! 🏆💪"
+        "pregunta": "¿Qué premio reciben los atletas en las olimpiadas?",
+        "opciones": [
+          "Medallas de oro, plata y bronce 🥇🥈🥉",
+          "Dulces",
+          "Dinero",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Medallas de oro, plata y bronce 🥇🥈🥉",
+        "explicacion": "¡Medallas! Oro para el primero, plata para el segundo y bronce para el tercero. ¡Pero participar ya es un triunfo! 🏅",
+        "visual": "🥇"
       },
       {
         "id": "pre1-ef-b5-v1-009",
-        "tema": "Destrezas físicas",
+        "tema": "Deportes acuáticos y al aire libre",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál ejercicio fortalece los músculos del estómago (abdominales)?",
+        "pregunta": "¿Qué deporte se practica en una bicicleta?",
         "opciones": [
-          "Las sentadillas o abdominales",
-          "Saltar en un pie",
-          "Mover solo los brazos",
-          "Respirar profundo"
+          "Ciclismo 🚴",
+          "Natación 🏊",
+          "Gimnasia 🤸",
+          "Boxeo 🥊"
         ],
-        "respuestaCorrecta": "Las sentadillas o abdominales",
-        "explicacion": "¡Los abdominales fortalecen el core (centro del cuerpo)! Un core fuerte mejora la postura y previene lesiones. 💪"
+        "respuestaCorrecta": "Ciclismo 🚴",
+        "explicacion": "¡El ciclismo! Pedaleamos la bicicleta para avanzar. ¡Es bueno para las piernas y el corazón! 🚴‍♀️",
+        "visual": "🚴"
       },
       {
         "id": "pre1-ef-b5-v1-010",
-        "tema": "Los Olimpicos",
-        "tipo": "fill_blank",
+        "tema": "Celebración del cuerpo",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El lema olímpico 'Citius, Altius, Fortius' significa: más rápido, más alto, más ___",
-        "respuestaCorrecta": "fuerte",
-        "explicacion": "¡Más Fuerte! El lema olímpico invita a siempre superarse. ¡Los Juegos Olímpicos son una celebración del esfuerzo humano! 🏅"
+        "pregunta": "Todos los cuerpos son diferentes y todos son valiosos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Cada cuerpo es único y especial! Altos, bajitos, delgados, robustos... ¡Todos merecen respeto y cariño! 🌈❤️"
       }
     ],
     "v2": [
       {
         "id": "pre1-ef-b5-v2-001",
-        "tema": "Los Olimpicos",
-        "tipo": "multiple_choice",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Dónde se celebraron los primeros Juegos Olímpicos de la historia?",
-        "opciones": [
-          "En Grecia",
-          "En Roma",
-          "En Francia",
-          "En México"
-        ],
-        "respuestaCorrecta": "En Grecia",
-        "explicacion": "¡En la Antigua Grecia, hace más de 2,700 años! Olympia fue la sede. Los atletas competían en honor a los dioses. 🏛️🇬🇷"
+        "pregunta": "El lema de las olimpiadas es 'más rápido, más alto, más fuer___'.",
+        "respuestaCorrecta": "te",
+        "explicacion": "¡Citius, Altius, Fortius! Más rápido, más alto, más fuerte. ¡El espíritu olímpico nos inspira a dar lo mejor! 🏅"
       },
       {
         "id": "pre1-ef-b5-v2-002",
-        "tema": "Seguridad en el deporte",
-        "tipo": "fill_blank",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El proceso de preparar el cuerpo con movimientos suaves antes de hacer ejercicio intenso se llama ___",
-        "respuestaCorrecta": "calentamiento",
-        "explicacion": "¡El calentamiento! Aumenta la temperatura muscular y prepara el corazón. ¡Sin calentamiento, hay más riesgo de lesiones! 🔥🏃"
+        "pregunta": "¿Cada cuántos años se celebran los Juegos Olímpicos?",
+        "opciones": [
+          "Cada 4 años",
+          "Cada año",
+          "Cada 10 años",
+          "Cada 100 años"
+        ],
+        "respuestaCorrecta": "Cada 4 años",
+        "explicacion": "¡Cada 4 años! Los mejores atletas del mundo se reúnen para competir. ¡México ha ganado muchas medallas! 🇲🇽🏅"
       },
       {
         "id": "pre1-ef-b5-v2-003",
-        "tema": "Destrezas físicas",
+        "tema": "Deportes acuáticos y al aire libre",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La resistencia cardiovascular es la capacidad de hacer ejercicio por mucho tiempo sin cansarse",
+        "pregunta": "En México, el surfeo es un deporte que se practica en las playas con olas grandes.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡La resistencia! Los maratonistas tienen una resistencia increíble. ¡Se desarrolla con entrenamiento constante a lo largo del tiempo! 🏃‍♀️❤️"
+        "explicacion": "¡Sí! México tiene costas increíbles. Puerto Escondido, Sayulita y Baja California son famosos para surfear. 🏄🌊"
       },
       {
         "id": "pre1-ef-b5-v2-004",
-        "tema": "Mi progreso",
+        "tema": "Hábitos de vida activa",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo podemos medir nuestro progreso en un deporte?",
+        "pregunta": "¿Cuántas horas al día debería un niño estar frente a pantallas como máximo?",
         "opciones": [
-          "Registrando tiempos, distancias o repeticiones y comparando con versiones anteriores",
-          "Mirando solo videos",
-          "Preguntando al vecino",
-          "No se puede medir"
+          "1-2 horas",
+          "10 horas",
+          "24 horas",
+          "Todo el día"
         ],
-        "respuestaCorrecta": "Registrando tiempos, distancias o repeticiones y comparando con versiones anteriores",
-        "explicacion": "¡El registro y comparación! Un diario de entrenamiento es una herramienta poderosa para ver el progreso. 📊📈"
+        "respuestaCorrecta": "1-2 horas",
+        "explicacion": "¡1-2 horas máximo! El resto del tiempo es para jugar, estudiar, estar con la familia y moverse. 📱⏰🏃"
       },
       {
         "id": "pre1-ef-b5-v2-005",
-        "tema": "Destrezas físicas",
+        "tema": "Hábitos de vida activa",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La capacidad de moverse en diferentes direcciones rápidamente se llama ___",
-        "respuestaCorrecta": "agilidad",
-        "explicacion": "¡La agilidad! Cambiar de dirección rápidamente es crucial en deportes como el fútbol, básquet y tenis. 🔀💨"
+        "pregunta": "Comer bien, dormir bien y hacer ejercicio son hábitos salu___.",
+        "respuestaCorrecta": "dables",
+        "explicacion": "¡Hábitos saludables! Son las 3 bases de una vida sana: buena alimentación, buen descanso y actividad física. 🥗😴💪"
       },
       {
         "id": "pre1-ef-b5-v2-006",
-        "tema": "Los Olimpicos",
+        "tema": "Deportes acuáticos y al aire libre",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significan los 5 aros olímpicos de diferentes colores?",
+        "pregunta": "¿Qué equipo necesitas para andar en bicicleta de forma segura?",
         "opciones": [
-          "Los 5 continentes del mundo",
-          "Los 5 deportes originales",
-          "Los 5 colores de medallas",
-          "Los 5 países fundadores"
+          "Casco, rodilleras y coderas",
+          "Solo un paraguas",
+          "Nada",
+          "Solo lentes"
         ],
-        "respuestaCorrecta": "Los 5 continentes del mundo",
-        "explicacion": "¡Los 5 continentes! América, Europa, Asia, África y Oceanía. Los colores representan las banderas de las naciones participantes. 🌍🌏🌎"
+        "respuestaCorrecta": "Casco, rodilleras y coderas",
+        "explicacion": "¡Protección completa! El casco protege la cabeza, las rodilleras las rodillas y las coderas los codos. ⛑️🦵💪"
       },
       {
         "id": "pre1-ef-b5-v2-007",
-        "tema": "Seguridad en el deporte",
+        "tema": "Celebración del cuerpo",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Cuando un compañero se lastima durante el juego, lo correcto es avisar a un adulto",
+        "pregunta": "Cada persona tiene habilidades diferentes: unos corren rápido, otros son flexibles, otros son fuertes.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Siempre avisar! Ante una lesión, no moveremos al compañero y llamamos a un adulto. ¡La seguridad primero en todos los deportes! 🆘👨‍⚕️"
+        "explicacion": "¡Todos somos únicos! Cada persona tiene talentos especiales. Lo importante es descubrir y celebrar los tuyos. 🌟"
       },
       {
         "id": "pre1-ef-b5-v2-008",
-        "tema": "Mi progreso",
-        "tipo": "fill_blank",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "La actitud de levantarse después de fallar y seguir intentándolo se llama ___",
-        "respuestaCorrecta": "resiliencia",
-        "explicacion": "¡Resiliencia! Todos los grandes atletas han fallado muchas veces antes de triunfar. ¡La resiliencia es la habilidad más poderosa! 💪🌟"
+        "pregunta": "¿Qué valores promueven las olimpiadas?",
+        "opciones": [
+          "Excelencia, respeto y amistad",
+          "Trampa y mentiras",
+          "Solo ganar",
+          "Violencia"
+        ],
+        "respuestaCorrecta": "Excelencia, respeto y amistad",
+        "explicacion": "¡Los valores olímpicos! Dar lo mejor (excelencia), respetar a todos y hacer amigos. ¡Eso es lo más importante! 🤝🏅"
       },
       {
         "id": "pre1-ef-b5-v2-009",
-        "tema": "Destrezas físicas",
-        "tipo": "multiple_choice",
+        "tema": "Hábitos de vida activa",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué es la fuerza explosiva?",
-        "opciones": [
-          "La capacidad de generar mucha fuerza en muy poco tiempo",
-          "Correr mucho tiempo sin cansarse",
-          "Ser muy flexible",
-          "Nadar rápido"
-        ],
-        "respuestaCorrecta": "La capacidad de generar mucha fuerza en muy poco tiempo",
-        "explicacion": "¡Fuerza explosiva! Los saltadores de longitud y los sprinteres necesitan mucha fuerza explosiva. ¡Potencia instantánea! 💥🏃‍♂️"
+        "pregunta": "Subir escaleras en vez de usar el elevador es una forma fácil de hacer ejercicio.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Pequeños cambios hacen gran diferencia. Subir escaleras fortalece las piernas y el corazón. 🪜❤️"
       },
       {
         "id": "pre1-ef-b5-v2-010",
-        "tema": "Los Olimpicos",
-        "tipo": "true_false",
+        "tema": "Celebración del cuerpo",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "México ha ganado medallas de oro en los Juegos Olímpicos",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! México tiene varios oros olímpicos. Boxeo, ciclismo, ecuestre... ¡Los deportistas mexicanos han brillado en el mundo! 🥇🇲🇽"
+        "pregunta": "Este año aprendimos que nuestro cuerpo es un teso___ que debemos cuidar.",
+        "respuestaCorrecta": "ro",
+        "explicacion": "¡Un tesoro! Tu cuerpo es lo más valioso que tienes. ¡Cuídalo con ejercicio, buena comida y mucho amor! 💎❤️"
       }
     ],
     "preview": [
       {
-        "id": "pre1-ef-b5-v1-002",
-        "tema": "Los Olimpicos",
+        "id": "pre1-ef-b5-v1-001",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son las olimpiadas?",
+        "opciones": [
+          "Competencia deportiva mundial",
+          "Fiesta de comida",
+          "Clase de lectura",
+          "Concurso de dibujo"
+        ],
+        "respuestaCorrecta": "Competencia deportiva mundial",
+        "explicacion": "¡Los mejores atletas del mundo! 🏅🌍",
+        "visual": "🏅"
+      },
+      {
+        "id": "pre1-ef-b5-v1-005",
+        "tema": "Hábitos de vida activa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es mejor para tu salud?",
+        "opciones": [
+          "Jugar afuera y hacer ejercicio",
+          "Ver tele todo el día",
+          "Videojuegos 10h",
+          "No moverse"
+        ],
+        "respuestaCorrecta": "Jugar afuera y hacer ejercicio",
+        "explicacion": "¡Moverse es vida! 🏃🌳",
+        "visual": "🏃"
+      },
+      {
+        "id": "pre1-ef-b5-v1-010",
+        "tema": "Celebración del cuerpo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los Juegos Olímpicos se celebran cada 4 años",
+        "pregunta": "Todos los cuerpos son diferentes y valiosos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Cada 4 años reúne a los mejores del mundo! 🏅"
-      },
-      {
-        "id": "pre1-ef-b5-v1-003",
-        "tema": "Seguridad en el deporte",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué debemos usar al andar en bicicleta para proteger la cabeza?",
-        "opciones": [
-          "El casco ⛑️",
-          "Un sombrero de paja",
-          "Una bufanda",
-          "Nada"
-        ],
-        "respuestaCorrecta": "El casco ⛑️",
-        "explicacion": "¡El casco siempre! ⛑️"
-      },
-      {
-        "id": "pre1-ef-b5-v2-001",
-        "tema": "Los Olimpicos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Dónde se celebraron los primeros Juegos Olímpicos de la historia?",
-        "opciones": [
-          "En Grecia",
-          "En Roma",
-          "En Francia",
-          "En México"
-        ],
-        "respuestaCorrecta": "En Grecia",
-        "explicacion": "¡Grecia Antigua, hace 2,700 años! 🏛️"
+        "explicacion": "¡Cada uno es único! 🌈❤️"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T12:30:00.000Z",
+  "version": "4.0-SEP"
 }

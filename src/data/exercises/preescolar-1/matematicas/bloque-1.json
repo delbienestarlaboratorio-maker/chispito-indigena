@@ -2,24 +2,25 @@
   "grado": "preescolar-1",
   "materia": "matematicas",
   "bloque": 1,
-  "nombre": "Mis primeros números",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Mis primeros números: del 1 al 5",
+  "libroSep": "K1LMA",
+  "paginasLibro": "8-22",
+  "meses": "Agosto–Septiembre",
   "temas": [
     "Contar del 1 al 5",
-    "Figuras básicas",
+    "Reconocer números escritos",
     "Más y menos",
-    "Ordena objetos",
-    "Patrones simples"
+    "Correspondencia uno a uno"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-mat-b1-v1-001",
         "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
+        "tipo": "visual_count",
         "nivel": "v1",
-        "pregunta": "¿Cuántos 🍎 hay? 🍎🍎🍎",
+        "pregunta": "¿Cuántas manzanas hay? 🍎🍎🍎",
         "opciones": [
           "1",
           "2",
@@ -27,84 +28,20 @@
           "4"
         ],
         "respuestaCorrecta": "3",
-        "explicacion": "¡Contamos: 1, 2, 3! Hay 3 manzanas. ¡Aprender a contar es el primer paso de las matemáticas! 🍎",
-        "visual": "🍎🍎🍎"
+        "explicacion": "¡Contamos: 1, 2, 3! Hay 3 manzanas. ¡Contar es el primer paso de las matemáticas! 🍎🍎🍎",
+        "visual": "🍎🍎🍎",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 10
+        }
       },
       {
         "id": "pre1-mat-b1-v1-002",
-        "tema": "Figuras básicas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El círculo es completamente redondo, sin esquinas",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El círculo es la única figura sin esquinas ni lados rectos. ¡Como la luna llena y las pelotas! ⚽",
-        "visual": "⭕"
-      },
-      {
-        "id": "pre1-mat-b1-v1-003",
         "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
+        "tipo": "visual_count",
         "nivel": "v1",
-        "pregunta": "Levanto 4 dedos: 1, 2, 3, ___",
-        "respuestaCorrecta": "4",
-        "explicacion": "¡El 4! Después del 3 viene el 4. ¡Cuatro como las patas de un perro! 🐶☝️"
-      },
-      {
-        "id": "pre1-mat-b1-v1-004",
-        "tema": "Más y menos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si tengo 2 galletas y me comen 1, ¿cuántas me quedan?",
-        "opciones": [
-          "0",
-          "1",
-          "2",
-          "3"
-        ],
-        "respuestaCorrecta": "1",
-        "explicacion": "2 galletas - 1 galleta = 1 galleta. ¡Restar es quitar! 🍪",
-        "visual": "🍪"
-      },
-      {
-        "id": "pre1-mat-b1-v1-005",
-        "tema": "Figuras básicas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas esquinas tiene un triángulo?",
-        "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "¡El triángulo tiene 3 esquinas y 3 lados! TRI = 3. ¡Como las pizzas y los pañales de papel! 🔺",
-        "visual": "🔺"
-      },
-      {
-        "id": "pre1-mat-b1-v1-006",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "🔴🔵🔴🔵___",
-        "respuestaCorrecta": "🔴",
-        "explicacion": "¡El patrón es rojo-azul-rojo-azul! Después de azul 🔵 viene rojo 🔴. ¡Los patrones se repiten! 🎨"
-      },
-      {
-        "id": "pre1-mat-b1-v1-007",
-        "tema": "Ordena objetos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "3 es más grande que 5",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡No! 5 es más grande que 3. En la recta numérica, los números que están más a la derecha son más grandes. 5 > 3 📏"
-      },
-      {
-        "id": "pre1-mat-b1-v1-008",
-        "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué número viene DESPUÉS del 4?",
+        "pregunta": "¿Cuántas estrellas ves? ⭐⭐⭐⭐⭐",
         "opciones": [
           "3",
           "4",
@@ -112,156 +49,268 @@
           "6"
         ],
         "respuestaCorrecta": "5",
-        "explicacion": "¡El 5! 1-2-3-4-5. Después del 4 siempre viene el 5. ¡Como los deditos de una mano! ✋"
+        "explicacion": "¡1, 2, 3, 4, 5! ¡Hay 5 estrellas! El número 5 es como una mano completa. ✋⭐",
+        "visual": "⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "pre1-mat-b1-v1-003",
+        "tema": "Reconocer números escritos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se escribe el número 'dos'?",
+        "opciones": [
+          "2",
+          "5",
+          "1",
+          "4"
+        ],
+        "respuestaCorrecta": "2",
+        "explicacion": "¡El dos se escribe así: 2! Se parece a un patito en el lago. 🦆2️⃣",
+        "visual": "2️⃣"
+      },
+      {
+        "id": "pre1-mat-b1-v1-004",
+        "tema": "Contar del 1 al 5",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Aquí hay 4 pelotas: ⚽⚽⚽⚽",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Contamos: 1, 2, 3, 4. Hay exactamente 4 pelotas. 🎯",
+        "visual": "⚽⚽⚽⚽"
+      },
+      {
+        "id": "pre1-mat-b1-v1-005",
+        "tema": "Más y menos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Dónde hay MÁS: en 🍎🍎 o en 🍎🍎🍎🍎?",
+        "opciones": [
+          "En 🍎🍎🍎🍎 (hay 4)",
+          "En 🍎🍎 (hay 2)",
+          "Son iguales",
+          "No se puede saber"
+        ],
+        "respuestaCorrecta": "En 🍎🍎🍎🍎 (hay 4)",
+        "explicacion": "¡Hay más en el grupo de 4! 4 es mayor que 2. Siempre el grupo con más objetos es el más grande. 📊",
+        "visual": "🍎🍎 vs 🍎🍎🍎🍎"
+      },
+      {
+        "id": "pre1-mat-b1-v1-006",
+        "tema": "Correspondencia uno a uno",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Si hay 3 niños y 3 vasos, ¿le toca 1 vaso a cada niño?",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Si hay 3 vasos para 3 niños, cada uno recibe exactamente 1 vaso. ¡Eso es correspondencia uno a uno! 🥛👦",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 12
+        }
+      },
+      {
+        "id": "pre1-mat-b1-v1-007",
+        "tema": "Contar del 1 al 5",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos corazones hay? ❤️",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "1",
+        "explicacion": "¡Solo hay 1 corazón! El número 1 es el primer número que aprendemos. 1️⃣❤️",
+        "visual": "❤️"
+      },
+      {
+        "id": "pre1-mat-b1-v1-008",
+        "tema": "Reconocer números escritos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el número más grande: 1, 3 o 5?",
+        "opciones": [
+          "5",
+          "3",
+          "1",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "¡El 5 es el más grande! 5 es más que 3, y 3 es más que 1. ¡5 gana! 5️⃣🏆"
       },
       {
         "id": "pre1-mat-b1-v1-009",
-        "tema": "Más y menos",
-        "tipo": "fill_blank",
+        "tema": "Correspondencia uno a uno",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "1 + 1 = ___",
-        "respuestaCorrecta": "2",
-        "explicacion": "1 más 1 son 2. ¡Sumar es juntar! Un papá + una mamá = una familia de 2! 💕"
+        "pregunta": "Si tienes 2 pies, ¿cuántos zapatos necesitas?",
+        "opciones": [
+          "2 zapatos",
+          "1 zapato",
+          "5 zapatos",
+          "10 zapatos"
+        ],
+        "respuestaCorrecta": "2 zapatos",
+        "explicacion": "¡2 zapatos! Uno para cada pie. ¡Eso es correspondencia: 1 pie = 1 zapato! 🦶👟",
+        "visual": "🦶👟"
       },
       {
         "id": "pre1-mat-b1-v1-010",
-        "tema": "Ordena objetos",
-        "tipo": "multiple_choice",
+        "tema": "Más y menos",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos objetos tiene forma de CUADRADO?",
-        "opciones": [
-          "Una hoja de papel cuadrada",
-          "Una naranja",
-          "Una pelota",
-          "Un lápiz"
-        ],
-        "respuestaCorrecta": "Una hoja de papel cuadrada",
-        "explicacion": "¡El cuadrado tiene 4 lados iguales! Una hoja cuadrada es el ejemplo perfecto. 🟦"
+        "pregunta": "Si tengo 3 galletas y me como 1, me quedan ___.",
+        "respuestaCorrecta": "2",
+        "explicacion": "¡Te quedan 2! 3 menos 1 es igual a 2. ¡Eso es restar! 🍪🍪",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 18
+        }
       }
     ],
     "v2": [
       {
         "id": "pre1-mat-b1-v2-001",
-        "tema": "Patrones simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5. ¿Qué número falta?",
-        "opciones": [
-          "2",
-          "3",
-          "6",
-          "7"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "¡El 3! La secuencia 1-2-3-4-5 va de uno en uno. Siempre hay que buscar la regla del patrón. 🔢"
-      },
-      {
-        "id": "pre1-mat-b1-v2-002",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El cuadrado tiene ___ lados iguales",
-        "respuestaCorrecta": "4",
-        "explicacion": "¡4 lados iguales! Por eso se llama cuadrado. Si los lados son iguales pero no forma ángulos rectos, a veces se llama rombo. 🟦"
-      },
-      {
-        "id": "pre1-mat-b1-v2-003",
-        "tema": "Más y menos",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "2 + 3 = 5",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! 2 + 3 = 5. Podemos comprobarlo con los dedos: 2 dedos + 3 dedos = 5 dedos. ✋"
-      },
-      {
-        "id": "pre1-mat-b1-v2-004",
         "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
+        "tipo": "visual_count",
         "nivel": "v2",
-        "pregunta": "¿Qué número es el MAYOR de todos estos? 1, 5, 3, 2",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "5"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "¡El 5 es el mayor! Podemos comparar contando: 5 está al final de 1-2-3-4-5, por eso es el más grande. 🏆"
-      },
-      {
-        "id": "pre1-mat-b1-v2-005",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Si ordeno de menor a mayor: 3, 1, 5, 2, 4... el primero es el ___",
-        "respuestaCorrecta": "1",
-        "explicacion": "¡El 1! Ordenar de menor a mayor: 1, 2, 3, 4, 5. El más pequeño va primero. 📊"
-      },
-      {
-        "id": "pre1-mat-b1-v2-006",
-        "tema": "Figuras básicas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos lados tiene un rectángulo?",
+        "pregunta": "¿Cuántos dedos hay en UNA mano? ✋",
         "opciones": [
           "3",
           "4",
           "5",
-          "6"
+          "10"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "¡Una mano tiene 5 dedos! Pulgar, índice, medio, anular y meñique. ¡Son 5! ✋5️⃣",
+        "visual": "✋"
+      },
+      {
+        "id": "pre1-mat-b1-v2-002",
+        "tema": "Reconocer números escritos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué número viene DESPUÉS del 3?",
+        "opciones": [
+          "4",
+          "2",
+          "5",
+          "1"
         ],
         "respuestaCorrecta": "4",
-        "explicacion": "¡4 lados! Pero a diferencia del cuadrado, en el rectángulo 2 lados son más largos y 2 más cortos. ¡Como la pantalla de la tele! 📺"
+        "explicacion": "¡El 4! La secuencia es: 1, 2, 3, 4, 5. Después del 3 siempre viene el 4. 3️⃣➡️4️⃣"
+      },
+      {
+        "id": "pre1-mat-b1-v2-003",
+        "tema": "Más y menos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si tengo 2 caramelos y me dan 1 más, ¿cuántos tengo?",
+        "opciones": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "¡Tengo 3! 2 + 1 = 3. ¡Eso es sumar! Juntar cosas para tener más. 🍬🍬🍬",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 18
+        }
+      },
+      {
+        "id": "pre1-mat-b1-v2-004",
+        "tema": "Correspondencia uno a uno",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Si hay 4 platos pero solo 3 cucharas, TODOS los platos tienen cuchara.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Un plato se queda sin cuchara. 4 platos necesitan 4 cucharas para que cada uno tenga la suya. 🍽️🥄"
+      },
+      {
+        "id": "pre1-mat-b1-v2-005",
+        "tema": "Contar del 1 al 5",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Completa la secuencia: 1, 2, ___, 4, 5.",
+        "respuestaCorrecta": "3",
+        "explicacion": "¡El 3! Los números van en orden: 1, 2, 3, 4, 5. El 3 va en medio. 1️⃣2️⃣3️⃣4️⃣5️⃣"
+      },
+      {
+        "id": "pre1-mat-b1-v2-006",
+        "tema": "Reconocer números escritos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué número viene ANTES del 5?",
+        "opciones": [
+          "4",
+          "3",
+          "6",
+          "2"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "¡El 4! Antes del 5 siempre está el 4. Los números tienen un orden fijo. 4️⃣⬅️5️⃣"
       },
       {
         "id": "pre1-mat-b1-v2-007",
         "tema": "Más y menos",
-        "tipo": "fill_blank",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Tengo 5 caramelos y te doy 2. Me quedan ___ caramelos",
-        "respuestaCorrecta": "3",
-        "explicacion": "5 - 2 = 3. ¡Restar es quitar! Si teníamos 5 y quitamos 2, quedan 3. 🍬"
+        "pregunta": "El número 1 es MENOR que el número 5.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 1 es menor que 5. 'Menor que' significa 'más chiquito'. 1 < 5. 📏"
       },
       {
         "id": "pre1-mat-b1-v2-008",
-        "tema": "Patrones simples",
-        "tipo": "true_false",
+        "tema": "Correspondencia uno a uno",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El patrón 🔵🔴🔵🔴 continúa con 🔵",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El patrón es azul-rojo-azul-rojo. Después del último 🔴 viene el 🔵. ¡Los patrones son predecibles! 🔵"
+        "pregunta": "Hay 5 niños en una fila. ¿Quién está en el lugar número 1?",
+        "opciones": [
+          "El primero de la fila",
+          "El último",
+          "El de en medio",
+          "Ninguno"
+        ],
+        "respuestaCorrecta": "El primero de la fila",
+        "explicacion": "¡El primero! Los números también sirven para decir el ORDEN: primero (1°), segundo (2°), tercero (3°)... 1️⃣🏆"
       },
       {
         "id": "pre1-mat-b1-v2-009",
         "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
+        "tipo": "visual_count",
         "nivel": "v2",
-        "pregunta": "¿Cuántos lados tiene un triángulo más un cuadrado?",
+        "pregunta": "🐸🐸🐸🐸 ¿Cuántas ranas hay si llega 1 más? 🐸",
         "opciones": [
+          "4",
           "5",
-          "6",
-          "7",
-          "8"
+          "3",
+          "6"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "¡Triángulo (3 lados) + Cuadrado (4 lados) = 7 lados! Sumar también funciona con las propiedades de las figuras. 🔺🟦"
+        "respuestaCorrecta": "5",
+        "explicacion": "¡5 ranas! Había 4 y llegó 1 más: 4 + 1 = 5. ¡La familia de ranas creció! 🐸🐸🐸🐸🐸"
       },
       {
         "id": "pre1-mat-b1-v2-010",
-        "tema": "Ordena objetos",
-        "tipo": "true_false",
+        "tema": "Más y menos",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En la secuencia 5, 4, 3, 2, 1 los números van de MAYOR a MENOR",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Esta secuencia cuenta hacia atrás: empieza en el más grande (5) y termina en el más pequeño (1). ¡Como el conteo de un cohete! 🚀"
+        "pregunta": "Si tengo 5 galletas y le doy 2 a mi amigo, me quedan ___.",
+        "respuestaCorrecta": "3",
+        "explicacion": "¡Me quedan 3! 5 menos 2 es 3. ¡Compartir es restar con el corazón! 🍪❤️"
       }
     ],
     "preview": [
       {
         "id": "pre1-mat-b1-v1-001",
         "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
+        "tipo": "visual_count",
         "nivel": "v1",
-        "pregunta": "¿Cuántos 🍎 hay? 🍎🍎🍎",
+        "pregunta": "¿Cuántas manzanas? 🍎🍎🍎",
         "opciones": [
           "1",
           "2",
@@ -269,34 +318,38 @@
           "4"
         ],
         "respuestaCorrecta": "3",
-        "explicacion": "¡Contamos: 1, 2, 3! 🍎"
+        "explicacion": "¡Son 3! 🍎🍎🍎",
+        "visual": "🍎🍎🍎",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-mat-b1-v1-002",
-        "tema": "Figuras básicas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El círculo es completamente redondo, sin esquinas",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sin esquinas ni lados rectos! ⭕"
-      },
-      {
-        "id": "pre1-mat-b1-v2-001",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b1-v1-003",
+        "tema": "Reconocer números escritos",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5. ¿Qué número falta?",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se escribe 'dos'?",
         "opciones": [
           "2",
-          "3",
-          "6",
-          "7"
+          "5",
+          "1",
+          "4"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "¡El 3! 1-2-3-4-5. 🔢"
+        "respuestaCorrecta": "2",
+        "explicacion": "¡El 2! 2️⃣",
+        "visual": "2️⃣"
+      },
+      {
+        "id": "pre1-mat-b1-v1-006",
+        "tema": "Correspondencia uno a uno",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "3 niños y 3 vasos: ¿le toca 1 a cada uno?",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! ¡Uno para cada uno! 🥛👦",
+        "fuenteSEP": true
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T12:40:00.000Z",
+  "version": "4.0-SEP"
 }

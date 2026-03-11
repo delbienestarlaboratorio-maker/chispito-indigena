@@ -1,8 +1,8 @@
 import { MetadataRoute } from 'next';
 import { GRADOS, MATERIAS } from '@/data/curriculum';
-import { GRADOS_CONTENIDO as PRIMARIA } from '@/data/content-primaria';
-import { GRADOS_SUPERIORES as SECUNDARIA } from '@/data/content-grados-superiores';
-import { KINDER } from '@/data/content-kinder';
+import { GRADOS_CONTENIDO as PRIMARIA } from '@/data/content-primaria-slim';
+import { GRADOS_SUPERIORES as SECUNDARIA } from '@/data/content-grados-superiores-slim';
+import { KINDER } from '@/data/content-kinder-slim';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://chispito.mx';
 

@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
-import { GRADOS_CONTENIDO } from "@/data/content-primaria";
+import { GRADOS_CONTENIDO } from "@/data/content-primaria-slim";
 import type { Metadata } from "next";
 import Navbar from "@/components/Navbar";
 import ExercisePlayer from "@/components/ExercisePlayer";
@@ -9,6 +9,7 @@ import PrimariaExercisePlayer from "@/components/PrimariaExercisePlayer";
 import WorksheetGenerator from "@/components/WorksheetGenerator";
 import LibroSepBadge from "@/components/LibroSepBadge";
 import UniversoBanner from "@/components/UniversoBanner";
+import GuiaPadres from "@/components/GuiaPadres";
 import { AdBannerHorizontal } from "@/components/AdBanner";
 import Link from "next/link";
 import ComentariosSection from "@/components/ComentariosSection";
@@ -85,6 +86,13 @@ export default async function BloquePage({ params }: Props) {
     ];
 
     const esKinder = GRADOS_KINDER.includes(grado);
+
+    // Buscar guiaPapa del contenido
+    const gradoContenido = GRADOS_CONTENIDO[grado];
+    const materiaContenido = gradoContenido?.materias?.[materia];
+    const bloqueNum = parseInt(bloque.replace('bloque-', ''), 10);
+    const bloqueContenido = materiaContenido?.bloques?.find((b: { bloque: number }) => b.bloque === bloqueNum);
+    const guiaPapa = bloqueContenido?.guiaPapa;
 
     return (
         <main
@@ -221,6 +229,13 @@ export default async function BloquePage({ params }: Props) {
             </section>
 
             <AdBannerHorizontal />
+
+            {/* Guía para Padres */}
+            {guiaPapa && (
+                <section className="px-4 py-2">
+                    <GuiaPadres data={guiaPapa} color={materiaInfo.color} />
+                </section>
+            )}
 
             {/* Hoja de tarea imprimible */}
             <section className="py-4 px-4">

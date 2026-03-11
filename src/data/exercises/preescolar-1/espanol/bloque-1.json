@@ -2,295 +2,332 @@
   "grado": "preescolar-1",
   "materia": "espanol",
   "bloque": 1,
-  "nombre": "Hablo y escucho",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Mis primeras letras y mi nombre",
+  "libroSep": "K1MLA",
+  "paginasLibro": "8-30",
+  "meses": "Agosto–Septiembre",
   "temas": [
-    "Mi nombre",
-    "Vocales A E I",
-    "Imágenes y palabras",
+    "Las vocales A E I O U",
+    "Mi nombre empieza con...",
     "Escuchar cuentos",
-    "Mis primeras letras"
+    "Imágenes y palabras"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-esp-b1-v1-001",
-        "tema": "Vocales A E I",
+        "tema": "Las vocales A E I O U",
         "tipo": "multiple_choice",
         "nivel": "v1",
         "pregunta": "¿Cuál de estas letras es una VOCAL?",
         "opciones": [
+          "A",
           "B",
           "M",
-          "A",
           "T"
         ],
         "respuestaCorrecta": "A",
-        "explicacion": "Las vocales son: A, E, I, O, U. ¡Son las letras más especiales porque están en todas las palabras!",
-        "visual": "🔤"
+        "explicacion": "¡La A es una vocal! Las 5 vocales son: A, E, I, O, U. ¡Sin vocales no podemos hablar! 🗣️",
+        "visual": "📝",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 12
+        }
       },
       {
         "id": "pre1-esp-b1-v1-002",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
+        "tema": "Las vocales A E I O U",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "MAMÁ empieza con la letra ___",
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es la M. ¡Mamá empieza con M de Maravillosa! 💕"
+        "pregunta": "Las vocales son: A, E, I, O, U.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Son 5 vocales. ¡Son las letras más importantes porque están en TODAS las palabras! A-E-I-O-U 🎵"
       },
       {
         "id": "pre1-esp-b1-v1-003",
-        "tema": "Escuchar cuentos",
-        "tipo": "true_false",
+        "tema": "Mi nombre empieza con...",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "\"PERRO\" tiene 5 letras",
-        "respuestaCorrecta": "true",
-        "explicacion": "P-E-R-R-O. ¡Contamos: 1,2,3,4,5! Sí, tiene 5 letras. 🐶",
-        "visual": "🐶"
+        "pregunta": "La palabra 'mamá' empieza con la letra...",
+        "opciones": [
+          "M",
+          "P",
+          "A",
+          "S"
+        ],
+        "respuestaCorrecta": "M",
+        "explicacion": "¡La M! MA-MÁ. La primera letra es la M. ¡Tu nombre también empieza con una letra especial! Ⓜ️👩",
+        "visual": "👩"
       },
       {
         "id": "pre1-esp-b1-v1-004",
-        "tema": "Vocales A E I",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué vocal es esta? 🍎 (la que suena en 'A' de Apple)",
-        "opciones": [
-          "A",
-          "E",
-          "I",
-          "O"
-        ],
-        "respuestaCorrecta": "A",
-        "explicacion": "¡La A! Es la primera vocal. Abre mucho la boca para decirla: aaaa. 😮"
-      },
-      {
-        "id": "pre1-esp-b1-v1-005",
-        "tema": "Mi nombre",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Todos los nombres de personas empiezan con letra MAYÚSCULA",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Los nombres propios como María, Carlos, Sofia, siempre empiezan con mayúscula. Es una regla importante. 📝"
-      },
-      {
-        "id": "pre1-esp-b1-v1-006",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué letra es la última del abecedario?",
-        "opciones": [
-          "Z",
-          "X",
-          "Y",
-          "W"
-        ],
-        "respuestaCorrecta": "Z",
-        "explicacion": "¡La Z es la última letra del abecedario! A-B-C...X-Y-Z. 🔤"
-      },
-      {
-        "id": "pre1-esp-b1-v1-007",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una imagen de un 🌞 representa la palabra ___",
-        "respuestaCorrecta": "sol",
-        "explicacion": "¡El sol 🌞! Las imágenes nos ayudan a aprender palabras nuevas. ¡Un dibujo vale más que mil palabras!"
-      },
-      {
-        "id": "pre1-esp-b1-v1-008",
-        "tema": "Vocales A E I",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas vocales tiene la palabra 'NIÑO'?",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "2",
-        "explicacion": "N-I-Ñ-O. Las vocales son la I y la O. ¡Hay 2 vocales!"
-      },
-      {
-        "id": "pre1-esp-b1-v1-009",
         "tema": "Escuchar cuentos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los cuentos tienen personajes, un problema y un final",
+        "pregunta": "Los cuentos nos enseñan historias y nuevas palabras.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Así es! Los cuentos presentan personajes (héroes, villanos), viven aventuras (el problema) y tienen un final feliz o sorpresivo. 📖"
+        "explicacion": "¡Sí! Los cuentos son como viajes con palabras. Cada cuento tiene nuevas palabras que aprender. 📚✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 15
+        }
+      },
+      {
+        "id": "pre1-esp-b1-v1-005",
+        "tema": "Imágenes y palabras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal ves en esta imagen? 🐱",
+        "opciones": [
+          "Un gato",
+          "Un perro",
+          "Un pez",
+          "Un pájaro"
+        ],
+        "respuestaCorrecta": "Un gato",
+        "explicacion": "¡Es un gato! 🐱 = gato. Las imágenes nos ayudan a aprender palabras. ¡Cada dibujo tiene un nombre! 🐱",
+        "visual": "🐱"
+      },
+      {
+        "id": "pre1-esp-b1-v1-006",
+        "tema": "Las vocales A E I O U",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La palabra 'oso' empieza con la vocal ___.",
+        "respuestaCorrecta": "O",
+        "explicacion": "¡La O! OSO empieza con O. ¡La O es redondita como un oso panda! 🐻⭕"
+      },
+      {
+        "id": "pre1-esp-b1-v1-007",
+        "tema": "Mi nombre empieza con...",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué vocal empieza la palabra 'elefante'? 🐘",
+        "opciones": [
+          "E",
+          "A",
+          "I",
+          "U"
+        ],
+        "respuestaCorrecta": "E",
+        "explicacion": "¡Con la E! E-le-fan-te. La E es la segunda vocal. 🐘📝",
+        "visual": "🐘"
+      },
+      {
+        "id": "pre1-esp-b1-v1-008",
+        "tema": "Escuchar cuentos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo empiezan muchos cuentos?",
+        "opciones": [
+          "'Había una vez...'",
+          "'Adiós'",
+          "'Fin'",
+          "'Mañana'"
+        ],
+        "respuestaCorrecta": "'Había una vez...'",
+        "explicacion": "¡'Había una vez'! Es la frase mágica que abre la puerta a un cuento. ¡Prepárate para la aventura! 📖✨"
+      },
+      {
+        "id": "pre1-esp-b1-v1-009",
+        "tema": "Imágenes y palabras",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En los libros, los dibujos nos ayudan a entender la historia.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las ilustraciones nos muestran lo que dicen las palabras. ¡Por eso los libros de niños tienen muchos dibujos! 🎨📖",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 20
+        }
       },
       {
         "id": "pre1-esp-b1-v1-010",
-        "tema": "Mi nombre",
-        "tipo": "fill_blank",
+        "tema": "Las vocales A E I O U",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "La vocal que suena en 'ELEFANTE' al inicio es la ___",
-        "respuestaCorrecta": "E",
-        "explicacion": "¡E de Elefante! E-L-E-F-A-N-T-E. La primera letra es la vocal E. 🐘"
+        "pregunta": "¿Con qué vocal empieza la palabra 'uva'? 🍇",
+        "opciones": [
+          "U",
+          "A",
+          "I",
+          "E"
+        ],
+        "respuestaCorrecta": "U",
+        "explicacion": "¡Con la U! U-va. La U es la última vocal. A, E, I, O, U... ¡la U cierra el grupo! 🍇",
+        "visual": "🍇"
       }
     ],
     "v2": [
       {
         "id": "pre1-esp-b1-v2-001",
-        "tema": "Mis primeras letras",
+        "tema": "Las vocales A E I O U",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántas vocales hay en la palabra 'CASA'?",
+        "pregunta": "¿Cuántas vocales tiene la palabra 'mariposa'?",
         "opciones": [
-          "1",
+          "4 (a-i-o-a)",
           "2",
-          "3",
-          "4"
+          "5",
+          "1"
         ],
-        "respuestaCorrecta": "2",
-        "explicacion": "C-A-S-A. Las vocales son A y A. ¡Hay 2! 🏠",
-        "visual": "🏠"
+        "respuestaCorrecta": "4 (a-i-o-a)",
+        "explicacion": "¡4 vocales! Ma-ri-po-sa tiene la A, la I, la O y otra A. ¡Cada sílaba tiene al menos una vocal! 🦋",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 14
+        }
       },
       {
         "id": "pre1-esp-b1-v2-002",
-        "tema": "Mi nombre",
+        "tema": "Mi nombre empieza con...",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las vocales son: A, E, ___, O, U",
-        "respuestaCorrecta": "I",
-        "explicacion": "¡Las 5 vocales! A-E-I-O-U. La que falta es la I. 🔤"
+        "pregunta": "La primera letra de mi nombre se llama ini___.",
+        "respuestaCorrecta": "cial",
+        "explicacion": "¡Inicial! La primera letra de tu nombre es tu inicial. Si te llamas Ana, tu inicial es la A. 📝"
       },
       {
         "id": "pre1-esp-b1-v2-003",
         "tema": "Escuchar cuentos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un cuento?",
+        "pregunta": "En un cuento, ¿quiénes son los 'personajes'?",
         "opciones": [
-          "Una historia inventada con personajes",
-          "Un número matemático",
-          "Un dibujo de colores",
-          "Un juego de patio"
+          "Las personas o animales que aparecen en la historia",
+          "Los que escriben",
+          "Los que leen",
+          "Los que dibujan"
         ],
-        "respuestaCorrecta": "Una historia inventada con personajes",
-        "explicacion": "¡Un cuento es una historia! Tiene personajes, aventuras y una moraleja o enseñanza. 📚"
+        "respuestaCorrecta": "Las personas o animales que aparecen en la historia",
+        "explicacion": "¡Los personajes! Son quienes viven la aventura en el cuento: la princesa, el lobo, el conejo... 👸🐺🐰"
       },
       {
         "id": "pre1-esp-b1-v2-004",
-        "tema": "Vocales A E I",
+        "tema": "Imágenes y palabras",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La letra 'I' es una vocal",
+        "pregunta": "Las letras juntas forman palabras, y las palabras juntas forman oraciones.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! La I es la tercera vocal. A-E-I-O-U. ¡Recuérdalas en orden! 🎵"
+        "explicacion": "¡Sí! Letras → palabras → oraciones → historias. ¡Así funciona el idioma! 🅰️➡️📝➡️📖"
       },
       {
         "id": "pre1-esp-b1-v2-005",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
+        "tema": "Las vocales A E I O U",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Un libro que solo tiene imágenes sin texto se llama libro ___",
-        "respuestaCorrecta": "ilustrado",
-        "explicacion": "Los libros ilustrados enseñan con imágenes. ¡Los bebés aprenden sus primeras palabras con libros de imágenes! 🖼️"
+        "pregunta": "¿Cuál de estas palabras empieza con vocal?",
+        "opciones": [
+          "Iguana 🦎",
+          "Perro 🐕",
+          "Gato 🐱",
+          "Ratón 🐭"
+        ],
+        "respuestaCorrecta": "Iguana 🦎",
+        "explicacion": "¡Iguana empieza con I! Las otras empiezan con consonantes (P, G, R). 🦎"
       },
       {
         "id": "pre1-esp-b1-v2-006",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
+        "tema": "Mi nombre empieza con...",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué letra falta? A-B-C-___-E",
-        "opciones": [
-          "D",
-          "G",
-          "F",
-          "H"
-        ],
-        "respuestaCorrecta": "D",
-        "explicacion": "El abecedario: A-B-C-D-E. La letra que falta es la D. 🔤"
+        "pregunta": "Todos los nombres propios de personas se escriben con la primera letra MAYÚSCULA.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Ana, Carlos, María, Pedro... Los nombres siempre empiezan con mayúscula. ¡Es una regla! 📏🔤"
       },
       {
         "id": "pre1-esp-b1-v2-007",
-        "tema": "Mi nombre",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Mi nombre es una parte de mi identidad",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Tu nombre te identifica. Es único y especial porque te hace diferente a todos los demás. 🌟"
-      },
-      {
-        "id": "pre1-esp-b1-v2-008",
-        "tema": "Vocales A E I",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas vocales tiene el español?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "¡5 vocales! A-E-I-O-U. Son las letras más importantes porque aparecen en casi todas las palabras. 🔤"
-      },
-      {
-        "id": "pre1-esp-b1-v2-009",
         "tema": "Escuchar cuentos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En el cuento de Caperucita Roja, el villano es el ___",
-        "respuestaCorrecta": "lobo",
-        "explicacion": "¡El lobo feroz! Los villanos de los cuentos crean el problema que el héroe debe resolver. 🐺"
+        "pregunta": "Los cuentos terminan con las palabras 'colorín colo___'.",
+        "respuestaCorrecta": "rado",
+        "explicacion": "¡Colorín colorado, este cuento se ha acabado! Es la frase mágica que cierra los cuentos. 🌈✨"
+      },
+      {
+        "id": "pre1-esp-b1-v2-008",
+        "tema": "Imágenes y palabras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un 'pictograma'?",
+        "opciones": [
+          "Un dibujo que representa una palabra",
+          "Un número",
+          "Una canción",
+          "Un color"
+        ],
+        "respuestaCorrecta": "Un dibujo que representa una palabra",
+        "explicacion": "¡Un dibujo-palabra! Como cuando ves 🐱 y sabes que dice 'gato'. ¡Los emojis son pictogramas modernos! 📱🖼️"
+      },
+      {
+        "id": "pre1-esp-b1-v2-009",
+        "tema": "Las vocales A E I O U",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las letras que NO son vocales se llaman conso___.",
+        "respuestaCorrecta": "nantes",
+        "explicacion": "¡Consonantes! B, C, D, F, G... son consonantes. Necesitan una vocal para sonar bien. B + A = BA. 🔤"
       },
       {
         "id": "pre1-esp-b1-v2-010",
-        "tema": "Imágenes y palabras",
+        "tema": "Escuchar cuentos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Podemos aprender nuevas palabras mirando imágenes y escuchando su nombre",
+        "pregunta": "Leer en voz alta ayuda a mejorar el habla y la comprensión.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Las imágenes ayudan al cerebro a asociar una figura con su nombre. ¡Así aprendemos de bebés! 🧠👶"
+        "explicacion": "¡Sí! Cuando lees en voz alta practicas pronunciar, escuchar y entender. ¡Triple beneficio! 📖🗣️👂"
       }
     ],
     "preview": [
       {
         "id": "pre1-esp-b1-v1-001",
-        "tema": "Vocales A E I",
+        "tema": "Las vocales A E I O U",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas letras es una VOCAL?",
+        "pregunta": "¿Cuál es una vocal?",
         "opciones": [
+          "A",
           "B",
           "M",
-          "A",
           "T"
         ],
         "respuestaCorrecta": "A",
-        "explicacion": "Las vocales son: A, E, I, O, U. ¡Las más especiales!",
-        "visual": "🔤"
+        "explicacion": "¡La A! 🗣️",
+        "visual": "📝",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-esp-b1-v1-003",
-        "tema": "Escuchar cuentos",
+        "id": "pre1-esp-b1-v1-005",
+        "tema": "Imágenes y palabras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal es? 🐱",
+        "opciones": [
+          "Gato",
+          "Perro",
+          "Pez",
+          "Pájaro"
+        ],
+        "respuestaCorrecta": "Gato",
+        "explicacion": "¡Un gato! 🐱",
+        "visual": "🐱"
+      },
+      {
+        "id": "pre1-esp-b1-v1-002",
+        "tema": "Las vocales A E I O U",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"PERRO\" tiene 5 letras",
+        "pregunta": "Las vocales son A, E, I, O, U.",
         "respuestaCorrecta": "true",
-        "explicacion": "P-E-R-R-O = 5 letras 🐶"
-      },
-      {
-        "id": "pre1-esp-b1-v2-001",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas vocales hay en la palabra 'CASA'?",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "2",
-        "explicacion": "C-A-S-A: vocales A y A = 2. 🏠"
+        "explicacion": "¡Sí! 5 vocales. 🎵"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T13:05:00.000Z",
+  "version": "4.0-SEP"
 }

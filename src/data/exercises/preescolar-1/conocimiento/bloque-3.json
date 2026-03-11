@@ -2,294 +2,318 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 3,
-  "nombre": "Mi comunidad",
-  "meses": "Diciembre-Enero",
+  "nombre": "Los animales y el mundo natural",
+  "libroSep": "K1LPA",
+  "paginasLibro": "56-80",
+  "meses": "Diciembre–Enero",
   "temas": [
-    "El vecindario",
-    "Los trabajos",
-    "Los servicios",
-    "Reglas de convivencia",
-    "Medios de transporte"
+    "Animales domésticos y silvestres",
+    "Hábitats: dónde viven los animales",
+    "Insectos y bichos pequeños",
+    "Los sonidos de los animales"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "pre1-con-b3-v1-001",
-        "tema": "Los trabajos",
+        "id": "pre1-conoc-b3-v1-001",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué hace un médico?",
+        "pregunta": "¿Cuál de estos es un animal doméstico que vive en las casas?",
         "opciones": [
-          "Cuida la salud de las personas",
-          "Apaga incendios",
-          "Construye casas",
-          "Maneja autobuses"
+          "El perro 🐕",
+          "El león 🦁",
+          "El tiburón 🦈",
+          "El águila 🦅"
         ],
-        "respuestaCorrecta": "Cuida la salud de las personas",
-        "explicacion": "¡Los médicos nos cuidan cuando estamos enfermos! Van a la escuela muchos años para ayudar a los demás. 👩‍⚕️",
-        "visual": "👩‍⚕️"
+        "respuestaCorrecta": "El perro 🐕",
+        "explicacion": "¡El perro es un animal doméstico! Vive con las personas y es nuestro mejor amigo. Los leones y tiburones son silvestres. 🐕❤️",
+        "visual": "🐕"
       },
       {
-        "id": "pre1-con-b3-v1-002",
-        "tema": "El vecindario",
+        "id": "pre1-conoc-b3-v1-002",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El parque es un espacio de la comunidad donde todos pueden jugar",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Los parques son de todos! Son espacios públicos donde niños y adultos pueden descansar y jugar. 🌳⛲"
+        "pregunta": "Un gato es un animal silvestre que vive en la selva.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! El gato es un animal doméstico que vive en las casas con nosotros. Los gatos silvestres son los tigres y jaguares. 🐱"
       },
       {
-        "id": "pre1-con-b3-v1-003",
-        "tema": "Los servicios",
+        "id": "pre1-conoc-b3-v1-003",
+        "tema": "Hábitats: dónde viven los animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Dónde vamos cuando estamos muy enfermos y necesitamos medicina?",
+        "pregunta": "¿Dónde viven los peces?",
         "opciones": [
-          "Al hospital",
-          "Al cine",
-          "Al mercado",
-          "A la escuela"
+          "En el agua 🌊",
+          "En los árboles 🌳",
+          "En las nubes ☁️",
+          "En la tierra 🏔️"
         ],
-        "respuestaCorrecta": "Al hospital",
-        "explicacion": "¡Al hospital! Ahí trabajan médicos, enfermeras y muchas personas que cuidan nuestra salud. 🏥"
+        "respuestaCorrecta": "En el agua 🌊",
+        "explicacion": "¡Los peces viven en el agua! Pueden vivir en ríos, lagos o en el mar. ¡El agua es su hogar! 🐟🌊",
+        "visual": "🐟"
       },
       {
-        "id": "pre1-con-b3-v1-004",
-        "tema": "Medios de transporte",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El avión vuela por el ___ y nos lleva a lugares lejanos muy rápido",
-        "respuestaCorrecta": "cielo",
-        "explicacion": "¡El avión vuela en el cielo! Es el medio de transporte más rápido para llegar a otros países. ✈️",
-        "visual": "✈️"
-      },
-      {
-        "id": "pre1-con-b3-v1-005",
-        "tema": "Reglas de convivencia",
+        "id": "pre1-conoc-b3-v1-004",
+        "tema": "Hábitats: dónde viven los animales",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos tirar la basura en los botes y no en el suelo",
+        "pregunta": "Los pájaros pueden volar porque tienen alas.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Tirar basura en el suelo contamina y daña el vecindario. ¡Cada quien es responsable de su basura! ♻️🗑️"
+        "explicacion": "¡Sí! Las alas les permiten volar por el cielo. Algunos pájaros vuelan muy alto y otros vuelan bajito. 🐦✨",
+        "visual": "🐦"
       },
       {
-        "id": "pre1-con-b3-v1-006",
-        "tema": "Los trabajos",
+        "id": "pre1-conoc-b3-v1-005",
+        "tema": "Insectos y bichos pequeños",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién enseña a los niños en la escuela?",
+        "pregunta": "¿Cuántas patas tiene una hormiga?",
         "opciones": [
-          "El maestro o maestra",
-          "El bombero",
-          "El marinero",
-          "El dentista"
+          "6",
+          "4",
+          "8",
+          "2"
         ],
-        "respuestaCorrecta": "El maestro o maestra",
-        "explicacion": "¡Los maestros son superhéroes! Enseñan, cuidan y guían a los niños todos los días. 👨‍🏫❤️"
+        "respuestaCorrecta": "6",
+        "explicacion": "¡Las hormigas tienen 6 patas! Todos los insectos tienen 6 patas. Las arañas tienen 8 pero no son insectos. 🐜",
+        "visual": "🐜"
       },
       {
-        "id": "pre1-con-b3-v1-007",
-        "tema": "El vecindario",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La persona que vive en la casa de al lado o en el mismo edificio es nuestro ___",
-        "respuestaCorrecta": "vecino",
-        "explicacion": "¡El vecino! Es la persona que vive cerca. ¡Tener buenos vecinos hace la comunidad más feliz y segura! 🏘️"
-      },
-      {
-        "id": "pre1-con-b3-v1-008",
-        "tema": "Medios de transporte",
+        "id": "pre1-conoc-b3-v1-006",
+        "tema": "Insectos y bichos pequeños",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La bicicleta es un medio de transporte que no contamina",
+        "pregunta": "Las mariposas antes eran orugas (gusanitos).",
         "respuestaCorrecta": "true",
-        "explicacion": "¡La bicicleta es ecológica! No usa gasolina ni contamina. ¡Pedalear también hace bien a la salud! 🚲💚"
+        "explicacion": "¡Sí! La mariposa empieza como huevito, luego es oruga, después capullo, y al final sale como mariposa. ¡Magia de la naturaleza! 🐛🦋"
       },
       {
-        "id": "pre1-con-b3-v1-009",
-        "tema": "Los servicios",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Dónde compramos frutas, verduras y alimentos?",
-        "opciones": [
-          "En el mercado",
-          "En el hospital",
-          "En la escuela",
-          "En el parque"
-        ],
-        "respuestaCorrecta": "En el mercado",
-        "explicacion": "¡En el mercado o tienda! Ahí los comerciantes venden los alimentos que necesitamos. ¡El mercado es el corazón de la comunidad! 🥕🍎🏪"
-      },
-      {
-        "id": "pre1-con-b3-v1-010",
-        "tema": "Reglas de convivencia",
+        "id": "pre1-conoc-b3-v1-007",
+        "tema": "Los sonidos de los animales",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Cuando alguien nos hace un favor, decimos ___",
-        "respuestaCorrecta": "gracias",
-        "explicacion": "¡Gracias! Es una de las palabras mágicas de la convivencia. ¡La gratitud hace las comunidades más amables! 😊"
+        "pregunta": "El gallo canta 'quiquiri___' cuando sale el sol.",
+        "respuestaCorrecta": "quí",
+        "explicacion": "¡Quiquiriquí! El gallo canta todas las mañanas cuando sale el sol. ¡Es como un despertador natural! 🐓☀️"
+      },
+      {
+        "id": "pre1-conoc-b3-v1-008",
+        "tema": "Los sonidos de los animales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal hace 'muuu'?",
+        "opciones": [
+          "La vaca 🐄",
+          "El gato 🐱",
+          "El pez 🐟",
+          "El ratón 🐭"
+        ],
+        "respuestaCorrecta": "La vaca 🐄",
+        "explicacion": "¡La vaca hace 'muuu'! Las vacas nos dan leche para hacer queso, yogur y muchos alimentos ricos. 🐄🥛",
+        "visual": "🐄"
+      },
+      {
+        "id": "pre1-conoc-b3-v1-009",
+        "tema": "Animales domésticos y silvestres",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal es famoso en México porque no tiene pelo?",
+        "opciones": [
+          "El xoloitzcuintle 🐕",
+          "El gato 🐱",
+          "El conejo 🐰",
+          "El pez 🐟"
+        ],
+        "respuestaCorrecta": "El xoloitzcuintle 🐕",
+        "explicacion": "¡El xoloitzcuintle! Un perro mexicano sin pelo que los pueblos antiguos consideraban sagrado. ¡Todavía existe hoy! 🐕🇲🇽",
+        "visual": "🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
+      },
+      {
+        "id": "pre1-conoc-b3-v1-010",
+        "tema": "Hábitats: dónde viven los animales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los osos polares viven en lugares muy fríos con nieve y hielo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los osos polares viven en el Ártico, donde hace mucho, mucho frío. Su pelo blanco los ayuda a esconderse en la nieve. ❄️🐻‍❄️",
+        "visual": "🐻‍❄️"
       }
     ],
     "v2": [
       {
-        "id": "pre1-con-b3-v2-001",
-        "tema": "Los trabajos",
+        "id": "pre1-conoc-b3-v2-001",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué hace un bombero?",
+        "pregunta": "¿Cuál es la diferencia principal entre un animal doméstico y uno silvestre?",
         "opciones": [
-          "Apaga incendios y rescata personas",
-          "Construye casas",
-          "Maneja el metro",
-          "Vende comida"
+          "El doméstico vive con personas, el silvestre vive libre en la naturaleza",
+          "No hay diferencia",
+          "El silvestre es más pequeño",
+          "El doméstico es más grande"
         ],
-        "respuestaCorrecta": "Apaga incendios y rescata personas",
-        "explicacion": "¡Los bomberos son valientes! Apagan incendios, rescatan a personas y a veces ¡hasta salvan animalitos! 🚒🔥",
-        "visual": "🚒"
+        "respuestaCorrecta": "El doméstico vive con personas, el silvestre vive libre en la naturaleza",
+        "explicacion": "¡Los domésticos conviven con nosotros y los silvestres viven libres en la naturaleza! Cada uno tiene su lugar. 🏠🌿"
       },
       {
-        "id": "pre1-con-b3-v2-002",
-        "tema": "Los servicios",
+        "id": "pre1-conoc-b3-v2-002",
+        "tema": "Hábitats: dónde viven los animales",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las personas que trabajan protegiendo la ciudad y haciendo cumplir las leyes son los ___",
-        "respuestaCorrecta": "policías",
-        "explicacion": "¡Los policías! Su trabajo es mantener la paz y la seguridad en comunidad. ¡En México se llaman agentes o policías! 👮"
+        "pregunta": "El lugar donde vive un animal se llama su hábi___.",
+        "respuestaCorrecta": "tat",
+        "explicacion": "¡Hábitat! Es el lugar natural donde vive un animal: la selva, el mar, el desierto, el polo... Cada animal tiene el suyo. 🌍"
       },
       {
-        "id": "pre1-con-b3-v2-003",
-        "tema": "Medios de transporte",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El metro es un tren subterráneo que existe en la Ciudad de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡El Metro de CDMX! Es uno de los más grandes del mundo. Transporta millones de personas cada día. ¡Un orgullo mexicano! 🚇🇲🇽"
-      },
-      {
-        "id": "pre1-con-b3-v2-004",
-        "tema": "El vecindario",
+        "id": "pre1-conoc-b3-v2-003",
+        "tema": "Insectos y bichos pequeños",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estos es un ejemplo de espacio público?",
+        "pregunta": "Las abejas son muy importantes para la naturaleza porque...",
         "opciones": [
-          "El parque de la colonia",
-          "El cuarto de tu casa",
-          "El cajón de tu escritorio",
-          "El refrigerador de tu cocina"
+          "Llevan el polen de flor en flor para que nazcan frutos",
+          "Hacen ruido",
+          "Son grandes",
+          "No son importantes"
         ],
-        "respuestaCorrecta": "El parque de la colonia",
-        "explicacion": "¡El parque es público! Significa que es de todos y todos podemos usarlo con respeto. ¡Lo público nos pertenece a todos! 🌳"
+        "respuestaCorrecta": "Llevan el polen de flor en flor para que nazcan frutos",
+        "explicacion": "¡Las abejas son superheroínas! Al volar de flor en flor llevan el polen que permite que crezcan frutas y verduras. 🐝🌸🍎"
       },
       {
-        "id": "pre1-con-b3-v2-005",
-        "tema": "Reglas de convivencia",
+        "id": "pre1-conoc-b3-v2-004",
+        "tema": "Los sonidos de los animales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los delfines se comunican con sonidos bajo el agua, como clicks y silbidos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los delfines usan clicks y silbidos para hablar entre ellos bajo el agua. ¡Son muy inteligentes! 🐬🎵"
+      },
+      {
+        "id": "pre1-conoc-b3-v2-005",
+        "tema": "Animales domésticos y silvestres",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué responsabilidad tenemos con nuestras mascotas?",
+        "opciones": [
+          "Darles comida, agua, cariño y cuidados de salud",
+          "Nada",
+          "Solo jugar",
+          "Olvidarnos de ellos"
+        ],
+        "respuestaCorrecta": "Darles comida, agua, cariño y cuidados de salud",
+        "explicacion": "¡Las mascotas dependen de nosotros! Debemos darles comida, agua limpia, cariño y llevarlas al veterinario. 🐕❤️"
+      },
+      {
+        "id": "pre1-conoc-b3-v2-006",
+        "tema": "Hábitats: dónde viven los animales",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las reglas de una comunidad existen para que todos puedan vivir en ___ y armonía",
-        "respuestaCorrecta": "paz",
-        "explicacion": "¡Paz y armonía! Las reglas no limitan, ¡protegen! Semáforos, leyes, normas... nos ayudan a vivir juntos mejor. 🕊️"
+        "pregunta": "Los animales que viven en el agua se llaman acuá___.",
+        "respuestaCorrecta": "ticos",
+        "explicacion": "¡Acuáticos! Los peces, delfines, ballenas y pulpos son animales acuáticos porque viven en el agua. 🐋🌊"
       },
       {
-        "id": "pre1-con-b3-v2-006",
-        "tema": "Los trabajos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué profesional cuida los dientes?",
-        "opciones": [
-          "El dentista",
-          "El cardiólogo",
-          "El veterinario",
-          "El ingeniero"
-        ],
-        "respuestaCorrecta": "El dentista",
-        "explicacion": "¡El dentista! Revisa y cuida nuestros dientes. ¡Hay que ir cada 6 meses y cepillarlos 3 veces al día! 🦷😁"
-      },
-      {
-        "id": "pre1-con-b3-v2-007",
-        "tema": "Los servicios",
+        "id": "pre1-conoc-b3-v2-007",
+        "tema": "Insectos y bichos pequeños",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La escuela es un servicio public que el gobierno provee para que los niños estudien",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! La educación pública es un derecho. El gobierno construye escuelas y paga a los maestros para que todos los niños puedan aprender. 🏫📚"
+        "pregunta": "Las arañas tienen 6 patas como los insectos.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Las arañas tienen 8 patas. Por eso no son insectos, son arácnidos. ¡Los insectos siempre tienen 6 patas! 🕷️"
       },
       {
-        "id": "pre1-con-b3-v2-008",
-        "tema": "Medios de transporte",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El vehículo impulsado por el viento usando una vela se llama ___",
-        "respuestaCorrecta": "velero",
-        "explicacion": "¡El velero! Usa la energía del viento para moverse en el agua. ¡Un medio de transporte que no contamina! ⛵"
-      },
-      {
-        "id": "pre1-con-b3-v2-009",
-        "tema": "El vecindario",
+        "id": "pre1-conoc-b3-v2-008",
+        "tema": "Los sonidos de los animales",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Por qué es importante conocer a los vecinos?",
+        "pregunta": "¿Cómo se comunican los perros con los humanos?",
         "opciones": [
-          "Para ayudarnos en emergencias y crear comunidad",
-          "Solo para saludar",
-          "Para pedirles comida",
-          "No hay razón válida"
+          "Con ladridos, moviendo la cola y gestos",
+          "Hablando español",
+          "Escribiendo mensajes",
+          "No se comunican"
         ],
-        "respuestaCorrecta": "Para ayudarnos en emergencias y crear comunidad",
-        "explicacion": "¡Una buena comunidad se apoya! Si ocurre algo, los vecinos son los primeros en poder ayudar. ¡La solidaridad salva vidas! 🤝"
+        "respuestaCorrecta": "Con ladridos, moviendo la cola y gestos",
+        "explicacion": "¡Los perros nos hablan con su cuerpo! Cola moviéndose = feliz, ladrido fuerte = alerta, orejas abajo = triste. 🐕💬"
       },
       {
-        "id": "pre1-con-b3-v2-010",
-        "tema": "Reglas de convivencia",
+        "id": "pre1-conoc-b3-v2-009",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Esperar el turno en una fila es una regla de convivencia importante",
+        "pregunta": "Los animales silvestres como los jaguares NO deben tenerse como mascotas.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡La fila es justa! Todos esperamos nuestro turno en orden de llegada. Es una regla de respeto universal. 📋"
+        "explicacion": "¡Correcto! Los animales silvestres deben vivir libres en su hábitat natural. ¡Tenerlos como mascotas les hace daño! 🐆🌿"
+      },
+      {
+        "id": "pre1-conoc-b3-v2-010",
+        "tema": "Insectos y bichos pequeños",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacen las hormigas que las hace tan especiales?",
+        "opciones": [
+          "Trabajan en equipo y son muy organizadas",
+          "Duermen todo el día",
+          "No hacen nada",
+          "Vuelan muy alto"
+        ],
+        "respuestaCorrecta": "Trabajan en equipo y son muy organizadas",
+        "explicacion": "¡Las hormigas son el mejor ejemplo de trabajo en equipo! Cada una tiene un trabajo y juntas logran cosas increíbles. 🐜💪"
       }
     ],
     "preview": [
       {
-        "id": "pre1-con-b3-v1-001",
-        "tema": "Los trabajos",
+        "id": "pre1-conoc-b3-v1-001",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué hace un médico?",
+        "pregunta": "¿Cuál es un animal doméstico?",
         "opciones": [
-          "Cuida la salud de las personas",
-          "Apaga incendios",
-          "Construye casas",
-          "Maneja autobuses"
+          "El perro 🐕",
+          "El león 🦁",
+          "El tiburón 🦈",
+          "El águila 🦅"
         ],
-        "respuestaCorrecta": "Cuida la salud de las personas",
-        "explicacion": "¡Los médicos nos cuidan! 👩‍⚕️"
+        "respuestaCorrecta": "El perro 🐕",
+        "explicacion": "¡El perro vive con nosotros! 🐕❤️",
+        "visual": "🐕"
       },
       {
-        "id": "pre1-con-b3-v1-002",
-        "tema": "El vecindario",
+        "id": "pre1-conoc-b3-v1-005",
+        "tema": "Insectos y bichos pequeños",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas patas tiene una hormiga?",
+        "opciones": [
+          "6",
+          "4",
+          "8",
+          "2"
+        ],
+        "respuestaCorrecta": "6",
+        "explicacion": "¡6 patas! Todos los insectos tienen 6. 🐜",
+        "visual": "🐜"
+      },
+      {
+        "id": "pre1-conoc-b3-v1-006",
+        "tema": "Insectos y bichos pequeños",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El parque es un espacio de la comunidad donde todos pueden jugar",
+        "pregunta": "Las mariposas antes eran orugas.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Los parques son de todos! 🌳"
-      },
-      {
-        "id": "pre1-con-b3-v2-001",
-        "tema": "Los trabajos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hace un bombero?",
-        "opciones": [
-          "Apaga incendios y rescata personas",
-          "Construye casas",
-          "Maneja el metro",
-          "Vende comida"
-        ],
-        "respuestaCorrecta": "Apaga incendios y rescata personas",
-        "explicacion": "¡Los bomberos son valientes! 🚒"
+        "explicacion": "¡Sí! Oruga → capullo → mariposa. 🐛🦋"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T11:50:00.000Z",
+  "version": "4.0-SEP"
 }

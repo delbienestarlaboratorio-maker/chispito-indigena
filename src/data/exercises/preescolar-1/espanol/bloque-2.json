@@ -2,293 +2,334 @@
   "grado": "preescolar-1",
   "materia": "espanol",
   "bloque": 2,
-  "nombre": "Palabras y sonidos",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Sílabas, rimas y canciones",
+  "libroSep": "K1MLA",
+  "paginasLibro": "31-55",
+  "meses": "Octubre–Noviembre",
   "temas": [
-    "Vocales O U",
-    "Rimas y canciones",
-    "Mi familia habla",
-    "Palabras largas y cortas",
-    "Describo objetos"
+    "Las sílabas: dividir palabras",
+    "Rimas y ritmo",
+    "Canciones y rondas",
+    "Las consonantes M, P, S"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-esp-b2-v1-001",
-        "tema": "Vocales O U",
+        "tema": "Las sílabas: dividir palabras",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál vocal es la que suena en '🐻 OSO'?",
+        "pregunta": "¿Cuántas sílabas tiene la palabra 'ga-to'?",
         "opciones": [
-          "A",
-          "E",
-          "O",
-          "U"
+          "2",
+          "1",
+          "3",
+          "4"
         ],
-        "respuestaCorrecta": "O",
-        "explicacion": "¡La O! O-S-O empieza con la vocal O. ¡Como oso, olla, oreja! 🐻"
+        "respuestaCorrecta": "2",
+        "explicacion": "¡2 sílabas! GA-TO. Puedes aplaudir cada sílaba. ¡Aplaude conmigo: GA (👏) TO (👏)! 🐱",
+        "visual": "🐱",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 35
+        }
       },
       {
         "id": "pre1-esp-b2-v1-002",
-        "tema": "Rimas y canciones",
-        "tipo": "true_false",
+        "tema": "Las sílabas: dividir palabras",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "'GATO' y 'PATO' son palabras que riman porque terminan igual",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Riman! GA-TO y PA-TO terminan con '-ato'. Las rimas hacen la poesía divertida. 🐱🦆"
+        "pregunta": "La palabra 'ma-ri-po-sa' tiene ___ sílabas.",
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 sílabas! MA-RI-PO-SA. ¡Aplaude 4 veces! 👏👏👏👏🦋"
       },
       {
         "id": "pre1-esp-b2-v1-003",
-        "tema": "Palabras largas y cortas",
+        "tema": "Rimas y ritmo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es la MÁS CORTA?",
+        "pregunta": "¿Qué palabra rima con 'gato'? (suena parecido al final)",
         "opciones": [
-          "mariposa",
-          "sol",
-          "elefante",
-          "dinosaurio"
+          "Pato 🦆",
+          "Perro 🐕",
+          "Luna 🌙",
+          "Sol ☀️"
         ],
-        "respuestaCorrecta": "sol",
-        "explicacion": "'Sol' tiene 3 letras. Es la más corta. ¡Algunas palabras son muy cortitas y otras son larguísimas! ☀️",
-        "visual": "☀️"
+        "respuestaCorrecta": "Pato 🦆",
+        "explicacion": "¡Pato rima con gato! Ambas terminan en '-ATO'. Las rimas suenan parecido al final. 🐱🦆🎵",
+        "visual": "🐱🦆"
       },
       {
         "id": "pre1-esp-b2-v1-004",
-        "tema": "Mi familia habla",
-        "tipo": "fill_blank",
+        "tema": "Rimas y ritmo",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La persona que cuida y alimenta a los hijos se llama ___",
-        "respuestaCorrecta": "mamá",
-        "explicacion": "¡Mamá! o Papá. Ambos cuidan y protegen a los hijos con amor. 💕"
+        "pregunta": "'Luna' rima con 'cuna' porque ambas terminan en '-una'.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Luna-cuna, las dos terminan en '-UNA'. ¡Rimar es como hacer música con las palabras! 🌙🎶"
       },
       {
         "id": "pre1-esp-b2-v1-005",
-        "tema": "Vocales O U",
-        "tipo": "true_false",
+        "tema": "Canciones y rondas",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "La letra U es una vocal",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! U es la quinta y última vocal. A-E-I-O-U. ¡Como en uva, uña, uno! 🍇"
+        "pregunta": "¿Cómo empieza la canción 'Los pollitos'?",
+        "opciones": [
+          "Los pollitos dicen pío pío pío 🐤",
+          "Buenos días señor sol ☀️",
+          "Estrellita dónde estás ⭐",
+          "La araña pequeñita 🕷️"
+        ],
+        "respuestaCorrecta": "Los pollitos dicen pío pío pío 🐤",
+        "explicacion": "¡Los pollitos dicen pío pío pío, cuando tienen hambre, cuando tienen frío! 🐤🎵 Las canciones nos ayudan a aprender.",
+        "visual": "🐤"
       },
       {
         "id": "pre1-esp-b2-v1-006",
-        "tema": "Describo objetos",
+        "tema": "Las consonantes M, P, S",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Si digo 'es redondo, naranja y jugoso', ¿de qué fruta hablo?",
+        "pregunta": "¿Qué dice MA + MÁ junto?",
         "opciones": [
-          "Manzana",
-          "Naranja",
-          "Plátano",
-          "Mango"
+          "Mamá 👩",
+          "Papá 👨",
+          "Mesa 🪑",
+          "Mano ✋"
         ],
-        "respuestaCorrecta": "Naranja",
-        "explicacion": "¡La naranja! Describirla ayuda a que otros sepan de qué hablamos sin verla. 🍊",
-        "visual": "🍊"
+        "respuestaCorrecta": "Mamá 👩",
+        "explicacion": "¡MA-MÁ! La M con la A forman MA. ¡Dos veces MA = MAMÁ! Es de las primeras palabras que aprendemos. 👩❤️",
+        "visual": "👩"
       },
       {
         "id": "pre1-esp-b2-v1-007",
-        "tema": "Rimas y canciones",
+        "tema": "Las consonantes M, P, S",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "'Luna' rima con ___",
-        "respuestaCorrecta": "cuna",
-        "explicacion": "LUNA y CUNA terminan igual: '-una'. ¡Por eso riman! 🌙"
+        "pregunta": "PA + PÁ = Pa___",
+        "respuestaCorrecta": "pá",
+        "explicacion": "¡Papá! PA-PÁ. La P con la A forman PA. ¡PA + PÁ = PAPÁ! 👨❤️"
       },
       {
         "id": "pre1-esp-b2-v1-008",
-        "tema": "Palabras largas y cortas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "'HIPOPÓTAMO' es una palabra más larga que 'PATO'",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Claro! HIPOPÓTAMO tiene 10 letras. PATO solo tiene 4. ¡Los animales grandes tienen nombres más largos! 🦛🦆"
-      },
-      {
-        "id": "pre1-esp-b2-v1-009",
-        "tema": "Mi familia habla",
+        "tema": "Las sílabas: dividir palabras",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo se llama el hijo de tus papás que nació antes que tú?",
-        "opciones": [
-          "Primo",
-          "Hermano mayor",
-          "Abuelo",
-          "Tío"
-        ],
-        "respuestaCorrecta": "Hermano mayor",
-        "explicacion": "¡Tu hermano mayor! El hijo de tus mismos papás que nació primero. 👦"
-      },
-      {
-        "id": "pre1-esp-b2-v1-010",
-        "tema": "Describo objetos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El cielo de día es de color ___",
-        "respuestaCorrecta": "azul",
-        "explicacion": "¡Azul! Describir colores es una manera importante de comunicarnos. El cielo es azul, los árboles son verdes. ☀️🔵"
-      }
-    ],
-    "v2": [
-      {
-        "id": "pre1-esp-b2-v2-001",
-        "tema": "Rimas y canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de estas palabras rima con 'FLOR'?",
-        "opciones": [
-          "color",
-          "mesa",
-          "libro",
-          "agua"
-        ],
-        "respuestaCorrecta": "color",
-        "explicacion": "¡FLOR y COLOR riman! Terminan ambas con '-or'. Las rimas son la base de la poesía. 🌸"
-      },
-      {
-        "id": "pre1-esp-b2-v2-002",
-        "tema": "Vocales O U",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La vocal que suena al inicio de UVA es la ___",
-        "respuestaCorrecta": "U",
-        "explicacion": "¡U de Uva! U-V-A. La U es la última vocal. ¡Como en uño, uno, universo! 🍇"
-      },
-      {
-        "id": "pre1-esp-b2-v2-003",
-        "tema": "Describo objetos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas palabras tiene la oración 'El niño juega'?",
+        "pregunta": "¿Cuántas sílabas tiene la palabra 'sol'?",
         "opciones": [
           "1",
           "2",
           "3",
           "4"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El / niño / juega = 3 palabras. Aprender a contar palabras en una oración es el inicio de la lectura. 🔢"
+        "respuestaCorrecta": "1",
+        "explicacion": "¡Solo 1 sílaba! SOL se dice de un solo golpe. ¡Es una palabra monosilábica! ☀️👏"
+      },
+      {
+        "id": "pre1-esp-b2-v1-009",
+        "tema": "Rimas y ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál rima con 'ratón'?",
+        "opciones": [
+          "Melón 🍈",
+          "Gato 🐱",
+          "Perro 🐕",
+          "Libro 📖"
+        ],
+        "respuestaCorrecta": "Melón 🍈",
+        "explicacion": "¡Ra-TÓN rima con me-LÓN! Ambas terminan en '-ÓN'. 🐭🍈🎵"
+      },
+      {
+        "id": "pre1-esp-b2-v1-010",
+        "tema": "Canciones y rondas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cantar canciones nos ayuda a aprender nuevas palabras.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La música hace que las palabras se queden en nuestra memoria. ¡Aprendes sin darte cuenta! 🎵🧠"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-esp-b2-v2-001",
+        "tema": "Las sílabas: dividir palabras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estas palabras tiene MÁS sílabas?",
+        "opciones": [
+          "Hipopótamo (hi-po-pó-ta-mo) 🦛",
+          "Gato (ga-to) 🐱",
+          "Sol ☀️",
+          "Pan 🍞"
+        ],
+        "respuestaCorrecta": "Hipopótamo (hi-po-pó-ta-mo) 🦛",
+        "explicacion": "¡Hipopótamo tiene 5 sílabas! Es una palabra muy larga: HI-PO-PÓ-TA-MO. ¡5 aplausos! 🦛👏👏👏👏👏"
+      },
+      {
+        "id": "pre1-esp-b2-v2-002",
+        "tema": "Rimas y ritmo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Corre que te corre, salta que te salta, el conejo va corriendo y nunca se ___.",
+        "respuestaCorrecta": "cansa",
+        "explicacion": "¡Nunca se cansa! Las rimas y trabalenguas hacen el lenguaje divertido. ¡Son como juegos de palabras! 🐰🏃"
+      },
+      {
+        "id": "pre1-esp-b2-v2-003",
+        "tema": "Las consonantes M, P, S",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sílaba forman la S y la A juntas?",
+        "opciones": [
+          "SA",
+          "AS",
+          "MA",
+          "PA"
+        ],
+        "respuestaCorrecta": "SA",
+        "explicacion": "¡SA! La consonante S + la vocal A = SA. Como en SA-PO, SA-LA, SA-CO. 🐸"
       },
       {
         "id": "pre1-esp-b2-v2-004",
-        "tema": "Mi familia habla",
+        "tema": "Canciones y rondas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Escuchar con atención cuando alguien habla es una forma de respeto",
+        "pregunta": "Las rondas son juegos donde los niños cantan y se mueven en círculo.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Escuchar con atención demuestra que nos importa lo que la otra persona dice. ¡Es un valor muy importante! 👂❤️"
+        "explicacion": "¡Sí! Las rondas combinan canto + movimiento + amistad. 'La rueda de San Miguel', 'Doña Blanca'... ¡Son tradición mexicana! 🎶👫",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 50
+        }
       },
       {
         "id": "pre1-esp-b2-v2-005",
-        "tema": "Palabras largas y cortas",
-        "tipo": "multiple_choice",
+        "tema": "Las sílabas: dividir palabras",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Qué palabras tienen solo UNA sílaba?",
-        "opciones": [
-          "sol, luz, pan",
-          "casa, perro",
-          "mariposa",
-          "elefante"
-        ],
-        "respuestaCorrecta": "sol, luz, pan",
-        "explicacion": "¡Sol, luz y pan son monosílabas! Tienen solo una sílaba. ¡Brevitas! ☀️💡🍞"
+        "pregunta": "Cada pedacito de una palabra se llama sí___.",
+        "respuestaCorrecta": "laba",
+        "explicacion": "¡Sílaba! Las sílabas son los pedacitos de las palabras. Cada pedacito tiene al menos una vocal. 📝"
       },
       {
         "id": "pre1-esp-b2-v2-006",
-        "tema": "Rimas y canciones",
-        "tipo": "fill_blank",
+        "tema": "Rimas y ritmo",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Las canciones de cuna son las que cantamos para ___ a los bebés",
-        "respuestaCorrecta": "dormir",
-        "explicacion": "¡Las canciones de cuna! 'Duérmete mi niño' es un ejemplo. Tienen ritmo suave para calmar a los bebés. 🌙"
+        "pregunta": "¿Qué es un trabalenguas?",
+        "opciones": [
+          "Una frase difícil de decir rápido",
+          "Un animal",
+          "Una comida",
+          "Un juguete"
+        ],
+        "respuestaCorrecta": "Una frase difícil de decir rápido",
+        "explicacion": "¡Un trabalenguas! Como: 'Tres tristes tigres comen trigo en un trigal'. ¡Inténtalo rápido! 🗣️😵"
       },
       {
         "id": "pre1-esp-b2-v2-007",
-        "tema": "Vocales O U",
-        "tipo": "multiple_choice",
+        "tema": "Las consonantes M, P, S",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estas palabras tiene las 5 vocales A-E-I-O-U?",
-        "opciones": [
-          "murciélago",
-          "casa",
-          "perro",
-          "luna"
-        ],
-        "respuestaCorrecta": "murciélago",
-        "explicacion": "¡MuRCIÉLAGO! m-u-r-c-i-é-l-a-g-o. Tiene la U, I, É, A y O. ¡Cinco vocales! 🦇"
+        "pregunta": "La consonante M se usa en palabras como: mamá, mesa, mano, mono.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Todas empiezan con M! MA-MÁ, ME-SA, MA-NO, MO-NO. La M se junta con cada vocal. Ⓜ️"
       },
       {
         "id": "pre1-esp-b2-v2-008",
-        "tema": "Describo objetos",
-        "tipo": "true_false",
+        "tema": "Canciones y rondas",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Cuando describimos algo usamos palabras que dicen cómo es, de qué color, forma o tamaño",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! 'Grande, rojo, redondo' son palabras descriptivas. ¡Hacen que todos imaginen lo mismo! 🎨"
+        "pregunta": "'Estrellita dónde estás, me pregunto qué se___'.",
+        "respuestaCorrecta": "rás",
+        "explicacion": "¡Qué serás! Es una canción hermosa sobre las estrellas. ¡La música hace el aprendizaje mágico! ⭐🎵"
       },
       {
         "id": "pre1-esp-b2-v2-009",
-        "tema": "Mi familia habla",
-        "tipo": "fill_blank",
+        "tema": "Las sílabas: dividir palabras",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El papá de tu papá es tu ___",
-        "respuestaCorrecta": "abuelo",
-        "explicacion": "¡Tu abuelo! Los abuelos son los padres de tus padres. Son parte especial de la familia. 👴"
+        "pregunta": "¿Cuántas sílabas tiene la palabra 'chocolate'?",
+        "opciones": [
+          "4 (cho-co-la-te)",
+          "3",
+          "5",
+          "2"
+        ],
+        "respuestaCorrecta": "4 (cho-co-la-te)",
+        "explicacion": "¡4 sílabas! CHO-CO-LA-TE. ¡Aplaude 4 veces! 🍫👏👏👏👏"
       },
       {
         "id": "pre1-esp-b2-v2-010",
-        "tema": "Palabras largas y cortas",
-        "tipo": "true_false",
+        "tema": "Rimas y ritmo",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Para saber cuántas sílabas tiene una palabra podemos palmear mientras la decimos",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Ma-ri-po-sa = 4 palmadas = 4 sílabas. ¡Las palmas son nuestro contador de sílabas! 👏"
+        "pregunta": "¿Qué par de palabras rima?",
+        "opciones": [
+          "Corazón - canción ❤️🎵",
+          "Mesa - gato",
+          "Libro - sol",
+          "Agua - perro"
+        ],
+        "respuestaCorrecta": "Corazón - canción ❤️🎵",
+        "explicacion": "¡Corazón rima con canción! Ambas terminan en '-ÓN'. ¡Las rimas son la base de la poesía! ❤️🎵"
       }
     ],
     "preview": [
       {
-        "id": "pre1-esp-b2-v1-002",
-        "tema": "Rimas y canciones",
-        "tipo": "true_false",
+        "id": "pre1-esp-b2-v1-001",
+        "tema": "Las sílabas: dividir palabras",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "'GATO' y 'PATO' son palabras que riman porque terminan igual",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Riman con '-ato'! 🐱🦆"
+        "pregunta": "¿Cuántas sílabas tiene 'ga-to'?",
+        "opciones": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "respuestaCorrecta": "2",
+        "explicacion": "¡2! GA-TO 👏👏",
+        "visual": "🐱",
+        "fuenteSEP": true
       },
       {
         "id": "pre1-esp-b2-v1-003",
-        "tema": "Palabras largas y cortas",
+        "tema": "Rimas y ritmo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es la MÁS CORTA?",
+        "pregunta": "¿Qué rima con 'gato'?",
         "opciones": [
-          "mariposa",
-          "sol",
-          "elefante",
-          "dinosaurio"
+          "Pato 🦆",
+          "Perro 🐕",
+          "Luna 🌙",
+          "Sol ☀️"
         ],
-        "respuestaCorrecta": "sol",
-        "explicacion": "'Sol' tiene solo 3 letras. ☀️"
+        "respuestaCorrecta": "Pato 🦆",
+        "explicacion": "¡Pato rima con gato! 🐱🦆",
+        "visual": "🐱🦆"
       },
       {
-        "id": "pre1-esp-b2-v2-001",
-        "tema": "Rimas y canciones",
+        "id": "pre1-esp-b2-v1-005",
+        "tema": "Canciones y rondas",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de estas palabras rima con 'FLOR'?",
+        "nivel": "v1",
+        "pregunta": "'Los pollitos dicen...'",
         "opciones": [
-          "color",
-          "mesa",
-          "libro",
-          "agua"
+          "Pío pío pío 🐤",
+          "Miau 🐱",
+          "Guau 🐕",
+          "Muuu 🐄"
         ],
-        "respuestaCorrecta": "color",
-        "explicacion": "FLOR y COLOR terminan en '-or'. 🌸"
+        "respuestaCorrecta": "Pío pío pío 🐤",
+        "explicacion": "¡Pío pío pío! 🐤🎵",
+        "visual": "🐤"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T13:10:00.000Z",
+  "version": "4.0-SEP"
 }

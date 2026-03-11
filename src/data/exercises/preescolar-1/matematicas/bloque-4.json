@@ -2,292 +2,335 @@
   "grado": "preescolar-1",
   "materia": "matematicas",
   "bloque": 4,
-  "nombre": "Resuelvo problemas",
-  "meses": "Febrero-Marzo",
+  "nombre": "Medida, clasificación y comparación",
+  "libroSep": "K1LMA",
+  "paginasLibro": "56-70",
+  "meses": "Febrero–Marzo",
   "temas": [
-    "Problemas con suma",
-    "Problemas con resta",
-    "Tablas simples",
-    "El dinero",
-    "Tiempo y calendario"
+    "Grande, mediano y pequeño",
+    "Largo y corto",
+    "Pesado y ligero",
+    "Clasificar por color, forma y tamaño"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-mat-b4-v1-001",
-        "tema": "Problemas con suma",
-        "tipo": "fill_blank",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Ana tiene 3 muñecas y le dan 2 más. ¿Cuántas muñecas tiene ahora? ___",
-        "respuestaCorrecta": "5",
-        "explicacion": "3 + 2 = 5. ¡Ana tiene 5 muñecas ahora! Resolver problemas con sumas nos ayuda en la vida real. 🪆"
+        "pregunta": "¿Cuál es el animal MÁS GRANDE: un ratón, un perro o un elefante?",
+        "opciones": [
+          "El elefante 🐘",
+          "El perro 🐕",
+          "El ratón 🐭",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "El elefante 🐘",
+        "explicacion": "¡El elefante es el más grande! Elefante > perro > ratón. ¡Comparar tamaños es matemáticas! 🐘📏",
+        "visual": "🐘",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 58
+        }
       },
       {
         "id": "pre1-mat-b4-v1-002",
-        "tema": "Tiempo y calendario",
-        "tipo": "multiple_choice",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "¡7 días! Lunes, Martes, Miércoles, Jueves, Viernes, Sábado y Domingo. ¡7 días, 7 colores del arcoíris! 🌈",
-        "visual": "📅"
+        "pregunta": "Una hormiga es más pequeña que un gato.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La hormiga es chiquitita y el gato es mucho más grande. ¡Comparar nos ayuda a entender el mundo! 🐜🐱"
       },
       {
         "id": "pre1-mat-b4-v1-003",
-        "tema": "El dinero",
-        "tipo": "true_false",
+        "tema": "Largo y corto",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Las monedas y billetes son tipos de dinero",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Las monedas son de metal y los billetes son de papel especial. Los dos son dinero que usamos para comprar. 💰"
+        "pregunta": "¿Cuál es más LARGO: un lápiz o un autobús?",
+        "opciones": [
+          "El autobús 🚌",
+          "El lápiz ✏️",
+          "Son iguales",
+          "No se puede saber"
+        ],
+        "respuestaCorrecta": "El autobús 🚌",
+        "explicacion": "¡El autobús es mucho más largo que un lápiz! El autobús mide metros y el lápiz centímetros. 🚌📏",
+        "visual": "🚌"
       },
       {
         "id": "pre1-mat-b4-v1-004",
-        "tema": "Problemas con resta",
+        "tema": "Pesado y ligero",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Hay 6 pájaros en un árbol y se vuelan 4. ¿Cuántos quedan?",
+        "pregunta": "¿Qué es más PESADO: una pluma o una piedra?",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "La piedra 🪨",
+          "La pluma 🪶",
+          "Son iguales",
+          "Una nube"
         ],
-        "respuestaCorrecta": "2",
-        "explicacion": "6 - 4 = 2. ¡Se volaron 4 pájaros y quedaron 2! Los problemas de resta hablan de 'quitar' o 'irse'. 🐦"
+        "respuestaCorrecta": "La piedra 🪨",
+        "explicacion": "¡La piedra pesa más! Si las pones en una balanza, la piedra baja. ¡Es más pesada! 🪨⚖️",
+        "visual": "⚖️"
       },
       {
         "id": "pre1-mat-b4-v1-005",
-        "tema": "Tablas simples",
-        "tipo": "fill_blank",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En una tabla, si hay 2 filas con 3 objetos cada una, hay ___ objetos en total",
-        "respuestaCorrecta": "6",
-        "explicacion": "2 filas × 3 objetos = 6 objetos. Las tablas nos ayudan a organizar y ver cantidades rápidamente. 📊"
+        "pregunta": "Si tienes bloques rojos 🟥 y bloques azules 🟦, ¿cómo los separas?",
+        "opciones": [
+          "Por color: rojos juntos y azules juntos",
+          "Los tiras",
+          "Los mezclas más",
+          "No se pueden separar"
+        ],
+        "respuestaCorrecta": "Por color: rojos juntos y azules juntos",
+        "explicacion": "¡Clasificar por color! Pones todos los rojos en un grupo y todos los azules en otro. ¡Es organizar! 🟥🟦",
+        "visual": "🟥🟦",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 62
+        }
       },
       {
         "id": "pre1-mat-b4-v1-006",
-        "tema": "Tiempo y calendario",
-        "tipo": "true_false",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El viernes viene después del jueves y antes del sábado",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! La semana va: Lun-Mar-Mié-Jue-VIE-Sáb-Dom. El viernes está entre jueves y sábado. 📅"
+        "pregunta": "El oso papá es grande, el oso mamá es mediano, y el osito bebé es peque___.",
+        "respuestaCorrecta": "ño",
+        "explicacion": "¡Pequeño! Como el cuento de los tres osos: grande, mediano y pequeño. 🐻🐻🧸"
       },
       {
         "id": "pre1-mat-b4-v1-007",
-        "tema": "Problemas con suma",
-        "tipo": "multiple_choice",
+        "tema": "Largo y corto",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En el parque hay 4 niñas y 3 niños. ¿Cuántos niños hay en total?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "4 niñas + 3 niños = 7 niños en total. ¡Sumar grupos distintos nos da el total! 👫👧"
+        "pregunta": "Una serpiente es más larga que un gusanito.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las serpientes pueden medir metros, los gusanitos solo centímetros. ¡La serpiente gana en longitud! 🐍📏"
       },
       {
         "id": "pre1-mat-b4-v1-008",
-        "tema": "El dinero",
-        "tipo": "multiple_choice",
+        "tema": "Pesado y ligero",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirve el dinero?",
-        "opciones": [
-          "Para comprar cosas que necesitamos",
-          "Para tirar a la basura",
-          "Para hacer aviones de papel",
-          "Para decorar la casa"
-        ],
-        "respuestaCorrecta": "Para comprar cosas que necesitamos",
-        "explicacion": "¡El dinero es un medio de intercambio! Lo usamos para obtener bienes y servicios que necesitamos. 🛒"
+        "pregunta": "Un globo lleno de aire flota porque es muy ligero.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los globos son ligeros! El aire caliente los hace flotar. ¡Ligero sube, pesado baja! 🎈⬆️",
+        "visual": "🎈"
       },
       {
         "id": "pre1-mat-b4-v1-009",
-        "tema": "Problemas con resta",
-        "tipo": "fill_blank",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Tengo 7 canicas. Le doy 5 a mi primo. Me quedan ___ canicas",
-        "respuestaCorrecta": "2",
-        "explicacion": "7 - 5 = 2. ¡Compartir es restar del total propio! Pero también suma felicidad. 🎮"
+        "pregunta": "¿De cuántas formas puedes separar estos objetos: 🟥🔵🟢 🟩🔴🟦?",
+        "opciones": [
+          "Los separo por color",
+          "No se pueden separar",
+          "Los tiro",
+          "Los como"
+        ],
+        "respuestaCorrecta": "Los separo por color",
+        "explicacion": "¡Por color! Rojos juntos, azules juntos, verdes juntos. ¡Clasificar es súper importante en matemáticas! 🎨📊"
       },
       {
         "id": "pre1-mat-b4-v1-010",
-        "tema": "Tablas simples",
-        "tipo": "true_false",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Una tabla puede ayudarme a ordenar información de manera visual",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Las tablas son herramientas poderosas! Organizan datos con filas y columnas para que sean fáciles de leer. 📊"
+        "pregunta": "Ordena de mayor a menor: un oso 🐻, un gatito 🐱 y un caballo 🐴.",
+        "opciones": [
+          "Caballo, oso, gatito",
+          "Gatito, oso, caballo",
+          "Oso, caballo, gatito",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "Caballo, oso, gatito",
+        "explicacion": "¡El caballo es el más grande, luego el oso y al final el gatito! Ordenar por tamaño es comparar. 🐴🐻🐱"
       }
     ],
     "v2": [
       {
         "id": "pre1-mat-b4-v2-001",
-        "tema": "Tiempo y calendario",
+        "tema": "Grande, mediano y pequeño",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Aproximadamente cuántos días tiene un mes?",
+        "pregunta": "¿Con qué instrumento medimos la altura de una persona?",
         "opciones": [
-          "7",
-          "14",
-          "30",
-          "365"
+          "Con una cinta métrica o metro",
+          "Con una cuchara",
+          "Con un vaso",
+          "Con un crayón"
         ],
-        "respuestaCorrecta": "30",
-        "explicacion": "¡Aproximadamente 30 días! Algunos meses tienen 28, 29, 30 o 31 días. El año tiene 12 meses y 365 días. 📅"
+        "respuestaCorrecta": "Con una cinta métrica o metro",
+        "explicacion": "¡Con una cinta métrica! Nos dice cuántos centímetros o metros mides. ¡El metro mide la longitud! 📏"
       },
       {
         "id": "pre1-mat-b4-v2-002",
-        "tema": "El dinero",
+        "tema": "Largo y corto",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Si un helado cuesta $5 y doy un billete de $10, me regresan ___ pesos de cambio",
-        "respuestaCorrecta": "5",
-        "explicacion": "$10 - $5 = $5 de cambio. ¡Calcular el cambio es matemáticas de la vida real! 🍦💵"
+        "pregunta": "Para medir cosas cortas usamos centí___.",
+        "respuestaCorrecta": "metros",
+        "explicacion": "¡Centímetros! Para cosas pequeñas usamos centímetros (cm). Para cosas grandes usamos metros (m). 📏"
       },
       {
         "id": "pre1-mat-b4-v2-003",
-        "tema": "Problemas con suma",
-        "tipo": "true_false",
+        "tema": "Pesado y ligero",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Si sumamos 8 + 0 el resultado es 8",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Sumar cero no cambia el número. 8 + 0 = 8. ¡El cero es el elemento neutro de la suma! ✨"
+        "pregunta": "¿Con qué se pesa la fruta en el mercado?",
+        "opciones": [
+          "Con una báscula o balanza",
+          "Con una regla",
+          "Con un termómetro",
+          "Con un reloj"
+        ],
+        "respuestaCorrecta": "Con una báscula o balanza",
+        "explicacion": "¡Con una báscula! Nos dice cuántos kilos o gramos pesa algo. ¡Cada instrumento mide algo diferente! ⚖️🍎",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 65
+        }
       },
       {
         "id": "pre1-mat-b4-v2-004",
-        "tema": "Tablas simples",
-        "tipo": "multiple_choice",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En una tabla de frutas, la columna 'Manzanas' tiene 3, la de 'Peras' tiene 2. ¿Cuántas frutas hay en total?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "3 manzanas + 2 peras = 5 frutas en total. ¡Las tablas hacen los problemas más fáciles! 🍎🍐"
+        "pregunta": "Puedo clasificar frutas por color: rojas (manzana, fresa) y amarillas (plátano, piña).",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las frutas se pueden clasificar por color, tamaño, sabor... ¡Hay muchas formas de organizar! 🍎🍓🍌🍍"
       },
       {
         "id": "pre1-mat-b4-v2-005",
-        "tema": "Problemas con resta",
-        "tipo": "fill_blank",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El resultado de restar 6 - 6 es ___",
-        "respuestaCorrecta": "0",
-        "explicacion": "6 - 6 = 0. ¡Cuando restamos un número de sí mismo el resultado es cero! Si tenía 6 galletas y me las comí todas, tengo 0. 🍪"
+        "pregunta": "¿Qué es más alto: una casa o una jirafa?",
+        "opciones": [
+          "Depende — pero una jirafa puede ser más alta que una casa de 1 piso",
+          "La casa siempre",
+          "La jirafa siempre",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "Depende — pero una jirafa puede ser más alta que una casa de 1 piso",
+        "explicacion": "¡Una jirafa puede medir hasta 5.5 metros! Una casa de 1 piso mide unos 3 metros. ¡La jirafa gana! 🦒🏠"
       },
       {
         "id": "pre1-mat-b4-v2-006",
-        "tema": "Tiempo y calendario",
-        "tipo": "true_false",
+        "tema": "Pesado y ligero",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El lunes es el primer día de la semana laboral",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡En México y muchos países el lunes es el primer día! Aunque el domingo también se considera inicio de semana en otros países. 📅"
+        "pregunta": "Los kilos (kg) miden el ___ de las cosas.",
+        "respuestaCorrecta": "peso",
+        "explicacion": "¡El peso! Los kilogramos (kg) nos dicen qué tan pesado es algo. Tú pesas varios kilos. ⚖️"
       },
       {
         "id": "pre1-mat-b4-v2-007",
-        "tema": "Problemas con suma",
-        "tipo": "multiple_choice",
+        "tema": "Largo y corto",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En la granja hay 4 vacas, 3 gallinas y 2 caballos. ¿Cuántos animales hay?",
-        "opciones": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "respuestaCorrecta": "9",
-        "explicacion": "4 + 3 + 2 = 9 animales. ¡Podemos sumar más de dos grupos! 4+3=7, y 7+2=9. 🐄🐔🐴"
+        "pregunta": "Un río es más largo que una alberca.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los ríos pueden medir kilómetros y kilómetros. ¡Una alberca solo mide unos metros! 🏊🌊"
       },
       {
         "id": "pre1-mat-b4-v2-008",
-        "tema": "El dinero",
-        "tipo": "true_false",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Ahorrar dinero significa guardarlo para usarlo después",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Ahorrar es una habilidad muy importante! Guardar dinero hoy nos permite comprar cosas más importantes mañana. 🐷💰"
+        "pregunta": "Si clasificas animales por número de patas: ¿en qué grupo va una araña?",
+        "opciones": [
+          "Grupo de 8 patas",
+          "Grupo de 4 patas",
+          "Grupo de 6 patas",
+          "Grupo de 2 patas"
+        ],
+        "respuestaCorrecta": "Grupo de 8 patas",
+        "explicacion": "¡8 patas! Las arañas tienen 8 patas (arácnidos). Los insectos tienen 6 y los mamíferos 4. ¡Clasificar ayuda a entender! 🕷️8️⃣"
       },
       {
         "id": "pre1-mat-b4-v2-009",
-        "tema": "Tablas simples",
-        "tipo": "fill_blank",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Si 3 niños tienen 2 lápices cada uno, en total hay ___ lápices",
-        "respuestaCorrecta": "6",
-        "explicacion": "3 grupos de 2 = 6. ¡Este es el concepto de multiplicación! 3 × 2 = 6. ¡La suma repetida! ✏️"
+        "pregunta": "Una ballena azul es el animal más grande del mundo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La ballena azul puede medir 30 metros — ¡más grande que un autobús! Es el animal más grande que ha existido. 🐋🏆"
       },
       {
         "id": "pre1-mat-b4-v2-010",
-        "tema": "Tiempo y calendario",
-        "tipo": "multiple_choice",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuántos meses tiene un año?",
-        "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "¡12 meses! Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septiembre, Octubre, Noviembre y Diciembre. 📅"
+        "pregunta": "Organizar objetos en grupos según una característica se llama clasifi___.",
+        "respuestaCorrecta": "car",
+        "explicacion": "¡Clasificar! Es separar en grupos según algo que comparten: color, tamaño, forma, tipo... ¡Es pensar ordenado! 📊"
       }
     ],
     "preview": [
       {
         "id": "pre1-mat-b4-v1-001",
-        "tema": "Problemas con suma",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Ana tiene 3 muñecas y le dan 2 más. ¿Cuántas muñecas tiene ahora?",
-        "respuestaCorrecta": "5",
-        "explicacion": "3 + 2 = 5. 🪆"
-      },
-      {
-        "id": "pre1-mat-b4-v1-002",
-        "tema": "Tiempo y calendario",
+        "tema": "Grande, mediano y pequeño",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "¿Cuál es el más grande?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Elefante 🐘",
+          "Perro 🐕",
+          "Ratón 🐭",
+          "Son iguales"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: Lunes a Domingo. 📅"
+        "respuestaCorrecta": "Elefante 🐘",
+        "explicacion": "¡El elefante! 🐘📏",
+        "visual": "🐘",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-mat-b4-v2-001",
-        "tema": "Tiempo y calendario",
+        "id": "pre1-mat-b4-v1-004",
+        "tema": "Pesado y ligero",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Aproximadamente cuántos días tiene un mes?",
+        "nivel": "v1",
+        "pregunta": "¿Qué pesa más?",
         "opciones": [
-          "7",
-          "14",
-          "30",
-          "365"
+          "Una piedra 🪨",
+          "Una pluma 🪶",
+          "Son iguales",
+          "Una nube"
         ],
-        "respuestaCorrecta": "30",
-        "explicacion": "Aproximadamente 30 días. 📅"
+        "respuestaCorrecta": "Una piedra 🪨",
+        "explicacion": "¡La piedra! 🪨⚖️",
+        "visual": "⚖️"
+      },
+      {
+        "id": "pre1-mat-b4-v1-005",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo separas bloques 🟥🟦?",
+        "opciones": [
+          "Por color",
+          "Los tiras",
+          "Los mezclas",
+          "No se puede"
+        ],
+        "respuestaCorrecta": "Por color",
+        "explicacion": "¡Por color! 🟥🟦",
+        "visual": "🟥🟦",
+        "fuenteSEP": true
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T12:55:00.000Z",
+  "version": "4.0-SEP"
 }

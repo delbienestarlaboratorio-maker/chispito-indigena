@@ -2,305 +2,394 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 2,
-  "nombre": "Expresión plástica creativa",
-  "meses": "Periodo 2",
+  "nombre": "Música, cuentos y colores del libro",
+  "libroSep": "K1MLA",
+  "paginasLibro": "63-94",
+  "meses": "Octubre–Noviembre",
   "temas": [
-    "Pintura dactilar",
-    "Mezcla de colores",
-    "Trazos libres",
-    "Texturas naturales"
+    "El viaje musical de Estrella la Mariposa",
+    "Colores y formas en el arte",
+    "Danza y tradiciones mexicanas",
+    "Pintura y murales de México"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-artes-b2-v1-001",
-        "tema": "Pintura dactilar",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "La pintura dactilar se hace usando...",
+        "pregunta": "En tu libro hay un cuento sobre Estrella la Mariposa. ¿Qué don especial tenía?",
         "opciones": [
-          "Los dedos",
-          "Un pincel grande",
-          "Una esponja",
-          "Un lápiz"
+          "Llevar la música en sus alas",
+          "Ser invisible",
+          "Hablar con los peces",
+          "Volar al espacio"
         ],
-        "respuestaCorrecta": "Los dedos",
-        "explicacion": "'Dactil' viene de dedo. ¡La pintura dactilar se hace con los dedos! Es la forma más divertida y directa de pintar. 🖐️",
-        "visual": "🖐️"
+        "respuestaCorrecta": "Llevar la música en sus alas",
+        "explicacion": "¡Estrella la Mariposa llevaba la música en sus alas! Cuando volaba, compartía melodías con todo el bosque. 🦋🎵",
+        "visual": "🦋",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
         "id": "pre1-artes-b2-v1-002",
-        "tema": "Mezcla de colores",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Si mezclo pintura azul con pintura amarilla obtengo el color verde.",
+        "pregunta": "Estrella la Mariposa vivía en un bosque encantado.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Magia de colores! Azul + Amarillo = Verde 🟢. ¡Podemos crear nuevos colores mezclando pinturas!",
-        "visual": "🟢"
+        "explicacion": "¡Sí! Estrella vivía en un bosque encantado donde decidió compartir la alegría de la música con todos. 🌳🎶",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
         "id": "pre1-artes-b2-v1-003",
-        "tema": "Mezcla de colores",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué color obtengo si mezclo rojo y amarillo?",
+        "pregunta": "¿Quién escribió la historia de Estrella la Mariposa en tu libro?",
         "opciones": [
-          "Naranja 🟠",
-          "Morado 🟣",
-          "Verde 🟢",
-          "Azul 🔵"
+          "Rodrigo Díaz Bueno",
+          "Mario Núñez",
+          "Un robot",
+          "Tu mamá"
         ],
-        "respuestaCorrecta": "Naranja 🟠",
-        "explicacion": "Rojo + Amarillo = Naranja 🟠. ¡Como el color de las zanahorias! ¡Experimenta con los colores!",
-        "visual": "🟠"
+        "respuestaCorrecta": "Rodrigo Díaz Bueno",
+        "explicacion": "¡Rodrigo Díaz Bueno es el escritor! Los escritores crean historias con palabras para que las disfrutemos. 📝✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
         "id": "pre1-artes-b2-v1-004",
-        "tema": "Trazos libres",
-        "tipo": "true_false",
+        "tema": "Colores y formas en el arte",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuando dibujamos líneas sin seguir una regla, lo llamamos trazos libres.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Los trazos libres son líneas que dibujamos como queremos. ¡No hay reglas! Pueden ser rectas, curvas, onduladas... ✏️"
+        "pregunta": "¿Cuáles son los 3 colores primarios que usamos para pintar?",
+        "opciones": [
+          "Rojo, azul y amarillo",
+          "Negro, blanco y gris",
+          "Morado, naranja y verde",
+          "Rosa, café y dorado"
+        ],
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "¡Rojo, azul y amarillo! Con estos 3 colores puedes mezclar y hacer TODOS los demás colores. ¡Son mágicos! 🔴🔵🟡",
+        "visual": "🎨"
       },
       {
         "id": "pre1-artes-b2-v1-005",
-        "tema": "Texturas naturales",
-        "tipo": "multiple_choice",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Cómo se siente una hoja de árbol al tocarla?",
-        "opciones": [
-          "Lisa y suave",
-          "Áspera como lija",
-          "Fría como hielo",
-          "Pegajosa como miel"
-        ],
-        "respuestaCorrecta": "Lisa y suave",
-        "explicacion": "Muchas hojas son lisas y suaves por encima. ¡Podemos explorar texturas naturales y luego dibujarlas! 🍃",
-        "visual": "🍃"
+        "pregunta": "En México hay danzas tradicionales donde las personas usan máscaras y trajes de colores.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En las fiestas mexicanas se baila con máscaras de diablos, animales y personajes. ¡Es una tradición hermosa! 💃🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
         "id": "pre1-artes-b2-v1-006",
-        "tema": "Pintura dactilar",
-        "tipo": "fill_blank",
+        "tema": "Pintura y murales de México",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Al poner el dedo en pintura y estamparlo en papel creamos una ___ de huella.",
-        "respuestaCorrecta": "marca",
-        "explicacion": "Cada dedo deja una marca diferente. ¡Tu huella digital es única en el mundo! Úsala para hacer arte. 🖐️✨"
+        "pregunta": "En tu libro hay una pintura con personas bailando con máscaras. ¿Qué tipo de arte es?",
+        "opciones": [
+          "Un mural",
+          "Una fotografía",
+          "Un video",
+          "Un juguete"
+        ],
+        "respuestaCorrecta": "Un mural",
+        "explicacion": "¡Es un mural! Los murales son pinturas muy grandes que se hacen en las paredes. México es famoso por sus murales. 🖼️",
+        "visual": "🖼️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
         "id": "pre1-artes-b2-v1-007",
-        "tema": "Mezcla de colores",
-        "tipo": "multiple_choice",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Qué pasa cuando mezclo todos los colores de pintura juntos?",
-        "opciones": [
-          "Se vuelve un color oscuro/café",
-          "Se vuelve blanco",
-          "Desaparece",
-          "Se vuelve transparente"
-        ],
-        "respuestaCorrecta": "Se vuelve un color oscuro/café",
-        "explicacion": "Cuando mezclamos muchos colores juntos se confunden y crean un color oscuro. ¡Por eso usamos pocos colores a la vez! 🎨"
+        "pregunta": "Estrella la Mariposa decidió compartir la alegría de la ___ con todos.",
+        "respuestaCorrecta": "música",
+        "explicacion": "¡La música! Estrella quería que todos en el bosque disfrutaran de la música. ¡La música nos hace felices! 🎵",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
         "id": "pre1-artes-b2-v1-008",
-        "tema": "Trazos libres",
-        "tipo": "true_false",
+        "tema": "Colores y formas en el arte",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Podemos hacer trazos libres con crayones, plumones o lápices de colores.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Cualquier instrumento que deje marca en el papel sirve para hacer trazos libres. ¡Elige tu favorito! 🖍️"
+        "pregunta": "Si mezclas el color rojo con amarillo, ¿qué color obtienes?",
+        "opciones": [
+          "Naranja",
+          "Morado",
+          "Verde",
+          "Negro"
+        ],
+        "respuestaCorrecta": "Naranja",
+        "explicacion": "¡Naranja! Rojo + amarillo = naranja. ¡Así funciona la magia de los colores! 🟠",
+        "visual": "🟠"
       },
       {
         "id": "pre1-artes-b2-v1-009",
-        "tema": "Texturas naturales",
-        "tipo": "fill_blank",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuando ponemos una hoja debajo del papel y frotamos un crayón encima, aparece la ___ de la hoja.",
-        "respuestaCorrecta": "textura",
-        "explicacion": "¡Esta técnica se llama frottage (frotado)! Podemos copiar la textura de hojas, monedas y más. 🍃✨"
+        "pregunta": "¿Para qué sirven las máscaras en las danzas tradicionales?",
+        "opciones": [
+          "Para representar personajes en la danza",
+          "Para no verse",
+          "Para dormir",
+          "Para comer"
+        ],
+        "respuestaCorrecta": "Para representar personajes en la danza",
+        "explicacion": "¡Las máscaras representan diablos, animales o personajes de la danza! Cada máscara cuenta una historia diferente. 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
         "id": "pre1-artes-b2-v1-010",
-        "tema": "Pintura dactilar",
-        "tipo": "multiple_choice",
+        "tema": "Pintura y murales de México",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Por qué la pintura dactilar es buena para los niños de preescolar?",
-        "opciones": [
-          "Estimula el tacto y la creatividad",
-          "Es muy cara",
-          "Solo la hacen artistas",
-          "Mancha la ropa sin ningún beneficio"
-        ],
-        "respuestaCorrecta": "Estimula el tacto y la creatividad",
-        "explicacion": "¡El tacto es un sentido muy importante! Al tocar la pintura con los dedos aprendemos sobre texturas y desarrollamos la creatividad. 🧠🖐️"
+        "pregunta": "Un mural es una pintura que se hace en un papel muy pequeñito.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Un mural es una pintura ENORME que se hace en paredes grandes. ¡A veces son tan grandes como una casa! 🏛️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       }
     ],
     "v2": [
       {
         "id": "pre1-artes-b2-v2-001",
-        "tema": "Mezcla de colores",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Los colores primarios son los que no se pueden crear mezclando otros. ¿Cuáles son?",
+        "pregunta": "¿Qué hace especial a Estrella la Mariposa comparada con otras mariposas?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Verde, naranja y morado",
-          "Negro, blanco y gris",
-          "Rojo, verde y azul"
+          "Lleva la música en sus alas, no solo vuela",
+          "Es más grande",
+          "Come mucho",
+          "No puede volar"
         ],
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "¡Rojo, azul y amarillo son los colores primarios! Con ellos podemos crear TODOS los demás colores. 🔴🔵🟡",
-        "visual": "🎨"
+        "respuestaCorrecta": "Lleva la música en sus alas, no solo vuela",
+        "explicacion": "Estrella no solo vuela como las demás mariposas: ¡sus alas producen música! Y decidió compartir ese regalo. 🦋🎵",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
         "id": "pre1-artes-b2-v2-002",
-        "tema": "Trazos libres",
+        "tema": "Colores y formas en el arte",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Una línea que se dobla y cambia de dirección muchas veces se llama línea ___.",
-        "respuestaCorrecta": "ondulada",
-        "explicacion": "¡Las líneas onduladas parecen olas del mar! En el dibujo hay líneas rectas, curvas, en zigzag y onduladas. 〰️"
+        "pregunta": "Si mezclo azul con amarillo obtengo el color ___.",
+        "respuestaCorrecta": "verde",
+        "explicacion": "¡Verde! Azul + amarillo = verde. ¡Como las hojas de los árboles y el pasto! 🟢🌿"
       },
       {
         "id": "pre1-artes-b2-v2-003",
-        "tema": "Texturas naturales",
-        "tipo": "true_false",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "La corteza de un árbol tiene una textura áspera y rugosa.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! La corteza protege al árbol y tiene una textura gruesa y rugosa. ¡Podemos copiarla con la técnica del frotado! 🌳"
+        "pregunta": "En la pintura del libro se ven personas con trajes blancos y máscaras. ¿Qué están haciendo?",
+        "opciones": [
+          "Una danza tradicional",
+          "Jugando fútbol",
+          "Cocinando",
+          "Durmiendo"
+        ],
+        "respuestaCorrecta": "Una danza tradicional",
+        "explicacion": "¡Es una danza tradicional mexicana! Las personas usan trajes especiales y máscaras para representar personajes de la comunidad. 💃",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
         "id": "pre1-artes-b2-v2-004",
-        "tema": "Pintura dactilar",
-        "tipo": "multiple_choice",
+        "tema": "Pintura y murales de México",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué podemos crear usando solo huellas del dedo pulgar?",
-        "opciones": [
-          "Caras, animalitos y flores",
-          "Solo puntos",
-          "Nada útil",
-          "Solo letras"
-        ],
-        "respuestaCorrecta": "Caras, animalitos y flores",
-        "explicacion": "¡El pulgar es la base! Huella de pulgar = cuerpo de un animalito. Agrega líneas y ojos con plumón. ¡Infinitas creaciones! 🐛",
-        "visual": "🐛"
+        "pregunta": "Los murales mexicanos cuentan historias sobre la cultura y tradiciones de México.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los muralistas como Diego Rivera pintaron la historia de México en paredes enormes para que todos la vieran. 🇲🇽🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
         "id": "pre1-artes-b2-v2-005",
-        "tema": "Mezcla de colores",
-        "tipo": "fill_blank",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Si mezclo rojo con blanco obtengo el color ___.",
-        "respuestaCorrecta": "rosa",
-        "explicacion": "Rojo + Blanco = Rosa 🌸. Agregar blanco a cualquier color lo aclara y crea tonos más suaves. ¡Pruébalo! 🎨"
+        "pregunta": "La ilustradora del cuento de Estrella es Nathalia Colmar, de la Ciudad de México.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Nathalia Colmar dibujó la hermosa mariposa con sus alas amarillas y anaranjadas. ¡Los ilustradores dan vida a los cuentos! 🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
         "id": "pre1-artes-b2-v2-006",
-        "tema": "Trazos libres",
-        "tipo": "true_false",
+        "tema": "Colores y formas en el arte",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Un garabato también es una forma válida de expresión artística.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Los garabatos son importantes! Son la primera forma de arte de los niños y el primer paso para aprender a dibujar y escribir. ✏️💛"
+        "pregunta": "¿Qué son los colores cálidos?",
+        "opciones": [
+          "Rojo, naranja y amarillo",
+          "Azul, morado y verde",
+          "Blanco y negro",
+          "Gris y café"
+        ],
+        "respuestaCorrecta": "Rojo, naranja y amarillo",
+        "explicacion": "Los colores cálidos son el rojo, naranja y amarillo. ¡Nos recuerdan al sol, al fuego y a las cosas calentitas! ☀️🔥",
+        "visual": "☀️"
       },
       {
         "id": "pre1-artes-b2-v2-007",
-        "tema": "Texturas naturales",
-        "tipo": "multiple_choice",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estos materiales naturales tiene una textura suave?",
-        "opciones": [
-          "Algodón 🌿",
-          "Arena gruesa",
-          "Piedra",
-          "Corteza de árbol"
-        ],
-        "respuestaCorrecta": "Algodón 🌿",
-        "explicacion": "¡El algodón es suave y esponjoso! Explorar texturas naturales nos enseña sobre el mundo que nos rodea. 🌿",
-        "visual": "🌿"
+        "pregunta": "En las fiestas mexicanas, las personas bailan con trajes especiales y más___.",
+        "respuestaCorrecta": "caras",
+        "explicacion": "¡Máscaras! Las máscaras son parte importante de las danzas mexicanas. Cada máscara tiene un significado especial. 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
         "id": "pre1-artes-b2-v2-008",
-        "tema": "Pintura dactilar",
-        "tipo": "fill_blank",
+        "tema": "Pintura y murales de México",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Antes de usar pintura dactilar, nos ponemos una ___ para no manchar la ropa.",
-        "respuestaCorrecta": "bata",
-        "explicacion": "¡Una bata o una camisa vieja nos protege! El arte puede ser un poco desordenado, ¡y eso está bien! 🎨😄"
+        "pregunta": "¿Dónde se pintan los murales?",
+        "opciones": [
+          "En paredes grandes de edificios",
+          "En cuadernos",
+          "En el agua",
+          "En las nubes"
+        ],
+        "respuestaCorrecta": "En paredes grandes de edificios",
+        "explicacion": "¡Los murales se pintan en paredes grandes! En escuelas, museos y edificios públicos. ¡Son arte para todos! 🏛️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
         "id": "pre1-artes-b2-v2-009",
-        "tema": "Mezcla de colores",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué color se crea mezclando azul y rojo?",
+        "pregunta": "¿Qué quería lograr Estrella con su viaje mágico?",
         "opciones": [
-          "Morado 🟣",
-          "Verde 🟢",
-          "Naranja 🟠",
-          "Café"
+          "Compartir la alegría de la música con todos",
+          "Ganar una carrera",
+          "Encontrar comida",
+          "Esconderse"
         ],
-        "respuestaCorrecta": "Morado 🟣",
-        "explicacion": "Azul + Rojo = Morado o Violeta 🟣. ¡Los colores secundarios nacen de mezclar dos primarios!",
-        "visual": "🟣"
+        "respuestaCorrecta": "Compartir la alegría de la música con todos",
+        "explicacion": "¡Estrella quería compartir! La música es un regalo que todos merecemos disfrutar. ¡Compartir nos hace felices! 🎶❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
         "id": "pre1-artes-b2-v2-010",
-        "tema": "Trazos libres",
+        "tema": "Colores y formas en el arte",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En la expresión plástica libre, no hay una forma correcta o incorrecta de dibujar.",
+        "pregunta": "Si mezclas rojo con azul, obtienes el color morado.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! En el arte libre, cada creación es única y especial. Lo importante es expresar lo que sentimos. ❤️🎨"
+        "explicacion": "¡Sí! Rojo + azul = morado (o púrpura). ¡Es la mezcla perfecta para hacer coronas y flores! 💜👑"
       }
     ],
     "preview": [
       {
         "id": "pre1-artes-b2-v1-001",
-        "tema": "Pintura dactilar",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "La pintura dactilar se hace usando...",
+        "pregunta": "¿Qué don especial tenía Estrella la Mariposa?",
         "opciones": [
-          "Los dedos",
-          "Un pincel grande",
-          "Una esponja",
-          "Un lápiz"
+          "Llevar la música en sus alas",
+          "Ser invisible",
+          "Hablar con los peces",
+          "Volar al espacio"
         ],
-        "respuestaCorrecta": "Los dedos",
-        "explicacion": "'Dactil' viene de dedo. ¡La pintura dactilar se hace con los dedos! 🖐️",
-        "visual": "🖐️"
+        "respuestaCorrecta": "Llevar la música en sus alas",
+        "explicacion": "¡Estrella llevaba la música en sus alas! 🦋🎵",
+        "visual": "🦋",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-artes-b2-v1-002",
-        "tema": "Mezcla de colores",
+        "id": "pre1-artes-b2-v1-005",
+        "tema": "Danza y tradiciones mexicanas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Si mezclo pintura azul con pintura amarilla obtengo el color verde.",
+        "pregunta": "En México hay danzas donde usan máscaras y trajes de colores.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Magia de colores! Azul + Amarillo = Verde 🟢."
+        "explicacion": "¡Sí! Las danzas mexicanas usan máscaras y trajes hermosos. 💃🎭",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-artes-b2-v2-001",
-        "tema": "Mezcla de colores",
+        "id": "pre1-artes-b2-v1-008",
+        "tema": "Colores y formas en el arte",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Los colores primarios son los que no se pueden crear mezclando otros. ¿Cuáles son?",
+        "nivel": "v1",
+        "pregunta": "Si mezclas rojo con amarillo, ¿qué color obtienes?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Verde, naranja y morado",
-          "Negro, blanco y gris",
-          "Rojo, verde y azul"
+          "Naranja",
+          "Morado",
+          "Verde",
+          "Negro"
         ],
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "¡Rojo, azul y amarillo son los colores primarios! 🔴🔵🟡"
+        "respuestaCorrecta": "Naranja",
+        "explicacion": "¡Naranja! Rojo + amarillo = naranja. 🟠",
+        "visual": "🟠"
       }
     ]
   },
-  "generado": "2026-03-09T03:45:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T11:20:00.000Z",
+  "version": "4.0-SEP"
 }

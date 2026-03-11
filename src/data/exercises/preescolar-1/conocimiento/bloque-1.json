@@ -2,303 +2,374 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 1,
-  "nombre": "Soy yo",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Mi comunidad y la naturaleza",
+  "libroSep": "K1LPA",
+  "paginasLibro": "10-25",
+  "meses": "Agosto–Septiembre",
   "temas": [
-    "Mi cuerpo",
-    "Los colores",
-    "Los animales",
-    "La familia",
-    "La naturaleza"
+    "La kermés y mi comunidad",
+    "Las plantas de mi comunidad",
+    "El agua y el sol",
+    "Cuidar la naturaleza"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "pre1-con-b1-v1-001",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b1-v1-001",
+        "tema": "La kermés y mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido escuchamos los sonidos?",
+        "pregunta": "En tu libro hay un dibujo de una kermés. ¿Qué es una kermés?",
         "opciones": [
-          "El oído",
-          "La vista",
-          "El tacto",
-          "El olfato"
+          "Una fiesta de la comunidad con comida y juegos",
+          "Un hospital",
+          "Una escuela",
+          "Un banco"
         ],
-        "respuestaCorrecta": "El oído",
-        "explicacion": "¡El oído nos permite escuchar! Está en las orejas. Con él escuchamos música, voces y sonidos del mundo. 👂",
-        "visual": "👂"
+        "respuestaCorrecta": "Una fiesta de la comunidad con comida y juegos",
+        "explicacion": "¡La kermés es una fiesta donde la comunidad se reúne! Hay comida, juegos y diversión para todos. 🎪🌮",
+        "visual": "🎪",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "pre1-con-b1-v1-002",
-        "tema": "Los animales",
+        "id": "pre1-conoc-b1-v1-002",
+        "tema": "La kermés y mi comunidad",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
+        "pregunta": "En la kermés del libro se venden chopos, esquites y lonches.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Los peces son animales acuáticos. Tienen branquias para respirar bajo el agua. ¡Son maestros del nado! 🐟",
-        "visual": "🐟"
+        "explicacion": "¡Sí! En la kermés venden comida rica: chopos a 15 pesos, chivitas a 3 pesos y lonches a 25 pesos. ¡Qué rico! 🌽",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "pre1-con-b1-v1-003",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b1-v1-003",
+        "tema": "Las plantas de mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿De qué color es el sol? ☀️",
+        "pregunta": "¿Qué necesitan las plantas para vivir?",
         "opciones": [
-          "Azul",
-          "Verde",
-          "Amarillo",
-          "Morado"
+          "Agua, sol y tierra",
+          "Solo agua",
+          "Solo sol",
+          "Nada"
         ],
-        "respuestaCorrecta": "Amarillo",
-        "explicacion": "¡El sol es amarillo brillante! Su luz nos da calor y nos permite ver el mundo. ☀️",
+        "respuestaCorrecta": "Agua, sol y tierra",
+        "explicacion": "¡Las plantas necesitan agua para beber, sol para crecer y tierra para sus raíces! 🌱☀️💧",
+        "visual": "🌱",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
+      },
+      {
+        "id": "pre1-conoc-b1-v1-004",
+        "tema": "Las plantas de mi comunidad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En tu libro aparecen plantas en macetas, un árbol grande y plantas pequeñas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las plantas vienen en muchos tamaños: desde pequeñas en macetitas hasta árboles enormes. ¡Todas son importantes! 🌳🌿",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
+      },
+      {
+        "id": "pre1-conoc-b1-v1-005",
+        "tema": "El agua y el sol",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué pasa cuando llueve mucho?",
+        "opciones": [
+          "Las plantas se riegan y crecen",
+          "Las plantas se secan",
+          "El sol se apaga",
+          "Los animales vuelan"
+        ],
+        "respuestaCorrecta": "Las plantas se riegan y crecen",
+        "explicacion": "¡La lluvia es como una regadera gigante para las plantas! Les da el agua que necesitan para crecer. 🌧️🌱",
+        "visual": "🌧️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
+      },
+      {
+        "id": "pre1-conoc-b1-v1-006",
+        "tema": "El agua y el sol",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El sol nos da luz y calor durante el día.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El sol es una estrella que nos da luz y calor! Sin el sol, la Tierra sería oscura y fría. ☀️",
         "visual": "☀️"
       },
       {
-        "id": "pre1-con-b1-v1-004",
-        "tema": "La familia",
+        "id": "pre1-conoc-b1-v1-007",
+        "tema": "Cuidar la naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En tu libro se ve basura tirada cerca de las plantas. ¿Qué debemos hacer?",
+        "opciones": [
+          "Recoger la basura y ponerla en su lugar",
+          "Tirar más basura",
+          "Ignorarla",
+          "Pisar las plantas"
+        ],
+        "respuestaCorrecta": "Recoger la basura y ponerla en su lugar",
+        "explicacion": "¡La basura daña a las plantas y los animales! Siempre debemos tirar la basura en el bote correcto. ♻️🌍",
+        "visual": "♻️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
+      },
+      {
+        "id": "pre1-conoc-b1-v1-008",
+        "tema": "La kermés y mi comunidad",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El hermano de tu mamá es tu ___",
-        "respuestaCorrecta": "tío",
-        "explicacion": "¡Tu tío! Los tíos son los hermanos de papá o mamá. ¡Son parte especial de la familia! 👨‍👩‍👧"
+        "pregunta": "En la kermés, todos se juntan porque somos una comu___.",
+        "respuestaCorrecta": "nidad",
+        "explicacion": "¡Comunidad! Es el grupo de personas que viven cerca y se ayudan entre sí. ¡Como una gran familia! 🏘️❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "pre1-con-b1-v1-005",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b1-v1-009",
+        "tema": "Las plantas de mi comunidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué nos sirven los árboles?",
+        "opciones": [
+          "Dan sombra, oxígeno y frutos",
+          "Solo estorban",
+          "No sirven para nada",
+          "Solo para trepar"
+        ],
+        "respuestaCorrecta": "Dan sombra, oxígeno y frutos",
+        "explicacion": "¡Los árboles son increíbles! Nos dan sombra, producen el aire que respiramos y muchos dan frutas deliciosas. 🌳🍎",
+        "visual": "🌳",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
+      },
+      {
+        "id": "pre1-conoc-b1-v1-010",
+        "tema": "Cuidar la naturaleza",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz solar para crecer",
+        "pregunta": "Las botellas de plástico tardan cientos de años en desaparecer de la naturaleza.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Las plantas hacen fotosíntesis: usan la luz solar y el agua para fabricar su propio alimento. ¡Son increíbles! 🌱☀️",
-        "visual": "🌱"
-      },
-      {
-        "id": "pre1-con-b1-v1-006",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué sentido rozamos una cosa y sentimos si es suave o áspera?",
-        "opciones": [
-          "El tacto",
-          "La vista",
-          "El oído",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El tacto",
-        "explicacion": "¡El tacto está en la piel! Con los dedos sentimos si algo es suave, áspero, frío o caliente. 🖐️"
-      },
-      {
-        "id": "pre1-con-b1-v1-007",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El cielo despejado es de color ___",
-        "respuestaCorrecta": "azul",
-        "explicacion": "¡El cielo es azul! La luz del sol se dispersa en la atmósfera y nos hace ver el cielo azul. ¡Es magia de la física! ☀️🔵"
-      },
-      {
-        "id": "pre1-con-b1-v1-008",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estos animales tiene plumas?",
-        "opciones": [
-          "El pato 🦆",
-          "El perro 🐶",
-          "El gato 🐱",
-          "La vaca 🐄"
-        ],
-        "respuestaCorrecta": "El pato 🦆",
-        "explicacion": "¡Los patos tienen plumas! Las aves tienen plumas que impermeabilizan su cuerpo. ¡Están hechas para el agua! 🦆",
-        "visual": "🦆"
-      },
-      {
-        "id": "pre1-con-b1-v1-009",
-        "tema": "La familia",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los abuelos son los padres de nuestros papás",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! El papá tiene un papá (tu abuelo paterno) y una mamá (tu abuela paterna). Lo mismo pasa con la familia de tu mamá. 👴👵"
-      },
-      {
-        "id": "pre1-con-b1-v1-010",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es la lluvia?",
-        "opciones": [
-          "Agua que cae de las nubes",
-          "Nieve pequeña",
-          "Polvo que cae",
-          "Jugo de frutas"
-        ],
-        "respuestaCorrecta": "Agua que cae de las nubes",
-        "explicacion": "¡La lluvia es agua! Las nubes se llenan de agua y cuando pesan mucho, la sueltan como lluvia. 🌧️"
+        "explicacion": "¡Sí! El plástico tarda hasta 500 años en descomponerse. Por eso es tan importante reciclarlo. ♻️🌍",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
       }
     ],
     "v2": [
       {
-        "id": "pre1-con-b1-v2-001",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b1-v2-001",
+        "tema": "La kermés y mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos sentidos tenemos los seres humanos?",
+        "pregunta": "¿Por qué son importantes las fiestas de la comunidad como la kermés?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
+          "Porque nos unen y compartimos con los vecinos",
+          "Porque son obligatorias",
+          "Porque son caras",
+          "No son importantes"
         ],
-        "respuestaCorrecta": "5",
-        "explicacion": "¡5 sentidos! Vista (ojos), Oído (oídos), Olfato (nariz), Gusto (lengua), Tacto (piel). ¡Con ellos exploramos el mundo! 🧠"
+        "respuestaCorrecta": "Porque nos unen y compartimos con los vecinos",
+        "explicacion": "¡Las fiestas nos unen! En la kermés los vecinos se conocen, platican y se divierten juntos. ¡Eso hace fuerte a la comunidad! 🤝",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "pre1-con-b1-v2-002",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b1-v2-002",
+        "tema": "La kermés y mi comunidad",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ciclo del agua incluye: lluvia, evaporación y formación de ___",
-        "respuestaCorrecta": "nubes",
-        "explicacion": "¡El ciclo del agua! El agua se evapora, forma nubes y regresa como lluvia. ¡Es un ciclo infinito y perfecto! 💧☁️"
+        "pregunta": "Los esquites en la kermés cuestan ___ pesos.",
+        "respuestaCorrecta": "20",
+        "explicacion": "¡20 pesos los esquites! En la kermés hay precios para todos: chopos a 15, chivitas a 3 y lonches a 25. 💰",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "pre1-con-b1-v2-003",
-        "tema": "Los animales",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Los mamíferos se caracterizan por amamantar a sus crías con leche",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Los mamíferos (incluyendo humanos, perros, vacas) alimentan a sus bebés con leche de la mamá. ¡Eso los define! 🐄🍼"
-      },
-      {
-        "id": "pre1-con-b1-v2-004",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b1-v2-003",
+        "tema": "Las plantas de mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué colores tiene el arcoíris?",
+        "pregunta": "¿Qué parte de la planta absorbe el agua del suelo?",
         "opciones": [
-          "Rojo, naranja, amarillo, verde, azul, índigo y violeta",
-          "Rojo, blanco y azul",
-          "Solo rojo y azul",
-          "Negro, blanco y gris"
+          "La raíz",
+          "Las hojas",
+          "Las flores",
+          "El tallo"
         ],
-        "respuestaCorrecta": "Rojo, naranja, amarillo, verde, azul, índigo y violeta",
-        "explicacion": "¡El arcoíris tiene 7 colores! RON-A-GAZ-AVE (Rojo, Naranja, Amarillo, Verde, Azul, Violeta). ¡Recordarlos es fácil! 🌈"
+        "respuestaCorrecta": "La raíz",
+        "explicacion": "¡La raíz! Está debajo de la tierra y chupa el agua como un popote gigante para alimentar a toda la planta. 🌿",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
       },
       {
-        "id": "pre1-con-b1-v2-005",
-        "tema": "La familia",
+        "id": "pre1-conoc-b1-v2-004",
+        "tema": "El agua y el sol",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El ciclo del agua es: el sol calienta el agua, sube a las nubes, y cae como lluvia.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! El agua viaja: el sol la evapora, sube a las nubes, y vuelve como lluvia. ¡Es un ciclo infinito! 💧☀️🌧️"
+      },
+      {
+        "id": "pre1-conoc-b1-v2-005",
+        "tema": "Cuidar la naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estos contenedores es para reciclar plástico?",
+        "opciones": [
+          "El amarillo",
+          "El negro",
+          "El morado",
+          "El dorado"
+        ],
+        "respuestaCorrecta": "El amarillo",
+        "explicacion": "¡El amarillo para plástico! También está el azul para papel y el verde para vidrio. ¡Separar basura ayuda al planeta! ♻️"
+      },
+      {
+        "id": "pre1-conoc-b1-v2-006",
+        "tema": "Las plantas de mi comunidad",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Cuando nace un nuevo bebé en la familia, los hijos únicos se convierten en ___ mayores",
-        "respuestaCorrecta": "hermanos",
-        "explicacion": "¡Hermanos mayores! Con un nuevo bebé en casa, el rol en la familia cambia. ¡Ser hermano mayor es muy especial! 👶❤️"
+        "pregunta": "Las plantas hacen su alimento con la luz del sol. Ese proceso se llama fotosín___.",
+        "respuestaCorrecta": "tesis",
+        "explicacion": "¡Fotosíntesis! Las plantas usan la luz del sol para hacer su comida. ¡Son las únicas que pueden hacer eso! 🌿☀️"
       },
       {
-        "id": "pre1-con-b1-v2-006",
-        "tema": "Mi cuerpo",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El corazón es el órgano que bombea la sangre por todo el cuerpo",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡El corazón es increíble! Late unas 100,000 veces por día sin descanso. ¡Es el motor del cuerpo! ❤️💪"
-      },
-      {
-        "id": "pre1-con-b1-v2-007",
-        "tema": "Los animales",
+        "id": "pre1-conoc-b1-v2-007",
+        "tema": "El agua y el sol",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estos animales es un reptil?",
+        "pregunta": "¿Qué pasa si una planta NO recibe agua?",
         "opciones": [
-          "El cocodrilo 🐊",
-          "El delfín 🐬",
-          "El pinguino 🐧",
-          "El conejo 🐰"
+          "Se seca y puede morir",
+          "Crece más rápido",
+          "Se vuelve azul",
+          "No pasa nada"
         ],
-        "respuestaCorrecta": "El cocodrilo 🐊",
-        "explicacion": "¡El cocodrilo es un reptil! Tiene sangre fría, escamas y pone huevos. ¡Lleva millones de años en la Tierra! 🐊",
-        "visual": "🐊"
+        "respuestaCorrecta": "Se seca y puede morir",
+        "explicacion": "Sin agua las plantas se marchitan y pueden morir. ¡El agua es vida para las plantas y para nosotros! 💧🥀"
       },
       {
-        "id": "pre1-con-b1-v2-008",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un volcán?",
-        "opciones": [
-          "Una montaña con lava y gases en su interior",
-          "Un lago muy grande",
-          "Una cueva submarina",
-          "Un tipo de árbol"
-        ],
-        "respuestaCorrecta": "Una montaña con lava y gases en su interior",
-        "explicacion": "¡Los volcanes son poderosos! México tiene el Popocatépetl, uno de los volcanes más activos del mundo. 🌋🇲🇽"
-      },
-      {
-        "id": "pre1-con-b1-v2-009",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La hierba de los parques y los árboles son de color ___",
-        "respuestaCorrecta": "verde",
-        "explicacion": "¡Verde! La clorofila de las plantas es verde. Por eso la naturaleza viva tiene ese color tan hermoso. 🌿"
-      },
-      {
-        "id": "pre1-con-b1-v2-010",
-        "tema": "La familia",
+        "id": "pre1-conoc-b1-v2-008",
+        "tema": "Cuidar la naturaleza",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Las familias pueden ser de muchos tipos: nucleares, extendidas, monoparentales...",
+        "pregunta": "Cuando plantamos un árbol, estamos ayudando a cuidar el medio ambiente.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Todas las familias son válidas! Hay familias pequeñas, grandes, con uno o dos papás. ¡Lo importante es el amor! ❤️👨‍👩‍👧‍👦"
+        "explicacion": "¡Sí! Plantar árboles ayuda a limpiar el aire, dar hogar a los animales y mantener fresco nuestro planeta. 🌳💚"
+      },
+      {
+        "id": "pre1-conoc-b1-v2-009",
+        "tema": "La kermés y mi comunidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En la comunidad hay diferentes trabajos: maestros, doctores, vendedores, bomberos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Cada persona en la comunidad tiene un trabajo importante. Todos colaboran para que la comunidad funcione. 🏘️👩‍⚕️👨‍🏫"
+      },
+      {
+        "id": "pre1-conoc-b1-v2-010",
+        "tema": "Las plantas de mi comunidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué nos dan las plantas además de oxígeno?",
+        "opciones": [
+          "Alimento, sombra y medicinas",
+          "Solo flores",
+          "Nada más",
+          "Dinero"
+        ],
+        "respuestaCorrecta": "Alimento, sombra y medicinas",
+        "explicacion": "¡Las plantas nos dan de todo! Frutas, verduras, sombra, medicinas, madera... ¡Son esenciales para la vida! 🍎🌿💊"
       }
     ],
     "preview": [
       {
-        "id": "pre1-con-b1-v1-001",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b1-v1-001",
+        "tema": "La kermés y mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido escuchamos los sonidos?",
+        "pregunta": "¿Qué es una kermés?",
         "opciones": [
-          "El oído",
-          "La vista",
-          "El tacto",
-          "El olfato"
+          "Una fiesta de la comunidad",
+          "Un hospital",
+          "Una escuela",
+          "Un banco"
         ],
-        "respuestaCorrecta": "El oído",
-        "explicacion": "¡Las orejas y el oído! 👂"
+        "respuestaCorrecta": "Una fiesta de la comunidad",
+        "explicacion": "¡Una fiesta comunitaria! 🎪🌮",
+        "visual": "🎪",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-con-b1-v1-002",
-        "tema": "Los animales",
+        "id": "pre1-conoc-b1-v1-003",
+        "tema": "Las plantas de mi comunidad",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué necesitan las plantas para vivir?",
+        "opciones": [
+          "Agua, sol y tierra",
+          "Solo agua",
+          "Solo sol",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Agua, sol y tierra",
+        "explicacion": "¡Agua, sol y tierra! 🌱☀️💧",
+        "visual": "🌱",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-conoc-b1-v1-006",
+        "tema": "El agua y el sol",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
+        "pregunta": "El sol nos da luz y calor durante el día.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Los peces son acuáticos! 🐟"
-      },
-      {
-        "id": "pre1-con-b1-v2-001",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos sentidos tenemos los seres humanos?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "Vista, Oído, Olfato, Gusto, Tacto. 🧠"
+        "explicacion": "¡El sol es una estrella! ☀️"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T11:40:00.000Z",
+  "version": "4.0-SEP"
 }

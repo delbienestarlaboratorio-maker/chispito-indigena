@@ -37,6 +37,7 @@ export default function Navbar() {
         { href: "/universo", label: "🌌 Universo", special: true },
         { href: "/planes", label: "Planes 💎" },
         { href: "/blog", label: "Blog" },
+        { href: "/maestros", label: "👩‍🏫 Maestros" },
         { href: "/#papa", label: "Para Papás" },
     ];
     type NavLink = { href: string; label: string; special?: boolean; badge?: boolean };

@@ -2,294 +2,331 @@
   "grado": "preescolar-1",
   "materia": "matematicas",
   "bloque": 3,
-  "nombre": "Juego y calculo",
-  "meses": "Diciembre-Enero",
+  "nombre": "Figuras geométricas y formas",
+  "libroSep": "K1LMA",
+  "paginasLibro": "41-55",
+  "meses": "Diciembre–Enero",
   "temas": [
-    "Suma hasta 10",
-    "Resta básica",
-    "Números del 1 al 10",
-    "Posiciones",
-    "Medidas informales"
+    "Círculo, cuadrado y triángulo",
+    "Figuras en la vida real",
+    "Lados y esquinas",
+    "Patrones con figuras"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-mat-b3-v1-001",
-        "tema": "Suma hasta 10",
-        "tipo": "fill_blank",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "2 + 2 = ___",
-        "respuestaCorrecta": "4",
-        "explicacion": "2 más 2 son 4. ¡Podemos verlo así! 🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎 (4 manzanas)",
-        "visual": "🍎"
+        "pregunta": "¿Qué forma tiene una pelota?",
+        "opciones": [
+          "Círculo (redonda) ⚽",
+          "Cuadrado ⬜",
+          "Triángulo 🔺",
+          "Estrella ⭐"
+        ],
+        "respuestaCorrecta": "Círculo (redonda) ⚽",
+        "explicacion": "¡La pelota es redonda como un círculo! El círculo no tiene esquinas ni lados rectos. ⚽⭕",
+        "visual": "⭕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 43
+        }
       },
       {
         "id": "pre1-mat-b3-v1-002",
-        "tema": "Resta básica",
-        "tipo": "multiple_choice",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Tenía 5 globos y se escaparon 2. ¿Cuántos me quedan?",
-        "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "5 - 2 = 3. ¡Restar es quitar! Se escaparon 2 globos y me quedan 3. 🎈",
-        "visual": "🎈"
+        "pregunta": "El triángulo tiene 3 lados y 3 esquinas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 'Tri' significa 3. El triángulo tiene 3 lados y 3 esquinas (vértices). 🔺3️⃣",
+        "visual": "🔺"
       },
       {
         "id": "pre1-mat-b3-v1-003",
-        "tema": "Posiciones",
-        "tipo": "true_false",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Si el gato está ENCIMA de la caja, entonces la caja está DEBAJO del gato",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! Encima y debajo son posiciones opuestas. Si A está encima de B, entonces B está debajo de A. 📦🐱"
+        "pregunta": "¿Cuántos lados tiene un cuadrado?",
+        "opciones": [
+          "4",
+          "3",
+          "5",
+          "0"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 lados iguales! El cuadrado tiene 4 lados del mismo tamaño y 4 esquinas. ⬜4️⃣",
+        "visual": "⬜"
       },
       {
         "id": "pre1-mat-b3-v1-004",
-        "tema": "Números del 1 al 10",
+        "tema": "Figuras en la vida real",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos números es el más GRANDE?",
+        "pregunta": "¿Qué forma tiene una rebanada de pizza? 🍕",
         "opciones": [
-          "3",
-          "7",
-          "1",
-          "9"
+          "Triángulo 🔺",
+          "Círculo ⭕",
+          "Cuadrado ⬜",
+          "Estrella ⭐"
         ],
-        "respuestaCorrecta": "9",
-        "explicacion": "¡El 9 es el más grande de esa lista! En la recta: 1-2-3-4-5-6-7-8-9-10. El 9 está casi al final. 🏆"
+        "respuestaCorrecta": "Triángulo 🔺",
+        "explicacion": "¡La rebanada de pizza parece un triángulo! La pizza completa es un círculo, pero cada rebanada es un triángulo. 🍕🔺",
+        "visual": "🍕"
       },
       {
         "id": "pre1-mat-b3-v1-005",
-        "tema": "Medidas informales",
-        "tipo": "fill_blank",
+        "tema": "Figuras en la vida real",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Si mido con mi mano cuánto mide mi libro y caben 3 manos, el libro mide 3 ___",
-        "respuestaCorrecta": "manos",
-        "explicacion": "¡Medir con las manos es una medida informal! Antes de los centímetros, las personas medían con el cuerpo. 🖐️"
+        "pregunta": "Una ventana tiene forma de cuadrado o rectángulo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La mayoría de las ventanas son cuadradas o rectangulares. ¡Las figuras están en todas partes! 🪟⬜"
       },
       {
         "id": "pre1-mat-b3-v1-006",
-        "tema": "Suma hasta 10",
-        "tipo": "multiple_choice",
+        "tema": "Lados y esquinas",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "3 + 4 = ___",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "3 + 4 = 7. ¡Podemos contarlo con los dedos! 3 dedos + 4 dedos = 7 dedos. 🖐️✌️",
-        "visual": "🔢"
+        "pregunta": "El círculo no tiene lados ni esqu___.",
+        "respuestaCorrecta": "inas",
+        "explicacion": "¡Esquinas! El círculo es suavecito, redondo, sin esquinas ni lados rectos. ¡Es único! ⭕"
       },
       {
         "id": "pre1-mat-b3-v1-007",
-        "tema": "Posiciones",
+        "tema": "Patrones con figuras",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Dónde está el libro si digo 'está a la DERECHA de la mochila'?",
+        "pregunta": "¿Qué sigue? ⭕🔺⭕🔺⭕___",
         "opciones": [
-          "Al lado derecho de la mochila",
-          "Encima de la mochila",
-          "Debajo de la mochila",
-          "Dentro de la mochila"
+          "🔺",
+          "⭕",
+          "⬜",
+          "⭐"
         ],
-        "respuestaCorrecta": "Al lado derecho de la mochila",
-        "explicacion": "¡La derecha es hacia donde están los números en un reloj! Las posiciones nos ayudan a ubicar objetos. 👉"
+        "respuestaCorrecta": "🔺",
+        "explicacion": "¡El triángulo! El patrón es: círculo, triángulo, círculo, triángulo — se repite. ¡Después del círculo va el triángulo! 🔺",
+        "visual": "⭕🔺⭕🔺⭕"
       },
       {
         "id": "pre1-mat-b3-v1-008",
-        "tema": "Resta básica",
-        "tipo": "fill_blank",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "4 - 1 = ___",
-        "respuestaCorrecta": "3",
-        "explicacion": "4 menos 1 = 3. ¡Si tienes 4 dulces y te comes 1, te quedan 3! 🍬"
+        "pregunta": "¿Qué forma tiene una rueda de bicicleta? 🚲",
+        "opciones": [
+          "Círculo ⭕",
+          "Cuadrado ⬜",
+          "Triángulo 🔺",
+          "Rectángulo"
+        ],
+        "respuestaCorrecta": "Círculo ⭕",
+        "explicacion": "¡Las ruedas son circulares! Si fueran cuadradas, ¡la bicicleta no rodaría! 🚲⭕",
+        "visual": "🚲"
       },
       {
         "id": "pre1-mat-b3-v1-009",
-        "tema": "Números del 1 al 10",
+        "tema": "Lados y esquinas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El número 6 está entre el 5 y el 7",
+        "pregunta": "El cuadrado y el triángulo tienen esquinas, pero el círculo no.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! 5-6-7. El 6 está en el medio, después del 5 y antes del 7. ¡Los números tienen vecinos! 🔢"
+        "explicacion": "¡Correcto! El cuadrado tiene 4 esquinas, el triángulo 3, y el círculo no tiene ninguna. ⬜🔺⭕"
       },
       {
         "id": "pre1-mat-b3-v1-010",
-        "tema": "Medidas informales",
+        "tema": "Figuras en la vida real",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál objeto es más largo, un lápiz o un autobús?",
+        "pregunta": "¿Qué forma tiene un reloj redondo? ⏰",
         "opciones": [
-          "El lápiz",
-          "El autobús",
-          "Son iguales",
-          "No se puede saber"
+          "Círculo ⭕",
+          "Triángulo 🔺",
+          "Cuadrado ⬜",
+          "Pentágono"
         ],
-        "respuestaCorrecta": "El autobús",
-        "explicacion": "¡El autobús es muchísimo más largo que un lápiz! Comparar longitudes nos ayuda a ordenar el mundo. 🚌"
+        "respuestaCorrecta": "Círculo ⭕",
+        "explicacion": "¡Los relojes redondos son circulares! También hay relojes cuadrados. ⏰⭕",
+        "visual": "⏰"
       }
     ],
     "v2": [
       {
         "id": "pre1-mat-b3-v2-001",
-        "tema": "Suma hasta 10",
-        "tipo": "fill_blank",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "5 + 5 = ___",
-        "respuestaCorrecta": "10",
-        "explicacion": "5 + 5 = 10! Los dos grupos de 5 juntos forman el 10, ¡el número de los dedos de ambas manos! 🙌"
+        "pregunta": "¿Cuál es la diferencia entre un cuadrado y un rectángulo?",
+        "opciones": [
+          "El cuadrado tiene los 4 lados iguales, el rectángulo tiene 2 largos y 2 cortos",
+          "No hay diferencia",
+          "El rectángulo es redondo",
+          "El cuadrado tiene 3 lados"
+        ],
+        "respuestaCorrecta": "El cuadrado tiene los 4 lados iguales, el rectángulo tiene 2 largos y 2 cortos",
+        "explicacion": "¡El cuadrado tiene todos sus lados iguales! El rectángulo tiene 2 lados largos y 2 cortos. ¡Son primos! ⬜📏",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 48
+        }
       },
       {
         "id": "pre1-mat-b3-v2-002",
-        "tema": "Resta básica",
-        "tipo": "multiple_choice",
+        "tema": "Lados y esquinas",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "10 - 3 = ___",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "10 - 3 = 7. Si contamos hacia atrás desde 10: 10, 9, 8, 7. ¡Llegamos al 7 después de 3 pasos! 🔢"
+        "pregunta": "Las esquinas de un cuadrado se llaman vér___.",
+        "respuestaCorrecta": "tices",
+        "explicacion": "¡Vértices! Es el nombre matemático de las esquinas. El cuadrado tiene 4 vértices. 📐"
       },
       {
         "id": "pre1-mat-b3-v2-003",
-        "tema": "Posiciones",
-        "tipo": "true_false",
+        "tema": "Patrones con figuras",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El segundo lugar en una carrera está ENTRE el primer y el tercer lugar",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡1ro - 2do - 3ro! El segundo (plata 🥈) está entre el primero (oro 🥇) y el tercero (bronce 🥉). ¡Las posiciones tienen orden! 🏅"
+        "pregunta": "¿Qué sigue? ⬜⬜🔺⬜⬜🔺⬜⬜___",
+        "opciones": [
+          "🔺",
+          "⬜",
+          "⭕",
+          "⭐"
+        ],
+        "respuestaCorrecta": "🔺",
+        "explicacion": "¡El triángulo! El patrón es: cuadrado, cuadrado, triángulo — se repite cada 3. 🔺"
       },
       {
         "id": "pre1-mat-b3-v2-004",
-        "tema": "Números del 1 al 10",
-        "tipo": "fill_blank",
+        "tema": "Figuras en la vida real",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número que tiene una decena completa es el ___",
-        "respuestaCorrecta": "10",
-        "explicacion": "¡El 10! Una decena = 10 unidades. El 10 es el primer número que necesita dos dígitos. 🔟"
+        "pregunta": "Los señalamientos de tránsito de 'Alto' tienen forma de octágono (8 lados).",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El señalamiento de 'Alto' es un octágono, tiene 8 lados. ¡Es la única señal con esa forma! 🛑"
       },
       {
         "id": "pre1-mat-b3-v2-005",
-        "tema": "Medidas informales",
+        "tema": "Círculo, cuadrado y triángulo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Si una mesa mide 5 pasos y la puerta mide 2 pasos, ¿cuál es más ancha?",
+        "pregunta": "Si cortas un cuadrado por la diagonal, ¿qué figuras obtienes?",
         "opciones": [
-          "La mesa",
-          "La puerta",
-          "Son iguales",
-          "No se puede comparar"
+          "2 triángulos",
+          "2 círculos",
+          "2 cuadrados",
+          "1 rectángulo"
         ],
-        "respuestaCorrecta": "La mesa",
-        "explicacion": "¡5 pasos > 2 pasos, entonces la mesa es más ancha! Las medidas informales nos permiten comparar tamaños. 📏"
+        "respuestaCorrecta": "2 triángulos",
+        "explicacion": "¡2 triángulos! Si cortas un cuadrado de esquina a esquina, cada mitad es un triángulo. ✂️⬜➡️🔺🔺"
       },
       {
         "id": "pre1-mat-b3-v2-006",
-        "tema": "Suma hasta 10",
-        "tipo": "true_false",
+        "tema": "Lados y esquinas",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "4 + 6 = 10",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! 4 + 6 = 10. Los pares que suman 10 son muy importantes: 1+9, 2+8, 3+7, 4+6, 5+5. ¡Memorízalos! 💪"
+        "pregunta": "¿Cuántas esquinas tiene un rectángulo?",
+        "opciones": [
+          "4",
+          "3",
+          "5",
+          "2"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 esquinas! Como el cuadrado, el rectángulo tiene 4 esquinas (vértices). Son de la misma familia. 📐4️⃣"
       },
       {
         "id": "pre1-mat-b3-v2-007",
-        "tema": "Resta básica",
+        "tema": "Patrones con figuras",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Si tengo 8 canicas y le regalo 3 a mi amigo, me quedan ___ canicas",
-        "respuestaCorrecta": "5",
-        "explicacion": "8 - 3 = 5. ¡Compartir hace que el número baje! Y también hace que los amigos estén felices. 😊🎮"
+        "pregunta": "Un patrón es algo que se rep___.",
+        "respuestaCorrecta": "ite",
+        "explicacion": "¡Se repite! Los patrones son secuencias que se repiten una y otra vez. ¡Los vemos en la ropa, en los azulejos, en la naturaleza! 🔄"
       },
       {
         "id": "pre1-mat-b3-v2-008",
-        "tema": "Posiciones",
-        "tipo": "multiple_choice",
+        "tema": "Figuras en la vida real",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Si el sol sale por el Este, ¿hacia dónde apunta tu mano derecha cuando ves el amanecer?",
-        "opciones": [
-          "Al Norte",
-          "Al Sur",
-          "Al Este",
-          "Al Oeste"
-        ],
-        "respuestaCorrecta": "Al Sur",
-        "explicacion": "¡Al Sur! Si ves al Este (el sol saliendo), tu derecha apunta al Sur y tu izquierda al Norte. ¡Las posiciones se relacionan con los puntos cardinales! 🧭"
+        "pregunta": "Las pirámides de Egipto tienen forma de triángulo cuando las ves de lado.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! De frente parecen triángulos enormes. En realidad son pirámides (triángulos en 3D con base cuadrada). 🔺🏛️"
       },
       {
         "id": "pre1-mat-b3-v2-009",
-        "tema": "Números del 1 al 10",
-        "tipo": "multiple_choice",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Cuántos números existen entre el 1 y el 10, incluyendo ambos?",
-        "opciones": [
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "respuestaCorrecta": "10",
-        "explicacion": "1,2,3,4,5,6,7,8,9,10 = ¡10 números! Incluir 'ambos extremos' significa contar también el 1 y el 10. 🔢"
+        "pregunta": "Podemos hacer un cuadrado con 4 triángulos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 4 triángulos rectángulos, puestos con las puntas al centro, forman un cuadrado perfecto. ¡Geometría mágica! 🔺🔺🔺🔺➡️⬜"
       },
       {
         "id": "pre1-mat-b3-v2-010",
-        "tema": "Medidas informales",
-        "tipo": "true_false",
+        "tema": "Patrones con figuras",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Un cubo de azúcar pesa menos que una sandia",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Claro! El cubo de azúcar es muy liviano y la sandía es pesada. Comparar pesos también es una medida. ⚖️"
+        "pregunta": "¿Qué sigue? ⭕⭕⬜⭕⭕⬜___",
+        "opciones": [
+          "⭕",
+          "⬜",
+          "🔺",
+          "⭐"
+        ],
+        "respuestaCorrecta": "⭕",
+        "explicacion": "¡Un círculo! El patrón es: círculo, círculo, cuadrado — y se repite. Después del cuadrado van 2 círculos. ⭕⭕"
       }
     ],
     "preview": [
       {
         "id": "pre1-mat-b3-v1-001",
-        "tema": "Suma hasta 10",
-        "tipo": "fill_blank",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "2 + 2 = ___",
-        "respuestaCorrecta": "4",
-        "explicacion": "¡2 más 2 son 4! 🍎"
+        "pregunta": "¿Qué forma tiene una pelota?",
+        "opciones": [
+          "Círculo ⚽",
+          "Cuadrado ⬜",
+          "Triángulo 🔺",
+          "Estrella ⭐"
+        ],
+        "respuestaCorrecta": "Círculo ⚽",
+        "explicacion": "¡Redonda! ⭕",
+        "visual": "⭕",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-mat-b3-v1-007",
+        "tema": "Patrones con figuras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué sigue? ⭕🔺⭕🔺⭕___",
+        "opciones": [
+          "🔺",
+          "⭕",
+          "⬜",
+          "⭐"
+        ],
+        "respuestaCorrecta": "🔺",
+        "explicacion": "¡Triángulo! Se repite. 🔺",
+        "visual": "⭕🔺⭕🔺⭕"
       },
       {
         "id": "pre1-mat-b3-v1-002",
-        "tema": "Resta básica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Tenía 5 globos y se escaparon 2. ¿Cuántos me quedan?",
-        "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "5 - 2 = 3 🎈"
-      },
-      {
-        "id": "pre1-mat-b3-v1-003",
-        "tema": "Posiciones",
+        "tema": "Círculo, cuadrado y triángulo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Si el gato está ENCIMA de la caja, entonces la caja está DEBAJO del gato",
+        "pregunta": "El triángulo tiene 3 lados.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Encima y debajo son posiciones opuestas! 📦"
+        "explicacion": "¡Sí! 'Tri' = 3. 🔺3️⃣",
+        "visual": "🔺"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T12:50:00.000Z",
+  "version": "4.0-SEP"
 }

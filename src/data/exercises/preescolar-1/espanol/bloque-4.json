@@ -2,298 +2,312 @@
   "grado": "preescolar-1",
   "materia": "espanol",
   "bloque": 4,
-  "nombre": "Me expreso y converso",
-  "meses": "Febrero-Marzo",
+  "nombre": "Letras, palabras y escritura",
+  "libroSep": "K1MLA",
+  "paginasLibro": "81-120",
+  "meses": "Febrero–Marzo",
   "temas": [
-    "Conversaciones",
-    "Preguntas y respuestas",
-    "Mi opinión",
-    "Trabalenguas",
-    "Adivina adivinador"
+    "Consonantes L, T, D, N",
+    "Escribir mi nombre",
+    "Palabras cortas",
+    "El abecedario"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-esp-b4-v1-001",
-        "tema": "Conversaciones",
+        "tema": "Consonantes L, T, D, N",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo saludamos CORRECTAMENTE cuando llegamos a un lugar?",
+        "pregunta": "¿Con qué letra empieza 'Luna'? 🌙",
         "opciones": [
-          "Buenos días / Hola",
-          "Silencio total",
-          "Corremos adentro",
-          "Gritamos el nombre de alguien"
+          "L",
+          "M",
+          "P",
+          "S"
         ],
-        "respuestaCorrecta": "Buenos días / Hola",
-        "explicacion": "¡Buenos días, buenas tardes o hola! Los saludos muestran respeto y educación. ¡Siempre saludar! 👋"
+        "respuestaCorrecta": "L",
+        "explicacion": "¡La L! LU-NA. La L suena como 'el'. 🌙📝",
+        "visual": "🌙",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 85
+        }
       },
       {
         "id": "pre1-esp-b4-v1-002",
-        "tema": "Preguntas y respuestas",
-        "tipo": "true_false",
+        "tema": "Consonantes L, T, D, N",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Las preguntas en español siempre empiezan con ¿",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El español usa ¿ al inicio y ? al final. ¡Es único en el mundo! ¿Cómo estás?"
+        "pregunta": "La palabra 'taco' empieza con la letra ___.",
+        "respuestaCorrecta": "T",
+        "explicacion": "¡La T! TA-CO. ¡Los tacos son deliciosos y empiezan con T! 🌮"
       },
       {
         "id": "pre1-esp-b4-v1-003",
-        "tema": "Trabalenguas",
-        "tipo": "multiple_choice",
+        "tema": "Escribir mi nombre",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirven los trabalenguas?",
-        "opciones": [
-          "Para practicar pronunciar sonidos difíciles",
-          "Para hacer dormir a los bebés",
-          "Para contar números",
-          "Para pintar"
-        ],
-        "respuestaCorrecta": "Para practicar pronunciar sonidos difíciles",
-        "explicacion": "¡Los trabalenguas entrenan la lengua y los labios! 'Tres tristes tigres' es un trabalenguas famoso. 🐯"
+        "pregunta": "Mi nombre siempre se escribe con la primera letra MAYÚSCULA.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los nombres propios siempre empiezan con mayúscula: Ana, Carlos, María. 📝🔤"
       },
       {
         "id": "pre1-esp-b4-v1-004",
-        "tema": "Adivina adivinador",
-        "tipo": "fill_blank",
+        "tema": "Palabras cortas",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "'Soy blanca por fuera y amarilla por dentro, muchos me comen pero nadie me vio nacer.' ¿Qué soy? (el ___) ",
-        "respuestaCorrecta": "huevo",
-        "explicacion": "¡El huevo! Las adivinanzas son juegos de ingenio con palabras. ¡Ejercitan el pensamiento! 🥚"
+        "pregunta": "¿Cuál es una palabra de 3 letras?",
+        "opciones": [
+          "Sol ☀️",
+          "Mariposa 🦋",
+          "Elefante 🐘",
+          "Hipopótamo 🦛"
+        ],
+        "respuestaCorrecta": "Sol ☀️",
+        "explicacion": "¡SOL! S-O-L tiene solo 3 letras. Es una palabra cortita. ☀️",
+        "visual": "☀️"
       },
       {
         "id": "pre1-esp-b4-v1-005",
-        "tema": "Mi opinión",
-        "tipo": "true_false",
+        "tema": "El abecedario",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Podemos decir 'no me gusta' de manera respetuosa",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Podemos expresar nuestra opinión con respeto: 'No me gusta, prefiero otro'. ¡La opinión es un derecho! 💬"
+        "pregunta": "¿Cuál es la primera letra del abecedario?",
+        "opciones": [
+          "A",
+          "Z",
+          "M",
+          "B"
+        ],
+        "respuestaCorrecta": "A",
+        "explicacion": "¡La A! El abecedario empieza con A y termina con Z. A, B, C, D, E... 🔤"
       },
       {
         "id": "pre1-esp-b4-v1-006",
-        "tema": "Conversaciones",
+        "tema": "Consonantes L, T, D, N",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuando alguien está hablando, ¿qué debemos hacer?",
+        "pregunta": "¿Qué letra está en 'dado' y 'dedo'?",
         "opciones": [
-          "Escuchar sin interrumpir",
-          "Hablar encima de él",
-          "Irnos",
-          "Hacer ruidos"
+          "D",
+          "B",
+          "P",
+          "G"
         ],
-        "respuestaCorrecta": "Escuchar sin interrumpir",
-        "explicacion": "¡Escuchar es tan importante como hablar! Esperar nuestro turno para hablar es una muestra de respeto. 👂"
+        "respuestaCorrecta": "D",
+        "explicacion": "¡La D! DA-DO y DE-DO. La D suena como 'de'. 🎲👆"
       },
       {
         "id": "pre1-esp-b4-v1-007",
-        "tema": "Trabalenguas",
-        "tipo": "fill_blank",
+        "tema": "Escribir mi nombre",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "'Tres tristes ___ comían trigo en un trigal.' (trabalenguas)",
-        "respuestaCorrecta": "tigres",
-        "explicacion": "¡Tres tristes tigres! Este trabalenguas es muy divertido. ¡Inténtalo rápido! 🐯"
+        "pregunta": "¿Para qué sirve saber escribir tu nombre?",
+        "opciones": [
+          "Para firmar tus trabajos y que sepan quién eres",
+          "Para nada",
+          "Para dormir",
+          "Para comer"
+        ],
+        "respuestaCorrecta": "Para firmar tus trabajos y que sepan quién eres",
+        "explicacion": "¡Tu nombre es TU identidad! Saber escribirlo es superimportante. ✍️👤"
       },
       {
         "id": "pre1-esp-b4-v1-008",
-        "tema": "Preguntas y respuestas",
-        "tipo": "multiple_choice",
+        "tema": "Palabras cortas",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas es una PREGUNTA?",
-        "opciones": [
-          "¿Dónde está mi libro?",
-          "El cielo es azul",
-          "Hoy hace calor",
-          "Me gusta jugar"
-        ],
-        "respuestaCorrecta": "¿Dónde está mi libro?",
-        "explicacion": "¡Las preguntas piden información! Empiezan con ¿ y terminan con ?. Las respuestas nos dan la información. 📖"
+        "pregunta": "La palabra 'pan' tiene ___ letras.",
+        "respuestaCorrecta": "3",
+        "explicacion": "¡3 letras! P-A-N. Es una palabra cortita y deliciosa. 🍞3️⃣"
       },
       {
         "id": "pre1-esp-b4-v1-009",
-        "tema": "Adivina adivinador",
-        "tipo": "multiple_choice",
+        "tema": "El abecedario",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "'Tengo manos pero no me puedo lavar.' ¿Qué soy?",
-        "opciones": [
-          "Un reloj",
-          "Una silla",
-          "Un libro",
-          "Un árbol"
-        ],
-        "respuestaCorrecta": "Un reloj",
-        "explicacion": "¡El reloj tiene manecillas (manos)! Las adivinanzas usan palabras con doble sentido. ¡Inteligente! ⏰",
-        "visual": "⏰"
+        "pregunta": "El abecedario tiene 27 letras en español.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El español tiene 27 letras incluyendo la Ñ. ¡La Ñ es única del español! 🇲🇽🔤"
       },
       {
         "id": "pre1-esp-b4-v1-010",
-        "tema": "Mi opinión",
-        "tipo": "fill_blank",
+        "tema": "Consonantes L, T, D, N",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Cuando termino de comer y me gustó la comida, puedo decir '___'",
-        "respuestaCorrecta": "gracias",
-        "explicacion": "¡Gracias! Es la palabra mágica que muestra aprecio. ¡Las palabras de cortesía hacen el mundo más amable! 😊"
+        "pregunta": "La palabra 'nube' empieza con la letra N.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! NU-BE empieza con N. ☁️📝"
       }
     ],
     "v2": [
       {
         "id": "pre1-esp-b4-v2-001",
-        "tema": "Trabalenguas",
-        "tipo": "multiple_choice",
+        "tema": "Consonantes L, T, D, N",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Por qué es difícil decir un trabalenguas muy rápido?",
-        "opciones": [
-          "Porque los sonidos son similares y la lengua se confunde",
-          "Porque son muy largos",
-          "Porque no tienen sentido",
-          "Porque son aburridos"
-        ],
-        "respuestaCorrecta": "Porque los sonidos son similares y la lengua se confunde",
-        "explicacion": "¡Exacto! Los trabalenguas usan sonidos parecidos (tr, pr, str) que confunden a la lengua. ¡El cerebro los separa diferente! 🧠"
+        "pregunta": "L + A = ___, L + E = ___, L + I = ___",
+        "respuestaCorrecta": "LA, LE, LI",
+        "explicacion": "¡LA, LE, LI, LO, LU! La L con cada vocal forma una sílaba. 📝"
       },
       {
         "id": "pre1-esp-b4-v2-002",
-        "tema": "Adivina adivinador",
-        "tipo": "fill_blank",
+        "tema": "Escribir mi nombre",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "'Cuanto más la secas, más se moja.' ¿Qué es? (la ___)",
-        "respuestaCorrecta": "toalla",
-        "explicacion": "¡La toalla! Cuanto más la usas para secar, más húmeda se pone. Las adivinanzas son lógica y juego. 🛁"
+        "pregunta": "¿Cuál está escrito correctamente?",
+        "opciones": [
+          "María (con mayúscula)",
+          "maría (sin mayúscula)",
+          "MARÍA (todo mayúscula)",
+          "mArÍa"
+        ],
+        "respuestaCorrecta": "María (con mayúscula)",
+        "explicacion": "¡María! Primera letra mayúscula, el resto minúscula. ¡Así se escriben los nombres! 📝✅"
       },
       {
         "id": "pre1-esp-b4-v2-003",
-        "tema": "Mi opinión",
-        "tipo": "true_false",
+        "tema": "Palabras cortas",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Expresar una opinión diferente a la del maestro siempre está mal",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! Podemos tener opiniones diferentes siempre que las expresemos con respeto. ¡El pensamiento crítico es valioso! 🤔"
+        "pregunta": "¿Cuántas letras tiene 'casa'?",
+        "opciones": [
+          "4",
+          "3",
+          "5",
+          "6"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 letras! C-A-S-A. ¡Puedes contar las letras de cualquier palabra! 🏠4️⃣"
       },
       {
         "id": "pre1-esp-b4-v2-004",
-        "tema": "Conversaciones",
-        "tipo": "multiple_choice",
+        "tema": "El abecedario",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Qué es un diálogo?",
-        "opciones": [
-          "Una conversación entre dos o más personas",
-          "Un libro de cuentos",
-          "Una canción de cuna",
-          "Un trabalenguas"
-        ],
-        "respuestaCorrecta": "Una conversación entre dos o más personas",
-        "explicacion": "¡Un diálogo es comunicación entre personas! Se alternan hablando y escuchando. ¡La base de toda relación! 💬"
+        "pregunta": "La letra que viene después de la M es la ___.",
+        "respuestaCorrecta": "N",
+        "explicacion": "¡La N! ...L, M, N, Ñ, O... Las letras van en orden alfabético. 📝"
       },
       {
         "id": "pre1-esp-b4-v2-005",
-        "tema": "Preguntas y respuestas",
-        "tipo": "fill_blank",
+        "tema": "Consonantes L, T, D, N",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Las palabras que comienzan preguntas se llaman palabras ___",
-        "respuestaCorrecta": "interrogativas",
-        "explicacion": "¡Interrogativas! Qué, Quién, Dónde, Cuándo, Por qué, Cómo. ¡Las 6 preguntas mágicas del periodismo! 🔍"
+        "pregunta": "¿Qué palabra forman estas sílabas? DA + DO",
+        "opciones": [
+          "Dado 🎲",
+          "Dedo",
+          "Día",
+          "Don"
+        ],
+        "respuestaCorrecta": "Dado 🎲",
+        "explicacion": "¡DADO! DA + DO = DADO. ¡Unir sílabas forma palabras! 🎲"
       },
       {
         "id": "pre1-esp-b4-v2-006",
-        "tema": "Adivina adivinador",
-        "tipo": "multiple_choice",
+        "tema": "Escribir mi nombre",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "'Soy alta cuando joven y baja cuando vieja.' ¿Qué soy?",
-        "opciones": [
-          "Una vela",
-          "Una planta",
-          "Un árbol",
-          "Una silla"
-        ],
-        "respuestaCorrecta": "Una vela",
-        "explicacion": "¡La vela! Nueva está alta, vieja se consume y se queda pequeña. ¡Las adivinanzas son pequeños poemas! 🕯️"
+        "pregunta": "Los apellidos también se escriben con mayúscula al inicio.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Nombre y apellidos con mayúscula: María López García. 📝🔤"
       },
       {
         "id": "pre1-esp-b4-v2-007",
-        "tema": "Trabalenguas",
+        "tema": "Palabras cortas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Practicar trabalenguas puede ayudarnos a hablar más claro",
+        "pregunta": "Las palabras más cortas del español tienen solo 1 o 2 letras: a, y, de, en.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Los actores, cantantes y locutores practican trabalenguas para tener una pronunciación perfecta. 🎤"
+        "explicacion": "¡Sí! 'A', 'y', 'de', 'en', 'el', 'la' — son palabras chiquitas pero muy importantes. 📏"
       },
       {
         "id": "pre1-esp-b4-v2-008",
-        "tema": "Mi opinión",
-        "tipo": "fill_blank",
+        "tema": "El abecedario",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Cuando algo no me parece justo, tengo ___ a expresarlo con respeto",
-        "respuestaCorrecta": "derecho",
-        "explicacion": "¡El derecho a la expresión! Los niños tienen derechos. Uno de ellos es poder decir lo que piensan y sienten. 📣"
+        "pregunta": "¿Cuál es la última letra del abecedario?",
+        "opciones": [
+          "Z",
+          "Y",
+          "X",
+          "W"
+        ],
+        "respuestaCorrecta": "Z",
+        "explicacion": "¡La Z! El abecedario va de la A a la Z. ¡27 letras en total! 🔤"
       },
       {
         "id": "pre1-esp-b4-v2-009",
-        "tema": "Conversaciones",
-        "tipo": "true_false",
+        "tema": "Consonantes L, T, D, N",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Hablar por teléfono también es una forma de conversación",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Claro! Aunque no nos vemos, nos escuchamos. El teléfono es una herramienta de conversación. 📱"
+        "pregunta": "TO + MA + TE = Toma___.",
+        "respuestaCorrecta": "te",
+        "explicacion": "¡Tomate! TO-MA-TE. 3 sílabas que forman una palabra deliciosa. 🍅"
       },
       {
         "id": "pre1-esp-b4-v2-010",
-        "tema": "Preguntas y respuestas",
-        "tipo": "multiple_choice",
+        "tema": "El abecedario",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Cuál es la palabra correcta para preguntar sobre un lugar?",
-        "opciones": [
-          "¿Dónde?",
-          "¿Quién?",
-          "¿Cuándo?",
-          "¿Por qué?"
-        ],
-        "respuestaCorrecta": "¿Dónde?",
-        "explicacion": "¿Dónde? pregunta por el lugar. ¿Quién? por persona. ¿Cuándo? por tiempo. ¡Cada pregunta tiene su momento! 🗺️"
+        "pregunta": "La letra Ñ solo existe en el idioma español.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La Ñ es única del español. España, niño, piñata — ¡todas con Ñ! 🇲🇽🔤",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 100
+        }
       }
     ],
     "preview": [
       {
         "id": "pre1-esp-b4-v1-001",
-        "tema": "Conversaciones",
+        "tema": "Consonantes",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo saludamos CORRECTAMENTE cuando llegamos a un lugar?",
+        "pregunta": "¿Qué letra empieza 'Luna'?",
         "opciones": [
-          "Buenos días / Hola",
-          "Silencio total",
-          "Corremos adentro",
-          "Gritamos el nombre de alguien"
+          "L",
+          "M",
+          "P",
+          "S"
         ],
-        "respuestaCorrecta": "Buenos días / Hola",
-        "explicacion": "¡Los saludos muestran respeto! 👋"
+        "respuestaCorrecta": "L",
+        "explicacion": "¡La L! 🌙",
+        "visual": "🌙",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-esp-b4-v1-005",
+        "tema": "Abecedario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Primera letra del abecedario?",
+        "opciones": [
+          "A",
+          "Z",
+          "M",
+          "B"
+        ],
+        "respuestaCorrecta": "A",
+        "explicacion": "¡La A! 🔤"
       },
       {
         "id": "pre1-esp-b4-v1-003",
-        "tema": "Trabalenguas",
-        "tipo": "multiple_choice",
+        "tema": "Mi nombre",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirven los trabalenguas?",
-        "opciones": [
-          "Para practicar pronunciar sonidos difíciles",
-          "Para hacer dormir a los bebés",
-          "Para contar números",
-          "Para pintar"
-        ],
-        "respuestaCorrecta": "Para practicar pronunciar sonidos difíciles",
-        "explicacion": "¡Los trabalenguas entrenan la lengua! 🐯"
-      },
-      {
-        "id": "pre1-esp-b4-v1-004",
-        "tema": "Adivina adivinador",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "'Soy blanca por fuera y amarilla por dentro... ¿Qué soy? (el ___)",
-        "respuestaCorrecta": "huevo",
-        "explicacion": "¡El huevo! 🥚"
+        "pregunta": "Mi nombre se escribe con mayúscula.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Ana, Carlos... 📝🔤"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T13:20:00.000Z",
+  "version": "4.0-SEP"
 }

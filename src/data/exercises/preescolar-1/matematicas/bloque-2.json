@@ -2,239 +2,25 @@
   "grado": "preescolar-1",
   "materia": "matematicas",
   "bloque": 2,
-  "nombre": "Cuento y descubro",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Números del 5 al 10 y la decena",
+  "libroSep": "K1LMA",
+  "paginasLibro": "23-40",
+  "meses": "Octubre–Noviembre",
   "temas": [
-    "Contar del 1 al 10",
-    "Comparar cantidades",
-    "Figuras en mi entorno",
-    "Agrupar objetos",
-    "Tamaños"
+    "Contar del 5 al 10",
+    "La decena: el número 10",
+    "Secuencias numéricas",
+    "Mayor que y menor que"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-mat-b2-v1-001",
-        "tema": "Contar del 1 al 10",
-        "tipo": "multiple_choice",
+        "tema": "Contar del 5 al 10",
+        "tipo": "visual_count",
         "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐⭐⭐⭐",
-        "opciones": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "respuestaCorrecta": "6",
-        "explicacion": "¡Contemos: 1,2,3,4,5,6! Hay 6 estrellas. ¡Ya llegamos al 6, seis como las esquinas de un copo de nieve! ❄️",
-        "visual": "⭐⭐⭐⭐⭐⭐"
-      },
-      {
-        "id": "pre1-mat-b2-v1-002",
-        "tema": "Comparar cantidades",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "7 es más que 4",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! 7 > 4. Si pones 7 manzanas y 4 manzanas, el grupo de 7 tiene más. ¡Los números más grandes tienen más! 🍎"
-      },
-      {
-        "id": "pre1-mat-b2-v1-003",
-        "tema": "Figuras en mi entorno",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Una pizza tiene forma de...",
-        "opciones": [
-          "Círculo",
-          "Cuadrado",
-          "Triángulo",
-          "Rectángulo"
-        ],
-        "respuestaCorrecta": "Círculo",
-        "explicacion": "¡La pizza es redonda como un círculo! Pero cuando la cortamos en rebanadas, ¡cada rebanada tiene forma de triángulo! 🍕",
-        "visual": "🍕"
-      },
-      {
-        "id": "pre1-mat-b2-v1-004",
-        "tema": "Tamaños",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Un elefante es más ___ que un ratón",
-        "respuestaCorrecta": "grande",
-        "explicacion": "¡El elefante es enorme y el ratón es pequeñito! Comparar tamaños nos ayuda a entender el mundo. 🐘🐭"
-      },
-      {
-        "id": "pre1-mat-b2-v1-005",
-        "tema": "Agrupar objetos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Podemos agrupar animales por donde viven: tierra, agua o aire",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Agrupar es clasificar! Los peces van con el agua 🐟, los pájaros con el aire 🐦, los perros con la tierra 🐕. ¡Así pensamos en matemáticas!"
-      },
-      {
-        "id": "pre1-mat-b2-v1-006",
-        "tema": "Contar del 1 al 10",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué número viene ANTES del 8?",
-        "opciones": [
-          "6",
-          "7",
-          "9",
-          "10"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "...-6-7-8-9-10. El número que viene antes del 8 es el 7. ¡Antes = el anterior, el que lo precede! 🔢"
-      },
-      {
-        "id": "pre1-mat-b2-v1-007",
-        "tema": "Tamaños",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estos objetos es el más PEQUEÑO?",
-        "opciones": [
-          "Una hormiga 🐜",
-          "Un gato 🐱",
-          "Una vaca 🐄",
-          "Un árbol 🌳"
-        ],
-        "respuestaCorrecta": "Una hormiga 🐜",
-        "explicacion": "¡La hormiga es muy pequeña! Aunque pesa poco, puede cargar 50 veces su peso. ¡Lo pequeño puede ser muy poderoso! 🐜",
-        "visual": "🐜"
-      },
-      {
-        "id": "pre1-mat-b2-v1-008",
-        "tema": "Comparar cantidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Si tengo 3 galletas y mi amigo tiene 5, mi amigo tiene ___ galletas",
-        "respuestaCorrecta": "más",
-        "explicacion": "¡Mi amigo tiene MÁS! 5 > 3. Siempre comparamos para saber quién tiene más, menos o igual. 🍪"
-      },
-      {
-        "id": "pre1-mat-b2-v1-009",
-        "tema": "Figuras en mi entorno",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La puerta de una casa tiene forma de rectángulo",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Las puertas son rectangulares! 4 lados, pero 2 son más largos (alto) y 2 más cortos (ancho). ¡Las figuras están en todas partes! 🚪"
-      },
-      {
-        "id": "pre1-mat-b2-v1-010",
-        "tema": "Agrupar objetos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estos NO pertenece al grupo de frutas? 🍎🍌🍇🥕",
-        "opciones": [
-          "🍎 Manzana",
-          "🍌 Plátano",
-          "🍇 Uvas",
-          "🥕 Zanahoria"
-        ],
-        "respuestaCorrecta": "🥕 Zanahoria",
-        "explicacion": "¡La zanahoria es una verdura, no una fruta! Identificar el que 'no pertenece' es una habilidad matemática de clasificación. 🥕"
-      }
-    ],
-    "v2": [
-      {
-        "id": "pre1-mat-b2-v2-001",
-        "tema": "Contar del 1 al 10",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "5, 6, 7, 8, ___, 10",
-        "respuestaCorrecta": "9",
-        "explicacion": "¡El 9! La secuencia del 5 al 10: 5-6-7-8-9-10. El 9 va entre el 8 y el 10. 🔢"
-      },
-      {
-        "id": "pre1-mat-b2-v2-002",
-        "tema": "Comparar cantidades",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál símbolo significa 'es menor que'?",
-        "opciones": [
-          "<",
-          ">",
-          " =",
-          "≠"
-        ],
-        "respuestaCorrecta": "<",
-        "explicacion": "¡El < es 'menor que'! 3 < 5 significa '3 es menor que 5'. El pico del símbolo apunta al número más pequeño. 📐"
-      },
-      {
-        "id": "pre1-mat-b2-v2-003",
-        "tema": "Tamaños",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Podemos ordenar libros de más delgado a más grueso",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Ordenar por tamaño (grueso/delgado, alto/bajo, grande/pequeño) es seriación, una habilidad matemática clave. 📚"
-      },
-      {
-        "id": "pre1-mat-b2-v2-004",
-        "tema": "Figuras en mi entorno",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos círculos tiene una bicicleta?",
-        "opciones": [
-          "0",
-          "1",
-          "2",
-          "4"
-        ],
-        "respuestaCorrecta": "2",
-        "explicacion": "¡2 ruedas redondas = 2 círculos! La bicicleta tiene 2 círculos. ¡Las matemáticas están en el mundo real! 🚲"
-      },
-      {
-        "id": "pre1-mat-b2-v2-005",
-        "tema": "Agrupar objetos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Si agropo los triángulos juntos y los círculos juntos, estoy haciendo una ___",
-        "respuestaCorrecta": "clasificación",
-        "explicacion": "¡Clasificar es organizar objetos por características comunes! Es una de las primeras habilidades matemáticas. 📊"
-      },
-      {
-        "id": "pre1-mat-b2-v2-006",
-        "tema": "Contar del 1 al 10",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El número 10 está formado por un 1 y un 0",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El 10 tiene dos dígitos: el 1 y el 0. Es el primer número de dos cifras que aprendemos. 🔟"
-      },
-      {
-        "id": "pre1-mat-b2-v2-007",
-        "tema": "Comparar cantidades",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "María tiene 8 calcomanías y Juan tiene 6. ¿Cuántas más tiene María?",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "2",
-        "explicacion": "8 - 6 = 2. María tiene 2 más que Juan. ¡Comparar cantidades nos ayuda a resolver problemas reales! 🎯"
-      },
-      {
-        "id": "pre1-mat-b2-v2-008",
-        "tema": "Tamaños",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El opuesto de GRANDE es ___",
-        "respuestaCorrecta": "pequeño",
-        "explicacion": "¡Grande ↔ Pequeño! Los opuestos en tamaño nos ayudan a comparar objetos. ¡Como el elefante y la hormiga! 🐘🐜"
-      },
-      {
-        "id": "pre1-mat-b2-v2-009",
-        "tema": "Figuras en mi entorno",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos lados tiene un hexágono?",
+        "pregunta": "¿Cuántos corazones hay? ❤️❤️❤️❤️❤️❤️",
         "opciones": [
           "5",
           "6",
@@ -242,61 +28,312 @@
           "8"
         ],
         "respuestaCorrecta": "6",
-        "explicacion": "¡El hexágono tiene 6 lados! HEXA = 6. Las celdas de un panal de abejas son hexagonales. 🐝",
-        "visual": "🐝"
+        "explicacion": "¡Hay 6 corazones! 1, 2, 3, 4, 5, 6. El 6 viene después del 5. ❤️6️⃣",
+        "visual": "❤️❤️❤️❤️❤️❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 25
+        }
+      },
+      {
+        "id": "pre1-mat-b2-v1-002",
+        "tema": "Contar del 5 al 10",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas flores hay? 🌸🌸🌸🌸🌸🌸🌸🌸",
+        "opciones": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "respuestaCorrecta": "8",
+        "explicacion": "¡8 flores! Contamos: 1, 2, 3, 4, 5, 6, 7, 8. ¡Casi llegamos al 10! 🌸8️⃣",
+        "visual": "🌸🌸🌸🌸🌸🌸🌸🌸"
+      },
+      {
+        "id": "pre1-mat-b2-v1-003",
+        "tema": "La decena: el número 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos dedos tienes en las DOS manos juntas?",
+        "opciones": [
+          "10",
+          "5",
+          "8",
+          "20"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "¡10 dedos! 5 en cada mano. ¡El 10 es nuestro primer número de dos cifras! ✋✋🔟",
+        "visual": "✋✋"
+      },
+      {
+        "id": "pre1-mat-b2-v1-004",
+        "tema": "Secuencias numéricas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Completa: 6, 7, ___, 9, 10.",
+        "respuestaCorrecta": "8",
+        "explicacion": "¡El 8! Los números van en orden. Después del 7 viene el 8. 7️⃣➡️8️⃣"
+      },
+      {
+        "id": "pre1-mat-b2-v1-005",
+        "tema": "Mayor que y menor que",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál número es MAYOR: 6 o 9?",
+        "opciones": [
+          "9",
+          "6",
+          "Son iguales",
+          "No se puede saber"
+        ],
+        "respuestaCorrecta": "9",
+        "explicacion": "¡El 9! Nueve es mayor que seis. 9 > 6. ¡El cocodrilo siempre come al más grande! 🐊9️⃣"
+      },
+      {
+        "id": "pre1-mat-b2-v1-006",
+        "tema": "Contar del 5 al 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El número 7 viene DESPUÉS del número 6.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La secuencia es: ...5, 6, 7, 8, 9, 10. El 7 siempre viene después del 6. ✅"
+      },
+      {
+        "id": "pre1-mat-b2-v1-007",
+        "tema": "La decena: el número 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El número 10 se forma con el 1 y el 0 juntos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El 10 es especial: tiene dos cifras, un 1 y un 0. ¡Es el primer número con dos dígitos! 1️⃣0️⃣",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 35
+        }
+      },
+      {
+        "id": "pre1-mat-b2-v1-008",
+        "tema": "Secuencias numéricas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué número viene ANTES del 10?",
+        "opciones": [
+          "9",
+          "8",
+          "11",
+          "5"
+        ],
+        "respuestaCorrecta": "9",
+        "explicacion": "¡El 9! Justo antes del 10 está el 9. Son vecinos en la recta numérica. 9️⃣⬅️🔟"
+      },
+      {
+        "id": "pre1-mat-b2-v1-009",
+        "tema": "Mayor que y menor que",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál número es el MENOR: 10, 5 o 7?",
+        "opciones": [
+          "5",
+          "7",
+          "10",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "¡El 5! Es el más pequeño de los tres. 5 < 7 < 10. 5️⃣"
+      },
+      {
+        "id": "pre1-mat-b2-v1-010",
+        "tema": "Contar del 5 al 10",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas mariposas? 🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋",
+        "opciones": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "¡10 mariposas! ¡Una decena completa! 10 es un número muy importante en matemáticas. 🦋🔟",
+        "visual": "🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-mat-b2-v2-001",
+        "tema": "Contar del 5 al 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Si tengo 7 crayones y me dan 2 más, tengo ___ crayones.",
+        "respuestaCorrecta": "9",
+        "explicacion": "¡9 crayones! 7 + 2 = 9. ¡Sumar es juntar cantidades! 🖍️🖍️🖍️🖍️🖍️🖍️🖍️🖍️🖍️"
+      },
+      {
+        "id": "pre1-mat-b2-v2-002",
+        "tema": "Secuencias numéricas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el número que falta? 5, ___, 7, 8",
+        "opciones": [
+          "6",
+          "4",
+          "9",
+          "3"
+        ],
+        "respuestaCorrecta": "6",
+        "explicacion": "¡El 6! La secuencia es: 5, 6, 7, 8. Los números siempre van en orden. 6️⃣"
+      },
+      {
+        "id": "pre1-mat-b2-v2-003",
+        "tema": "La decena: el número 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si juntas 5 manzanas 🍎🍎🍎🍎🍎 y 5 naranjas 🍊🍊🍊🍊🍊, ¿cuántas frutas tienes?",
+        "opciones": [
+          "10",
+          "5",
+          "8",
+          "15"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "¡10 frutas! 5 + 5 = 10. ¡Eso es una decena! ¡Cómo tus 10 dedos! 🍎🍊🔟",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 35
+        }
+      },
+      {
+        "id": "pre1-mat-b2-v2-004",
+        "tema": "Mayor que y menor que",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "8 es mayor que 10.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! 8 es MENOR que 10. 8 < 10. ¡El 10 gana! 🔟🏆"
+      },
+      {
+        "id": "pre1-mat-b2-v2-005",
+        "tema": "Contar del 5 al 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si cuento hacia atrás desde el 10, ¿cuál es el orden?",
+        "opciones": [
+          "10, 9, 8, 7, 6, 5...",
+          "5, 6, 7, 8, 9, 10",
+          "10, 20, 30",
+          "1, 2, 3, 4, 5"
+        ],
+        "respuestaCorrecta": "10, 9, 8, 7, 6, 5...",
+        "explicacion": "¡Como un astronauta! 10, 9, 8, 7, 6, 5, 4, 3, 2, 1... ¡Despegue! 🚀 Contar hacia atrás es útil para restar."
+      },
+      {
+        "id": "pre1-mat-b2-v2-006",
+        "tema": "Secuencias numéricas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Después del 9 viene el número ___.",
+        "respuestaCorrecta": "10",
+        "explicacion": "¡El 10! Es el primer número de dos cifras. 9 + 1 = 10. ¡Felicidades, llegaste a la decena! 🔟🎉"
+      },
+      {
+        "id": "pre1-mat-b2-v2-007",
+        "tema": "La decena: el número 10",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Una decena es un grupo de 10.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! 10 unidades forman 1 decena. ¡Como 10 dedos en tus manos! ✋✋🔟"
+      },
+      {
+        "id": "pre1-mat-b2-v2-008",
+        "tema": "Mayor que y menor que",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Ordena de MENOR a MAYOR: 9, 6, 8",
+        "opciones": [
+          "6, 8, 9",
+          "9, 8, 6",
+          "8, 6, 9",
+          "6, 9, 8"
+        ],
+        "respuestaCorrecta": "6, 8, 9",
+        "explicacion": "¡6, 8, 9! De menor a mayor: primero el más chiquito (6), luego el mediano (8) y al final el más grande (9). 📈"
+      },
+      {
+        "id": "pre1-mat-b2-v2-009",
+        "tema": "Contar del 5 al 10",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Si quitas 3 de 10, te quedan 7.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 10 - 3 = 7. Restar es quitar. ¡Las matemáticas funcionan! 🔢"
       },
       {
         "id": "pre1-mat-b2-v2-010",
-        "tema": "Agrupar objetos",
-        "tipo": "true_false",
+        "tema": "Secuencias numéricas",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Rojo, azul y verde son características que podemos usar para agrupar objetos",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Los colores son una característica para clasificar! Podemos agrupar por color, tamaño, forma o función. ¡Hay muchas maneras! 🎨"
+        "pregunta": "¿Cuántos números hay del 1 al 10?",
+        "opciones": [
+          "10",
+          "9",
+          "11",
+          "5"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "¡Hay 10 números! 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. ¡Es la familia completa! 🔢👨‍👩‍👧‍👦"
       }
     ],
     "preview": [
       {
-        "id": "pre1-mat-b2-v1-001",
-        "tema": "Contar del 1 al 10",
+        "id": "pre1-mat-b2-v1-003",
+        "tema": "La decena: el número 10",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐⭐⭐⭐",
+        "pregunta": "¿Cuántos dedos en las 2 manos?",
         "opciones": [
-          "4",
+          "10",
+          "5",
+          "8",
+          "20"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "¡10 dedos! ✋✋🔟",
+        "visual": "✋✋"
+      },
+      {
+        "id": "pre1-mat-b2-v1-001",
+        "tema": "Contar del 5 al 10",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos ❤️? ❤️❤️❤️❤️❤️❤️",
+        "opciones": [
           "5",
           "6",
-          "7"
+          "7",
+          "8"
         ],
         "respuestaCorrecta": "6",
-        "explicacion": "¡Contemos: 1,2,3,4,5,6! ❄️"
+        "explicacion": "¡Son 6! ❤️6️⃣",
+        "visual": "❤️❤️❤️❤️❤️❤️",
+        "fuenteSEP": true
       },
       {
-        "id": "pre1-mat-b2-v1-002",
-        "tema": "Comparar cantidades",
+        "id": "pre1-mat-b2-v1-006",
+        "tema": "Contar del 5 al 10",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "7 es más que 4",
+        "pregunta": "El 7 viene después del 6.",
         "respuestaCorrecta": "true",
-        "explicacion": "7 > 4. ¡Sí! 🍎"
-      },
-      {
-        "id": "pre1-mat-b2-v1-003",
-        "tema": "Figuras en mi entorno",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Una pizza tiene forma de...",
-        "opciones": [
-          "Círculo",
-          "Cuadrado",
-          "Triángulo",
-          "Rectángulo"
-        ],
-        "respuestaCorrecta": "Círculo",
-        "explicacion": "¡Círculo! 🍕"
+        "explicacion": "¡Sí! 6 → 7 ✅"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T12:45:00.000Z",
+  "version": "4.0-SEP"
 }

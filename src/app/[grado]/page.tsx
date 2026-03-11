@@ -1,13 +1,11 @@
 import { GRADOS, MATERIAS, BLOQUES } from "@/data/curriculum";
-import { GRADOS_CONTENIDO } from "@/data/content-primaria";
+import { GRADOS_CONTENIDO } from "@/data/content-primaria-slim";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import { AdBannerHorizontal, AdSidebar } from "@/components/AdBanner";
 import { notFound } from "next/navigation";
-import dynamic from "next/dynamic";
-
-const BuscadorPagina = dynamic(() => import("@/components/BuscadorPagina"), { ssr: false });
+import BuscadorPagina from "@/components/BuscadorPagina";
 import KinderUniverse from "@/components/KinderUniverse";
 
 interface Props {

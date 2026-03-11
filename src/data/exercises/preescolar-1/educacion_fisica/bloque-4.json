@@ -2,291 +2,302 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 4,
-  "nombre": "Deportes y trabajo en equipo",
-  "meses": "Feb-Mar",
+  "nombre": "Habilidades motrices y juegos cooperativos",
+  "meses": "Febrero–Marzo",
   "temas": [
-    "Básquet y fútbol",
-    "Natación",
-    "Atletismo básico",
-    "Trabajo en equipo"
+    "Lanzar y atrapar",
+    "Saltar obstáculos",
+    "Juegos cooperativos",
+    "Lateralidad: izquierda y derecha"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-ef-b4-v1-001",
-        "tema": "Básquet y fútbol",
+        "tema": "Lanzar y atrapar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el fútbol soccer, ¿cómo metemos el balón en la portería?",
+        "pregunta": "Para lanzar una pelota lejos, ¿qué parte del cuerpo usas más?",
         "opciones": [
-          "Con el pie o la cabeza",
-          "Con las manos",
-          "Con un palo",
-          "Con la espalda"
+          "El brazo y la mano",
+          "Las piernas",
+          "La cabeza",
+          "Las orejas"
         ],
-        "respuestaCorrecta": "Con el pie o la cabeza",
-        "explicacion": "¡En el fútbol no se puede usar las manos! Solo el portero puede usar las manos. ¡Los pies y la cabeza son las herramientas del jugador! ⚽",
-        "visual": "⚽"
+        "respuestaCorrecta": "El brazo y la mano",
+        "explicacion": "¡El brazo se estira hacia atrás y lanza hacia adelante! La mano suelta la pelota en el momento justo. 💪⚽",
+        "visual": "🤾"
       },
       {
         "id": "pre1-ef-b4-v1-002",
-        "tema": "Trabajo en equipo",
+        "tema": "Lanzar y atrapar",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En los deportes de equipo, todos los compañeros son igualmente importantes",
+        "pregunta": "Para atrapar una pelota, debes mantener los ojos en ella mientras viene.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Cada jugador tiene un papel crucial. ¡Un equipo es como un engranaje: si una pieza falla, todo se detiene! 🤝⚽"
+        "explicacion": "¡Los ojos siguen la pelota! Eso se llama coordinación ojo-mano. 👁️🤲"
       },
       {
         "id": "pre1-ef-b4-v1-003",
-        "tema": "Atletismo básico",
+        "tema": "Saltar obstáculos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué parte del cuerpo usamos para correr más rápido?",
+        "pregunta": "¿Qué obstáculo puedes saltar con los dos pies juntos?",
         "opciones": [
-          "Las piernas principalmente",
-          "Solo los brazos",
-          "La cabeza",
-          "El cuello"
+          "Un cono pequeño o una cuerda en el suelo",
+          "Un edificio",
+          "Un carro",
+          "Una montaña"
         ],
-        "respuestaCorrecta": "Las piernas principalmente",
-        "explicacion": "¡Las piernas son el motor! Pero los brazos también ayudan dando impulso. ¡Todo el cuerpo coopera para correr! 🏃‍♂️"
+        "respuestaCorrecta": "Un cono pequeño o una cuerda en el suelo",
+        "explicacion": "¡Conos, cuerdas y aros en el suelo! Empezamos con obstáculos bajitos y vamos subiendo. ¡Paso a paso! 🔺",
+        "visual": "🔺"
       },
       {
         "id": "pre1-ef-b4-v1-004",
-        "tema": "Natación",
-        "tipo": "fill_blank",
+        "tema": "Juegos cooperativos",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En la natación, para no hundirnos movemos los brazos y ___ en el agua",
-        "respuestaCorrecta": "pies",
-        "explicacion": "¡Brazos y pies! Los movimientos combinados de brazos y pies nos mantienen a flote y nos impulsan. ¡La natación es un deporte completo! 🏊"
+        "pregunta": "En un juego cooperativo no hay ganadores ni perdedores — todos ganan si trabajan juntos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Los juegos cooperativos nos enseñan que juntos podemos lograr más. ¡El éxito es de todos! 🤝🌟"
       },
       {
         "id": "pre1-ef-b4-v1-005",
-        "tema": "Básquet y fútbol",
-        "tipo": "true_false",
+        "tema": "Lateralidad: izquierda y derecha",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el básquetbol, metemos el balón en una canasta elevada",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! La canasta del básquet está a 3.05 metros de altura (una canasta estándar). ¡Hay que lanzar con fuerza y puntería! 🏀"
+        "pregunta": "¿Con qué mano escribes o dibujas normalmente?",
+        "opciones": [
+          "Con la mano que me sale más natural (derecha o izquierda)",
+          "Con los pies",
+          "Con la nariz",
+          "Con los ojos"
+        ],
+        "respuestaCorrecta": "Con la mano que me sale más natural (derecha o izquierda)",
+        "explicacion": "¡Tu mano dominante! Algunas personas usan la derecha y otras la izquierda. ¡Ambas están bien! ✋✍️",
+        "visual": "✍️"
       },
       {
         "id": "pre1-ef-b4-v1-006",
-        "tema": "Trabajo en equipo",
-        "tipo": "multiple_choice",
+        "tema": "Lateralidad: izquierda y derecha",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Qué hacemos cuando queremos pasar el balón a un compañero?",
-        "opciones": [
-          "Se lo lanzamos o pasamos",
-          "Lo guardamos para nosotros",
-          "Lo pateamos fuera de la cancha",
-          "Lo tiramos lejos"
-        ],
-        "respuestaCorrecta": "Se lo lanzamos o pasamos",
-        "explicacion": "¡El pase! Compartir el balón crea mejores jugadas. ¡Un equipo que no pasa, no gana! 🤾"
+        "pregunta": "Mi mano derecha está del mismo lado que mi pie dere___.",
+        "respuestaCorrecta": "cho",
+        "explicacion": "¡Derecho! La mano derecha y el pie derecho están del mismo lado del cuerpo. 🤚🦶"
       },
       {
         "id": "pre1-ef-b4-v1-007",
-        "tema": "Atletismo básico",
-        "tipo": "fill_blank",
+        "tema": "Lanzar y atrapar",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "El deporte donde saltamos tan lejos como podemos se llama salto de ___",
-        "respuestaCorrecta": "longitud",
-        "explicacion": "¡Salto de longitud! Corremos y saltamos lo más lejos posible. ¡Es una prueba del atletismo olímpico! 🏅"
+        "pregunta": "¿Qué forma tiene una pelota?",
+        "opciones": [
+          "Redonda como una esfera ⚽",
+          "Cuadrada ⬜",
+          "Triangular 🔺",
+          "Estrella ⭐"
+        ],
+        "respuestaCorrecta": "Redonda como una esfera ⚽",
+        "explicacion": "¡Las pelotas son esféricas (redondas)! Eso hace que puedan rodar y rebotar en todas las direcciones. ⚽🏀",
+        "visual": "⚽"
       },
       {
         "id": "pre1-ef-b4-v1-008",
-        "tema": "Natación",
+        "tema": "Saltar obstáculos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Aprender a nadar puede salvarnos la vida en una emergencia",
+        "pregunta": "Saltar aros en el suelo es un ejercicio que mejora la coordinación.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡La natación es una habilidad de supervivencia! Saber nadar nos protege en playas, ríos y albercas. ¡Es una de las habilidades más importantes! 🏊‍♀️💙"
+        "explicacion": "¡Sí! Saltar dentro y fuera de los aros hace que tus piernas sean más ágiles y tu cuerpo más coordinado. ⭕🦵"
       },
       {
         "id": "pre1-ef-b4-v1-009",
-        "tema": "Básquet y fútbol",
+        "tema": "Juegos cooperativos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos jugadores hay en un equipo de fútbol soccer?",
+        "pregunta": "¿Qué es más importante en un juego cooperativo?",
         "opciones": [
-          "5",
-          "9",
-          "11",
-          "15"
+          "Que todos participen y se diviertan",
+          "Ganar",
+          "Ser el mejor",
+          "No jugar"
         ],
-        "respuestaCorrecta": "11",
-        "explicacion": "¡11 jugadores! 10 de campo y 1 portero. En total hay 22 jugadores en la cancha durante un partido. ¡Trabajo en equipo máximo! ⚽"
+        "respuestaCorrecta": "Que todos participen y se diviertan",
+        "explicacion": "¡Participar y divertirse! En los juegos cooperativos lo importante es trabajar juntos y disfrutar. 🤝😊"
       },
       {
         "id": "pre1-ef-b4-v1-010",
-        "tema": "Atletismo básico",
+        "tema": "Lateralidad: izquierda y derecha",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Estirarse antes y después de hacer ejercicio previene lesiones",
+        "pregunta": "Es normal que algunas personas escriban con la mano izquierda.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡El calentamiento y estiramiento son esenciales! Los músculos fríos se lastiman fácil. ¡Siempre calentar antes de ejercitarse! 🏋️"
+        "explicacion": "¡Totalmente normal! Las personas que usan la mano izquierda se llaman 'zurdas'. ¡Tienen un talento especial! ✋"
       }
     ],
     "v2": [
       {
         "id": "pre1-ef-b4-v2-001",
-        "tema": "Trabajo en equipo",
-        "tipo": "multiple_choice",
+        "tema": "Lanzar y atrapar",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el papel del capitán en un equipo deportivo?",
-        "opciones": [
-          "Guiar y motivar al equipo",
-          "Hacer todos los goles",
-          "Siempre estar en la banca",
-          "Pelear con el árbitro"
-        ],
-        "respuestaCorrecta": "Guiar y motivar al equipo",
-        "explicacion": "¡El capitán lidera! Comunica, motiva y toma decisiones en el campo. ¡El liderazgo es una habilidad vital en el deporte y la vida! 👑"
+        "pregunta": "Cuando lanzas la pelota con mucha fuerza y velocidad, estás usando la fuer___ de tu brazo.",
+        "respuestaCorrecta": "za",
+        "explicacion": "¡Fuerza! Los músculos del brazo se contraen y lanzan la pelota lejos. ¡Puedes mejorar con práctica! 💪"
       },
       {
         "id": "pre1-ef-b4-v2-002",
-        "tema": "Natación",
-        "tipo": "fill_blank",
+        "tema": "Saltar obstáculos",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Los 4 estilos principales de natación son: crol (libre), pecho, espalda y ___",
-        "respuestaCorrecta": "mariposa",
-        "explicacion": "¡Mariposa! El estilo mariposa es el más difícil. Ambos brazos se mueven juntos como alas de mariposa. ¡Requiere mucha fuerza! 🦋🏊"
+        "pregunta": "¿Qué capacidad física necesitas para saltar alto?",
+        "opciones": [
+          "Fuerza en las piernas",
+          "Solo valentía",
+          "Ser muy delgado",
+          "Ser muy alto"
+        ],
+        "respuestaCorrecta": "Fuerza en las piernas",
+        "explicacion": "¡La fuerza de las piernas! Los saltos se practican: cuanto más fuerte son tus piernas, más alto saltas. 🦵⬆️"
       },
       {
         "id": "pre1-ef-b4-v2-003",
-        "tema": "Atletismo básico",
+        "tema": "Juegos cooperativos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Usain Bolt tiene el récord mundial de los 100 metros planos con 9.58 segundos",
+        "pregunta": "En el juego del 'paracaídas', todos los niños agarran la tela y la mueven juntos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Usain Bolt el rayo! Logró este récord en 2009 en Berlín. ¡Corrió a más de 44 km/h! El humano más rápido del planeta. ⚡🏃‍♂️"
+        "explicacion": "¡El paracaídas! Todos agarran la tela grande y la suben y bajan juntos. ¡Es imposible hacerlo solo! 🪂🤝"
       },
       {
         "id": "pre1-ef-b4-v2-004",
-        "tema": "Básquet y fútbol",
+        "tema": "Lateralidad: izquierda y derecha",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos puntos vale un tiro de 3 puntos en el baloncesto?",
+        "pregunta": "Tu corazón está más hacia qué lado de tu cuerpo?",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "5"
+          "Hacia la izquierda",
+          "Hacia la derecha",
+          "En el centro exacto",
+          "En la espalda"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "¡3 puntos si el tiro es desde más allá de la línea de 3 puntos! Es la jugada más espectacular del básquet. 🏀3️⃣"
+        "respuestaCorrecta": "Hacia la izquierda",
+        "explicacion": "¡El corazón está ligeramente a la izquierda! Por eso cuando te pones la mano en el pecho, lo sientes de ese lado. ❤️👈"
       },
       {
         "id": "pre1-ef-b4-v2-005",
-        "tema": "Trabajo en equipo",
-        "tipo": "fill_blank",
+        "tema": "Lanzar y atrapar",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Celebrar los logros de los compañeros y no solo los propios se llama ___",
-        "respuestaCorrecta": "compañerismo",
-        "explicacion": "¡El compañerismo! Alegrarse por los triunfos del equipo, no solo por los propios, es una habilidad socioemocional clave. 🤝🎉"
+        "pregunta": "Para atrapar mejor, debes poner las manos en forma de 'copa' o 'canasta'.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Las manos en forma de copa! Así se crea un espacio donde la pelota cae y queda atrapada. 🤲⚽"
       },
       {
         "id": "pre1-ef-b4-v2-006",
-        "tema": "Atletismo básico",
-        "tipo": "multiple_choice",
+        "tema": "Saltar obstáculos",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuál deporte del atletismo combina carrera, salto y lanza?",
-        "opciones": [
-          "El decatlón",
-          "El maratón",
-          "La caminata",
-          "Los 100 metros planos"
-        ],
-        "respuestaCorrecta": "El decatlón",
-        "explicacion": "¡El decatlón! 10 pruebas combinadas en 2 días. ¡Los decatletas son considerados los mejores atletas totales del mundo! 🏅"
+        "pregunta": "Cuando saltas con un solo pie, estás saltando a la 'pata co___'.",
+        "respuestaCorrecta": "ja",
+        "explicacion": "¡Pata coja! Es un salto con un solo pie. ¡Es genial para practicar el equilibrio! 🦶"
       },
       {
         "id": "pre1-ef-b4-v2-007",
-        "tema": "Natación",
-        "tipo": "true_false",
+        "tema": "Juegos cooperativos",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "La natación trabaja prácticamente todos los músculos del cuerpo al mismo tiempo",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! La natación es uno de los deportes más completos. Trabaja brazos, piernas, abdomen y espalda simultáneamente. ¡Sin estrés en las articulaciones! 💪🏊"
+        "pregunta": "'La telaraña' es un juego donde los niños se pasan una bola de estambre. ¿Qué aprenden?",
+        "opciones": [
+          "Que todos estamos conectados y cada uno importa",
+          "A romper cosas",
+          "A estar solos",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Que todos estamos conectados y cada uno importa",
+        "explicacion": "¡La telaraña muestra que todos estamos conectados! Si uno suelta, la telaraña se rompe. ¡Cada persona importa! 🕸️🤝"
       },
       {
         "id": "pre1-ef-b4-v2-008",
-        "tema": "Básquet y fútbol",
-        "tipo": "fill_blank",
+        "tema": "Lateralidad: izquierda y derecha",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El jugador que está frente a la portería rival y cuya función principal es meter goles se llama ___",
-        "respuestaCorrecta": "delantero",
-        "explicacion": "¡El delantero! También llamado atacante. Su misión es anotar goles. ¡Requiere velocidad, habilidad técnica y oportunismo! ⚽"
+        "pregunta": "Hacer ejercicios con ambas manos y piernas nos ayuda a ser más coordinados.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Usar ambos lados del cuerpo fortalece la conexión entre los dos hemisferios del cerebro. 🧠💪"
       },
       {
         "id": "pre1-ef-b4-v2-009",
-        "tema": "Trabajo en equipo",
+        "tema": "Lanzar y atrapar",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es la sinergia en un equipo?",
+        "pregunta": "¿Qué deporte usa un guante para atrapar la pelota?",
         "opciones": [
-          "Cuando el equipo unido logra más que cada persona por separado",
-          "Cuando hay peleas",
-          "Cuando alguien no quiere jugar",
-          "El uniforme del equipo"
+          "Béisbol ⚾",
+          "Fútbol ⚽",
+          "Natación 🏊",
+          "Ciclismo 🚴"
         ],
-        "respuestaCorrecta": "Cuando el equipo unido logra más que cada persona por separado",
-        "explicacion": "¡Sinergia! 1+1=3 en términos de equipo. ¡Juntos somos más fuertes! Es el principio fundamental del trabajo en equipo. 🤝"
+        "respuestaCorrecta": "Béisbol ⚾",
+        "explicacion": "¡El béisbol! El catcher y los jugadores de campo usan guantes para atrapar la pelota que viene muy rápido. ⚾🧤"
       },
       {
         "id": "pre1-ef-b4-v2-010",
-        "tema": "Atletismo básico",
-        "tipo": "true_false",
+        "tema": "Juegos cooperativos",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El maratón es una carrera de 42 kilómetros y 195 metros",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡El maratón! Distancia inspirada en la leyenda del soldado griego Fidípides que corrió de Maratón a Atenas. ¡Un reto de resistencia extrema! 🏃‍♀️"
+        "pregunta": "En los juegos cooperativos, todos ganan cuando trabajan en equi___.",
+        "respuestaCorrecta": "po",
+        "explicacion": "¡En equipo! La magia de la cooperación es que el éxito es compartido. ¡Juntos somos más fuertes! 🤝🏆"
       }
     ],
     "preview": [
       {
         "id": "pre1-ef-b4-v1-001",
-        "tema": "Básquet y fútbol",
+        "tema": "Lanzar y atrapar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el fútbol soccer, ¿cómo metemos el balón en la portería?",
+        "pregunta": "¿Con qué lanzas una pelota?",
         "opciones": [
-          "Con el pie o la cabeza",
-          "Con las manos",
-          "Con un palo",
-          "Con la espalda"
+          "Brazo y mano",
+          "Piernas",
+          "Cabeza",
+          "Orejas"
         ],
-        "respuestaCorrecta": "Con el pie o la cabeza",
-        "explicacion": "¡Sin usar las manos! ⚽"
+        "respuestaCorrecta": "Brazo y mano",
+        "explicacion": "¡El brazo lanza! 💪⚽",
+        "visual": "🤾"
       },
       {
-        "id": "pre1-ef-b4-v1-002",
-        "tema": "Trabajo en equipo",
+        "id": "pre1-ef-b4-v1-004",
+        "tema": "Juegos cooperativos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En los deportes de equipo, todos los compañeros son igualmente importantes",
+        "pregunta": "En juegos cooperativos todos ganan juntos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Todos importan! 🤝"
+        "explicacion": "¡Todos ganan! 🤝🌟"
       },
       {
-        "id": "pre1-ef-b4-v2-001",
-        "tema": "Trabajo en equipo",
+        "id": "pre1-ef-b4-v1-005",
+        "tema": "Lateralidad: izquierda y derecha",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el papel del capitán en un equipo deportivo?",
+        "nivel": "v1",
+        "pregunta": "¿Con qué mano escribes?",
         "opciones": [
-          "Guiar y motivar al equipo",
-          "Hacer todos los goles",
-          "Siempre estar en la banca",
-          "Pelear con el árbitro"
+          "La que me sale natural",
+          "Los pies",
+          "La nariz",
+          "Los ojos"
         ],
-        "respuestaCorrecta": "Guiar y motivar al equipo",
-        "explicacion": "¡El capitán lidera! 👑"
+        "respuestaCorrecta": "La que me sale natural",
+        "explicacion": "¡Tu mano favorita! ✍️",
+        "visual": "✍️"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T12:25:00.000Z",
+  "version": "4.0-SEP"
 }

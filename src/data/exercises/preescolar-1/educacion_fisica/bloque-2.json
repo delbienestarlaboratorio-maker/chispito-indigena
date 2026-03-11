@@ -2,297 +2,309 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 2,
-  "nombre": "Me muevo y me divierto",
-  "meses": "Oct-Nov",
+  "nombre": "Juegos y deportes divertidos",
+  "meses": "Octubre–Noviembre",
   "temas": [
-    "Juegos de persecución",
-    "Equilibrio",
-    "Lanzar y atrapar",
-    "Bailar"
+    "Juegos con pelota",
+    "Carreras y relevos",
+    "Juegos tradicionales mexicanos",
+    "Trabajo en equipo"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-ef-b2-v1-001",
-        "tema": "Juegos de persecución",
+        "tema": "Juegos con pelota",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el juego de 'las traes', ¿qué hace el niño que 'la trae'?",
+        "pregunta": "¿Qué puedes hacer con una pelota?",
         "opciones": [
-          "Corre para tocar a otro jugador",
-          "Se queda quieto",
-          "Cierra los ojos",
-          "Canta una canción"
+          "Lanzar, patear, atrapar y botar",
+          "Solo mirarla",
+          "Comerla",
+          "Dormirla"
         ],
-        "respuestaCorrecta": "Corre para tocar a otro jugador",
-        "explicacion": "¡El que 'la trae' corre para tocar a alguien! Al tocarle, ese jugador 'la trae' ahora. ¡Es un juego de persecución divertidísimo! 🏃"
+        "respuestaCorrecta": "Lanzar, patear, atrapar y botar",
+        "explicacion": "¡Con la pelota podemos hacer muchas cosas! Lanzar con las manos, patear con los pies, atrapar y botar. ⚽🏀",
+        "visual": "⚽"
       },
       {
         "id": "pre1-ef-b2-v1-002",
-        "tema": "Equilibrio",
+        "tema": "Juegos con pelota",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Pararnos en un solo pie ayuda a desarrollar el equilibrio",
+        "pregunta": "En el fútbol pateamos la pelota con los pies.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El equilibrio se entrena con práctica. Pararse en un pie, caminar sobre una línea... ¡retos divertidos para el cuerpo! 🦩"
+        "explicacion": "¡Sí! El fútbol se juega con los pies. Solo el portero puede usar las manos. ⚽🦶"
       },
       {
         "id": "pre1-ef-b2-v1-003",
-        "tema": "Lanzar y atrapar",
+        "tema": "Carreras y relevos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo debemos poner las manos para atrapar una pelota?",
+        "pregunta": "En una carrera, ¿quién gana?",
         "opciones": [
-          "Juntas formando una cesta",
-          "Con los puntos cerrados",
-          "Con los brazos cruzados",
-          "Detrás de la espalda"
+          "El que llega primero a la meta",
+          "El más alto",
+          "El que se sienta primero",
+          "Nadie"
         ],
-        "respuestaCorrecta": "Juntas formando una cesta",
-        "explicacion": "¡Las manos forman una cesta! Dedos separados y manos en copa para que la pelota no se escape. 🤲",
-        "visual": "🤲"
+        "respuestaCorrecta": "El que llega primero a la meta",
+        "explicacion": "¡El primero en llegar a la meta gana! Pero lo más importante es divertirse y participar. 🏁🏃",
+        "visual": "🏁"
       },
       {
         "id": "pre1-ef-b2-v1-004",
-        "tema": "Bailar",
-        "tipo": "true_false",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Bailar con música rápida nos hace mover el cuerpo más rápido",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡El cuerpo sigue el ritmo! La música rápida = movimientos rápidos. La música lenta = movimientos suaves. ¡Es comunicación entre la música y el cuerpo! 💃"
+        "pregunta": "¿Cómo se juega a las 'escondidillas'?",
+        "opciones": [
+          "Uno cuenta y los demás se esconden",
+          "Todos corren",
+          "Todos duermen",
+          "Solo se sientan"
+        ],
+        "respuestaCorrecta": "Uno cuenta y los demás se esconden",
+        "explicacion": "¡Las escondidillas! Uno cierra los ojos y cuenta, los demás se esconden. ¡Luego a buscar! 🙈🔍",
+        "visual": "🙈"
       },
       {
         "id": "pre1-ef-b2-v1-005",
-        "tema": "Equilibrio",
-        "tipo": "fill_blank",
+        "tema": "Trabajo en equipo",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Caminar sobre una línea recta sin salirse requiere ___",
-        "respuestaCorrecta": "equilibrio",
-        "explicacion": "¡El equilibrio! Es la capacidad de mantenernos estables. Practicarlo mejora la concentración y coordinación. 🎯"
+        "pregunta": "En los juegos de equipo, todos deben trabajar juntos para ganar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El equipo gana cuando todos colaboran! Cada persona tiene su papel importante. ¡Juntos somos más fuertes! 🤝💪"
       },
       {
         "id": "pre1-ef-b2-v1-006",
-        "tema": "Juegos de persecución",
-        "tipo": "multiple_choice",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Cuántos jugadores se necesitan mínimo para jugar 'las traes'?",
-        "opciones": [
-          "1",
-          "2",
-          "5",
-          "10"
-        ],
-        "respuestaCorrecta": "2",
-        "explicacion": "¡Con solo 2 ya se puede jugar! Uno corre y el otro persigue. ¡Más jugadores hacen el juego más emocionante! 👫"
+        "pregunta": "Saltar la cuer___ es un juego muy divertido y buen ejercicio.",
+        "respuestaCorrecta": "da",
+        "explicacion": "¡Saltar la cuerda! Es uno de los mejores ejercicios: mejora la coordinación, la resistencia y ¡es muy divertido! 🤸‍♀️"
       },
       {
         "id": "pre1-ef-b2-v1-007",
-        "tema": "Lanzar y atrapar",
-        "tipo": "fill_blank",
+        "tema": "Juegos con pelota",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Para lanzar lejos, necesitamos dar impulso con el brazo hacia ___",
-        "respuestaCorrecta": "adelante",
-        "explicacion": "¡El movimiento hacia adelante da el impulso! Balanceamos el brazo atrás y lo soltamos con fuerza hacia adelante. ¡Como un pitcher! ⚾"
+        "pregunta": "¿En qué deporte la pelota se lanza con las manos al aro?",
+        "opciones": [
+          "Básquetbol 🏀",
+          "Fútbol ⚽",
+          "Natación 🏊",
+          "Ciclismo 🚴"
+        ],
+        "respuestaCorrecta": "Básquetbol 🏀",
+        "explicacion": "¡El básquetbol! Se lanza la pelota con las manos tratando de encestarla en el aro. 🏀🎯",
+        "visual": "🏀"
       },
       {
         "id": "pre1-ef-b2-v1-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
+        "tema": "Carreras y relevos",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Cuál parte del cuerpo marcamos el ritmo con palmas?",
-        "opciones": [
-          "Las manos",
-          "Los pies",
-          "La cabeza",
-          "Los codos"
-        ],
-        "respuestaCorrecta": "Las manos",
-        "explicacion": "¡Aplaudimos con las manos! Las palmas marcan el ritmo de la música. Clap, clap, clap. 👏"
+        "pregunta": "En una carrera de relevos, los corredores se pasan un objeto mientras corren.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En los relevos se pasa un bastón (estafeta) de corredor a corredor. ¡Es trabajo en equipo con velocidad! 🏃‍♂️➡️🏃‍♀️"
       },
       {
         "id": "pre1-ef-b2-v1-009",
-        "tema": "Juegos de persecución",
-        "tipo": "true_false",
+        "tema": "Trabajo en equipo",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Correr en zigzag nos ayuda a escapar en los juegos de persecución",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡El zigzag confunde al perseguidor! Cambiar de dirección rápidamente nos hace más difíciles de atrapar. ¡Estrategia y agilidad! 🏃‍♂️"
+        "pregunta": "¿Qué haces cuando tu equipo pierde un juego?",
+        "opciones": [
+          "Felicitas al otro equipo y sigues practicando",
+          "Te enojas",
+          "Te vas",
+          "Pegas a alguien"
+        ],
+        "respuestaCorrecta": "Felicitas al otro equipo y sigues practicando",
+        "explicacion": "¡El deporte nos enseña a ganar y a perder! Lo importante es divertirse, aprender y ser buen deportista. 🤝🌟"
       },
       {
         "id": "pre1-ef-b2-v1-010",
-        "tema": "Equilibrio",
+        "tema": "Juegos tradicionales mexicanos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué actividad requiere mucho equilibrio?",
+        "pregunta": "¿Qué juego mexicano se juega con una cuerda donde dos la mueven y uno salta?",
         "opciones": [
-          "Caminar en la banca del parque",
-          "Sentarse en una silla",
-          "Dormir",
-          "Ver televisión"
+          "Saltar la cuerda / Brincar la reata",
+          "Fútbol",
+          "Béisbol",
+          "Natación"
         ],
-        "respuestaCorrecta": "Caminar en la banca del parque",
-        "explicacion": "¡Caminar sobre algo angosto requiere equilibrio! El cuerpo busca constantemente su centro de gravedad. 🌳"
+        "respuestaCorrecta": "Saltar la cuerda / Brincar la reata",
+        "explicacion": "¡Brincar la reata! Dos amigos giran la cuerda mientras el de en medio salta. ¡Se cantan canciones mientras saltas! 🎵🤸",
+        "visual": "🤸"
       }
     ],
     "v2": [
       {
         "id": "pre1-ef-b2-v2-001",
-        "tema": "Lanzar y atrapar",
-        "tipo": "multiple_choice",
+        "tema": "Juegos con pelota",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Qué deporte usa principalmente lanzar y atrapar?",
-        "opciones": [
-          "El béisbol",
-          "El fútbol soccer",
-          "La natación",
-          "El karate"
-        ],
-        "respuestaCorrecta": "El béisbol",
-        "explicacion": "¡En el béisbol se lanza y se atrapa! El pitcher lanza y el catcher atrapa. ¡Es un deporte lleno de habilidades! ⚾"
+        "pregunta": "En el fútbol, el jugador que cuida la portería se llama por___.",
+        "respuestaCorrecta": "tero",
+        "explicacion": "¡Portero! Es el único jugador que puede usar las manos para detener la pelota. ¡Es el guardián de la portería! ⚽🧤"
       },
       {
         "id": "pre1-ef-b2-v2-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
+        "tema": "Carreras y relevos",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El baile que combina movimientos con acrobacias y es competitivo se llama danza ___",
-        "respuestaCorrecta": "deportiva",
-        "explicacion": "¡La danza deportiva! Combina el arte del baile con la competencia deportiva. ¡Requiere fuerza, flexibilidad y coordinación! 🩰"
+        "pregunta": "¿Qué tipos de carreras existen?",
+        "opciones": [
+          "De velocidad, de resistencia, de obstáculos y de relevos",
+          "Solo de velocidad",
+          "Solo caminar",
+          "No existen"
+        ],
+        "respuestaCorrecta": "De velocidad, de resistencia, de obstáculos y de relevos",
+        "explicacion": "¡Hay muchos tipos! Carreras rápidas, largas, con obstáculos que saltas y de equipo (relevos). ¡Cada una es diferente! 🏃‍♂️🏁"
       },
       {
         "id": "pre1-ef-b2-v2-003",
-        "tema": "Equilibrio",
+        "tema": "Juegos tradicionales mexicanos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Las personas mayores también necesitan practicar el equilibrio para evitar caídas",
+        "pregunta": "'Doña Blanca está cubierta de pilares de oro y plata' es parte de un juego mexicano.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El equilibrio se pierde con la edad si no se practica. El yoga y tai chi son excelentes para mantenerlo. ¡El ejercicio es para toda la vida! 🧘"
+        "explicacion": "¡Sí! Es una ronda mexicana donde los niños hacen círculo y cantan. ¡Ha existido por muchas generaciones! 🎶👫"
       },
       {
         "id": "pre1-ef-b2-v2-004",
-        "tema": "Juegos de persecución",
+        "tema": "Trabajo en equipo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué capacidad física principal desarrollamos al jugar 'las traes'?",
+        "pregunta": "¿Qué valor es más importante en el deporte?",
         "opciones": [
-          "La velocidad y la agilidad",
-          "La fuerza muscular",
-          "La flexibilidad",
-          "El equilibrio estático"
+          "El respeto a todos — compañeros y rivales",
+          "Ganar a cualquier costo",
+          "Solo pensar en ti",
+          "Hacer trampa"
         ],
-        "respuestaCorrecta": "La velocidad y la agilidad",
-        "explicacion": "¡Velocidad para correr y agilidad para cambiar de dirección! Los juegos de persecución son excelente ejercicio cardiovascular. 💨"
+        "respuestaCorrecta": "El respeto a todos — compañeros y rivales",
+        "explicacion": "¡El respeto! El deporte nos enseña a respetar las reglas, a nuestros compañeros y a los rivales. ¡Juego limpio! 🤝🏆"
       },
       {
         "id": "pre1-ef-b2-v2-005",
-        "tema": "Lanzar y atrapar",
-        "tipo": "fill_blank",
+        "tema": "Juegos con pelota",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La coordinación ojo-___ es la habilidad de coordinar lo que vemos con el movimiento de la mano",
-        "respuestaCorrecta": "mano",
-        "explicacion": "¡Coordinación ojo-mano! Es fundamental para deportes como tenis, béisbol y básquet. ¡Se entrena con práctica! 👁️🤚"
+        "pregunta": "El voleibol se juega golpeando la pelota con las manos por encima de una red.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En el voleibol la pelota vuela por encima de la red. ¡Los jugadores la golpean sin dejarla caer! 🏐"
       },
       {
         "id": "pre1-ef-b2-v2-006",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
+        "tema": "Carreras y relevos",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿A qué edad es recomendable comenzar a practicar danza o baile?",
-        "opciones": [
-          "Desde muy pequeños (3-4 años)",
-          "Solo desde los 18 años",
-          "Nunca antes de los 12",
-          "Solo adultos"
-        ],
-        "respuestaCorrecta": "Desde muy pequeños (3-4 años)",
-        "explicacion": "¡Mientras antes, mejor! Los niños pequeños tienen gran plasticidad corporal. ¡Bailar desde pequeño desarrolla coordinación, memoria y creatividad! 🩺"
+        "pregunta": "El objeto que se pasa en una carrera de relevos se llama esta___.",
+        "respuestaCorrecta": "feta",
+        "explicacion": "¡La estafeta! Es un tubo que los corredores se pasan de mano en mano sin detenerse. ¡Velocidad + precisión! 🏃‍♀️🔄"
       },
       {
         "id": "pre1-ef-b2-v2-007",
-        "tema": "Equilibrio",
-        "tipo": "fill_blank",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El punto del cuerpo alrededor del cual se distribuye nuestro peso de forma equilibrada se llama centro de ___",
-        "respuestaCorrecta": "gravedad",
-        "explicacion": "¡El centro de gravedad! Está aproximadamente en el ombligo. ¡Cuando nos inclinamos demasiado, perdemos el equilibrio! 🔭"
+        "pregunta": "¿En qué consiste el juego de 'las traes' (la roña)?",
+        "opciones": [
+          "Uno persigue a los demás y el que toca queda 'atrapado'",
+          "Todos se sientan",
+          "Todos duermen",
+          "Nadie corre"
+        ],
+        "respuestaCorrecta": "Uno persigue a los demás y el que toca queda 'atrapado'",
+        "explicacion": "¡Las traes! Uno persigue al grupo y toca a alguien gritando '¡las traes!' ¡Ahora le toca a otro perseguir! 🏃‍♂️💨"
       },
       {
         "id": "pre1-ef-b2-v2-008",
-        "tema": "Juegos de persecución",
+        "tema": "Trabajo en equipo",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los juegos de persecución son buenos para la salud cardiovascular (el corazón)",
+        "pregunta": "En un equipo, es importante escuchar las ideas de todos, no solo del más fuerte.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Correr hace que el corazón lata más rápido y se fortalezca. ¡Los juegos activos son la mejor medicina para niños! ❤️🏃"
+        "explicacion": "¡Todos son importantes en el equipo! La mejor idea puede venir de cualquiera. ¡Escuchar es la clave del éxito! 👂🤝"
       },
       {
         "id": "pre1-ef-b2-v2-009",
-        "tema": "Bailar",
-        "tipo": "true_false",
+        "tema": "Juegos con pelota",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Aprender coreografías (secuencias de pasos) de baile mejora la memoria",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Recordar pasos de baile entrena la memoria muscular y cerebral. ¡El baile hace más inteligentes a los bailarines! 🧠💃"
+        "pregunta": "¿Qué es 'driblar' en el básquetbol?",
+        "opciones": [
+          "Botar la pelota con una mano mientras caminas",
+          "Sentarse con la pelota",
+          "Dormir con la pelota",
+          "Comer la pelota"
+        ],
+        "respuestaCorrecta": "Botar la pelota con una mano mientras caminas",
+        "explicacion": "¡Driblar es botar la pelota! La haces rebotar en el piso mientras te mueves. ¡Es como bailar con la pelota! 🏀💃"
       },
       {
         "id": "pre1-ef-b2-v2-010",
-        "tema": "Lanzar y atrapar",
-        "tipo": "multiple_choice",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué pasa con la trayectoria de una pelota lanzada hacia arriba?",
-        "opciones": [
-          "Sube, se curva y baja por la gravedad",
-          "Va siempre en línea recta",
-          "Sube sin bajar nunca",
-          "Baja de inmediato"
-        ],
-        "respuestaCorrecta": "Sube, se curva y baja por la gravedad",
-        "explicacion": "¡La gravedad! Tira de todos los objetos hacia abajo. Por eso la pelota lanzada arriba siempre baja. ¡Física en el recreo! 🌍🎾"
+        "pregunta": "Los juegos tradicionales mexicanos son parte de nuestra cultura y se han jugado por cientos de años.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las escondidillas, la cuerda, las traes, Doña Blanca... ¡Son tesoros de nuestra cultura! 🇲🇽🎮"
       }
     ],
     "preview": [
       {
         "id": "pre1-ef-b2-v1-001",
-        "tema": "Juegos de persecución",
+        "tema": "Juegos con pelota",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el juego de 'las traes', ¿qué hace el niño que 'la trae'?",
+        "pregunta": "¿Qué puedes hacer con una pelota?",
         "opciones": [
-          "Corre para tocar a otro jugador",
-          "Se queda quieto",
-          "Cierra los ojos",
-          "Canta una canción"
+          "Lanzar, patear, atrapar y botar",
+          "Solo mirarla",
+          "Comerla",
+          "Dormirla"
         ],
-        "respuestaCorrecta": "Corre para tocar a otro jugador",
-        "explicacion": "¡El que 'la trae' corre para tocar a alguien! 🏃"
+        "respuestaCorrecta": "Lanzar, patear, atrapar y botar",
+        "explicacion": "¡Muchas cosas! ⚽🏀",
+        "visual": "⚽"
       },
       {
-        "id": "pre1-ef-b2-v1-002",
-        "tema": "Equilibrio",
+        "id": "pre1-ef-b2-v1-004",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se juegan las escondidillas?",
+        "opciones": [
+          "Uno cuenta y los demás se esconden",
+          "Todos corren",
+          "Todos duermen",
+          "Se sientan"
+        ],
+        "respuestaCorrecta": "Uno cuenta y los demás se esconden",
+        "explicacion": "¡Uno-dos-tres! 🙈🔍",
+        "visual": "🙈"
+      },
+      {
+        "id": "pre1-ef-b2-v1-005",
+        "tema": "Trabajo en equipo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Pararnos en un solo pie ayuda a desarrollar el equilibrio",
+        "pregunta": "En equipo, todos deben trabajar juntos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡El equilibrio se entrena! 🦩"
-      },
-      {
-        "id": "pre1-ef-b2-v2-001",
-        "tema": "Lanzar y atrapar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué deporte usa principalmente lanzar y atrapar?",
-        "opciones": [
-          "El béisbol",
-          "El fútbol soccer",
-          "La natación",
-          "El karate"
-        ],
-        "respuestaCorrecta": "El béisbol",
-        "explicacion": "¡El béisbol! ⚾"
+        "explicacion": "¡Juntos somos fuertes! 🤝💪"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T12:15:00.000Z",
+  "version": "4.0-SEP"
 }

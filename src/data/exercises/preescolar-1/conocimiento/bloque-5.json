@@ -2,287 +2,314 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 5,
-  "nombre": "Cuido mi planeta",
-  "meses": "Abril-Junio",
+  "nombre": "Las estaciones, el clima y nuestro planeta",
+  "libroSep": "K1LPA",
+  "paginasLibro": "111-150",
+  "meses": "Abril–Junio",
   "temas": [
-    "Reciclaje",
-    "Cuidar el agua",
-    "Los animales en peligro",
-    "Mi huella en el planeta",
-    "Energía limpia"
+    "Las 4 estaciones del año",
+    "El clima y el tiempo",
+    "Día y noche",
+    "Cuidar nuestro planeta"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "pre1-con-b5-v1-001",
-        "tema": "Reciclaje",
+        "id": "pre1-conoc-b5-v1-001",
+        "tema": "Las 4 estaciones del año",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿De qué color es el contenedor para reciclar PAPEL?",
+        "pregunta": "¿Cuáles son las 4 estaciones del año?",
         "opciones": [
-          "Azul",
-          "Verde",
-          "Amarillo",
-          "Gris"
+          "Primavera, verano, otoño e invierno",
+          "Lunes y viernes",
+          "Mañana y noche",
+          "Enero y diciembre"
         ],
-        "respuestaCorrecta": "Azul",
-        "explicacion": "¡Azul para papel y cartón! Verde para vidrio, Amarillo para plástico. Los colores ayudan a separar la basura correctamente. ♻️",
-        "visual": "♻️"
+        "respuestaCorrecta": "Primavera, verano, otoño e invierno",
+        "explicacion": "¡Las 4 estaciones! En primavera florecen las flores, en verano hace calor, en otoño caen las hojas, y en invierno hace frío. 🌸☀️🍂❄️",
+        "visual": "🌸"
       },
       {
-        "id": "pre1-con-b5-v1-002",
-        "tema": "Cuidar el agua",
+        "id": "pre1-conoc-b5-v1-002",
+        "tema": "Las 4 estaciones del año",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos cerrar la llave mientras nos cepillamos los dientes para ahorrar agua",
+        "pregunta": "En primavera las flores se abren y los árboles se llenan de hojas verdes.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Una llave abierta desperdicia 6-9 litros por minuto. ¡El agua es un tesoro que debemos cuidar! 💧🦷"
+        "explicacion": "¡Sí! La primavera es cuando la naturaleza despierta: flores, mariposas, pajaritos... ¡Todo cobra vida! 🌸🦋",
+        "visual": "🌸"
       },
       {
-        "id": "pre1-con-b5-v1-003",
-        "tema": "Los animales en peligro",
+        "id": "pre1-conoc-b5-v1-003",
+        "tema": "El clima y el tiempo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué significa que un animal esté 'en peligro de extinción'?",
+        "pregunta": "Cuando las nubes están oscuras y grandes, ¿qué va a pasar?",
         "opciones": [
-          "Que casi no quedan de esa especie y podría desaparecer",
-          "Que es muy peligroso",
-          "Que es muy grande",
-          "Que vive en el zoo"
+          "Va a llover 🌧️",
+          "Va a nevar ❄️",
+          "Nada",
+          "Sale el arcoíris"
         ],
-        "respuestaCorrecta": "Que casi no quedan de esa especie y podría desaparecer",
-        "explicacion": "¡En peligro de extinción significa que podrían desaparecer para siempre! Debemos proteger estas especies. 🦁🌿"
+        "respuestaCorrecta": "Va a llover 🌧️",
+        "explicacion": "¡Las nubes oscuras traen lluvia! Están llenas de gotitas de agua que caen cuando ya no caben más. 🌧️🌥️",
+        "visual": "🌧️"
       },
       {
-        "id": "pre1-con-b5-v1-004",
-        "tema": "Mi huella en el planeta",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Ir a la escuela en bicicleta en lugar de en coche contamina ___ el aire",
-        "respuestaCorrecta": "menos",
-        "explicacion": "¡La bicicleta no contamina! A diferencia del coche, no suelta gases. ¡Pequeñas decisiones hacen un mundo mejor! 🚲💚"
-      },
-      {
-        "id": "pre1-con-b5-v1-005",
-        "tema": "Energía limpia",
+        "id": "pre1-conoc-b5-v1-004",
+        "tema": "El clima y el tiempo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los paneles solares captan la energía del sol para producir electricidad",
+        "pregunta": "El arcoíris aparece cuando llueve y sale el sol al mismo tiempo.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Los paneles solares son maravillosos! Usan la luz del sol, que es gratuita e infinita, para generar electricidad limpia. ☀️⚡"
+        "explicacion": "¡Sí! La luz del sol pasa por las gotitas de lluvia y se divide en colores. ¡Es magia de la naturaleza! 🌈☀️🌧️"
       },
       {
-        "id": "pre1-con-b5-v1-006",
-        "tema": "Reciclaje",
+        "id": "pre1-conoc-b5-v1-005",
+        "tema": "Día y noche",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos materiales podemos reciclar?",
+        "pregunta": "¿Qué aparece en el cielo durante la noche?",
         "opciones": [
-          "Una botella de plástico",
-          "La basura orgánica mezclada",
-          "Un chicle usado",
-          "Papel mojado con aceite"
+          "La luna y las estrellas 🌙⭐",
+          "El sol ☀️",
+          "Un arcoíris 🌈",
+          "Nubes rojas"
         ],
-        "respuestaCorrecta": "Una botella de plástico",
-        "explicacion": "¡Las botellas de plástico se pueden reciclar! Se convierten en nuevas botellas, ropa o juguetes. ¡El reciclaje transforma basura en recursos! ♻️",
-        "visual": "🍶"
+        "respuestaCorrecta": "La luna y las estrellas 🌙⭐",
+        "explicacion": "¡La luna y las estrellas brillan de noche! El sol se esconde y la luna nos acompaña mientras dormimos. 🌙⭐",
+        "visual": "🌙"
       },
       {
-        "id": "pre1-con-b5-v1-007",
-        "tema": "Los animales en peligro",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El oso ___ es el oso más grande del mundo y está en peligro por el calentamiento global",
-        "respuestaCorrecta": "polar",
-        "explicacion": "¡El oso polar! Vive en el Ártico y el calentamiento global derrite su hogar de hielo. ¡Necesita nuestra ayuda! 🐻‍❄️"
-      },
-      {
-        "id": "pre1-con-b5-v1-008",
-        "tema": "Cuidar el agua",
+        "id": "pre1-conoc-b5-v1-006",
+        "tema": "Día y noche",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El agua del mar se puede beber directamente",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! El agua del mar es salada y no se puede beber. Hacernos más sed! Solo el 3% del agua en la Tierra es dulce (para beber). 🌊💧"
+        "pregunta": "El sol sale en la mañana y se esconde en la tarde.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Al amanecer el sol aparece y al atardecer se oculta. ¡Por eso hay día y noche! ☀️🌅"
       },
       {
-        "id": "pre1-con-b5-v1-009",
-        "tema": "Mi huella en el planeta",
+        "id": "pre1-conoc-b5-v1-007",
+        "tema": "Cuidar nuestro planeta",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es la 'huella de carbono'?",
+        "pregunta": "¿Qué podemos hacer para cuidar nuestro planeta Tierra?",
         "opciones": [
-          "La cantidad de CO2 que generamos con nuestras actividades",
-          "Una huella de un pie negro",
-          "Un tipo de pintura",
-          "Una seña de manos"
+          "No tirar basura, ahorrar agua y plantar árboles",
+          "Tirar basura al río",
+          "Desperdiciar agua",
+          "Quemar plástico"
         ],
-        "respuestaCorrecta": "La cantidad de CO2 que generamos con nuestras actividades",
-        "explicacion": "¡La huella de carbono! Todo lo que hacemos (usar el coche, comer carne, volar) produce CO2. Reducirla ayuda al planeta. 🌍"
+        "respuestaCorrecta": "No tirar basura, ahorrar agua y plantar árboles",
+        "explicacion": "¡Cuidar la Tierra es responsabilidad de todos! No tirar basura, ahorrar agua y plantar árboles son las mejores formas. 🌍💚",
+        "visual": "🌍"
       },
       {
-        "id": "pre1-con-b5-v1-010",
-        "tema": "Energía limpia",
+        "id": "pre1-conoc-b5-v1-008",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra es el único planeta donde vivimos, por eso debemos cuidarla.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Solo tenemos una Tierra! No hay planeta B. ¡Cuidarla es cuidarnos a nosotros mismos! 🌍❤️"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-009",
+        "tema": "Las 4 estaciones del año",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Los molinos de viento modernos para producir electricidad se llaman ___",
-        "respuestaCorrecta": "aerogeneradores",
-        "explicacion": "¡Aerogeneradores o turbinas eólicas! El viento gira sus aspas y produce electricidad sin contaminar. ¡México tiene muchos en Oaxaca! 💨⚡"
+        "pregunta": "En otoño las hojas de los árboles cambian de color y se ___.",
+        "respuestaCorrecta": "caen",
+        "explicacion": "¡Se caen! Las hojas se vuelven amarillas, naranjas y rojas, y luego caen al suelo. ¡Es un espectáculo de colores! 🍂🍁",
+        "visual": "🍁"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-010",
+        "tema": "El clima y el tiempo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué te pones cuando hace mucho frío?",
+        "opciones": [
+          "Chamarra, gorro y guantes 🧥",
+          "Traje de baño 🩱",
+          "Shorts y playera 🩳",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Chamarra, gorro y guantes 🧥",
+        "explicacion": "¡Cuando hace frío nos abrigamos! La ropa caliente protege nuestro cuerpo del frío. 🧥🧣🧤",
+        "visual": "🧥"
       }
     ],
     "v2": [
       {
-        "id": "pre1-con-b5-v2-001",
-        "tema": "Reciclaje",
+        "id": "pre1-conoc-b5-v2-001",
+        "tema": "Las 4 estaciones del año",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántas veces puede reciclarse el aluminio (latas)?",
+        "pregunta": "¿En qué estación del año hace más calor en México?",
         "opciones": [
-          "Solo 1 vez",
-          "3 veces",
-          "Infinitas veces",
-          "5 veces"
+          "En verano ☀️",
+          "En invierno ❄️",
+          "En otoño 🍂",
+          "En primavera 🌸"
         ],
-        "respuestaCorrecta": "Infinitas veces",
-        "explicacion": "¡El aluminio se puede reciclar infinitamente! Cada lata reciclada ahorra 95% de la energía que tomaría fabricarla desde cero. ♻️🥤"
+        "respuestaCorrecta": "En verano ☀️",
+        "explicacion": "¡En verano! Los días son largos, hace mucho calor y es perfecto para ir a la playa o al parque. ☀️🏖️"
       },
       {
-        "id": "pre1-con-b5-v2-002",
-        "tema": "Cuidar el agua",
+        "id": "pre1-conoc-b5-v2-002",
+        "tema": "Las 4 estaciones del año",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La deforestación (talar árboles) afecta la ___ porque los árboles ayudan a mantener el agua en el suelo",
-        "respuestaCorrecta": "lluvia",
-        "explicacion": "¡Los árboles atraen lluvia! Sus raíces retienen agua en el suelo y sus hojas evaporan agua que forma nubes. ¡Sin árboles, menos lluvia! 🌳💧"
+        "pregunta": "La estación más fría del año es el invier___.",
+        "respuestaCorrecta": "no",
+        "explicacion": "¡Invierno! En diciembre y enero hace frío, los días son más cortos y en algunos lugares nieva. ❄️🎄"
       },
       {
-        "id": "pre1-con-b5-v2-003",
-        "tema": "Los animales en peligro",
+        "id": "pre1-conoc-b5-v2-003",
+        "tema": "El clima y el tiempo",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El vaquita marina es el mamífero marino más pequeño del mundo y está en crítico peligro de extinción",
+        "pregunta": "El viento se produce cuando el aire se mueve de un lugar a otro.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡La vaquita marina! Solo quedan menos de 10 en el mundo. Vive en el Golfo de California, México. ¡Es urgente salvarla! 🐬🇲🇽"
+        "explicacion": "¡Sí! El aire caliente sube y el frío baja, y eso crea el viento. ¡Por eso un ventilador nos refresca! 💨"
       },
       {
-        "id": "pre1-con-b5-v2-004",
-        "tema": "Energía limpia",
+        "id": "pre1-conoc-b5-v2-004",
+        "tema": "Día y noche",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estas energías NO contamina?",
+        "pregunta": "¿Por qué hay día y noche?",
         "opciones": [
-          "Energía solar",
-          "Energía del petróleo",
-          "Energía del carbón",
-          "Energía nuclear"
+          "Porque la Tierra gira y una parte mira al sol y la otra no",
+          "Porque alguien apaga la luz",
+          "Porque la luna tapa el sol",
+          "No se sabe"
         ],
-        "respuestaCorrecta": "Energía solar",
-        "explicacion": "¡La energía solar es limpia! El sol no produce CO2 ni residuos. Es la fuente de energía más abundante de la Tierra. ☀️🌍"
+        "respuestaCorrecta": "Porque la Tierra gira y una parte mira al sol y la otra no",
+        "explicacion": "¡La Tierra gira como un trompo! La parte que mira al sol tiene día, y la parte de atrás tiene noche. 🌍🔄☀️"
       },
       {
-        "id": "pre1-con-b5-v2-005",
-        "tema": "Mi huella en el planeta",
+        "id": "pre1-conoc-b5-v2-005",
+        "tema": "Día y noche",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cuando en México es de día, en China es de noche.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Como la Tierra es redonda, cuando de un lado es de día, del otro es de noche. ¡El sol no puede alumbrar todo al mismo tiempo! 🌍"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-006",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son las 3 R de la ecología?",
+        "opciones": [
+          "Reducir, Reutilizar y Reciclar",
+          "Romper, Regar y Rascar",
+          "Reír, Rabiar y Rodar",
+          "No existen"
+        ],
+        "respuestaCorrecta": "Reducir, Reutilizar y Reciclar",
+        "explicacion": "¡Las 3 R! Reducir lo que compramos, Reutilizar lo que podamos, y Reciclar lo que ya no sirve. ♻️🌍💚"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-007",
+        "tema": "Cuidar nuestro planeta",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las 3 R del medio ambiente son: Reducir, Reutilizar y ___",
-        "respuestaCorrecta": "Reciclar",
-        "explicacion": "¡Las 3 R! Reducir (usar menos), Reutilizar (volver a usar) y Reciclar (transformar en nuevo). ¡Son la guía para cuidar el planeta! ♻️"
+        "pregunta": "Para cuidar el agua, debemos cerrar la llave mientras nos lava___ los dientes.",
+        "respuestaCorrecta": "mos",
+        "explicacion": "¡Cerrar la llave ahorra litros de agua! Cada gota cuenta para cuidar este recurso tan valioso. 💧🦷"
       },
       {
-        "id": "pre1-con-b5-v2-006",
-        "tema": "Reciclaje",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Los residuos orgánicos (vegetales, frutas) pueden convertirse en composta para las plantas",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡La composta! Los restos de comida se transforman en un abono natural y rico para las plantas. ¡La basura orgánica vuelve a la tierra! 🌱🍎"
-      },
-      {
-        "id": "pre1-con-b5-v2-007",
-        "tema": "Cuidar el agua",
+        "id": "pre1-conoc-b5-v2-008",
+        "tema": "El clima y el tiempo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué porcentaje aproximado del agua en la Tierra es agua dulce disponible para tomar?",
+        "pregunta": "¿Qué es un termómetro?",
         "opciones": [
-          "50%",
-          "25%",
-          "3%",
-          "10%"
+          "Un instrumento que mide la temperatura",
+          "Un tipo de comida",
+          "Un animal",
+          "Una estrella"
         ],
-        "respuestaCorrecta": "3%",
-        "explicacion": "¡Solo el 3%! Y de ese 3%, gran parte está en glaciares. El agua potable disponible es preciosa y escasa. ¡Cuídala! 💧🌎"
+        "respuestaCorrecta": "Un instrumento que mide la temperatura",
+        "explicacion": "¡El termómetro mide la temperatura! Nos dice si hace frío o calor con números (grados). También mide si tenemos fiebre. 🌡️"
       },
       {
-        "id": "pre1-con-b5-v2-008",
-        "tema": "Los animales en peligro",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la principal causa de la extinción de animales?",
-        "opciones": [
-          "La destrucción de su hábitat por humanos",
-          "Las enfermedades naturales",
-          "El frío del invierno",
-          "Los terremotos"
-        ],
-        "respuestaCorrecta": "La destrucción de su hábitat por humanos",
-        "explicacion": "¡La deforestación y la contaminación destruyen los hogares de los animales! Cuando desaparece el bosque, desaparecen sus habitantes. 🌳🐘"
-      },
-      {
-        "id": "pre1-con-b5-v2-009",
-        "tema": "Mi huella en el planeta",
+        "id": "pre1-conoc-b5-v2-009",
+        "tema": "Cuidar nuestro planeta",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Un solo árbol absorbe aproximadamente 48 kilos de CO2 al año",
+        "pregunta": "Los árboles ayudan a limpiar el aire que respiramos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Los árboles son máquinas de absorber CO2! Por eso plantar árboles es una acción directa para combatir el cambio climático. 🌳💚"
+        "explicacion": "¡Sí! Los árboles absorben el CO2 (aire sucio) y liberan oxígeno (aire limpio). ¡Son los pulmones del planeta! 🌳💨"
       },
       {
-        "id": "pre1-con-b5-v2-010",
-        "tema": "Energía limpia",
-        "tipo": "fill_blank",
+        "id": "pre1-conoc-b5-v2-010",
+        "tema": "Las 4 estaciones del año",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El gas producido por la descomposición de materia orgánica que se usa como combustible se llama biogás o ___",
-        "respuestaCorrecta": "biocombustible",
-        "explicacion": "¡Los biocombustibles! Se hacen de plantas, residuos o algas. Son alternativas más limpias a la gasolina del petróleo. 🌱⛽"
+        "pregunta": "En México, la Navidad se celebra en invierno.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La Navidad es el 25 de diciembre, en pleno invierno. ¡Por eso hace frío (en la mayoría de México) y nos abrigamos! 🎄❄️"
       }
     ],
     "preview": [
       {
-        "id": "pre1-con-b5-v1-001",
-        "tema": "Reciclaje",
+        "id": "pre1-conoc-b5-v1-001",
+        "tema": "Las 4 estaciones del año",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿De qué color es el contenedor para reciclar PAPEL?",
+        "pregunta": "¿Cuáles son las 4 estaciones?",
         "opciones": [
-          "Azul",
-          "Verde",
-          "Amarillo",
-          "Gris"
+          "Primavera, verano, otoño e invierno",
+          "Lunes y viernes",
+          "Mañana y noche",
+          "Enero y diciembre"
         ],
-        "respuestaCorrecta": "Azul",
-        "explicacion": "¡Azul para papel! ♻️"
+        "respuestaCorrecta": "Primavera, verano, otoño e invierno",
+        "explicacion": "¡4 estaciones! 🌸☀️🍂❄️",
+        "visual": "🌸"
       },
       {
-        "id": "pre1-con-b5-v1-002",
-        "tema": "Cuidar el agua",
-        "tipo": "true_false",
+        "id": "pre1-conoc-b5-v1-005",
+        "tema": "Día y noche",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Debemos cerrar la llave mientras nos cepillamos los dientes para ahorrar agua",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Ahorramos 6-9 litros por minuto! 💧"
+        "pregunta": "¿Qué hay en el cielo de noche?",
+        "opciones": [
+          "La luna y estrellas 🌙",
+          "El sol ☀️",
+          "Un arcoíris 🌈",
+          "Nubes rojas"
+        ],
+        "respuestaCorrecta": "La luna y estrellas 🌙",
+        "explicacion": "¡Luna y estrellas! 🌙⭐",
+        "visual": "🌙"
       },
       {
-        "id": "pre1-con-b5-v2-005",
-        "tema": "Mi huella en el planeta",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las 3 R del medio ambiente son: Reducir, Reutilizar y ___",
-        "respuestaCorrecta": "Reciclar",
-        "explicacion": "¡Las 3 R para cuidar el planeta! ♻️"
+        "id": "pre1-conoc-b5-v1-007",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo cuidamos la Tierra?",
+        "opciones": [
+          "No tirar basura y ahorrar agua",
+          "Tirar basura al río",
+          "Desperdiciar agua",
+          "Quemar plástico"
+        ],
+        "respuestaCorrecta": "No tirar basura y ahorrar agua",
+        "explicacion": "¡Cuidar la Tierra! 🌍💚",
+        "visual": "🌍"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T12:00:00.000Z",
+  "version": "4.0-SEP"
 }

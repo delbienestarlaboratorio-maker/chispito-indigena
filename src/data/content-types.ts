@@ -2,25 +2,31 @@ export type BloqueContenido = {
     bloque: number;
     nombre: string;
     meses: string;
-    enClase: string[];
+    enClase?: string[];
     libroSep?: {
         codigo: string;
         paginaInicio: number;
         paginaFin: number;
         descripcion: string;
     };
-    guiaPapa: {
+    guiaPapa?: {
         intro: string;
         comoExplicar: string[];
         truco: string;
         error_comun: string;
         actividad_casa: string;
     };
-    guiaMaestro: {
+    guiaMaestro?: {
         objetivo: string;
         competencia: string;
+        aprendizajesEsperados?: string[];
+        secuenciaDidactica?: string[];
+        preguntasDetonadoras?: string[];
+        materialesSugeridos?: string[];
+        evaluacion?: string;
+        libroSepMaestro?: string;
     };
-    keywords: string[];
+    keywords?: string[];
 };
 
 export type MateriaContenido = {

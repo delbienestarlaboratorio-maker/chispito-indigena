@@ -2,285 +2,314 @@
     "grado": "preescolar-1",
     "materia": "matematicas",
     "bloque": 6,
-    "nombre": "Conteo en LSM",
-    "meses": "Julio",
+    "nombre": "Números y formas en señas (LSM)",
+    "meses": "Todo el ciclo escolar",
     "temas": [
-        "Números 1-5 en LSM",
-        "Números 6-10 en LSM",
-        "Cantidades con manos",
-        "Preguntar 'Cuántos' en LSM"
+        "Números 1-10 en LSM",
+        "Formas geométricas en señas",
+        "Contar en señas",
+        "Más y menos en LSM"
     ],
-    "totalEjercicios": 20,
+    "totalEjercicios": 23,
     "ejercicios": {
         "v1": [
             {
                 "id": "pre1-mat-b6-v1-001",
-                "tema": "Números 1-5 en LSM",
+                "tema": "Números 1-10 en LSM",
                 "tipo": "multiple_choice",
                 "nivel": "v1",
-                "pregunta": "En LSM, ¿qué dedo levantamos para el número '1'?",
+                "pregunta": "¿Cómo decimos 1 ☝️ en LSM?",
                 "opciones": [
-                    "El dedo índice",
-                    "El pulgar",
-                    "El meñique",
-                    "Todos"
+                    "Levantamos el dedo índice",
+                    "Mano abierta",
+                    "Puño cerrado",
+                    "Dos dedos"
                 ],
-                "respuestaCorrecta": "El dedo índice",
-                "explicacion": "¡El dedo índice! Es muy natural, como cuando decimos 'espera un momento'. ☝️",
-                "visual": "☝️"
+                "respuestaCorrecta": "Levantamos el dedo índice",
+                "explicacion": "¡UNO! Solo índice arriba. Los números 1-5 = contar con dedos. ☝️1️⃣"
             },
             {
                 "id": "pre1-mat-b6-v1-002",
-                "tema": "Números 1-5 en LSM",
+                "tema": "Números 1-10 en LSM",
                 "tipo": "true_false",
                 "nivel": "v1",
-                "pregunta": "Para hacer el '2' levantamos el índice y el medio",
+                "pregunta": "El número 5 en LSM = mano abierta con 5 dedos. 🖐️",
                 "respuestaCorrecta": "true",
-                "explicacion": "¡Sí! Como el símbolo de paz o victoria. Levantamos 2 dedos. ✌️"
+                "explicacion": "¡CINCO! Mano abierta, 5 dedos = 5. ¡Tu mano es una calculadora! 🖐️5️⃣"
             },
             {
                 "id": "pre1-mat-b6-v1-003",
-                "tema": "Cantidades con manos",
-                "tipo": "multiple_choice",
+                "tema": "Números 1-10 en LSM",
+                "tipo": "fill_blank",
                 "nivel": "v1",
-                "pregunta": "Si levantamos TODA la mano abierta (5 dedos), es el número...",
-                "opciones": [
-                    "5",
-                    "3",
-                    "10",
-                    "1"
-                ],
-                "respuestaCorrecta": "5",
-                "explicacion": "¡El 5! Toda la mano abierta, con la palma mirando hacia adelante. 🖐️"
+                "pregunta": "Para el número 3 en LSM levantamos ___ dedos.",
+                "respuestaCorrecta": "3",
+                "explicacion": "¡TRES! Pulgar + índice + medio = 3 deditos arriba. 3️⃣✌️"
             },
             {
                 "id": "pre1-mat-b6-v1-004",
-                "tema": "Números 1-5 en LSM",
-                "tipo": "fill_blank",
+                "tema": "Contar en señas",
+                "tipo": "multiple_choice",
                 "nivel": "v1",
-                "pregunta": "El número 3 se hace con el índice, el medio y el dedo ___",
-                "respuestaCorrecta": "anular",
-                "explicacion": "¡El 3 clásico! Levantamos tres dedos. ¡Contar con los dedos es la primera matemática de la historia! 🖖"
+                "pregunta": "Si levanto 2 dedos, ¿qué número es en LSM? ✌️",
+                "opciones": [
+                    "2",
+                    "5",
+                    "10",
+                    "0"
+                ],
+                "respuestaCorrecta": "2",
+                "explicacion": "¡DOS! Índice + medio = 2. ¡Fácil! ✌️2️⃣"
             },
             {
                 "id": "pre1-mat-b6-v1-005",
-                "tema": "Números 6-10 en LSM",
-                "tipo": "true_false",
+                "tema": "Formas geométricas en señas",
+                "tipo": "multiple_choice",
                 "nivel": "v1",
-                "pregunta": "Para el número 6 en LSM de México, usamos solo el dedo PULGAR de ambas manos",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Falso! En LSM, el 6 se hace levantando solo el dedo PULGAR de UNA mano. 👍 (¡Cuidado, no significa 'bien', es el 6!)"
+                "pregunta": "¿Cómo hacemos CÍRCULO ⭕ en LSM?",
+                "opciones": [
+                    "Dibujamos un redondo con el dedo índice",
+                    "Hacemos un cuadrado",
+                    "Aplaudimos",
+                    "Cerramos puños"
+                ],
+                "respuestaCorrecta": "Dibujamos un redondo con el dedo índice",
+                "explicacion": "¡CÍRCULO! El dedo índice dibuja un redondito en el aire. ⭕🔵"
             },
             {
                 "id": "pre1-mat-b6-v1-006",
-                "tema": "Preguntar 'Cuántos' en LSM",
+                "tema": "Números 1-10 en LSM",
                 "tipo": "multiple_choice",
                 "nivel": "v1",
-                "pregunta": "Para preguntar '¿CUÁNTOS?' en LSM, ¿qué hacemos con la mano?",
+                "pregunta": "¿Cuántos dedos levantamos para 4? 🤚",
                 "opciones": [
-                    "Abrimos y cerramos los dedos varias veces",
-                    "Rascamos la cabeza",
-                    "Tocamos la nariz",
-                    "Hacemos círculos"
+                    "4 (índice + medio + anular + meñique)",
+                    "3",
+                    "5",
+                    "2"
                 ],
-                "respuestaCorrecta": "Abrimos y cerramos los dedos varias veces",
-                "explicacion": "¡¿Cuántos?! Acercamos las yemas de los dedos al pulgar (como un piquito) y las abrimos un par de veces con cara de pregunta. 🤔🖐️"
+                "respuestaCorrecta": "4 (índice + medio + anular + meñique)",
+                "explicacion": "¡CUATRO! 4 dedos arriba, solo el pulgar se queda abajo. 4️⃣🤚"
             },
             {
                 "id": "pre1-mat-b6-v1-007",
-                "tema": "Números 6-10 en LSM",
-                "tipo": "fill_blank",
+                "tema": "Formas geométricas en señas",
+                "tipo": "true_false",
                 "nivel": "v1",
-                "pregunta": "Para el número 10 en LSM, usamos las ___ manos",
-                "respuestaCorrecta": "dos",
-                "explicacion": "¡Las dos manos! Mostramos las palmas de las dos manos abiertas: ¡10 dedos en total! 🙌"
+                "pregunta": "TRIÁNGULO 🔺 en LSM = dibujamos un triángulo con los dedos índice.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡TRIÁNGULO! Los índices dibujan los 3 lados del triángulo en el aire. 🔺📐"
             },
             {
                 "id": "pre1-mat-b6-v1-008",
-                "tema": "Cantidades con manos",
-                "tipo": "true_false",
+                "tema": "Contar en señas",
+                "tipo": "fill_blank",
                 "nivel": "v1",
-                "pregunta": "Contar con los dedos no es bueno para aprender matemáticas",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Falso! Contar con los dedos es EXCELENTE para el cerebro de los niños. Relaciona el movimiento físico con la cantidad. 🧠✋"
+                "pregunta": "En LSM, las dos manos juntas muestran el número ___.",
+                "respuestaCorrecta": "10",
+                "explicacion": "¡DIEZ! Las dos manos abiertas = 5 + 5 = 10 dedos. 🖐️🖐️🔟"
             },
             {
                 "id": "pre1-mat-b6-v1-009",
-                "tema": "Números 6-10 en LSM",
+                "tema": "Más y menos en LSM",
                 "tipo": "multiple_choice",
                 "nivel": "v1",
-                "pregunta": "Si el '6' es el pulgar. ¿El '7' cuál dedo usa?",
+                "pregunta": "¿MÁS ➕ en LSM?",
                 "opciones": [
-                    "El índice",
-                    "El meñique",
-                    "El dedo medio",
-                    "Todos"
+                    "Juntamos las puntas de los dedos de ambas manos",
+                    "Separamos las manos",
+                    "Aplaudimos",
+                    "Cerrar ojos"
                 ],
-                "respuestaCorrecta": "El índice",
-                "explicacion": "¡El índice! En la serie del 6 al 9, usamos una mano apuntando hacia abajo horizontalmente: 6(pulgar), 7(índice), 8(medio). ☝️"
+                "respuestaCorrecta": "Juntamos las puntas de los dedos de ambas manos",
+                "explicacion": "¡MÁS! Juntar las puntas de los dedos = sumar, agregar. ➕🤲"
             },
             {
                 "id": "pre1-mat-b6-v1-010",
-                "tema": "Preguntar 'Cuántos' en LSM",
-                "tipo": "fill_blank",
+                "tema": "Contar en señas",
+                "tipo": "true_false",
                 "nivel": "v1",
-                "pregunta": "Si a la seña de '¿CUÁNTOS?' le respondo mostrando toda una mano abierta, la respuesta es ___",
-                "respuestaCorrecta": "5",
-                "explicacion": "¡El 5! Una mano abierta siempre representa 5. 🖐️"
+                "pregunta": "Los números 1 al 5 en LSM son iguales a contar con los dedos.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! 1=☝️ 2=✌️ 3=🤟 4=🤚 5=🖐️. ¡Ya sabes contar en LSM! 🎉"
             }
         ],
         "v2": [
             {
                 "id": "pre1-mat-b6-v2-001",
-                "tema": "Números 1-5 en LSM",
+                "tema": "Números 1-10 en LSM",
                 "tipo": "multiple_choice",
                 "nivel": "v2",
-                "pregunta": "¿Las palmas miran hacia donde al contar del 1 al 5 en LSM?",
+                "pregunta": "¿Cómo hacemos el 6 en LSM?",
                 "opciones": [
-                    "Hacia afuera, hacia la otra persona",
-                    "Hacia el piso",
-                    "Hacia tu propia cara",
-                    "Hacia el techo"
+                    "Meñique de una mano toca palma de la otra",
+                    "6 dedos arriba",
+                    "Aplaudimos 6 veces",
+                    "Puño cerrado"
                 ],
-                "respuestaCorrecta": "Hacia afuera, hacia la otra persona",
-                "explicacion": "¡Hacia afuera! Cuando cuentas para alguien, giras la palma hacia ellos para que vean tus dedos claramente. 🖐️➡️"
+                "respuestaCorrecta": "Meñique de una mano toca palma de la otra",
+                "explicacion": "¡SEIS! Del 6 al 9 en LSM se usan combinaciones especiales con ambas manos. 6️⃣🤲"
             },
             {
                 "id": "pre1-mat-b6-v2-002",
-                "tema": "Números 6-10 en LSM",
+                "tema": "Formas geométricas en señas",
                 "tipo": "fill_blank",
                 "nivel": "v2",
-                "pregunta": "Para el número 9 en LSM, el dedo que baja y apunta es el ___",
-                "respuestaCorrecta": "meñique",
-                "explicacion": "¡El meñique! En la serie 6,7,8,9, el meñique es el número 9. 🤙"
+                "pregunta": "CUADRADO ⬜ en LSM = dibujamos los 4 ___ con los índices.",
+                "respuestaCorrecta": "lados",
+                "explicacion": "¡CUADRADO! Dos índices dibujan los 4 lados iguales. ⬜📏"
             },
             {
                 "id": "pre1-mat-b6-v2-003",
-                "tema": "Cantidades con manos",
-                "tipo": "true_false",
+                "tema": "Más y menos en LSM",
+                "tipo": "multiple_choice",
                 "nivel": "v2",
-                "pregunta": "Para la seña matemática de SUMAR (+), cruzamos ambos dedos índices",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Sí! Cruzamos los dos dedos índices formando un signo de más (+). ¡Las matemáticas en señas son muy visuales! ➕"
+                "pregunta": "¿MENOS ➖ en LSM?",
+                "opciones": [
+                    "Separamos las manos alejándolas",
+                    "Juntamos las manos",
+                    "Aplaudimos",
+                    "Tocamos la frente"
+                ],
+                "respuestaCorrecta": "Separamos las manos alejándolas",
+                "explicacion": "¡MENOS! Al separar = quitar, restar. Lo contrario de MÁS (juntar). ➖↔️"
             },
             {
                 "id": "pre1-mat-b6-v2-004",
-                "tema": "Preguntar 'Cuántos' en LSM",
+                "tema": "Contar en señas",
                 "tipo": "multiple_choice",
                 "nivel": "v2",
-                "pregunta": "¿Qué seña usamos para IGUAL (=)?",
+                "pregunta": "Si muestro ✌️ en una mano y ☝️ en la otra, ¿cuánto es?",
                 "opciones": [
-                    "Juntamos los dedos índices paralelos",
-                    "Golpear la mesa",
-                    "Dar una palmada",
-                    "Cruzar los brazos"
+                    "3 (2+1)",
+                    "21",
+                    "12",
+                    "5"
                 ],
-                "respuestaCorrecta": "Juntamos los dedos índices paralelos",
-                "explicacion": "¡Juntamos los índices paralelos! Igual que el signo (=). Se trazan las dos rayitas en el aire. 🟰"
+                "respuestaCorrecta": "3 (2+1)",
+                "explicacion": "¡TRES! 2 + 1 = 3. ¡Puedes sumar con señas! ✌️+☝️=3️⃣"
             },
             {
                 "id": "pre1-mat-b6-v2-005",
-                "tema": "Números 1-5 en LSM",
-                "tipo": "fill_blank",
+                "tema": "Números 1-10 en LSM",
+                "tipo": "true_false",
                 "nivel": "v2",
-                "pregunta": "Si tengo 3 manzanas y me como 3, el número de manzanas que me quedan es el ___",
-                "respuestaCorrecta": "cero",
-                "explicacion": "¡El Cero! Para hacer el CERO, hacemos la letra O (hacemos un circulo con el dedo índice y el pulgar). ⭕"
+                "pregunta": "El número 7 en LSM = dedo anular de una mano toca palma de la otra.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡SIETE! Los números 6-9 usan un dedo tocando la palma opuesta. 7️⃣"
             },
             {
                 "id": "pre1-mat-b6-v2-006",
-                "tema": "Cantidades con manos",
+                "tema": "Formas geométricas en señas",
                 "tipo": "multiple_choice",
                 "nivel": "v2",
-                "pregunta": "¿Cómo decimos 'EDAD' (cuántos años tienes) en LSM?",
+                "pregunta": "¿ESTRELLA ⭐ en LSM?",
                 "opciones": [
-                    "Golpecitos bajo la barbilla con el puño",
-                    "Contando los dedos del pie",
-                    "Tocándose la nariz",
-                    "Agarrando una oreja"
+                    "Índices alternados subiendo",
+                    "Aplaudir",
+                    "Señalar suelo",
+                    "Cerrar puños"
                 ],
-                "respuestaCorrecta": "Golpecitos bajo la barbilla con el puño",
-                "explicacion": "'AÑOS DE EDAD': Puño cerrado con la letra 'A' que da ligeros golpecitos debajo de la barbilla. 👶🧔"
+                "respuestaCorrecta": "Índices alternados subiendo",
+                "explicacion": "¡ESTRELLA! Los índices suben alternados al cielo. ⭐✨"
             },
             {
                 "id": "pre1-mat-b6-v2-007",
-                "tema": "Números 6-10 en LSM",
-                "tipo": "true_false",
+                "tema": "Más y menos en LSM",
+                "tipo": "fill_blank",
                 "nivel": "v2",
-                "pregunta": "Las personas sordas usan matemáticas en su vida diaria igual que las personas oyentes",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Claro que sí! Compran, miden, trabajan y estudian exactamente igual. ¡La única diferencia es el idioma visual! 🧮🤝"
+                "pregunta": "IGUAL = en LSM ambas manos planas se mueven al mismo ___.",
+                "respuestaCorrecta": "nivel",
+                "explicacion": "¡IGUAL! Manos al mismo nivel = igualdad, equilibrio. ⚖️"
             },
             {
                 "id": "pre1-mat-b6-v2-008",
-                "tema": "Preguntar 'Cuántos' en LSM",
-                "tipo": "fill_blank",
+                "tema": "Contar en señas",
+                "tipo": "multiple_choice",
                 "nivel": "v2",
-                "pregunta": "Si pregunto '¿Cuántos dedos hay en UNA mano?' la respuesta en LSM es la mano abierta, que significa ___",
-                "respuestaCorrecta": "5",
-                "explicacion": "¡El 5 (Mano completa)! Una mano tiene 5 dedos. 🖐️"
+                "pregunta": "¿Cuántos es 🖐️ + ✌️?",
+                "opciones": [
+                    "7",
+                    "3",
+                    "52",
+                    "10"
+                ],
+                "respuestaCorrecta": "7",
+                "explicacion": "¡SIETE! 5 + 2 = 7. ¡Matemáticas con señas! 🖐️✌️=7️⃣"
             },
             {
                 "id": "pre1-mat-b6-v2-009",
-                "tema": "Cantidades con manos",
+                "tema": "Números 1-10 en LSM",
                 "tipo": "multiple_choice",
                 "nivel": "v2",
-                "pregunta": "Para hacer el número 20, ¿qué se hace?",
+                "pregunta": "¿Cómo es el 0 en LSM?",
                 "opciones": [
-                    "Levantamos 2 dedos y luego formamos un 0",
-                    "Aplaudimos 20 veces",
-                    "Mostramos los 10 dedos dos veces",
-                    "No existe el 20"
+                    "Formamos O con los dedos (como la letra O)",
+                    "Puño cerrado",
+                    "Mano abierta",
+                    "Dos puños"
                 ],
-                "respuestaCorrecta": "Levantamos 2 dedos y luego formamos un 0",
-                "explicacion": "¡El 2 y luego el 0! Los números mayores se forman combinando los dígitos básicos de uno en uno en el aire. 2️⃣0️⃣"
+                "respuestaCorrecta": "Formamos O con los dedos (como la letra O)",
+                "explicacion": "¡CERO! Es igual a la letra O del abecedario dactilológico. ⭕0️⃣"
             },
             {
                 "id": "pre1-mat-b6-v2-010",
-                "tema": "Números 1-5 en LSM",
+                "tema": "Formas geométricas en señas",
                 "tipo": "true_false",
                 "nivel": "v2",
-                "pregunta": "Es importante ver a los ojos a una persona sorda y no solo mirar sus manos cuando nos está diciendo números",
+                "pregunta": "GRANDE en LSM = separamos las manos mostrando algo amplio.",
                 "respuestaCorrecta": "true",
-                "explicacion": "¡Súper importante! El contacto visual es la base del respeto en la comunicación sorda. Sus ojos y cara nos dan tanta información como sus manos. 👀❤️"
+                "explicacion": "¡GRANDE! Manos separadas mostrando amplitud. Lo contrario sería juntarlas (pequeño). 📏"
             }
         ],
         "preview": [
             {
                 "id": "pre1-mat-b6-v1-001",
-                "tema": "Números 1-5 en LSM",
+                "tema": "Números",
                 "tipo": "multiple_choice",
                 "nivel": "v1",
-                "pregunta": "En LSM, ¿qué dedo levantamos para el número '1'?",
+                "pregunta": "¿1 en LSM?",
                 "opciones": [
-                    "El dedo índice",
-                    "El pulgar",
-                    "El meñique",
-                    "Todos"
+                    "Índice arriba",
+                    "Mano abierta",
+                    "Puño",
+                    "Dos dedos"
                 ],
-                "respuestaCorrecta": "El dedo índice",
-                "explicacion": "¡El dedo índice! ☝️"
+                "respuestaCorrecta": "Índice arriba",
+                "explicacion": "☝️1️⃣"
             },
             {
                 "id": "pre1-mat-b6-v1-005",
-                "tema": "Números 6-10 en LSM",
-                "tipo": "true_false",
+                "tema": "Formas",
+                "tipo": "multiple_choice",
                 "nivel": "v1",
-                "pregunta": "Para el número 6 en LSM de México, usamos solo el dedo PULGAR de ambas manos",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Falso! El 6 se hace levantando solo el PULGAR de UNA mano. 👍"
+                "pregunta": "¿CÍRCULO en LSM?",
+                "opciones": [
+                    "Dedo dibuja redondo",
+                    "Cuadrado",
+                    "Aplaudir",
+                    "Puños"
+                ],
+                "respuestaCorrecta": "Dedo dibuja redondo",
+                "explicacion": "⭕"
             },
             {
-                "id": "pre1-mat-b6-v2-003",
-                "tema": "Cantidades con manos",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "Para la seña matemática de SUMAR (+), cruzamos ambos dedos índices",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Sí! Cruzamos índices formando +. ➕"
+                "id": "pre1-mat-b6-v1-009",
+                "tema": "Operaciones",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿MÁS en LSM?",
+                "opciones": [
+                    "Juntar puntas",
+                    "Separar manos",
+                    "Aplaudir",
+                    "Cerrar ojos"
+                ],
+                "respuestaCorrecta": "Juntar puntas",
+                "explicacion": "➕"
             }
         ]
     },
-    "generado": "2026-03-09T04:00:00.000Z",
-    "version": "3.0"
+    "generado": "2026-03-11T14:12:00.000Z",
+    "version": "4.0-SEP"
 }

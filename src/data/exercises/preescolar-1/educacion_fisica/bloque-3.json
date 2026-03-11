@@ -2,297 +2,309 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 3,
-  "nombre": "Cuerpo sano, mente sana",
-  "meses": "Dic-Ene",
+  "nombre": "Gimnasia y expresión corporal",
+  "meses": "Diciembre–Enero",
   "temas": [
-    "Salud e higiene",
-    "Descanso y sueño",
-    "Alimentación sana",
-    "Emociones y ejercicio"
+    "Rodadas y giros",
+    "Expresión corporal",
+    "Circuitos motores",
+    "Relajación y respiración"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-ef-b3-v1-001",
-        "tema": "Salud e higiene",
+        "tema": "Rodadas y giros",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas veces al día debemos lavarnos los dientes?",
+        "pregunta": "¿Qué es una 'marometa' o rodada hacia adelante?",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "5"
+          "Girar por el suelo haciendo bolita con el cuerpo",
+          "Saltar muy alto",
+          "Caminar lento",
+          "Sentarse"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "¡3 veces al día! Después del desayuno, comida y cena. ¡Y también se visita al dentista cada 6 meses! 🦷😄"
+        "respuestaCorrecta": "Girar por el suelo haciendo bolita con el cuerpo",
+        "explicacion": "¡La marometa! Te haces bolita, bajas la cabeza, empujas con las manos y ruedas hacia adelante. 🤸‍♂️",
+        "visual": "🤸"
       },
       {
         "id": "pre1-ef-b3-v1-002",
-        "tema": "Descanso y sueño",
+        "tema": "Rodadas y giros",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los niños de preescolar necesitan dormir entre 10 y 12 horas por noche",
+        "pregunta": "Girar como un trompo es un ejercicio divertido de equilibrio.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Los niños necesitan más sueño que los adultos porque su cerebro y cuerpo están creciendo. ¡Dormir bien = crecer bien! 😴🌙"
+        "explicacion": "¡Sí! Girar sobre ti mismo como un trompo te ayuda a practicar el equilibrio y la coordinación. 🌀"
       },
       {
         "id": "pre1-ef-b3-v1-003",
-        "tema": "Alimentación sana",
+        "tema": "Expresión corporal",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos alimentos es más saludable para un refrigerio?",
+        "pregunta": "Si te pido que camines como un robot, ¿cómo te moverías?",
         "opciones": [
-          "Una manzana 🍎",
-          "Una bolsa de papas fritas 🥔",
-          "Un refresco 🥤",
-          "Un dulce 🍬"
+          "Con movimientos tiesos y rectos",
+          "Saltando",
+          "Rodando",
+          "Durmiendo"
         ],
-        "respuestaCorrecta": "Una manzana 🍎",
-        "explicacion": "¡La manzana es nutritiva! Tiene vitaminas, fibra y agua natural. Las papas fritas y dulces tienen demasiada azúcar y grasa. 🍎💚",
-        "visual": "🍎"
+        "respuestaCorrecta": "Con movimientos tiesos y rectos",
+        "explicacion": "¡Como un robot! Tieso, con movimientos cuadrados y mecánicos. ¡Es muy divertido imitar con el cuerpo! 🤖",
+        "visual": "🤖"
       },
       {
         "id": "pre1-ef-b3-v1-004",
-        "tema": "Emociones y ejercicio",
-        "tipo": "fill_blank",
+        "tema": "Expresión corporal",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Cuando hacemos ejercicio, el cuerpo libera sustancias que nos hacen sentir ___",
-        "respuestaCorrecta": "felices",
-        "explicacion": "¡Las endorfinas! Son las 'hormonas de la felicidad'. El ejercicio libera endorfinas que nos dan bienestar en el cuerpo y la mente. 😊💪"
+        "pregunta": "Podemos expresar emociones con el cuerpo: saltar de alegría o caminar tristes.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El cuerpo habla! Cuando estás contento saltas, cuando estás triste caminas lento. ¡Tu cuerpo expresa todo! 😊😢"
       },
       {
         "id": "pre1-ef-b3-v1-005",
-        "tema": "Salud e higiene",
-        "tipo": "true_false",
+        "tema": "Circuitos motores",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Debemos lavarnos las manos antes de comer",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Siempre! Las manos tocan muchas cosas y acumulan gérmenes. Lavarlas antes de comer evita enfermedades. ¡20 segundos con jabón! 🧼👐"
+        "pregunta": "Un circuito motor es...",
+        "opciones": [
+          "Un camino con varias estaciones de ejercicios diferentes",
+          "Una siesta",
+          "Una clase de lectura",
+          "Un dibujo"
+        ],
+        "respuestaCorrecta": "Un camino con varias estaciones de ejercicios diferentes",
+        "explicacion": "¡Un circuito! Pasas de estación en estación: saltas conos, gateas por un túnel, brincas aros... ¡Es súper divertido! 🎯",
+        "visual": "🎯"
       },
       {
         "id": "pre1-ef-b3-v1-006",
-        "tema": "Descanso y sueño",
-        "tipo": "multiple_choice",
+        "tema": "Relajación y respiración",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Qué hacemos durante el sueño que nos ayuda a crecer?",
-        "opciones": [
-          "El cuerpo crece y el cerebro organiza lo que aprendió",
-          "Hacemos ejercicio",
-          "Comemos más",
-          "Vemos televisión"
-        ],
-        "respuestaCorrecta": "El cuerpo crece y el cerebro organiza lo que aprendió",
-        "explicacion": "¡El sueño es el laboratorio secreto del cuerpo! Se secretan hormonas de crecimiento y el cerebro 'archiva' los recuerdos del día. 🧠💤"
+        "pregunta": "Respirar profundo (inhala por la nariz, exhala por la boca) nos ayuda a relajarnos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Respirar profundo calma nuestro cuerpo y mente. ¡Es como reiniciar tu energía! 🧘‍♂️💨"
       },
       {
         "id": "pre1-ef-b3-v1-007",
-        "tema": "Alimentación sana",
+        "tema": "Rodadas y giros",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El agua es la bebida más ___ que podemos tomar",
-        "respuestaCorrecta": "saludable",
-        "explicacion": "¡El agua es la mejor bebida! No tiene azúcar, calorías vacías ni aditivos. Nuestro cuerpo la necesita. ¡8 vasos al día! 💧😊"
+        "pregunta": "Rodar por el suelo como un tronco se llama rodada late___.",
+        "respuestaCorrecta": "ral",
+        "explicacion": "¡Rodada lateral! Te acuestas y ruedas como un tronco. ¡Fortalece los músculos del abdomen! 🪵"
       },
       {
         "id": "pre1-ef-b3-v1-008",
-        "tema": "Emociones y ejercicio",
-        "tipo": "true_false",
+        "tema": "Expresión corporal",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Jugar con amigos nos hace sentir alegres y nos da bienestar emocional",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El juego activo con amigos desarrolla habilidades sociales y emocionales además de la condición física. ¡El juego es esencial! 🤝😄"
+        "pregunta": "¿Qué animal imitas si caminas en cuatro patas?",
+        "opciones": [
+          "Un perro o un gato 🐕",
+          "Un pez 🐟",
+          "Un pájaro 🐦",
+          "Una serpiente 🐍"
+        ],
+        "respuestaCorrecta": "Un perro o un gato 🐕",
+        "explicacion": "¡El perro y el gato caminan en cuatro patas! Imitar animales es muy bueno para la coordinación. 🐕🐱",
+        "visual": "🐕"
       },
       {
         "id": "pre1-ef-b3-v1-009",
-        "tema": "Salud e higiene",
-        "tipo": "multiple_choice",
+        "tema": "Circuitos motores",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirve el jabón al lavarse las manos?",
-        "opciones": [
-          "Elimina los gérmenes que el agua sola no quita",
-          "Solo para que huela bien",
-          "Para hacer burbujas",
-          "Para mancharse de color"
-        ],
-        "respuestaCorrecta": "Elimina los gérmenes que el agua sola no quita",
-        "explicacion": "¡El jabón rompe la membrana de los gérmenes y los elimina! Solo el agua no es suficiente. ¡20 segundos de jabón salvan vidas! 🧼🦠"
+        "pregunta": "En un circuito motor puedes saltar, gatear, correr y brincar aros.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los circuitos tienen de todo: saltos, gateos, carreras y obstáculos. ¡Cada estación es un reto diferente! 🏃🤸"
       },
       {
         "id": "pre1-ef-b3-v1-010",
-        "tema": "Alimentación sana",
-        "tipo": "true_false",
+        "tema": "Relajación y respiración",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Es importante comer verduras y frutas de todos los colores",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡El 'arcoíris de la salud'! Cada color de fruta y verdura tiene diferentes vitaminas. Rojo, naranja, verde, morado... ¡Come variado! 🌈🥦🍊"
+        "pregunta": "Después de hacer mucho ejercicio, ¿qué debemos hacer?",
+        "opciones": [
+          "Estirar y relajar los músculos",
+          "Correr más",
+          "Comer dulces",
+          "Gritar"
+        ],
+        "respuestaCorrecta": "Estirar y relajar los músculos",
+        "explicacion": "¡Estirar! Después del ejercicio los músculos están calientes y es hora de estirarlos suavemente. ¡Así evitas dolor! 🧘",
+        "visual": "🧘"
       }
     ],
     "v2": [
       {
         "id": "pre1-ef-b3-v2-001",
-        "tema": "Alimentación sana",
+        "tema": "Rodadas y giros",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuáles son los 3 macronutrientes principales que necesita el cuerpo?",
+        "pregunta": "¿Por qué es importante hacer la marometa sobre una colchoneta?",
         "opciones": [
-          "Proteínas, carbohidratos y grasas",
-          "Vitaminas, minerales y agua",
-          "Azúcar, sal y grasa",
-          "Calcio, hierro y zinc"
+          "Para proteger la espalda y la cabeza",
+          "Porque es más divertido",
+          "No importa dónde",
+          "Por costumbre"
         ],
-        "respuestaCorrecta": "Proteínas, carbohidratos y grasa",
-        "explicacion": "¡Los macronutrientes! Proteínas (carne, huevo) construyen músculo. Carbohidratos (tortilla, pan) dan energía. Grasas (aguacate) protegen órganos. 🥩🌮🥑"
+        "respuestaCorrecta": "Para proteger la espalda y la cabeza",
+        "explicacion": "¡La colchoneta es suave y protege tu cuerpo! Nunca hagas marometas en piso duro. ¡Seguridad primero! 🧘‍♂️✅"
       },
       {
         "id": "pre1-ef-b3-v2-002",
-        "tema": "Descanso y sueño",
+        "tema": "Expresión corporal",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las pantallas (celulares, tablets) antes de dormir afectan la calidad del sueño porque emiten luz ___",
-        "respuestaCorrecta": "azul",
-        "explicacion": "¡Luz azul! Esta luz inhibe la melatonina (hormona del sueño). ¡Media hora sin pantallas antes de dormir mejora el sueño! 📱😴"
+        "pregunta": "Imitar animales con nuestro cuerpo se llama expresión corpo___.",
+        "respuestaCorrecta": "ral",
+        "explicacion": "¡Expresión corporal! Es el arte de comunicar con el cuerpo sin usar palabras. 🤸‍♀️🎭"
       },
       {
         "id": "pre1-ef-b3-v2-003",
-        "tema": "Salud e higiene",
+        "tema": "Circuitos motores",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los gérmenes no se pueden ver a simple vista sin un microscopio",
+        "pregunta": "Los circuitos motores ayudan a mejorar la fuerza, la velocidad y la agilidad.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Los gérmenes son microscópicos! Bacterias y virus son tan pequeños que necesitamos un microscopio para verlos. Por eso el lavado de manos es tan importante. 🦠🔬"
+        "explicacion": "¡Sí! Son un entrenamiento completo: cada estación trabaja algo diferente. ¡Es como un gimnasio divertido! 💪🏃"
       },
       {
         "id": "pre1-ef-b3-v2-004",
-        "tema": "Emociones y ejercicio",
+        "tema": "Relajación y respiración",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué hormona libera el cerebro cuando hacemos ejercicio que nos hace sentir bien?",
+        "pregunta": "La técnica de respirar profundo se llama respiración...",
         "opciones": [
-          "Endorfinas",
-          "Insulina",
-          "Adrenalina sin parar",
-          "Melatonina"
+          "Diafragmática o abdominal",
+          "Rápida",
+          "Con la boca cerrada",
+          "Sin aire"
         ],
-        "respuestaCorrecta": "Endorfinas",
-        "explicacion": "¡Las endorfinas! Son los analgésicos naturales del cerebro. ¡El 'subidón' después de ejercitarse es real y científico! 🏃‍♂️😊"
+        "respuestaCorrecta": "Diafragmática o abdominal",
+        "explicacion": "¡Respiración diafragmática! Respiras hondo y tu barriga se infla como un globo. ¡Así entra más oxígeno! 🎈💨"
       },
       {
         "id": "pre1-ef-b3-v2-005",
-        "tema": "Alimentación sana",
-        "tipo": "fill_blank",
+        "tema": "Rodadas y giros",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El mineral que fortalece los huesos y dientes y se encuentra en la leche se llama ___",
-        "respuestaCorrecta": "calcio",
-        "explicacion": "¡El calcio! La leche, queso y yogurt tienen calcio. ¡Los niños necesitan mucho calcio para desarrollar huesos fuertes! 🦴🥛"
+        "pregunta": "¿Qué deportistas hacen muchas rodadas y giros como parte de su rutina?",
+        "opciones": [
+          "Los gimnastas",
+          "Los nadadores",
+          "Los ciclistas",
+          "Los corredores"
+        ],
+        "respuestaCorrecta": "Los gimnastas",
+        "explicacion": "¡Los gimnastas! Hacen marometas, volteretas, giros en el aire... ¡Son súper atletas! 🤸‍♀️🏅"
       },
       {
         "id": "pre1-ef-b3-v2-006",
-        "tema": "Descanso y sueño",
-        "tipo": "multiple_choice",
+        "tema": "Expresión corporal",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué proceso ocurre en el cerebro mientras dormimos?",
-        "opciones": [
-          "Consolida recuerdos y limpia toxinas",
-          "Nada, el cerebro se apaga",
-          "Produce más neurotrancias de estrés",
-          "Genera energía extra"
-        ],
-        "respuestaCorrecta": "Consolida recuerdos y limpia toxinas",
-        "explicacion": "¡El cerebro trabaja de noche! Consolida lo que aprendimos y el sistema glinfático limpia 'desechos cerebrales'. ¡Dormir es reparador! 🧠💤"
+        "pregunta": "La mímica es un tipo de expresión corporal donde cuentas historias sin hablar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los mimos cuentan historias usando solo su cuerpo y expresiones faciales. ¡Sin una sola palabra! 🤫🎭"
       },
       {
         "id": "pre1-ef-b3-v2-007",
-        "tema": "Salud e higiene",
-        "tipo": "true_false",
+        "tema": "Circuitos motores",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las vacunas nos protegen contra enfermedades graves enseñando al sistema inmune",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Las vacunas son protectoras! Muestran al sistema inmune cómo combatir una enfermedad sin que nos enfermemos de verdad. ¡Salvan millones de vidas! 💉🛡️"
+        "pregunta": "Saltar dentro y fuera de aros en el suelo mejora la agili___.",
+        "respuestaCorrecta": "dad",
+        "explicacion": "¡Agilidad! Es la capacidad de moverte rápido y cambiar de dirección. Los aros son excelentes para practicarla. ⭕🏃"
       },
       {
         "id": "pre1-ef-b3-v2-008",
-        "tema": "Emociones y ejercicio",
-        "tipo": "fill_blank",
+        "tema": "Relajación y respiración",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Hacer deporte en equipo desarrolla habilidades sociales como la ___ y el compañerismo",
-        "respuestaCorrecta": "cooperación",
-        "explicacion": "¡La cooperación! Trabajar en equipo enseña a escuchar, respetar y ayudarse mutuamente. ¡Habilidades para toda la vida! 🤝⚽"
+        "pregunta": "¿Qué es el 'enfriamiento' después del ejercicio?",
+        "opciones": [
+          "Bajar la intensidad gradualmente con estiramientos suaves",
+          "Meterte al refrigerador",
+          "Ponerte hielo",
+          "No hacer nada"
+        ],
+        "respuestaCorrecta": "Bajar la intensidad gradualmente con estiramientos suaves",
+        "explicacion": "¡El enfriamiento! Después de ejercitarte, caminas suave y estiras los músculos. ¡Tu cuerpo te lo agradece! 🧘‍♀️"
       },
       {
         "id": "pre1-ef-b3-v2-009",
-        "tema": "Alimentación sana",
-        "tipo": "multiple_choice",
+        "tema": "Rodadas y giros",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Por qué el desayuno es la comida más importante del día?",
-        "opciones": [
-          "Porque activa el metabolismo y da energía para aprender",
-          "Solo porque los adultos lo dicen",
-          "Porque tiene que tener azúcar",
-          "Porque es la primera en el día"
-        ],
-        "respuestaCorrecta": "Porque activa el metabolismo y da energía para aprender",
-        "explicacion": "¡El desayuno rompe el ayuno nocturno! Da combustible al cerebro para concentrarse y aprender. ¡Los niños que desayunan aprenden mejor! 🍳🧠"
+        "pregunta": "La voltereta hacia atrás es más difícil que la marometa hacia adelante.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La voltereta hacia atrás requiere más fuerza y confianza. ¡Siempre practícala con un adulto que te ayude! 🤸‍♂️👨‍🏫"
       },
       {
         "id": "pre1-ef-b3-v2-010",
-        "tema": "Salud e higiene",
-        "tipo": "true_false",
+        "tema": "Expresión corporal",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Hacer actividad física al menos 60 minutos al día es la recomendación de la OMS para niños",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡60 minutos de movimiento! La Organización Mundial de la Salud recomienda una hora de actividad física diaria para niños. ¡Jugar cuenta! 🌍🏃‍♀️"
+        "pregunta": "¿Qué arte combina música, movimiento y expresión corporal?",
+        "opciones": [
+          "La danza",
+          "Las matemáticas",
+          "La lectura",
+          "La cocina"
+        ],
+        "respuestaCorrecta": "La danza",
+        "explicacion": "¡La danza! Mezcla música + movimiento + expresión del cuerpo. ¡Es arte y ejercicio al mismo tiempo! 💃🎵"
       }
     ],
     "preview": [
       {
         "id": "pre1-ef-b3-v1-001",
-        "tema": "Salud e higiene",
+        "tema": "Rodadas y giros",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas veces al día debemos lavarnos los dientes?",
+        "pregunta": "¿Qué es una marometa?",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "5"
+          "Girar por el suelo en bolita",
+          "Saltar alto",
+          "Caminar lento",
+          "Sentarse"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "¡3 veces al día! 🦷"
+        "respuestaCorrecta": "Girar por el suelo en bolita",
+        "explicacion": "¡Rodar como bolita! 🤸",
+        "visual": "🤸"
       },
       {
         "id": "pre1-ef-b3-v1-003",
-        "tema": "Alimentación sana",
+        "tema": "Expresión corporal",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos alimentos es más saludable para un refrigerio?",
+        "pregunta": "Si caminas como robot, ¿cómo te mueves?",
         "opciones": [
-          "Una manzana 🍎",
-          "Una bolsa de papas fritas",
-          "Un refresco",
-          "Un dulce"
+          "Tieso y recto",
+          "Saltando",
+          "Rodando",
+          "Durmiendo"
         ],
-        "respuestaCorrecta": "Una manzana 🍎",
-        "explicacion": "¡La manzana tiene vitaminas y fibra! 🍎"
+        "respuestaCorrecta": "Tieso y recto",
+        "explicacion": "¡Como robot! 🤖",
+        "visual": "🤖"
       },
       {
-        "id": "pre1-ef-b3-v2-001",
-        "tema": "Alimentación sana",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuáles son los 3 macronutrientes principales?",
-        "opciones": [
-          "Proteínas, carbohidratos y grasas",
-          "Vitaminas, minerales y agua",
-          "Azúcar, sal y grasa",
-          "Calcio, hierro y zinc"
-        ],
-        "respuestaCorrecta": "Proteínas, carbohidratos y grasas",
-        "explicacion": "¡Los 3 macro! 🥩🌮🥑"
+        "id": "pre1-ef-b3-v1-006",
+        "tema": "Relajación y respiración",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Respirar profundo nos ayuda a relajarnos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 🧘‍♂️💨"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T12:20:00.000Z",
+  "version": "4.0-SEP"
 }

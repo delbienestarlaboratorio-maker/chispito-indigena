@@ -2,292 +2,321 @@
   "grado": "preescolar-1",
   "materia": "espanol",
   "bloque": 3,
-  "nombre": "Leo y escribo mis primeras palabras",
-  "meses": "Diciembre-Enero",
+  "nombre": "Cuentos, descripciones y nuevas palabras",
+  "libroSep": "K1MLA",
+  "paginasLibro": "56-80",
+  "meses": "Diciembre–Enero",
   "temas": [
-    "Letras y sonidos",
-    "Mis primeras palabras",
-    "Cuentos cortos",
-    "Dibujo y escribo",
-    "El abecedario"
+    "Describir personas y animales",
+    "Contar historias cortas",
+    "Vocabulario: colores",
+    "Instrucciones y secuencias"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-esp-b3-v1-001",
-        "tema": "Letras y sonidos",
+        "tema": "Describir personas y animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué letra suena como 'ka' al inicio de 'CASA'?",
+        "pregunta": "¿Cómo describes a un perro?",
         "opciones": [
-          "C",
-          "G",
-          "B",
-          "D"
+          "Tiene 4 patas, cola y ladra 🐕",
+          "Tiene alas y vuela 🐦",
+          "Vive en el agua 🐟",
+          "No se puede"
         ],
-        "respuestaCorrecta": "C",
-        "explicacion": "¡La C! Ca-sa empieza con C. La C puede sonar como K (ca, co, cu) o como S (ce, ci). 🏠"
+        "respuestaCorrecta": "Tiene 4 patas, cola y ladra 🐕",
+        "explicacion": "¡Describir es decir cómo es algo! El perro tiene 4 patas, cola y ladra. 🐕",
+        "visual": "🐕"
       },
       {
         "id": "pre1-esp-b3-v1-002",
-        "tema": "Mis primeras palabras",
-        "tipo": "fill_blank",
+        "tema": "Describir personas y animales",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La palabra que expresa amor entre familia es ___",
-        "respuestaCorrecta": "amor",
-        "explicacion": "¡AMOR! Esta palabra de 4 letras (A-M-O-R) es de las más bonitas. 💕"
+        "pregunta": "Describir es decir cómo se ve o suena algo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Describir usa palabras para pintar imágenes. 🎨🗣️"
       },
       {
         "id": "pre1-esp-b3-v1-003",
-        "tema": "El abecedario",
-        "tipo": "true_false",
+        "tema": "Contar historias cortas",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "La letra M viene antes que la N en el abecedario",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! ...K-L-M-N-O... La M viene antes que la N. ¡El orden del abecedario es muy importante! 🔤"
+        "pregunta": "Toda historia tiene inicio, problema y...",
+        "opciones": [
+          "Final ✨",
+          "Otro inicio",
+          "Otro problema",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Final ✨",
+        "explicacion": "¡Un final! Inicio → problema → final. 📖✨"
       },
       {
         "id": "pre1-esp-b3-v1-004",
-        "tema": "Cuentos cortos",
+        "tema": "Vocabulario: colores",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas partes tiene un cuento?",
+        "pregunta": "¿De qué color es el cielo soleado?",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "5"
+          "Azul 🔵",
+          "Rojo 🔴",
+          "Negro ⚫",
+          "Morado 🟣"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "¡3 partes! Inicio (presentación), desarrollo (aventura) y final (desenlace). ¡Como una hamburguesa con dos panes! 📖"
+        "respuestaCorrecta": "Azul 🔵",
+        "explicacion": "¡Azul! ☀️🔵",
+        "visual": "☀️"
       },
       {
         "id": "pre1-esp-b3-v1-005",
-        "tema": "Dibujo y escribo",
-        "tipo": "fill_blank",
+        "tema": "Instrucciones y secuencias",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuando hacemos trazos que parecen letras pero aún no son letras reales, lo llamamos ___",
-        "respuestaCorrecta": "garabatos",
-        "explicacion": "¡Los garabatos son el primer paso para escribir! Los bebés hacen garabatos antes de aprender letras reales. ✏️"
+        "pregunta": "Para lavarte las manos: ¿qué va PRIMERO?",
+        "opciones": [
+          "Mojarme 💧",
+          "Enjuagarme",
+          "Secarme",
+          "Enjabonarme"
+        ],
+        "respuestaCorrecta": "Mojarme 💧",
+        "explicacion": "¡Primero mojar! Las instrucciones tienen orden. 💧🧼",
+        "visual": "💧"
       },
       {
         "id": "pre1-esp-b3-v1-006",
-        "tema": "Letras y sonidos",
-        "tipo": "multiple_choice",
+        "tema": "Describir personas y animales",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Qué letra hace el sonido 'sss' en 'SAPO'?",
-        "opciones": [
-          "S",
-          "T",
-          "F",
-          "Z"
-        ],
-        "respuestaCorrecta": "S",
-        "explicacion": "¡La S! Como la serpiente que hace sssss. S de Sapo, Sol, Silla. 🐸",
-        "visual": "🐸"
+        "pregunta": "El elefante tiene una trompa lar___.",
+        "respuestaCorrecta": "ga",
+        "explicacion": "¡Larga! Esa es una característica del elefante. 🐘"
       },
       {
         "id": "pre1-esp-b3-v1-007",
-        "tema": "El abecedario",
+        "tema": "Contar historias cortas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El abecedario español tiene 27 letras",
+        "pregunta": "Puedo inventar mis propios cuentos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! 27 letras incluyendo la Ñ, que es únicamente nuestra. ¡La Ñ es mexicana y española! 🔤"
+        "explicacion": "¡Tu imaginación es infinita! 🐉🚀🧚",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 65
+        }
       },
       {
         "id": "pre1-esp-b3-v1-008",
-        "tema": "Mis primeras palabras",
+        "tema": "Vocabulario: colores",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas es una palabra de 3 letras?",
+        "pregunta": "¿De qué color es una fresa? 🍓",
         "opciones": [
-          "sol",
-          "niño",
-          "mamá",
-          "perro"
+          "Roja 🔴",
+          "Azul 🔵",
+          "Verde 🟢",
+          "Amarilla 🟡"
         ],
-        "respuestaCorrecta": "sol",
-        "explicacion": "S-O-L son 3 letras. Es una palabra cortita que representa algo grandioso. ¡El sol! ☀️"
+        "respuestaCorrecta": "Roja 🔴",
+        "explicacion": "¡Las fresas son rojas! 🍓🔴",
+        "visual": "🍓"
       },
       {
         "id": "pre1-esp-b3-v1-009",
-        "tema": "Cuentos cortos",
-        "tipo": "fill_blank",
+        "tema": "Instrucciones y secuencias",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En el cuento de Los Tres Cerditos, el lobo sopla para ___ las casas",
-        "respuestaCorrecta": "derribar",
-        "explicacion": "¡El lobo sopla y sopla para derribar las casas! El de ladrillo resistió. ¡Moraleja: trabaja duro! 🐷"
+        "pregunta": "Las instrucciones nos dicen los pasos en orden.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Primero, luego, después. 📝👨‍🍳"
       },
       {
         "id": "pre1-esp-b3-v1-010",
-        "tema": "Dibujo y escribo",
-        "tipo": "true_false",
+        "tema": "Vocabulario: colores",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Dibujar lo que queremos decir es también una forma de comunicarnos",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Los dibujos, las señas, las letras, todos son formas de comunicación. ¡Comunicarse es importante! 🖼️"
+        "pregunta": "Azul 🔵 + amarillo 🟡 = ver___.",
+        "respuestaCorrecta": "de",
+        "explicacion": "¡Verde! 🔵+🟡=🟢"
       }
     ],
     "v2": [
       {
         "id": "pre1-esp-b3-v2-001",
-        "tema": "El abecedario",
-        "tipo": "multiple_choice",
+        "tema": "Describir personas y animales",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuál letra es la única del abecedario español que no existe en otros idiomas?",
-        "opciones": [
-          "Ñ",
-          "B",
-          "M",
-          "Z"
-        ],
-        "respuestaCorrecta": "Ñ",
-        "explicacion": "¡La Ñ es nuestra! Aparece en niño, mañana, caña, España. ¡Es parte de nuestra identidad cultural! 🇲🇽"
+        "pregunta": "Las palabras que dicen CÓMO es algo se llaman adje___.",
+        "respuestaCorrecta": "tivo",
+        "explicacion": "¡Adjetivo! Grande, bonito, rápido, azul. 📝"
       },
       {
         "id": "pre1-esp-b3-v2-002",
-        "tema": "Mis primeras palabras",
-        "tipo": "fill_blank",
+        "tema": "Contar historias cortas",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "La acción de recibir información escrita con los ojos se llama ___",
-        "respuestaCorrecta": "leer",
-        "explicacion": "¡Leer! Es interpretar letras y palabras escritas. ¡Una de las habilidades más poderosas del ser humano! 📖"
+        "pregunta": "En los Tres Cochinitos, ¿cuántas casas construyeron?",
+        "opciones": [
+          "3: paja, madera y ladrillos",
+          "1",
+          "5",
+          "Ninguna"
+        ],
+        "respuestaCorrecta": "3: paja, madera y ladrillos",
+        "explicacion": "¡3 casas! Solo la de ladrillos resistió. 🐷🧱"
       },
       {
         "id": "pre1-esp-b3-v2-003",
-        "tema": "Letras y sonidos",
+        "tema": "Vocabulario: colores",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué grupo de letras son CONSONANTES (no vocales)?",
+        "pregunta": "Los 3 colores primarios son...",
         "opciones": [
-          "B, C, D, F",
-          "A, E, I, O, U",
-          "Solo la Z",
-          "Solo M y N"
+          "Rojo, azul y amarillo",
+          "Verde, morado y naranja",
+          "Blanco, negro y gris",
+          "Rosa, café y dorado"
         ],
-        "respuestaCorrecta": "B, C, D, F",
-        "explicacion": "¡Las consonantes son todas las letras que NO son vocales! B, C, D, F, G, H... son consonantes. 🔤"
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "¡Con estos 3 haces TODOS los colores! 🔴🔵🟡"
       },
       {
         "id": "pre1-esp-b3-v2-004",
-        "tema": "Cuentos cortos",
-        "tipo": "true_false",
+        "tema": "Instrucciones y secuencias",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El narrador es quien cuenta la historia en un cuento",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El narrador es la 'voz' que nos cuenta lo que pasa. Puede ser un personaje o alguien externo. 📖"
+        "pregunta": "¿Qué palabras ordenan instrucciones?",
+        "opciones": [
+          "Primero, luego, después, finalmente",
+          "Hola, adiós",
+          "Sí, no",
+          "Grande, pequeño"
+        ],
+        "respuestaCorrecta": "Primero, luego, después, finalmente",
+        "explicacion": "¡Palabras de secuencia! 1️⃣2️⃣3️⃣4️⃣"
       },
       {
         "id": "pre1-esp-b3-v2-005",
-        "tema": "Dibujo y escribo",
-        "tipo": "fill_blank",
+        "tema": "Describir personas y animales",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para escribir de izquierda a derecha, empezamos por el lado ___ del papel",
-        "respuestaCorrecta": "izquierdo",
-        "explicacion": "¡En español escribimos de izquierda a derecha! Es la dirección de nuestra escritura. ✍️"
+        "pregunta": "'El gato gordo y negro' — estoy describiendo al gato.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Gordo y negro son adjetivos! 🐱🖌️"
       },
       {
         "id": "pre1-esp-b3-v2-006",
-        "tema": "El abecedario",
-        "tipo": "multiple_choice",
+        "tema": "Contar historias cortas",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Qué letra sigue después de la P en el abecedario?",
-        "opciones": [
-          "Q",
-          "O",
-          "R",
-          "S"
-        ],
-        "respuestaCorrecta": "Q",
-        "explicacion": "...N-O-P-Q-R-S... La Q sigue después de la P. ¡En Q van pocos palabras en español! 🔤"
+        "pregunta": "Quien escribe cuentos es el au___.",
+        "respuestaCorrecta": "tor",
+        "explicacion": "¡Autor! Tú puedes ser autor de tus cuentos. ✍️📖"
       },
       {
         "id": "pre1-esp-b3-v2-007",
-        "tema": "Mis primeras palabras",
-        "tipo": "true_false",
+        "tema": "Vocabulario: colores",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La palabra 'HOLA' tiene 4 letras",
-        "respuestaCorrecta": "true",
-        "explicacion": "H-O-L-A son 4 letras. ¡HOLA es una de las primeras palabras que aprendemos! 👋"
+        "pregunta": "Rojo 🔴 + azul 🔵 = mora___.",
+        "respuestaCorrecta": "do",
+        "explicacion": "¡Morado! 🔴+🔵=🟣"
       },
       {
         "id": "pre1-esp-b3-v2-008",
-        "tema": "Letras y sonidos",
-        "tipo": "fill_blank",
+        "tema": "Instrucciones y secuencias",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La letra que hace el sonido 'rrrr' fuerte como en 'PERRO' es la doble ___",
-        "respuestaCorrecta": "R",
-        "explicacion": "¡La doble RR! PE-RRO. La RR hace un sonido más vibrante que la R sola. ¡Es uno de los sonidos más divertidos! 🐕"
+        "pregunta": "Una receta de cocina es un tipo de instrucción.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Tiene pasos en orden. 👨‍🍳📝"
       },
       {
         "id": "pre1-esp-b3-v2-009",
-        "tema": "Cuentos cortos",
+        "tema": "Describir personas y animales",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es la enseñanza (moraleja) del cuento 'La Liebre y la Tortuga'?",
+        "pregunta": "¿Los 5 sentidos para describir?",
         "opciones": [
-          "Lo constante vence a lo veloz",
-          "Hay que ser rápido siempre",
-          "Los animales son inteligentes",
-          "Correr es lo más importante"
+          "Vista, oído, olfato, gusto, tacto",
+          "Solo vista",
+          "Solo oído",
+          "Solo gusto"
         ],
-        "respuestaCorrecta": "Lo constante vence a lo veloz",
-        "explicacion": "¡La tortuga ganó siendo constante! La moraleja: la perseverancia y constancia vencen a la velocidad sin esfuerzo. 🐢🐇"
+        "respuestaCorrecta": "Vista, oído, olfato, gusto, tacto",
+        "explicacion": "¡5 sentidos! 👁️👂👃👅✋"
       },
       {
         "id": "pre1-esp-b3-v2-010",
-        "tema": "Dibujo y escribo",
-        "tipo": "true_false",
+        "tema": "Contar historias cortas",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Un diario es un cuaderno donde escribimos lo que nos pasó cada día",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Los diarios son una forma especial de escritura personal. ¡Muchos escritores famosos empezaron con un diario! 📔"
+        "pregunta": "El problema de la historia se llama...",
+        "opciones": [
+          "Nudo o conflicto",
+          "Inicio",
+          "Final",
+          "Título"
+        ],
+        "respuestaCorrecta": "Nudo o conflicto",
+        "explicacion": "¡El nudo! Sin problema no hay cuento. 😰📖"
       }
     ],
     "preview": [
       {
         "id": "pre1-esp-b3-v1-001",
-        "tema": "Letras y sonidos",
+        "tema": "Describir",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué letra suena como 'ka' al inicio de 'CASA'?",
+        "pregunta": "¿Cómo describes un perro?",
         "opciones": [
-          "C",
-          "G",
-          "B",
-          "D"
+          "4 patas, ladra 🐕",
+          "Vuela 🐦",
+          "Nada 🐟",
+          "No sé"
         ],
-        "respuestaCorrecta": "C",
-        "explicacion": "¡La C! Ca-sa empieza con C. 🏠"
+        "respuestaCorrecta": "4 patas, ladra 🐕",
+        "explicacion": "🐕",
+        "visual": "🐕"
+      },
+      {
+        "id": "pre1-esp-b3-v1-004",
+        "tema": "Colores",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Color del cielo?",
+        "opciones": [
+          "Azul 🔵",
+          "Rojo 🔴",
+          "Negro ⚫",
+          "Morado 🟣"
+        ],
+        "respuestaCorrecta": "Azul 🔵",
+        "explicacion": "☀️🔵",
+        "visual": "☀️"
       },
       {
         "id": "pre1-esp-b3-v1-003",
-        "tema": "El abecedario",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La letra M viene antes que la N en el abecedario",
-        "respuestaCorrecta": "true",
-        "explicacion": "...K-L-M-N-O... La M viene antes. 🔤"
-      },
-      {
-        "id": "pre1-esp-b3-v2-001",
-        "tema": "El abecedario",
+        "tema": "Historias",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál letra es la única del abecedario español que no existe en otros idiomas?",
+        "nivel": "v1",
+        "pregunta": "Las historias tienen inicio, problema y...",
         "opciones": [
-          "Ñ",
-          "B",
-          "M",
-          "Z"
+          "Final ✨",
+          "Otro inicio",
+          "Nada",
+          "Problema"
         ],
-        "respuestaCorrecta": "Ñ",
-        "explicacion": "¡La Ñ es nuestra! Niño, mañana, España. 🇲🇽"
+        "respuestaCorrecta": "Final ✨",
+        "explicacion": "📖✨"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T13:15:00.000Z",
+  "version": "4.0-SEP"
 }

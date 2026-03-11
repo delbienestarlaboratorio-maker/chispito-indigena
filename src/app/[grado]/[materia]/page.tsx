@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import { AdBannerHorizontal } from "@/components/AdBanner";
-import { GRADOS_CONTENIDO } from "@/data/content-primaria";
+import { GRADOS_CONTENIDO } from "@/data/content-primaria-slim";
 import { GRADOS, MATERIAS } from "@/data/curriculum";
 
 interface Props {
@@ -118,44 +118,48 @@ export default async function MateriaPage({ params }: Props) {
                             </div>
 
                             {/* Qué verá en clase */}
-                            <div className="mb-5">
-                                <p className="text-xs font-bold uppercase tracking-wider mb-2" style={{ color: materiaData.color }}>📋 Qué aprenderá en clase</p>
-                                <ul className="grid grid-cols-1 sm:grid-cols-2 gap-1">
-                                    {bloque.enClase.map((tema) => (
-                                        <li key={tema} className="text-gray-600 text-sm flex items-start gap-2">
-                                            <span className="text-green-500 mt-0.5">✓</span> {tema}
-                                        </li>
-                                    ))}
-                                </ul>
-                            </div>
+                            {bloque.enClase && (
+                                <div className="mb-5">
+                                    <p className="text-xs font-bold uppercase tracking-wider mb-2" style={{ color: materiaData.color }}>📋 Qué aprenderá en clase</p>
+                                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-1">
+                                        {bloque.enClase.map((tema) => (
+                                            <li key={tema} className="text-gray-600 text-sm flex items-start gap-2">
+                                                <span className="text-green-500 mt-0.5">✓</span> {tema}
+                                            </li>
+                                        ))}
+                                    </ul>
+                                </div>
+                            )}
 
                             {/* Guía papás — highlight */}
-                            <div className="rounded-2xl p-4 mb-4" style={{ background: "rgba(255,214,10,0.08)", border: "1px dashed rgba(255,214,10,0.3)" }}>
-                                <p className="font-fredoka text-base mb-2 text-gray-800">👨‍👩‍👧 Guía para papás: <span className="font-normal text-gray-600">{bloque.guiaPapa.intro}</span></p>
-                                <div className="grid sm:grid-cols-2 gap-3 text-sm">
-                                    <div>
-                                        <p className="font-semibold text-gray-700 mb-1">💪 Truco fácil</p>
-                                        <p className="text-gray-600">{bloque.guiaPapa.truco}</p>
+                            {bloque.guiaPapa && (
+                                <div className="rounded-2xl p-4 mb-4" style={{ background: "rgba(255,214,10,0.08)", border: "1px dashed rgba(255,214,10,0.3)" }}>
+                                    <p className="font-fredoka text-base mb-2 text-gray-800">👨‍👩‍👧 Guía para papás: <span className="font-normal text-gray-600">{bloque.guiaPapa.intro}</span></p>
+                                    <div className="grid sm:grid-cols-2 gap-3 text-sm">
+                                        <div>
+                                            <p className="font-semibold text-gray-700 mb-1">💪 Truco fácil</p>
+                                            <p className="text-gray-600">{bloque.guiaPapa.truco}</p>
+                                        </div>
+                                        <div>
+                                            <p className="font-semibold text-gray-700 mb-1">⚠️ Error más común</p>
+                                            <p className="text-gray-600">{bloque.guiaPapa.error_comun}</p>
+                                        </div>
                                     </div>
-                                    <div>
-                                        <p className="font-semibold text-gray-700 mb-1">⚠️ Error más común</p>
-                                        <p className="text-gray-600">{bloque.guiaPapa.error_comun}</p>
+                                    <div className="mt-3 pt-3 border-t border-yellow-200/30">
+                                        <p className="font-semibold text-gray-700 mb-1 text-sm">🏠 Actividad en casa (sin materiales extras)</p>
+                                        <p className="text-gray-600 text-sm">{bloque.guiaPapa.actividad_casa}</p>
                                     </div>
-                                </div>
-                                <div className="mt-3 pt-3 border-t border-yellow-200/30">
-                                    <p className="font-semibold text-gray-700 mb-1 text-sm">🏠 Actividad en casa (sin materiales extras)</p>
-                                    <p className="text-gray-600 text-sm">{bloque.guiaPapa.actividad_casa}</p>
-                                </div>
 
-                                {/* CTA a guía completa — detrás de paywall V2 */}
-                                <Link
-                                    href={`/planes`}
-                                    className="mt-3 flex items-center gap-2 text-sm font-semibold"
-                                    style={{ color: materiaData.color }}
-                                >
-                                    🔒 Ver guía paso a paso completa (V2) →
-                                </Link>
-                            </div>
+                                    {/* CTA a guía completa — detrás de paywall V2 */}
+                                    <Link
+                                        href={`/planes`}
+                                        className="mt-3 flex items-center gap-2 text-sm font-semibold"
+                                        style={{ color: materiaData.color }}
+                                    >
+                                        🔒 Ver guía paso a paso completa (V2) →
+                                    </Link>
+                                </div>
+                            )}
 
                             {/* Botón de ejercicios */}
                             <Link

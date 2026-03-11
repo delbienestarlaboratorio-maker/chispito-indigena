@@ -2,299 +2,428 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 1,
-  "nombre": "Exploración sonora y ritmos",
-  "meses": "Periodo 1",
+  "nombre": "El arte en tu libro — Títeres y primeras pinturas",
+  "libroSep": "K1MLA",
+  "paginasLibro": "8-62",
+  "meses": "Agosto–Septiembre",
   "temas": [
-    "Ritmos corporales",
-    "Instrumentos caseros",
-    "Sonidos de la naturaleza",
-    "Juegos de eco"
+    "Malli y el baúl del arte",
+    "Títeres y marionetas",
+    "Pinturas de Mario Núñez",
+    "Pinturas rupestres"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
         "id": "pre1-artes-b1-v1-001",
-        "tema": "Ritmos corporales",
+        "tema": "Malli y el baúl del arte",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué parte del cuerpo podemos hacer ritmos y palmas?",
+        "pregunta": "En tu libro, Malli tiene un baúl lleno de cosas mágicas. ¿Para qué las usa?",
         "opciones": [
-          "Con las manos",
-          "Con los ojos",
-          "Con la nariz",
-          "Con las orejas"
+          "Para hacer arte",
+          "Para cocinar",
+          "Para dormir",
+          "Para bañarse"
         ],
-        "respuestaCorrecta": "Con las manos",
-        "explicacion": "¡Las manos son increíbles para hacer ritmos! Podemos aplaudir, dar golpecitos y crear música con ellas. 👏",
-        "visual": "👏"
+        "respuestaCorrecta": "Para hacer arte",
+        "explicacion": "¡Malli usa su baúl mágico para crear arte! Tiene pinturas, colores, y muchas cosas creativas dentro. 🎨",
+        "visual": "🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 8
+        }
       },
       {
         "id": "pre1-artes-b1-v1-002",
-        "tema": "Sonidos de la naturaleza",
+        "tema": "Títeres y marionetas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La lluvia hace un sonido cuando cae sobre las hojas.",
+        "pregunta": "Los títeres son muñecos que se mueven con las manos o con hilos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! La lluvia hace un sonido suave y rítmico: 'plin, plin, plin'. ¡La naturaleza es una orquesta! 🌧️"
+        "explicacion": "¡Sí! Los títeres de guante se mueven con la mano y las marionetas se mueven con hilos. ¡Como los del libro! 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
         "id": "pre1-artes-b1-v1-003",
-        "tema": "Instrumentos caseros",
+        "tema": "Títeres y marionetas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué podemos hacer con una botella llena de arroz?",
+        "pregunta": "En la página de títeres de tu libro, ¿qué tipo de títere se mueve con hilos desde arriba?",
         "opciones": [
-          "Un sonajero musical",
-          "Un sombrero",
-          "Un libro",
-          "Una pelota"
+          "Marioneta",
+          "Guante",
+          "Calcetín",
+          "Peluche"
         ],
-        "respuestaCorrecta": "Un sonajero musical",
-        "explicacion": "¡Una botella con arroz es un sonajero! Al agitarla hace 'chac, chac'. ¡Así inventamos instrumentos en casa! 🎵",
-        "visual": "🎶"
+        "respuestaCorrecta": "Marioneta",
+        "explicacion": "¡Las marionetas se mueven con hilos! En tu libro hay un esqueleto, un acróbata y un perro que son marionetas. 🎪",
+        "visual": "🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
         "id": "pre1-artes-b1-v1-004",
-        "tema": "Juegos de eco",
-        "tipo": "true_false",
+        "tema": "Títeres y marionetas",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el juego de eco, repetimos el mismo sonido o palmada que hace el maestro.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! El eco repite lo que escucha. Si el maestro hace 'clap clap', tú haces 'clap clap'. ¡Como las montañas! 🏔️"
+        "pregunta": "Las niñas del libro están jugando con unos títeres. ¿Con qué hacen sombras?",
+        "opciones": [
+          "Con luz y sus manos",
+          "Con agua",
+          "Con pintura",
+          "Con pegamento"
+        ],
+        "respuestaCorrecta": "Con luz y sus manos",
+        "explicacion": "¡Con luz y las manos se hacen sombras chinescas! Pones tus manos frente a la luz y aparecen figuras en la pared. 🖐️",
+        "visual": "🖐️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
         "id": "pre1-artes-b1-v1-005",
-        "tema": "Ritmos corporales",
-        "tipo": "fill_blank",
+        "tema": "Pinturas de Mario Núñez",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Cuando golpeamos los pies en el suelo al ritmo de la música, estamos ___.",
-        "respuestaCorrecta": "bailando",
-        "explicacion": "¡Bailar es mover el cuerpo al ritmo de la música! Los pies, manos y todo el cuerpo pueden seguir el ritmo. 💃"
+        "pregunta": "Mario Núñez es un pintor que usa muchos colores en sus obras.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Mario Núñez pinta con amarillos, rojos, azules y morados. ¡Sus pinturas están llenas de color! 🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
       },
       {
         "id": "pre1-artes-b1-v1-006",
-        "tema": "Sonidos de la naturaleza",
+        "tema": "Pinturas de Mario Núñez",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal hace el sonido 'cuac cuac'?",
+        "pregunta": "La pintura de Mario Núñez en tu libro tiene muchas figuras. ¿Qué técnica usa?",
         "opciones": [
-          "El pato 🦆",
-          "El gato 🐱",
-          "El perro 🐶",
-          "El pez 🐟"
+          "Acuarela",
+          "Fotografía",
+          "Escultura",
+          "Cocina"
         ],
-        "respuestaCorrecta": "El pato 🦆",
-        "explicacion": "¡El pato hace 'cuac cuac'! Los animales también son parte de la música de la naturaleza. 🦆",
-        "visual": "🦆"
+        "respuestaCorrecta": "Acuarela",
+        "explicacion": "Mario Núñez pinta con acuarelas — son pinturas que se mezclan con agua y hacen colores suaves y hermosos. 💧🎨",
+        "visual": "💧",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
       },
       {
         "id": "pre1-artes-b1-v1-007",
-        "tema": "Instrumentos caseros",
+        "tema": "Pinturas rupestres",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos hacer música golpeando suavemente un vaso con una cuchara.",
+        "pregunta": "Las pinturas rupestres son dibujos que las personas hacían en las cuevas hace mucho, mucho tiempo.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Un vaso y una cuchara hacen un sonido 'ting ting'. ¡Los objetos de casa pueden ser instrumentos musicales! 🥄"
+        "explicacion": "¡Sí! Hace miles de años, las personas pintaban animales en las paredes de las cuevas. ¡Son las pinturas más antiguas del mundo! 🏔️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       },
       {
         "id": "pre1-artes-b1-v1-008",
-        "tema": "Ritmos corporales",
+        "tema": "Pinturas rupestres",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Si la música es rápida, ¿cómo movemos el cuerpo?",
+        "pregunta": "En tu libro hay una pintura rupestre de un animal grande. ¿Qué animal es?",
         "opciones": [
-          "Rápido y con energía",
-          "Muy despacio",
-          "Sin moverse",
-          "Durmiendo"
+          "Un bisonte",
+          "Un pez",
+          "Un pájaro",
+          "Un gato"
         ],
-        "respuestaCorrecta": "Rápido y con energía",
-        "explicacion": "La música rápida nos da energía y ganas de movernos rápido. ¡El cuerpo sigue el ritmo de la música! ⚡",
-        "visual": "⚡"
+        "respuestaCorrecta": "Un bisonte",
+        "explicacion": "¡Es un bisonte! Un animal grande y fuerte que las personas de antes pintaron en las cuevas con colores naturales. 🦬",
+        "visual": "🦬",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       },
       {
         "id": "pre1-artes-b1-v1-009",
-        "tema": "Juegos de eco",
-        "tipo": "fill_blank",
+        "tema": "Pinturas rupestres",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el juego del eco, escucho el sonido y luego lo ___.",
-        "respuestaCorrecta": "repito",
-        "explicacion": "¡Repito lo que escucho! El eco es la repetición de un sonido. ¡Es como tener una copia del sonido! 🔊"
+        "pregunta": "¿Con qué pintaban las personas en las cuevas hace miles de años?",
+        "opciones": [
+          "Con tierras y plantas de colores",
+          "Con crayolas",
+          "Con plumones",
+          "Con computadora"
+        ],
+        "respuestaCorrecta": "Con tierras y plantas de colores",
+        "explicacion": "¡Usaban tierras rojas, negras y amarillas de la naturaleza! No tenían tiendas, así que usaban lo que encontraban. 🌍",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       },
       {
         "id": "pre1-artes-b1-v1-010",
-        "tema": "Sonidos de la naturaleza",
-        "tipo": "true_false",
+        "tema": "Malli y el baúl del arte",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El viento también hace sonidos cuando mueve las hojas de los árboles.",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí, el viento susurra entre las hojas: 'ssshhh'. ¡La naturaleza está llena de música! 🍃",
-        "visual": "🍃"
+        "pregunta": "El personaje que nos acompaña en el libro de arte se llama ___.",
+        "respuestaCorrecta": "Malli",
+        "explicacion": "¡Malli es tu compañero de aventuras artísticas! Los acompaña en todo el libro para crear y explorar el arte. ✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 8
+        }
       }
     ],
     "v2": [
       {
         "id": "pre1-artes-b1-v2-001",
-        "tema": "Instrumentos caseros",
+        "tema": "Títeres y marionetas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estos materiales caseros produce el sonido más grave (bajo)?",
+        "pregunta": "¿Cuál es la diferencia entre un títere de guante y una marioneta?",
         "opciones": [
-          "Un tambor de lata grande",
-          "Una campanita pequeña",
-          "Un silbato",
-          "Una flauta delgada"
+          "La marioneta usa hilos, el títere usa la mano",
+          "Son lo mismo",
+          "La marioneta es más pequeña",
+          "El títere es de papel"
         ],
-        "respuestaCorrecta": "Un tambor de lata grande",
-        "explicacion": "Los objetos grandes producen sonidos graves (bajos). Los objetos pequeños producen sonidos agudos (altos). 🥁",
-        "visual": "🥁"
+        "respuestaCorrecta": "La marioneta usa hilos, el títere usa la mano",
+        "explicacion": "¡La marioneta se controla con hilos desde arriba, y el títere de guante se mete en la mano como un calcetín! Cada uno se mueve diferente. 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
         "id": "pre1-artes-b1-v2-002",
-        "tema": "Ritmos corporales",
-        "tipo": "fill_blank",
+        "tema": "Títeres y marionetas",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para marcar el ritmo con el cuerpo podemos aplaudir, zapatear o dar golpecitos con los ___.",
-        "respuestaCorrecta": "dedos",
-        "explicacion": "¡Los dedos son perfectos para marcar ritmos suaves sobre una mesa o las piernas! 👆"
+        "pregunta": "En tu libro aparece una marioneta de un esqueleto y otra de un perro.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las marionetas pueden ser de cualquier personaje: esqueletos, animales, personas. ¡La imaginación no tiene límite! 💀🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
         "id": "pre1-artes-b1-v2-003",
-        "tema": "Juegos de eco",
-        "tipo": "true_false",
+        "tema": "Pinturas de Mario Núñez",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En un juego de eco musical, podemos usar la voz para crear ritmos.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Podemos hacer sonidos con la boca: 'ta ta ta', 'bum bum bum', y repetirlos. ¡La voz es el primer instrumento! 🎤"
+        "pregunta": "La pintura 'Sin título' de Mario Núñez tiene figuras que parecen personas. ¿Qué tipo de arte es?",
+        "opciones": [
+          "Arte abstracto",
+          "Fotografía",
+          "Escultura",
+          "Arquitectura"
+        ],
+        "respuestaCorrecta": "Arte abstracto",
+        "explicacion": "El arte abstracto no dibuja las cosas como son, sino como el artista las siente. ¡Por eso las figuras se ven diferentes y divertidas! 🌈",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
       },
       {
         "id": "pre1-artes-b1-v2-004",
-        "tema": "Sonidos de la naturaleza",
-        "tipo": "multiple_choice",
+        "tema": "Pinturas de Mario Núñez",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estos NO es un sonido de la naturaleza?",
-        "opciones": [
-          "Música de bocinas",
-          "Canto de pájaros",
-          "Rugido de trueno",
-          "Correr del agua"
-        ],
-        "respuestaCorrecta": "Música de bocinas",
-        "explicacion": "Las bocinas son creadas por personas. Los pájaros, truenos y el agua son sonidos que la naturaleza produce sola. 🐦⛈️💧",
-        "visual": "🐦"
+        "pregunta": "Mario Núñez nació en el año 1963 y sus pinturas son de acua___.",
+        "respuestaCorrecta": "rela",
+        "explicacion": "¡Acuarela! Es una pintura que se mezcla con agua. Mario Núñez la usa para crear sus obras llenas de color y movimiento. 💧🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
       },
       {
         "id": "pre1-artes-b1-v2-005",
-        "tema": "Instrumentos caseros",
-        "tipo": "fill_blank",
+        "tema": "Pinturas rupestres",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Si llenamos dos tapas de olla y las golpeamos entre sí, creamos un son___ de platillos.",
-        "respuestaCorrecta": "ido",
-        "explicacion": "¡Sonido de platillos! Las tapas de olla chocan y hacen 'cling'. ¡Así inventan música los niños creativos! 🎶"
+        "pregunta": "¿Por qué las personas de antes pintaban animales en las cuevas?",
+        "opciones": [
+          "Para recordar lo que veían y cazaban",
+          "Para decorar su teléfono",
+          "Para hacer tarea",
+          "Por aburrimiento"
+        ],
+        "respuestaCorrecta": "Para recordar lo que veían y cazaban",
+        "explicacion": "¡Pintaban los animales que les importaban! Era su forma de contar historias antes de que existiera la escritura. 📖🦬",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       },
       {
         "id": "pre1-artes-b1-v2-006",
-        "tema": "Juegos de eco",
-        "tipo": "multiple_choice",
+        "tema": "Pinturas rupestres",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué pasa si haces 3 palmadas en el juego de eco?",
-        "opciones": [
-          "Tu compañero repite 3 palmadas",
-          "Tu compañero hace 5 palmadas",
-          "Nadie hace nada",
-          "Todos corren"
-        ],
-        "respuestaCorrecta": "Tu compañero repite 3 palmadas",
-        "explicacion": "El eco repite exactamente lo mismo. ¡3 palmadas generan 3 palmadas de eco! 👏👏👏"
+        "pregunta": "Las pinturas rupestres se encontraron dentro de cuevas porque allí se protegían de la lluvia y el sol.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Las cuevas protegieron las pinturas por miles de años. ¡Por eso todavía podemos verlas hoy! 🏔️✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       },
       {
         "id": "pre1-artes-b1-v2-007",
-        "tema": "Ritmos corporales",
-        "tipo": "true_false",
+        "tema": "Títeres y marionetas",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Todos los seres humanos tenemos un ritmo natural: el latido del corazón.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Tu corazón es tu primer tambor! Hace 'bum bum' todo el tiempo. ¡Llevamos la música dentro! ❤️🥁",
-        "visual": "❤️"
+        "pregunta": "Para hacer un teatro de títeres en casa, ¿qué necesitas?",
+        "opciones": [
+          "Un títere, una tela y una historia",
+          "Una computadora",
+          "Un carro",
+          "Mucho dinero"
+        ],
+        "respuestaCorrecta": "Un títere, una tela y una historia",
+        "explicacion": "¡Solo necesitas un títere (puede ser un calcetín), una tela para el escenario, y tu imaginación para la historia! 🎪",
+        "visual": "🎪",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
         "id": "pre1-artes-b1-v2-008",
-        "tema": "Sonidos de la naturaleza",
+        "tema": "Malli y el baúl del arte",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sonido del mar con sus olas se llama el ___ del mar.",
-        "respuestaCorrecta": "murmullo",
-        "explicacion": "El mar murmulla y susurra con sus olas. Es un sonido suave y relajante que nos calma. 🌊"
+        "pregunta": "En el libro, Malli nos enseña que el arte se puede hacer con pintu___, colores y la imaginación.",
+        "respuestaCorrecta": "ras",
+        "explicacion": "¡Pinturas, colores y mucha imaginación! Malli nos muestra que todos podemos ser artistas. 🖌️✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 8
+        }
       },
       {
         "id": "pre1-artes-b1-v2-009",
-        "tema": "Instrumentos caseros",
-        "tipo": "multiple_choice",
+        "tema": "Pinturas de Mario Núñez",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Por qué los instrumentos caseros son importantes para los niños?",
-        "opciones": [
-          "Porque despiertan la creatividad y el amor por la música",
-          "Porque son muy caros",
-          "Porque solo los adultos los usan",
-          "Porque hacen mucho ruido"
-        ],
-        "respuestaCorrecta": "Porque despiertan la creatividad y el amor por la música",
-        "explicacion": "Construir tus propios instrumentos despierta tu creatividad. ¡Cualquier objeto puede convertirse en música! 🎨🎵"
+        "pregunta": "En la pintura de Mario Núñez se pueden ver colores como rojo, amarillo, azul y morado.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Su pintura es un arcoíris de colores. Usa rojo, amarillo, azul, morado, naranja... ¡casi todos los colores! 🌈",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
       },
       {
         "id": "pre1-artes-b1-v2-010",
-        "tema": "Ritmos corporales",
-        "tipo": "true_false",
+        "tema": "Pinturas rupestres",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Podemos hacer un ritmo diferente con las dos manos al mismo tiempo.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Una mano puede ir más rápido y la otra más lento. Es difícil pero muy divertido practicar. ¡Nos hace más listos! 🧠👏"
+        "pregunta": "¿Qué colores usaban las personas antiguas para sus pinturas en las cuevas?",
+        "opciones": [
+          "Rojo, negro y amarillo",
+          "Rosa neón y verde fosforescente",
+          "Azul eléctrico",
+          "Colores que no existen"
+        ],
+        "respuestaCorrecta": "Rojo, negro y amarillo",
+        "explicacion": "Usaban colores de la tierra: rojo de minerales, negro del carbón, amarillo de la arcilla. ¡La naturaleza era su tienda de pinturas! 🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       }
     ],
     "preview": [
       {
         "id": "pre1-artes-b1-v1-001",
-        "tema": "Ritmos corporales",
+        "tema": "Malli y el baúl del arte",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué parte del cuerpo podemos hacer ritmos y palmas?",
+        "pregunta": "En tu libro, Malli tiene un baúl lleno de cosas mágicas. ¿Para qué las usa?",
         "opciones": [
-          "Con las manos",
-          "Con los ojos",
-          "Con la nariz",
-          "Con las orejas"
+          "Para hacer arte",
+          "Para cocinar",
+          "Para dormir",
+          "Para bañarse"
         ],
-        "respuestaCorrecta": "Con las manos",
-        "explicacion": "¡Las manos son increíbles para hacer ritmos! Podemos aplaudir, dar golpecitos y crear música. 👏",
-        "visual": "👏"
-      },
-      {
-        "id": "pre1-artes-b1-v1-002",
-        "tema": "Sonidos de la naturaleza",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La lluvia hace un sonido cuando cae sobre las hojas.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! La lluvia hace un sonido suave y rítmico: 'plin, plin, plin'. 🌧️"
+        "respuestaCorrecta": "Para hacer arte",
+        "explicacion": "¡Malli usa su baúl mágico para crear arte! 🎨",
+        "visual": "🎨",
+        "fuenteSEP": true
       },
       {
         "id": "pre1-artes-b1-v1-003",
-        "tema": "Instrumentos caseros",
+        "tema": "Títeres y marionetas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué podemos hacer con una botella llena de arroz?",
+        "pregunta": "¿Qué tipo de títere se mueve con hilos desde arriba?",
         "opciones": [
-          "Un sonajero musical",
-          "Un sombrero",
-          "Un libro",
-          "Una pelota"
+          "Marioneta",
+          "Guante",
+          "Calcetín",
+          "Peluche"
         ],
-        "respuestaCorrecta": "Un sonajero musical",
-        "explicacion": "¡Una botella con arroz es un sonajero! Al agitarla hace 'chac, chac'. 🎵"
+        "respuestaCorrecta": "Marioneta",
+        "explicacion": "¡Las marionetas se mueven con hilos! 🎪",
+        "visual": "🎭",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-artes-b1-v1-008",
+        "tema": "Pinturas rupestres",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En tu libro hay una pintura rupestre. ¿Qué animal es?",
+        "opciones": [
+          "Un bisonte",
+          "Un pez",
+          "Un pájaro",
+          "Un gato"
+        ],
+        "respuestaCorrecta": "Un bisonte",
+        "explicacion": "¡Es un bisonte pintado en una cueva hace miles de años! 🦬",
+        "visual": "🦬",
+        "fuenteSEP": true
       }
     ]
   },
-  "generado": "2026-03-09T03:45:00.000Z",
-  "version": "3.0"
+  "generado": "2026-03-11T11:15:00.000Z",
+  "version": "4.0-SEP"
 }
