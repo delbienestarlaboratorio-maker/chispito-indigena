@@ -1919,6 +1919,108 @@ PRIMARIA_1.materias["educacion_fisica"].bloques.push({
     keywords: ["deportes LSM primaria", "educacion fisica señas", "juegos inclusivos SEP"],
 });
 
+// === Bloque 6: Lengua de Señas Mexicana (LSM) para Primaria 2 ===
+if (PRIMARIA_2.materias["espanol"]) {
+    PRIMARIA_2.materias["espanol"].bloques.push({
+        bloque: 6,
+        nombre: "Conecto mis palabras (LSM)",
+        meses: "Julio",
+        enClase: ["Mi primera oración en señas", "Tiempos simples: Ayer, Hoy, Mañana", "Describiendo objetos", "Preguntas básicas: Qué, Quién, Dónde"],
+        guiaPapa: {
+            intro: "Tu hijo sube de nivel en LSM. Ya no solo dirá palabras sueltas, sino que aprenderá a construir oraciones completas, hacer preguntas y hablar del pasado y futuro.",
+            comoExplicar: [
+                "Jueguen a describir la casa: Grande, Pequeña, Limpia. Cuiden que la expresión facial acompañe el tamaño.",
+                "Hagan preguntas mudas: '¿DÓNDE (frunciendo el ceño) está el PERRO?'",
+            ],
+            truco: "En LSM no se usan artículos (el, la, los). Se va directo al punto: GATO COMER, NIÑO DORMIR. Ayuda a tu hijo a pensar en 'conceptos', no en traducciones palabra por palabra.",
+            error_comun: "Olvidar fruncir el ceño al hacer preguntas. En LSM la gramática está en la cara; si la cara no pregunta, es solo una afirmación.",
+            actividad_casa: "Charla del futuro: Usando la seña de MAÑANA, planéen juntos lo que harán el fin de semana usando solo LSM.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno estructura oraciones simples y formula interrogantes utilizando la gramática viso-gestual de la LSM.",
+            competencia: "Comunicación Inclusiva y Sintaxis Viso-gestual — SEP Plan 2022",
+        },
+        keywords: ["oraciones LSM", "gramatica lengua señas", "LSM primaria 2"],
+    });
+}
+if (PRIMARIA_2.materias["matematicas"]) {
+    PRIMARIA_2.materias["matematicas"].bloques.push({
+        bloque: 6,
+        nombre: "Cálculo en mis manos (LSM)",
+        meses: "Julio",
+        enClase: ["Números hasta el 100", "Fracciones rápidas: Mitad y Entero", "Restas con señas", "El tiempo en el reloj"],
+        guiaPapa: {
+            intro: "Avanzamos a números grandes y empezamos con conceptos como fracciones (mitad) y restas, todo visualizado con las manos.",
+            comoExplicar: [
+                "Practiquen contar de 10 en 10 hasta el 100 en LSM. El número cien tiene una seña especial en forma de 'C'.",
+                "Al partir una manzana o un sándwich, usen la seña de MITAD (partir la palma con el índice).",
+            ],
+            truco: "La resta (MENOS) se ve como si 'limpiaras' o 'quitaras' algo de tu palma. Es súper visual y ayuda a entender que restar es quitar.",
+            error_comun: "Hacer los números grandes dedo por dedo. A partir del 20, la LSM usa posiciones de la mano para referirse a decenas, no dedos individuales.",
+            actividad_casa: "La Relojería Silenciosa: Tú haces la seña de una hora y tu hijo tiene que dibujarla en un reloj de papel, o viceversa.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno emplea la LSM para operar cantidades hasta el 100 y maneja conceptos espaciales de partición (fracciones).",
+            competencia: "Pensamiento Matemático Visual — SEP Plan 2022",
+        },
+        keywords: ["numeros 100 LSM", "restas señas", "fracciones lengua señas"],
+    });
+}
+if (PRIMARIA_2.materias["conocimiento"]) {
+    PRIMARIA_2.materias["conocimiento"].bloques.push({
+        bloque: 6,
+        nombre: "Mi entorno se comunica (LSM)",
+        meses: "Julio",
+        enClase: ["El Campo y la Ciudad", "Oficios avanzados en LSM", "El clima y la naturaleza", "Cuidado del agua"],
+        guiaPapa: {
+            intro: "Conectamos conceptos sociales y de la naturaleza. Tu hijo aprenderá las señas para profesiones, tipos de paisaje y elementos como la lluvia y el agua.",
+            comoExplicar: [
+                "Para la seña de LLUVIA, muevan los dedos hacia abajo como gotitas. Para CIUDAD, levanten edificios imaginarios con las manos.",
+                "Jueguen a '¿Qué quiero ser de grande?' diciendo profesiones (Maestro, Doctor) en señas.",
+            ],
+            truco: "Muchos oficios en LSM son 'inicializados', es decir, usan la primera letra de la palabra (como 'M' para maestro) haciendo un movimiento relacionado al oficio.",
+            error_comun: "Confundir la seña de AGUA (con letra A) con gestos informales. En la escuela se enseña la variante estándar Mexicana.",
+            actividad_casa: "El reporte del clima: Tu hijo ve por la ventana y te da el reporte del clima solo con señas: SOL, LLUVIA, FRÍO.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno reconoce y nombra en LSM elementos geográficos, meteorológicos y sociales de su entorno inmediato.",
+            competencia: "Exploración del Entorno Inclusivo — SEP Plan 2022",
+        },
+        keywords: ["ciudad campo LSM", "profesiones señas", "clima LSM primaria"],
+    });
+}
+// Agregar educacion_fisica LSM si no existe como materia formal en PRIMARIA_2
+if (!PRIMARIA_2.materias["educacion_fisica"]) {
+    PRIMARIA_2.materias["educacion_fisica"] = {
+        materia: "educacion_fisica",
+        nombre: "Educación Física",
+        emoji: "🏃",
+        color: "#F97316",
+        bloques: [],
+    };
+}
+PRIMARIA_2.materias["educacion_fisica"].bloques.push({
+    bloque: 6,
+    nombre: "Cuerpo en movimiento (LSM)",
+    meses: "Julio",
+    enClase: ["Lateralidad: Derecha e Izquierda", "Direcciones: Arriba, Abajo, Adelante", "Reglas de juegos en equipo", "Emociones deportivas"],
+    guiaPapa: {
+        intro: "El control espacial es clave. Aprenderemos arriba, abajo, derecha e izquierda usando LSM, integrándolo a deportes.",
+        comoExplicar: [
+            "Hagan el juego de 'Simón Dice' usando direcciones en LSM: Simón dice... ARRIBA.",
+            "Usen las letras D (derecha) e I (izquierda) moviéndolas hacia los lados correspondientes.",
+        ],
+        truco: "Conectar las direcciones con el cuerpo entero. Si dicen 'Derecha' en LSM, obliguen a girar la cabeza también. Solidifica el concepto.",
+        error_comun: "Hacer la seña de izquierda con la mano derecha. Para que visualmente tenga sentido en el espacio propio, se hace hacia el lado que le corresponde.",
+        actividad_casa: "Robot Silencioso: Tú eres el control remoto que da las órdenes direccionales en LSM y tu hijo es el robot ciego que las obedece.",
+    },
+    guiaMaestro: {
+        objetivo: "El alumno domina la ubicación espacial y lateralidad instruyendo movimientos mediante Lengua de Señas Mexicana.",
+        competencia: "Motricidad y Espacialidad Inclusiva — SEP Plan 2022",
+    },
+    keywords: ["lateralidad LSM", "derecha izquierda señas", "educacion fisica inclusiva"],
+});
+
 // Índice de todos los grados disponibles
 // Nota: PRIMARIA_3 y KINDER se importan al comienzo del archivo
 

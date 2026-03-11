@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-2",
+    "materia": "espanol",
+    "bloque": 6,
+    "nombre": "Conecto mis palabras (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Mi primera oración en señas",
+        "Tiempos simples: Ayer, Hoy, Mañana",
+        "Describiendo objetos",
+        "Preguntas básicas: Qué, Quién, Dónde"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p2-esp-b6-v1-001",
+                "tema": "Mi primera oración en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "En Lengua de Señas Mexicana, la estructura de las frases es distinta al español hablado. Para decir 'El perro come', ¿cómo lo ordenaríamos en LSM?",
+                "opciones": [
+                    "PERRO + COMER (El animal primero, luego lo que hace).",
+                    "COMER + PERRO (La acción primero, luego el animal).",
+                    "EL + PERRO + ESTÁ + COMIENDO (Palabra por palabra)."
+                ],
+                "respuestaCorrecta": "PERRO + COMER (El animal primero, luego lo que hace).",
+                "explicacion": "¡Exacto! La LSM es muy visual. Primero pones al 'actor' (el perro) en la escena y luego muestras qué está haciendo (comer). No se usan artículos como 'el' o 'la'. 🐕🍽️"
+            },
+            {
+                "id": "p2-esp-b6-v1-002",
+                "tema": "Tiempos simples: Ayer, Hoy, Mañana",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para hablar del PASADO (como decir 'Ayer'), las señas siempre se hacen con un movimiento hacia la espalda o hacia atrás del cuerpo.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! En la línea del tiempo imaginaria de la LSM, el pasado está 'atrás' (hacia tu espalda), el presente está 'aquí' (frente a ti) y el futuro está 'adelante' (hacia el frente). ⏱️"
+            },
+            {
+                "id": "p2-esp-b6-v1-003",
+                "tema": "Preguntas básicas",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Al hacer una pregunta en LSM como '¿DÓNDE?', es obligatorio fruncir el ___ para que la otra persona sepa que es una pregunta y no una afirmación.",
+                "respuestaCorrecta": "ceño",
+                "explicacion": "¡Así es! La gramática de las preguntas en LSM está en la cara. Si no frunces el ceño al preguntar ¿Qué?, ¿Cómo? o ¿Dónde?, la frase pierde su sentido interrogativo. 🤨"
+            },
+            {
+                "id": "p2-esp-b6-v1-004",
+                "tema": "Describiendo objetos",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos que algo es 'GRANDE' en LSM?",
+                "opciones": [
+                    "Separamos ambas palmas frente a nosotros e inflamos las mejillas.",
+                    "Levantamos los brazos lo más alto posible.",
+                    "Damos un salto hacia atrás."
+                ],
+                "respuestaCorrecta": "Separamos ambas palmas frente a nosotros e inflamos las mejillas.",
+                "explicacion": "¡Correcto! Separar las manos muestra el tamaño, pero inflar las mejillas le da la intensidad gramatical de que es MUY grande. ¡El cuerpo entero habla! 🐘"
+            }
+        ]
+    },
+    "generado": "2026-03-10T18:20:00.000Z",
+    "version": "3.0"
+}
