@@ -2314,6 +2314,100 @@ if (PRIMARIA_5.materias["historia"]) {
     });
 }
 
+// === Bloque 7: Lengua de Señas Mexicana (LSM) para Primaria 6 (FINAL) ===
+if (PRIMARIA_6.materias["espanol"]) {
+    PRIMARIA_6.materias["espanol"].bloques.push({
+        bloque: 7,
+        nombre: "Pensamiento en señas (LSM)",
+        meses: "Julio",
+        enClase: ["Pensamiento crítico en LSM", "Discurso persuasivo visual", "Textos académicos y registro culto", "Metalenguaje: hablar SOBRE la LSM en LSM"],
+        guiaPapa: {
+            intro: "¡Nivel máximo! Tu hijo de 11-12 años aprenderá a distinguir opinión de hecho en LSM (YO-PIENSO marca subjetividad), a debatir con expresión facial gramatical, y a entender que la LSM puede hablar SOBRE sí misma (metalenguaje).",
+            comoExplicar: [
+                "Para opinión vs hecho: YO + PIENSO + afirmación = opinión. Sin esa marca = hecho objetivo. La cara importa tanto como las manos.",
+                "Practiquen debate familiar: Uno persuade con cejas levantadas (urgencia), el otro refuta con negación facial. La cara ES la gramática.",
+            ],
+            truco: "La 'inicialización' es clave para vocabulario académico: seña base + letra inicial del español. CIENCIA = investigar + C. FILOSOFÍA = pensar profundo + F.",
+            error_comun: "Creer que la LSM no puede expresar conceptos abstractos o académicos. PUEDE. Tiene neologismos activos y metalenguaje funcional, como cualquier idioma completo.",
+            actividad_casa: "El Debate Silencioso: Elijan un tema polémico y debatan usando solo LSM. El que convenza más (con señas Y expresión facial) gana.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno produce discurso crítico y persuasivo en LSM, distingue registros sociolingüísticos y utiliza metalenguaje para analizar la estructura de la lengua.",
+            competencia: "Pensamiento Crítico y Metalingüística — SEP Plan 2022",
+        },
+        keywords: ["pensamiento critico lsm", "metalenguaje señas", "discurso persuasivo lsm"],
+    });
+}
+if (PRIMARIA_6.materias["matematicas"]) {
+    PRIMARIA_6.materias["matematicas"].bloques.push({
+        bloque: 7,
+        nombre: "Álgebra en el aire (LSM)",
+        meses: "Julio",
+        enClase: ["Variables y ecuaciones en LSM", "Coordenadas cartesianas con el cuerpo", "Probabilidad y azar", "Pensamiento lógico-abstracto"],
+        guiaPapa: {
+            intro: "Las variables algebraicas flotan con interrogación, el plano cartesiano se construye con los brazos, y la probabilidad se expresa con la cara de duda. ¡Las matemáticas abstractas son perfectamente expresables en LSM!",
+            comoExplicar: [
+                "Variable X: forma la letra X con el alfabeto manual y agrégale una sacudida interrogativa (¿qué valor tiene?).",
+                "Plano cartesiano: un brazo horizontal (eje X), otro vertical (eje Y). Para (3,2): cuenta 3 en el horizontal, 2 en el vertical, señala el cruce.",
+            ],
+            truco: "SI...ENTONCES (condicional): cejas levantadas para la condición (espacio izquierdo), pausa, cejas neutras para la consecuencia (espacio derecho). ¡Es programación visual!",
+            error_comun: "Pensar que las matemáticas abstractas NO se pueden expresar en LSM. La distribución espacial de la LSM es ideal para álgebra y geometría analítica.",
+            actividad_casa: "Coordenadas Humanas: Uno dibuja el plano con los brazos, el otro ubica puntos en el espacio tridimensional. Inviertan roles.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno opera con variables algebraicas, expresa lógica condicional y ubica coordenadas en un plano cartesiano corporal.",
+            competencia: "Pensamiento Lógico-Matemático Abstracto — SEP Plan 2022",
+        },
+        keywords: ["algebra lsm", "coordenadas señas", "logica condicional lsm"],
+    });
+}
+if (PRIMARIA_6.materias["ciencias"]) {
+    PRIMARIA_6.materias["ciencias"].bloques.push({
+        bloque: 7,
+        nombre: "Planeta en nuestras manos (LSM)",
+        meses: "Julio",
+        enClase: ["Cambio climático en LSM", "Energías renovables", "Biotecnología básica", "Responsabilidad ambiental global"],
+        guiaPapa: {
+            intro: "El cambio climático, la biotecnología y las energías renovables se expresan con señas compuestas que desglosan conceptos complejos en narrativas visuales. ¡La doble hélice del ADN se reproduce con las manos!",
+            comoExplicar: [
+                "CAMBIO CLIMÁTICO: CAMBIO (manos intercambian posiciones) + CLIMA (movimiento circular sobre la cabeza) + expresión facial de preocupación.",
+                "ADN/GENÉTICA: ambas manos en espiral ascendente, imitando la doble hélice. Es ciencia molecular hecha arte cinético.",
+            ],
+            truco: "La 'huella de carbono' se descompone: HUELLA (sello del pie) + CONTAMINACIÓN (humo subiendo) + PLANETA (esfera). La LSM puede explicar CUALQUIER concepto científico.",
+            error_comun: "No agregar la expresión facial de preocupación al hablar de crisis climática. En LSM, la emoción no es extra: ES parte del significado gramatical.",
+            actividad_casa: "Noticieros Verdes: Presenten noticias ambientales en LSM, como reporteros. Incluyan datos (porcentajes que ya aprendieron) y propuestas de solución.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno comunica conceptos de ciencia ambiental y biotecnología utilizando señas compuestas, descomposición conceptual y marcadores emocionales gramaticales.",
+            competencia: "Ciudadanía Ambiental y Comunicación Científica — SEP Plan 2022",
+        },
+        keywords: ["cambio climatico lsm", "energias renovables señas", "adn lengua señas"],
+    });
+}
+if (PRIMARIA_6.materias["historia"]) {
+    PRIMARIA_6.materias["historia"].bloques.push({
+        bloque: 7,
+        nombre: "México y el mundo (LSM)",
+        meses: "Julio",
+        enClase: ["México contemporáneo en LSM", "Globalización y tecnología", "Derechos digitales y ciberseguridad", "La comunidad sorda en México hoy"],
+        guiaPapa: {
+            intro: "El cierre épico: DEMOCRACIA = PUEBLO + DECIDE. INTERNET = nodos girando conectados. Y el dato más importante: en 2005, el Congreso de México reconoció la LSM como lengua nacional. ¡Conocer sus derechos es poder!",
+            comoExplicar: [
+                "DEMOCRACIA: PUEBLO (dedos moviéndose juntos) + DECIDIR (mano que baja firmemente). El pueblo que decide.",
+                "CONTRASEÑA/PRIVACIDAD: puño cerrado que gira frente a la boca como un candado. Enseñen ciberseguridad en LSM.",
+            ],
+            truco: "La Ley General para la Inclusión (2005) reconoce la LSM como patrimonio lingüístico. Las personas sordas tienen DERECHO LEGAL a educación, salud y justicia en su lengua.",
+            error_comun: "Creer que las lenguas de señas son iguales en todo el mundo. Cada país tiene la suya: LSM (México), ASL (EE.UU.), LSE (España). Son idiomas distintos.",
+            actividad_casa: "Derechos en Acción: Investiguen juntos los artículos que protegen los derechos de las personas sordas en México y preséntenlos en un mini-documental en LSM.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno contextualiza la LSM como patrimonio lingüístico nacional, comprende el marco legal mexicano de inclusión y ejerce ciudadanía digital responsable.",
+            competencia: "Ciudadanía Global e Identidad Lingüística — SEP Plan 2022",
+        },
+        keywords: ["democracia lsm", "derechos digitales señas", "comunidad sorda mexico"],
+    });
+}
+
 // Nota: PRIMARIA_3 y KINDER se importan al comienzo del archivo
 
 export const GRADOS_CONTENIDO: Record<string, GradoContenido> = {

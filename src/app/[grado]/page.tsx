@@ -444,6 +444,47 @@ export default async function GradoPage({ params }: Props) {
                             </div>
                         )}
 
+                        {/* BANNER DESTACADO LSM - Primaria 6 (FINAL) */}
+                        {grado.slug === 'primaria-6' && (
+                            <div className="mb-10 rounded-3xl p-6 sm:p-8 relative overflow-hidden transition-all hover:scale-[1.01]" style={{ background: "linear-gradient(135deg, rgba(6, 182, 212, 0.15) 0%, rgba(8, 145, 178, 0.1) 100%)", border: "1px solid rgba(6, 182, 212, 0.3)", boxShadow: "0 10px 40px -10px rgba(6, 182, 212, 0.15)" }}>
+                                <div className="absolute top-0 right-0 -mr-4 -mt-4 text-9xl opacity-5 pointer-events-none">🤟</div>
+                                <div className="relative z-10">
+                                    <div className="flex items-center gap-3 mb-4">
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#06B6D425", color: "#67E8F9" }}>
+                                            🎓 LSM Nivel Final
+                                        </span>
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#F59E0B25", color: "#FCD34D" }}>
+                                            ¡Cierre de Primaria!
+                                        </span>
+                                    </div>
+                                    <h3 className="font-fredoka text-3xl sm:text-4xl text-white mb-3">
+                                        Lengua de Señas en <span className="text-cyan-400">6° Primaria</span> 🎓🤟
+                                    </h3>
+                                    <p className="text-white/70 text-sm sm:text-base max-w-2xl mb-6 leading-relaxed">
+                                        ¡Nivel maestro! Pensamiento crítico, álgebra abstracta, cambio climático, derechos digitales y el cierre con la historia de la comunidad sorda de México. ¡Graduación LSM!
+                                    </p>
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+                                        <Link href="/primaria-6/espanol/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(6, 182, 212, 0.1)", border: "1px solid rgba(6, 182, 212, 0.2)" }}>
+                                            <span className="text-cyan-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-cyan-300">📖 Español</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Pensamiento Crítico →</span>
+                                        </Link>
+                                        <Link href="/primaria-6/historia/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(245, 158, 11, 0.1)", border: "1px solid rgba(245, 158, 11, 0.2)" }}>
+                                            <span className="text-amber-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-amber-300">🌐 Historia</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">México y el Mundo →</span>
+                                        </Link>
+                                        <Link href="/primaria-6/ciencias/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(34, 197, 94, 0.1)", border: "1px solid rgba(34, 197, 94, 0.2)" }}>
+                                            <span className="text-green-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-green-300">🌍 C. Naturales</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Cambio Climático y ADN →</span>
+                                        </Link>
+                                        <Link href="/primaria-6/matematicas/bloque-7" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(139, 92, 246, 0.1)", border: "1px solid rgba(139, 92, 246, 0.2)" }}>
+                                            <span className="text-violet-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-violet-300">📐 Matemáticas</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Álgebra en el Aire →</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+
                         {/* Materias con contenido masticado (content-primaria.ts) */}
                         {(() => {
                             const gradoMasticado = GRADOS_CONTENIDO[grado.slug];
