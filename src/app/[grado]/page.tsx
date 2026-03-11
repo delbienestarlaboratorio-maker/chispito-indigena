@@ -526,6 +526,88 @@ export default async function GradoPage({ params }: Props) {
                             </div>
                         )}
 
+                        {/* BANNER DESTACADO LSM - Secundaria 2 */}
+                        {grado.slug === 'secundaria-2' && (
+                            <div className="mb-10 rounded-3xl p-6 sm:p-8 relative overflow-hidden transition-all hover:scale-[1.01]" style={{ background: "linear-gradient(135deg, rgba(139, 92, 246, 0.15) 0%, rgba(124, 58, 237, 0.1) 100%)", border: "1px solid rgba(139, 92, 246, 0.3)", boxShadow: "0 10px 40px -10px rgba(139, 92, 246, 0.15)" }}>
+                                <div className="absolute top-0 right-0 -mr-4 -mt-4 text-9xl opacity-5 pointer-events-none">⚗️</div>
+                                <div className="relative z-10">
+                                    <div className="flex items-center gap-3 mb-4">
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#8B5CF625", color: "#C4B5FD" }}>
+                                            📗 Secundaria 2 LSM
+                                        </span>
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-wider" style={{ background: "#F59E0B25", color: "#FCD34D" }}>
+                                            ⚗️ Nivel Avanzado
+                                        </span>
+                                    </div>
+                                    <h3 className="font-fredoka text-3xl sm:text-4xl text-white mb-3">
+                                        Lengua de Señas en <span className="text-violet-400">2° Secundaria</span> ⚗️📗
+                                    </h3>
+                                    <p className="text-white/70 text-sm sm:text-base max-w-2xl mb-6 leading-relaxed">
+                                        ¡Filosofía y ciencia avanzada! Ensayos argumentativos, trigonometría corporal, tabla periódica con clasificadores de estado, y la historia del movimiento estudiantil de 1968 en LSM.
+                                    </p>
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+                                        <Link href="/secundaria-2/espanol/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(139, 92, 246, 0.1)", border: "1px solid rgba(139, 92, 246, 0.2)" }}>
+                                            <span className="text-violet-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-violet-300">📖 Español</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">El Ensayo Visual →</span>
+                                        </Link>
+                                        <Link href="/secundaria-2/historia/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(245, 158, 11, 0.1)", border: "1px solid rgba(245, 158, 11, 0.2)" }}>
+                                            <span className="text-amber-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-amber-300">✊ Historia</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Porfiriato al Presente →</span>
+                                        </Link>
+                                        <Link href="/secundaria-2/ciencias/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(34, 197, 94, 0.1)", border: "1px solid rgba(34, 197, 94, 0.2)" }}>
+                                            <span className="text-green-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-green-300">⚗️ Ciencias</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Tabla Periódica →</span>
+                                        </Link>
+                                        <Link href="/secundaria-2/matematicas/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(99, 102, 241, 0.1)", border: "1px solid rgba(99, 102, 241, 0.2)" }}>
+                                            <span className="text-indigo-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-indigo-300">📐 Matemáticas</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Trigonometría Visual →</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+
+                        {/* BANNER DESTACADO LSM - Secundaria 3 (CIERRE ÉPICO) */}
+                        {grado.slug === 'secundaria-3' && (
+                            <div className="mb-10 rounded-3xl p-6 sm:p-8 relative overflow-hidden transition-all hover:scale-[1.01]" style={{ background: "linear-gradient(135deg, rgba(234, 179, 8, 0.15) 0%, rgba(202, 138, 4, 0.1) 100%)", border: "1px solid rgba(234, 179, 8, 0.3)", boxShadow: "0 10px 40px -10px rgba(234, 179, 8, 0.15)" }}>
+                                <div className="absolute top-0 right-0 -mr-4 -mt-4 text-9xl opacity-5 pointer-events-none">🏆</div>
+                                <div className="relative z-10">
+                                    <div className="flex items-center gap-3 mb-4">
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#EAB30825", color: "#FDE68A" }}>
+                                            🏆 Cierre Total LSM
+                                        </span>
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#EF444425", color: "#FCA5A5" }}>
+                                            🎓 Último Grado
+                                        </span>
+                                    </div>
+                                    <h3 className="font-fredoka text-3xl sm:text-4xl text-white mb-3">
+                                        Lengua de Señas en <span className="text-yellow-400">3° Secundaria</span> 🏆🎓
+                                    </h3>
+                                    <p className="text-white/70 text-sm sm:text-base max-w-2xl mb-6 leading-relaxed">
+                                        ¡El cierre épico! Poesía visual y Orgullo Sordo, parábolas trazadas en el aire, bioética del implante coclear, y la lucha mundial por los derechos lingüísticos desde el Congreso de Milán (1880) hasta hoy.
+                                    </p>
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+                                        <Link href="/secundaria-3/espanol/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(234, 179, 8, 0.1)", border: "1px solid rgba(234, 179, 8, 0.2)" }}>
+                                            <span className="text-yellow-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-yellow-300">🎭 Español</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Poesía y Orgullo →</span>
+                                        </Link>
+                                        <Link href="/secundaria-3/historia/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(239, 68, 68, 0.1)", border: "1px solid rgba(239, 68, 68, 0.2)" }}>
+                                            <span className="text-red-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-red-300">🌍 Historia</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Derechos Humanos →</span>
+                                        </Link>
+                                        <Link href="/secundaria-3/ciencias/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(16, 185, 129, 0.1)", border: "1px solid rgba(16, 185, 129, 0.2)" }}>
+                                            <span className="text-emerald-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-emerald-300">🧬 Ciencias</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Bioética →</span>
+                                        </Link>
+                                        <Link href="/secundaria-3/matematicas/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(59, 130, 246, 0.1)", border: "1px solid rgba(59, 130, 246, 0.2)" }}>
+                                            <span className="text-blue-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-blue-300">📈 Matemáticas</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Funciones y Futuro →</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+
                         {/* Materias con contenido masticado (content-primaria.ts) */}
                         {(() => {
                             const gradoMasticado = GRADOS_CONTENIDO[grado.slug];

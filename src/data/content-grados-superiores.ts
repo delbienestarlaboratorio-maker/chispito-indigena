@@ -4066,6 +4066,130 @@ if (SECUNDARIA_1.materias["historia"]) {
     });
 }
 
+// === Bloque 6: Lengua de Señas Mexicana (LSM) para Secundaria 2 ===
+if (SECUNDARIA_2.materias["espanol"]) {
+    SECUNDARIA_2.materias["espanol"].bloques.push({
+        bloque: 6, nombre: "El ensayo visual (LSM)", meses: "Julio",
+        enClase: ["Ensayo argumentativo en LSM", "Textos filosóficos y abstracción", "Registro académico avanzado", "Producción de videotextos formales"],
+        guiaPapa: {
+            intro: "JUSTICIA = balanza equilibrada. LIBERTAD = romper cadenas. ÉTICA = corazón + camino correcto. La filosofía VUELA en LSM. Los videotextos son la literatura académica de la comunidad sorda, aceptados por universidades en todo el mundo.",
+            comoExplicar: ["Ensayo en LSM: INTRODUCCIÓN (centro) → DESARROLLO (izquierda, marcadores PRIMERO/SEGUNDO) → CONCLUSIÓN (derecha, asentimiento enfático).", "Registro formal = señas amplias y pausadas. Coloquial = señas pequeñas y rápidas. Como escribir un ensayo vs. mandar un texto."],
+            truco: "Los videotextos son el equivalente visual de textos escritos. Gallaudet University acepta tesis en ASL filmada. México avanza hacia lo mismo con LSM.",
+            error_comun: "Creer que la LSM solo sirve para conversaciones cotidianas. Puede expresar filosofía, ciencia y literatura con la misma profundidad que cualquier idioma.",
+            actividad_casa: "Ensayo Filmado: Elijan un tema polémico y cada uno grabe un ensayo de 3 min en LSM. Analicen la estructura espacial y los conectores.",
+        },
+        guiaMaestro: { objetivo: "El alumno produce ensayos argumentativos en LSM con estructura espacial y registro académico.", competencia: "Producción de Textos Académicos Multimodales — SEP Plan 2022" },
+        keywords: ["ensayo lsm", "videotexto académico", "filosofía señas"],
+    });
+}
+if (SECUNDARIA_2.materias["matematicas"]) {
+    SECUNDARIA_2.materias["matematicas"].bloques.push({
+        bloque: 6, nombre: "Sistemas y triángulos (LSM)", meses: "Julio",
+        enClase: ["Sistemas de ecuaciones en LSM", "Trigonometría introductoria", "Funciones lineales y gráficas", "Notación matemática avanzada"],
+        guiaPapa: {
+            intro: "Sistemas de ecuaciones en el espacio: una ecuación a la izquierda, otra a la derecha, JUNTAS en el centro. SENO = S + triángulo. COSENO = C + triángulo. La pendiente es la inclinación de la mano.",
+            comoExplicar: ["Sistema: Ecuación 1 (izquierda) + Ecuación 2 (derecha) + JUNTAS (manos que unen). El señante puede 'volver' a cada ecuación.", "RAÍZ CUADRADA = trazar √ en el aire sobre el número. La notación se dibuja literalmente."],
+            truco: "La pendiente en LSM es visual: mano que sube = positiva (↗), mano que baja = negativa (↘), mano horizontal = cero.",
+            error_comun: "No distinguir los espacios de cada ecuación en un sistema. Cada ecuación necesita su propio espacio claramente definido.",
+            actividad_casa: "Trigonómetros Corporales: Formen triángulos con los brazos y señalen SENO, COSENO, TANGENTE con las iniciales sobre cada lado.",
+        },
+        guiaMaestro: { objetivo: "El alumno resuelve sistemas de ecuaciones y aplica funciones trigonométricas usando distribución espacial en LSM.", competencia: "Álgebra y Trigonometría Inclusiva — SEP Plan 2022" },
+        keywords: ["trigonometria lsm", "sistemas ecuaciones señas", "raiz cuadrada lsm"],
+    });
+}
+if (SECUNDARIA_2.materias["ciencias"]) {
+    SECUNDARIA_2.materias["ciencias"].bloques.push({
+        bloque: 6, nombre: "La tabla invisible (LSM)", meses: "Julio",
+        enClase: ["Tabla periódica en LSM", "Reacciones químicas", "Estados de la materia y sus transiciones", "Laboratorio inclusivo"],
+        guiaPapa: {
+            intro: "Cada elemento = símbolo químico (letras manuales) + clasificador de estado (gas = flotando, sólido = puño, líquido = ondulación). Las reacciones químicas se muestran como TRANSFORMACIONES donde las manos cambian de configuración.",
+            comoExplicar: ["Hidrógeno = H + gas flotando. Hierro = F+E + puño sólido. El alumno aprende el estado y el símbolo simultáneamente.", "Reacción: Reactivos (izquierda) → TRANSFORMACIÓN (manos girando) → Productos (derecha)."],
+            truco: "Fusión: puño → mano abierta ondulante. Evaporación: ondulación → manos flotando. Cada transición es un MOVIMIENTO.",
+            error_comun: "Creer que personas sordas no pueden trabajar en laboratorios. PUEDEN. Solo necesitan alertas visuales en lugar de sonoras.",
+            actividad_casa: "Tabla Periódica Familiar: Practiquen señar 10 elementos con su símbolo + estado. H(gas), Fe(sólido), Hg(líquido).",
+        },
+        guiaMaestro: { objetivo: "El alumno representa elementos, reacciones y transiciones de estado usando la notación LSM y aplica protocolos de laboratorio inclusivo.", competencia: "Química Inclusiva y Seguridad en Laboratorio — SEP Plan 2022" },
+        keywords: ["tabla periodica lsm", "quimica señas", "laboratorio inclusivo sordos"],
+    });
+}
+if (SECUNDARIA_2.materias["historia"]) {
+    SECUNDARIA_2.materias["historia"].bloques.push({
+        bloque: 6, nombre: "De Porfirio al presente (LSM)", meses: "Julio",
+        enClase: ["El Porfiriato en LSM", "Post-revolución y modernización", "Movimiento estudiantil de 1968", "México democrático y derechos de minorías"],
+        guiaPapa: {
+            intro: "DICTADURA = UNA-PERSONA + MANDAR + SIEMPRE. PROTESTA = puño levantado + marcha. La Federación Mexicana de Sordos (1951) unificó la lucha: 1866 primera escuela → 1951 federación → 2005 reconocimiento legal.",
+            comoExplicar: ["Contrasta DICTADURA vs DEMOCRACIA en LSM: uno-mandando-siempre vs pueblo-decide. La diferencia visual es enorme.", "PROGRESO = manos avanzando y abriéndose, como un abanico que se despliega."],
+            truco: "Línea temporal de la comunidad sorda: 1866 (escuela) → 1951 (federación) → 2005 (ley). Son 140 años de lucha organizada.",
+            error_comun: "Omitir la historia de la comunidad sorda al hablar de derechos de minorías en México. Son parte fundamental del mosaico de diversidad.",
+            actividad_casa: "Debate Histórico: ¿Fue el Porfiriato 'progreso' o 'dictadura'? Debatan en LSM usando las señas de cada concepto.",
+        },
+        guiaMaestro: { objetivo: "El alumno analiza el México moderno desde el Porfiriato hasta el presente, integrando la historia de la comunidad sorda como parte del relato nacional.", competencia: "Historia de México y Diversidad Cultural — SEP Plan 2022" },
+        keywords: ["porfiriato lsm", "movimiento 1968 señas", "federacion sordos mexico"],
+    });
+}
+
+// === Bloque 6: Lengua de Señas Mexicana (LSM) para Secundaria 3 (CIERRE TOTAL) ===
+if (SECUNDARIA_3.materias["espanol"]) {
+    SECUNDARIA_3.materias["espanol"].bloques.push({
+        bloque: 6, nombre: "Literatura sin fronteras (LSM)", meses: "Julio",
+        enClase: ["Literatura universal adaptada a LSM", "Análisis semiótico: signos visuales", "Poesía en lengua de señas", "Identidad lingüística y orgullo sordo"],
+        guiaPapa: {
+            intro: "Shakespeare en LSM no es traducción: es RECREACIÓN. La poesía en LSM usa 'rima visual' (simetría de manos) en lugar de rima fonética. Y el Orgullo Sordo dice: 'No soy un oyente roto. Soy una persona Sorda con mayúscula, con lengua y cultura propias.'",
+            comoExplicar: ["Romeo y Julieta en LSM: el balcón se 'construye' con clasificadores, Romeo 'sube' con el cuerpo, los diálogos usan cambio de rol.", "Los 4 parámetros de cada seña: configuración manual + ubicación + movimiento + expresión facial. Eso es semiótica."],
+            truco: "Poesía en LSM = simetría de manos + repetición de movimientos + ritmo corporal. Clayton Valli demostró que la poesía NO necesita sonido.",
+            error_comun: "Creer que la literatura 'real' solo existe en forma escrita. Los videotextos y la poesía en LSM son formas literarias completas y válidas.",
+            actividad_casa: "Poesía Visual: Cada uno crea un poema corto (4 versos) en LSM usando rima visual: señas con la misma configuración manual. Grábenlo.",
+        },
+        guiaMaestro: { objetivo: "El alumno recrea obras literarias universales en LSM, analiza la semiótica visual de las señas y reflexiona sobre identidad lingüística.", competencia: "Literatura Universal e Identidad Lingüística — SEP Plan 2022" },
+        keywords: ["poesia lsm", "orgullo sordo", "literatura señas mexicana"],
+    });
+}
+if (SECUNDARIA_3.materias["matematicas"]) {
+    SECUNDARIA_3.materias["matematicas"].bloques.push({
+        bloque: 6, nombre: "Funciones y futuro (LSM)", meses: "Julio",
+        enClase: ["Funciones cuadráticas en LSM", "Probabilidad avanzada y combinatoria", "Notación científica", "Matemáticas y tecnología asistiva"],
+        guiaPapa: {
+            intro: "La parábola se TRAZA en el aire (U o U invertida). La notación científica usa niveles espaciales: el exponente se señala MÁS ARRIBA que la línea base. Y la educación matemática inclusiva ya es posible con videoconferencia + intérprete + pizarra digital.",
+            comoExplicar: ["Parábola: mano traza la curva, otra marca el vértice. U = positiva, U invertida = negativa.", "3×10⁵: TRES + POR + DIEZ + CINCO(arriba). El superíndice es un NIVEL ESPACIAL."],
+            truco: "COMBINACIÓN = manos entrelazándose de múltiples formas. PERMUTACIÓN = dedos alineados en secuencia. El orden importa.",
+            error_comun: "No elevar el exponente espacialmente. Si CINCO está al mismo nivel que DIEZ, parece 10×5, no 10⁵.",
+            actividad_casa: "Notación Científica Corporal: Uno señala un número en notación científica, el otro lo convierte a estándar. Ejemplo: 5×10³ = 5,000.",
+        },
+        guiaMaestro: { objetivo: "El alumno grafica funciones cuadráticas en el espacio, usa notación científica con niveles espaciales y aplica combinatoria con estrategias visuales.", competencia: "Matemáticas Avanzadas e Inclusión Tecnológica — SEP Plan 2022" },
+        keywords: ["funciones cuadraticas lsm", "notacion cientifica señas", "parabola lengua señas"],
+    });
+}
+if (SECUNDARIA_3.materias["ciencias"]) {
+    SECUNDARIA_3.materias["ciencias"].bloques.push({
+        bloque: 6, nombre: "La química de la vida (LSM)", meses: "Julio",
+        enClase: ["Química orgánica básica en LSM", "ADN y genética molecular", "Biotecnología y bioética", "Ciencia inclusiva: científicos sordos"],
+        guiaPapa: {
+            intro: "La cadena carbonada se CONSTRUYE en el espacio: C-C-C-C como eslabones. El debate sobre implantes cocleares es bioética real: no es una 'cura' sino una opción. Laurent Clerc, sordo francés, fundó la educación de sordos en América (1817).",
+            comoExplicar: ["Cadena de carbono: C + C + C enlazados con dedos. Doble enlace = 2 dedos entrelazados. Ramificación = desvío hacia arriba.", "El implante coclear es una opción válida, pero la comunidad sorda pide que no sea la ÚNICA. La LSM es igualmente válida."],
+            truco: "GEN en LSM = espiral ascendente + G. Para GJB2: G + J + B + DOS. La genética de la sordera se estudia con orgullo, como diversidad.",
+            error_comun: "Presentar la sordera solo como 'enfermedad'. El modelo cultural dice: es una diferencia lingüística. Ambas perspectivas (médica y cultural) son válidas.",
+            actividad_casa: "Debate Bioético: ¿Deben los padres oyentes decidir implantes cocleares para bebés sordos? Argumenten EN LSM con estructura tesis-evidencia-conclusión.",
+        },
+        guiaMaestro: { objetivo: "El alumno comprende la química orgánica molecular, analiza la bioética del implante coclear y reconoce las contribuciones de científicos sordos.", competencia: "Ciencia, Bioética e Inclusión — SEP Plan 2022" },
+        keywords: ["quimica organica lsm", "implante coclear debate", "cientificos sordos"],
+    });
+}
+if (SECUNDARIA_3.materias["historia"]) {
+    SECUNDARIA_3.materias["historia"].bloques.push({
+        bloque: 6, nombre: "El mundo que heredamos (LSM)", meses: "Julio",
+        enClase: ["Siglo XX: guerras mundiales en LSM", "Derechos humanos universales", "Movimiento global de derechos Sordos", "El futuro: inteligencia artificial y accesibilidad"],
+        guiaPapa: {
+            intro: "DERECHOS HUMANOS = D-que-sube + forma humana. El Congreso de Milán (1880) PROHIBIÓ las lenguas de señas por 100+ años. México tiene ~40 intérpretes certificados para ~2 millones de personas sordas. CADA persona que aprende LSM reduce esa brecha.",
+            comoExplicar: ["Congreso de Milán 1880: educadores OYENTES votaron prohibir señas. Niños castigados por señar. Fue hasta 2010 que se disculparon.", "CDPD de la ONU (Art. 21): los Estados DEBEN facilitar lenguas de señas en relaciones oficiales. México ratificó en 2008."],
+            truco: "Línea temporal: 1880 (prohibición) → 1951 (federación MX) → 2005 (ley MX) → 2008 (CDPD) → presente. Del castigo al derecho.",
+            error_comun: "Ignorar la historia de opresión lingüística. Saber que las señas fueron PROHIBIDAS durante 100 años da contexto a la lucha actual.",
+            actividad_casa: "Documental Final: Produzcan un mini-documental en LSM resumiendo TODO lo aprendido sobre la historia de la comunidad sorda en México. ¡Cierre épico!",
+        },
+        guiaMaestro: { objetivo: "El alumno sitúa el movimiento de derechos Sordos dentro del marco de derechos humanos universales y reflexiona sobre el futuro de la accesibilidad.", competencia: "Ciudadanía Global, Derechos Humanos y Justicia Lingüística — SEP Plan 2022" },
+        keywords: ["congreso milan 1880", "derechos humanos sordos", "cdpd mexico lsm"],
+    });
+}
+
 // Exportación para agregar a GRADOS_CONTENIDO
 export const GRADOS_SUPERIORES: Record<string, GradoContenido> = {
     "preescolar-1": PREESCOLAR_1,
