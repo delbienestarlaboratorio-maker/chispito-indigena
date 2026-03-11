@@ -485,6 +485,47 @@ export default async function GradoPage({ params }: Props) {
                             </div>
                         )}
 
+                        {/* BANNER DESTACADO LSM - Secundaria 1 */}
+                        {grado.slug === 'secundaria-1' && (
+                            <div className="mb-10 rounded-3xl p-6 sm:p-8 relative overflow-hidden transition-all hover:scale-[1.01]" style={{ background: "linear-gradient(135deg, rgba(99, 102, 241, 0.15) 0%, rgba(79, 70, 229, 0.1) 100%)", border: "1px solid rgba(99, 102, 241, 0.3)", boxShadow: "0 10px 40px -10px rgba(99, 102, 241, 0.15)" }}>
+                                <div className="absolute top-0 right-0 -mr-4 -mt-4 text-9xl opacity-5 pointer-events-none">🤟</div>
+                                <div className="relative z-10">
+                                    <div className="flex items-center gap-3 mb-4">
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#6366F125", color: "#A5B4FC" }}>
+                                            📘 Secundaria LSM
+                                        </span>
+                                        <span className="inline-block px-3 py-1 text-xs font-bold rounded-full uppercase tracking-wider" style={{ background: "#22C55E25", color: "#4ADE80" }}>
+                                            Nivel Adolescente
+                                        </span>
+                                    </div>
+                                    <h3 className="font-fredoka text-3xl sm:text-4xl text-white mb-3">
+                                        Lengua de Señas en <span className="text-indigo-400">1° Secundaria</span> 🤟📘
+                                    </h3>
+                                    <p className="text-white/70 text-sm sm:text-base max-w-2xl mb-6 leading-relaxed">
+                                        ¡Nivel academia! Literacidad bilingüe sorda-oyente, ecuaciones algebraicas en el espacio, física con vectores corporales e historia de la primera escuela para sordos en América (México, 1866).
+                                    </p>
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+                                        <Link href="/secundaria-1/espanol/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(99, 102, 241, 0.1)", border: "1px solid rgba(99, 102, 241, 0.2)" }}>
+                                            <span className="text-indigo-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-indigo-300">📖 Español</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Literacidad Bilingüe →</span>
+                                        </Link>
+                                        <Link href="/secundaria-1/historia/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(245, 158, 11, 0.1)", border: "1px solid rgba(245, 158, 11, 0.2)" }}>
+                                            <span className="text-amber-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-amber-300">🏛️ Historia</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Civilizaciones y Sordos →</span>
+                                        </Link>
+                                        <Link href="/secundaria-1/ciencias/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(34, 197, 94, 0.1)", border: "1px solid rgba(34, 197, 94, 0.2)" }}>
+                                            <span className="text-green-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-green-300">⚡ Ciencias</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Fuerzas y Energía →</span>
+                                        </Link>
+                                        <Link href="/secundaria-1/matematicas/bloque-6" className="flex flex-col p-3 rounded-xl transition-colors group" style={{ background: "rgba(139, 92, 246, 0.1)", border: "1px solid rgba(139, 92, 246, 0.2)" }}>
+                                            <span className="text-violet-400 text-xs font-bold mb-1 uppercase tracking-wide group-hover:text-violet-300">📐 Matemáticas</span>
+                                            <span className="text-white/90 text-sm font-semibold group-hover:text-white">Ecuaciones Aéreas →</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                        )}
+
                         {/* Materias con contenido masticado (content-primaria.ts) */}
                         {(() => {
                             const gradoMasticado = GRADOS_CONTENIDO[grado.slug];

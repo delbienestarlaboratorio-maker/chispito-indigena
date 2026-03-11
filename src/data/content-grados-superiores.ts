@@ -3972,6 +3972,100 @@ export const SECUNDARIA_3: GradoContenido = {
     },
 };
 
+// === Bloque 6: Lengua de Señas Mexicana (LSM) para Secundaria 1 ===
+if (SECUNDARIA_1.materias["espanol"]) {
+    SECUNDARIA_1.materias["espanol"].bloques.push({
+        bloque: 6,
+        nombre: "Letras que se ven (LSM)",
+        meses: "Julio",
+        enClase: ["Literacidad crítica en LSM", "Análisis de discurso visual", "Traducción cultural: español ↔ LSM", "Producción de textos argumentativos en señas"],
+        guiaPapa: {
+            intro: "A nivel secundaria, la LSM se estudia como LENGUA COMPLETA con su propia lingüística. Tu hijo aprenderá que la 'literacidad' sorda no es solo leer español: incluye videotextos, cambio de rol como cita textual, y argumentación tridimensional.",
+            comoExplicar: [
+                "La traducción español-LSM no es palabra por palabra. El español usa SVO (Sujeto-Verbo-Objeto), la LSM usa Tema-Comentario. Son SISTEMAS diferentes.",
+                "El 'cambio de rol' es el equivalente de las comillas: el señante gira el torso y 'se convierte' en la persona citada. Es teatro + gramática.",
+            ],
+            truco: "Para argumentar en LSM: tesis (centro), evidencia (izquierda), conclusión (derecha). El señante puede 'volver' físicamente a cualquier punto de su argumento.",
+            error_comun: "Pensar que la LSM es una versión 'visual' del español. NO lo es. Es una lengua independiente con gramática, léxico y pragmática propios.",
+            actividad_casa: "Videotexto Familiar: Graben un argumento de 2 minutos en LSM sobre un tema actual. Analicen: ¿se usó cambio de rol? ¿Se distribuyó espacialmente?",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno produce y analiza textos argumentativos en LSM, distingue entre traducción literal y cultural, y aplica el concepto de literacidad bilingüe.",
+            competencia: "Literacidad Bilingüe y Análisis del Discurso — SEP Plan 2022",
+        },
+        keywords: ["literacidad sorda", "argumentación lsm", "traducción cultural señas"],
+    });
+}
+if (SECUNDARIA_1.materias["matematicas"]) {
+    SECUNDARIA_1.materias["matematicas"].bloques.push({
+        bloque: 6,
+        nombre: "Ecuaciones en el espacio (LSM)",
+        meses: "Julio",
+        enClase: ["Ecuaciones lineales en LSM", "Números negativos y positivos", "Geometría analítica corporal", "Estadística descriptiva visual"],
+        guiaPapa: {
+            intro: "Las ecuaciones algebraicas vuelan en LSM: 2X + 3 = 7 se señala secuencialmente con operadores (MÁS = dedos cruzándose, IGUAL = manos paralelas sincrónicas). Los números negativos bajan: el índice desciende antes del número.",
+            comoExplicar: [
+                "Ecuación completa: DOS + X(sacudida) + MÁS + TRES + IGUAL + SIETE. El IGUAL es dos manos que se nivelan perfectamente.",
+                "Negativos: NEGATIVO (flecha abajo con índice) + el número. Es intuitivo con una recta numérica vertical.",
+            ],
+            truco: "PROMEDIO en LSM no tiene una sola seña: se DESCOMPONE en SUMAR + TODOS + DIVIDIR + CANTIDAD. ¡Es más claro que la palabra 'promedio' porque explica el procedimiento!",
+            error_comun: "Usar la misma velocidad para todos los elementos de la ecuación. Los operadores (+ - = ÷) deben señarse con pausa clara para no confundir los números.",
+            actividad_casa: "Ecuaciones Humanas: Uno señala una ecuación en LSM y el otro la resuelve. Cámbien la X por Y, Z. Inviertan roles.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno expresa y resuelve ecuaciones lineales utilizando la notación secuencial de la LSM, incluyendo operadores y variables.",
+            competencia: "Álgebra Visual y Notación Matemática Inclusiva — SEP Plan 2022",
+        },
+        keywords: ["ecuaciones lsm", "algebra señas", "numeros negativos lsm"],
+    });
+}
+if (SECUNDARIA_1.materias["ciencias"]) {
+    SECUNDARIA_1.materias["ciencias"].bloques.push({
+        bloque: 6,
+        nombre: "Fuerzas invisibles (LSM)",
+        meses: "Julio",
+        enClase: ["Fuerza y movimiento en LSM", "Energía cinética y potencial", "Ondas y sonido (ironía productiva)", "Método científico visual"],
+        guiaPapa: {
+            intro: "La física en LSM es fascinante: FUERZA = bíceps + dirección vectorial. La energía cinética SE MUEVE (vibración + traslación), la potencial VIBRA SIN MOVERSE (tensión estática). Y la comunidad sorda experimenta el sonido como vibración táctil.",
+            comoExplicar: [
+                "FUERZA: flexionar el brazo (ícono) + apuntar la dirección con el índice. Es un vector visual perfecto.",
+                "El sonido no se 'escucha' igual, pero las personas sordas SÍ experimentan vibraciones: los bajos musicales, el motor de un camión, un trueno a través del suelo.",
+            ],
+            truco: "El método científico en LSM ocupa 5 espacios: OBSERVAR (ojos), PREGUNTAR (cejas), HIPÓTESIS (pienso + quizás), EXPERIMENTAR (manos activas), CONCLUIR (manos cerrando).",
+            error_comun: "Asumir que las personas sordas no pueden estudiar física del sonido. PUEDEN. La acústica se estudia como fenómeno vibratorio, no como experiencia auditiva.",
+            actividad_casa: "Laboratoria Vibratorio: Pongan un altavoz sobre una mesa con arena. Observen los patrones de vibración (ondas de Chladni). Es física visual pura.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno expresa magnitudes vectoriales y conceptos de energía usando la LSM, y aplica el método científico como secuencia espacial.",
+            competencia: "Física Inclusiva y Experiencia Sensorial Alternativa — SEP Plan 2022",
+        },
+        keywords: ["fisica lsm", "fuerza vectorial señas", "sonido vibracion sordos"],
+    });
+}
+if (SECUNDARIA_1.materias["historia"]) {
+    SECUNDARIA_1.materias["historia"].bloques.push({
+        bloque: 6,
+        nombre: "Civilizaciones en señas (LSM)",
+        meses: "Julio",
+        enClase: ["Civilizaciones antiguas en LSM", "La Edad Media: feudalismo y cruzadas", "Renacimiento y humanismo", "Conexiones: comunidad sorda en la historia"],
+        guiaPapa: {
+            intro: "La historia se construye con señas compuestas: CIVILIZACIÓN = CIUDAD + CRECER + CULTURA. REY = corona sobre la frente (masculino), REINA = corona sobre la mejilla (femenino). Y un dato ÉPICO: la primera escuela para sordos en América se fundó en México en 1866.",
+            comoExplicar: [
+                "RENACIMIENTO = NACER + OTRA VEZ. Es literal: algo que 'nace de nuevo'. El arte, la ciencia y el pensamiento re-naciendo.",
+                "Dato histórico: en 1866, Benito Juárez fundó la Escuela Nacional de Sordomudos, la primera de Latinoamérica. México fue pionero en educación para sordos.",
+            ],
+            truco: "Los marcadores de género son consistentes: frente = masculino, mejilla = femenino. REY/REINA, SEÑOR/SEÑORA, MAESTRO/MAESTRA siguen la misma regla.",
+            error_comun: "Creer que la comunidad sorda no tiene historia. Tiene una historia RICA de lucha por derechos, desarrollo de lenguas de señas propias, y contribuciones culturales.",
+            actividad_casa: "Línea del Tiempo de la Comunidad Sorda en México: Investiguen los hitos (1866, 1951, 2005) y preséntenlos en LSM usando la línea temporal espacial.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno contextualiza las civilizaciones antiguas y modernas usando señas compuestas, y sitúa la historia de la comunidad sorda dentro del relato histórico nacional.",
+            competencia: "Historia Universal e Identidad Comunitaria Sorda — SEP Plan 2022",
+        },
+        keywords: ["civilizaciones lsm", "historia sordos mexico", "escuela sordomudos 1866"],
+    });
+}
+
 // Exportación para agregar a GRADOS_CONTENIDO
 export const GRADOS_SUPERIORES: Record<string, GradoContenido> = {
     "preescolar-1": PREESCOLAR_1,
