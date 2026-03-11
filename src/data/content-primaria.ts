@@ -2022,6 +2022,109 @@ PRIMARIA_2.materias["educacion_fisica"].bloques.push({
 });
 
 // Índice de todos los grados disponibles
+
+// === Bloque 6: Lengua de Señas Mexicana (LSM) para Primaria 3 ===
+if (PRIMARIA_3.materias["espanol"]) {
+    PRIMARIA_3.materias["espanol"].bloques.push({
+        bloque: 6,
+        nombre: "Palabras precisas (LSM)",
+        meses: "Julio",
+        enClase: ["Adverbios: Cómo y Cuándo", "Opuestos y Antónimos en señas", "Estructura de un cuento", "Preguntas compuestas"],
+        guiaPapa: {
+            intro: "A los 8-9 años, tu hijo ya puede manejar conceptos relacionales abstractos. Aprenderá cómo cambiar el significado de una seña alterando su velocidad o dirección.",
+            comoExplicar: [
+                "Jueguen a los opuestos: Tú haces la seña de 'Subir' y él debe hacer la de 'Bajar' (mismo concepto, diferente dirección).",
+                "Inventen un minicuento. Empiecen juntos con la seña de 'Había una vez...' (manos girando hacia atrás sobre el hombro).",
+            ],
+            truco: "La velocidad de una seña altera su significado. Si la seña de 'Caminar' la haces rapidísimo, significa 'Correr'. El adverbio está incorporado en la acción.",
+            error_comun: "Hacer preguntas usando solo las manos. Una vez más: para preguntar '¿Por qué?' o '¿Cómo?', la expresión facial (el ceño) es el 50% del mensaje en LSM.",
+            actividad_casa: "El Detective del Pasado: Tu hijo te hace 3 preguntas (qué, cómo, cuándo) sobre algo que hiciste 'Ayer' (usando la seña del pasado).",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno emplea adverbios espaciales y domina la estructura dual de opuestos morfológicos en LSM.",
+            competencia: "Lingüística Visual Abstracta — SEP Plan 2022",
+        },
+        keywords: ["adverbios lsm", "antonimos señas", "cuentos lengua señas"],
+    });
+}
+if (PRIMARIA_3.materias["matematicas"]) {
+    PRIMARIA_3.materias["matematicas"].bloques.push({
+        bloque: 6,
+        nombre: "Mis manos calculan (LSM)",
+        meses: "Julio",
+        enClase: ["Números hasta el 1000", "Geometría básica en LSM", "Peso y medidas", "El calendario completo"],
+        guiaPapa: {
+            intro: "Entrando a los miles y al concepto visual de medida. Aprenderán a 'dibujar' geometría en el aire y escalar números grandes.",
+            comoExplicar: [
+                "Para la seña de 'MIL', enséñale que una mano es la hoja de papel y la otra es el 'sello' que la estampa.",
+                "Dibujen figuras en el aire: Cuadrados, rectángulos, círculos. Observen cómo las manos deben coordinarse.",
+            ],
+            truco: "La LSM es mímica sistematizada. Si quieren decir 'PESADO', actúen como si sostuvieran una piedra; para 'LIVIANO', como si sostuvieran una pluma. Las manos reaccionan al peso.",
+            error_comun: "Tratar de hacer números grandes con muchos dedos. A partir del 100, usamos configuraciones (formas) o movimientos específicos (como el sello del 1,000).",
+            actividad_casa: "La semana loca: Usa la seña de un día de la semana para referirte a las actividades que harán ese día. ¡Visualicen juntos el calendario!",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno maneja escalas numéricas hasta el millar y clasifica formas geométricas tridimensionales en el espacio viso-gestual.",
+            competencia: "Razonamiento Geométrico y Escalar — SEP Plan 2022",
+        },
+        keywords: ["numeros mil lsm", "geometria señas", "medidas lsm"],
+    });
+}
+if (PRIMARIA_3.materias["ciencias"]) {
+    PRIMARIA_3.materias["ciencias"].bloques.push({
+        bloque: 6,
+        nombre: "Explorando la Naturaleza (LSM)",
+        meses: "Julio",
+        enClase: ["El Sistema Solar en LSM", "Estados de la materia (Agua, Hielo, Gas)", "Anatomía avanzada: Órganos", "Clasificación de animales"],
+        guiaPapa: {
+            intro: "La ciencia es fascinante en señas. La translación del Sistema Solar o el paso de sólido a gas se explican visualmente con las manos.",
+            comoExplicar: [
+                "Hagan la órbita de la Tierra: Un puño es el Sol estacionario, y la otra mano da una vuelta a su alrededor.",
+                "Practiquen la transformación: Muestren 'Agua' (fluida) y pasen a 'Hielo' (contrayendo/endureciendo las manos).",
+            ],
+            truco: "Para la anatomía interna (corazón, pulmones, estómago), la seña siempre se coloca espacialmente sobre el área real del cuerpo a la que pertenece.",
+            error_comun: "Inventar señas para los planetas. La LSM tiene un corpus establecido. 'Tierra' es la mano girando alrededor de su eje (el puño).",
+            actividad_casa: "Zoológico Silencioso: Pídele que te clasifique tres animales entre 'Salvajes' o 'Domésticos' usando su seña base más el clasificador de bosque o casa.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno ilustra conceptos físicos (órbitas, materia) y anatómicos internos aplicando clasificadores espaciales descriptivos.",
+            competencia: "Ciencia Visual y Clasificadores — SEP Plan 2022",
+        },
+        keywords: ["sistema solar lsm", "organos lengua señas", "estados materia lsm"],
+    });
+}
+// 3° Primaria usa "formacion" como materia cívica fundamental.
+if (!PRIMARIA_3.materias["formacion"]) {
+    PRIMARIA_3.materias["formacion"] = {
+        materia: "formacion",
+        nombre: "Formación",
+        emoji: "🤝",
+        color: "#10B981",
+        bloques: [],
+    };
+}
+PRIMARIA_3.materias["formacion"].bloques.push({
+    bloque: 6,
+    nombre: "Valores en mis manos (LSM)",
+    meses: "Julio",
+    enClase: ["Inclusión y Respeto", "Reglas de convivencia sana", "Tolerancia vs Discriminación", "Derechos de los niños sordos"],
+    guiaPapa: {
+        intro: "Este es el bloque más importante para construir empatía. Su hijo aprenderá cómo acercarse e incluir a personas neurodivergentes o con discapacidad motriz/auditiva.",
+        comoExplicar: [
+            "Enséñale la seña de 'Persona Sorda' (tocar oreja y boca), explicando por qué la palabra 'sordomudo' no se debe utilizar.",
+            "Para decirle 'Te ayudo', muestra cómo la seña sale de ti hacia él. Para 'Ayúdame', viene de él hacia ti.",
+        ],
+        truco: "La seña de 'PAZ' es alisar o bajar el aire con las palmas. Háganlo cuando el niño esté sobrestimulado; la seña misma es una técnica de autorregulación.",
+        error_comun: "Ocultarse o hacer la seña hacia abajo al decir 'Respeto'. El respeto se honra; la seña debe subir y proyectarse hacia el otro.",
+        actividad_casa: "Contrato de paz: Establezcan que la seña de PAZ o AYUDA será su 'palabra de seguridad' cuando alguien necesite un momento de calma en casa.",
+    },
+    guiaMaestro: {
+        objetivo: "El alumno asimila terminología correcta sobre la inclusión y emplea la LSM para nombrar y gestionar estados emocionales sociales como la paz o la ayuda.",
+        competencia: "Ética Inclusiva y Empatía — SEP Plan 2022",
+    },
+    keywords: ["valores lsm", "derechos discapacidad visual", "inclusion lengua señas"],
+});
+
 // Nota: PRIMARIA_3 y KINDER se importan al comienzo del archivo
 
 export const GRADOS_CONTENIDO: Record<string, GradoContenido> = {

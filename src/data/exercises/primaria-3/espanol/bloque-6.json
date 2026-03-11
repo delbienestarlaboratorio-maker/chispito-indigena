@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-3",
+    "materia": "espanol",
+    "bloque": 6,
+    "nombre": "Palabras precisas (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Adverbios: Cómo y Cuándo",
+        "Opuestos y Antónimos en señas",
+        "Estructura de un cuento",
+        "Preguntas compuestas"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p3-esp-b6-v1-001",
+                "tema": "Adverbios: Cómo y Cuándo",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos que algo se hizo 'RÁPIDO' en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "Ponemos el pulgar levantado frente a nosotros y lo movemos hacia adelante con un movimiento ágil y repentino.",
+                    "Agitamos ambas manos a los lados del cuerpo.",
+                    "Hacemos el gesto de correr con los brazos en nuestro lugar."
+                ],
+                "respuestaCorrecta": "Ponemos el pulgar levantado frente a nosotros y lo movemos hacia adelante con un movimiento ágil y repentino.",
+                "explicacion": "¡Correcto! En LSM, 'rápido' no es imitar correr, es un movimiento seco y veloz del pulgar hacia adelante. La velocidad de la seña refuerza el significado. ⚡"
+            },
+            {
+                "id": "p3-esp-b6-v1-002",
+                "tema": "Opuestos y Antónimos",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En LSM, muchos antónimos (opuestos) se hacen con el mismo movimiento de la mano pero en dirección contraria (por ejemplo, ABRIR vs CERRAR).",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! La LSM es muy lógica. Si 'abrir' es separar las manos, 'cerrar' es juntarlas. Si 'subir' es hacia arriba, 'bajar' es la misma seña hacia abajo. ↔️"
+            },
+            {
+                "id": "p3-esp-b6-v1-003",
+                "tema": "Preguntas compuestas",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para preguntar '¿POR QUÉ?' golpeamos ligeramente nuestros dedos índice y medio (juntos) contra nuestra ___, frunciendo el ceño.",
+                "respuestaCorrecta": "frente",
+                "explicacion": "¡Así es! Los razonamientos y los 'por qué' nacen del cerebro, por eso la seña se hace en la frente. No olvides el ceño fruncido o dejará de ser una pregunta. 🤔"
+            },
+            {
+                "id": "p3-esp-b6-v1-004",
+                "tema": "Estructura de un cuento",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Si un cuento en LSM empieza con las manos abiertas girando hacia atrás repetidamente sobre el hombro derecho, ¿qué significa?",
+                "opciones": [
+                    "Significa 'Había una vez...' o 'Hace mucho tiempo...'",
+                    "Significa 'Fin del cuento'.",
+                    "Significa 'Un monstruo mágico'."
+                ],
+                "respuestaCorrecta": "Significa 'Había una vez...' o 'Hace mucho tiempo...'",
+                "explicacion": "¡Correcto! Recordando que el PASADO está detrás de nosotros en la línea temporal de la LSM, mover las manos repetidamente hacia atrás indica un tiempo muy, muy remoto en el pasado. 📖"
+            }
+        ]
+    },
+    "generado": "2026-03-10T18:40:00.000Z",
+    "version": "3.0"
+}
