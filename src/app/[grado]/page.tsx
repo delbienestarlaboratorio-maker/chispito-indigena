@@ -4,8 +4,10 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import { AdBannerHorizontal, AdSidebar } from "@/components/AdBanner";
-import BuscadorPagina from "@/components/BuscadorPagina";
 import { notFound } from "next/navigation";
+import dynamic from "next/dynamic";
+
+const BuscadorPagina = dynamic(() => import("@/components/BuscadorPagina"), { ssr: false });
 import KinderUniverse from "@/components/KinderUniverse";
 
 interface Props {
