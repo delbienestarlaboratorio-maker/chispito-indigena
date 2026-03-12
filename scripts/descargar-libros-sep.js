@@ -89,6 +89,7 @@ const LIBROS = [
     { codigo: "P6SDA", nombre: "Nuestros Saberes", grado: "primaria-6", nivel: "primaria", materia: "saberes" },
 
     // ════ SECUNDARIA 1° ════
+    { codigo: "S1MLA", nombre: "Múltiples Lenguajes", grado: "secundaria-1", nivel: "secundaria", materia: "lenguaje" },
     { codigo: "S1ESA", nombre: "Español", grado: "secundaria-1", nivel: "secundaria", materia: "espanol" },
     { codigo: "S1MAA", nombre: "Matemáticas", grado: "secundaria-1", nivel: "secundaria", materia: "matematicas" },
     { codigo: "S1HSA", nombre: "Historia", grado: "secundaria-1", nivel: "secundaria", materia: "historia" },
@@ -96,12 +97,14 @@ const LIBROS = [
     { codigo: "S1GEA", nombre: "Geografía", grado: "secundaria-1", nivel: "secundaria", materia: "geografia" },
 
     // ════ SECUNDARIA 2° ════
+    { codigo: "S2MLA", nombre: "Múltiples Lenguajes", grado: "secundaria-2", nivel: "secundaria", materia: "lenguaje" },
     { codigo: "S2ESA", nombre: "Español", grado: "secundaria-2", nivel: "secundaria", materia: "espanol" },
     { codigo: "S2MAA", nombre: "Matemáticas", grado: "secundaria-2", nivel: "secundaria", materia: "matematicas" },
     { codigo: "S2HSA", nombre: "Historia Universal", grado: "secundaria-2", nivel: "secundaria", materia: "historia" },
     { codigo: "S2FQA", nombre: "Física y Química", grado: "secundaria-2", nivel: "secundaria", materia: "fisica-quimica" },
 
     // ════ SECUNDARIA 3° ════
+    { codigo: "S3MLA", nombre: "Múltiples Lenguajes", grado: "secundaria-3", nivel: "secundaria", materia: "lenguaje" },
     { codigo: "S3ESA", nombre: "Español", grado: "secundaria-3", nivel: "secundaria", materia: "espanol" },
     { codigo: "S3MAA", nombre: "Matemáticas", grado: "secundaria-3", nivel: "secundaria", materia: "matematicas" },
     { codigo: "S3HSA", nombre: "Historia México", grado: "secundaria-3", nivel: "secundaria", materia: "historia" },

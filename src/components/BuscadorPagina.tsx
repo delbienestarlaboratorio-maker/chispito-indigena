@@ -10,6 +10,9 @@ import { P3MLA_PAGINAS, P3MLA_LIBRO_INFO, buscarPorPaginaP3 } from "@/data/p3mla
 import { P4MLA_PAGINAS, P4MLA_LIBRO_INFO, buscarPorPaginaP4 } from "@/data/p4mla-paginas";
 import { P5MLA_PAGINAS, P5MLA_LIBRO_INFO, buscarPorPaginaP5 } from "@/data/p5mla-paginas";
 import { P6MLA_PAGINAS, P6MLA_LIBRO_INFO, buscarPorPaginaP6 } from "@/data/p6mla-paginas";
+import { S1MLA_PAGINAS, S1MLA_LIBRO_INFO, buscarPorPaginaS1 } from "@/data/s1mla-paginas";
+import { S2MLA_PAGINAS, S2MLA_LIBRO_INFO, buscarPorPaginaS2 } from "@/data/s2mla-paginas";
+import { S3MLA_PAGINAS, S3MLA_LIBRO_INFO, buscarPorPaginaS3 } from "@/data/s3mla-paginas";
 import type { PaginaLibroEntry } from "@/data/k1mla-paginas";
 
 // Mapa de libros por grado
@@ -28,6 +31,9 @@ const LIBROS_POR_GRADO: Record<string, {
     "primaria-4": { paginas: P4MLA_PAGINAS, info: P4MLA_LIBRO_INFO, buscar: buscarPorPaginaP4 },
     "primaria-5": { paginas: P5MLA_PAGINAS, info: P5MLA_LIBRO_INFO, buscar: buscarPorPaginaP5 },
     "primaria-6": { paginas: P6MLA_PAGINAS, info: P6MLA_LIBRO_INFO, buscar: buscarPorPaginaP6 },
+    "secundaria-1": { paginas: S1MLA_PAGINAS, info: S1MLA_LIBRO_INFO, buscar: buscarPorPaginaS1 },
+    "secundaria-2": { paginas: S2MLA_PAGINAS, info: S2MLA_LIBRO_INFO, buscar: buscarPorPaginaS2 },
+    "secundaria-3": { paginas: S3MLA_PAGINAS, info: S3MLA_LIBRO_INFO, buscar: buscarPorPaginaS3 },
 };
 
 const CAMPO_LABELS: Record<string, string> = {
