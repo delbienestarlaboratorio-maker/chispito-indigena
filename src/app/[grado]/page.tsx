@@ -118,7 +118,7 @@ export default async function GradoPage({ params }: Props) {
                         </p>
 
                         {/* Buscador por página del libro - preescolar con libro mapeado */}
-                        {['preescolar-1', 'preescolar-2', 'preescolar-3', 'kinder', 'primaria-1', 'primaria-2'].includes(grado.slug) && (
+                        {['preescolar-1', 'preescolar-2', 'preescolar-3', 'kinder', 'primaria-1', 'primaria-2', 'primaria-3', 'primaria-4', 'primaria-5', 'primaria-6'].includes(grado.slug) && (
                             <div className="mb-8">
                                 <BuscadorPagina gradoSlug={grado.slug} />
                             </div>
