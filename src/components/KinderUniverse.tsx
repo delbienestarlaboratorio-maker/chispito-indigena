@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { Lock, Unlock, PlayCircle, BookOpen, Star } from "lucide-react";
+import BuscadorPagina from "@/components/BuscadorPagina";
 
 // Data Structure for the 12 Monthly Pipi Stories
 const PIPI_STORIES = [
@@ -59,8 +60,13 @@ export default function KinderUniverse({ grado }: { grado: any }) {
                 <div className="absolute bottom-10 left-20 text-white/20 text-6xl rotate-12">🖍️</div>
             </div>
 
+            {/* Buscador por página del libro SEP */}
+            <div className="max-w-2xl mx-auto px-4 mt-10">
+                <BuscadorPagina gradoSlug={grado.slug} />
+            </div>
+
             {/* Calendario de Historias */}
-            <div className="max-w-6xl mx-auto px-4 mt-16">
+            <div className="max-w-6xl mx-auto px-4 mt-10">
                 <div className="flex items-center justify-between mb-8">
                     <h2 className="font-fredoka text-3xl md:text-4xl text-white flex items-center gap-3">
                         <BookOpen size={32} className="text-yellow-400" />

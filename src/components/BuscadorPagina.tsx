@@ -4,6 +4,7 @@ import Link from "next/link";
 import { K1MLA_PAGINAS, K1MLA_LIBRO_INFO, buscarPorPagina } from "@/data/k1mla-paginas";
 import { K2MLA_PAGINAS, K2MLA_LIBRO_INFO, buscarPorPaginaK2 } from "@/data/k2mla-paginas";
 import { K3MLA_PAGINAS, K3MLA_LIBRO_INFO, buscarPorPaginaK3 } from "@/data/k3mla-paginas";
+import { P1MLA_PAGINAS, P1MLA_LIBRO_INFO, buscarPorPaginaP1 } from "@/data/p1mla-paginas";
 import type { PaginaLibroEntry } from "@/data/k1mla-paginas";
 
 // Mapa de libros por grado
@@ -16,6 +17,7 @@ const LIBROS_POR_GRADO: Record<string, {
     "preescolar-2": { paginas: K2MLA_PAGINAS, info: K2MLA_LIBRO_INFO, buscar: buscarPorPaginaK2 },
     "preescolar-3": { paginas: K3MLA_PAGINAS, info: K3MLA_LIBRO_INFO, buscar: buscarPorPaginaK3 },
     "kinder": { paginas: K3MLA_PAGINAS, info: K3MLA_LIBRO_INFO, buscar: buscarPorPaginaK3 },
+    "primaria-1": { paginas: P1MLA_PAGINAS, info: P1MLA_LIBRO_INFO, buscar: buscarPorPaginaP1 },
 };
 
 const CAMPO_LABELS: Record<string, string> = {
