@@ -2,6 +2,18 @@
 import { useState } from "react";
 import Link from "next/link";
 import { K1MLA_PAGINAS, K1MLA_LIBRO_INFO, buscarPorPagina } from "@/data/k1mla-paginas";
+import { K2MLA_PAGINAS, K2MLA_LIBRO_INFO, buscarPorPaginaK2 } from "@/data/k2mla-paginas";
+import type { PaginaLibroEntry } from "@/data/k1mla-paginas";
+
+// Mapa de libros por grado
+const LIBROS_POR_GRADO: Record<string, {
+    paginas: PaginaLibroEntry[];
+    info: typeof K1MLA_LIBRO_INFO;
+    buscar: (p: number) => PaginaLibroEntry | null;
+}> = {
+    "preescolar-1": { paginas: K1MLA_PAGINAS, info: K1MLA_LIBRO_INFO, buscar: buscarPorPagina },
+    "preescolar-2": { paginas: K2MLA_PAGINAS, info: K2MLA_LIBRO_INFO, buscar: buscarPorPaginaK2 },
+};
 
 const CAMPO_LABELS: Record<string, string> = {
     lenguaje: "📖 Lenguaje", artes: "🎨 Artes", conocimiento: "🔍 Exploración",
@@ -15,13 +27,17 @@ const MATERIA_LABELS: Record<string, string> = {
 
 export default function BuscadorPagina({ gradoSlug = "preescolar-1" }: { gradoSlug?: string }) {
     const [pagina, setPagina] = useState("");
-    const [resultado, setResultado] = useState<ReturnType<typeof buscarPorPagina>>(null);
+    const [resultado, setResultado] = useState<PaginaLibroEntry | null>(null);
     const [buscado, setBuscado] = useState(false);
+
+    // Seleccionar el libro correcto según el grado
+    const libro = LIBROS_POR_GRADO[gradoSlug];
+    if (!libro) return null; // Sin libro para este grado
 
     const handleBuscar = () => {
         const num = parseInt(pagina);
         if (isNaN(num)) { setResultado(null); setBuscado(true); return; }
-        setResultado(buscarPorPagina(num));
+        setResultado(libro.buscar(num));
         setBuscado(true);
     };
 
@@ -37,7 +53,7 @@ export default function BuscadorPagina({ gradoSlug = "preescolar-1" }: { gradoSl
                         ¿En qué página vas del libro?
                     </div>
                     <div style={{ fontSize: "0.7rem", color: "#64748B" }}>
-                        {K1MLA_LIBRO_INFO.nombre} · {K1MLA_LIBRO_INFO.totalPaginas} págs.
+                        {libro.info.nombre} · {libro.info.totalPaginas} págs.
                     </div>
                 </div>
                 <Link href="/buscar-pagina" style={{ marginLeft: "auto", fontSize: "0.65rem", color: "#FBBF24", textDecoration: "none", opacity: 0.7 }}>
@@ -46,7 +62,7 @@ export default function BuscadorPagina({ gradoSlug = "preescolar-1" }: { gradoSl
             </div>
 
             <div style={{ display: "flex", gap: "0.4rem", marginBottom: buscado ? "0.75rem" : 0 }}>
-                <input type="number" min={1} max={163} placeholder="# página..."
+                <input type="number" min={1} max={libro.info.totalPaginas} placeholder="# página..."
                     value={pagina}
                     onChange={e => { setPagina(e.target.value); setBuscado(false); }}
                     onKeyDown={e => e.key === "Enter" && handleBuscar()}
@@ -91,7 +107,7 @@ export default function BuscadorPagina({ gradoSlug = "preescolar-1" }: { gradoSl
                             }}>
                             🎮 Practicar
                         </Link>
-                        <a href={`${K1MLA_LIBRO_INFO.urlVisor}#page/${resultado.paginaInicio}`}
+                        <a href={`${libro.info.urlVisor}#page/${resultado.paginaInicio}`}
                             target="_blank" rel="noopener noreferrer"
                             style={{
                                 flex: 1, padding: "0.5rem", borderRadius: "0.4rem", textDecoration: "none",
@@ -106,9 +122,10 @@ export default function BuscadorPagina({ gradoSlug = "preescolar-1" }: { gradoSl
 
             {buscado && !resultado && (
                 <div style={{ textAlign: "center", padding: "0.5rem", color: "#F9A8D4", fontSize: "0.8rem" }}>
-                    😕 Página no encontrada. Intenta entre 7 y 162.
+                    😕 Página no encontrada. Intenta entre 7 y {libro.info.totalPaginas}.
                 </div>
             )}
         </div>
     );
 }
+

@@ -117,8 +117,8 @@ export default async function GradoPage({ params }: Props) {
                             📅 Mes actual: <span className="text-white/60">{new Date().toLocaleString('es-MX', { month: 'long', year: 'numeric' })}</span>
                         </p>
 
-                        {/* Buscador por página del libro - solo preescolar-1 */}
-                        {grado.slug === 'preescolar-1' && (
+                        {/* Buscador por página del libro - preescolar con libro mapeado */}
+                        {(grado.slug === 'preescolar-1' || grado.slug === 'preescolar-2') && (
                             <div className="mb-8">
                                 <BuscadorPagina gradoSlug={grado.slug} />
                             </div>
