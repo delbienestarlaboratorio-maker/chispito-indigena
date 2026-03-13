@@ -1,0 +1,377 @@
+﻿Build & Deploy	Set up job	´╗┐2026-03-08T22:27:07.3847907Z Current runner version: '2.332.0'
+Build & Deploy	Set up job	2026-03-08T22:27:07.3874391Z ##[group]Runner Image Provisioner
+Build & Deploy	Set up job	2026-03-08T22:27:07.3875492Z Hosted Compute Agent
+Build & Deploy	Set up job	2026-03-08T22:27:07.3876732Z Version: 20260213.493
+Build & Deploy	Set up job	2026-03-08T22:27:07.3877642Z Commit: 5c115507f6dd24b8de37d8bbe0bb4509d0cc0fa3
+Build & Deploy	Set up job	2026-03-08T22:27:07.3878783Z Build Date: 2026-02-13T00:28:41Z
+Build & Deploy	Set up job	2026-03-08T22:27:07.3879816Z Worker ID: {280ee5af-bb07-4751-8d67-c9c2a6a8ce2d}
+Build & Deploy	Set up job	2026-03-08T22:27:07.3881040Z Azure Region: northcentralus
+Build & Deploy	Set up job	2026-03-08T22:27:07.3881948Z ##[endgroup]
+Build & Deploy	Set up job	2026-03-08T22:27:07.3884135Z ##[group]Operating System
+Build & Deploy	Set up job	2026-03-08T22:27:07.3885102Z Ubuntu
+Build & Deploy	Set up job	2026-03-08T22:27:07.3885801Z 24.04.3
+Build & Deploy	Set up job	2026-03-08T22:27:07.3886909Z LTS
+Build & Deploy	Set up job	2026-03-08T22:27:07.3887651Z ##[endgroup]
+Build & Deploy	Set up job	2026-03-08T22:27:07.3888493Z ##[group]Runner Image
+Build & Deploy	Set up job	2026-03-08T22:27:07.3889314Z Image: ubuntu-24.04
+Build & Deploy	Set up job	2026-03-08T22:27:07.3890325Z Version: 20260302.42.1
+Build & Deploy	Set up job	2026-03-08T22:27:07.3892086Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260302.42/images/ubuntu/Ubuntu2404-Readme.md
+Build & Deploy	Set up job	2026-03-08T22:27:07.3895008Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260302.42
+Build & Deploy	Set up job	2026-03-08T22:27:07.3896909Z ##[endgroup]
+Build & Deploy	Set up job	2026-03-08T22:27:07.3898847Z ##[group]GITHUB_TOKEN Permissions
+Build & Deploy	Set up job	2026-03-08T22:27:07.3901676Z Contents: read
+Build & Deploy	Set up job	2026-03-08T22:27:07.3902606Z Metadata: read
+Build & Deploy	Set up job	2026-03-08T22:27:07.3903563Z Packages: read
+Build & Deploy	Set up job	2026-03-08T22:27:07.3904438Z ##[endgroup]
+Build & Deploy	Set up job	2026-03-08T22:27:07.3907692Z Secret source: Actions
+Build & Deploy	Set up job	2026-03-08T22:27:07.3909006Z Prepare workflow directory
+Build & Deploy	Set up job	2026-03-08T22:27:07.4385107Z Prepare all required actions
+Build & Deploy	Set up job	2026-03-08T22:27:07.4440656Z Getting action download info
+Build & Deploy	Set up job	2026-03-08T22:27:07.7675016Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+Build & Deploy	Set up job	2026-03-08T22:27:07.9022810Z Download action repository 'actions/setup-node@v4' (SHA:49933ea5288caeca8642d1e84afbd3f7d6820020)
+Build & Deploy	Set up job	2026-03-08T22:27:08.0042164Z Download action repository 'cloudflare/wrangler-action@v3' (SHA:da0e0dfe58b7a431659754fdf3f186c529afbe65)
+Build & Deploy	Set up job	2026-03-08T22:27:08.5643877Z Complete job name: Build & Deploy
+Build & Deploy	Checkout Repository	´╗┐2026-03-08T22:27:08.6407531Z ##[group]Run actions/checkout@v4
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6408512Z with:
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6409058Z   repository: delbienestarlaboratorio-maker/Chispito
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6409878Z   token: ***
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6410269Z   ssh-strict: true
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6410684Z   ssh-user: git
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6411101Z   persist-credentials: true
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6411568Z   clean: true
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6411982Z   sparse-checkout-cone-mode: true
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6412496Z   fetch-depth: 1
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6412916Z   fetch-tags: false
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6413334Z   show-progress: true
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6413752Z   lfs: false
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6414136Z   submodules: false
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6414581Z   set-safe-directory: true
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.6415268Z ##[endgroup]
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7554156Z Syncing repository: delbienestarlaboratorio-maker/Chispito
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7557895Z ##[group]Getting Git version info
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7559358Z Working directory is '/home/runner/work/Chispito/Chispito'
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7561188Z [command]/usr/bin/git version
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7625227Z git version 2.53.0
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7652682Z ##[endgroup]
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7674103Z Temporarily overriding HOME='/home/runner/work/_temp/c2219de2-e994-438a-bf2c-e4626dde767b' before making global git config changes
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7675691Z Adding repository directory to the temporary git global config as a safe directory
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7679919Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/Chispito/Chispito
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7722006Z Deleting the contents of '/home/runner/work/Chispito/Chispito'
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7725699Z ##[group]Initializing the repository
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7729953Z [command]/usr/bin/git init /home/runner/work/Chispito/Chispito
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7844758Z hint: Using 'master' as the name for the initial branch. This default branch name
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7846591Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7848678Z hint: to use in all of your new repositories, which will suppress this warning,
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7850026Z hint: call:
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7850718Z hint:
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7851696Z hint: 	git config --global init.defaultBranch <name>
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7852358Z hint:
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7852934Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7853906Z hint: 'development'. The just-created branch can be renamed via this command:
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7854633Z hint:
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7855031Z hint: 	git branch -m <name>
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7855563Z hint:
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7856853Z hint: Disable this message with "git config set advice.defaultBranchName false"
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7858088Z Initialized empty Git repository in /home/runner/work/Chispito/Chispito/.git/
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7862317Z [command]/usr/bin/git remote add origin https://github.com/delbienestarlaboratorio-maker/Chispito
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7898101Z ##[endgroup]
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7898920Z ##[group]Disabling automatic garbage collection
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7902014Z [command]/usr/bin/git config --local gc.auto 0
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7932549Z ##[endgroup]
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7933283Z ##[group]Setting up auth
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7939300Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.7971589Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.8338383Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.8368832Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.8606466Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.8640690Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.8883736Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.8921019Z ##[endgroup]
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.8922352Z ##[group]Fetching the repository
+Build & Deploy	Checkout Repository	2026-03-08T22:27:08.8929864Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +ae5069006ba9799cc59fe40cdb33e89611860f26:refs/remotes/origin/main
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.5700785Z From https://github.com/delbienestarlaboratorio-maker/Chispito
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.5702289Z  * [new ref]         ae5069006ba9799cc59fe40cdb33e89611860f26 -> origin/main
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.5736414Z ##[endgroup]
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.5737038Z ##[group]Determining the checkout info
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.5739101Z ##[endgroup]
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.5744091Z [command]/usr/bin/git sparse-checkout disable
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.5787866Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.5816289Z ##[group]Checking out the ref
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.5820275Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.7387936Z Switched to a new branch 'main'
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.7389050Z branch 'main' set up to track 'origin/main'.
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.7423414Z ##[endgroup]
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.7463734Z [command]/usr/bin/git log -1 --format=%H
+Build & Deploy	Checkout Repository	2026-03-08T22:27:10.7488099Z ae5069006ba9799cc59fe40cdb33e89611860f26
+Build & Deploy	Setup Node.js	´╗┐2026-03-08T22:27:10.7729229Z ##[group]Run actions/setup-node@v4
+Build & Deploy	Setup Node.js	2026-03-08T22:27:10.7729634Z with:
+Build & Deploy	Setup Node.js	2026-03-08T22:27:10.7729865Z   node-version: 20
+Build & Deploy	Setup Node.js	2026-03-08T22:27:10.7730106Z   cache: npm
+Build & Deploy	Setup Node.js	2026-03-08T22:27:10.7730327Z   always-auth: false
+Build & Deploy	Setup Node.js	2026-03-08T22:27:10.7730585Z   check-latest: false
+Build & Deploy	Setup Node.js	2026-03-08T22:27:10.7730965Z   token: ***
+Build & Deploy	Setup Node.js	2026-03-08T22:27:10.7731499Z ##[endgroup]
+Build & Deploy	Setup Node.js	2026-03-08T22:27:10.9518549Z Found in cache @ /opt/hostedtoolcache/node/20.20.0/x64
+Build & Deploy	Setup Node.js	2026-03-08T22:27:10.9524999Z ##[group]Environment details
+Build & Deploy	Setup Node.js	2026-03-08T22:27:11.3391439Z node: v20.20.0
+Build & Deploy	Setup Node.js	2026-03-08T22:27:11.3391866Z npm: 10.8.2
+Build & Deploy	Setup Node.js	2026-03-08T22:27:11.3392144Z yarn: 1.22.22
+Build & Deploy	Setup Node.js	2026-03-08T22:27:11.3393490Z ##[endgroup]
+Build & Deploy	Setup Node.js	2026-03-08T22:27:11.3420459Z [command]/opt/hostedtoolcache/node/20.20.0/x64/bin/npm config get cache
+Build & Deploy	Setup Node.js	2026-03-08T22:27:11.4639889Z /home/runner/.npm
+Build & Deploy	Setup Node.js	2026-03-08T22:27:11.5885080Z npm cache is not found
+Build & Deploy	Install Dependencies	´╗┐2026-03-08T22:27:11.6025601Z ##[group]Run npm ci
+Build & Deploy	Install Dependencies	2026-03-08T22:27:11.6025886Z [36;1mnpm ci[0m
+Build & Deploy	Install Dependencies	2026-03-08T22:27:11.6091137Z shell: /usr/bin/bash -e {0}
+Build & Deploy	Install Dependencies	2026-03-08T22:27:11.6091397Z ##[endgroup]
+Build & Deploy	Install Dependencies	2026-03-08T22:27:15.8318252Z npm warn deprecated node-domexception@1.0.0: Use your platform's native DOMException instead
+Build & Deploy	Install Dependencies	2026-03-08T22:27:19.2835167Z npm warn deprecated glob@9.3.5: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7937187Z 
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7938099Z added 713 packages, and audited 714 packages in 18s
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7938583Z 
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7938869Z 193 packages are looking for funding
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7939403Z   run `npm fund` for details
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7994010Z 
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7995049Z 3 vulnerabilities (2 low, 1 moderate)
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7995861Z 
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7996603Z To address all issues, run:
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7997311Z   npm audit fix
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7997525Z 
+Build & Deploy	Install Dependencies	2026-03-08T22:27:29.7997722Z Run `npm audit` for details.
+Build & Deploy	Build Next.js with OpenNext	´╗┐2026-03-08T22:27:29.8554748Z ##[group]Run npm run pages:build
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.8555059Z [36;1mnpm run pages:build[0m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.8605166Z shell: /usr/bin/bash -e {0}
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.8605398Z env:
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.8605570Z   NEXT_TELEMETRY_DISABLED: 1
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.8605885Z   NEXT_PUBLIC_SUPABASE_URL: https://dummy.supabase.co
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.8606469Z   NEXT_PUBLIC_SUPABASE_ANON_KEY: dummy-key
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.8606724Z ##[endgroup]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.9751467Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.9751960Z > chispito@0.1.0 pages:build
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.9752539Z > npx @opennextjs/cloudflare build
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:29.9752791Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0123444Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0124507Z ÔöîÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÉ
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0125269Z Ôöé OpenNext ÔÇö Cloudflare build Ôöé
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0126304Z ÔööÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÿ
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0126603Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0877661Z App directory: /home/runner/work/Chispito/Chispito
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0878439Z Next.js version : 16.1.6
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0891967Z @opennextjs/cloudflare version: 1.17.1
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0892604Z @opennextjs/aws version: 3.9.16
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0915403Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0916403Z ÔöîÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÉ
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0917143Z Ôöé OpenNext ÔÇö Building Next.js app Ôöé
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0917858Z ÔööÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÿ
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.0918164Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.2051057Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.2051761Z > chispito@0.1.0 build
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.2052126Z > next build
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.2052281Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.9428978Z ÔÜá `eslint` configuration in next.config.ts is no longer supported. See more info here: https://nextjs.org/docs/app/api-reference/cli/next#next-lint-options
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.9490539Z ÔÜá Invalid next.config.ts options detected: 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.9491384Z ÔÜá     Unrecognized key(s) in object: 'eslint'
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.9492605Z ÔÜá See more info here: https://nextjs.org/docs/messages/invalid-next-config
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.9534293Z ÔÜá No build cache found. Please configure build caching for faster rebuilds. Read more: https://nextjs.org/docs/messages/no-cache
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.9596636Z Ôû▓ Next.js 16.1.6 (Turbopack)
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.9597315Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:32.9935961Z   Creating an optimized production build ...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8344763Z Turbopack build encountered 3 warnings:
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8346326Z ./src/app/api/libro-sep/[...path]/route.ts:34:37
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8347411Z Ecmascript file had an error
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8357477Z [0m [90m 32 |[39m         [36mconst[39m { [36mdefault[39m[33m:[39m path } [33m=[39m [36mawait[39m [36mimport[39m([32m"path"[39m)[33m;[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8358623Z  [90m 33 |[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8360195Z [31m[1m>[22m[39m[90m 34 |[39m         [36mconst[39m librosDir [33m=[39m path[33m.[39mjoin(process[33m.[39mcwd()[33m,[39m [32m"libros-sep"[39m)[33m;[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8362856Z  [90m    |[39m                                     [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8365101Z  [90m 35 |[39m         [36mconst[39m filePath [33m=[39m path[33m.[39mjoin(librosDir[33m,[39m [33m...[39msegments)[33m;[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8366376Z  [90m 36 |[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8366996Z  [90m 37 |[39m         [90m// Seguridad: evitar directory traversal[39m[0m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8367415Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8368015Z A Node.js API is used (process.cwd at line: 34) which is not supported in the Edge Runtime.
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8368971Z Learn more: https://nextjs.org/docs/api-reference/edge-runtime
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8369392Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8369401Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8369703Z ./src/app/api/libro-sep/[...path]/route.ts:31:39
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8370236Z Ecmascript file had an error
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8371169Z [0m [90m 29 |[39m     [90m// ÔöÇÔöÇ DESARROLLO: servir desde sistema de archivos local ÔöÇÔöÇ[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8372598Z  [90m 30 |[39m     [36mtry[39m {
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8374166Z [31m[1m>[22m[39m[90m 31 |[39m         [36mconst[39m { [36mdefault[39m[33m:[39m fs } [33m=[39m [36mawait[39m [36mimport[39m([32m"fs"[39m)[33m;[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8376844Z  [90m    |[39m                                       [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8379164Z  [90m 32 |[39m         [36mconst[39m { [36mdefault[39m[33m:[39m path } [33m=[39m [36mawait[39m [36mimport[39m([32m"path"[39m)[33m;[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8380199Z  [90m 33 |[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8381273Z  [90m 34 |[39m         [36mconst[39m librosDir [33m=[39m path[33m.[39mjoin(process[33m.[39mcwd()[33m,[39m [32m"libros-sep"[39m)[33m;[39m[0m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8381798Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8382131Z A Node.js module is loaded ('fs' at line 31) which is not supported in the Edge Runtime.
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8382743Z Learn More: https://nextjs.org/docs/messages/node-module-in-edge-runtime
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8383049Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8383055Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8383240Z ./src/app/api/libro-sep/[...path]/route.ts:32:41
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8383551Z Ecmascript file had an error
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8383892Z [0m [90m 30 |[39m     [36mtry[39m {
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8385009Z  [90m 31 |[39m         [36mconst[39m { [36mdefault[39m[33m:[39m fs } [33m=[39m [36mawait[39m [36mimport[39m([32m"fs"[39m)[33m;[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8387410Z [31m[1m>[22m[39m[90m 32 |[39m         [36mconst[39m { [36mdefault[39m[33m:[39m path } [33m=[39m [36mawait[39m [36mimport[39m([32m"path"[39m)[33m;[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8390408Z  [90m    |[39m                                         [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8392355Z  [90m 33 |[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8393604Z  [90m 34 |[39m         [36mconst[39m librosDir [33m=[39m path[33m.[39mjoin(process[33m.[39mcwd()[33m,[39m [32m"libros-sep"[39m)[33m;[39m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8395393Z  [90m 35 |[39m         [36mconst[39m filePath [33m=[39m path[33m.[39mjoin(librosDir[33m,[39m [33m...[39msegments)[33m;[39m[0m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8396414Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8397019Z A Node.js module is loaded ('path' at line 32) which is not supported in the Edge Runtime.
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8398134Z Learn More: https://nextjs.org/docs/messages/node-module-in-edge-runtime
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8398667Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8398679Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8477186Z Ô£ô Compiled successfully in 14.4s
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:47.8499250Z   Skipping validation of types
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:48.1048232Z   Collecting page data using 3 workers ...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:49.1088412Z ÔÜá Using edge runtime on a page currently disables static generation for that page
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:49.4182080Z   Generating static pages using 3 workers (0/244) ...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:50.5232346Z   Generating static pages using 3 workers (61/244) 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:51.2132936Z   Generating static pages using 3 workers (122/244) 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:51.7890648Z   Generating static pages using 3 workers (183/244) 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.3790047Z Ô£ô Generating static pages using 3 workers (244/244) in 5.0s
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.3906630Z   Finalizing page optimization ...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9849503Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9874493Z Route (app)
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9875115Z Ôöî Ôùï /
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9875486Z Ôö£ Ôùï /_not-found
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9875853Z Ôö£ ÔùÅ /[grado]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9876465Z Ôöé Ôö£ /preescolar-1
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9876857Z Ôöé Ôö£ /preescolar-2
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9877620Z Ôöé Ôö£ /kinder
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9878009Z Ôöé Ôöö [+9 more paths]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9878464Z Ôö£ ÔùÅ /[grado]/[materia]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9878945Z Ôöé Ôö£ /kinder/matematicas
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9879403Z Ôöé Ôö£ /kinder/espanol
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9879873Z Ôöé Ôö£ /preescolar-1/artes
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9880355Z Ôöé Ôöö [+22 more paths]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9880880Z Ôö£ ÔùÅ /[grado]/[materia]/[bloque]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9881480Z Ôöé Ôö£ /kinder/matematicas/bloque-1
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9882081Z Ôöé Ôö£ /kinder/matematicas/bloque-2
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9882653Z Ôöé Ôö£ /kinder/matematicas/bloque-3
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9883847Z Ôöé Ôöö [+158 more paths]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9884276Z Ôö£ ãÆ /api/clip/checkout
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9884705Z Ôö£ ãÆ /api/clip/cuadernillo
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9885125Z Ôö£ ãÆ /api/clip/webhook
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9885558Z Ôö£ ãÆ /api/libro-sep/[...path]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9885983Z Ôö£ ãÆ /auth/callback
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9886656Z Ôö£ ãÆ /auth/signout
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9887013Z Ôö£ Ôùï /blog
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9887368Z Ôö£ Ôùï /cuadernillos
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9887811Z Ôö£ ÔùÅ /cuadernillos/[grado]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9888319Z Ôöé Ôö£ /cuadernillos/preescolar-1
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9888918Z Ôöé Ôö£ /cuadernillos/preescolar-2
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9889394Z Ôöé Ôö£ /cuadernillos/kinder
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9889831Z Ôöé Ôöö [+15 more paths]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9890305Z Ôö£ Ôùï /cuadernillos/primaria-1
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9890769Z Ôö£ ÔùÅ /guia-mensual/[grado]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9891276Z Ôöé Ôö£ /guia-mensual/preescolar-1
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9891798Z Ôöé Ôö£ /guia-mensual/preescolar-2
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9892258Z Ôöé Ôö£ /guia-mensual/kinder
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9892727Z Ôöé Ôöö [+9 more paths]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9893100Z Ôö£ Ôùï /icon.svg
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9893490Z Ôö£ ãÆ /libro-sep/[grado]/[tipo]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9893901Z Ôö£ Ôùï /login
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9894220Z Ôö£ ãÆ /mi-cuenta
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9894576Z Ôö£ Ôùï /opengraph-image
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9894923Z Ôö£ Ôùï /pago-error
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9895309Z Ôö£ Ôùï /pago-exitoso
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9895764Z Ôö£ ãÆ /pipi-story/[grado]/[mes]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9896450Z Ôö£ Ôùï /planes
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9896820Z Ôö£ Ôùï /privacidad
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9897158Z Ôö£ Ôùï /robots.txt
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9897515Z Ôö£ Ôùï /sitemap.xml
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9897874Z Ôö£ Ôùï /terminos
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9898222Z Ôöö Ôùï /universo
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9898707Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9898728Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9899101Z Ôùï  (Static)   prerendered as static content
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9899995Z ÔùÅ  (SSG)      prerendered as static HTML (uses generateStaticParams)
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9900857Z ãÆ  (Dynamic)  server-rendered on demand
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:54.9901208Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:55.0822289Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:55.0823545Z ÔöîÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÉ
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:55.0824198Z Ôöé OpenNext ÔÇö Generating bundle Ôöé
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:55.0824760Z ÔööÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÿ
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:55.0825011Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:55.1257120Z Bundling middleware function...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:55.1780888Z Bundling static assets...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:55.2605137Z Bundling cache assets...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:55.7715139Z Building server function: default...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:58.5275060Z Applying code patches: 2.351s
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:58.6917973Z # copyPackageTemplateFiles
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:58.6946416Z [35mÔÜÖ´©Å Bundling the OpenNext server...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:27:58.6946945Z [0m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3661949Z Ôû▓ [WARNING] This case clause will never be evaluated because it duplicates an earlier case clause [duplicate-case]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3662825Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3663513Z     .open-next/server-functions/default/.next/server/chunks/ssr/[root-of-the-server]__972c9d0a._.js:1:147360:
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3664824Z       1 Ôöé ...2:return eu(a,2662,2671,!0,d);case 22:return es(a,1,10999,eq,3,d...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3665564Z         ÔòÁ                                  ~~~~
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3665871Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3666270Z   The earlier case clause is here:
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3666568Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3667239Z     .open-next/server-functions/default/.next/server/chunks/ssr/[root-of-the-server]__972c9d0a._.js:1:147324:
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3668973Z       1 Ôöé ...1:return eu(a,2790,2799,!0,d);case 22:return eu(a,2662,2671,!0,d...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3669692Z         ÔòÁ                                  ~~~~
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3669993Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3977091Z Ôû▓ [WARNING] The "??" operator here will always return the left operand [suspicious-nullish-coalescing]
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3977751Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3978267Z     .open-next/server-functions/default/.next/server/chunks/ssr/[root-of-the-server]__972c9d0a._.js:1:536145:
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3979190Z       1 Ôöé ...hod=(1*("Adam7"===b.interlace))??0,this.setBigEndian()}encode(){...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3979739Z         ÔòÁ                                   ~~
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3979964Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3980602Z   The left operand of the "??" operator here will never be null or undefined, so it will always be returned. This usually indicates a bug in your code:
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3981238Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3981699Z     .open-next/server-functions/default/.next/server/chunks/ssr/[root-of-the-server]__972c9d0a._.js:1:536119:
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3982588Z       1 Ôöé ...._interlaceMethod=(1*("Adam7"===b.interlace))??0,this.setBigEndi...
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3983156Z         ÔòÁ                       ~~~~~~~~~~~~~~~~~~~~~~~~~~
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.3983393Z 
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.8512683Z [35mWorker saved in `.open-next/worker.js` ­ƒÜÇ
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.8513562Z [0m
+Build & Deploy	Build Next.js with OpenNext	2026-03-08T22:28:03.8513904Z OpenNext build complete.
+Build & Deploy	Assemble Edge Assets	´╗┐2026-03-08T22:28:03.9551539Z ##[group]Run mkdir -p .open-next/assets
+Build & Deploy	Assemble Edge Assets	2026-03-08T22:28:03.9552163Z [36;1mmkdir -p .open-next/assets[0m
+Build & Deploy	Assemble Edge Assets	2026-03-08T22:28:03.9552775Z [36;1mcp .open-next/worker.js .open-next/assets/_worker.js[0m
+Build & Deploy	Assemble Edge Assets	2026-03-08T22:28:03.9553568Z [36;1mcp -r .open-next/cloudflare .open-next/assets/cloudflare[0m
+Build & Deploy	Assemble Edge Assets	2026-03-08T22:28:03.9554126Z [36;1mcp -r .open-next/middleware .open-next/assets/middleware[0m
+Build & Deploy	Assemble Edge Assets	2026-03-08T22:28:03.9554612Z [36;1mcp -r .open-next/server-functions .open-next/assets/server-functions[0m
+Build & Deploy	Assemble Edge Assets	2026-03-08T22:28:03.9555037Z [36;1mcp -r .open-next/.build .open-next/assets/.build[0m
+Build & Deploy	Assemble Edge Assets	2026-03-08T22:28:03.9603672Z shell: /usr/bin/bash -e {0}
+Build & Deploy	Assemble Edge Assets	2026-03-08T22:28:03.9603913Z ##[endgroup]
+Build & Deploy	Publish to Cloudflare Pages	´╗┐2026-03-08T22:28:04.1024885Z ##[group]Run cloudflare/wrangler-action@v3
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:04.1025174Z with:
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:04.1025649Z   command: pages deploy .open-next/assets --project-name chispito-mx --branch main
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:04.1026182Z   quiet: false
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:04.1026362Z ##[endgroup]
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:04.2018367Z ##[group]­ƒöì Checking for existing Wrangler installation
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:04.2061677Z [command]/opt/hostedtoolcache/node/20.20.0/x64/bin/npx --no-install wrangler --version
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:05.1713268Z 4.69.0
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:05.2021096Z Ô£à No wrangler version specified, using pre-installed wrangler version 4.69.0
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:05.2022218Z ##[endgroup]
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:05.2022779Z ##[endgroup]
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:05.2025406Z ##[group]­ƒÜÇ Running Wrangler Commands
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:05.2060893Z [command]/opt/hostedtoolcache/node/20.20.0/x64/bin/npx wrangler pages deploy .open-next/assets --project-name chispito-mx --branch main
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.4038095Z 
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.4039118Z  Ôøà´©Å wrangler 4.69.0 (update available 4.71.0)
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.4039843Z ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.4304743Z 
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.4693120Z [31mÔ£ÿ [41;31m[[41;97mERROR[41;31m][0m [1mIn a non-interactive environment, it's necessary to set a CLOUDFLARE_API_TOKEN environment variable for wrangler to work. Please go to https://developers.cloudflare.com/fundamentals/api/get-started/create-token/ for instructions on how to create an api token, and assign its value to CLOUDFLARE_API_TOKEN.[0m
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.4694685Z 
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.4694695Z 
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.5204942Z ­ƒ¬Á  Logs were written to "/home/runner/.config/.wrangler/logs/wrangler-2026-03-08_22-28-05_959.log"
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.6388554Z ##[endgroup]
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.6409572Z ##[error]The process '/opt/hostedtoolcache/node/20.20.0/x64/bin/npx' failed with exit code 1
+Build & Deploy	Publish to Cloudflare Pages	2026-03-08T22:28:06.6419696Z ##[error]­ƒÜ¿ Action failed
+Build & Deploy	Post Checkout Repository	´╗┐2026-03-08T22:28:06.6523477Z Post job cleanup.
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7488657Z [command]/usr/bin/git version
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7527437Z git version 2.53.0
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7570490Z Temporarily overriding HOME='/home/runner/work/_temp/1d88470a-0f81-43d1-b1d3-7c7fdd66f7c3' before making global git config changes
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7572126Z Adding repository directory to the temporary git global config as a safe directory
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7584339Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/Chispito/Chispito
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7619949Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7655575Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7897274Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7919385Z http.https://github.com/.extraheader
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7932048Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.7963718Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.8194893Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+Build & Deploy	Post Checkout Repository	2026-03-08T22:28:06.8226522Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+Build & Deploy	Complete job	´╗┐2026-03-08T22:28:06.8611102Z Cleaning up orphan processes

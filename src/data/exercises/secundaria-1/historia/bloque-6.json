@@ -1,0 +1,66 @@
+{
+    "grado": "secundaria-1",
+    "materia": "historia",
+    "bloque": 6,
+    "nombre": "Civilizaciones en señas (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Civilizaciones antiguas en LSM",
+        "La Edad Media: feudalismo y cruzadas",
+        "Renacimiento y humanismo",
+        "Conexiones: comunidad sorda en la historia"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "s1-his-b6-v1-001",
+                "tema": "Civilizaciones antiguas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se expresaría 'CIVILIZACIÓN' en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "CIUDAD (edificios con las manos) + CRECER (movimiento ascendente) + CULTURA (letra C rotando sobre la cabeza). Es una construcción que une lugar, desarrollo y conocimiento acumulado.",
+                    "Se deletrea C-I-V-I-L-I-Z-A-C-I-Ó-N completa.",
+                    "Se señala al cielo con ambas manos."
+                ],
+                "respuestaCorrecta": "CIUDAD (edificios con las manos) + CRECER (movimiento ascendente) + CULTURA (letra C rotando sobre la cabeza). Es una construcción que une lugar, desarrollo y conocimiento acumulado.",
+                "explicacion": "¡Exacto! La LSM construye conceptos complejos COMPONIENDO partes: ciudad + crecimiento + cultura = civilización. Es como armar LEGO conceptual. Cada pieza aporta significado. 🏛️📈🎓"
+            },
+            {
+                "id": "s1-his-b6-v1-002",
+                "tema": "Edad Media",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La seña de 'REY' en LSM se hace colocando una mano abierta sobre la cabeza (la corona) y bajándola con autoridad. Para 'REINA', se agrega el marcador de género femenino (la mano toca la mejilla).",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! Los marcadores de género en LSM son consistentes: el lado de la mejilla/barbilla indica femenino, el lado de la frente indica masculino. REY = corona + frente. REINA = corona + mejilla. 👑"
+            },
+            {
+                "id": "s1-his-b6-v1-003",
+                "tema": "Renacimiento",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "La seña de 'RENACER' o 'RENACIMIENTO' en LSM combina la seña de NACER (las manos abriéndose desde el centro del cuerpo) con la seña de ___ (el adverbio temporal marca 'otra vez').",
+                "respuestaCorrecta": "otra vez",
+                "explicacion": "¡Correcto! RENACIMIENTO = NACER + OTRA VEZ. Es literal y brillante: algo que 'nace de nuevo'. La historia del arte, la ciencia y el pensamiento 're-naciendo' después de la Edad Media. 🎨🔄"
+            },
+            {
+                "id": "s1-his-b6-v1-004",
+                "tema": "Comunidad sorda en la historia",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Sabías que la primera escuela para sordos en América Latina se fundó en México? ¿En qué año?",
+                "opciones": [
+                    "En 1866, la Escuela Nacional de Sordomudos fue fundada en la Ciudad de México por decreto de Benito Juárez, siendo pionera en el continente.",
+                    "En 1950, por la ONU.",
+                    "En 2005, junto con la ley de inclusión."
+                ],
+                "respuestaCorrecta": "En 1866, la Escuela Nacional de Sordomudos fue fundada en la Ciudad de México por decreto de Benito Juárez, siendo pionera en el continente.",
+                "explicacion": "¡Exacto! México fue PIONERO en educación para sordos en Latinoamérica. Benito Juárez, siendo él mismo de origen indígena, entendía la importancia de incluir a grupos marginados. La Escuela Nacional de Sordomudos fue cuna de la LSM moderna. 🇲🇽📜"
+            }
+        ]
+    },
+    "generado": "2026-03-10T19:50:00.000Z",
+    "version": "3.0"
+}

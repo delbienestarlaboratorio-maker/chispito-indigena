@@ -1,0 +1,66 @@
+{
+    "grado": "secundaria-2",
+    "materia": "espanol",
+    "bloque": 6,
+    "nombre": "El ensayo visual (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Ensayo argumentativo en LSM",
+        "Textos filosóficos y abstracción",
+        "Registro académico avanzado",
+        "Producción de videotextos formales"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "s2-esp-b6-v1-001",
+                "tema": "Ensayo argumentativo",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cuál es la estructura ideal para presentar un ENSAYO en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "INTRODUCCIÓN (espacio central, cejas levantadas anunciando el tema) → DESARROLLO (espacio izquierdo con argumentos marcados secuencialmente: PRIMERO, SEGUNDO, TERCERO) → CONCLUSIÓN (espacio derecho, asentimiento enfático y contacto visual directo).",
+                    "Se deletrean todos los párrafos letra por letra.",
+                    "No existe ensayo en LSM, solo conversaciones informales."
+                ],
+                "respuestaCorrecta": "INTRODUCCIÓN (espacio central, cejas levantadas anunciando el tema) → DESARROLLO (espacio izquierdo con argumentos marcados secuencialmente: PRIMERO, SEGUNDO, TERCERO) → CONCLUSIÓN (espacio derecho, asentimiento enfático y contacto visual directo).",
+                "explicacion": "¡Exacto! El ensayo en LSM es una ARQUITECTURA ESPACIAL: cada sección ocupa un espacio definido. Los conectores (PRIMERO, SEGUNDO, ADEMÁS, SIN EMBARGO) se marcan con la mano no dominante contando dedos. ¡Es un mapa tridimensional de ideas! 📝🗺️"
+            },
+            {
+                "id": "s2-esp-b6-v1-002",
+                "tema": "Abstracción filosófica",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La LSM puede expresar conceptos filosóficos abstractos como 'JUSTICIA', 'LIBERTAD' y 'ÉTICA'. JUSTICIA se señala como una balanza equilibrada con ambas manos. LIBERTAD se señala rompiendo cadenas imaginarias de las muñecas.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! JUSTICIA = balanza equilibrada (ambas manos nivelan). LIBERTAD = romper cadenas de las muñecas (las manos se separan abruptamente). ÉTICA = la mano sobre el corazón + el dedo índice señalando 'el camino correcto'. La filosofía VUELA en LSM. ⚖️🕊️"
+            },
+            {
+                "id": "s2-esp-b6-v1-003",
+                "tema": "Registro académico",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "En el registro académico de la LSM, las señas se ejecutan con mayor ___ y precisión, evitando abreviaturas coloquiales, similar a cómo en español escrito diferenciamos entre un mensaje de texto y un ensayo formal.",
+                "respuestaCorrecta": "amplitud",
+                "explicacion": "¡Correcto! La amplitud del movimiento indica formalidad. Señas pequeñas y rápidas = coloquial. Señas amplias, pausadas y con articulación completa = registro académico. Es como la diferencia entre hablar en una plática y dar una conferencia. 🎓"
+            },
+            {
+                "id": "s2-esp-b6-v1-004",
+                "tema": "Videotextos formales",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué es un 'videotexto' en el contexto de la comunidad sorda?",
+                "opciones": [
+                    "Es el equivalente visual de un texto escrito: una grabación en video de un discurso, ensayo, poema o narrativa producida en LSM, con la misma validez académica que un documento escrito.",
+                    "Es un video con subtítulos automáticos.",
+                    "Es una videollamada entre personas sordas."
+                ],
+                "respuestaCorrecta": "Es el equivalente visual de un texto escrito: una grabación en video de un discurso, ensayo, poema o narrativa producida en LSM, con la misma validez académica que un documento escrito.",
+                "explicacion": "¡Perfecto! Los videotextos son la LITERATURA de la comunidad sorda. Universidades como Gallaudet (EE.UU.) aceptan tesis en videotexto ASL. En México, cada vez más instituciones reconocen los videotextos en LSM como producción académica legítima. 🎥📚"
+            }
+        ]
+    },
+    "generado": "2026-03-10T20:05:00.000Z",
+    "version": "3.0"
+}

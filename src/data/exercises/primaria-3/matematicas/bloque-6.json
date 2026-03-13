@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-3",
+    "materia": "matematicas",
+    "bloque": 6,
+    "nombre": "Mis manos calculan (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Números hasta el 1000",
+        "Geometría básica en LSM",
+        "Peso y medidas",
+        "El calendario completo"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p3-mat-b6-v1-001",
+                "tema": "Números hasta el 1000",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "La seña para 'MIL' (1,000) usa una de las manos como un 'sello'. ¿Contra qué se estampa ese sello?",
+                "opciones": [
+                    "Contra la palma abierta de la otra mano.",
+                    "Contra el pecho.",
+                    "Contra la frente."
+                ],
+                "respuestaCorrecta": "Contra la palma abierta de la otra mano.",
+                "explicacion": "¡Exacto! Haces el número 1, y luego pones la punta de tus dedos (como una letra M) tocando el centro de tu otra palma, como si sellaras un documento oficial. 📜"
+            },
+            {
+                "id": "p3-mat-b6-v1-002",
+                "tema": "Geometría básica en LSM",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir 'CÍRCULO', 'CUADRADO' o 'TRIÁNGULO' en LSM, usamos nuestros dedos índices para dibujar la figura geométrica flotando en el aire frente a nosotros.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! Las figuras geométricas en Lengua de Señas son 100% visuales e icónicas. Literalmente dibujas el contorno de la figura en el espacio. 🔺"
+            },
+            {
+                "id": "p3-mat-b6-v1-003",
+                "tema": "Peso y medidas",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de 'PESADO', usamos ambas manos sosteniendo algo invisible y las dejamos caer ligeramente hacia abajo debido al ___.",
+                "respuestaCorrecta": "peso",
+                "explicacion": "¡Así es! Es como hacer mímica. Si algo pesa mucho, las manos bajan por la gravedad y la cara muestra esfuerzo. ¡Tu expresión facial debe verse 'pesada' también! 🏋️"
+            },
+            {
+                "id": "p3-mat-b6-v1-004",
+                "tema": "El calendario completo",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos 'SEMANA' en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "Usamos el dedo índice de una mano y lo deslizamos de izquierda a derecha sobre la palma abierta de la otra mano (como tachando días).",
+                    "Contamos siete dedos.",
+                    "Hacemos la seña del Sol saliendo y poniéndose 7 veces."
+                ],
+                "respuestaCorrecta": "Usamos el dedo índice de una mano y lo deslizamos de izquierda a derecha sobre la palma abierta de la otra mano (como tachando días).",
+                "explicacion": "¡Bien hecho! La palma abierta representa la hoja del calendario escolar, y el dedo índice cruzándola representa el transcurrir de toda una fila de días. 📅"
+            }
+        ]
+    },
+    "generado": "2026-03-10T18:40:00.000Z",
+    "version": "3.0"
+}

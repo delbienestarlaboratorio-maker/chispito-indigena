@@ -1,0 +1,309 @@
+{
+    "grado": "preescolar-1",
+    "materia": "espanol",
+    "bloque": 6,
+    "nombre": "Letras y palabras en señas (LSM)",
+    "meses": "Todo el ciclo escolar",
+    "temas": [
+        "Abecedario dactilológico",
+        "Palabras básicas en LSM",
+        "Deletrear en señas",
+        "Escritura inclusiva"
+    ],
+    "totalEjercicios": 23,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "pre1-esp-b6-v1-001",
+                "tema": "Abecedario dactilológico",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En LSM existe un abecedario con las manos donde cada letra tiene su seña.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! Se llama abecedario dactilológico. Cada letra A-Z tiene una seña. 🤟🔤"
+            },
+            {
+                "id": "pre1-esp-b6-v1-002",
+                "tema": "Abecedario dactilológico",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se hace la letra A en señas? ✋",
+                "opciones": [
+                    "Puño cerrado con pulgar al lado",
+                    "Mano abierta",
+                    "Dos dedos arriba",
+                    "Pulgar adentro"
+                ],
+                "respuestaCorrecta": "Puño cerrado con pulgar al lado",
+                "explicacion": "¡La A! Cerramos el puño y el pulgar va al lado. ✊🅰️"
+            },
+            {
+                "id": "pre1-esp-b6-v1-003",
+                "tema": "Palabras básicas en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se dice SÍ ✅ en LSM?",
+                "opciones": [
+                    "Puño se mueve como asintiendo",
+                    "Movemos cabeza",
+                    "Aplaudimos",
+                    "Señalamos arriba"
+                ],
+                "respuestaCorrecta": "Puño se mueve como asintiendo",
+                "explicacion": "¡SÍ! El puño sube y baja como diciendo sí. ✅👌"
+            },
+            {
+                "id": "pre1-esp-b6-v1-004",
+                "tema": "Palabras básicas en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Y NO ❌ en LSM?",
+                "opciones": [
+                    "Índice y medio se abren/cierran contra el pulgar",
+                    "Aplaudimos",
+                    "Cruzamos brazos",
+                    "Saltamos"
+                ],
+                "respuestaCorrecta": "Índice y medio se abren/cierran contra el pulgar",
+                "explicacion": "¡NO! Como una boquita que dice no. ❌🚫"
+            },
+            {
+                "id": "pre1-esp-b6-v1-005",
+                "tema": "Deletrear en señas",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Deletrear con las manos se llama abecedario dactiloló___.",
+                "respuestaCorrecta": "gico",
+                "explicacion": "¡Dactilológico! Dactilo = dedos. 🤟📝"
+            },
+            {
+                "id": "pre1-esp-b6-v1-006",
+                "tema": "Abecedario dactilológico",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿La letra O en señas? ⭕",
+                "opciones": [
+                    "Dedos formando círculo",
+                    "Mano abierta",
+                    "Puño cerrado",
+                    "Dos dedos"
+                ],
+                "respuestaCorrecta": "Dedos formando círculo",
+                "explicacion": "¡La O! Dedos se juntan con pulgar en círculo. ⭕🅾️"
+            },
+            {
+                "id": "pre1-esp-b6-v1-007",
+                "tema": "Palabras básicas en LSM",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "NOMBRE en LSM = tocamos la frente con dos dedos.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡NOMBRE! Frente + dos dedos. ¡Puedes tener tu seña personal! 📝✨"
+            },
+            {
+                "id": "pre1-esp-b6-v1-008",
+                "tema": "Escritura inclusiva",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Por qué aprender LSM?",
+                "opciones": [
+                    "Para incluir a todos 🤝",
+                    "Solo examen",
+                    "Un premio",
+                    "No importa"
+                ],
+                "respuestaCorrecta": "Para incluir a todos 🤝",
+                "explicacion": "¡Inclusión! Ningún niño queda fuera. 🤝🌈"
+            },
+            {
+                "id": "pre1-esp-b6-v1-009",
+                "tema": "Abecedario dactilológico",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "La I en señas = solo el dedo ___.",
+                "respuestaCorrecta": "meñique",
+                "explicacion": "¡La I! Solo meñique levantado. 🤙"
+            },
+            {
+                "id": "pre1-esp-b6-v1-010",
+                "tema": "Deletrear en señas",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Puedo deletrear MI NOMBRE letra por letra en señas.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! M-A-R-Í-A → todo en señas. 📝🤟"
+            }
+        ],
+        "v2": [
+            {
+                "id": "pre1-esp-b6-v2-001",
+                "tema": "Abecedario dactilológico",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿La V en señas? ✌️",
+                "opciones": [
+                    "Índice y medio arriba (paz)",
+                    "Puño cerrado",
+                    "Mano abierta",
+                    "Solo meñique"
+                ],
+                "respuestaCorrecta": "Índice y medio arriba (paz)",
+                "explicacion": "¡La V! Victoria. ✌️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-002",
+                "tema": "Palabras básicas en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿LIBRO 📖 en LSM?",
+                "opciones": [
+                    "Palmas abriéndose como libro",
+                    "Puños cerrados",
+                    "Aplaudir",
+                    "Tocar nariz"
+                ],
+                "respuestaCorrecta": "Palmas abriéndose como libro",
+                "explicacion": "¡LIBRO! Palmas = páginas abriéndose. 📖📚"
+            },
+            {
+                "id": "pre1-esp-b6-v2-003",
+                "tema": "Deletrear en señas",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "SOL tiene 3 letras: S, O, ___.",
+                "respuestaCorrecta": "L",
+                "explicacion": "¡S-O-L! La L = pulgar e índice en L. ☀️"
+            },
+            {
+                "id": "pre1-esp-b6-v2-004",
+                "tema": "Escritura inclusiva",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "Las personas sordas pueden leer y escribir español.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! LSM para conversar, español escrito compartido. 📝🤟"
+            },
+            {
+                "id": "pre1-esp-b6-v2-005",
+                "tema": "Abecedario dactilológico",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿La L en señas?",
+                "opciones": [
+                    "Pulgar e índice en L",
+                    "Puño cerrado",
+                    "Todos abiertos",
+                    "Solo meñique"
+                ],
+                "respuestaCorrecta": "Pulgar e índice en L",
+                "explicacion": "¡La L! Perfecta. 🤙👆"
+            },
+            {
+                "id": "pre1-esp-b6-v2-006",
+                "tema": "Palabras básicas en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿ESCUELA 🏫 en LSM?",
+                "opciones": [
+                    "Dos palmaditas suaves",
+                    "Puños cerrados",
+                    "Tocar nariz",
+                    "Saltar"
+                ],
+                "respuestaCorrecta": "Dos palmaditas suaves",
+                "explicacion": "¡ESCUELA! Como la campana. 🏫🔔"
+            },
+            {
+                "id": "pre1-esp-b6-v2-007",
+                "tema": "Deletrear en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cuántas letras tiene el abecedario dactilológico mexicano?",
+                "opciones": [
+                    "27",
+                    "10",
+                    "5",
+                    "100"
+                ],
+                "respuestaCorrecta": "27",
+                "explicacion": "¡27! Incluye la Ñ. 🇲🇽🤟"
+            },
+            {
+                "id": "pre1-esp-b6-v2-008",
+                "tema": "Escritura inclusiva",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "En México la Lengua de Señas oficial = L_M.",
+                "respuestaCorrecta": "S",
+                "explicacion": "¡LSM! Lengua de Señas Mexicana. 🇲🇽🤟"
+            },
+            {
+                "id": "pre1-esp-b6-v2-009",
+                "tema": "Abecedario dactilológico",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "La S en señas = puño con pulgar sobre los dedos.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡La S! Puño cerrado con pulgar envolviendo. 🤜"
+            },
+            {
+                "id": "pre1-esp-b6-v2-010",
+                "tema": "Palabras básicas en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿MAESTRO 👩‍🏫 en LSM?",
+                "opciones": [
+                    "M en la frente y baja",
+                    "Aplaudir",
+                    "Saltar",
+                    "Cerrar ojos"
+                ],
+                "respuestaCorrecta": "M en la frente y baja",
+                "explicacion": "¡MAESTRO! M + frente = sabiduría. 👩‍🏫🍎"
+            }
+        ],
+        "preview": [
+            {
+                "id": "pre1-esp-b6-v1-001",
+                "tema": "Abecedario",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "¿Existe abecedario con manos?",
+                "respuestaCorrecta": "true",
+                "explicacion": "🤟🔤"
+            },
+            {
+                "id": "pre1-esp-b6-v1-003",
+                "tema": "Palabras",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿SÍ en LSM?",
+                "opciones": [
+                    "Puño asintiendo",
+                    "Cabeza",
+                    "Aplaudir",
+                    "Arriba"
+                ],
+                "respuestaCorrecta": "Puño asintiendo",
+                "explicacion": "✅"
+            },
+            {
+                "id": "pre1-esp-b6-v2-002",
+                "tema": "Palabras",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿LIBRO en LSM?",
+                "opciones": [
+                    "Palmas abriendo",
+                    "Puños",
+                    "Aplaudir",
+                    "Nariz"
+                ],
+                "respuestaCorrecta": "Palmas abriendo",
+                "explicacion": "📖"
+            }
+        ]
+    },
+    "generado": "2026-03-11T14:10:00.000Z",
+    "version": "4.0-SEP"
+}

@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-5",
+    "materia": "espanol",
+    "bloque": 7,
+    "nombre": "Expresiones con alma (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Expresiones idiomáticas en LSM",
+        "Registro formal e informal",
+        "Debate y argumentación visual",
+        "Poesía visual: ritmo con las manos"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p5-esp-b7-v1-001",
+                "tema": "Expresiones idiomáticas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "En español decimos 'me cayó el veinte' para indicar que entendimos algo. ¿Cómo se expresa una idea similar en LSM?",
+                "opciones": [
+                    "Se hace la seña de 'ENTENDER' (un dedo índice toca la sien y se abre hacia afuera, como si una idea saliera disparada del cerebro).",
+                    "Se deja caer una moneda imaginaria al suelo.",
+                    "Se escribe 'veinte' en el aire con el dedo."
+                ],
+                "respuestaCorrecta": "Se hace la seña de 'ENTENDER' (un dedo índice toca la sien y se abre hacia afuera, como si una idea saliera disparada del cerebro).",
+                "explicacion": "¡Correcto! La LSM no traduce refranes literalmente. Tiene sus propias expresiones. 'Entender' se expresa directamente: la idea SALE del cerebro. No existe una moneda cayendo. 💡"
+            },
+            {
+                "id": "p5-esp-b7-v1-002",
+                "tema": "Registro formal e informal",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En la Lengua de Señas Mexicana SÍ existe la diferencia entre hablar formal e informalmente. Por ejemplo, las señas se hacen más amplias, más lentas y con mayor espacio corporal cuando se habla formalmente (como en una conferencia).",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! En un contexto formal (una conferencia o una junta), las señas se ejecutan con mayor amplitud, claridad y ritmo pausado. En una plática informal entre amigos, las señas se acortan y aceleran (como el slang oral). 🎩"
+            },
+            {
+                "id": "p5-esp-b7-v1-003",
+                "tema": "Debate y argumentación",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para expresar 'ESTOY DE ACUERDO' en LSM, asientes con la cabeza mientras tus manos hacen un movimiento de ___.",
+                "respuestaCorrecta": "afirmación",
+                "explicacion": "¡Así es! La cabeza asintiendo refuerza el mensaje manual. Y para 'NO ESTOY DE ACUERDO', la cabeza niega mientras las manos hacen un movimiento de rechazo lateral. La cara y las manos trabajan juntas. 🤝"
+            },
+            {
+                "id": "p5-esp-b7-v1-004",
+                "tema": "Poesía visual",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "La poesía en LSM existe y es una forma de arte. ¿Qué elemento NO se usa en la poesía visual de señas?",
+                "opciones": [
+                    "La rima fonética (porque no hay sonido).",
+                    "La simetría de las manos (ambas manos haciendo movimientos espejo).",
+                    "El ritmo del movimiento (velocidad, pausas dramáticas)."
+                ],
+                "respuestaCorrecta": "La rima fonética (porque no hay sonido).",
+                "explicacion": "¡Exacto! La poesía en LSM no 'rima' con sonidos, sino con FORMAS. Usa simetría (manos espejo), ritmo visual (pausas y aceleraciones), y repetición de configuraciones manuales. ¡Es arte cinético! 🎨"
+            }
+        ]
+    },
+    "generado": "2026-03-10T19:25:00.000Z",
+    "version": "3.0"
+}

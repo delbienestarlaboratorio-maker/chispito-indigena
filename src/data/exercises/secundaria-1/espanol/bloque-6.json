@@ -1,0 +1,66 @@
+{
+    "grado": "secundaria-1",
+    "materia": "espanol",
+    "bloque": 6,
+    "nombre": "Letras que se ven (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Literacidad crítica en LSM",
+        "Análisis de discurso visual",
+        "Traducción cultural: español ↔ LSM",
+        "Producción de textos argumentativos en señas"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "s1-esp-b6-v1-001",
+                "tema": "Literacidad crítica",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué significa 'literacidad' para la comunidad sorda?",
+                "opciones": [
+                    "No se limita a leer y escribir en español. Incluye la capacidad de comprender, producir y analizar textos en LSM (videotextos), así como navegar entre la cultura sorda y la oyente.",
+                    "Solamente saber leer labios.",
+                    "Memorizar el diccionario de señas completo."
+                ],
+                "respuestaCorrecta": "No se limita a leer y escribir en español. Incluye la capacidad de comprender, producir y analizar textos en LSM (videotextos), así como navegar entre la cultura sorda y la oyente.",
+                "explicacion": "¡Exacto! La literacidad sorda es BILINGÜE: dominar la LSM (primera lengua) y el español escrito (segunda lengua). Los videotextos en LSM son equivalentes a los textos escritos en español. 📚✊"
+            },
+            {
+                "id": "s1-esp-b6-v1-002",
+                "tema": "Traducción cultural",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La traducción entre español oral y LSM NO es palabra por palabra. Es una 'traducción cultural' porque cada lengua tiene su propia estructura gramatical, orden de palabras y sistema de referentes espaciales.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! El español sigue un orden Sujeto-Verbo-Objeto (SVO), mientras que la LSM usa Tema-Comentario. Un intérprete profesional no traduce palabras: traduce SIGNIFICADOS entre dos sistemas lingüísticos completos. 🌐"
+            },
+            {
+                "id": "s1-esp-b6-v1-003",
+                "tema": "Análisis de discurso",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "En LSM, el equivalente de las 'comillas' en un texto escrito (para citar lo que alguien dijo) es el ___: girar el torso para 'ser' la persona citada y reproducir sus señas.",
+                "respuestaCorrecta": "cambio de rol",
+                "explicacion": "¡Correcto! El cambio de rol (role shift) es la herramienta de citación de la LSM. El señante gira el cuerpo, cambia la expresión facial, y 'se convierte' en la persona que cita. Es teatro en miniatura integrado a la gramática. 🎭"
+            },
+            {
+                "id": "s1-esp-b6-v1-004",
+                "tema": "Argumentación en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Para estructura un argumento en LSM (tesis, evidencia, conclusión), ¿qué recurso espacial se utiliza?",
+                "opciones": [
+                    "Se asignan espacios: la tesis se coloca al centro, la evidencia a la izquierda (marcada con cejas neutras) y la conclusión a la derecha (marcada con asentimiento enfático).",
+                    "Se repite la misma seña tres veces con diferente velocidad.",
+                    "No se puede argumentar en LSM, solo narrar."
+                ],
+                "respuestaCorrecta": "Se asignan espacios: la tesis se coloca al centro, la evidencia a la izquierda (marcada con cejas neutras) y la conclusión a la derecha (marcada con asentimiento enfático).",
+                "explicacion": "¡Perfecto! La argumentación en LSM es tridimensional: cada parte del argumento ocupa un espacio. El señante puede 'volver' a la tesis (centro) para reforzarla después de presentar la evidencia (izquierda). Es un mapa mental vivo. 🗺️"
+            }
+        ]
+    },
+    "generado": "2026-03-10T19:50:00.000Z",
+    "version": "3.0"
+}

@@ -1,0 +1,264 @@
+﻿
+ Ôøà´©Å wrangler 4.69.0 (update available 4.71.0)
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+node.exe : [33mÔû▓ 
+[43;33m[[43;30mWARNING[43;33m][0m 
+[1mWarning: Your working directory is a 
+git repo and has uncommitted changes[0m
+En línea: 1 Carácter: 1
++ & "C:\Program Files\nodejs/node.exe" 
+"C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified 
+   : ([33mÔû▓ [43;3...ted changes[0m:S  
+  tring) [], RemoteException
+    + FullyQualifiedErrorId : NativeComman 
+   dError
+ 
+
+  To silence this warning, pass in 
+--commit-dirty=true
+
+
+Uploading... (134/134)
+Ô£¿ Success! Uploaded 0 files (134 already uploaded) (0.36 sec)
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m 
+[1mBuild failed with 8 errors:[0m
+
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./cloudflare/images.js"[0m
+  
+      _worker.js:2:61:
+  [37m      2 Ôöé ...giImageRequest, 
+handleImageRequest } from 
+[32m"./cloudflare/images.js"[37m;
+          ÔòÁ                              
+                
+[32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./cloudflare/init.js"[0m
+  
+      _worker.js:4:48:
+  [37m      4 Ôöé ...rt { 
+runWithCloudflareRequestContext } from 
+[32m"./cloudflare/init.js"[37m;
+          ÔòÁ                              
+                  
+[32m~~~~~~~~~~~~~~~~~~~~~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./cloudflare/skew-protection.js"[0m
+  
+      _worker.js:6:47:
+  [37m      6 Ôöé 
+...GetSkewProtectionResponse } from [32m".
+/cloudflare/skew-protection.js"[37m;
+          ÔòÁ                              
+       
+[32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./middleware/handler.mjs"[0m
+  
+      _worker.js:8:45:
+  [37m      8 Ôöé ...t { handler as 
+middlewareHandler } from 
+[32m"./middleware/handler.mjs"[37m;
+          ÔòÁ                              
+              
+[32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./.build/durable-objects/queue.js"[0m
+  
+      _worker.js:10:31:
+  [37m      10 Ôöé export { 
+DOQueueHandler } from [32m"./.build/durabl
+e-objects/queue.js"[37m;
+           ÔòÁ                             
+   [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve "./.build/durable-obj
+ects/sharded-tag-cache.js"[0m
+  
+      _worker.js:12:34:
+  [37m      12 Ôöé ...edTagCache } from [
+32m"./.build/durable-objects/sharded-tag-ca
+che.js"[37m;
+           ÔòÁ                      [32m~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve "./.build/durable-obj
+ects/bucket-cache-purge.js"[0m
+  
+      _worker.js:14:33:
+  [37m      14 Ôöé ...achePurge } from [3
+2m"./.build/durable-objects/bucket-cache-pu
+rge.js"[37m;
+           ÔòÁ                     [32m~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve "./server-functions/d
+efault/handler.mjs"[0m
+  
+      _worker.js:39:45:
+  [37m      39 Ôöé ...andler } = await imp
+ort([32m"./server-functions/default/handle
+r.mjs"[37m);
+           ÔòÁ                            
+[32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~[0m
+  
+  
+
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m 
+[1mBuild failed with 8 errors:[0m
+
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./cloudflare/images.js"[0m
+  
+      _worker.js:2:61:
+  [37m      2 Ôöé ...giImageRequest, 
+handleImageRequest } from 
+[32m"./cloudflare/images.js"[37m;
+          ÔòÁ                              
+                
+[32m~~~~~~~~~~~~~~~~~~~~~~~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./cloudflare/init.js"[0m
+  
+      _worker.js:4:48:
+  [37m      4 Ôöé ...rt { 
+runWithCloudflareRequestContext } from 
+[32m"./cloudflare/init.js"[37m;
+          ÔòÁ                              
+                  
+[32m~~~~~~~~~~~~~~~~~~~~~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./cloudflare/skew-protection.js"[0m
+  
+      _worker.js:6:47:
+  [37m      6 Ôöé 
+...GetSkewProtectionResponse } from [32m".
+/cloudflare/skew-protection.js"[37m;
+          ÔòÁ                              
+       
+[32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./middleware/handler.mjs"[0m
+  
+      _worker.js:8:45:
+  [37m      8 Ôöé ...t { handler as 
+middlewareHandler } from 
+[32m"./middleware/handler.mjs"[37m;
+          ÔòÁ                              
+              
+[32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve 
+"./.build/durable-objects/queue.js"[0m
+  
+      _worker.js:10:31:
+  [37m      10 Ôöé export { 
+DOQueueHandler } from [32m"./.build/durabl
+e-objects/queue.js"[37m;
+           ÔòÁ                             
+   [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve "./.build/durable-obj
+ects/sharded-tag-cache.js"[0m
+  
+      _worker.js:12:34:
+  [37m      12 Ôöé ...edTagCache } from [
+32m"./.build/durable-objects/sharded-tag-ca
+che.js"[37m;
+           ÔòÁ                      [32m~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve "./.build/durable-obj
+ects/bucket-cache-purge.js"[0m
+  
+      _worker.js:14:33:
+  [37m      14 Ôöé ...achePurge } from [3
+2m"./.build/durable-objects/bucket-cache-pu
+rge.js"[37m;
+           ÔòÁ                     [32m~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~[0m
+  
+  
+  [31mX 
+[41;31m[[41;97mERROR[41;31m][0m 
+[1mCould not resolve "./server-functions/d
+efault/handler.mjs"[0m
+  
+      _worker.js:39:45:
+  [37m      39 Ôöé ...andler } = await imp
+ort([32m"./server-functions/default/handle
+r.mjs"[37m);
+           ÔòÁ                            
+[32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~[0m
+  
+  
+
+
+ƒ¬Á  Logs were written to "C:\Users\Adminis
+trador\AppData\Roaming\xdg.config\.wrangler
+\logs\wrangler-2026-03-08_21-35-20_452.log"

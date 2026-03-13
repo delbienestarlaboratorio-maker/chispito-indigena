@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-1",
+    "materia": "espanol",
+    "bloque": 6,
+    "nombre": "Mis palabras en señas (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Presentación personal en LSM",
+        "Deletreo de palabras cortas",
+        "Saludos y despedidas formales",
+        "Emociones complejas"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p1-esp-b6-v1-001",
+                "tema": "Presentación personal en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Para decir 'ME LLAMO...' en Lengua de Señas Mexicana, ¿qué hacemos primero?",
+                "opciones": [
+                    "Nos señalamos el pecho con el dedo índice (YO) y luego deletreamos nuestro nombre letra por letra.",
+                    "Escribimos nuestro nombre en el aire con el dedo.",
+                    "Aplaudimos tres veces y decimos nuestro nombre."
+                ],
+                "respuestaCorrecta": "Nos señalamos el pecho con el dedo índice (YO) y luego deletreamos nuestro nombre letra por letra.",
+                "explicacion": "¡Exacto! Primero te señalas a ti mismo (YO), luego haces la seña de NOMBRE (golpecitos con los dedos en H sobre la mano contraria), y finalmente deletreas tu nombre. 👋"
+            },
+            {
+                "id": "p1-esp-b6-v1-002",
+                "tema": "Saludos y despedidas formales",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir 'MUCHO GUSTO' en LSM, hacemos la seña de 'mucho' (manos abiertas separándose) seguida de la seña de 'gusto' (palma en el estómago con movimiento circular).",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Correcto! 'Mucho' se hace separando las manos abiertas y 'gusto' es un movimiento circular sobre el estómago, como cuando algo te gusta mucho de comer. 😊"
+            },
+            {
+                "id": "p1-esp-b6-v1-003",
+                "tema": "Deletreo de palabras cortas",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para deletrear la palabra 'SOL' en LSM, necesito hacer las señas de tres letras: primero la S (puño cerrado con pulgar sobre los dedos), luego la O (dedos juntos formando un ___), y finalmente la L (índice y pulgar estirados en ángulo).",
+                "respuestaCorrecta": "círculo",
+                "explicacion": "¡Muy bien! La O se forma juntando todos los dedos en un círculo perfecto, como la forma del sol. Así puedes deletrear cualquier palabra letra a letra. ☀️"
+            },
+            {
+                "id": "p1-esp-b6-v1-004",
+                "tema": "Emociones complejas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo expresamos 'SORPRESA' en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "Abrimos mucho los ojos, levantamos las cejas y abrimos las manos rápidamente a los lados de la cara.",
+                    "Cerramos los ojos y bajamos la cabeza.",
+                    "Ponemos las manos en la cintura y fruncimos el ceño."
+                ],
+                "respuestaCorrecta": "Abrimos mucho los ojos, levantamos las cejas y abrimos las manos rápidamente a los lados de la cara.",
+                "explicacion": "¡Exacto! La sorpresa en LSM es muy expresiva: ojos grandes, cejas arriba y manos abiertas como si dijeras '¡WOW!' Tu cara es tan importante como tus manos. 😲"
+            }
+        ]
+    },
+    "generado": "2026-03-10T13:40:00.000Z",
+    "version": "3.0"
+}

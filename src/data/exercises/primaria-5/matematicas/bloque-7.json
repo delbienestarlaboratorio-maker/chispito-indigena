@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-5",
+    "materia": "matematicas",
+    "bloque": 7,
+    "nombre": "El lenguaje del porcentaje (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Porcentajes en LSM",
+        "Números decimales con señas",
+        "Proporciones y razones",
+        "Problemas de la vida real"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p5-mat-b7-v1-001",
+                "tema": "Porcentajes",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se expresa 'POR CIENTO' (%) en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "Se muestra el número, y luego se traza un círculo pequeño con el índice (representando el símbolo %) seguido de la seña de 'CIEN' (letra C).",
+                    "Se levantan todos los dedos de ambas manos diez veces.",
+                    "Se dibuja el símbolo % completo en el aire con el dedo."
+                ],
+                "respuestaCorrecta": "Se muestra el número, y luego se traza un círculo pequeño con el índice (representando el símbolo %) seguido de la seña de 'CIEN' (letra C).",
+                "explicacion": "¡Exacto! El porcentaje usa una combinación de la cantidad + el concepto de 'por cada cien'. Es una seña compuesta que desglosa el concepto matemático. 📊"
+            },
+            {
+                "id": "p5-mat-b7-v1-002",
+                "tema": "Números decimales",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para expresar el punto decimal en LSM, se usa un golpe seco con el dedo índice en el aire (como si pusieras un punto flotante) entre el número entero y la parte decimal.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! El punto decimal es literal: se 'coloca' un punto en el espacio. Ejemplo: 3.5 = seña de TRES, punto (golpe seco), seña de CINCO. La matemática en LSM es extremadamente precisa. 🎯"
+            },
+            {
+                "id": "p5-mat-b7-v1-003",
+                "tema": "Proporciones",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para decir 'LA MITAD DE' o 'EL DOBLE DE' en LSM, usamos la seña de MITAD o DOBLE seguida de la seña del objeto. La seña de DOBLE se hace levantando ___ dedos (índice y medio) y moviéndolos hacia arriba.",
+                "respuestaCorrecta": "dos",
+                "explicacion": "¡Correcto! DOBLE = 2 (dedos índice y medio levantados) con un movimiento ascendente que indica 'multiplicar por'. Es intuitivo: el número 2 que 'crece'. ×2️⃣"
+            },
+            {
+                "id": "p5-mat-b7-v1-004",
+                "tema": "Problemas de la vida real",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Si en una tienda hay un descuento del 50%, ¿cómo comunicarías esto en LSM?",
+                "opciones": [
+                    "DESCUENTO (movimiento de 'quitar' del precio) + CINCO-CERO + POR-CIENTO.",
+                    "BARATO (expresión facial de sorpresa) + MITAD.",
+                    "Ambas formas son válidas; la LSM permite expresar la misma idea de diferentes maneras."
+                ],
+                "respuestaCorrecta": "Ambas formas son válidas; la LSM permite expresar la misma idea de diferentes maneras.",
+                "explicacion": "¡Muy bien! La LSM, como cualquier lengua viva, tiene sinónimos y formas alternativas. Puedes ser preciso (50%) o conceptual (mitad de precio). Ambas se entienden perfectamente. 🛍️"
+            }
+        ]
+    },
+    "generado": "2026-03-10T19:25:00.000Z",
+    "version": "3.0"
+}

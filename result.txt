@@ -1,0 +1,40 @@
+Build & Deploy	Diagnostic - Inspect Assets Directory	´╗┐2026-03-09T00:28:26.4249824Z ##[group]Run echo "==== ASSETS DIRECTORY TREE ===="
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4250525Z [36;1mecho "==== ASSETS DIRECTORY TREE ===="[0m
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4250855Z [36;1mfind .open-next/assets -type f | wc -l[0m
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4251153Z [36;1mecho "==== _NEXT JS CHUNKS ===="[0m
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4251535Z [36;1mfind .open-next/assets/_next/static -name "*.js" | head -n 20[0m
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4301694Z shell: /usr/bin/bash -e {0}
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4301959Z ##[endgroup]
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4375885Z ==== ASSETS DIRECTORY TREE ====
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4466897Z 2268
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4469331Z ==== _NEXT JS CHUNKS ====
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4484476Z .open-next/assets/_next/static/chunks/03b1cf4017abf0e2.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4485274Z .open-next/assets/_next/static/chunks/e5764ccf7cd59c70.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4485951Z .open-next/assets/_next/static/chunks/5d35b826697a5c2e.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4486391Z .open-next/assets/_next/static/chunks/a528965dee0bd983.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4486813Z .open-next/assets/_next/static/chunks/b74f81d168a9f85b.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4487290Z .open-next/assets/_next/static/chunks/818b5b6ed364ad4a.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4487840Z .open-next/assets/_next/static/chunks/75a7cd069a89c7e3.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4488669Z .open-next/assets/_next/static/chunks/23b5305d2a70d349.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4489545Z .open-next/assets/_next/static/chunks/turbopack-7cc37be27e3daf7e.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4490528Z .open-next/assets/_next/static/chunks/961311cbebbffb6d.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4491369Z .open-next/assets/_next/static/chunks/3ee299b1c745bc75.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4492142Z .open-next/assets/_next/static/chunks/d8f9d03334db907f.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4492718Z .open-next/assets/_next/static/chunks/d96012bcfc98706a.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4493153Z .open-next/assets/_next/static/chunks/63eee2351f5394d5.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4493586Z .open-next/assets/_next/static/chunks/034945ea23f7a8ce.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4494009Z .open-next/assets/_next/static/chunks/857c1ce6edf0a360.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4494445Z .open-next/assets/_next/static/chunks/f66634c84e3526bd.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4494889Z .open-next/assets/_next/static/chunks/e703d3861365c78d.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4495338Z .open-next/assets/_next/static/chunks/c8c4aee92c4fe9f9.js
+Build & Deploy	Diagnostic - Inspect Assets Directory	2026-03-09T00:28:26.4495802Z .open-next/assets/_next/static/chunks/ee4650927f2f26bf.js
+Build & Deploy	Publish to Cloudflare Pages	´╗┐2026-03-09T00:28:26.4565213Z ##[group]Run cloudflare/wrangler-action@v3
+Build & Deploy	Publish to Cloudflare Pages	2026-03-09T00:28:26.4565535Z with:
+Build & Deploy	Publish to Cloudflare Pages	2026-03-09T00:28:26.4565904Z   apiToken: ***
+Build & Deploy	Publish to Cloudflare Pages	2026-03-09T00:28:26.4566140Z   accountId: ***
+Build & Deploy	Publish to Cloudflare Pages	2026-03-09T00:28:26.4566487Z   command: pages deploy .open-next/assets --project-name chispito-mx --branch main
+Build & Deploy	Publish to Cloudflare Pages	2026-03-09T00:28:26.4566891Z   quiet: false
+Build & Deploy	Publish to Cloudflare Pages	2026-03-09T00:28:26.4567082Z ##[endgroup]
+Build & Deploy	Publish to Cloudflare Pages	2026-03-09T00:28:26.5545905Z ##[group]­ƒöì Checking for existing Wrangler installation
+Build & Deploy	Publish to Cloudflare Pages	2026-03-09T00:28:26.5589502Z [command]/opt/hostedtoolcache/node/20.20.0/x64/bin/npx --no-install wrangler --version
+Build & Deploy	Publish to Cloudflare Pages	2026-03-09T00:28:27.5776916Z 4.69.0

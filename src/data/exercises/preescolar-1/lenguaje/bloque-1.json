@@ -1,0 +1,326 @@
+{
+    "grado": "preescolar-1",
+    "materia": "lenguaje",
+    "bloque": 1,
+    "nombre": "Malli, ranas y el baúl del arte",
+    "libroSep": "Múltiples Lenguajes K1MLA",
+    "paginasLibro": "8-35",
+    "meses": "Agosto – Septiembre",
+    "temas": [
+        "Malli y el baúl del arte (p.8-13)",
+        "Todas son ranas, ¿pero son diferentes? (p.14-15)",
+        "Calcetín (p.16-19)",
+        "Animales, bichos, alimañas y otras bestias (p.20-23)",
+        "Naranja (p.24-25)",
+        "Chiras, pelas: ¡a jugar con las canicas! (p.26-29)",
+        "A bicho que no conozcas, ¡no le pises la cola! (p.30-35)"
+    ],
+    "totalEjercicios": 20,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "k1-len-b1-001",
+                "tema": "Malli y el baúl del arte (p.8)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se llama la niña que cuenta la historia del baúl del arte?",
+                "opciones": [
+                    "Luna",
+                    "Malli",
+                    "Paula",
+                    "Estrella"
+                ],
+                "respuestaCorrecta": "Malli",
+                "explicacion": "La protagonista del capítulo se llama Malli. Ella pasea con su perrito Pulgas y descubre pétalos de flores para hacer arte."
+            },
+            {
+                "id": "k1-len-b1-002",
+                "tema": "Malli y el baúl del arte (p.9-10)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué recogió Malli del suelo para hacer sus dibujos?",
+                "opciones": [
+                    "Juguetes",
+                    "Pétalos de flores y hojas",
+                    "Piedras preciosas",
+                    "Crayolas"
+                ],
+                "respuestaCorrecta": "Pétalos de flores y hojas",
+                "explicacion": "Malli notó que después de la lluvia, los pétalos se habían caído de las flores. Recogió pétalos de colores rosa, naranja y blanco, y hojas, para ponerle color a sus dibujos."
+            },
+            {
+                "id": "k1-len-b1-003",
+                "tema": "Malli y el baúl del arte (p.12)",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Según el libro, debemos arrancar las flores de las plantas para hacer arte.",
+                "respuestaCorrecta": "false",
+                "explicacion": "¡Falso! La maestra les dijo que NO debían arrancar las flores, porque las plantas son seres vivos que sienten. Solo deben recoger las que ya se cayeron solas."
+            },
+            {
+                "id": "k1-len-b1-004",
+                "tema": "Malli y el baúl del arte (p.13)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué es el 'baúl del arte'?",
+                "opciones": [
+                    "Un cofre con monedas",
+                    "Una caja llena de objetos naturales y reciclados para hacer arte",
+                    "Una maleta de viaje",
+                    "Un libro de dibujos"
+                ],
+                "respuestaCorrecta": "Una caja llena de objetos naturales y reciclados para hacer arte",
+                "explicacion": "El baúl del arte es una caja que se llena con ramitas, piñas, flores, hojas, piedritas y objetos reciclados para crear esculturas, pinturas, collages y disfraces."
+            },
+            {
+                "id": "k1-len-b1-005",
+                "tema": "Todas son ranas (p.14-15)",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Todas las ranas son del mismo color.",
+                "respuestaCorrecta": "false",
+                "explicacion": "¡Falso! En el libro vemos ranas de color verde, una rana con ojos rojos y patas azules, y una rana blanca con manchas negras. Todas son ranas pero son diferentes."
+            },
+            {
+                "id": "k1-len-b1-006",
+                "tema": "Calcetín (p.16)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "En el cuento 'Calcetín', ¿qué le pasó al calcetín?",
+                "opciones": [
+                    "Se ensució",
+                    "Perdió a su par",
+                    "Se rompió",
+                    "Se fue de viaje"
+                ],
+                "respuestaCorrecta": "Perdió a su par",
+                "explicacion": "Una mañana, mientras tomaba el sol en el tendedero, Calcetín perdió a su par y se quedó solito."
+            },
+            {
+                "id": "k1-len-b1-007",
+                "tema": "Animales, bichos (p.20-23)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cuáles de estos animales aparecen en los dibujos del capítulo 'Animales, bichos, alimañas'?",
+                "opciones": [
+                    "Perros y gatos",
+                    "Mariposas, pulpos y jirafas",
+                    "Leones y tigres",
+                    "Peces y delfines"
+                ],
+                "respuestaCorrecta": "Mariposas, pulpos y jirafas",
+                "explicacion": "En las postales del capítulo vemos dibujos de mariposas con flores, pulpos en el mar y jirafas con árboles y sol."
+            },
+            {
+                "id": "k1-len-b1-008",
+                "tema": "Naranja (p.24)",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Según el poema del libro, la naranja tiene ___ semillas dentro.",
+                "respuestaCorrecta": "10",
+                "explicacion": "El poema dice: 'Tiene 10 semillas dentro: cada una es la promesa de un árbol que crecerá'."
+            },
+            {
+                "id": "k1-len-b1-009",
+                "tema": "Canicas (p.26)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿De qué material pueden estar hechas las canicas?",
+                "opciones": [
+                    "Solo de plástico",
+                    "Solo de madera",
+                    "De vidrio, barro, arcilla o metal",
+                    "Solo de papel"
+                ],
+                "respuestaCorrecta": "De vidrio, barro, arcilla o metal",
+                "explicacion": "Las canicas son pequeñas esferas que pueden ser de vidrio, barro, arcilla o metal. Pueden tener uno o varios colores por dentro."
+            },
+            {
+                "id": "k1-len-b1-010",
+                "tema": "A bicho que no conozcas (p.30)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué animal usa su cola para hacerse bolita y protegerse?",
+                "opciones": [
+                    "El gato",
+                    "El pangolín",
+                    "El perro",
+                    "La gallina"
+                ],
+                "respuestaCorrecta": "El pangolín",
+                "explicacion": "El pangolín tiene una cola fuerte con escamas que le sirve de fortaleza para protegerse de los depredadores. Se enrolla como una bola."
+            }
+        ],
+        "v2": [
+            {
+                "id": "k1-len-b1-011",
+                "tema": "Malli y el baúl del arte (p.8-13)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cómo se llama el perrito de Malli?",
+                "opciones": [
+                    "Firulais",
+                    "Pulgas",
+                    "Manchas",
+                    "Canelo"
+                ],
+                "respuestaCorrecta": "Pulgas",
+                "explicacion": "El fiel amigo de Malli es su perrito Pulgas. Cuando Pulgas se paró a olfatear un árbol, Malli descubrió los pétalos caídos."
+            },
+            {
+                "id": "k1-len-b1-012",
+                "tema": "Malli y el baúl del arte (p.12)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Qué flores menciona el libro que se caen solas al suelo?",
+                "opciones": [
+                    "Rosas y tulipanes",
+                    "Bugambilias, jacarandas y nochebuenas",
+                    "Girasoles y margaritas",
+                    "Violetas y claveles"
+                ],
+                "respuestaCorrecta": "Bugambilias, jacarandas y nochebuenas",
+                "explicacion": "El libro dice que solo deben tomar flores que se hayan caído de forma natural, como las bugambilias, las jacarandas o las nochebuenas."
+            },
+            {
+                "id": "k1-len-b1-013",
+                "tema": "Malli y el baúl del arte (p.11-13)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Qué tipo de obras de arte se pueden hacer con los materiales del baúl del arte?",
+                "opciones": [
+                    "Solo dibujos",
+                    "Esculturas, pinturas, disfraces y collages",
+                    "Solo pinturas",
+                    "Solo esculturas"
+                ],
+                "respuestaCorrecta": "Esculturas, pinturas, disfraces y collages",
+                "explicacion": "Con los materiales del baúl se pueden crear esculturas, pinturas, disfraces, collages y cualquier obra artística."
+            },
+            {
+                "id": "k1-len-b1-014",
+                "tema": "Todas son ranas (p.14-15)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cuántos colores diferentes de ranas se muestran en las fotos del libro?",
+                "opciones": [
+                    "1 color",
+                    "2 colores",
+                    "3 colores o más",
+                    "Ninguno, son dibujos"
+                ],
+                "respuestaCorrecta": "3 colores o más",
+                "explicacion": "En las fotos reales del libro vemos ranas verdes, una rana con ojos rojos y patas azules/anaranjadas, y una rana blanco con negro. ¡Hay gran variedad!"
+            },
+            {
+                "id": "k1-len-b1-015",
+                "tema": "Calcetín (p.16-19)",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "El cuento 'Calcetín' habla sobre la ropa, el sol y la lavadora.",
+                "respuestaCorrecta": "true",
+                "explicacion": "Correcto. La historia muestra ropa tendida al sol (camiseta, pantalón, suéter), un cesto de ropa y una lavadora. Calcetín pierde a su par mientras tomaba el sol."
+            },
+            {
+                "id": "k1-len-b1-016",
+                "tema": "Animales, bichos (p.20-23)",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "El animal marino con muchos tentáculos que aparece dibujado en el libro se llama ___.",
+                "respuestaCorrecta": "pulpo",
+                "explicacion": "En una de las postales del capítulo aparece un pulpo grande con sus tentáculos en el mar, junto con otros pulpos pequeños."
+            },
+            {
+                "id": "k1-len-b1-017",
+                "tema": "Naranja (p.24-25)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "Según el poema 'Naranja', ¿de dónde viene la naranja?",
+                "opciones": [
+                    "De la tienda",
+                    "De un árbol",
+                    "Del suelo",
+                    "Del agua"
+                ],
+                "respuestaCorrecta": "De un árbol",
+                "explicacion": "El poema muestra un árbol lleno de naranjas y dice que cada semilla es 'la promesa de un árbol que crecerá'."
+            },
+            {
+                "id": "k1-len-b1-018",
+                "tema": "Canicas (p.26-29)",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "Las canicas son un juego que solo existe en México.",
+                "respuestaCorrecta": "false",
+                "explicacion": "Falso. El libro dice que los orígenes de las canicas se remontan al antiguo Egipto. En México llegaron durante la época de la Colonia."
+            },
+            {
+                "id": "k1-len-b1-019",
+                "tema": "A bicho que no conozcas (p.30-35)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Qué cubre el cuerpo del pangolín?",
+                "opciones": [
+                    "Plumas",
+                    "Pelo suave",
+                    "Escamas duras",
+                    "Piel lisa"
+                ],
+                "respuestaCorrecta": "Escamas duras",
+                "explicacion": "El pangolín está cubierto de escamas duras que le sirven como armadura para protegerse de los depredadores."
+            },
+            {
+                "id": "k1-len-b1-020",
+                "tema": "Malli y el baúl del arte (p.9)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿De qué colores eran las flores que encontró Malli en el suelo?",
+                "opciones": [
+                    "Azul y verde",
+                    "Rosa intenso, naranja brillante y blanco",
+                    "Negro y gris",
+                    "Rojo y amarillo"
+                ],
+                "respuestaCorrecta": "Rosa intenso, naranja brillante y blanco",
+                "explicacion": "El libro dice que había flores de diferentes colores: unas eran rosa intenso, otras naranja brillante y otras de un blanco luminoso."
+            }
+        ],
+        "preview": [
+            {
+                "id": "k1-len-b1-001",
+                "tema": "Malli y el baúl del arte (p.8)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se llama la niña que cuenta la historia del baúl del arte?",
+                "opciones": [
+                    "Luna",
+                    "Malli",
+                    "Paula",
+                    "Estrella"
+                ],
+                "respuestaCorrecta": "Malli",
+                "explicacion": "La protagonista del capítulo se llama Malli. Ella pasea con su perrito Pulgas y descubre pétalos de flores para hacer arte."
+            },
+            {
+                "id": "k1-len-b1-005",
+                "tema": "Todas son ranas (p.14-15)",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Todas las ranas son del mismo color.",
+                "respuestaCorrecta": "false",
+                "explicacion": "¡Falso! En el libro vemos ranas de color verde, una rana con ojos rojos y patas azules, y una rana blanca con manchas negras."
+            },
+            {
+                "id": "k1-len-b1-008",
+                "tema": "Naranja (p.24)",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Según el poema del libro, la naranja tiene ___ semillas dentro.",
+                "respuestaCorrecta": "10",
+                "explicacion": "El poema dice: 'Tiene 10 semillas dentro: cada una es la promesa de un árbol que crecerá'."
+            }
+        ]
+    },
+    "generado": "2026-03-10T21:40:00.000Z",
+    "version": "3.0-libro-real"
+}

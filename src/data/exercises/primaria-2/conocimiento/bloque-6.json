@@ -1,0 +1,61 @@
+{
+    "grado": "primaria-2",
+    "materia": "conocimiento",
+    "bloque": 6,
+    "nombre": "Mi entorno se comunica (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "El Campo y la Ciudad",
+        "Oficios avanzados en LSM",
+        "El clima y la naturaleza",
+        "Cuidado del agua"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p2-con-b6-v1-001",
+                "tema": "El Campo y la Ciudad",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En LSM, la seña para 'CIUDAD' se hace mostrando muchos edificios: pones las palmas frente a ti y las levantas varias veces formando torres imaginarias.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Exacto! La ciudad se caracteriza por los edificios, así que la seña imita las alturas de los rascacielos frente a ti. 🏙️"
+            },
+            {
+                "id": "p2-con-b6-v1-002",
+                "tema": "Oficios avanzados",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos 'MAESTRO' o 'MAESTRA' en LSM?",
+                "opciones": [
+                    "Ponemos ambas manos en forma de letra 'M' y las movemos desde la cabeza hacia adelante (compartiendo conocimiento).",
+                    "Escribimos en un pizarrón imaginario.",
+                    "Hacemos la seña de un libro abriéndose."
+                ],
+                "respuestaCorrecta": "Ponemos ambas manos en forma de letra 'M' y las movemos desde la cabeza hacia adelante (compartiendo conocimiento).",
+                "explicacion": "¡Muy bien! Se usan las letras 'M' (inicializada) que salen de la sien (la mente) hacia adelante. Significa literalmente 'el que saca el conocimiento y lo comparte'. 👩‍🏫"
+            },
+            {
+                "id": "p2-con-b6-v1-003",
+                "tema": "El clima y la naturaleza",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de 'LLUVIA', levantamos ambas manos con los dedos ___ y los bajamos moviéndolos como si fueran las gotas cayendo del cielo.",
+                "respuestaCorrecta": "abiertos",
+                "explicacion": "¡Correcto! Los dedos abiertos apuntando hacia abajo y moviéndose muestran perfectamente cómo caen las gotas de lluvia. 🌧️"
+            },
+            {
+                "id": "p2-con-b6-v1-004",
+                "tema": "Cuidado del agua",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La seña de 'AGUA' se hace con el dedo índice frotando la nariz.",
+                "respuestaCorrecta": "false",
+                "explicacion": "¡Falso! Para decir 'AGUA' formamos la letra 'A' con la mano y tocamos el mentón (o la boca) un par de veces, no la nariz. 💧"
+            }
+        ]
+    },
+    "generado": "2026-03-10T18:20:00.000Z",
+    "version": "3.0"
+}

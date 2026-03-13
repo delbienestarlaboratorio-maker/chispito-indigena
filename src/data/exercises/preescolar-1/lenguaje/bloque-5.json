@@ -1,0 +1,329 @@
+{
+    "grado": "preescolar-1",
+    "materia": "lenguaje",
+    "bloque": 5,
+    "nombre": "Picozapato, dedos y dragoncito azul",
+    "libroSep": "Múltiples Lenguajes K1MLA",
+    "paginasLibro": "132-163",
+    "meses": "Abril – Junio",
+    "temas": [
+        "Manuel Álvarez Bravo (p.132-135)",
+        "El cubo del mar y el ala (p.136)",
+        "El cubo del pez y el oso (p.137)",
+        "Abatuti (p.138-141)",
+        "El picozapato (p.142-145)",
+        "Maternidad (p.146-147)",
+        "Los nombres de los dedos (p.148-151)",
+        "Las estrellas (p.152)",
+        "Palabras en lengua (p.153)",
+        "El dragoncito azul (p.154-163)"
+    ],
+    "totalEjercicios": 20,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "k1-len-b5-001",
+                "tema": "El picozapato (p.142)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Por qué se llama 'picozapato' el ave del libro?",
+                "opciones": [
+                    "Porque tiene zapatos",
+                    "Porque su pico se parece a un zapato zueco holandés",
+                    "Porque camina en zapatos",
+                    "Porque es de Holanda"
+                ],
+                "respuestaCorrecta": "Porque su pico se parece a un zapato zueco holandés",
+                "explicacion": "El libro dice: 'Su nombre se debe al parecido de su pico con el de un zapato zueco holandés'."
+            },
+            {
+                "id": "k1-len-b5-002",
+                "tema": "El picozapato (p.142)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cuánto mide el picozapato?",
+                "opciones": [
+                    "20 centímetros",
+                    "50 centímetros",
+                    "Entre 1.10 y 1.50 metros",
+                    "5 metros"
+                ],
+                "respuestaCorrecta": "Entre 1.10 y 1.50 metros",
+                "explicacion": "El libro dice que 'miden entre 1.10 y 1.50 metros y sus alas pueden extenderse hasta 2.60 metros'."
+            },
+            {
+                "id": "k1-len-b5-003",
+                "tema": "Los nombres de los dedos (p.148)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cuántos dedos tiene cada mano?",
+                "opciones": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "respuestaCorrecta": "5",
+                "explicacion": "El libro dice: 'Son cinco y tienen diferentes tamaños, cada uno con nombre y funciones propias'."
+            },
+            {
+                "id": "k1-len-b5-004",
+                "tema": "Los nombres de los dedos (p.148)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se llama el dedo gordo de la mano?",
+                "opciones": [
+                    "Índice",
+                    "Meñique",
+                    "Pulgar",
+                    "Anular"
+                ],
+                "respuestaCorrecta": "Pulgar",
+                "explicacion": "El libro dice: 'Pulgar: es el dedo gordo o primer dedo'."
+            },
+            {
+                "id": "k1-len-b5-005",
+                "tema": "Los nombres de los dedos (p.148)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se llama el dedo más pequeñito de la mano?",
+                "opciones": [
+                    "Pulgar",
+                    "Índice",
+                    "Anular",
+                    "Meñique"
+                ],
+                "respuestaCorrecta": "Meñique",
+                "explicacion": "El Meñique es el quinto dedo, el más pequeño. También se llama 'dedo auricular'."
+            },
+            {
+                "id": "k1-len-b5-006",
+                "tema": "El picozapato (p.142)",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "El picozapato es un animal raro pero bello.",
+                "respuestaCorrecta": "true",
+                "explicacion": "Correcto. La sección se llama 'Animales raros, pero bellos' y presenta al picozapato como un ave impresionante."
+            },
+            {
+                "id": "k1-len-b5-007",
+                "tema": "El cubo del mar y el ala (p.136-137)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Los cubos del libro muestran figuras para armar de:",
+                "opciones": [
+                    "Robots",
+                    "Animales del mar y del bosque",
+                    "Carros",
+                    "Casas"
+                ],
+                "respuestaCorrecta": "Animales del mar y del bosque",
+                "explicacion": "Las páginas 136-137 muestran cubos recortables con figuras de animales del mar (pez) y del bosque (oso). Son actividades para armar en 3D."
+            },
+            {
+                "id": "k1-len-b5-008",
+                "tema": "Los nombres de los dedos (p.148)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "El dedo del medio también se llama dedo:",
+                "opciones": [
+                    "Pulgar",
+                    "Corazón",
+                    "Meñique",
+                    "Índice"
+                ],
+                "respuestaCorrecta": "Corazón",
+                "explicacion": "El libro dice: 'Medio: tercer dedo, también se llama cordial, corazón o mayor'."
+            },
+            {
+                "id": "k1-len-b5-009",
+                "tema": "El picozapato (p.142)",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Las alas del picozapato pueden extenderse hasta ___ metros.",
+                "respuestaCorrecta": "2.60",
+                "explicacion": "El libro dice que las alas del picozapato 'pueden extenderse hasta 2.60 metros'."
+            },
+            {
+                "id": "k1-len-b5-010",
+                "tema": "Palabras en lengua (p.153)",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En México se hablan muchas lenguas, no solo español.",
+                "respuestaCorrecta": "true",
+                "explicacion": "Correcto. El capítulo 'Palabras en lengua' presenta palabras en lenguas indígenas de México, mostrando la diversidad lingüística del país."
+            }
+        ],
+        "v2": [
+            {
+                "id": "k1-len-b5-011",
+                "tema": "Los nombres de los dedos (p.148)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cuál es el segundo dedo de la mano, que está entre el pulgar y el dedo corazón?",
+                "opciones": [
+                    "Meñique",
+                    "Anular",
+                    "Índice",
+                    "Pulgar"
+                ],
+                "respuestaCorrecta": "Índice",
+                "explicacion": "El libro dice: 'Índice: segundo dedo, está entre el pulgar y el dedo corazón'."
+            },
+            {
+                "id": "k1-len-b5-012",
+                "tema": "Los nombres de los dedos (p.148)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Qué dedo está entre el medio y el meñique?",
+                "opciones": [
+                    "Pulgar",
+                    "Índice",
+                    "Anular",
+                    "Corazón"
+                ],
+                "respuestaCorrecta": "Anular",
+                "explicacion": "El libro dice: 'Anular: cuarto dedo, está entre el medio y el meñique'."
+            },
+            {
+                "id": "k1-len-b5-013",
+                "tema": "El picozapato (p.142)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿De qué color es el picozapato?",
+                "opciones": [
+                    "Rojo brillante",
+                    "Gris azulado",
+                    "Amarillo",
+                    "Verde"
+                ],
+                "respuestaCorrecta": "Gris azulado",
+                "explicacion": "Tanto la ilustración como la foto real muestran al picozapato de color gris azulado oscuro, con un pico grande amarillento."
+            },
+            {
+                "id": "k1-len-b5-014",
+                "tema": "Abatuti (p.138-141)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Qué tipo de historia es 'Abatuti'?",
+                "opciones": [
+                    "Una receta de cocina",
+                    "Un cuento o historia con personajes fantásticos",
+                    "Un ejercicio de matemáticas",
+                    "Un mapa"
+                ],
+                "respuestaCorrecta": "Un cuento o historia con personajes fantásticos",
+                "explicacion": "Abatuti es un cuento con personajes ilustrados que cuenta una historia para la imaginación de los niños."
+            },
+            {
+                "id": "k1-len-b5-015",
+                "tema": "Manuel Álvarez Bravo (p.132-135)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Qué tipo de arte se muestra de Manuel Álvarez Bravo?",
+                "opciones": [
+                    "Escultura",
+                    "Fotografía",
+                    "Danza",
+                    "Música"
+                ],
+                "respuestaCorrecta": "Fotografía",
+                "explicacion": "Manuel Álvarez Bravo fue un famoso fotógrafo mexicano. Sus fotografías en blanco y negro se muestran en estas páginas del libro."
+            },
+            {
+                "id": "k1-len-b5-016",
+                "tema": "Los nombres de los dedos (p.148)",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "El meñique también se llama dedo auricular.",
+                "respuestaCorrecta": "true",
+                "explicacion": "Correcto. El libro dice: 'Meñique: el quinto dedo, también es llamado dedo auricular'."
+            },
+            {
+                "id": "k1-len-b5-017",
+                "tema": "El picozapato (p.142)",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "El picozapato es un pez que vive en el mar.",
+                "respuestaCorrecta": "false",
+                "explicacion": "¡Falso! El picozapato es un ave (pájaro) grande con alas enormes. No es un pez."
+            },
+            {
+                "id": "k1-len-b5-018",
+                "tema": "El cubo del mar y el ala (p.136-137)",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "Los cubos de las páginas 136-137 son actividades que se pueden recortar y armar.",
+                "respuestaCorrecta": "true",
+                "explicacion": "Correcto. Son figuras recortables en forma de cubo que se pueden armar en 3D, una con tema del mar y otra con animales del bosque."
+            },
+            {
+                "id": "k1-len-b5-019",
+                "tema": "Palabras en lengua (p.153)",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Qué muestra el capítulo 'Palabras en lengua'?",
+                "opciones": [
+                    "Palabras en inglés",
+                    "Palabras en lenguas indígenas de México",
+                    "Palabras en chino",
+                    "Números romanos"
+                ],
+                "respuestaCorrecta": "Palabras en lenguas indígenas de México",
+                "explicacion": "El capítulo presenta palabras y expresiones en lenguas originarias de México, como el náhuatl, el maya y otras."
+            },
+            {
+                "id": "k1-len-b5-020",
+                "tema": "Los nombres de los dedos (p.148)",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "El dedo que usamos para señalar se llama ___.",
+                "respuestaCorrecta": "índice",
+                "explicacion": "El índice es el segundo dedo, el que usamos normalmente para señalar cosas."
+            }
+        ],
+        "preview": [
+            {
+                "id": "k1-len-b5-001",
+                "tema": "El picozapato (p.142)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Por qué se llama 'picozapato' el ave del libro?",
+                "opciones": [
+                    "Porque tiene zapatos",
+                    "Porque su pico se parece a un zapato zueco",
+                    "Porque camina en zapatos",
+                    "Porque es de Holanda"
+                ],
+                "respuestaCorrecta": "Porque su pico se parece a un zapato zueco",
+                "explicacion": "Su nombre se debe al parecido de su pico con un zapato zueco holandés."
+            },
+            {
+                "id": "k1-len-b5-003",
+                "tema": "Los nombres de los dedos (p.148)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cuántos dedos tiene cada mano?",
+                "opciones": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "respuestaCorrecta": "5",
+                "explicacion": "Son cinco dedos con diferentes tamaños y nombres."
+            },
+            {
+                "id": "k1-len-b5-010",
+                "tema": "Palabras en lengua (p.153)",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En México se hablan muchas lenguas, no solo español.",
+                "respuestaCorrecta": "true",
+                "explicacion": "Correcto. México tiene una gran diversidad de lenguas indígenas."
+            }
+        ]
+    },
+    "generado": "2026-03-10T21:50:00.000Z",
+    "version": "3.0-libro-real"
+}

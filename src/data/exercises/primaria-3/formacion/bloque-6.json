@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-3",
+    "materia": "formacion",
+    "bloque": 6,
+    "nombre": "Valores en mis manos (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Inclusión y Respeto",
+        "Reglas de convivencia sana",
+        "Tolerancia vs Discriminación",
+        "Derechos de los niños sordos"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p3-fce-b6-v1-001",
+                "tema": "Inclusión y Respeto",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En LSM, la seña para la palabra 'RESPETO' se hace acercando las manos al propio cuerpo y mirando hacia abajo, como si nos ocultáramos.",
+                "respuestaCorrecta": "false",
+                "explicacion": "¡Falso! La seña de RESPETO se hace desde nuestra frente (el pensamiento) proyectando las letras 'R' hacia la otra persona en una curva hacia arriba. Significa 'te honro'. Las manos nunca se ocultan al dar respeto. 🤝"
+            },
+            {
+                "id": "p3-fce-b6-v1-002",
+                "tema": "Derechos y Discapacidad",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se dice 'SORDO' de manera correcta y respetuosa en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "Con el dedo índice tocamos nuestra oreja derecha, y rápidamente el mismo dedo lo llevamos a la boca (cerrada).",
+                    "Hacemos una cruz grande sobre los oídos.",
+                    "Deletreamos S-O-R-D-O-M-U-D-O letra por letra."
+                ],
+                "respuestaCorrecta": "Con el dedo índice tocamos nuestra oreja derecha, y rápidamente el mismo dedo lo llevamos a la boca (cerrada).",
+                "explicacion": "¡Exacto! Tocar la oreja y la boca significa 'Persona que no oye y no verbaliza oralmente'. NOTA: El término 'sordomudo' se considera ofensivo, la palabra correcta y legal es Persona Sorda. 🦻"
+            },
+            {
+                "id": "p3-fce-b6-v1-003",
+                "tema": "Reglas de convivencia",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de 'AYUDAR' ponemos una mano cerrada en puño apoyada sobre la palma abierta de la otra mano, y las ___ hacia la dirección de quien necesita apoyo.",
+                "respuestaCorrecta": "empujamos",
+                "explicacion": "¡Correcto! Una mano sirve de 'base' o 'apoyo' para la otra (que es la carga), y si yo empujo ese conjunto hacia ti, significa 'YO TE AYUDO A TI'. Es una seña direccional. 🤲"
+            },
+            {
+                "id": "p3-fce-b6-v1-004",
+                "tema": "Tolerancia y Paz",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos 'PAZ' o tranquilidad en LSM?",
+                "opciones": [
+                    "Colocamos nuestras palmas viendo hacia abajo a la altura del pecho, y las bajamos juntas lentamente y con calma hacia el estómago.",
+                    "Formamos una letra V de victoria con ambas manos.",
+                    "Frotamos nuestras manos rápido como cuando hace frío."
+                ],
+                "respuestaCorrecta": "Colocamos nuestras palmas viendo hacia abajo a la altura del pecho, y las bajamos juntas lentamente y con calma hacia el estómago.",
+                "explicacion": "¡Muy bien! Este movimiento lento de 'alisar' o 'bajar' la energía transmite perfectamente la sensación de la PAZ, la calma y el sosiego interior. 🕊️"
+            }
+        ]
+    },
+    "generado": "2026-03-10T18:40:00.000Z",
+    "version": "3.0"
+}
