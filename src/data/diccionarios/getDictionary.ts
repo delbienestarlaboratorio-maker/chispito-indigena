@@ -1,10 +1,13 @@
 import { dicEs } from './es';
 import { dicNah } from './nah';
 import { nahMap } from './nahMap';
+import { dicMaya } from './maya';
+import { mayaMap } from './mayaMap';
 
 const getTranslationMap = (lang: string): [string, string][] => {
     switch (lang) {
         case 'nahuatl': return nahMap;
+        case 'maya': return mayaMap;
         default: return []; // Espanol has no map because it's the base
     }
 };
@@ -12,7 +15,7 @@ const getTranslationMap = (lang: string): [string, string][] => {
 const getBaseDictionary = (lang: string) => {
     switch (lang) {
         case 'nahuatl': return dicNah;
-        // Case maya, etc.
+        case 'maya': return dicMaya;
         default: return dicEs;
     }
 };
@@ -42,3 +45,4 @@ export const getDictionary = (lang: string) => {
         }
     };
 };
+
