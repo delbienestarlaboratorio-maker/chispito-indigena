@@ -7,6 +7,9 @@ on:
   repository_dispatch:
     types: [upstream-sync]
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     name: Sync upstream (chispito.mx)
@@ -31,7 +34,7 @@ jobs:
 
       - name: Merge upstream (keep our files on conflict)
         run: |
-          git merge upstream/main --no-edit -X ours || true
+          git merge upstream/main --no-edit --allow-unrelated-histories -X ours || true
           # Restore our i18n-specific files that must NEVER be overwritten
           git checkout HEAD -- src/middleware.ts || true
           git checkout HEAD -- src/middleware.ts.backup || true
