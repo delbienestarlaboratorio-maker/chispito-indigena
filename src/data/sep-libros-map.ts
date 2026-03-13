@@ -189,6 +189,162 @@ export const MAPA_LIBROS: Record<string, Record<string, LibroSepInfo[]>> = {
             { codigo: "EIP072", paginaInicio: 1, paginaFin: 200, descripcion: "Proyecto en mi lengua: Tojolabal — 3° Primaria" },
         ],
     },
+
+    // ─── TELESECUNDARIA 1° (Colección Ximhai) ────────────────────────────
+    "telesecundaria-1": {
+        lenguajes_nem: [
+            { codigo: "T1LEA", paginaInicio: 8, paginaFin: 56, descripcion: "Lenguajes Telesecundaria 1° (Ximhai) — págs. 8-56" },
+            { codigo: "T1LEA", paginaInicio: 57, paginaFin: 112, descripcion: "Lenguajes Telesecundaria 1° (Ximhai) — págs. 57-112" },
+            { codigo: "T1LEA", paginaInicio: 113, paginaFin: 168, descripcion: "Lenguajes Telesecundaria 1° (Ximhai) — págs. 113-168" },
+            { codigo: "T1LEA", paginaInicio: 169, paginaFin: 224, descripcion: "Lenguajes Telesecundaria 1° (Ximhai) — págs. 169-224" },
+            { codigo: "T1LEA", paginaInicio: 225, paginaFin: 281, descripcion: "Lenguajes Telesecundaria 1° (Ximhai) — págs. 225-281" },
+        ],
+        saberes_cientificos: [
+            { codigo: "T1SAA", paginaInicio: 8, paginaFin: 56, descripcion: "Saberes y Pensamiento Científico 1° (Ximhai) — págs. 8-56" },
+            { codigo: "T1SAA", paginaInicio: 57, paginaFin: 112, descripcion: "Saberes y Pensamiento Científico 1° (Ximhai) — págs. 57-112" },
+            { codigo: "T1SAA", paginaInicio: 113, paginaFin: 168, descripcion: "Saberes y Pensamiento Científico 1° (Ximhai) — págs. 113-168" },
+            { codigo: "T1SAA", paginaInicio: 169, paginaFin: 224, descripcion: "Saberes y Pensamiento Científico 1° (Ximhai) — págs. 169-224" },
+            { codigo: "T1SAA", paginaInicio: 225, paginaFin: 281, descripcion: "Saberes y Pensamiento Científico 1° (Ximhai) — págs. 225-281" },
+        ],
+        etica_naturaleza: [
+            { codigo: "T1ETA", paginaInicio: 8, paginaFin: 56, descripcion: "Ética, Naturaleza y Sociedades 1° (Ximhai) — págs. 8-56" },
+            { codigo: "T1ETA", paginaInicio: 57, paginaFin: 112, descripcion: "Ética, Naturaleza y Sociedades 1° (Ximhai) — págs. 57-112" },
+            { codigo: "T1ETA", paginaInicio: 113, paginaFin: 168, descripcion: "Ética, Naturaleza y Sociedades 1° (Ximhai) — págs. 113-168" },
+            { codigo: "T1ETA", paginaInicio: 169, paginaFin: 224, descripcion: "Ética, Naturaleza y Sociedades 1° (Ximhai) — págs. 169-224" },
+            { codigo: "T1ETA", paginaInicio: 225, paginaFin: 281, descripcion: "Ética, Naturaleza y Sociedades 1° (Ximhai) — págs. 225-281" },
+        ],
+        humano_comunitario: [
+            { codigo: "T1HUA", paginaInicio: 8, paginaFin: 52, descripcion: "De lo Humano y lo Comunitario 1° (Ximhai) — págs. 8-52" },
+            { codigo: "T1HUA", paginaInicio: 53, paginaFin: 104, descripcion: "De lo Humano y lo Comunitario 1° (Ximhai) — págs. 53-104" },
+            { codigo: "T1HUA", paginaInicio: 105, paginaFin: 156, descripcion: "De lo Humano y lo Comunitario 1° (Ximhai) — págs. 105-156" },
+            { codigo: "T1HUA", paginaInicio: 157, paginaFin: 208, descripcion: "De lo Humano y lo Comunitario 1° (Ximhai) — págs. 157-208" },
+            { codigo: "T1HUA", paginaInicio: 209, paginaFin: 259, descripcion: "De lo Humano y lo Comunitario 1° (Ximhai) — págs. 209-259" },
+        ],
+        multiples_lenguajes: [
+            { codigo: "T1MLA", paginaInicio: 8, paginaFin: 40, descripcion: "Múltiples Lenguajes 1° (Ximhai) — págs. 8-40" },
+            { codigo: "T1MLA", paginaInicio: 41, paginaFin: 72, descripcion: "Múltiples Lenguajes 1° (Ximhai) — págs. 41-72" },
+            { codigo: "T1MLA", paginaInicio: 73, paginaFin: 104, descripcion: "Múltiples Lenguajes 1° (Ximhai) — págs. 73-104" },
+            { codigo: "T1MLA", paginaInicio: 105, paginaFin: 136, descripcion: "Múltiples Lenguajes 1° (Ximhai) — págs. 105-136" },
+            { codigo: "T1MLA", paginaInicio: 137, paginaFin: 163, descripcion: "Múltiples Lenguajes 1° (Ximhai) — págs. 137-163" },
+        ],
+        proyectos_nem: [
+            { codigo: "T1LP1", paginaInicio: 1, paginaFin: 281, descripcion: "Proyectos Tomo I — 1° Telesecundaria (Ximhai)" },
+            { codigo: "T1LP2", paginaInicio: 1, paginaFin: 267, descripcion: "Proyectos Tomo II — 1° Telesecundaria (Ximhai)" },
+            { codigo: "T1LP3", paginaInicio: 1, paginaFin: 275, descripcion: "Proyectos Tomo III — 1° Telesecundaria (Ximhai)" },
+            { codigo: "T1LP1", paginaInicio: 1, paginaFin: 281, descripcion: "Proyecto Integrador — Telesecundaria 1°" },
+        ],
+        ingles: [
+            { codigo: "T1INA", paginaInicio: 8, paginaFin: 44, descripcion: "Projects and Readings (Inglés) 1° — págs. 8-44" },
+            { codigo: "T1INA", paginaInicio: 45, paginaFin: 82, descripcion: "Projects and Readings (Inglés) 1° — págs. 45-82" },
+            { codigo: "T1INA", paginaInicio: 83, paginaFin: 120, descripcion: "Projects and Readings (Inglés) 1° — págs. 83-120" },
+            { codigo: "T1INA", paginaInicio: 121, paginaFin: 154, descripcion: "Projects and Readings (Inglés) 1° — págs. 121-154" },
+            { codigo: "T1INA", paginaInicio: 155, paginaFin: 187, descripcion: "Projects and Readings (Inglés) 1° — págs. 155-187" },
+        ],
+    },
+
+    // ─── TELESECUNDARIA 2° (Colección Sk'asolil) ─────────────────────────
+    "telesecundaria-2": {
+        lenguajes_nem: [
+            { codigo: "T2LEA", paginaInicio: 8, paginaFin: 56, descripcion: "Lenguajes Telesecundaria 2° (Sk'asolil) — págs. 8-56" },
+            { codigo: "T2LEA", paginaInicio: 57, paginaFin: 112, descripcion: "Lenguajes Telesecundaria 2° (Sk'asolil) — págs. 57-112" },
+            { codigo: "T2LEA", paginaInicio: 113, paginaFin: 168, descripcion: "Lenguajes Telesecundaria 2° (Sk'asolil) — págs. 113-168" },
+            { codigo: "T2LEA", paginaInicio: 169, paginaFin: 224, descripcion: "Lenguajes Telesecundaria 2° (Sk'asolil) — págs. 169-224" },
+            { codigo: "T2LEA", paginaInicio: 225, paginaFin: 281, descripcion: "Lenguajes Telesecundaria 2° (Sk'asolil) — págs. 225-281" },
+        ],
+        saberes_cientificos: [
+            { codigo: "T2SAA", paginaInicio: 8, paginaFin: 56, descripcion: "Saberes y Pensamiento Científico 2° (Sk'asolil) — págs. 8-56" },
+            { codigo: "T2SAA", paginaInicio: 57, paginaFin: 112, descripcion: "Saberes y Pensamiento Científico 2° (Sk'asolil) — págs. 57-112" },
+            { codigo: "T2SAA", paginaInicio: 113, paginaFin: 168, descripcion: "Saberes y Pensamiento Científico 2° (Sk'asolil) — págs. 113-168" },
+            { codigo: "T2SAA", paginaInicio: 169, paginaFin: 224, descripcion: "Saberes y Pensamiento Científico 2° (Sk'asolil) — págs. 169-224" },
+            { codigo: "T2SAA", paginaInicio: 225, paginaFin: 281, descripcion: "Saberes y Pensamiento Científico 2° (Sk'asolil) — págs. 225-281" },
+        ],
+        etica_naturaleza: [
+            { codigo: "T2ETA", paginaInicio: 8, paginaFin: 40, descripcion: "Ética, Naturaleza y Sociedades 2° (Sk'asolil) — págs. 8-40" },
+            { codigo: "T2ETA", paginaInicio: 41, paginaFin: 78, descripcion: "Ética, Naturaleza y Sociedades 2° (Sk'asolil) — págs. 41-78" },
+            { codigo: "T2ETA", paginaInicio: 79, paginaFin: 112, descripcion: "Ética, Naturaleza y Sociedades 2° (Sk'asolil) — págs. 79-112" },
+            { codigo: "T2ETA", paginaInicio: 113, paginaFin: 140, descripcion: "Ética, Naturaleza y Sociedades 2° (Sk'asolil) — págs. 113-140" },
+            { codigo: "T2ETA", paginaInicio: 141, paginaFin: 156, descripcion: "Ética, Naturaleza y Sociedades 2° (Sk'asolil) — págs. 141-156" },
+        ],
+        humano_comunitario: [
+            { codigo: "T2HUA", paginaInicio: 8, paginaFin: 56, descripcion: "De lo Humano y lo Comunitario 2° (Sk'asolil) — págs. 8-56" },
+            { codigo: "T2HUA", paginaInicio: 57, paginaFin: 112, descripcion: "De lo Humano y lo Comunitario 2° (Sk'asolil) — págs. 57-112" },
+            { codigo: "T2HUA", paginaInicio: 113, paginaFin: 168, descripcion: "De lo Humano y lo Comunitario 2° (Sk'asolil) — págs. 113-168" },
+            { codigo: "T2HUA", paginaInicio: 169, paginaFin: 224, descripcion: "De lo Humano y lo Comunitario 2° (Sk'asolil) — págs. 169-224" },
+            { codigo: "T2HUA", paginaInicio: 225, paginaFin: 259, descripcion: "De lo Humano y lo Comunitario 2° (Sk'asolil) — págs. 225-259" },
+        ],
+        multiples_lenguajes: [
+            { codigo: "T2MLA", paginaInicio: 8, paginaFin: 40, descripcion: "Múltiples Lenguajes 2° (Sk'asolil) — págs. 8-40" },
+            { codigo: "T2MLA", paginaInicio: 41, paginaFin: 72, descripcion: "Múltiples Lenguajes 2° (Sk'asolil) — págs. 41-72" },
+            { codigo: "T2MLA", paginaInicio: 73, paginaFin: 104, descripcion: "Múltiples Lenguajes 2° (Sk'asolil) — págs. 73-104" },
+            { codigo: "T2MLA", paginaInicio: 105, paginaFin: 136, descripcion: "Múltiples Lenguajes 2° (Sk'asolil) — págs. 105-136" },
+            { codigo: "T2MLA", paginaInicio: 137, paginaFin: 163, descripcion: "Múltiples Lenguajes 2° (Sk'asolil) — págs. 137-163" },
+        ],
+        proyectos_nem: [
+            { codigo: "T2LP1", paginaInicio: 1, paginaFin: 281, descripcion: "Proyectos Tomo I — 2° Telesecundaria (Sk'asolil)" },
+            { codigo: "T2LP2", paginaInicio: 1, paginaFin: 267, descripcion: "Proyectos Tomo II — 2° Telesecundaria (Sk'asolil)" },
+            { codigo: "T2LP3", paginaInicio: 1, paginaFin: 275, descripcion: "Proyectos Tomo III — 2° Telesecundaria (Sk'asolil)" },
+            { codigo: "T2LP1", paginaInicio: 1, paginaFin: 281, descripcion: "Proyecto Integrador — Telesecundaria 2°" },
+        ],
+        ingles: [
+            { codigo: "T2INA", paginaInicio: 8, paginaFin: 42, descripcion: "Projects and Readings (Inglés) 2° — págs. 8-42" },
+            { codigo: "T2INA", paginaInicio: 43, paginaFin: 78, descripcion: "Projects and Readings (Inglés) 2° — págs. 43-78" },
+            { codigo: "T2INA", paginaInicio: 79, paginaFin: 114, descripcion: "Projects and Readings (Inglés) 2° — págs. 79-114" },
+            { codigo: "T2INA", paginaInicio: 115, paginaFin: 146, descripcion: "Projects and Readings (Inglés) 2° — págs. 115-146" },
+            { codigo: "T2INA", paginaInicio: 147, paginaFin: 171, descripcion: "Projects and Readings (Inglés) 2° — págs. 147-171" },
+        ],
+    },
+
+    // ─── TELESECUNDARIA 3° (Colección Nanahuatzin) ───────────────────────
+    "telesecundaria-3": {
+        lenguajes_nem: [
+            { codigo: "T3LEA", paginaInicio: 8, paginaFin: 56, descripcion: "Lenguajes Telesecundaria 3° (Nanahuatzin) — págs. 8-56" },
+            { codigo: "T3LEA", paginaInicio: 57, paginaFin: 112, descripcion: "Lenguajes Telesecundaria 3° (Nanahuatzin) — págs. 57-112" },
+            { codigo: "T3LEA", paginaInicio: 113, paginaFin: 168, descripcion: "Lenguajes Telesecundaria 3° (Nanahuatzin) — págs. 113-168" },
+            { codigo: "T3LEA", paginaInicio: 169, paginaFin: 224, descripcion: "Lenguajes Telesecundaria 3° (Nanahuatzin) — págs. 169-224" },
+            { codigo: "T3LEA", paginaInicio: 225, paginaFin: 281, descripcion: "Lenguajes Telesecundaria 3° (Nanahuatzin) — págs. 225-281" },
+        ],
+        saberes_cientificos: [
+            { codigo: "T3SAA", paginaInicio: 8, paginaFin: 56, descripcion: "Saberes y Pensamiento Científico 3° (Nanahuatzin) — págs. 8-56" },
+            { codigo: "T3SAA", paginaInicio: 57, paginaFin: 112, descripcion: "Saberes y Pensamiento Científico 3° (Nanahuatzin) — págs. 57-112" },
+            { codigo: "T3SAA", paginaInicio: 113, paginaFin: 168, descripcion: "Saberes y Pensamiento Científico 3° (Nanahuatzin) — págs. 113-168" },
+            { codigo: "T3SAA", paginaInicio: 169, paginaFin: 224, descripcion: "Saberes y Pensamiento Científico 3° (Nanahuatzin) — págs. 169-224" },
+            { codigo: "T3SAA", paginaInicio: 225, paginaFin: 281, descripcion: "Saberes y Pensamiento Científico 3° (Nanahuatzin) — págs. 225-281" },
+        ],
+        etica_naturaleza: [
+            { codigo: "T3ETA", paginaInicio: 8, paginaFin: 56, descripcion: "Ética, Naturaleza y Sociedades 3° (Nanahuatzin) — págs. 8-56" },
+            { codigo: "T3ETA", paginaInicio: 57, paginaFin: 112, descripcion: "Ética, Naturaleza y Sociedades 3° (Nanahuatzin) — págs. 57-112" },
+            { codigo: "T3ETA", paginaInicio: 113, paginaFin: 168, descripcion: "Ética, Naturaleza y Sociedades 3° (Nanahuatzin) — págs. 113-168" },
+            { codigo: "T3ETA", paginaInicio: 169, paginaFin: 224, descripcion: "Ética, Naturaleza y Sociedades 3° (Nanahuatzin) — págs. 169-224" },
+            { codigo: "T3ETA", paginaInicio: 225, paginaFin: 281, descripcion: "Ética, Naturaleza y Sociedades 3° (Nanahuatzin) — págs. 225-281" },
+        ],
+        humano_comunitario: [
+            { codigo: "T3HUA", paginaInicio: 8, paginaFin: 52, descripcion: "De lo Humano y lo Comunitario 3° (Nanahuatzin) — págs. 8-52" },
+            { codigo: "T3HUA", paginaInicio: 53, paginaFin: 104, descripcion: "De lo Humano y lo Comunitario 3° (Nanahuatzin) — págs. 53-104" },
+            { codigo: "T3HUA", paginaInicio: 105, paginaFin: 156, descripcion: "De lo Humano y lo Comunitario 3° (Nanahuatzin) — págs. 105-156" },
+            { codigo: "T3HUA", paginaInicio: 157, paginaFin: 208, descripcion: "De lo Humano y lo Comunitario 3° (Nanahuatzin) — págs. 157-208" },
+            { codigo: "T3HUA", paginaInicio: 209, paginaFin: 259, descripcion: "De lo Humano y lo Comunitario 3° (Nanahuatzin) — págs. 209-259" },
+        ],
+        multiples_lenguajes: [
+            { codigo: "T3MLA", paginaInicio: 8, paginaFin: 40, descripcion: "Múltiples Lenguajes 3° (Nanahuatzin) — págs. 8-40" },
+            { codigo: "T3MLA", paginaInicio: 41, paginaFin: 72, descripcion: "Múltiples Lenguajes 3° (Nanahuatzin) — págs. 41-72" },
+            { codigo: "T3MLA", paginaInicio: 73, paginaFin: 104, descripcion: "Múltiples Lenguajes 3° (Nanahuatzin) — págs. 73-104" },
+            { codigo: "T3MLA", paginaInicio: 105, paginaFin: 136, descripcion: "Múltiples Lenguajes 3° (Nanahuatzin) — págs. 105-136" },
+            { codigo: "T3MLA", paginaInicio: 137, paginaFin: 163, descripcion: "Múltiples Lenguajes 3° (Nanahuatzin) — págs. 137-163" },
+        ],
+        proyectos_nem: [
+            { codigo: "T3LP1", paginaInicio: 1, paginaFin: 281, descripcion: "Proyectos Tomo I — 3° Telesecundaria (Nanahuatzin)" },
+            { codigo: "T3LP2", paginaInicio: 1, paginaFin: 267, descripcion: "Proyectos Tomo II — 3° Telesecundaria (Nanahuatzin)" },
+            { codigo: "T3LP3", paginaInicio: 1, paginaFin: 275, descripcion: "Proyectos Tomo III — 3° Telesecundaria (Nanahuatzin)" },
+            { codigo: "T3LP1", paginaInicio: 1, paginaFin: 281, descripcion: "Proyecto Integrador — Telesecundaria 3°" },
+        ],
+        ingles: [
+            { codigo: "T3INA", paginaInicio: 8, paginaFin: 42, descripcion: "Projects and Readings (Inglés) 3° — págs. 8-42" },
+            { codigo: "T3INA", paginaInicio: 43, paginaFin: 78, descripcion: "Projects and Readings (Inglés) 3° — págs. 43-78" },
+            { codigo: "T3INA", paginaInicio: 79, paginaFin: 114, descripcion: "Projects and Readings (Inglés) 3° — págs. 79-114" },
+            { codigo: "T3INA", paginaInicio: 115, paginaFin: 146, descripcion: "Projects and Readings (Inglés) 3° — págs. 115-146" },
+            { codigo: "T3INA", paginaInicio: 147, paginaFin: 171, descripcion: "Projects and Readings (Inglés) 3° — págs. 147-171" },
+        ],
+    },
 };
 
 /**

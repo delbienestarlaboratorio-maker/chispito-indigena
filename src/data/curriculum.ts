@@ -1,5 +1,6 @@
 // Currículo SEP México - Plan 2022 (Nueva Escuela Mexicana)
 // Fuente: CONALITEG / conaliteg.gob.mx
+import { BLOQUES_TELESECUNDARIA } from './content-telesecundaria';
 
 export type Materia = {
     id: string;
@@ -19,7 +20,7 @@ export type Bloque = {
 export type Grado = {
     numero: number;
     nombre: string;
-    nivel: "preescolar" | "primaria" | "secundaria" | "bachillerato";
+    nivel: "preescolar" | "primaria" | "secundaria" | "telesecundaria" | "bachillerato";
     slug: string;
     emoji: string;
     color: string;
@@ -134,6 +135,49 @@ export const MATERIAS: Record<string, Materia> = {
         emoji: "🗣️",
         color: "#9333EA",
         bgColor: "#F3E8FF",
+    },
+    // ── Materias NEM (Telesecundaria) ──
+    etica_naturaleza: {
+        id: "etica_naturaleza",
+        nombre: "Ética, Naturaleza y Sociedades",
+        emoji: "🌿",
+        color: "#10B981",
+        bgColor: "#ECFDF5",
+    },
+    humano_comunitario: {
+        id: "humano_comunitario",
+        nombre: "De lo Humano y lo Comunitario",
+        emoji: "🤝",
+        color: "#F59E0B",
+        bgColor: "#FFFBEB",
+    },
+    lenguajes_nem: {
+        id: "lenguajes_nem",
+        nombre: "Lenguajes",
+        emoji: "📖",
+        color: "#3B82F6",
+        bgColor: "#EFF6FF",
+    },
+    saberes_cientificos: {
+        id: "saberes_cientificos",
+        nombre: "Saberes y Pensamiento Científico",
+        emoji: "🔬",
+        color: "#8B5CF6",
+        bgColor: "#F5F3FF",
+    },
+    multiples_lenguajes: {
+        id: "multiples_lenguajes",
+        nombre: "Múltiples Lenguajes",
+        emoji: "🎭",
+        color: "#EC4899",
+        bgColor: "#FDF2F8",
+    },
+    proyectos_nem: {
+        id: "proyectos_nem",
+        nombre: "Proyectos",
+        emoji: "📋",
+        color: "#14B8A6",
+        bgColor: "#F0FDFA",
     }
 };
 
@@ -206,6 +250,22 @@ const _TODOS_GRADOS: Grado[] = [
         numero: 3, nombre: "3° Secundaria", nivel: "secundaria", slug: "secundaria-3",
         emoji: "🎓", color: "#EC4899", gradient: "from-fuchsia-400 to-purple-600",
         alumnos: 1993000, materias: ["matematicas", "espanol", "historia", "ciencias", "geografia", "formacion", "ingles", "tecnologia", "artes", "educacion_fisica", "orientacion"],
+    },
+    // TELESECUNDARIA (NEM — Nueva Escuela Mexicana)
+    {
+        numero: 1, nombre: "1° Telesecundaria", nivel: "telesecundaria", slug: "telesecundaria-1",
+        emoji: "📺", color: "#0EA5E9", gradient: "from-sky-400 to-cyan-600",
+        alumnos: 500000, materias: ["lenguajes_nem", "saberes_cientificos", "etica_naturaleza", "humano_comunitario", "multiples_lenguajes", "proyectos_nem", "ingles"],
+    },
+    {
+        numero: 2, nombre: "2° Telesecundaria", nivel: "telesecundaria", slug: "telesecundaria-2",
+        emoji: "📺", color: "#06B6D4", gradient: "from-cyan-400 to-teal-600",
+        alumnos: 480000, materias: ["lenguajes_nem", "saberes_cientificos", "etica_naturaleza", "humano_comunitario", "multiples_lenguajes", "proyectos_nem", "ingles"],
+    },
+    {
+        numero: 3, nombre: "3° Telesecundaria", nivel: "telesecundaria", slug: "telesecundaria-3",
+        emoji: "📺", color: "#0891B2", gradient: "from-teal-400 to-emerald-600",
+        alumnos: 460000, materias: ["lenguajes_nem", "saberes_cientificos", "etica_naturaleza", "humano_comunitario", "multiples_lenguajes", "proyectos_nem", "ingles"],
     },
     // BACHILLERATO — pendiente para fase futura, no expuesto aún
     { numero: 1, nombre: "1° Bachillerato", nivel: "bachillerato", slug: "bachillerato-1", emoji: "📐", color: "#6366F1", gradient: "from-indigo-500 to-purple-600", alumnos: 2100000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "tecnologia"] },
@@ -314,6 +374,8 @@ export const BLOQUES: Record<string, Record<string, Bloque[]>> = {
             },
         ],
     },
+    // Telesecundaria bloques (imported from content-telesecundaria.ts)
+    ...BLOQUES_TELESECUNDARIA,
 };
 
 export type EjercicioTipo = "multiple_choice" | "fill_blank" | "true_false" | "match" | "order" | "visual_count";
