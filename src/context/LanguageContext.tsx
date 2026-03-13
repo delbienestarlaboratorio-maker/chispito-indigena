@@ -3,6 +3,7 @@ import React, { createContext, useContext, ReactNode } from 'react';
 import { useParams, useRouter, usePathname } from 'next/navigation';
 import { dicEs, LanguageDictionary } from '../data/diccionarios/es';
 import { dicNah } from '../data/diccionarios/nah';
+import { dicMaya } from '../data/diccionarios/maya';
 
 type LanguageCode = 'espanol' | 'nahuatl' | 'maya' | 'tzotzil' | string;
 
@@ -32,7 +33,12 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     };
 
     const t = (key: keyof LanguageDictionary): string => {
-        const dic = lang === 'nahuatl' ? dicNah : dicEs;
+        let dic: LanguageDictionary;
+        switch (lang) {
+            case 'nahuatl': dic = dicNah; break;
+            case 'maya': dic = dicMaya; break;
+            default: dic = dicEs;
+        }
         return (dic as any)[key] || key;
     };
 
