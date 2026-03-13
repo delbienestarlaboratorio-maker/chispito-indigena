@@ -30,10 +30,8 @@ jobs:
 
       - name: Selective sync - copy shared files
         run: |
-          echo "=== Syncing shared directories ==="
-          # Components (shared UI)
-          rsync -av --delete /tmp/upstream/src/components/ src/components/
-          # Exercise data (715+ JSON files)
+          echo "=== Syncing shared data & assets ==="
+          # Exercise data (715+ JSON files) — the core content
           rsync -av --delete /tmp/upstream/src/data/exercises/ src/data/exercises/
           # Content data files (curriculum, characters, etc)
           cp /tmp/upstream/src/data/content-kinder.ts src/data/content-kinder.ts || true
@@ -44,12 +42,8 @@ jobs:
           cp /tmp/upstream/src/data/imagenes-materia.ts src/data/imagenes-materia.ts || true
           cp /tmp/upstream/src/data/sep-libros-map.ts src/data/sep-libros-map.ts || true
           cp /tmp/upstream/src/data/comentarios.json src/data/comentarios.json || true
-          # Hooks
-          rsync -av /tmp/upstream/src/hooks/ src/hooks/ || true
-          # Public assets (images, etc)
+          # Public assets (images, etc) — no delete to preserve our own assets
           rsync -av /tmp/upstream/public/ public/
-          # CSS globals
-          cp /tmp/upstream/src/app/globals.css src/app/globals.css || true
           echo "=== Sync complete ==="
 
       - name: Commit synced files
