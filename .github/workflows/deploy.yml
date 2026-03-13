@@ -3,6 +3,7 @@ name: Deploy to Cloudflare Pages
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -20,13 +21,39 @@ jobs:
         run: npm ci
 
       - name: Build with OpenNext for Cloudflare
-        run: npx opennextjs-cloudflare build
+        run: npm run pages:build
+        env:
+          NEXT_TELEMETRY_DISABLED: 1
 
-      - name: Prepare for Cloudflare Pages (rename worker.js → _worker.js)
-        run: cp .open-next/worker.js .open-next/_worker.js
+      - name: Assemble Edge Worker
+        run: |
+          cp .open-next/worker.js .open-next/assets/_worker.js
+          cp -r .open-next/cloudflare .open-next/assets/cloudflare
+          cp -r .open-next/middleware .open-next/assets/middleware
+          cp -r .open-next/server-functions .open-next/assets/server-functions
+          cp -r .open-next/.build .open-next/assets/.build
+          echo -e "cloudflare\nmiddleware\nserver-functions\n.build" > .open-next/assets/.cfignore
+
+      - name: Generate _routes.json
+        run: |
+          cat << 'EOF' > .open-next/assets/_routes.json
+          {
+            "version": 1,
+            "include": [
+              "/*"
+            ],
+            "exclude": [
+              "/_next/*",
+              "/favicon.ico",
+              "/icon.svg",
+              "/robots.txt",
+              "/sitemap.xml"
+            ]
+          }
+          EOF
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          command: pages deploy .open-next --project-name chispito-indigena --commit-dirty=true
+          command: pages deploy .open-next/assets --project-name chispito-indigena --commit-dirty=true
