@@ -18,7 +18,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
           token: ${{ secrets.SYNC_PAT }}
 
       - name: Configure git
@@ -26,50 +25,37 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Add upstream remote
-        run: git remote add upstream https://github.com/delbienestarlaboratorio-maker/Chispito.git
+      - name: Clone upstream (shallow)
+        run: git clone --depth 1 https://github.com/delbienestarlaboratorio-maker/Chispito.git /tmp/upstream
 
-      - name: Fetch upstream
-        run: git fetch upstream main
-
-      - name: Merge upstream (keep our files on conflict)
+      - name: Selective sync - copy shared files
         run: |
-          git merge upstream/main --no-edit --allow-unrelated-histories -X ours || true
-          # Restore our i18n-specific files that must NEVER be overwritten
-          git checkout HEAD -- src/middleware.ts || true
-          git checkout HEAD -- src/middleware.ts.backup || true
-          git checkout HEAD -- src/app/[lang] || true
-          git checkout HEAD -- src/data/diccionarios || true
-          git checkout HEAD -- wrangler.toml || true
-          git checkout HEAD -- open-next.config.ts || true
-          git checkout HEAD -- package.json || true
-          git checkout HEAD -- package-lock.json || true
-          # Remove upstream-only routes that conflict with our [lang] routing
-          git rm -rf src/app/layout.tsx || true
-          git rm -rf src/app/page.tsx || true
-          git rm -rf src/app/login || true
-          git rm -rf src/app/auth || true
-          git rm -rf src/app/mi-cuenta || true
-          git rm -rf src/app/blog || true
-          git rm -rf src/app/maestros || true
-          git rm -rf src/app/buscar-pagina || true
-          git rm -rf src/app/pipi-story || true
-          git rm -rf src/app/mantenimiento || true
-          git rm -rf src/app/opengraph-image.tsx || true
-          git rm -rf src/app/sitemap.ts || true
-          git rm -rf src/app/robots.ts || true
-          git rm -rf src/app/globals.css || true
-          git rm -rf src/app/icon.svg || true
-          git rm -rf src/app/[grado] || true
-          # Remove upstream-only workflow files
-          git rm -f .github/workflows/sync-downstream.yml || true
-          # Restore our deploy workflow exactly as-is
-          git checkout HEAD -- .github/workflows/deploy.yml || true
+          echo "=== Syncing shared directories ==="
+          # Components (shared UI)
+          rsync -av --delete /tmp/upstream/src/components/ src/components/
+          # Exercise data (715+ JSON files)
+          rsync -av --delete /tmp/upstream/src/data/exercises/ src/data/exercises/
+          # Content data files (curriculum, characters, etc)
+          cp /tmp/upstream/src/data/content-kinder.ts src/data/content-kinder.ts || true
+          cp /tmp/upstream/src/data/content-primaria.ts src/data/content-primaria.ts || true
+          cp /tmp/upstream/src/data/content-primaria3.ts src/data/content-primaria3.ts || true
+          cp /tmp/upstream/src/data/curriculum.ts src/data/curriculum.ts || true
+          cp /tmp/upstream/src/data/personajes.ts src/data/personajes.ts || true
+          cp /tmp/upstream/src/data/imagenes-materia.ts src/data/imagenes-materia.ts || true
+          cp /tmp/upstream/src/data/sep-libros-map.ts src/data/sep-libros-map.ts || true
+          cp /tmp/upstream/src/data/comentarios.json src/data/comentarios.json || true
+          # Hooks
+          rsync -av /tmp/upstream/src/hooks/ src/hooks/ || true
+          # Public assets (images, etc)
+          rsync -av /tmp/upstream/public/ public/
+          # CSS globals
+          cp /tmp/upstream/src/app/globals.css src/app/globals.css || true
+          echo "=== Sync complete ==="
 
-      - name: Commit merge result
+      - name: Commit synced files
         run: |
           git add -A
-          git diff --cached --quiet || git commit -m "chore: auto-sync from upstream chispito.mx (${{ github.event.client_payload.message }})"
+          git diff --cached --quiet || git commit -m "chore: auto-sync from chispito.mx (${{ github.event.client_payload.message }})"
 
       - name: Push
         run: git push origin main
