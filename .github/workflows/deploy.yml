@@ -24,7 +24,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Add upstream remote
-        run: git remote add upstream https://github.com/delbienestarlaboratorio-maker/chispito.mx.git
+        run: git remote add upstream https://github.com/delbienestarlaboratorio-maker/Chispito.git
 
       - name: Fetch upstream
         run: git fetch upstream main
