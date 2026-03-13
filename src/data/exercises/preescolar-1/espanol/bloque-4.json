@@ -2,423 +2,312 @@
   "grado": "preescolar-1",
   "materia": "espanol",
   "bloque": 4,
-  "nombre": "Cuentos y rimas",
-  "meses": "Febrero-Marzo",
+  "nombre": "Letras, palabras y escritura",
+  "libroSep": "K1MLA",
+  "paginasLibro": "81-120",
+  "meses": "Febrero–Marzo",
   "temas": [
-    "Mi nombre",
-    "Vocales A E I",
-    "Imágenes y palabras",
-    "Escuchar cuentos",
-    "Mis primeras letras"
+    "Consonantes L, T, D, N",
+    "Escribir mi nombre",
+    "Palabras cortas",
+    "El abecedario"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-espanol-b4-001",
-        "tema": "Vocales A E I",
+        "id": "pre1-esp-b4-v1-001",
+        "tema": "Consonantes L, T, D, N",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es una vocal?",
+        "pregunta": "¿Con qué letra empieza 'Luna'? 🌙",
         "opciones": [
-          "B",
+          "L",
           "M",
+          "P",
+          "S"
+        ],
+        "respuestaCorrecta": "L",
+        "explicacion": "¡La L! LU-NA. La L suena como 'el'. 🌙📝",
+        "visual": "🌙",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 85
+        }
+      },
+      {
+        "id": "pre1-esp-b4-v1-002",
+        "tema": "Consonantes L, T, D, N",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La palabra 'taco' empieza con la letra ___.",
+        "respuestaCorrecta": "T",
+        "explicacion": "¡La T! TA-CO. ¡Los tacos son deliciosos y empiezan con T! 🌮"
+      },
+      {
+        "id": "pre1-esp-b4-v1-003",
+        "tema": "Escribir mi nombre",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Mi nombre siempre se escribe con la primera letra MAYÚSCULA.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los nombres propios siempre empiezan con mayúscula: Ana, Carlos, María. 📝🔤"
+      },
+      {
+        "id": "pre1-esp-b4-v1-004",
+        "tema": "Palabras cortas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es una palabra de 3 letras?",
+        "opciones": [
+          "Sol ☀️",
+          "Mariposa 🦋",
+          "Elefante 🐘",
+          "Hipopótamo 🦛"
+        ],
+        "respuestaCorrecta": "Sol ☀️",
+        "explicacion": "¡SOL! S-O-L tiene solo 3 letras. Es una palabra cortita. ☀️",
+        "visual": "☀️"
+      },
+      {
+        "id": "pre1-esp-b4-v1-005",
+        "tema": "El abecedario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la primera letra del abecedario?",
+        "opciones": [
           "A",
-          "T"
+          "Z",
+          "M",
+          "B"
         ],
         "respuestaCorrecta": "A",
-        "explicacion": "Las vocales son: A, E, I, O, U. La A es vocal.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "explicacion": "¡La A! El abecedario empieza con A y termina con Z. A, B, C, D, E... 🔤"
       },
       {
-        "id": "preescolar-1-espanol-b4-002",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "MAMÁ empieza con la letra ___",
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es la M.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b4-003",
-        "tema": "Escuchar cuentos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"PERRO\" tiene 5 letras",
-        "respuestaCorrecta": "true",
-        "explicacion": "P-E-R-R-O. Sí, tiene 5 letras.",
-        "visual": "🐶",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-006",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b4-v1-006",
+        "tema": "Consonantes L, T, D, N",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
+        "pregunta": "¿Qué letra está en 'dado' y 'dedo'?",
         "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
+          "D",
+          "B",
+          "P",
+          "G"
         ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+        "respuestaCorrecta": "D",
+        "explicacion": "¡La D! DA-DO y DE-DO. La D suena como 'de'. 🎲👆"
       },
       {
-        "id": "preescolar-1-espanol-b4-x-007",
-        "tema": "Vocales A E I",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-008",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-009",
-        "tema": "Escuchar cuentos",
+        "id": "pre1-esp-b4-v1-007",
+        "tema": "Escribir mi nombre",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
+        "pregunta": "¿Para qué sirve saber escribir tu nombre?",
         "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
+          "Para firmar tus trabajos y que sepan quién eres",
+          "Para nada",
+          "Para dormir",
+          "Para comer"
         ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+        "respuestaCorrecta": "Para firmar tus trabajos y que sepan quién eres",
+        "explicacion": "¡Tu nombre es TU identidad! Saber escribirlo es superimportante. ✍️👤"
       },
       {
-        "id": "preescolar-1-espanol-b4-x-010",
-        "tema": "Mis primeras letras",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-011",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b4-v1-008",
+        "tema": "Palabras cortas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+        "pregunta": "La palabra 'pan' tiene ___ letras.",
+        "respuestaCorrecta": "3",
+        "explicacion": "¡3 letras! P-A-N. Es una palabra cortita y deliciosa. 🍞3️⃣"
       },
       {
-        "id": "preescolar-1-espanol-b4-x-012",
-        "tema": "Vocales A E I",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-013",
-        "tema": "Imágenes y palabras",
+        "id": "pre1-esp-b4-v1-009",
+        "tema": "El abecedario",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "pregunta": "El abecedario tiene 27 letras en español.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+        "explicacion": "¡Sí! El español tiene 27 letras incluyendo la Ñ. ¡La Ñ es única del español! 🇲🇽🔤"
       },
       {
-        "id": "preescolar-1-espanol-b4-x-014",
-        "tema": "Escuchar cuentos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-015",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-016",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b4-v1-010",
+        "tema": "Consonantes L, T, D, N",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "pregunta": "La palabra 'nube' empieza con la letra N.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-017",
-        "tema": "Vocales A E I",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+        "explicacion": "¡Sí! NU-BE empieza con N. ☁️📝"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-espanol-b4-004",
-        "tema": "Mis primeras letras",
+        "id": "pre1-esp-b4-v2-001",
+        "tema": "Consonantes L, T, D, N",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "L + A = ___, L + E = ___, L + I = ___",
+        "respuestaCorrecta": "LA, LE, LI",
+        "explicacion": "¡LA, LE, LI, LO, LU! La L con cada vocal forma una sílaba. 📝"
+      },
+      {
+        "id": "pre1-esp-b4-v2-002",
+        "tema": "Escribir mi nombre",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántas vocales hay en \"CASA\"?",
+        "pregunta": "¿Cuál está escrito correctamente?",
         "opciones": [
-          "1",
-          "2",
+          "María (con mayúscula)",
+          "maría (sin mayúscula)",
+          "MARÍA (todo mayúscula)",
+          "mArÍa"
+        ],
+        "respuestaCorrecta": "María (con mayúscula)",
+        "explicacion": "¡María! Primera letra mayúscula, el resto minúscula. ¡Así se escriben los nombres! 📝✅"
+      },
+      {
+        "id": "pre1-esp-b4-v2-003",
+        "tema": "Palabras cortas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas letras tiene 'casa'?",
+        "opciones": [
+          "4",
           "3",
-          "4"
+          "5",
+          "6"
         ],
-        "respuestaCorrecta": "2",
-        "explicacion": "C-A-S-A. Las vocales son: A y A. Hay 2 vocales.",
-        "visual": "🏠",
-        "visualAnimado": true
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 letras! C-A-S-A. ¡Puedes contar las letras de cualquier palabra! 🏠4️⃣"
       },
       {
-        "id": "preescolar-1-espanol-b4-005",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b4-v2-004",
+        "tema": "El abecedario",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las vocales son: A, E, ___, O, U",
-        "respuestaCorrecta": "I",
-        "explicacion": "Las 5 vocales son: A, E, I, O, U.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "pregunta": "La letra que viene después de la M es la ___.",
+        "respuestaCorrecta": "N",
+        "explicacion": "¡La N! ...L, M, N, Ñ, O... Las letras van en orden alfabético. 📝"
       },
       {
-        "id": "preescolar-1-espanol-b4-x-006",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b4-v2-005",
+        "tema": "Consonantes L, T, D, N",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué palabra forman estas sílabas? DA + DO",
+        "opciones": [
+          "Dado 🎲",
+          "Dedo",
+          "Día",
+          "Don"
+        ],
+        "respuestaCorrecta": "Dado 🎲",
+        "explicacion": "¡DADO! DA + DO = DADO. ¡Unir sílabas forma palabras! 🎲"
+      },
+      {
+        "id": "pre1-esp-b4-v2-006",
+        "tema": "Escribir mi nombre",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los apellidos también se escriben con mayúscula al inicio.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Nombre y apellidos con mayúscula: María López García. 📝🔤"
+      },
+      {
+        "id": "pre1-esp-b4-v2-007",
+        "tema": "Palabras cortas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las palabras más cortas del español tienen solo 1 o 2 letras: a, y, de, en.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 'A', 'y', 'de', 'en', 'el', 'la' — son palabras chiquitas pero muy importantes. 📏"
+      },
+      {
+        "id": "pre1-esp-b4-v2-008",
+        "tema": "El abecedario",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la última letra del abecedario?",
+        "opciones": [
+          "Z",
+          "Y",
+          "X",
+          "W"
+        ],
+        "respuestaCorrecta": "Z",
+        "explicacion": "¡La Z! El abecedario va de la A a la Z. ¡27 letras en total! 🔤"
+      },
+      {
+        "id": "pre1-esp-b4-v2-009",
+        "tema": "Consonantes L, T, D, N",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
+        "pregunta": "TO + MA + TE = Toma___.",
+        "respuestaCorrecta": "te",
+        "explicacion": "¡Tomate! TO-MA-TE. 3 sílabas que forman una palabra deliciosa. 🍅"
       },
       {
-        "id": "preescolar-1-espanol-b4-x-007",
-        "tema": "Vocales A E I",
-        "tipo": "multiple_choice",
+        "id": "pre1-esp-b4-v2-010",
+        "tema": "El abecedario",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-008",
-        "tema": "Imágenes y palabras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "visual": "😊",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-009",
-        "tema": "Escuchar cuentos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-010",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-011",
-        "tema": "Mi nombre",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "visual": "😊",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-012",
-        "tema": "Vocales A E I",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-013",
-        "tema": "Imágenes y palabras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-014",
-        "tema": "Escuchar cuentos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "visual": "😊",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-015",
-        "tema": "Mis primeras letras",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b4-x-016",
-        "tema": "Mi nombre",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+        "pregunta": "La letra Ñ solo existe en el idioma español.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La Ñ es única del español. España, niño, piñata — ¡todas con Ñ! 🇲🇽🔤",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 100
+        }
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-espanol-b4-001",
-        "tema": "Vocales A E I",
+        "id": "pre1-esp-b4-v1-001",
+        "tema": "Consonantes",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es una vocal?",
+        "pregunta": "¿Qué letra empieza 'Luna'?",
         "opciones": [
-          "B",
+          "L",
           "M",
+          "P",
+          "S"
+        ],
+        "respuestaCorrecta": "L",
+        "explicacion": "¡La L! 🌙",
+        "visual": "🌙",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-esp-b4-v1-005",
+        "tema": "Abecedario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Primera letra del abecedario?",
+        "opciones": [
           "A",
-          "T"
+          "Z",
+          "M",
+          "B"
         ],
         "respuestaCorrecta": "A",
-        "explicacion": "Las vocales son: A, E, I, O, U. La A es vocal.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "explicacion": "¡La A! 🔤"
       },
       {
-        "id": "preescolar-1-espanol-b4-002",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
+        "id": "pre1-esp-b4-v1-003",
+        "tema": "Mi nombre",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "MAMÁ empieza con la letra ___",
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es la M.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b4-004",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas vocales hay en \"CASA\"?",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "2",
-        "explicacion": "C-A-S-A. Las vocales son: A y A. Hay 2 vocales.",
-        "visual": "🏠",
-        "visualAnimado": true
+        "pregunta": "Mi nombre se escribe con mayúscula.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Ana, Carlos... 📝🔤"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.105Z",
-  "version": "2.0"
+  "generado": "2026-03-11T13:20:00.000Z",
+  "version": "4.0-SEP"
 }

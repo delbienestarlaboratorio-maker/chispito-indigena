@@ -2,415 +2,340 @@
   "grado": "preescolar-1",
   "materia": "matematicas",
   "bloque": 5,
-  "nombre": "Patrones y secuencias",
-  "meses": "Abril-Junio",
+  "nombre": "Primeras sumas, restas y lógica",
+  "libroSep": "K1LMA",
+  "paginasLibro": "71-90",
+  "meses": "Abril–Junio",
   "temas": [
-    "Contar del 1 al 5",
-    "Figuras básicas",
-    "Más y menos",
-    "Ordena objetos",
-    "Patrones simples"
+    "Sumar es juntar",
+    "Restar es quitar",
+    "Arriba, abajo, adentro, afuera",
+    "Problemas sencillos de la vida diaria"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-matematicas-b5-001",
-        "tema": "Figuras básicas",
-        "tipo": "visual_count",
+        "id": "pre1-mat-b5-v1-001",
+        "tema": "Sumar es juntar",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
+        "pregunta": "Si tienes 2 🍎 y te dan 1 🍎 más, ¿cuántas tienes?",
         "opciones": [
-          "1",
-          "2",
           "3",
+          "2",
+          "1",
           "4"
         ],
         "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
+        "explicacion": "¡3 manzanas! 2 + 1 = 3. Sumar es juntar cosas. ¡Tus primeras sumas! 🍎🍎🍎",
+        "visual": "🍎🍎 + 🍎",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 75
+        }
       },
       {
-        "id": "preescolar-1-matematicas-b5-002",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b5-v1-002",
+        "tema": "Sumar es juntar",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "🐱🐱 + 🐱🐱🐱 = ¿cuántos gatos?",
+        "opciones": [
+          "4",
+          "5",
+          "3",
+          "6"
+        ],
+        "respuestaCorrecta": "5",
+        "explicacion": "¡5 gatitos! 2 gatos + 3 gatos = 5 gatos. ¡Sumar es juntar los dos grupos! 🐱🐱🐱🐱🐱",
+        "visual": "🐱🐱 + 🐱🐱🐱"
+      },
+      {
+        "id": "pre1-mat-b5-v1-003",
+        "tema": "Restar es quitar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
+        "pregunta": "Tienes 4 globos 🎈🎈🎈🎈 y se te vuelan 2. ¿Cuántos quedan?",
         "opciones": [
           "2",
           "3",
           "4",
-          "5"
+          "1"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "2",
+        "explicacion": "¡Te quedan 2! 4 - 2 = 2. Restar es quitar cosas del grupo. 🎈🎈",
+        "visual": "🎈🎈🎈🎈 ➡️ 🎈🎈"
       },
       {
-        "id": "preescolar-1-matematicas-b5-003",
-        "tema": "Ordena objetos",
+        "id": "pre1-mat-b5-v1-004",
+        "tema": "Restar es quitar",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El cuadrado tiene 4 lados",
+        "pregunta": "Si tengo 5 galletas y me como 3, me quedan 2.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El cuadrado tiene 4 lados iguales.",
-        "visual": "🟦",
-        "visualAnimado": true
+        "explicacion": "¡Sí! 5 - 3 = 2. ¡Eso fue restar! Quitamos 3 del grupo de 5. 🍪🍪",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 78
+        }
       },
       {
-        "id": "preescolar-1-matematicas-b5-x-007",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-008",
-        "tema": "Figuras básicas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-009",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b5-v1-005",
+        "tema": "Arriba, abajo, adentro, afuera",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "El pájaro está EN el árbol. ¿Está arriba o abajo del suelo?",
         "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
+          "Arriba ⬆️",
+          "Abajo ⬇️",
+          "Adentro",
+          "No se sabe"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "Arriba ⬆️",
+        "explicacion": "¡Arriba! El pájaro en el árbol está arriba del suelo. ¡Posición es matemáticas también! 🐦⬆️🌳",
+        "visual": "🐦🌳"
       },
       {
-        "id": "preescolar-1-matematicas-b5-x-010",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-011",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b5-v1-006",
+        "tema": "Arriba, abajo, adentro, afuera",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "10 > 9",
+        "pregunta": "Un pez está ADENTRO del agua.",
         "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+        "explicacion": "¡Sí! El pez nada ADENTRO del agua. 'Adentro' y 'afuera' son palabras de posición. 🐟💧"
       },
       {
-        "id": "preescolar-1-matematicas-b5-x-012",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b5-v1-007",
+        "tema": "Problemas sencillos de la vida diaria",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Si compro 3 paletas y le doy 1 a mi hermana, me quedan ___ paletas.",
+        "respuestaCorrecta": "2",
+        "explicacion": "¡Me quedan 2! 3 - 1 = 2. ¡Las matemáticas nos ayudan todos los días! 🍭🍭"
+      },
+      {
+        "id": "pre1-mat-b5-v1-008",
+        "tema": "Sumar es juntar",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "3 + 2 = 5",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 3 más 2 son 5. Si cuentas 3 dedos y luego 2 más, tienes 5 dedos arriba. 🖐️",
+        "visual": "✌️🤟"
+      },
+      {
+        "id": "pre1-mat-b5-v1-009",
+        "tema": "Problemas sencillos de la vida diaria",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "En tu mesa hay 2 platos. Llegan 2 invitados más. ¿Cuántos platos necesitas en total?",
         "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
+          "4",
+          "2",
+          "6",
+          "3"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 platos! 2 que ya tienes + 2 para los invitados = 4 platos. ¡Sumar sirve para resolver problemas reales! 🍽️"
       },
       {
-        "id": "preescolar-1-matematicas-b5-x-013",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-014",
-        "tema": "Más y menos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-015",
-        "tema": "Ordena objetos",
+        "id": "pre1-mat-b5-v1-010",
+        "tema": "Arriba, abajo, adentro, afuera",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "¿Dónde está el ratón si entró a su cueva?",
         "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
+          "Adentro de la cueva",
+          "Afuera de la cueva",
+          "Arriba de la cueva",
+          "No existe"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-016",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-017",
-        "tema": "Contar del 1 al 5",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+        "respuestaCorrecta": "Adentro de la cueva",
+        "explicacion": "¡Adentro! El ratón se metió a su cueva, está adentro. Adentro = dentro = inside. 🐭🕳️"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-matematicas-b5-004",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b5-v2-001",
+        "tema": "Sumar es juntar",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
-        "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-005",
-        "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué figura es redonda?",
-        "opciones": [
-          "Cuadrado",
-          "Triángulo",
-          "Círculo",
-          "Rectángulo"
-        ],
-        "respuestaCorrecta": "Círculo",
-        "explicacion": "El círculo es completamente redondo, sin esquinas."
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-006",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "2 + 1 = ___",
-        "respuestaCorrecta": "3",
-        "explicacion": "2 manzanas más 1 manzana = 3 manzanas.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-007",
-        "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
+        "pregunta": "4 + 3 = ___",
         "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "explicacion": "¡4 más 3 es 7! Cuenta: 4...5, 6, 7. ¡Puedes contar desde el número más grande! 4️⃣➕3️⃣=7️⃣",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 80
+        }
       },
       {
-        "id": "preescolar-1-matematicas-b5-x-008",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b5-v2-002",
+        "tema": "Restar es quitar",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "6 - 2 = ___",
+        "respuestaCorrecta": "4",
+        "explicacion": "¡6 menos 2 es 4! Cuenta hacia atrás: 6, 5, 4. ¡Quitamos 2! 6️⃣➖2️⃣=4️⃣"
       },
       {
-        "id": "preescolar-1-matematicas-b5-x-009",
-        "tema": "Más y menos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-010",
-        "tema": "Ordena objetos",
+        "id": "pre1-mat-b5-v2-003",
+        "tema": "Problemas sencillos de la vida diaria",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "Tienes $5 pesos y un chocolate cuesta $3. ¿Te alcanza para comprarlo?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Sí, y te sobran $2",
+          "No",
+          "Necesitas $10",
+          "No se puede saber"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "Sí, y te sobran $2",
+        "explicacion": "¡Sí te alcanza! $5 - $3 = $2 de cambio. ¡Las matemáticas te ayudan a saber si te alcanza el dinero! 💰"
       },
       {
-        "id": "preescolar-1-matematicas-b5-x-011",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-012",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-013",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b5-v2-004",
+        "tema": "Arriba, abajo, adentro, afuera",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "Un avión vuela MUY arriba. ¿Qué está debajo del avión?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Las nubes, las casas y la tierra",
+          "Las estrellas",
+          "La luna",
+          "Nada"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "Las nubes, las casas y la tierra",
+        "explicacion": "¡Todo está debajo del avión! Casas, ciudades, montañas, ríos... ¡Ver el mundo desde arriba es increíble! ✈️⬇️🏘️"
       },
       {
-        "id": "preescolar-1-matematicas-b5-x-014",
-        "tema": "Más y menos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-015",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "preescolar-1-matematicas-b5-x-016",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b5-v2-005",
+        "tema": "Sumar es juntar",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "¿Cuál da como resultado 10?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "5 + 5",
+          "3 + 3",
+          "4 + 4",
+          "2 + 2"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "5 + 5",
+        "explicacion": "¡5 + 5 = 10! Es como juntar las dos manos. Los 'dobles' son sumas especiales fáciles de recordar. ✋✋🔟"
       },
       {
-        "id": "preescolar-1-matematicas-b5-x-017",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b5-v2-006",
+        "tema": "Restar es quitar",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "10 - 5 = 5",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Si tienes 10 y quitas 5, quedan 5. ¡10 dividido en dos mitades iguales! 🔟➡️5️⃣+5️⃣"
+      },
+      {
+        "id": "pre1-mat-b5-v2-007",
+        "tema": "Problemas sencillos de la vida diaria",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "Si hay 8 niños jugando y se van 3, quedan ___ jugando.",
+        "respuestaCorrecta": "5",
+        "explicacion": "¡Quedan 5! 8 - 3 = 5. Restar nos ayuda a saber cuántos quedan. 👧👧👧👧👧"
+      },
+      {
+        "id": "pre1-mat-b5-v2-008",
+        "tema": "Arriba, abajo, adentro, afuera",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Lo opuesto de 'arriba' es aba___.",
+        "respuestaCorrecta": "jo",
+        "explicacion": "¡Abajo! Arriba ⬆️ es lo contrario de abajo ⬇️. Son opuestos. ¡Como izquierda y derecha! ⬆️⬇️"
+      },
+      {
+        "id": "pre1-mat-b5-v2-009",
+        "tema": "Sumar es juntar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es sumar?",
+        "opciones": [
+          "Juntar cantidades para tener más",
+          "Quitar cosas",
+          "No hacer nada",
+          "Dormir"
+        ],
+        "respuestaCorrecta": "Juntar cantidades para tener más",
+        "explicacion": "¡Sumar es juntar! Cuando juntas 2 grupos, el resultado es más grande. ¡Es la operación de unir! ➕🤝"
+      },
+      {
+        "id": "pre1-mat-b5-v2-010",
+        "tema": "Restar es quitar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es restar?",
+        "opciones": [
+          "Quitar una cantidad de otra",
+          "Juntar cosas",
+          "Multiplicar",
+          "Dividir"
+        ],
+        "respuestaCorrecta": "Quitar una cantidad de otra",
+        "explicacion": "¡Restar es quitar! Cuando quitas algo de un grupo, el resultado es más pequeño. ¡Es la operación de separar! ➖"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-matematicas-b5-001",
-        "tema": "Figuras básicas",
-        "tipo": "visual_count",
+        "id": "pre1-mat-b5-v1-001",
+        "tema": "Sumar es juntar",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
+        "pregunta": "2 🍎 + 1 🍎 = ¿cuántas?",
         "opciones": [
-          "1",
-          "2",
           "3",
+          "2",
+          "1",
           "4"
         ],
         "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
+        "explicacion": "¡3 manzanas! 🍎🍎🍎",
+        "visual": "🍎🍎 + 🍎",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-matematicas-b5-002",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b5-v1-003",
+        "tema": "Restar es quitar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
+        "pregunta": "4 globos 🎈 - 2 se vuelan = ¿cuántos quedan?",
         "opciones": [
           "2",
           "3",
           "4",
-          "5"
+          "1"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "2",
+        "explicacion": "¡Quedan 2! 🎈🎈",
+        "visual": "🎈🎈🎈🎈 ➡️ 🎈🎈"
       },
       {
-        "id": "preescolar-1-matematicas-b5-004",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
-        "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
+        "id": "pre1-mat-b5-v1-005",
+        "tema": "Arriba, abajo, adentro, afuera",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿El pájaro en el árbol está...?",
+        "opciones": [
+          "Arriba ⬆️",
+          "Abajo ⬇️",
+          "Adentro",
+          "No se sabe"
+        ],
+        "respuestaCorrecta": "Arriba ⬆️",
+        "explicacion": "¡Arriba! 🐦⬆️🌳",
+        "visual": "🐦🌳"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.100Z",
-  "version": "2.0"
+  "generado": "2026-03-11T13:00:00.000Z",
+  "version": "4.0-SEP"
 }

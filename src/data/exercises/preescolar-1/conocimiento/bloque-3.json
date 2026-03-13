@@ -2,441 +2,318 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 3,
-  "nombre": "Los animales",
-  "meses": "Diciembre-Enero",
+  "nombre": "Los animales y el mundo natural",
+  "libroSep": "K1LPA",
+  "paginasLibro": "56-80",
+  "meses": "Diciembre–Enero",
   "temas": [
-    "Mi cuerpo",
-    "Los colores",
-    "Los animales",
-    "La familia",
-    "La naturaleza"
+    "Animales domésticos y silvestres",
+    "Hábitats: dónde viven los animales",
+    "Insectos y bichos pequeños",
+    "Los sonidos de los animales"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-conocimiento-b3-001",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b3-v1-001",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Cuál de estos es un animal doméstico que vive en las casas?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "El perro 🐕",
+          "El león 🦁",
+          "El tiburón 🦈",
+          "El águila 🦅"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "El perro 🐕",
+        "explicacion": "¡El perro es un animal doméstico! Vive con las personas y es nuestro mejor amigo. Los leones y tiburones son silvestres. 🐕❤️",
+        "visual": "🐕"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-003",
-        "tema": "La familia",
+        "id": "pre1-conoc-b3-v1-002",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Los peces son animales acuáticos.",
-        "visual": "🐟",
-        "visualAnimado": true
+        "pregunta": "Un gato es un animal silvestre que vive en la selva.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! El gato es un animal doméstico que vive en las casas con nosotros. Los gatos silvestres son los tigres y jaguares. 🐱"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b3-v1-003",
+        "tema": "Hábitats: dónde viven los animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Dónde viven los peces?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "En el agua 🌊",
+          "En los árboles 🌳",
+          "En las nubes ☁️",
+          "En la tierra 🏔️"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "En el agua 🌊",
+        "explicacion": "¡Los peces viven en el agua! Pueden vivir en ríos, lagos o en el mar. ¡El agua es su hogar! 🐟🌊",
+        "visual": "🐟"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-007",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b3-v1-004",
+        "tema": "Hábitats: dónde viven los animales",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "Los pájaros pueden volar porque tienen alas.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Las alas les permiten volar por el cielo. Algunos pájaros vuelan muy alto y otros vuelan bajito. 🐦✨",
+        "visual": "🐦"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-008",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-009",
-        "tema": "La familia",
+        "id": "pre1-conoc-b3-v1-005",
+        "tema": "Insectos y bichos pequeños",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Cuántas patas tiene una hormiga?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "6",
+          "4",
+          "8",
+          "2"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "6",
+        "explicacion": "¡Las hormigas tienen 6 patas! Todos los insectos tienen 6 patas. Las arañas tienen 8 pero no son insectos. 🐜",
+        "visual": "🐜"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-010",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b3-v1-006",
+        "tema": "Insectos y bichos pequeños",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "Las mariposas antes eran orugas (gusanitos).",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡Sí! La mariposa empieza como huevito, luego es oruga, después capullo, y al final sale como mariposa. ¡Magia de la naturaleza! 🐛🦋"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-011",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b3-v1-007",
+        "tema": "Los sonidos de los animales",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "El gallo canta 'quiquiri___' cuando sale el sol.",
+        "respuestaCorrecta": "quí",
+        "explicacion": "¡Quiquiriquí! El gallo canta todas las mañanas cuando sale el sol. ¡Es como un despertador natural! 🐓☀️"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-012",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b3-v1-008",
+        "tema": "Los sonidos de los animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué animal hace 'muuu'?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "La vaca 🐄",
+          "El gato 🐱",
+          "El pez 🐟",
+          "El ratón 🐭"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "La vaca 🐄",
+        "explicacion": "¡La vaca hace 'muuu'! Las vacas nos dan leche para hacer queso, yogur y muchos alimentos ricos. 🐄🥛",
+        "visual": "🐄"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-013",
-        "tema": "Los animales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-014",
-        "tema": "La familia",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-015",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b3-v1-009",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué animal es famoso en México porque no tiene pelo?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "El xoloitzcuintle 🐕",
+          "El gato 🐱",
+          "El conejo 🐰",
+          "El pez 🐟"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "El xoloitzcuintle 🐕",
+        "explicacion": "¡El xoloitzcuintle! Un perro mexicano sin pelo que los pueblos antiguos consideraban sagrado. ¡Todavía existe hoy! 🐕🇲🇽",
+        "visual": "🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-016",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b3-v1-010",
+        "tema": "Hábitats: dónde viven los animales",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "Los osos polares viven en lugares muy fríos con nieve y hielo.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-017",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Los osos polares viven en el Ártico, donde hace mucho, mucho frío. Su pelo blanco los ayuda a esconderse en la nieve. ❄️🐻‍❄️",
+        "visual": "🐻‍❄️"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-conocimiento-b3-004",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b3-v2-001",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Cuál es la diferencia principal entre un animal doméstico y uno silvestre?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "El doméstico vive con personas, el silvestre vive libre en la naturaleza",
+          "No hay diferencia",
+          "El silvestre es más pequeño",
+          "El doméstico es más grande"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "El doméstico vive con personas, el silvestre vive libre en la naturaleza",
+        "explicacion": "¡Los domésticos conviven con nosotros y los silvestres viven libres en la naturaleza! Cada uno tiene su lugar. 🏠🌿"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-005",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b3-v2-002",
+        "tema": "Hábitats: dónde viven los animales",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol brilla de ___",
-        "respuestaCorrecta": "día",
-        "explicacion": "El sol sale de día y de noche está la luna y las estrellas.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "El lugar donde vive un animal se llama su hábi___.",
+        "respuestaCorrecta": "tat",
+        "explicacion": "¡Hábitat! Es el lugar natural donde vive un animal: la selva, el mar, el desierto, el polo... Cada animal tiene el suyo. 🌍"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b3-v2-003",
+        "tema": "Insectos y bichos pequeños",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Las abejas son muy importantes para la naturaleza porque...",
+        "opciones": [
+          "Llevan el polen de flor en flor para que nazcan frutos",
+          "Hacen ruido",
+          "Son grandes",
+          "No son importantes"
+        ],
+        "respuestaCorrecta": "Llevan el polen de flor en flor para que nazcan frutos",
+        "explicacion": "¡Las abejas son superheroínas! Al volar de flor en flor llevan el polen que permite que crezcan frutas y verduras. 🐝🌸🍎"
+      },
+      {
+        "id": "pre1-conoc-b3-v2-004",
+        "tema": "Los sonidos de los animales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los delfines se comunican con sonidos bajo el agua, como clicks y silbidos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los delfines usan clicks y silbidos para hablar entre ellos bajo el agua. ¡Son muy inteligentes! 🐬🎵"
+      },
+      {
+        "id": "pre1-conoc-b3-v2-005",
+        "tema": "Animales domésticos y silvestres",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué responsabilidad tenemos con nuestras mascotas?",
+        "opciones": [
+          "Darles comida, agua, cariño y cuidados de salud",
+          "Nada",
+          "Solo jugar",
+          "Olvidarnos de ellos"
+        ],
+        "respuestaCorrecta": "Darles comida, agua, cariño y cuidados de salud",
+        "explicacion": "¡Las mascotas dependen de nosotros! Debemos darles comida, agua limpia, cariño y llevarlas al veterinario. 🐕❤️"
+      },
+      {
+        "id": "pre1-conoc-b3-v2-006",
+        "tema": "Hábitats: dónde viven los animales",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Los animales que viven en el agua se llaman acuá___.",
+        "respuestaCorrecta": "ticos",
+        "explicacion": "¡Acuáticos! Los peces, delfines, ballenas y pulpos son animales acuáticos porque viven en el agua. 🐋🌊"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-007",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b3-v2-007",
+        "tema": "Insectos y bichos pequeños",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las arañas tienen 6 patas como los insectos.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Las arañas tienen 8 patas. Por eso no son insectos, son arácnidos. ¡Los insectos siempre tienen 6 patas! 🕷️"
+      },
+      {
+        "id": "pre1-conoc-b3-v2-008",
+        "tema": "Los sonidos de los animales",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Cómo se comunican los perros con los humanos?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "Con ladridos, moviendo la cola y gestos",
+          "Hablando español",
+          "Escribiendo mensajes",
+          "No se comunican"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "Con ladridos, moviendo la cola y gestos",
+        "explicacion": "¡Los perros nos hablan con su cuerpo! Cola moviéndose = feliz, ladrido fuerte = alerta, orejas abajo = triste. 🐕💬"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-x-008",
-        "tema": "Los animales",
+        "id": "pre1-conoc-b3-v2-009",
+        "tema": "Animales domésticos y silvestres",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los animales silvestres como los jaguares NO deben tenerse como mascotas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correcto! Los animales silvestres deben vivir libres en su hábitat natural. ¡Tenerlos como mascotas les hace daño! 🐆🌿"
+      },
+      {
+        "id": "pre1-conoc-b3-v2-010",
+        "tema": "Insectos y bichos pequeños",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
+        "pregunta": "¿Qué hacen las hormigas que las hace tan especiales?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
+          "Trabajan en equipo y son muy organizadas",
+          "Duermen todo el día",
+          "No hacen nada",
+          "Vuelan muy alto"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-009",
-        "tema": "La familia",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-010",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-012",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-013",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-014",
-        "tema": "La familia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-015",
-        "tema": "La naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "Trabajan en equipo y son muy organizadas",
+        "explicacion": "¡Las hormigas son el mejor ejemplo de trabajo en equipo! Cada una tiene un trabajo y juntas logran cosas increíbles. 🐜💪"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-conocimiento-b3-001",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b3-v1-001",
+        "tema": "Animales domésticos y silvestres",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Cuál es un animal doméstico?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "El perro 🐕",
+          "El león 🦁",
+          "El tiburón 🦈",
+          "El águila 🦅"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "El perro 🐕",
+        "explicacion": "¡El perro vive con nosotros! 🐕❤️",
+        "visual": "🐕"
       },
       {
-        "id": "preescolar-1-conocimiento-b3-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b3-004",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b3-v1-005",
+        "tema": "Insectos y bichos pequeños",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas patas tiene una hormiga?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "6",
+          "4",
+          "8",
+          "2"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "6",
+        "explicacion": "¡6 patas! Todos los insectos tienen 6. 🐜",
+        "visual": "🐜"
+      },
+      {
+        "id": "pre1-conoc-b3-v1-006",
+        "tema": "Insectos y bichos pequeños",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las mariposas antes eran orugas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Oruga → capullo → mariposa. 🐛🦋"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.110Z",
-  "version": "2.0"
+  "generado": "2026-03-11T11:50:00.000Z",
+  "version": "4.0-SEP"
 }

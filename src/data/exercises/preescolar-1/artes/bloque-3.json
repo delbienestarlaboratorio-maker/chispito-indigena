@@ -2,397 +2,362 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 3,
-  "nombre": "Bailo y me muevo",
-  "meses": "Diciembre-Enero",
+  "nombre": "Esculturas, animales y arte prehispánico",
+  "libroSep": "K1MLA",
+  "paginasLibro": "95-132",
+  "meses": "Diciembre–Enero",
   "temas": [
-    "Pintar con dedos",
-    "Cantar canciones",
-    "Bailar",
-    "Dibujar libremente",
-    "Hacer manualidades"
+    "Animales en el arte prehispánico",
+    "Esculturas de barro y piedra",
+    "Fotografía artística",
+    "Crear con las manos"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-artes-b3-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b3-v1-001",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "En tu libro hay esculturas de animales hechas hace mucho tiempo. ¿De qué material están hechas?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "De barro y piedra",
+          "De plástico",
+          "De papel",
+          "De tela"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "De barro y piedra",
+        "explicacion": "¡Los artistas de antes hacían esculturas de barro y piedra! Eran tan fuertes que todavía las podemos ver hoy. 🏺",
+        "visual": "🏺",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b3-003",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b3-v1-002",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Rojo y azul juntos forman morado",
+        "pregunta": "En tu libro aparecen esculturas de perros hechas por personas que vivieron en México hace mucho tiempo.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
-        "visual": "🔴",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Los antiguos mexicanos hacían esculturas de perros como el xoloitzcuintle. ¡Los perros eran muy importantes para ellos! 🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-x-006",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v1-003",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "Además de perros, ¿qué otro animal aparece en las esculturas del libro?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Un jaguar",
+          "Un dinosaurio",
+          "Un unicornio",
+          "Un elefante"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Un jaguar",
+        "explicacion": "¡El jaguar! Era el animal más poderoso para los pueblos de México. Lo esculpían en piedra para honrarlo. 🐆",
+        "visual": "🐆",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b3-v1-004",
+        "tema": "Esculturas de barro y piedra",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Una escultura es una obra de arte que podemos tocar porque tiene forma en 3 dimensiones.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! A diferencia de una pintura (que es plana), una escultura tiene alto, ancho y profundidad. ¡Puedes verla desde todos los lados! 🗿"
       },
       {
-        "id": "preescolar-1-artes-b3-x-008",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-010",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v1-005",
+        "tema": "Esculturas de barro y piedra",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Con qué puedes hacer una escultura en tu casa?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Con plastilina",
+          "Con agua",
+          "Con aire",
+          "Con una canción"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Con plastilina",
+        "explicacion": "¡La plastilina es perfecta para hacer esculturas! Puedes moldearla con tus manos y crear cualquier figura. 🟡🟢",
+        "visual": "🎨"
       },
       {
-        "id": "preescolar-1-artes-b3-x-012",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b3-v1-006",
+        "tema": "Fotografía artística",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
+        "pregunta": "En tu libro aparecen fotos en blanco y negro. ¿Quién las tomó?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Manuel Álvarez Bravo",
+          "Mario Núñez",
+          "Un niño",
+          "Un robot"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "respuestaCorrecta": "Manuel Álvarez Bravo",
+        "explicacion": "¡Manuel Álvarez Bravo es un famoso fotógrafo mexicano! Sus fotos en blanco y negro son obras de arte. 📷",
+        "visual": "📷",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-x-013",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b3-v1-007",
+        "tema": "Fotografía artística",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "La fotografía también es una forma de hacer arte.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! La fotografía es arte. Un fotógrafo elige qué capturar, la luz, los colores... ¡cada foto cuenta una historia! 📸",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b3-v1-008",
+        "tema": "Crear con las manos",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "¿Qué puedes crear con papel, tijeras y pegamento?",
+        "opciones": [
+          "Un collage",
+          "Una canción",
+          "Un baile",
+          "Un sabor"
+        ],
+        "respuestaCorrecta": "Un collage",
+        "explicacion": "¡Un collage! Es una obra de arte donde pegas diferentes papeles, telas y materiales para crear una imagen. ✂️📄",
+        "visual": "✂️"
       },
       {
-        "id": "preescolar-1-artes-b3-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v1-009",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+        "pregunta": "Las esculturas de animales del libro están hechas de ba___ y piedra.",
+        "respuestaCorrecta": "rro",
+        "explicacion": "¡Barro! El barro es arcilla que se moldea con las manos y después se endurece con el calor del fuego. 🏺🔥",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-x-017",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b3-v1-010",
+        "tema": "Crear con las manos",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
+        "pregunta": "Con nuestras manos podemos crear arte: dibujar, pintar, moldear y pegar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Nuestras manos son las herramientas más poderosas del arte! Con ellas podemos crear todo lo que imaginemos. ✋🎨"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-artes-b3-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b3-v2-001",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "¿Por qué los antiguos mexicanos hacían esculturas de animales como jaguares y perros?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Porque eran sagrados y los admiraban",
+          "Para venderlos en tiendas",
+          "Para jugar fútbol",
+          "Por aburrimiento"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Porque eran sagrados y los admiraban",
+        "explicacion": "Los animales eran sagrados para los pueblos antiguos. El jaguar representaba fuerza y el perro era compañero en la vida y la muerte. 🐆🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-005",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v2-002",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Bailar es moverse al ritmo de la ___",
-        "respuestaCorrecta": "música",
-        "explicacion": "La danza es el arte de moverse siguiendo la música."
+        "pregunta": "El perro sin pelo que los mexicanos amaban se llama xoloitzcuin___.",
+        "respuestaCorrecta": "tle",
+        "explicacion": "¡Xoloitzcuintle! Es un perro sin pelo que ha existido en México desde tiempos prehispánicos. ¡Todavía existe hoy! 🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-x-006",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-007",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
-        "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
-        ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-010",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b3-v2-003",
+        "tema": "Esculturas de barro y piedra",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "La diferencia entre una escultura y una pintura es que la escultura ocupa espacio en 3 dimensiones.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Exacto! Una pintura es plana (2D: arriba-abajo, izquierda-derecha). Una escultura tiene volumen (3D: ¡puedes rodearla!). 🗿"
       },
       {
-        "id": "preescolar-1-artes-b3-x-011",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-013",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b3-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b3-v2-004",
+        "tema": "Fotografía artística",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "Manuel Álvarez Bravo es famoso por sus fotografías. ¿De qué país es?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "México",
+          "Francia",
+          "Japón",
+          "Brasil"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "México",
+        "explicacion": "¡Manuel Álvarez Bravo es mexicano! Es uno de los fotógrafos más importantes de la historia de México. 🇲🇽📷",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b3-v2-005",
+        "tema": "Fotografía artística",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "pregunta": "Las fotos del libro de Manuel Álvarez Bravo son en blanco y ___.",
+        "respuestaCorrecta": "negro",
+        "explicacion": "¡Blanco y negro! Antes no había fotos a colores. Las fotos en blanco y negro tienen un encanto especial y artístico. 🖤🤍",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
       },
       {
-        "id": "preescolar-1-artes-b3-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b3-v2-006",
+        "tema": "Crear con las manos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Cuántas formas de arte hay?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Muchas: pintura, escultura, música, danza, fotografía, teatro...",
+          "Solo una",
+          "Dos: dibujar y cantar",
+          "Ninguna"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Muchas: pintura, escultura, música, danza, fotografía, teatro...",
+        "explicacion": "¡El arte tiene muchas formas! Pintura, escultura, música, danza, fotografía, teatro, cine... ¡El arte está en todas partes! 🎨🎵🎭📷"
+      },
+      {
+        "id": "pre1-artes-b3-v2-007",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En la página 121 de tu libro hay una escultura de piedra gris con forma de perro o coyote.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Es una escultura de piedra gris con forma geométrica — las líneas rectas le dan un aspecto moderno aunque tiene miles de años. 🐺",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v2-008",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué pasa cuando el barro se mete al fuego o al horno?",
+        "opciones": [
+          "Se endurece y se convierte en cerámica",
+          "Se derrite",
+          "Desaparece",
+          "Se convierte en agua"
+        ],
+        "respuestaCorrecta": "Se endurece y se convierte en cerámica",
+        "explicacion": "¡El calor endurece el barro! Así es como los artistas hacían vasijas, platos y esculturas que duran miles de años. 🔥🏺"
+      },
+      {
+        "id": "pre1-artes-b3-v2-009",
+        "tema": "Fotografía artística",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Una fotografía artística solo muestra cosas bonitas y nunca cosas cotidianas.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! La fotografía artística puede mostrar cosas cotidianas — una silla, una ventana, una calle. ¡El arte está en cómo se mira! 👁️📷"
+      },
+      {
+        "id": "pre1-artes-b3-v2-010",
+        "tema": "Crear con las manos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para hacer un collage necesitas papel, tijeras y pega___.",
+        "respuestaCorrecta": "mento",
+        "explicacion": "¡Pegamento! Con papel, tijeras y pegamento puedes crear collages increíbles mezclando diferentes materiales. ✂️💎"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-artes-b3-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b3-v1-001",
+        "tema": "Animales en el arte prehispánico",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "¿De qué están hechas las esculturas de animales de tu libro?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "De barro y piedra",
+          "De plástico",
+          "De papel",
+          "De tela"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "De barro y piedra",
+        "explicacion": "¡De barro y piedra! ¡Tienen miles de años! 🏺",
+        "visual": "🏺",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-artes-b3-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b3-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b3-v1-006",
+        "tema": "Fotografía artística",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "nivel": "v1",
+        "pregunta": "¿Quién tomó las fotos en blanco y negro del libro?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Manuel Álvarez Bravo",
+          "Mario Núñez",
+          "Un niño",
+          "Un robot"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Manuel Álvarez Bravo",
+        "explicacion": "¡Manuel Álvarez Bravo, fotógrafo mexicano! 📷",
+        "visual": "📷",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-artes-b3-v1-004",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una escultura podemos tocarla porque tiene forma en 3 dimensiones.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las esculturas se pueden ver desde todos lados. 🗿"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.116Z",
-  "version": "2.0"
+  "generado": "2026-03-11T11:25:00.000Z",
+  "version": "4.0-SEP"
 }

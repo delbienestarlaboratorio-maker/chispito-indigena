@@ -2,441 +2,335 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 2,
-  "nombre": "Colores y formas",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Mi familia y las personas que me rodean",
+  "libroSep": "K1LPA",
+  "paginasLibro": "35-55",
+  "meses": "Octubre–Noviembre",
   "temas": [
-    "Mi cuerpo",
-    "Los colores",
-    "Los animales",
-    "La familia",
-    "La naturaleza"
+    "Nuestras familias son distintas",
+    "Mis amigos de la escuela",
+    "Quiénes me cuidan",
+    "Sentimientos y emociones"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-conocimiento-b2-001",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b2-v1-001",
+        "tema": "Nuestras familias son distintas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "En tu libro dice que 'nuestras familias son distintas'. ¿Qué significa?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Que cada familia es diferente y especial",
+          "Que solo hay un tipo de familia",
+          "Que las familias no importan",
+          "Que todas son iguales"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Que cada familia es diferente y especial",
+        "explicacion": "¡Cada familia es única y especial! Hay familias grandes, pequeñas, con abuelos, con mamá, con papá... ¡Todas son hermosas! 👨‍👩‍👧‍👦",
+        "visual": "👨‍👩‍👧",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b2-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-003",
-        "tema": "La familia",
+        "id": "pre1-conoc-b2-v1-002",
+        "tema": "Nuestras familias son distintas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Los peces son animales acuáticos.",
-        "visual": "🐟",
-        "visualAnimado": true
+        "pregunta": "Todas las familias son iguales, siempre tienen mamá, papá e hijos.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Las familias son diferentes: algunas tienen solo mamá, otras tienen abuelos, otras tienen tíos. ¡Todas son válidas y llenas de amor! ❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b2-v1-003",
+        "tema": "Mis amigos de la escuela",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué cosas puedes hacer con tus amigos en la escuela?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Jugar, platicar y aprender juntos",
+          "Pelear",
+          "Ignorarlos",
+          "Nada"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Jugar, platicar y aprender juntos",
+        "explicacion": "¡Los amigos hacen la escuela más divertida! Juntos jugamos, platicamos, compartimos y aprendemos. 👫😊",
+        "visual": "👫"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-007",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b2-v1-004",
+        "tema": "Quiénes me cuidan",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "Mi mamá, mi papá, mis abuelos y mis maestros son personas que me cuidan.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Hay muchas personas que te quieren y cuidan. ¡Son tu red de amor y protección! 🤗❤️"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-008",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-009",
-        "tema": "La familia",
+        "id": "pre1-conoc-b2-v1-005",
+        "tema": "Sentimientos y emociones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "Cuando algo te hace sentir contento, tu emoción se llama...",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Alegría",
+          "Tristeza",
+          "Enojo",
+          "Miedo"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Alegría",
+        "explicacion": "¡Alegría! Es la emoción que sentimos cuando estamos contentos. ¡Como cuando juegas con tus amigos! 😊🌈",
+        "visual": "😊"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-010",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b2-v1-006",
+        "tema": "Sentimientos y emociones",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "Está bien sentir tristeza a veces. Todas las emociones son normales.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡Todas las emociones son normales! A veces estamos tristes, a veces contentos. Lo importante es hablar de lo que sentimos. 💙"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-011",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b2-v1-007",
+        "tema": "Nuestras familias son distintas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "Las personas de mi familia que me quieren mucho son mi fami___.",
+        "respuestaCorrecta": "lia",
+        "explicacion": "¡Tu familia! Son las personas que te aman, te cuidan y te acompañan. ¡Tu familia es tu tesoro! 💎❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-012",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b2-v1-008",
+        "tema": "Mis amigos de la escuela",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "Para ser un buen amigo, lo más importante es...",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Respetar, compartir y escuchar",
+          "Pegar",
+          "Gritar",
+          "No hablar"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Respetar, compartir y escuchar",
+        "explicacion": "¡Los buenos amigos se respetan, comparten y se escuchan! La amistad se cuida con cariño. 🤝💖",
+        "visual": "🤝"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-013",
-        "tema": "Los animales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-014",
-        "tema": "La familia",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-015",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b2-v1-009",
+        "tema": "Quiénes me cuidan",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "Si te sientes mal o te duele algo, ¿a quién le dices?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "A un adulto de confianza",
+          "A nadie",
+          "A un extraño",
+          "A un gatito"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "A un adulto de confianza",
+        "explicacion": "¡Siempre le dices a un adulto de confianza! Tu mamá, papá, abuelita o maestra te pueden ayudar. 🤗"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-017",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b2-v1-010",
+        "tema": "Sentimientos y emociones",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "Cuando algo me da mucho gusto sonrío porque siento ale___.",
+        "respuestaCorrecta": "gría",
+        "explicacion": "¡Alegría! La sonrisa es la señal de que estamos contentos. ¡Sonreír es contagioso! 😊🌞"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-conocimiento-b2-004",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b2-v2-001",
+        "tema": "Nuestras familias son distintas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "En el libro aparecen dos familias diferentes. ¿Qué tienen en común?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "Ambas se aman y se cuidan",
+          "Nada",
+          "Son idénticas",
+          "Se pelean"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "Ambas se aman y se cuidan",
+        "explicacion": "¡Aunque las familias se ven diferentes por fuera, por dentro todas comparten lo mismo: amor y cuidado! ❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b2-005",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b2-v2-002",
+        "tema": "Mis amigos de la escuela",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para tener amigos, todos tienen que ser iguales a mí, pensar igual y verse igual.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Los amigos pueden ser muy diferentes a ti. ¡La diversidad hace la amistad más rica y divertida! 🌈👫"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-003",
+        "tema": "Quiénes me cuidan",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol brilla de ___",
-        "respuestaCorrecta": "día",
-        "explicacion": "El sol sale de día y de noche está la luna y las estrellas.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "La persona que me enseña en la escuela es mi maes___.",
+        "respuestaCorrecta": "tra",
+        "explicacion": "¡Tu maestra o maestro! Te ayudan a aprender, descubrir y crecer. ¡Son personas muy importantes en tu vida! 👩‍🏫📚"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b2-v2-004",
+        "tema": "Sentimientos y emociones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son las 4 emociones básicas?",
+        "opciones": [
+          "Alegría, tristeza, miedo y enojo",
+          "Solo alegría",
+          "Aburrimiento y sueño",
+          "Hambre y sed"
+        ],
+        "respuestaCorrecta": "Alegría, tristeza, miedo y enojo",
+        "explicacion": "¡Las 4 emociones básicas! Todas son normales y necesarias. Lo importante es saber nombrarlas. 😊😢😨😡"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-005",
+        "tema": "Nuestras familias son distintas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En algunas familias viven los abuelos junto con los nietos, y eso es bonito.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Muchas familias mexicanas incluyen a los abuelos. Ellos comparten sabiduría, cariño e historias. 👴👵❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
+      },
+      {
+        "id": "pre1-conoc-b2-v2-006",
+        "tema": "Mis amigos de la escuela",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si un compañero está solo y triste, ¿qué puedes hacer?",
+        "opciones": [
+          "Invitarlo a jugar y preguntarle cómo se siente",
+          "Reírte",
+          "Ignorarlo",
+          "Correr"
+        ],
+        "respuestaCorrecta": "Invitarlo a jugar y preguntarle cómo se siente",
+        "explicacion": "¡Ser amable y acercarte! A veces solo necesita que alguien le pregunte '¿estás bien?'. ¡Eso cambia todo! 🤗"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-007",
+        "tema": "Sentimientos y emociones",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Cuando algo me asusta, la emoción que siento se llama mi___.",
+        "respuestaCorrecta": "edo",
+        "explicacion": "¡Miedo! Es normal sentir miedo a veces. Lo valiente es decirlo y pedir ayuda. 💪😨"
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-007",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b2-v2-008",
+        "tema": "Quiénes me cuidan",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Nunca debes irte con una persona desconocida, aunque te ofrezca dulces.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Nunca te vayas con desconocidos! Si alguien que no conoces quiere llevarte, di NO y corre a un adulto de confianza. 🚫"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-009",
+        "tema": "Nuestras familias son distintas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Qué es lo más importante que todas las familias deben tener?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "Amor, respeto y comunicación",
+          "Una casa grande",
+          "Mucho dinero",
+          "Muchos juguetes"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "Amor, respeto y comunicación",
+        "explicacion": "¡Lo más importante es el amor, respeto y comunicación! Con eso, cualquier familia es feliz. ❤️🗣️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b2-x-008",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
+        "id": "pre1-conoc-b2-v2-010",
+        "tema": "Sentimientos y emociones",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-009",
-        "tema": "La familia",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-010",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-012",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-013",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-014",
-        "tema": "La familia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-015",
-        "tema": "La naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "Hablar de lo que sentimos nos ayuda a estar mejor.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Expresar nuestras emociones es sano. Cuando dices 'estoy triste' o 'estoy enojado', empiezas a sentirte mejor. 💬❤️"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-conocimiento-b2-001",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b2-v1-001",
+        "tema": "Nuestras familias son distintas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "'Nuestras familias son distintas' — ¿Qué significa?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Que cada familia es diferente y especial",
+          "Que solo hay un tipo",
+          "Que no importan",
+          "Que son iguales"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Que cada familia es diferente y especial",
+        "explicacion": "¡Todas las familias son hermosas! 👨‍👩‍👧‍👦",
+        "visual": "👨‍👩‍👧",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-conocimiento-b2-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b2-004",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b2-v1-005",
+        "tema": "Sentimientos y emociones",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "nivel": "v1",
+        "pregunta": "Cuando estás contento, tu emoción se llama...",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "Alegría",
+          "Tristeza",
+          "Enojo",
+          "Miedo"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "Alegría",
+        "explicacion": "¡Alegría! 😊🌈",
+        "visual": "😊"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-004",
+        "tema": "Quiénes me cuidan",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Mi mamá, papá, abuelos y maestros me cuidan.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Son tu red de amor! 🤗❤️"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.109Z",
-  "version": "2.0"
+  "generado": "2026-03-11T11:45:00.000Z",
+  "version": "4.0-SEP"
 }

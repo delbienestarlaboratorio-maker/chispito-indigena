@@ -2,198 +2,309 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 3,
-  "nombre": "Me muevo con música",
-  "meses": "Dic-Ene",
+  "nombre": "Gimnasia y expresión corporal",
+  "meses": "Diciembre–Enero",
   "temas": [
-    "Ritmo",
-    "Danza básica"
+    "Rodadas y giros",
+    "Expresión corporal",
+    "Circuitos motores",
+    "Relajación y respiración"
   ],
-  "totalEjercicios": 10,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar1ef-b3-01",
-        "tema": "Ritmo",
+        "id": "pre1-ef-b3-v1-001",
+        "tema": "Rodadas y giros",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "El ritmo de una canción es como:",
+        "pregunta": "¿Qué es una 'marometa' o rodada hacia adelante?",
         "opciones": [
-          "Su latido o pulso",
-          "Su nombre",
-          "Su color",
-          "Su volumen"
+          "Girar por el suelo haciendo bolita con el cuerpo",
+          "Saltar muy alto",
+          "Caminar lento",
+          "Sentarse"
         ],
-        "respuestaCorrecta": "Su latido o pulso",
-        "explicacion": "El ritmo es el pulso regular de la música que podemos seguir.",
-        "visual": "🎵"
+        "respuestaCorrecta": "Girar por el suelo haciendo bolita con el cuerpo",
+        "explicacion": "¡La marometa! Te haces bolita, bajas la cabeza, empujas con las manos y ruedas hacia adelante. 🤸‍♂️",
+        "visual": "🤸"
       },
       {
-        "id": "preescolar1ef-b3-02",
-        "tema": "Danza",
+        "id": "pre1-ef-b3-v1-002",
+        "tema": "Rodadas y giros",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos bailar con todo el cuerpo",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Brazos, piernas, cabeza... todo el cuerpo puede bailar."
+        "pregunta": "Girar como un trompo es un ejercicio divertido de equilibrio.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Girar sobre ti mismo como un trompo te ayuda a practicar el equilibrio y la coordinación. 🌀"
       },
       {
-        "id": "preescolar1ef-b3-03",
-        "tema": "Ritmo",
+        "id": "pre1-ef-b3-v1-003",
+        "tema": "Expresión corporal",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo podemos marcar el ritmo?",
+        "pregunta": "Si te pido que camines como un robot, ¿cómo te moverías?",
         "opciones": [
-          "Aplaudiendo",
-          "Durmiendo",
-          "Comiendo",
-          "Leyendo"
+          "Con movimientos tiesos y rectos",
+          "Saltando",
+          "Rodando",
+          "Durmiendo"
         ],
-        "respuestaCorrecta": "Aplaudiendo",
-        "explicacion": "Aplaudir al compás de la música es marcar el ritmo.",
-        "visual": "👏"
+        "respuestaCorrecta": "Con movimientos tiesos y rectos",
+        "explicacion": "¡Como un robot! Tieso, con movimientos cuadrados y mecánicos. ¡Es muy divertido imitar con el cuerpo! 🤖",
+        "visual": "🤖"
       },
       {
-        "id": "preescolar1ef-b3-04",
-        "tema": "Danza",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué danza es típica de México?",
-        "opciones": [
-          "El Jarabe Tapatío",
-          "La Salsa",
-          "El Flamenco",
-          "El Tango"
-        ],
-        "respuestaCorrecta": "El Jarabe Tapatío",
-        "explicacion": "El Jarabe Tapatío es el baile nacional de México, originario de Jalisco.",
-        "visual": "🌮"
-      },
-      {
-        "id": "preescolar1ef-b3-05",
-        "tema": "Danza",
+        "id": "pre1-ef-b3-v1-004",
+        "tema": "Expresión corporal",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Bailar es solo para niñas",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Falso",
-        "explicacion": "¡El baile es para todos! Es una forma de expresarse."
+        "pregunta": "Podemos expresar emociones con el cuerpo: saltar de alegría o caminar tristes.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El cuerpo habla! Cuando estás contento saltas, cuando estás triste caminas lento. ¡Tu cuerpo expresa todo! 😊😢"
       },
       {
-        "id": "preescolar1ef-b3-06",
-        "tema": "Movimiento",
+        "id": "pre1-ef-b3-v1-005",
+        "tema": "Circuitos motores",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Si la música va rápido, nos movemos:",
+        "pregunta": "Un circuito motor es...",
         "opciones": [
-          "Rápido",
-          "Muy despacio",
-          "No nos movemos",
-          "Más despacio aún"
+          "Un camino con varias estaciones de ejercicios diferentes",
+          "Una siesta",
+          "Una clase de lectura",
+          "Un dibujo"
         ],
-        "respuestaCorrecta": "Rápido",
-        "explicacion": "El cuerpo sigue el tempo de la música.",
-        "visual": "⚡"
+        "respuestaCorrecta": "Un camino con varias estaciones de ejercicios diferentes",
+        "explicacion": "¡Un circuito! Pasas de estación en estación: saltas conos, gateas por un túnel, brincas aros... ¡Es súper divertido! 🎯",
+        "visual": "🎯"
       },
       {
-        "id": "preescolar1ef-b3-07",
-        "tema": "Salud",
+        "id": "pre1-ef-b3-v1-006",
+        "tema": "Relajación y respiración",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Cuando nos cansamos bailando, debemos descansar",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "El descanso y la hidratación son clave durante el ejercicio."
+        "pregunta": "Respirar profundo (inhala por la nariz, exhala por la boca) nos ayuda a relajarnos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Respirar profundo calma nuestro cuerpo y mente. ¡Es como reiniciar tu energía! 🧘‍♂️💨"
       },
       {
-        "id": "preescolar1ef-b3-08",
-        "tema": "Danza",
-        "tipo": "multiple_choice",
+        "id": "pre1-ef-b3-v1-007",
+        "tema": "Rodadas y giros",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Qué movemos cuando \"agitamos los brazos\"?",
-        "opciones": [
-          "Los brazos",
-          "Las piernas",
-          "La cabeza",
-          "Los pies"
-        ],
-        "respuestaCorrecta": "Los brazos",
-        "explicacion": "Agitar los brazos es un movimiento de las extremidades superiores.",
-        "visual": "💃"
+        "pregunta": "Rodar por el suelo como un tronco se llama rodada late___.",
+        "respuestaCorrecta": "ral",
+        "explicacion": "¡Rodada lateral! Te acuestas y ruedas como un tronco. ¡Fortalece los músculos del abdomen! 🪵"
       },
       {
-        "id": "preescolar1ef-b3-09",
-        "tema": "Ritmo",
+        "id": "pre1-ef-b3-v1-008",
+        "tema": "Expresión corporal",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué también marcamos el ritmo además de aplaudir?",
+        "pregunta": "¿Qué animal imitas si caminas en cuatro patas?",
         "opciones": [
-          "Pisando el suelo",
-          "Con los ojos",
-          "Con la nariz",
-          "Con las orejas"
+          "Un perro o un gato 🐕",
+          "Un pez 🐟",
+          "Un pájaro 🐦",
+          "Una serpiente 🐍"
         ],
-        "respuestaCorrecta": "Pisando el suelo",
-        "explicacion": "Zapatear o pisar al compás es otra forma de marcar el ritmo.",
-        "visual": "🦶"
+        "respuestaCorrecta": "Un perro o un gato 🐕",
+        "explicacion": "¡El perro y el gato caminan en cuatro patas! Imitar animales es muy bueno para la coordinación. 🐕🐱",
+        "visual": "🐕"
       },
       {
-        "id": "preescolar1ef-b3-10",
-        "tema": "Danza",
+        "id": "pre1-ef-b3-v1-009",
+        "tema": "Circuitos motores",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En un circuito motor puedes saltar, gatear, correr y brincar aros.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los circuitos tienen de todo: saltos, gateos, carreras y obstáculos. ¡Cada estación es un reto diferente! 🏃🤸"
+      },
+      {
+        "id": "pre1-ef-b3-v1-010",
+        "tema": "Relajación y respiración",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "La danza nos ayuda a:",
+        "pregunta": "Después de hacer mucho ejercicio, ¿qué debemos hacer?",
         "opciones": [
-          "Expresarnos y hacer ejercicio",
-          "Solo comer",
-          "Dormir más",
-          "Estudiar matemáticas"
+          "Estirar y relajar los músculos",
+          "Correr más",
+          "Comer dulces",
+          "Gritar"
         ],
-        "respuestaCorrecta": "Expresarnos y hacer ejercicio",
-        "explicacion": "La danza combina expresión artística con actividad física.",
-        "visual": "🎭"
+        "respuestaCorrecta": "Estirar y relajar los músculos",
+        "explicacion": "¡Estirar! Después del ejercicio los músculos están calientes y es hora de estirarlos suavemente. ¡Así evitas dolor! 🧘",
+        "visual": "🧘"
       }
     ],
-    "v2": [],
-    "preview": [
+    "v2": [
       {
-        "id": "preescolar1ef-b3-01",
-        "tema": "Ritmo",
+        "id": "pre1-ef-b3-v2-001",
+        "tema": "Rodadas y giros",
         "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El ritmo de una canción es como:",
+        "nivel": "v2",
+        "pregunta": "¿Por qué es importante hacer la marometa sobre una colchoneta?",
         "opciones": [
-          "Su latido o pulso",
-          "Su nombre",
-          "Su color",
-          "Su volumen"
+          "Para proteger la espalda y la cabeza",
+          "Porque es más divertido",
+          "No importa dónde",
+          "Por costumbre"
         ],
-        "respuestaCorrecta": "Su latido o pulso",
-        "explicacion": "El ritmo es el pulso regular de la música que podemos seguir.",
-        "visual": "🎵"
+        "respuestaCorrecta": "Para proteger la espalda y la cabeza",
+        "explicacion": "¡La colchoneta es suave y protege tu cuerpo! Nunca hagas marometas en piso duro. ¡Seguridad primero! 🧘‍♂️✅"
       },
       {
-        "id": "preescolar1ef-b3-02",
-        "tema": "Danza",
+        "id": "pre1-ef-b3-v2-002",
+        "tema": "Expresión corporal",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Imitar animales con nuestro cuerpo se llama expresión corpo___.",
+        "respuestaCorrecta": "ral",
+        "explicacion": "¡Expresión corporal! Es el arte de comunicar con el cuerpo sin usar palabras. 🤸‍♀️🎭"
+      },
+      {
+        "id": "pre1-ef-b3-v2-003",
+        "tema": "Circuitos motores",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los circuitos motores ayudan a mejorar la fuerza, la velocidad y la agilidad.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Son un entrenamiento completo: cada estación trabaja algo diferente. ¡Es como un gimnasio divertido! 💪🏃"
+      },
+      {
+        "id": "pre1-ef-b3-v2-004",
+        "tema": "Relajación y respiración",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La técnica de respirar profundo se llama respiración...",
+        "opciones": [
+          "Diafragmática o abdominal",
+          "Rápida",
+          "Con la boca cerrada",
+          "Sin aire"
+        ],
+        "respuestaCorrecta": "Diafragmática o abdominal",
+        "explicacion": "¡Respiración diafragmática! Respiras hondo y tu barriga se infla como un globo. ¡Así entra más oxígeno! 🎈💨"
+      },
+      {
+        "id": "pre1-ef-b3-v2-005",
+        "tema": "Rodadas y giros",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué deportistas hacen muchas rodadas y giros como parte de su rutina?",
+        "opciones": [
+          "Los gimnastas",
+          "Los nadadores",
+          "Los ciclistas",
+          "Los corredores"
+        ],
+        "respuestaCorrecta": "Los gimnastas",
+        "explicacion": "¡Los gimnastas! Hacen marometas, volteretas, giros en el aire... ¡Son súper atletas! 🤸‍♀️🏅"
+      },
+      {
+        "id": "pre1-ef-b3-v2-006",
+        "tema": "Expresión corporal",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La mímica es un tipo de expresión corporal donde cuentas historias sin hablar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los mimos cuentan historias usando solo su cuerpo y expresiones faciales. ¡Sin una sola palabra! 🤫🎭"
+      },
+      {
+        "id": "pre1-ef-b3-v2-007",
+        "tema": "Circuitos motores",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Saltar dentro y fuera de aros en el suelo mejora la agili___.",
+        "respuestaCorrecta": "dad",
+        "explicacion": "¡Agilidad! Es la capacidad de moverte rápido y cambiar de dirección. Los aros son excelentes para practicarla. ⭕🏃"
+      },
+      {
+        "id": "pre1-ef-b3-v2-008",
+        "tema": "Relajación y respiración",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el 'enfriamiento' después del ejercicio?",
+        "opciones": [
+          "Bajar la intensidad gradualmente con estiramientos suaves",
+          "Meterte al refrigerador",
+          "Ponerte hielo",
+          "No hacer nada"
+        ],
+        "respuestaCorrecta": "Bajar la intensidad gradualmente con estiramientos suaves",
+        "explicacion": "¡El enfriamiento! Después de ejercitarte, caminas suave y estiras los músculos. ¡Tu cuerpo te lo agradece! 🧘‍♀️"
+      },
+      {
+        "id": "pre1-ef-b3-v2-009",
+        "tema": "Rodadas y giros",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La voltereta hacia atrás es más difícil que la marometa hacia adelante.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La voltereta hacia atrás requiere más fuerza y confianza. ¡Siempre practícala con un adulto que te ayude! 🤸‍♂️👨‍🏫"
+      },
+      {
+        "id": "pre1-ef-b3-v2-010",
+        "tema": "Expresión corporal",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué arte combina música, movimiento y expresión corporal?",
+        "opciones": [
+          "La danza",
+          "Las matemáticas",
+          "La lectura",
+          "La cocina"
+        ],
+        "respuestaCorrecta": "La danza",
+        "explicacion": "¡La danza! Mezcla música + movimiento + expresión del cuerpo. ¡Es arte y ejercicio al mismo tiempo! 💃🎵"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-ef-b3-v1-001",
+        "tema": "Rodadas y giros",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es una marometa?",
+        "opciones": [
+          "Girar por el suelo en bolita",
+          "Saltar alto",
+          "Caminar lento",
+          "Sentarse"
+        ],
+        "respuestaCorrecta": "Girar por el suelo en bolita",
+        "explicacion": "¡Rodar como bolita! 🤸",
+        "visual": "🤸"
+      },
+      {
+        "id": "pre1-ef-b3-v1-003",
+        "tema": "Expresión corporal",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si caminas como robot, ¿cómo te mueves?",
+        "opciones": [
+          "Tieso y recto",
+          "Saltando",
+          "Rodando",
+          "Durmiendo"
+        ],
+        "respuestaCorrecta": "Tieso y recto",
+        "explicacion": "¡Como robot! 🤖",
+        "visual": "🤖"
+      },
+      {
+        "id": "pre1-ef-b3-v1-006",
+        "tema": "Relajación y respiración",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos bailar con todo el cuerpo",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Brazos, piernas, cabeza... todo el cuerpo puede bailar."
+        "pregunta": "Respirar profundo nos ayuda a relajarnos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 🧘‍♂️💨"
       }
     ]
-  }
+  },
+  "generado": "2026-03-11T12:20:00.000Z",
+  "version": "4.0-SEP"
 }

@@ -128,10 +128,17 @@ export const MATERIAS: Record<string, Materia> = {
         color: "#0EA5E9",
         bgColor: "#F0F9FF",
     },
+    lenguas: {
+        id: "lenguas",
+        nombre: "Lenguas Indígenas",
+        emoji: "🗣️",
+        color: "#9333EA",
+        bgColor: "#F3E8FF",
+    }
 };
 
 // === GRADOS (matrícula ciclo 2024-2025 SEP) ===
-export const GRADOS: Grado[] = [
+const _TODOS_GRADOS: Grado[] = [
     // PREESCOLAR
     {
         numero: 1, nombre: "1° Preescolar", nivel: "preescolar", slug: "preescolar-1",
@@ -148,21 +155,26 @@ export const GRADOS: Grado[] = [
         emoji: "🌈", color: "#F97316", gradient: "from-orange-400 to-amber-600",
         alumnos: 1550000, materias: ["matematicas", "espanol", "conocimiento", "artes", "educacion_fisica"],
     },
+    {
+        numero: 3, nombre: "3° Preescolar", nivel: "preescolar", slug: "preescolar-3",
+        emoji: "🌈", color: "#A855F7", gradient: "from-purple-400 to-violet-600",
+        alumnos: 1550000, materias: ["matematicas", "espanol", "conocimiento", "educacion_fisica"],
+    },
     // PRIMARIA
     {
         numero: 1, nombre: "1° Primaria", nivel: "primaria", slug: "primaria-1",
         emoji: "🚀", color: "#3B82F6", gradient: "from-blue-400 to-indigo-600",
-        alumnos: 2140000, materias: ["matematicas", "espanol", "conocimiento", "formacion", "artes", "educacion_fisica"],
+        alumnos: 2140000, materias: ["matematicas", "espanol", "lenguas", "conocimiento", "formacion", "artes", "educacion_fisica"],
     },
     {
         numero: 2, nombre: "2° Primaria", nivel: "primaria", slug: "primaria-2",
         emoji: "🌟", color: "#22C55E", gradient: "from-green-400 to-teal-600",
-        alumnos: 2138000, materias: ["matematicas", "espanol", "conocimiento", "formacion", "artes", "educacion_fisica"],
+        alumnos: 2138000, materias: ["matematicas", "espanol", "lenguas", "conocimiento", "formacion", "artes", "educacion_fisica"],
     },
     {
         numero: 3, nombre: "3° Primaria", nivel: "primaria", slug: "primaria-3",
         emoji: "🪐", color: "#8B5CF6", gradient: "from-violet-400 to-purple-600",
-        alumnos: 2130000, materias: ["matematicas", "espanol", "historia", "ciencias", "formacion", "artes", "ingles", "educacion_fisica"],
+        alumnos: 2130000, materias: ["matematicas", "espanol", "lenguas", "historia", "ciencias", "formacion", "artes", "ingles", "educacion_fisica"],
     },
     {
         numero: 4, nombre: "4° Primaria", nivel: "primaria", slug: "primaria-4",
@@ -195,38 +207,18 @@ export const GRADOS: Grado[] = [
         emoji: "🎓", color: "#EC4899", gradient: "from-fuchsia-400 to-purple-600",
         alumnos: 1993000, materias: ["matematicas", "espanol", "historia", "ciencias", "geografia", "formacion", "ingles", "tecnologia", "artes", "educacion_fisica", "orientacion"],
     },
-    // BACHILLERATO (Media Superior)
-    {
-        numero: 1, nombre: "1° Bachillerato", nivel: "bachillerato", slug: "bachillerato-1",
-        emoji: "📐", color: "#6366F1", gradient: "from-indigo-500 to-purple-600",
-        alumnos: 2100000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "tecnologia"],
-    },
-    {
-        numero: 2, nombre: "2° Bachillerato", nivel: "bachillerato", slug: "bachillerato-2",
-        emoji: "⚗️", color: "#8B5CF6", gradient: "from-violet-500 to-purple-700",
-        alumnos: 1980000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "tecnologia"],
-    },
-    {
-        numero: 3, nombre: "3° Bachillerato", nivel: "bachillerato", slug: "bachillerato-3",
-        emoji: "🧬", color: "#A855F7", gradient: "from-purple-500 to-pink-600",
-        alumnos: 1850000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "filosofia"],
-    },
-    {
-        numero: 4, nombre: "4° Bachillerato", nivel: "bachillerato", slug: "bachillerato-4",
-        emoji: "🔭", color: "#EC4899", gradient: "from-pink-500 to-rose-600",
-        alumnos: 1720000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "filosofia"],
-    },
-    {
-        numero: 5, nombre: "5° Bachillerato", nivel: "bachillerato", slug: "bachillerato-5",
-        emoji: "💡", color: "#F59E0B", gradient: "from-amber-500 to-orange-600",
-        alumnos: 1600000, materias: ["matematicas", "espanol", "ciencias", "ingles", "filosofia"],
-    },
-    {
-        numero: 6, nombre: "6° Bachillerato", nivel: "bachillerato", slug: "bachillerato-6",
-        emoji: "🏆", color: "#EF4444", gradient: "from-red-500 to-rose-600",
-        alumnos: 1500000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "filosofia"],
-    },
+    // BACHILLERATO — pendiente para fase futura, no expuesto aún
+    { numero: 1, nombre: "1° Bachillerato", nivel: "bachillerato", slug: "bachillerato-1", emoji: "📐", color: "#6366F1", gradient: "from-indigo-500 to-purple-600", alumnos: 2100000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "tecnologia"] },
+    { numero: 2, nombre: "2° Bachillerato", nivel: "bachillerato", slug: "bachillerato-2", emoji: "⚗️", color: "#8B5CF6", gradient: "from-violet-500 to-purple-700", alumnos: 1980000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "tecnologia"] },
+    { numero: 3, nombre: "3° Bachillerato", nivel: "bachillerato", slug: "bachillerato-3", emoji: "🧬", color: "#A855F7", gradient: "from-purple-500 to-pink-600", alumnos: 1850000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "filosofia"] },
+    { numero: 4, nombre: "4° Bachillerato", nivel: "bachillerato", slug: "bachillerato-4", emoji: "🔭", color: "#EC4899", gradient: "from-pink-500 to-rose-600", alumnos: 1720000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "filosofia"] },
+    { numero: 5, nombre: "5° Bachillerato", nivel: "bachillerato", slug: "bachillerato-5", emoji: "💡", color: "#F59E0B", gradient: "from-amber-500 to-orange-600", alumnos: 1600000, materias: ["matematicas", "espanol", "ciencias", "ingles", "filosofia"] },
+    { numero: 6, nombre: "6° Bachillerato", nivel: "bachillerato", slug: "bachillerato-6", emoji: "🏆", color: "#EF4444", gradient: "from-red-500 to-rose-600", alumnos: 1500000, materias: ["matematicas", "espanol", "ciencias", "historia", "ingles", "filosofia"] },
 ];
+
+// Solo los grados activos en la plataforma (bachillerato pendiente para fase futura)
+export const GRADOS: Grado[] = _TODOS_GRADOS.filter((g: Grado) => g.nivel !== "bachillerato");
+
 
 // === BLOQUES por grado/materia (contenido SEP) ===
 export const BLOQUES: Record<string, Record<string, Bloque[]>> = {

@@ -1,7 +1,7 @@
 // Contenido "masticado" para Kinder (Preescolar 3°) 
 // Con referencias al libro SEP oficial CONALITEG 2025
 
-import type { GradoContenido, MateriaContenido } from "./content-primaria";
+import type { GradoContenido, MateriaContenido } from './content-types';
 
 // Códigos de libros CONALITEG Kinder 2025
 // P3PPA = Preescolar 3° Pensamiento Algebraico
@@ -236,6 +236,39 @@ const ESPANOL_KINDER: MateriaContenido = {
             keywords: ["vocales kinder", "AEIOU preescolar SEP", "vocales kinder Mexico primero lectura"],
         },
         {
+            bloque: 6,
+            nombre: "Yo hablo sin voz (LSM)",
+            meses: "Julio",
+            libroSep: {
+                codigo: "P3LSM",
+                paginaInicio: 1,
+                paginaFin: 15,
+                descripcion: "Inclusión SEP: Lengua de Señas Mexicana para Preescolar 3",
+            },
+            enClase: [
+                "El Abecedario final (K a la Z)",
+                "Formando mis primeras sílabas",
+                "Por favor y Gracias",
+                "Oficios y mi comunidad",
+            ],
+            guiaPapa: {
+                intro: "Llevamos la inclusión un paso más allá. Los niños aprenderán el abecedario completo en señas, cortesía indispensable y oficios.",
+                comoExplicar: [
+                    "Empiece deletreando letras simples con sus manos y pida que el niño adivine.",
+                    "Hagan el juego del restaurante usando 'Por Favor' y 'Gracias' puramente en señas.",
+                    "Repase las profesiones (Doctor, Bombero) actuándolas con las manos.",
+                ],
+                truco: "Unir letras para formar sílabas (como MA o PA) enseña a los niños que los movimientos fluidos crean palabras enteras, igual que la voz.",
+                error_comun: "Hacer las señas muy rápido. Debe ser pausado para que el niño pueda imitar la motricidad fina de los dedos.",
+                actividad_casa: "El noticiero del silencio: Jueguen a dar las noticias de la casa usando solo señas y deletreo de las letras nuevas aprendidas.",
+            },
+            guiaMaestro: {
+                objetivo: "Desarrollar empatía profunda y psicomotricidad fina a través de la formación de sílabas y expresiones sociales mediante Lengua de Señas Mexicana (LSM).",
+                competencia: "Integración Inclusiva Multimodal — Plan SEP Transversal",
+            },
+            keywords: ["LSM avanzado kinder", "abecedario señas", "inclusion preescolar 3"],
+        },
+        {
             bloque: 2,
             nombre: "Mi nombre y las letras",
             meses: "Octubre – Noviembre",
@@ -378,6 +411,88 @@ const ESPANOL_KINDER: MateriaContenido = {
     ],
 };
 
+const CONOCIMIENTO_KINDER: MateriaContenido = {
+    materia: "conocimiento",
+    nombre: "Conocimiento del Medio",
+    emoji: "🔍",
+    color: "#EAB308",
+    bloques: [
+        {
+            bloque: 6,
+            nombre: "Mi ciudad habla (LSM)",
+            meses: "Julio",
+            libroSep: {
+                codigo: "P3LSM",
+                paginaInicio: 31,
+                paginaFin: 45,
+                descripcion: "Inclusión SEP: Conocimiento en Señas Preescolar 3",
+            },
+            enClase: [
+                "Oficios y profesiones",
+                "Medios de transporte",
+                "Alimentos y la hora de comer",
+                "Naturaleza y bichitos",
+            ],
+            guiaPapa: {
+                intro: "Conectamos al niño con su entorno real usando un lenguaje universal y silencioso. Aprenderá cómo se comunican las profesiones y animales en LSM.",
+                comoExplicar: [
+                    "Jueguen a adivinar el animal o insecto imitando sus movimientos característicos adaptados a las señas.",
+                    "Al salir a la calle, señalen los coches y hagan la seña de manejar.",
+                ],
+                truco: "Las señas de animales e insectos (como la mariposa) son muy visuales y casi actitudinales. Que el niño exagere el movimiento.",
+                error_comun: "Hacer las señas de profesiones sin gesticulación facial. La cara debe acompañar la seña de 'doctor' o 'policía'.",
+                actividad_casa: "El restaurante de mimos: A la hora de cenar, el niño debe pedir agua o describir la comida usando los movimientos aprendidos.",
+            },
+            guiaMaestro: {
+                objetivo: "Fomentar la comprensión social y natural del entorno integrando un vocabulario de Señas referente a la comunidad y ecología.",
+                competencia: "Exploración del Mundo Natural y Social Inclusivo — SEP",
+            },
+            keywords: ["oficios lsm", "animales señas", "inclusion kinder"],
+        },
+    ],
+};
+
+const EDUCACION_FISICA_KINDER: MateriaContenido = {
+    materia: "educacion_fisica",
+    nombre: "Educación Física",
+    emoji: "🏃",
+    color: "#F97316",
+    bloques: [
+        {
+            bloque: 6,
+            nombre: "Mis deportes hablan (LSM)",
+            meses: "Julio",
+            libroSep: {
+                codigo: "P3LSM",
+                paginaInicio: 46,
+                paginaFin: 60,
+                descripcion: "Inclusión SEP: Deportes en Señas Preescolar 3",
+            },
+            enClase: [
+                "Deportes olímpicos básicos",
+                "Partes del cuerpo avanzadas",
+                "Rutinas de estiramiento",
+                "Juego en equipo",
+            ],
+            guiaPapa: {
+                intro: "Combinamos la actividad aeróbica con el aprendizaje motriz fino de las manos. Desde nombrar la espalda hasta jugar vóleibol en señas.",
+                comoExplicar: [
+                    "Hagan una rutina de estiramiento donde cada posición clave se nombre solo haciendo la seña ('Relajarse').",
+                    "Simulen jugar los deportes (natación, básquetbol) y luego hagan la seña oficial de LSM.",
+                ],
+                truco: "Enseñar que los deportes en LSM son recreaciones en miniatura de los movimientos reales.",
+                error_comun: "Hacer los movimientos deportivos reales en lugar de la seña pactada por la comunidad sorda.",
+                actividad_casa: "Las Olimpiadas Silenciosas: Organicen competencias de adivinanzas donde uno hace la seña del deporte y el otro adivina cuál es corriendo a la meta.",
+            },
+            guiaMaestro: {
+                objetivo: "Coordinar la expresión motora rítmica y el esquema corporal total mediante el vocabulario deportivo de la Lengua de Señas.",
+                competencia: "Desarrollo Físico y Salud Inclusiva — SEP",
+            },
+            keywords: ["deportes señas", "cuerpo humano lsm", "motricidad kínder"],
+        },
+    ],
+};
+
 export const KINDER: GradoContenido = {
     grado: "kinder",
     nombre: "Kinder (Preescolar 3°)",
@@ -385,5 +500,7 @@ export const KINDER: GradoContenido = {
     materias: {
         matematicas: MATEMATICAS_KINDER,
         espanol: ESPANOL_KINDER,
+        conocimiento: CONOCIMIENTO_KINDER,
+        educacion_fisica: EDUCACION_FISICA_KINDER,
     },
 };

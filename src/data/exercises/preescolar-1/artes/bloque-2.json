@@ -2,397 +2,394 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 2,
-  "nombre": "La música y yo",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Música, cuentos y colores del libro",
+  "libroSep": "K1MLA",
+  "paginasLibro": "63-94",
+  "meses": "Octubre–Noviembre",
   "temas": [
-    "Pintar con dedos",
-    "Cantar canciones",
-    "Bailar",
-    "Dibujar libremente",
-    "Hacer manualidades"
+    "El viaje musical de Estrella la Mariposa",
+    "Colores y formas en el arte",
+    "Danza y tradiciones mexicanas",
+    "Pintura y murales de México"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-artes-b2-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b2-v1-001",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "En tu libro hay un cuento sobre Estrella la Mariposa. ¿Qué don especial tenía?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Llevar la música en sus alas",
+          "Ser invisible",
+          "Hablar con los peces",
+          "Volar al espacio"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Llevar la música en sus alas",
+        "explicacion": "¡Estrella la Mariposa llevaba la música en sus alas! Cuando volaba, compartía melodías con todo el bosque. 🦋🎵",
+        "visual": "🦋",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b2-003",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b2-v1-002",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Rojo y azul juntos forman morado",
+        "pregunta": "Estrella la Mariposa vivía en un bosque encantado.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
-        "visual": "🔴",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Estrella vivía en un bosque encantado donde decidió compartir la alegría de la música con todos. 🌳🎶",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-x-006",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b2-v1-003",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Quién escribió la historia de Estrella la Mariposa en tu libro?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Rodrigo Díaz Bueno",
+          "Mario Núñez",
+          "Un robot",
+          "Tu mamá"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Rodrigo Díaz Bueno",
+        "explicacion": "¡Rodrigo Díaz Bueno es el escritor! Los escritores crean historias con palabras para que las disfrutemos. 📝✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b2-v1-004",
+        "tema": "Colores y formas en el arte",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los 3 colores primarios que usamos para pintar?",
+        "opciones": [
+          "Rojo, azul y amarillo",
+          "Negro, blanco y gris",
+          "Morado, naranja y verde",
+          "Rosa, café y dorado"
+        ],
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "¡Rojo, azul y amarillo! Con estos 3 colores puedes mezclar y hacer TODOS los demás colores. ¡Son mágicos! 🔴🔵🟡",
+        "visual": "🎨"
+      },
+      {
+        "id": "pre1-artes-b2-v1-005",
+        "tema": "Danza y tradiciones mexicanas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "En México hay danzas tradicionales donde las personas usan máscaras y trajes de colores.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! En las fiestas mexicanas se baila con máscaras de diablos, animales y personajes. ¡Es una tradición hermosa! 💃🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-x-008",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-010",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b2-v1-006",
+        "tema": "Pintura y murales de México",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "En tu libro hay una pintura con personas bailando con máscaras. ¿Qué tipo de arte es?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Un mural",
+          "Una fotografía",
+          "Un video",
+          "Un juguete"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Un mural",
+        "explicacion": "¡Es un mural! Los murales son pinturas muy grandes que se hacen en las paredes. México es famoso por sus murales. 🖼️",
+        "visual": "🖼️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-x-012",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b2-v1-007",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Estrella la Mariposa decidió compartir la alegría de la ___ con todos.",
+        "respuestaCorrecta": "música",
+        "explicacion": "¡La música! Estrella quería que todos en el bosque disfrutaran de la música. ¡La música nos hace felices! 🎵",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v1-008",
+        "tema": "Colores y formas en el arte",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
+        "pregunta": "Si mezclas el color rojo con amarillo, ¿qué color obtienes?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Naranja",
+          "Morado",
+          "Verde",
+          "Negro"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "respuestaCorrecta": "Naranja",
+        "explicacion": "¡Naranja! Rojo + amarillo = naranja. ¡Así funciona la magia de los colores! 🟠",
+        "visual": "🟠"
       },
       {
-        "id": "preescolar-1-artes-b2-x-013",
-        "tema": "Bailar",
+        "id": "pre1-artes-b2-v1-009",
+        "tema": "Danza y tradiciones mexicanas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Para qué sirven las máscaras en las danzas tradicionales?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Para representar personajes en la danza",
+          "Para no verse",
+          "Para dormir",
+          "Para comer"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Para representar personajes en la danza",
+        "explicacion": "¡Las máscaras representan diablos, animales o personajes de la danza! Cada máscara cuenta una historia diferente. 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b2-v1-010",
+        "tema": "Pintura y murales de México",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-016",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-017",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
+        "pregunta": "Un mural es una pintura que se hace en un papel muy pequeñito.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Un mural es una pintura ENORME que se hace en paredes grandes. ¡A veces son tan grandes como una casa! 🏛️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-artes-b2-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b2-v2-001",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "¿Qué hace especial a Estrella la Mariposa comparada con otras mariposas?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Lleva la música en sus alas, no solo vuela",
+          "Es más grande",
+          "Come mucho",
+          "No puede volar"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Lleva la música en sus alas, no solo vuela",
+        "explicacion": "Estrella no solo vuela como las demás mariposas: ¡sus alas producen música! Y decidió compartir ese regalo. 🦋🎵",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-005",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b2-v2-002",
+        "tema": "Colores y formas en el arte",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Bailar es moverse al ritmo de la ___",
-        "respuestaCorrecta": "música",
-        "explicacion": "La danza es el arte de moverse siguiendo la música."
+        "pregunta": "Si mezclo azul con amarillo obtengo el color ___.",
+        "respuestaCorrecta": "verde",
+        "explicacion": "¡Verde! Azul + amarillo = verde. ¡Como las hojas de los árboles y el pasto! 🟢🌿"
       },
       {
-        "id": "preescolar-1-artes-b2-x-006",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b2-v2-003",
+        "tema": "Danza y tradiciones mexicanas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "En la pintura del libro se ven personas con trajes blancos y máscaras. ¿Qué están haciendo?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Una danza tradicional",
+          "Jugando fútbol",
+          "Cocinando",
+          "Durmiendo"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Una danza tradicional",
+        "explicacion": "¡Es una danza tradicional mexicana! Las personas usan trajes especiales y máscaras para representar personajes de la comunidad. 💃",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-x-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-010",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b2-v2-004",
+        "tema": "Pintura y murales de México",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Los murales mexicanos cuentan historias sobre la cultura y tradiciones de México.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Los muralistas como Diego Rivera pintaron la historia de México en paredes enormes para que todos la vieran. 🇲🇽🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-x-011",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b2-v2-005",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "La ilustradora del cuento de Estrella es Nathalia Colmar, de la Ciudad de México.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Nathalia Colmar dibujó la hermosa mariposa con sus alas amarillas y anaranjadas. ¡Los ilustradores dan vida a los cuentos! 🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-013",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b2-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b2-v2-006",
+        "tema": "Colores y formas en el arte",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "¿Qué son los colores cálidos?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Rojo, naranja y amarillo",
+          "Azul, morado y verde",
+          "Blanco y negro",
+          "Gris y café"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Rojo, naranja y amarillo",
+        "explicacion": "Los colores cálidos son el rojo, naranja y amarillo. ¡Nos recuerdan al sol, al fuego y a las cosas calentitas! ☀️🔥",
+        "visual": "☀️"
       },
       {
-        "id": "preescolar-1-artes-b2-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b2-v2-007",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "pregunta": "En las fiestas mexicanas, las personas bailan con trajes especiales y más___.",
+        "respuestaCorrecta": "caras",
+        "explicacion": "¡Máscaras! Las máscaras son parte importante de las danzas mexicanas. Cada máscara tiene un significado especial. 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
       },
       {
-        "id": "preescolar-1-artes-b2-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b2-v2-008",
+        "tema": "Pintura y murales de México",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Dónde se pintan los murales?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "En paredes grandes de edificios",
+          "En cuadernos",
+          "En el agua",
+          "En las nubes"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "En paredes grandes de edificios",
+        "explicacion": "¡Los murales se pintan en paredes grandes! En escuelas, museos y edificios públicos. ¡Son arte para todos! 🏛️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v2-009",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué quería lograr Estrella con su viaje mágico?",
+        "opciones": [
+          "Compartir la alegría de la música con todos",
+          "Ganar una carrera",
+          "Encontrar comida",
+          "Esconderse"
+        ],
+        "respuestaCorrecta": "Compartir la alegría de la música con todos",
+        "explicacion": "¡Estrella quería compartir! La música es un regalo que todos merecemos disfrutar. ¡Compartir nos hace felices! 🎶❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v2-010",
+        "tema": "Colores y formas en el arte",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Si mezclas rojo con azul, obtienes el color morado.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Rojo + azul = morado (o púrpura). ¡Es la mezcla perfecta para hacer coronas y flores! 💜👑"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-artes-b2-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b2-v1-001",
+        "tema": "El viaje musical de Estrella la Mariposa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "¿Qué don especial tenía Estrella la Mariposa?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Llevar la música en sus alas",
+          "Ser invisible",
+          "Hablar con los peces",
+          "Volar al espacio"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Llevar la música en sus alas",
+        "explicacion": "¡Estrella llevaba la música en sus alas! 🦋🎵",
+        "visual": "🦋",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-artes-b2-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b2-v1-005",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
+        "pregunta": "En México hay danzas donde usan máscaras y trajes de colores.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las danzas mexicanas usan máscaras y trajes hermosos. 💃🎭",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-artes-b2-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b2-v1-008",
+        "tema": "Colores y formas en el arte",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "nivel": "v1",
+        "pregunta": "Si mezclas rojo con amarillo, ¿qué color obtienes?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Naranja",
+          "Morado",
+          "Verde",
+          "Negro"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Naranja",
+        "explicacion": "¡Naranja! Rojo + amarillo = naranja. 🟠",
+        "visual": "🟠"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.115Z",
-  "version": "2.0"
+  "generado": "2026-03-11T11:20:00.000Z",
+  "version": "4.0-SEP"
 }

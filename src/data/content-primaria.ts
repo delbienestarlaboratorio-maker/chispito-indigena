@@ -3,51 +3,777 @@
 
 import { PRIMARIA_3 } from "./content-primaria3";
 import { KINDER } from "./content-kinder";
+import { PREESCOLAR_1_COMPLETE } from "./content-preescolar1";
+import { PREESCOLAR_1, PREESCOLAR_2, PRIMARIA_4, PRIMARIA_5, PRIMARIA_6, SECUNDARIA_1, SECUNDARIA_2, SECUNDARIA_3 } from "./content-grados-superiores";
 
-export type BloqueContenido = {
-    bloque: number;
-    nombre: string;
-    meses: string;
-    // Qué verá el niño en clase (palabras del libro SEP)
-    enClase: string[];
-    // Referencia al libro SEP oficial (para que papás puedan verificar)
-    libroSep?: {
-        codigo: string;      // Código del libro CONALITEG ej: "P1MAA"
-        paginaInicio: number;
-        paginaFin: number;
-        descripcion: string; // Ej: "Libro de Matemáticas 1°, páginas 12-25"
-    };
-    // Cómo explicárselo a tu hijo en casa (para papás)
-    guiaPapa: {
-        intro: string;         // Resumen de 1 línea para el papá
-        comoExplicar: string[]; // Pasos super sencillos
-        truco: string;         // Un truco mnemotécnico o visual
-        error_comun: string;   // El error más frecuente de los niños
-        actividad_casa: string; // Una actividad práctica sin materiales extras
-    };
-    // Para el maestro
-    guiaMaestro: {
-        objetivo: string;
-        competencia: string;
-    };
-    // Palabras clave SEO
-    keywords: string[];
+export const LENGUAS_P1: MateriaContenido = {
+    materia: "lenguas",
+    nombre: "Lenguas Indígenas",
+    emoji: "🗣️",
+    color: "#9333EA",
+    bloques: [
+        {
+            bloque: 1,
+            nombre: "Proyecto en mi lengua: Ch'ol",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Ch'ol directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "ch'ol", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 2,
+            nombre: "Proyecto en mi lengua: Chichimeco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Chichimeco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "chichimeco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 3,
+            nombre: "Proyecto en mi lengua: Cora",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Cora directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "cora", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 4,
+            nombre: "Proyecto en mi lengua: Huichol",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Huichol directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "huichol", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 5,
+            nombre: "Proyecto en mi lengua: Maya",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Maya directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "maya", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 6,
+            nombre: "Proyecto en mi lengua: Mayo",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mayo directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mayo", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 7,
+            nombre: "Proyecto en mi lengua: Mazateco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mazateco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mazateco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 8,
+            nombre: "Proyecto en mi lengua: Mixteco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mixteco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mixteco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 9,
+            nombre: "Proyecto en mi lengua: Náhuatl",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Náhuatl directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "náhuatl", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 10,
+            nombre: "Proyecto en mi lengua: Seri",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Seri directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "seri", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 11,
+            nombre: "Proyecto en mi lengua: Tarahumara (Ralámuli)",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tarahumara (Ralámuli) directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tarahumara (ralámuli)", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 12,
+            nombre: "Proyecto en mi lengua: Totonaco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Totonaco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "totonaco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 13,
+            nombre: "Proyecto en mi lengua: Tseltal",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tseltal directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tseltal", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 14,
+            nombre: "Proyecto en mi lengua: Tsotsil",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tsotsil directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tsotsil", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 15,
+            nombre: "Proyecto en mi lengua: Yaqui",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Yaqui directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "yaqui", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 16,
+            nombre: "Proyecto en mi lengua: Zapoteco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Zapoteco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "zapoteco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 17,
+            nombre: "Proyecto en mi lengua: Tojolabal",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tojolabal directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tojolabal", "lenguas indigenas primaria"],
+        },
+    ],
 };
 
-export type MateriaContenido = {
-    materia: string;
-    nombre: string;
-    emoji: string;
-    color: string;
-    bloques: BloqueContenido[];
+export const LENGUAS_P2: MateriaContenido = {
+    materia: "lenguas",
+    nombre: "Lenguas Indígenas",
+    emoji: "🗣️",
+    color: "#9333EA",
+    bloques: [
+        {
+            bloque: 1,
+            nombre: "Proyecto en mi lengua: Ch'ol",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Ch'ol directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "ch'ol", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 2,
+            nombre: "Proyecto en mi lengua: Chichimeco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Chichimeco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "chichimeco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 3,
+            nombre: "Proyecto en mi lengua: Cora",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Cora directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "cora", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 4,
+            nombre: "Proyecto en mi lengua: Huichol",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Huichol directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "huichol", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 5,
+            nombre: "Proyecto en mi lengua: Maya",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Maya directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "maya", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 6,
+            nombre: "Proyecto en mi lengua: Mayo",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mayo directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mayo", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 7,
+            nombre: "Proyecto en mi lengua: Mazateco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mazateco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mazateco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 8,
+            nombre: "Proyecto en mi lengua: Mixteco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Mixteco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "mixteco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 9,
+            nombre: "Proyecto en mi lengua: Náhuatl",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Náhuatl directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "náhuatl", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 10,
+            nombre: "Proyecto en mi lengua: Seri",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Seri directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "seri", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 11,
+            nombre: "Proyecto en mi lengua: Tarahumara (Ralámuli)",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tarahumara (Ralámuli) directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tarahumara (ralámuli)", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 12,
+            nombre: "Proyecto en mi lengua: Totonaco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Totonaco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "totonaco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 13,
+            nombre: "Proyecto en mi lengua: Tseltal",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tseltal directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tseltal", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 14,
+            nombre: "Proyecto en mi lengua: Tsotsil",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tsotsil directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tsotsil", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 15,
+            nombre: "Proyecto en mi lengua: Yaqui",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Yaqui directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "yaqui", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 16,
+            nombre: "Proyecto en mi lengua: Zapoteco",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Zapoteco directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "zapoteco", "lenguas indigenas primaria"],
+        },
+        {
+            bloque: 17,
+            nombre: "Proyecto en mi lengua: Tojolabal",
+            meses: "Todo el ciclo",
+            enClase: ["Lectura en lengua originaria", "Reconocimiento de la cultura local", "Tradiciones y costumbres locales"],
+            guiaPapa: {
+                intro: "Explora la riqueza del Tojolabal directamente desde el libro oficial de la SEP.",
+                comoExplicar: [
+                    "Hojen el libro juntos para descubrir palabras nuevas.",
+                    "Busquen palabras que se parezcan al español — ¡hay muchas raíces comunes!",
+                    "Observen las ilustraciones que reflejan la cultura y tradiciones locales.",
+                ],
+                truco: "Descubran 3 palabras al día y úsenlas en casa como juego familiar.",
+                error_comun: "Pensar que es muy difícil. Los libros están diseñados con muchas imágenes y son muy accesibles.",
+                actividad_casa: "Dibujen un glosario ilustrado con las 10 palabras que más les gusten del libro.",
+            },
+            guiaMaestro: {
+                objetivo: "Acercamiento a la diversidad lingüística y cultural de México a través de la lectura en lengua originaria.",
+                competencia: "Patrimonio cultural y diversidad lingüística — Nueva Escuela Mexicana",
+            },
+            keywords: ["lengua originaria", "libro sep indigena", "proyectos en mi lengua", "tojolabal", "lenguas indigenas primaria"],
+        },
+    ],
 };
 
-export type GradoContenido = {
-    grado: string;
-    nombre: string;
-    emoji: string;
-    materias: Record<string, MateriaContenido>;
-};
+
+import type { BloqueContenido, MateriaContenido, GradoContenido } from "./content-types";
 
 // ============================================================
 // PRIMARIA 1° — Contenido completo masticado
@@ -362,6 +1088,7 @@ export const PRIMARIA_1: GradoContenido = {
                 },
             ],
         },
+        lenguas: LENGUAS_P1,
     },
 };
 
@@ -679,6 +1406,7 @@ export const PRIMARIA_2: GradoContenido = {
                 },
             ],
         },
+        lenguas: LENGUAS_P2,
     },
 };
 
@@ -1088,11 +1816,613 @@ PRIMARIA_1.materias["historia"] = HISTORIA_P1;
 PRIMARIA_2.materias["ciencias"] = CIENCIAS_P2;
 PRIMARIA_2.materias["historia"] = HISTORIA_P2;
 
+// === Bloque 6: Lengua de Señas Mexicana (LSM) para Primaria 1 ===
+// Inyectamos un bloque 6 extra en cada materia para ofrecer contenido de inclusión
+if (PRIMARIA_1.materias["espanol"]) {
+    PRIMARIA_1.materias["espanol"].bloques.push({
+        bloque: 6,
+        nombre: "Mis palabras en señas (LSM)",
+        meses: "Julio",
+        enClase: ["Presentación personal en LSM", "Deletreo de palabras cortas", "Saludos y despedidas formales", "Emociones complejas"],
+        guiaPapa: {
+            intro: "Tu hijo ya domina el abecedario escrito. Ahora aprenderá a deletrearlo con las manos, presentarse en LSM y expresar emociones complejas sin decir una sola palabra.",
+            comoExplicar: [
+                "Practiquen frente al espejo: cada uno se presenta en LSM diciendo 'Me llamo...' y deletreando su nombre.",
+                "Jueguen a deletrear objetos de la casa: MESA, SILLA, FLOR. El que adivine primero, gana.",
+            ],
+            truco: "Las emociones en LSM exigen EXPRESIÓN FACIAL. Si la cara no acompaña, la seña pierde significado. Practiquen 'sorpresa', 'enojo' y 'tristeza' exagerando los gestos.",
+            error_comun: "Deletrear demasiado rápido. En la vida real, el deletreo en LSM es pausado y claro, no una carrera de velocidad.",
+            actividad_casa: "El noticiero silencioso: Tu hijo 'presenta' las noticias del día de la familia usando solo señas y expresiones faciales. Tú adivinas lo que dice.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno se presenta y deletrea palabras cortas usando el abecedario manual de la LSM con fluidez creciente.",
+            competencia: "Comunicación Inclusiva — Lenguaje y Comunicación — SEP Plan 2022",
+        },
+        keywords: ["LSM primaria 1", "deletreo señas primer grado", "lengua de señas primaria SEP"],
+    });
+}
+if (PRIMARIA_1.materias["matematicas"]) {
+    PRIMARIA_1.materias["matematicas"].bloques.push({
+        bloque: 6,
+        nombre: "Números que hablan (LSM)",
+        meses: "Julio",
+        enClase: ["Números del 20 al 50", "Sumas simples con señas", "Monedas mexicanas en LSM", "Secuencias numéricas"],
+        guiaPapa: {
+            intro: "Después de dominar los números del 1 al 20 en preescolar, tu hijo ahora aprenderá los números mayores, las operaciones básicas y la seña de 'dinero' en LSM.",
+            comoExplicar: [
+                "Practiquen los números de 10 en 10 hasta el 50, notando que cada decena tiene seña propia.",
+                "Hagan sumas simples señando: 3 + MÁS + 2 + IGUAL + 5.",
+            ],
+            truco: "Contar dinero real (monedas de $1, $2, $5 y $10) mientras hacen la seña de cada valor. Matemáticas + LSM + vida real.",
+            error_comun: "Confundir las decenas. El 20, 30 y 40 en LSM son señas muy diferentes entre sí; no son multiplicaciones del gesto del 2, 3 o 4.",
+            actividad_casa: "La tiendita silenciosa: Pongan precios a juguetes y compren usando solo señas para los números y 'dinero'. El cajero cuenta en LSM.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno expresa cantidades numéricas hasta 50 y operaciones aritméticas básicas usando LSM.",
+            competencia: "Pensamiento Matemático Inclusivo — SEP Plan 2022",
+        },
+        keywords: ["numeros señas primaria", "matematicas LSM", "sumas lengua señas SEP"],
+    });
+}
+if (PRIMARIA_1.materias["conocimiento"]) {
+    PRIMARIA_1.materias["conocimiento"].bloques.push({
+        bloque: 6,
+        nombre: "Mi mundo en señas (LSM)",
+        meses: "Julio",
+        enClase: ["Animales de México en LSM", "Las estaciones del año", "Higiene y salud", "La escuela y sus espacios"],
+        guiaPapa: {
+            intro: "Conectamos el entorno natural y social del niño con un vocabulario silencioso. Desde el águila del escudo hasta las estaciones del año.",
+            comoExplicar: [
+                "Visiten un parque y nombren en señas los animales que encuentren (pájaro, perro, hormiga).",
+                "Practiquen las estaciones: INVIERNO (tiritar), VERANO (abanicarse), PRIMAVERA (flor abriendo).",
+            ],
+            truco: "Las señas de animales suelen imitar su rasgo más visible: el pico del águila, las orejas del conejo, la trompa del elefante.",
+            error_comun: "Inventar señas para animales en lugar de usar las oficiales de LSM. Cada animal tiene su seña específica.",
+            actividad_casa: "El zoológico silencioso: Dibujen animales en tarjetas. Uno saca una tarjeta y hace la seña; el otro adivina el animal.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno amplía su vocabulario de LSM con elementos del entorno natural, social e institucional.",
+            competencia: "Exploración del Mundo Natural y Social Inclusivo — SEP Plan 2022",
+        },
+        keywords: ["animales LSM primaria", "escuela señas", "higiene lengua señas SEP"],
+    });
+}
+// Agregar educacion_fisica LSM si no existe como materia formal en PRIMARIA_1
+if (!PRIMARIA_1.materias["educacion_fisica"]) {
+    PRIMARIA_1.materias["educacion_fisica"] = {
+        materia: "educacion_fisica",
+        nombre: "Educación Física",
+        emoji: "🏃",
+        color: "#F97316",
+        bloques: [],
+    };
+}
+PRIMARIA_1.materias["educacion_fisica"].bloques.push({
+    bloque: 6,
+    nombre: "Juego y me comunico (LSM)",
+    meses: "Julio",
+    enClase: ["Instrucciones de juego en LSM", "Deportes de equipo", "Calentamiento completo", "Expresión corporal"],
+    guiaPapa: {
+        intro: "Combinamos actividad física con comunicación silenciosa. Tu hijo aprenderá a dar instrucciones deportivas, celebrar goles y hacer calentamientos usando LSM.",
+        comoExplicar: [
+            "Jueguen un partido de fútbol donde las indicaciones se dan SOLO con señas: ALTO, PASA, GOL.",
+            "Hagan una rutina de calentamiento donde cada ejercicio se nombra en señas antes de hacerlo.",
+        ],
+        truco: "La seña de SALTAR usa los dedos como piernitas sobre la otra palma. A los niños les encanta porque es como un muñeco invisible.",
+        error_comun: "Confundir la celebración real con la seña formal. 'GOL' en LSM es brazos arriba con puños cerrados, no cualquier celebración.",
+        actividad_casa: "Las olimpiadas del silencio: Hagan competencias familiares donde todas las indicaciones se comunican solo con señas.",
+    },
+    guiaMaestro: {
+        objetivo: "El alumno coordina instrucciones motrices y deportivas mediante el vocabulario de LSM.",
+        competencia: "Desarrollo de la Motricidad Inclusiva — SEP Plan 2022",
+    },
+    keywords: ["deportes LSM primaria", "educacion fisica señas", "juegos inclusivos SEP"],
+});
+
+// === Bloque 6: Lengua de Señas Mexicana (LSM) para Primaria 2 ===
+if (PRIMARIA_2.materias["espanol"]) {
+    PRIMARIA_2.materias["espanol"].bloques.push({
+        bloque: 6,
+        nombre: "Conecto mis palabras (LSM)",
+        meses: "Julio",
+        enClase: ["Mi primera oración en señas", "Tiempos simples: Ayer, Hoy, Mañana", "Describiendo objetos", "Preguntas básicas: Qué, Quién, Dónde"],
+        guiaPapa: {
+            intro: "Tu hijo sube de nivel en LSM. Ya no solo dirá palabras sueltas, sino que aprenderá a construir oraciones completas, hacer preguntas y hablar del pasado y futuro.",
+            comoExplicar: [
+                "Jueguen a describir la casa: Grande, Pequeña, Limpia. Cuiden que la expresión facial acompañe el tamaño.",
+                "Hagan preguntas mudas: '¿DÓNDE (frunciendo el ceño) está el PERRO?'",
+            ],
+            truco: "En LSM no se usan artículos (el, la, los). Se va directo al punto: GATO COMER, NIÑO DORMIR. Ayuda a tu hijo a pensar en 'conceptos', no en traducciones palabra por palabra.",
+            error_comun: "Olvidar fruncir el ceño al hacer preguntas. En LSM la gramática está en la cara; si la cara no pregunta, es solo una afirmación.",
+            actividad_casa: "Charla del futuro: Usando la seña de MAÑANA, planéen juntos lo que harán el fin de semana usando solo LSM.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno estructura oraciones simples y formula interrogantes utilizando la gramática viso-gestual de la LSM.",
+            competencia: "Comunicación Inclusiva y Sintaxis Viso-gestual — SEP Plan 2022",
+        },
+        keywords: ["oraciones LSM", "gramatica lengua señas", "LSM primaria 2"],
+    });
+}
+if (PRIMARIA_2.materias["matematicas"]) {
+    PRIMARIA_2.materias["matematicas"].bloques.push({
+        bloque: 6,
+        nombre: "Cálculo en mis manos (LSM)",
+        meses: "Julio",
+        enClase: ["Números hasta el 100", "Fracciones rápidas: Mitad y Entero", "Restas con señas", "El tiempo en el reloj"],
+        guiaPapa: {
+            intro: "Avanzamos a números grandes y empezamos con conceptos como fracciones (mitad) y restas, todo visualizado con las manos.",
+            comoExplicar: [
+                "Practiquen contar de 10 en 10 hasta el 100 en LSM. El número cien tiene una seña especial en forma de 'C'.",
+                "Al partir una manzana o un sándwich, usen la seña de MITAD (partir la palma con el índice).",
+            ],
+            truco: "La resta (MENOS) se ve como si 'limpiaras' o 'quitaras' algo de tu palma. Es súper visual y ayuda a entender que restar es quitar.",
+            error_comun: "Hacer los números grandes dedo por dedo. A partir del 20, la LSM usa posiciones de la mano para referirse a decenas, no dedos individuales.",
+            actividad_casa: "La Relojería Silenciosa: Tú haces la seña de una hora y tu hijo tiene que dibujarla en un reloj de papel, o viceversa.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno emplea la LSM para operar cantidades hasta el 100 y maneja conceptos espaciales de partición (fracciones).",
+            competencia: "Pensamiento Matemático Visual — SEP Plan 2022",
+        },
+        keywords: ["numeros 100 LSM", "restas señas", "fracciones lengua señas"],
+    });
+}
+if (PRIMARIA_2.materias["conocimiento"]) {
+    PRIMARIA_2.materias["conocimiento"].bloques.push({
+        bloque: 6,
+        nombre: "Mi entorno se comunica (LSM)",
+        meses: "Julio",
+        enClase: ["El Campo y la Ciudad", "Oficios avanzados en LSM", "El clima y la naturaleza", "Cuidado del agua"],
+        guiaPapa: {
+            intro: "Conectamos conceptos sociales y de la naturaleza. Tu hijo aprenderá las señas para profesiones, tipos de paisaje y elementos como la lluvia y el agua.",
+            comoExplicar: [
+                "Para la seña de LLUVIA, muevan los dedos hacia abajo como gotitas. Para CIUDAD, levanten edificios imaginarios con las manos.",
+                "Jueguen a '¿Qué quiero ser de grande?' diciendo profesiones (Maestro, Doctor) en señas.",
+            ],
+            truco: "Muchos oficios en LSM son 'inicializados', es decir, usan la primera letra de la palabra (como 'M' para maestro) haciendo un movimiento relacionado al oficio.",
+            error_comun: "Confundir la seña de AGUA (con letra A) con gestos informales. En la escuela se enseña la variante estándar Mexicana.",
+            actividad_casa: "El reporte del clima: Tu hijo ve por la ventana y te da el reporte del clima solo con señas: SOL, LLUVIA, FRÍO.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno reconoce y nombra en LSM elementos geográficos, meteorológicos y sociales de su entorno inmediato.",
+            competencia: "Exploración del Entorno Inclusivo — SEP Plan 2022",
+        },
+        keywords: ["ciudad campo LSM", "profesiones señas", "clima LSM primaria"],
+    });
+}
+// Agregar educacion_fisica LSM si no existe como materia formal en PRIMARIA_2
+if (!PRIMARIA_2.materias["educacion_fisica"]) {
+    PRIMARIA_2.materias["educacion_fisica"] = {
+        materia: "educacion_fisica",
+        nombre: "Educación Física",
+        emoji: "🏃",
+        color: "#F97316",
+        bloques: [],
+    };
+}
+PRIMARIA_2.materias["educacion_fisica"].bloques.push({
+    bloque: 6,
+    nombre: "Cuerpo en movimiento (LSM)",
+    meses: "Julio",
+    enClase: ["Lateralidad: Derecha e Izquierda", "Direcciones: Arriba, Abajo, Adelante", "Reglas de juegos en equipo", "Emociones deportivas"],
+    guiaPapa: {
+        intro: "El control espacial es clave. Aprenderemos arriba, abajo, derecha e izquierda usando LSM, integrándolo a deportes.",
+        comoExplicar: [
+            "Hagan el juego de 'Simón Dice' usando direcciones en LSM: Simón dice... ARRIBA.",
+            "Usen las letras D (derecha) e I (izquierda) moviéndolas hacia los lados correspondientes.",
+        ],
+        truco: "Conectar las direcciones con el cuerpo entero. Si dicen 'Derecha' en LSM, obliguen a girar la cabeza también. Solidifica el concepto.",
+        error_comun: "Hacer la seña de izquierda con la mano derecha. Para que visualmente tenga sentido en el espacio propio, se hace hacia el lado que le corresponde.",
+        actividad_casa: "Robot Silencioso: Tú eres el control remoto que da las órdenes direccionales en LSM y tu hijo es el robot ciego que las obedece.",
+    },
+    guiaMaestro: {
+        objetivo: "El alumno domina la ubicación espacial y lateralidad instruyendo movimientos mediante Lengua de Señas Mexicana.",
+        competencia: "Motricidad y Espacialidad Inclusiva — SEP Plan 2022",
+    },
+    keywords: ["lateralidad LSM", "derecha izquierda señas", "educacion fisica inclusiva"],
+});
+
 // Índice de todos los grados disponibles
+
+// === Bloque 6: Lengua de Señas Mexicana (LSM) para Primaria 3 ===
+if (PRIMARIA_3.materias["espanol"]) {
+    PRIMARIA_3.materias["espanol"].bloques.push({
+        bloque: 6,
+        nombre: "Palabras precisas (LSM)",
+        meses: "Julio",
+        enClase: ["Adverbios: Cómo y Cuándo", "Opuestos y Antónimos en señas", "Estructura de un cuento", "Preguntas compuestas"],
+        guiaPapa: {
+            intro: "A los 8-9 años, tu hijo ya puede manejar conceptos relacionales abstractos. Aprenderá cómo cambiar el significado de una seña alterando su velocidad o dirección.",
+            comoExplicar: [
+                "Jueguen a los opuestos: Tú haces la seña de 'Subir' y él debe hacer la de 'Bajar' (mismo concepto, diferente dirección).",
+                "Inventen un minicuento. Empiecen juntos con la seña de 'Había una vez...' (manos girando hacia atrás sobre el hombro).",
+            ],
+            truco: "La velocidad de una seña altera su significado. Si la seña de 'Caminar' la haces rapidísimo, significa 'Correr'. El adverbio está incorporado en la acción.",
+            error_comun: "Hacer preguntas usando solo las manos. Una vez más: para preguntar '¿Por qué?' o '¿Cómo?', la expresión facial (el ceño) es el 50% del mensaje en LSM.",
+            actividad_casa: "El Detective del Pasado: Tu hijo te hace 3 preguntas (qué, cómo, cuándo) sobre algo que hiciste 'Ayer' (usando la seña del pasado).",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno emplea adverbios espaciales y domina la estructura dual de opuestos morfológicos en LSM.",
+            competencia: "Lingüística Visual Abstracta — SEP Plan 2022",
+        },
+        keywords: ["adverbios lsm", "antonimos señas", "cuentos lengua señas"],
+    });
+}
+if (PRIMARIA_3.materias["matematicas"]) {
+    PRIMARIA_3.materias["matematicas"].bloques.push({
+        bloque: 6,
+        nombre: "Mis manos calculan (LSM)",
+        meses: "Julio",
+        enClase: ["Números hasta el 1000", "Geometría básica en LSM", "Peso y medidas", "El calendario completo"],
+        guiaPapa: {
+            intro: "Entrando a los miles y al concepto visual de medida. Aprenderán a 'dibujar' geometría en el aire y escalar números grandes.",
+            comoExplicar: [
+                "Para la seña de 'MIL', enséñale que una mano es la hoja de papel y la otra es el 'sello' que la estampa.",
+                "Dibujen figuras en el aire: Cuadrados, rectángulos, círculos. Observen cómo las manos deben coordinarse.",
+            ],
+            truco: "La LSM es mímica sistematizada. Si quieren decir 'PESADO', actúen como si sostuvieran una piedra; para 'LIVIANO', como si sostuvieran una pluma. Las manos reaccionan al peso.",
+            error_comun: "Tratar de hacer números grandes con muchos dedos. A partir del 100, usamos configuraciones (formas) o movimientos específicos (como el sello del 1,000).",
+            actividad_casa: "La semana loca: Usa la seña de un día de la semana para referirte a las actividades que harán ese día. ¡Visualicen juntos el calendario!",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno maneja escalas numéricas hasta el millar y clasifica formas geométricas tridimensionales en el espacio viso-gestual.",
+            competencia: "Razonamiento Geométrico y Escalar — SEP Plan 2022",
+        },
+        keywords: ["numeros mil lsm", "geometria señas", "medidas lsm"],
+    });
+}
+if (PRIMARIA_3.materias["ciencias"]) {
+    PRIMARIA_3.materias["ciencias"].bloques.push({
+        bloque: 6,
+        nombre: "Explorando la Naturaleza (LSM)",
+        meses: "Julio",
+        enClase: ["El Sistema Solar en LSM", "Estados de la materia (Agua, Hielo, Gas)", "Anatomía avanzada: Órganos", "Clasificación de animales"],
+        guiaPapa: {
+            intro: "La ciencia es fascinante en señas. La translación del Sistema Solar o el paso de sólido a gas se explican visualmente con las manos.",
+            comoExplicar: [
+                "Hagan la órbita de la Tierra: Un puño es el Sol estacionario, y la otra mano da una vuelta a su alrededor.",
+                "Practiquen la transformación: Muestren 'Agua' (fluida) y pasen a 'Hielo' (contrayendo/endureciendo las manos).",
+            ],
+            truco: "Para la anatomía interna (corazón, pulmones, estómago), la seña siempre se coloca espacialmente sobre el área real del cuerpo a la que pertenece.",
+            error_comun: "Inventar señas para los planetas. La LSM tiene un corpus establecido. 'Tierra' es la mano girando alrededor de su eje (el puño).",
+            actividad_casa: "Zoológico Silencioso: Pídele que te clasifique tres animales entre 'Salvajes' o 'Domésticos' usando su seña base más el clasificador de bosque o casa.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno ilustra conceptos físicos (órbitas, materia) y anatómicos internos aplicando clasificadores espaciales descriptivos.",
+            competencia: "Ciencia Visual y Clasificadores — SEP Plan 2022",
+        },
+        keywords: ["sistema solar lsm", "organos lengua señas", "estados materia lsm"],
+    });
+}
+// 3° Primaria usa "formacion" como materia cívica fundamental.
+if (!PRIMARIA_3.materias["formacion"]) {
+    PRIMARIA_3.materias["formacion"] = {
+        materia: "formacion",
+        nombre: "Formación",
+        emoji: "🤝",
+        color: "#10B981",
+        bloques: [],
+    };
+}
+PRIMARIA_3.materias["formacion"].bloques.push({
+    bloque: 6,
+    nombre: "Valores en mis manos (LSM)",
+    meses: "Julio",
+    enClase: ["Inclusión y Respeto", "Reglas de convivencia sana", "Tolerancia vs Discriminación", "Derechos de los niños sordos"],
+    guiaPapa: {
+        intro: "Este es el bloque más importante para construir empatía. Su hijo aprenderá cómo acercarse e incluir a personas neurodivergentes o con discapacidad motriz/auditiva.",
+        comoExplicar: [
+            "Enséñale la seña de 'Persona Sorda' (tocar oreja y boca), explicando por qué la palabra 'sordomudo' no se debe utilizar.",
+            "Para decirle 'Te ayudo', muestra cómo la seña sale de ti hacia él. Para 'Ayúdame', viene de él hacia ti.",
+        ],
+        truco: "La seña de 'PAZ' es alisar o bajar el aire con las palmas. Háganlo cuando el niño esté sobrestimulado; la seña misma es una técnica de autorregulación.",
+        error_comun: "Ocultarse o hacer la seña hacia abajo al decir 'Respeto'. El respeto se honra; la seña debe subir y proyectarse hacia el otro.",
+        actividad_casa: "Contrato de paz: Establezcan que la seña de PAZ o AYUDA será su 'palabra de seguridad' cuando alguien necesite un momento de calma en casa.",
+    },
+    guiaMaestro: {
+        objetivo: "El alumno asimila terminología correcta sobre la inclusión y emplea la LSM para nombrar y gestionar estados emocionales sociales como la paz o la ayuda.",
+        competencia: "Ética Inclusiva y Empatía — SEP Plan 2022",
+    },
+    keywords: ["valores lsm", "derechos discapacidad visual", "inclusion lengua señas"],
+});
+
+// === Bloque 7: Lengua de Señas Mexicana (LSM) para Primaria 4 ===
+// Nota: Primaria 4 ya tiene bloque-6 regular, por lo que LSM va como bloque 7.
+if (PRIMARIA_4.materias["espanol"]) {
+    PRIMARIA_4.materias["espanol"].bloques.push({
+        bloque: 7,
+        nombre: "Mi lengua tiene forma (LSM)",
+        meses: "Julio",
+        enClase: ["Clasificadores de forma y tamaño", "Narración de leyendas mexicanas", "Sinónimos contextuales en LSM", "El orden de la oración en LSM vs Español oral"],
+        guiaPapa: {
+            intro: "A los 9-10 años, tu hijo descubrirá los 'clasificadores': formas de la mano que representan CATEGORÍAS enteras de objetos (planos, cilíndricos, pequeños). Es como aprender los 'moldes' del lenguaje visual.",
+            comoExplicar: [
+                "Practiquen el cambio de rol: Al contar una leyenda, gira tu torso ligeramente para 'ser' cada personaje diferente.",
+                "Jueguen con 'bonito': Haz la seña grande y amplia para un paisaje, y pequeña y delicada para una joya. ¡El tamaño de la seña ES el adjetivo!",
+            ],
+            truco: "El orden en LSM es Tema-Comentario: primero DÓNDE, luego QUIÉN, y al final QUÉ HACE. Es como describir una escena de película: estableces el escenario antes de la acción.",
+            error_comun: "Traducir palabra por palabra del español oral. La LSM tiene su propia gramática; no usa artículos (el, la, los) ni preposiciones separadas.",
+            actividad_casa: "El Cuentacuentos Silencioso: Cada noche, uno cuenta una leyenda mexicana usando LSM, con cambios de rol para cada personaje.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno domina clasificadores descriptivos de la LSM y produce narrativas visuales con cambio de rol y estructura Tema-Comentario.",
+            competencia: "Narrativa Visual y Clasificadores — SEP Plan 2022",
+        },
+        keywords: ["clasificadores lsm", "leyendas señas", "orden oracion lsm"],
+    });
+}
+if (PRIMARIA_4.materias["matematicas"]) {
+    PRIMARIA_4.materias["matematicas"].bloques.push({
+        bloque: 7,
+        nombre: "Números que vuelan (LSM)",
+        meses: "Julio",
+        enClase: ["Fracciones avanzadas en LSM", "Multiplicación visual con señas", "Unidades de medida (metro, kilo, litro)", "Gráficas y datos con las manos"],
+        guiaPapa: {
+            intro: "Las fracciones flotan en 3D y la multiplicación es una X con los dedos. Tu hijo aprenderá a construir gráficas estadísticas usando las manos como barras espaciales.",
+            comoExplicar: [
+                "Para fracciones: el numerador va ARRIBA, la línea de fracción se traza horizontal con el índice, y el denominador va ABAJO.",
+                "Hagan gráficas humanas: Cada miembro de la familia es una 'barra' que se para a diferente altura según un dato.",
+            ],
+            truco: "Las unidades de medida combinan el concepto base (peso, distancia) con la letra inicial del alfabeto manual: K para Kilo, M para Metro, L para Litro.",
+            error_comun: "Hacer la seña de 'dividir' cuando quieren decir 'fracción'. Dividir es un movimiento de corte; la fracción es una estructura vertical (numerador-línea-denominador).",
+            actividad_casa: "El Mercado LSM: Simulen comprar frutas por kilogramos y líquidos por litros, usando las señas de las unidades de medida.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno representa fracciones y operaciones de multiplicación en el espacio tridimensional de la LSM, integrando unidades de medida inicializadas.",
+            competencia: "Matemáticas Espaciales Avanzadas — SEP Plan 2022",
+        },
+        keywords: ["fracciones lsm", "multiplicacion señas", "medidas lsm"],
+    });
+}
+if (PRIMARIA_4.materias["ciencias"]) {
+    PRIMARIA_4.materias["ciencias"].bloques.push({
+        bloque: 7,
+        nombre: "México natural (LSM)",
+        meses: "Julio",
+        enClase: ["Ecosistemas de México en LSM", "Cadena alimenticia con señas", "Energía y luz: fuentes y usos", "Contaminación y reciclaje"],
+        guiaPapa: {
+            intro: "Desde selvas hasta desiertos, tu hijo aprenderá a describir los ecosistemas de México usando clasificadores espaciales. También entenderá la cadena alimenticia como una secuencia direccional.",
+            comoExplicar: [
+                "Para SELVA: los antebrazos son troncos y las manos abiertas son copas frondosas. Para DESIERTO: las manos planas con expresión de calor.",
+                "Practiquen la cadena alimenticia en señas: PLANTA → RATÓN COME → SERPIENTE COME → ÁGUILA COME. La dirección muestra el flujo de energía.",
+            ],
+            truco: "La seña de RECICLAR imita el símbolo universal ♻️: manos girando en bucle. Es una señal compuesta que los niños memorizan instantáneamente.",
+            error_comun: "Confundir la seña de 'bosque' con la de 'selva'. El bosque tiene árboles más separados (manos quietas); la selva tiene vegetación densa (manos moviéndose mucho).",
+            actividad_casa: "Ecodetective: Clasifiquen la basura de la casa usando las señas de ORGÁNICO, PLÁSTICO y PAPEL, y la seña de RECICLAR para lo que pueda reutilizarse.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno describe ecosistemas mexicanos y cadenas tróficas utilizando secuencias direccionales y clasificadores espaciales de la LSM.",
+            competencia: "Conciencia Ambiental Visual — SEP Plan 2022",
+        },
+        keywords: ["ecosistemas lsm", "cadena alimenticia señas", "reciclaje lsm"],
+    });
+}
+if (PRIMARIA_4.materias["historia"]) {
+    PRIMARIA_4.materias["historia"].bloques.push({
+        bloque: 7,
+        nombre: "México en mis manos (LSM)",
+        meses: "Julio",
+        enClase: ["Culturas prehispánicas en LSM", "La Independencia de México", "Patrimonio cultural y tradiciones", "Héroes nacionales: sus nombres en deletreo"],
+        guiaPapa: {
+            intro: "La historia cobra vida con las manos. Tu hijo aprenderá la seña del águila mexica, el concepto visual de libertad (cadenas rompiéndose), y practicará la dactilología con nombres de héroes nacionales.",
+            comoExplicar: [
+                "La seña de MEXICA/AZTECA evoca al águila: una mano como cuerpo, la otra como alas extendidas. ¡Es el escudo nacional en LSM!",
+                "Para 'Independencia': GRITO (mano cónica frente a la boca) + LIBRE (muñecas cruzadas que se separan rompiendo cadenas imaginarias).",
+            ],
+            truco: "Cuando un personaje no tiene seña asignada, se usa la dactilología (deletreo manual): H-I-D-A-L-G-O. Practiquen velocidad de deletreo como juego de rapidez.",
+            error_comun: "Inventar señas para los nombres propios. Si no hay seña establecida, SIEMPRE se deletrea. Cada comunidad sorda puede tener señas propias para héroes locales.",
+            actividad_casa: "La Línea del Tiempo con las Manos: Ordenen 5 eventos históricos usando la línea temporal de LSM (pasado atrás, futuro adelante).",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno narra eventos históricos clave de México aplicando la línea temporal espacial, señas compuestas y dactilología de la LSM.",
+            competencia: "Identidad Nacional e Historia Visual — SEP Plan 2022",
+        },
+        keywords: ["historia mexico lsm", "independencia señas", "culturas prehispanicas lsm"],
+    });
+}
+
+// === Bloque 7: Lengua de Señas Mexicana (LSM) para Primaria 5 ===
+if (PRIMARIA_5.materias["espanol"]) {
+    PRIMARIA_5.materias["espanol"].bloques.push({
+        bloque: 7,
+        nombre: "Expresiones con alma (LSM)",
+        meses: "Julio",
+        enClase: ["Expresiones idiomáticas en LSM", "Registro formal e informal", "Debate y argumentación visual", "Poesía visual: ritmo con las manos"],
+        guiaPapa: {
+            intro: "A los 10-11 años tu hijo descubrirá que la LSM no es una traducción del español: tiene sus propias expresiones, registros formales e incluso ¡poesía! Las señas formales son más amplias y pausadas que las informales.",
+            comoExplicar: [
+                "Explora expresiones: 'Me cayó el veinte' NO se traduce literalmente. En LSM se dice ENTENDER directamente (dedo índice desde la sien hacia afuera).",
+                "Practiquen debate: Uno defiende una postura con señas y el otro contra-argumenta. Importante: ¡la cara debe mostrar convicción o duda!",
+            ],
+            truco: "La poesía en LSM no usa rima sonora sino simetría visual (manos espejo), ritmo (pausas dramáticas) y repetición de formas. ¡Es arte cinético vivo!",
+            error_comun: "Traducir refranes y dichos del español palabra por palabra. La LSM tiene su propio repertorio de expresiones figurativas.",
+            actividad_casa: "Poema de las Manos: Inventen un poema visual de 4 versos usando simetría de manos y pausas dramáticas. Grábenlo en video.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno distingue registros sociolingüísticos de la LSM y produce discurso argumentativo y poético en lengua viso-gestual.",
+            competencia: "Sociolingüística Visual y Expresión Artística — SEP Plan 2022",
+        },
+        keywords: ["expresiones lsm", "poesia señas", "debate lengua señas"],
+    });
+}
+if (PRIMARIA_5.materias["matematicas"]) {
+    PRIMARIA_5.materias["matematicas"].bloques.push({
+        bloque: 7,
+        nombre: "El lenguaje del porcentaje (LSM)",
+        meses: "Julio",
+        enClase: ["Porcentajes en LSM", "Números decimales con señas", "Proporciones y razones", "Problemas de la vida real"],
+        guiaPapa: {
+            intro: "Los porcentajes y decimales en LSM son fascinantes: el punto decimal es un 'golpe seco' flotante y el porcentaje combina el número con la seña de CIEN.",
+            comoExplicar: [
+                "Para decimales: 3.5 = seña de TRES, punto (golpe seco en el aire), seña de CINCO. La precisión es absoluta.",
+                "Jueguen al Supermercado: '¡50% de descuento!' = DESCUENTO + CINCO-CERO + POR-CIENTO. También vale decir MITAD DE PRECIO.",
+            ],
+            truco: "La seña de DOBLE = dedos índice y medio que suben (el 2 que crece). TRIPLE = tres dedos que suben. El patrón es intuitivo.",
+            error_comun: "Olvidar el 'golpe seco' del punto decimal y que los números se confundan (35 vs 3.5). La pausa y el golpe son esenciales.",
+            actividad_casa: "Recetas Matemáticas: Cocinen algo y expresen las cantidades en LSM: 0.5 litros de leche, 250 gramos de harina.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno opera con porcentajes y decimales utilizando la notación espacial de la LSM, resolviendo problemas reales de consumo.",
+            competencia: "Matemáticas Aplicadas y Consumo Responsable — SEP Plan 2022",
+        },
+        keywords: ["porcentajes lsm", "decimales señas", "matematicas inclusivas"],
+    });
+}
+if (PRIMARIA_5.materias["ciencias"]) {
+    PRIMARIA_5.materias["ciencias"].bloques.push({
+        bloque: 7,
+        nombre: "Mi cuerpo por dentro (LSM)",
+        meses: "Julio",
+        enClase: ["Sistema digestivo en LSM", "Sistema circulatorio: el corazón", "Sistema nervioso: el cerebro", "Salud y prevención"],
+        guiaPapa: {
+            intro: "El cuerpo humano se convierte en un mapa tridimensional. Cada sistema se traza sobre el propio cuerpo del alumno: digestivo (boca a intestinos), circulatorio (corazón pulsante), nervioso (sien y columna).",
+            comoExplicar: [
+                "Tracen el sistema digestivo en el cuerpo: desde la boca, bajando por el pecho, haciendo un círculo en el abdomen (estómago) y serpenteando abajo (intestinos).",
+                "El corazón se hace con las manos abriéndose y cerrándose rítmicamente sobre el pecho. Para sangre, los dedos 'fluyen' por los brazos.",
+            ],
+            truco: "VACUNA = inyección en el brazo (icónica). PASTILLA = algo pequeño que va a la boca. La LSM médica imita la experiencia real del paciente.",
+            error_comun: "Ubicar el corazón en el centro del pecho. En LSM anatómica se coloca ligeramente a la izquierda, como en la realidad física.",
+            actividad_casa: "Doctor Silencioso: Uno es el doctor y diagnostica síntomas usando solo LSM. El otro describe qué le duele (usando señas de ubicación corporal).",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno traza y nombra los principales sistemas del cuerpo humano utilizando el espacio corporal como mapa anatómico en LSM.",
+            competencia: "Anatomía Visual Espacial — SEP Plan 2022",
+        },
+        keywords: ["sistemas cuerpo lsm", "anatomia señas", "salud lengua señas"],
+    });
+}
+if (PRIMARIA_5.materias["historia"]) {
+    PRIMARIA_5.materias["historia"].bloques.push({
+        bloque: 7,
+        nombre: "La Revolución habla (LSM)",
+        meses: "Julio",
+        enClase: ["La Revolución Mexicana en LSM", "La Constitución de 1917", "México moderno: derechos sociales", "Línea del tiempo avanzada"],
+        guiaPapa: {
+            intro: "La Revolución Mexicana cobra vida con señas poderosas: puños girando (revolución), L sobre palma (ley/constitución), D ascendente firme (derechos). La línea temporal espacial permite ordenar eventos en 3D.",
+            comoExplicar: [
+                "REVOLUCIÓN: ambos puños girando uno alrededor del otro con energía. Transmite el cambio radical y la agitación.",
+                "Construyan la línea del tiempo: 1810 (atrás, hombro), 1910 (cuerpo), 1917 (adelante). Los eventos se 'colocan' en el espacio.",
+            ],
+            truco: "LEY/CONSTITUCIÓN = L apoyada sobre la palma abierta (el libro). DERECHO = D moviéndose hacia arriba con firmeza (algo que nos pertenece inherentemente).",
+            error_comun: "Confundir 'revolución' con 'guerra'. La guerra es un conflicto entre dos (manos chocando); la revolución es un cambio total del sistema (puños girando).",
+            actividad_casa: "La Línea del Tiempo Familiar: Ubiquen 5 eventos familiares importantes en la línea temporal de LSM (pasado atrás, presente en el cuerpo, futuro adelante).",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno narra la Revolución Mexicana y sus consecuencias institucionales utilizando señas compuestas, dactilología y la línea temporal tridimensional.",
+            competencia: "Memoria Histórica e Identidad Nacional — SEP Plan 2022",
+        },
+        keywords: ["revolucion mexicana lsm", "constitucion señas", "derechos sociales lsm"],
+    });
+}
+
+// === Bloque 7: Lengua de Señas Mexicana (LSM) para Primaria 6 (FINAL) ===
+if (PRIMARIA_6.materias["espanol"]) {
+    PRIMARIA_6.materias["espanol"].bloques.push({
+        bloque: 7,
+        nombre: "Pensamiento en señas (LSM)",
+        meses: "Julio",
+        enClase: ["Pensamiento crítico en LSM", "Discurso persuasivo visual", "Textos académicos y registro culto", "Metalenguaje: hablar SOBRE la LSM en LSM"],
+        guiaPapa: {
+            intro: "¡Nivel máximo! Tu hijo de 11-12 años aprenderá a distinguir opinión de hecho en LSM (YO-PIENSO marca subjetividad), a debatir con expresión facial gramatical, y a entender que la LSM puede hablar SOBRE sí misma (metalenguaje).",
+            comoExplicar: [
+                "Para opinión vs hecho: YO + PIENSO + afirmación = opinión. Sin esa marca = hecho objetivo. La cara importa tanto como las manos.",
+                "Practiquen debate familiar: Uno persuade con cejas levantadas (urgencia), el otro refuta con negación facial. La cara ES la gramática.",
+            ],
+            truco: "La 'inicialización' es clave para vocabulario académico: seña base + letra inicial del español. CIENCIA = investigar + C. FILOSOFÍA = pensar profundo + F.",
+            error_comun: "Creer que la LSM no puede expresar conceptos abstractos o académicos. PUEDE. Tiene neologismos activos y metalenguaje funcional, como cualquier idioma completo.",
+            actividad_casa: "El Debate Silencioso: Elijan un tema polémico y debatan usando solo LSM. El que convenza más (con señas Y expresión facial) gana.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno produce discurso crítico y persuasivo en LSM, distingue registros sociolingüísticos y utiliza metalenguaje para analizar la estructura de la lengua.",
+            competencia: "Pensamiento Crítico y Metalingüística — SEP Plan 2022",
+        },
+        keywords: ["pensamiento critico lsm", "metalenguaje señas", "discurso persuasivo lsm"],
+    });
+}
+if (PRIMARIA_6.materias["matematicas"]) {
+    PRIMARIA_6.materias["matematicas"].bloques.push({
+        bloque: 7,
+        nombre: "Álgebra en el aire (LSM)",
+        meses: "Julio",
+        enClase: ["Variables y ecuaciones en LSM", "Coordenadas cartesianas con el cuerpo", "Probabilidad y azar", "Pensamiento lógico-abstracto"],
+        guiaPapa: {
+            intro: "Las variables algebraicas flotan con interrogación, el plano cartesiano se construye con los brazos, y la probabilidad se expresa con la cara de duda. ¡Las matemáticas abstractas son perfectamente expresables en LSM!",
+            comoExplicar: [
+                "Variable X: forma la letra X con el alfabeto manual y agrégale una sacudida interrogativa (¿qué valor tiene?).",
+                "Plano cartesiano: un brazo horizontal (eje X), otro vertical (eje Y). Para (3,2): cuenta 3 en el horizontal, 2 en el vertical, señala el cruce.",
+            ],
+            truco: "SI...ENTONCES (condicional): cejas levantadas para la condición (espacio izquierdo), pausa, cejas neutras para la consecuencia (espacio derecho). ¡Es programación visual!",
+            error_comun: "Pensar que las matemáticas abstractas NO se pueden expresar en LSM. La distribución espacial de la LSM es ideal para álgebra y geometría analítica.",
+            actividad_casa: "Coordenadas Humanas: Uno dibuja el plano con los brazos, el otro ubica puntos en el espacio tridimensional. Inviertan roles.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno opera con variables algebraicas, expresa lógica condicional y ubica coordenadas en un plano cartesiano corporal.",
+            competencia: "Pensamiento Lógico-Matemático Abstracto — SEP Plan 2022",
+        },
+        keywords: ["algebra lsm", "coordenadas señas", "logica condicional lsm"],
+    });
+}
+if (PRIMARIA_6.materias["ciencias"]) {
+    PRIMARIA_6.materias["ciencias"].bloques.push({
+        bloque: 7,
+        nombre: "Planeta en nuestras manos (LSM)",
+        meses: "Julio",
+        enClase: ["Cambio climático en LSM", "Energías renovables", "Biotecnología básica", "Responsabilidad ambiental global"],
+        guiaPapa: {
+            intro: "El cambio climático, la biotecnología y las energías renovables se expresan con señas compuestas que desglosan conceptos complejos en narrativas visuales. ¡La doble hélice del ADN se reproduce con las manos!",
+            comoExplicar: [
+                "CAMBIO CLIMÁTICO: CAMBIO (manos intercambian posiciones) + CLIMA (movimiento circular sobre la cabeza) + expresión facial de preocupación.",
+                "ADN/GENÉTICA: ambas manos en espiral ascendente, imitando la doble hélice. Es ciencia molecular hecha arte cinético.",
+            ],
+            truco: "La 'huella de carbono' se descompone: HUELLA (sello del pie) + CONTAMINACIÓN (humo subiendo) + PLANETA (esfera). La LSM puede explicar CUALQUIER concepto científico.",
+            error_comun: "No agregar la expresión facial de preocupación al hablar de crisis climática. En LSM, la emoción no es extra: ES parte del significado gramatical.",
+            actividad_casa: "Noticieros Verdes: Presenten noticias ambientales en LSM, como reporteros. Incluyan datos (porcentajes que ya aprendieron) y propuestas de solución.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno comunica conceptos de ciencia ambiental y biotecnología utilizando señas compuestas, descomposición conceptual y marcadores emocionales gramaticales.",
+            competencia: "Ciudadanía Ambiental y Comunicación Científica — SEP Plan 2022",
+        },
+        keywords: ["cambio climatico lsm", "energias renovables señas", "adn lengua señas"],
+    });
+}
+if (PRIMARIA_6.materias["historia"]) {
+    PRIMARIA_6.materias["historia"].bloques.push({
+        bloque: 7,
+        nombre: "México y el mundo (LSM)",
+        meses: "Julio",
+        enClase: ["México contemporáneo en LSM", "Globalización y tecnología", "Derechos digitales y ciberseguridad", "La comunidad sorda en México hoy"],
+        guiaPapa: {
+            intro: "El cierre épico: DEMOCRACIA = PUEBLO + DECIDE. INTERNET = nodos girando conectados. Y el dato más importante: en 2005, el Congreso de México reconoció la LSM como lengua nacional. ¡Conocer sus derechos es poder!",
+            comoExplicar: [
+                "DEMOCRACIA: PUEBLO (dedos moviéndose juntos) + DECIDIR (mano que baja firmemente). El pueblo que decide.",
+                "CONTRASEÑA/PRIVACIDAD: puño cerrado que gira frente a la boca como un candado. Enseñen ciberseguridad en LSM.",
+            ],
+            truco: "La Ley General para la Inclusión (2005) reconoce la LSM como patrimonio lingüístico. Las personas sordas tienen DERECHO LEGAL a educación, salud y justicia en su lengua.",
+            error_comun: "Creer que las lenguas de señas son iguales en todo el mundo. Cada país tiene la suya: LSM (México), ASL (EE.UU.), LSE (España). Son idiomas distintos.",
+            actividad_casa: "Derechos en Acción: Investiguen juntos los artículos que protegen los derechos de las personas sordas en México y preséntenlos en un mini-documental en LSM.",
+        },
+        guiaMaestro: {
+            objetivo: "El alumno contextualiza la LSM como patrimonio lingüístico nacional, comprende el marco legal mexicano de inclusión y ejerce ciudadanía digital responsable.",
+            competencia: "Ciudadanía Global e Identidad Lingüística — SEP Plan 2022",
+        },
+        keywords: ["democracia lsm", "derechos digitales señas", "comunidad sorda mexico"],
+    });
+}
+
 // Nota: PRIMARIA_3 y KINDER se importan al comienzo del archivo
+
 export const GRADOS_CONTENIDO: Record<string, GradoContenido> = {
     "kinder": KINDER,
+    "preescolar-3": KINDER,
+    "preescolar-1": PREESCOLAR_1_COMPLETE,
+    "preescolar-2": PREESCOLAR_2,
     "primaria-1": PRIMARIA_1,
     "primaria-2": PRIMARIA_2,
     "primaria-3": PRIMARIA_3,
+    "primaria-4": PRIMARIA_4,
+    "primaria-5": PRIMARIA_5,
+    "primaria-6": PRIMARIA_6,
+    "secundaria-1": SECUNDARIA_1,
+    "secundaria-2": SECUNDARIA_2,
+    "secundaria-3": SECUNDARIA_3,
 };
+

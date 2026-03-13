@@ -2,195 +2,309 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 2,
-  "nombre": "Jugamos juntos",
-  "meses": "Oct-Nov",
+  "nombre": "Juegos y deportes divertidos",
+  "meses": "Octubre–Noviembre",
   "temas": [
-    "Juegos de grupo",
-    "Reglas del juego"
+    "Juegos con pelota",
+    "Carreras y relevos",
+    "Juegos tradicionales mexicanos",
+    "Trabajo en equipo"
   ],
-  "totalEjercicios": 10,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar1ef-b2-01",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-001",
+        "tema": "Juegos con pelota",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirven las reglas en un juego?",
+        "pregunta": "¿Qué puedes hacer con una pelota?",
         "opciones": [
-          "Para que todos jueguen bien",
-          "Para castigar",
-          "Para ganar siempre",
-          "Para no jugar"
+          "Lanzar, patear, atrapar y botar",
+          "Solo mirarla",
+          "Comerla",
+          "Dormirla"
         ],
-        "respuestaCorrecta": "Para que todos jueguen bien",
-        "explicacion": "Las reglas garantizan diversión justa para todos.",
-        "visual": "🎮"
+        "respuestaCorrecta": "Lanzar, patear, atrapar y botar",
+        "explicacion": "¡Con la pelota podemos hacer muchas cosas! Lanzar con las manos, patear con los pies, atrapar y botar. ⚽🏀",
+        "visual": "⚽"
       },
       {
-        "id": "preescolar1ef-b2-02",
-        "tema": "Convivencia",
+        "id": "pre1-ef-b2-v1-002",
+        "tema": "Juegos con pelota",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos respetar a los demás al jugar",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Respetar a los compañero hace que todos se diviertan."
+        "pregunta": "En el fútbol pateamos la pelota con los pies.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El fútbol se juega con los pies. Solo el portero puede usar las manos. ⚽🦶"
       },
       {
-        "id": "preescolar1ef-b2-03",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-003",
+        "tema": "Carreras y relevos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En las \"traes\", ¿qué hace quien la lleva?",
+        "pregunta": "En una carrera, ¿quién gana?",
         "opciones": [
-          "Persigue a los demás",
-          "Se esconde",
-          "Se queda quieto",
-          "Canta"
+          "El que llega primero a la meta",
+          "El más alto",
+          "El que se sienta primero",
+          "Nadie"
         ],
-        "respuestaCorrecta": "Persigue a los demás",
-        "explicacion": "Quien \"la lleva\" corre para tocar a otro jugador.",
-        "visual": "🏃"
+        "respuestaCorrecta": "El que llega primero a la meta",
+        "explicacion": "¡El primero en llegar a la meta gana! Pero lo más importante es divertirse y participar. 🏁🏃",
+        "visual": "🏁"
       },
       {
-        "id": "preescolar1ef-b2-04",
-        "tema": "Convivencia",
+        "id": "pre1-ef-b2-v1-004",
+        "tema": "Juegos tradicionales mexicanos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Si un amigo se cae jugando, ¿qué hago?",
+        "pregunta": "¿Cómo se juega a las 'escondidillas'?",
         "opciones": [
-          "Lo ayudo",
-          "Lo ignoro",
-          "Me río",
-          "Sigo jugando"
+          "Uno cuenta y los demás se esconden",
+          "Todos corren",
+          "Todos duermen",
+          "Solo se sientan"
         ],
-        "respuestaCorrecta": "Lo ayudo",
-        "explicacion": "Ayudar a un amigo lastimado es lo correcto. Avisa a un adulto si es necesario.",
-        "visual": "🤝"
+        "respuestaCorrecta": "Uno cuenta y los demás se esconden",
+        "explicacion": "¡Las escondidillas! Uno cierra los ojos y cuenta, los demás se esconden. ¡Luego a buscar! 🙈🔍",
+        "visual": "🙈"
       },
       {
-        "id": "preescolar1ef-b2-05",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-005",
+        "tema": "Trabajo en equipo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Solo los niños grandes pueden jugar",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Falso",
-        "explicacion": "Todos pueden jugar, adaptando las actividades a cada edad."
+        "pregunta": "En los juegos de equipo, todos deben trabajar juntos para ganar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El equipo gana cuando todos colaboran! Cada persona tiene su papel importante. ¡Juntos somos más fuertes! 🤝💪"
       },
       {
-        "id": "preescolar1ef-b2-06",
-        "tema": "Juego",
+        "id": "pre1-ef-b2-v1-006",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Saltar la cuer___ es un juego muy divertido y buen ejercicio.",
+        "respuestaCorrecta": "da",
+        "explicacion": "¡Saltar la cuerda! Es uno de los mejores ejercicios: mejora la coordinación, la resistencia y ¡es muy divertido! 🤸‍♀️"
+      },
+      {
+        "id": "pre1-ef-b2-v1-007",
+        "tema": "Juegos con pelota",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En \"Simón dice\", hacemos caso cuando:",
+        "pregunta": "¿En qué deporte la pelota se lanza con las manos al aro?",
         "opciones": [
-          "Simón lo ordena",
-          "Cualquier niño lo diga",
-          "Nadie lo diga",
-          "Solo si queremos"
+          "Básquetbol 🏀",
+          "Fútbol ⚽",
+          "Natación 🏊",
+          "Ciclismo 🚴"
         ],
-        "respuestaCorrecta": "Simón lo ordena",
-        "explicacion": "Solo ejecutamos la acción si se dice \"Simón dice...\".",
-        "visual": "👑"
-      },
-      {
-        "id": "preescolar1ef-b2-07",
-        "tema": "Juego",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Jugar en equipo enseña a compartir",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "El juego en equipo fomenta cooperación y convivencia."
-      },
-      {
-        "id": "preescolar1ef-b2-08",
-        "tema": "Juego",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué hacemos al terminar el juego?",
-        "opciones": [
-          "Guardar materiales y agradecer",
-          "Tirar todo",
-          "Pelearnos",
-          "Nada"
-        ],
-        "respuestaCorrecta": "Guardar materiales y agradecer",
-        "explicacion": "Al terminar guardamos todo y agradecemos a quienes jugaron.",
-        "visual": "🙏"
-      },
-      {
-        "id": "preescolar1ef-b2-09",
-        "tema": "Juego",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas manos usamos para atrapar una pelota grande?",
-        "opciones": [
-          "Dos",
-          "Una",
-          "Ninguna",
-          "Tres"
-        ],
-        "respuestaCorrecta": "Dos",
-        "explicacion": "Con las dos manos sujetamos mejor una pelota grande.",
+        "respuestaCorrecta": "Básquetbol 🏀",
+        "explicacion": "¡El básquetbol! Se lanza la pelota con las manos tratando de encestarla en el aro. 🏀🎯",
         "visual": "🏀"
       },
       {
-        "id": "preescolar1ef-b2-10",
-        "tema": "Convivencia",
+        "id": "pre1-ef-b2-v1-008",
+        "tema": "Carreras y relevos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos pelear si perdemos un juego",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Falso",
-        "explicacion": "Perder forma parte del juego. Lo importante es disfrutar y aprender."
-      }
-    ],
-    "v2": [],
-    "preview": [
-      {
-        "id": "preescolar1ef-b2-01",
-        "tema": "Juego",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Para qué sirven las reglas en un juego?",
-        "opciones": [
-          "Para que todos jueguen bien",
-          "Para castigar",
-          "Para ganar siempre",
-          "Para no jugar"
-        ],
-        "respuestaCorrecta": "Para que todos jueguen bien",
-        "explicacion": "Las reglas garantizan diversión justa para todos.",
-        "visual": "🎮"
+        "pregunta": "En una carrera de relevos, los corredores se pasan un objeto mientras corren.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En los relevos se pasa un bastón (estafeta) de corredor a corredor. ¡Es trabajo en equipo con velocidad! 🏃‍♂️➡️🏃‍♀️"
       },
       {
-        "id": "preescolar1ef-b2-02",
-        "tema": "Convivencia",
+        "id": "pre1-ef-b2-v1-009",
+        "tema": "Trabajo en equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué haces cuando tu equipo pierde un juego?",
+        "opciones": [
+          "Felicitas al otro equipo y sigues practicando",
+          "Te enojas",
+          "Te vas",
+          "Pegas a alguien"
+        ],
+        "respuestaCorrecta": "Felicitas al otro equipo y sigues practicando",
+        "explicacion": "¡El deporte nos enseña a ganar y a perder! Lo importante es divertirse, aprender y ser buen deportista. 🤝🌟"
+      },
+      {
+        "id": "pre1-ef-b2-v1-010",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué juego mexicano se juega con una cuerda donde dos la mueven y uno salta?",
+        "opciones": [
+          "Saltar la cuerda / Brincar la reata",
+          "Fútbol",
+          "Béisbol",
+          "Natación"
+        ],
+        "respuestaCorrecta": "Saltar la cuerda / Brincar la reata",
+        "explicacion": "¡Brincar la reata! Dos amigos giran la cuerda mientras el de en medio salta. ¡Se cantan canciones mientras saltas! 🎵🤸",
+        "visual": "🤸"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-ef-b2-v2-001",
+        "tema": "Juegos con pelota",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En el fútbol, el jugador que cuida la portería se llama por___.",
+        "respuestaCorrecta": "tero",
+        "explicacion": "¡Portero! Es el único jugador que puede usar las manos para detener la pelota. ¡Es el guardián de la portería! ⚽🧤"
+      },
+      {
+        "id": "pre1-ef-b2-v2-002",
+        "tema": "Carreras y relevos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipos de carreras existen?",
+        "opciones": [
+          "De velocidad, de resistencia, de obstáculos y de relevos",
+          "Solo de velocidad",
+          "Solo caminar",
+          "No existen"
+        ],
+        "respuestaCorrecta": "De velocidad, de resistencia, de obstáculos y de relevos",
+        "explicacion": "¡Hay muchos tipos! Carreras rápidas, largas, con obstáculos que saltas y de equipo (relevos). ¡Cada una es diferente! 🏃‍♂️🏁"
+      },
+      {
+        "id": "pre1-ef-b2-v2-003",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "'Doña Blanca está cubierta de pilares de oro y plata' es parte de un juego mexicano.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Es una ronda mexicana donde los niños hacen círculo y cantan. ¡Ha existido por muchas generaciones! 🎶👫"
+      },
+      {
+        "id": "pre1-ef-b2-v2-004",
+        "tema": "Trabajo en equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué valor es más importante en el deporte?",
+        "opciones": [
+          "El respeto a todos — compañeros y rivales",
+          "Ganar a cualquier costo",
+          "Solo pensar en ti",
+          "Hacer trampa"
+        ],
+        "respuestaCorrecta": "El respeto a todos — compañeros y rivales",
+        "explicacion": "¡El respeto! El deporte nos enseña a respetar las reglas, a nuestros compañeros y a los rivales. ¡Juego limpio! 🤝🏆"
+      },
+      {
+        "id": "pre1-ef-b2-v2-005",
+        "tema": "Juegos con pelota",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El voleibol se juega golpeando la pelota con las manos por encima de una red.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En el voleibol la pelota vuela por encima de la red. ¡Los jugadores la golpean sin dejarla caer! 🏐"
+      },
+      {
+        "id": "pre1-ef-b2-v2-006",
+        "tema": "Carreras y relevos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El objeto que se pasa en una carrera de relevos se llama esta___.",
+        "respuestaCorrecta": "feta",
+        "explicacion": "¡La estafeta! Es un tubo que los corredores se pasan de mano en mano sin detenerse. ¡Velocidad + precisión! 🏃‍♀️🔄"
+      },
+      {
+        "id": "pre1-ef-b2-v2-007",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En qué consiste el juego de 'las traes' (la roña)?",
+        "opciones": [
+          "Uno persigue a los demás y el que toca queda 'atrapado'",
+          "Todos se sientan",
+          "Todos duermen",
+          "Nadie corre"
+        ],
+        "respuestaCorrecta": "Uno persigue a los demás y el que toca queda 'atrapado'",
+        "explicacion": "¡Las traes! Uno persigue al grupo y toca a alguien gritando '¡las traes!' ¡Ahora le toca a otro perseguir! 🏃‍♂️💨"
+      },
+      {
+        "id": "pre1-ef-b2-v2-008",
+        "tema": "Trabajo en equipo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En un equipo, es importante escuchar las ideas de todos, no solo del más fuerte.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Todos son importantes en el equipo! La mejor idea puede venir de cualquiera. ¡Escuchar es la clave del éxito! 👂🤝"
+      },
+      {
+        "id": "pre1-ef-b2-v2-009",
+        "tema": "Juegos con pelota",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es 'driblar' en el básquetbol?",
+        "opciones": [
+          "Botar la pelota con una mano mientras caminas",
+          "Sentarse con la pelota",
+          "Dormir con la pelota",
+          "Comer la pelota"
+        ],
+        "respuestaCorrecta": "Botar la pelota con una mano mientras caminas",
+        "explicacion": "¡Driblar es botar la pelota! La haces rebotar en el piso mientras te mueves. ¡Es como bailar con la pelota! 🏀💃"
+      },
+      {
+        "id": "pre1-ef-b2-v2-010",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los juegos tradicionales mexicanos son parte de nuestra cultura y se han jugado por cientos de años.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las escondidillas, la cuerda, las traes, Doña Blanca... ¡Son tesoros de nuestra cultura! 🇲🇽🎮"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-ef-b2-v1-001",
+        "tema": "Juegos con pelota",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué puedes hacer con una pelota?",
+        "opciones": [
+          "Lanzar, patear, atrapar y botar",
+          "Solo mirarla",
+          "Comerla",
+          "Dormirla"
+        ],
+        "respuestaCorrecta": "Lanzar, patear, atrapar y botar",
+        "explicacion": "¡Muchas cosas! ⚽🏀",
+        "visual": "⚽"
+      },
+      {
+        "id": "pre1-ef-b2-v1-004",
+        "tema": "Juegos tradicionales mexicanos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se juegan las escondidillas?",
+        "opciones": [
+          "Uno cuenta y los demás se esconden",
+          "Todos corren",
+          "Todos duermen",
+          "Se sientan"
+        ],
+        "respuestaCorrecta": "Uno cuenta y los demás se esconden",
+        "explicacion": "¡Uno-dos-tres! 🙈🔍",
+        "visual": "🙈"
+      },
+      {
+        "id": "pre1-ef-b2-v1-005",
+        "tema": "Trabajo en equipo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos respetar a los demás al jugar",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Respetar a los compañero hace que todos se diviertan."
+        "pregunta": "En equipo, todos deben trabajar juntos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Juntos somos fuertes! 🤝💪"
       }
     ]
-  }
+  },
+  "generado": "2026-03-11T12:15:00.000Z",
+  "version": "4.0-SEP"
 }

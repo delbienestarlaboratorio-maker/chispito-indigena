@@ -2,397 +2,326 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 5,
-  "nombre": "Construyo con mis manos",
-  "meses": "Abril-Junio",
+  "nombre": "Mi mundo creativo — Arte para todos",
+  "libroSep": "K1MLA",
+  "paginasLibro": "134-163",
+  "meses": "Abril–Junio",
   "temas": [
-    "Pintar con dedos",
-    "Cantar canciones",
-    "Bailar",
-    "Dibujar libremente",
-    "Hacer manualidades"
+    "Láminas de arte y cultura",
+    "Arte con materiales reciclados",
+    "Canciones y rondas mexicanas",
+    "Mi museo personal"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-artes-b5-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b5-v1-001",
+        "tema": "Láminas de arte y cultura",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "Tu libro tiene láminas de diálogo con obras de arte. ¿Para qué sirven?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Para observar, platicar y aprender sobre arte",
+          "Para recortar",
+          "Para tirar a la basura",
+          "Para hacer aviones"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Para observar, platicar y aprender sobre arte",
+        "explicacion": "¡Las láminas son para disfrutar el arte! Las observas con atención y platicas con tu maestra o amigos sobre lo que ves. 👁️🎨",
+        "visual": "🖼️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LDG",
+          "pagina": 1
+        }
       },
       {
-        "id": "preescolar-1-artes-b5-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b5-003",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b5-v1-002",
+        "tema": "Arte con materiales reciclados",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Rojo y azul juntos forman morado",
+        "pregunta": "Con una caja de cartón vieja puedes crear un castillo, un carro o un robot.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
-        "visual": "🔴",
-        "visualAnimado": true
+        "explicacion": "¡Sí! El cartón es perfecto para crear. ¡Una caja puede ser un castillo, un carro, un avión o lo que tú imagines! 📦🏰"
       },
       {
-        "id": "preescolar-1-artes-b5-x-006",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b5-v1-003",
+        "tema": "Canciones y rondas mexicanas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Qué ronda infantil mexicana dice 'A la rueda, rueda, de pan y canela'?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "A la rueda de San Miguel",
+          "Las mañanitas",
+          "Cielito lindo",
+          "La cucaracha"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "A la rueda de San Miguel",
+        "explicacion": "¡'A la rueda de San Miguel'! Es una ronda donde los niños hacen un círculo y cantan mientras giran. ¡Es muy divertida! 🎶🌀",
+        "visual": "🎵"
       },
       {
-        "id": "preescolar-1-artes-b5-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b5-v1-004",
+        "tema": "Mi museo personal",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Tú puedes crear tu propio museo en tu casa con tus dibujos, esculturas de plastilina y collages.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Claro que sí! Juntas todas tus obras de arte, las pones bonitas en una mesa o pared, ¡y listo! ¡Tu museo personal! 🏛️✨"
       },
       {
-        "id": "preescolar-1-artes-b5-x-008",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-010",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b5-v1-005",
+        "tema": "Láminas de arte y cultura",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "Cuando ves una obra de arte en tu libro, lo primero que debes hacer es...",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Observarla con calma y pensar lo que sientes",
+          "Romperla",
+          "Ignorarla",
+          "Correr"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Observarla con calma y pensar lo que sientes",
+        "explicacion": "¡Observar es la clave! Mira los colores, las formas, los personajes. ¿Qué te hace sentir? ¡No hay respuesta incorrecta! 👁️💭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LDG",
+          "pagina": 1
+        }
       },
       {
-        "id": "preescolar-1-artes-b5-x-012",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b5-v1-006",
+        "tema": "Arte con materiales reciclados",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
+        "pregunta": "¿Cuál de estos materiales puedes reciclar para hacer arte?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Todos: cartón, botellas, tapas, papel",
+          "Ninguno",
+          "Solo el oro",
+          "Solo el vidrio"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "respuestaCorrecta": "Todos: cartón, botellas, tapas, papel",
+        "explicacion": "¡Todo se puede volver arte! Cartón, botellas de plástico, tapas, papel periódico... ¡La basura puede ser un tesoro artístico! ♻️🎨",
+        "visual": "♻️"
       },
       {
-        "id": "preescolar-1-artes-b5-x-013",
-        "tema": "Bailar",
+        "id": "pre1-artes-b5-v1-007",
+        "tema": "Canciones y rondas mexicanas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Las canciones que los niños cantan en ronda mientras juegan son rondas infan___.",
+        "respuestaCorrecta": "tiles",
+        "explicacion": "¡Rondas infantiles! Son canciones que los niños cantan mientras juegan en círculo. ¡Han existido por generaciones! 🎶👫"
+      },
+      {
+        "id": "pre1-artes-b5-v1-008",
+        "tema": "Mi museo personal",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "Un museo es un lugar donde se guardan y muestran...",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Obras de arte y objetos importantes",
+          "Solo comida",
+          "Solo ropa",
+          "Solo juguetes"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Obras de arte y objetos importantes",
+        "explicacion": "¡Los museos guardan tesoros! Pinturas, esculturas, objetos antiguos... ¡Todo lo que vale la pena conservar y mostrar! 🏛️",
+        "visual": "🏛️"
       },
       {
-        "id": "preescolar-1-artes-b5-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b5-v1-009",
+        "tema": "Arte con materiales reciclados",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Un tubo de papel de baño puede convertirse en un cohete, un telescopio o un personaje.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Con un tubo de cartón, pintura y pegamento puedes crear un cohete, un telescopio, ¡o un títere! 🚀🔭",
+        "visual": "🚀"
       },
       {
-        "id": "preescolar-1-artes-b5-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b5-v1-010",
+        "tema": "Canciones y rondas mexicanas",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-016",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-017",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
+        "pregunta": "Cantar y bailar también es hacer arte.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Claro! La música y la danza son formas de arte. Cuando cantas y bailas, ¡estás siendo un artista! 🎵💃"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-artes-b5-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b5-v2-001",
+        "tema": "Láminas de arte y cultura",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "¿Qué formas de arte puedes encontrar en las láminas de tu libro?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Pinturas, fotos, esculturas y artesanías",
+          "Solo pinturas",
+          "Nada",
+          "Solo fotos"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Pinturas, fotos, esculturas y artesanías",
+        "explicacion": "¡Las láminas tienen de todo! Obras de artistas mexicanos, fotografías, esculturas... ¡Es como un mini museo en tu libro! 📖🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LDG",
+          "pagina": 1
+        }
       },
       {
-        "id": "preescolar-1-artes-b5-005",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b5-v2-002",
+        "tema": "Arte con materiales reciclados",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Bailar es moverse al ritmo de la ___",
-        "respuestaCorrecta": "música",
-        "explicacion": "La danza es el arte de moverse siguiendo la música."
+        "pregunta": "Cuando usamos materiales viejos para crear algo nuevo, estamos reci___.",
+        "respuestaCorrecta": "clando",
+        "explicacion": "¡Reciclando! Reutilizar materiales para hacer arte es bueno para el planeta y para la creatividad. ♻️🌍"
       },
       {
-        "id": "preescolar-1-artes-b5-x-006",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-007",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
-        "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
-        ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-010",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b5-v2-003",
+        "tema": "Canciones y rondas mexicanas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Las rondas infantiles mexicanas se han pasado de abuelos a padres y de padres a hijos.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Son tradición oral — se transmiten de generación en generación. ¡Tu abuelita cantaba las mismas rondas! 👵🎶"
       },
       {
-        "id": "preescolar-1-artes-b5-x-011",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-013",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b5-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b5-v2-004",
+        "tema": "Mi museo personal",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "Si quisieras hacer tu museo en casa, ¿qué obras pondrías?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Mis dibujos, esculturas de plastilina y collages",
+          "Solo cuadernos de matemáticas",
+          "Solo ropa",
+          "Nada"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Mis dibujos, esculturas de plastilina y collages",
+        "explicacion": "¡Todo lo que has creado durante el año! Dibujos, pinturas, esculturas, collages... ¡Todo es digno de un museo! 🏛️🎨"
       },
       {
-        "id": "preescolar-1-artes-b5-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b5-v2-005",
+        "tema": "Láminas de arte y cultura",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "pregunta": "Cuando observas una obra de arte, está bien que la interpretes a tu manera, no hay una sola respuesta correcta.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Cada persona ve algo diferente en el arte. Tu opinión es válida y especial. ¡El arte es para sentir! 💭❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LDG",
+          "pagina": 1
+        }
       },
       {
-        "id": "preescolar-1-artes-b5-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b5-v2-006",
+        "tema": "Arte con materiales reciclados",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Qué es un 'eco-artista'?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Alguien que crea arte con materiales reciclados",
+          "Un artista que vive en el bosque",
+          "Un cantante de eco",
+          "Un pintor de paredes"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Alguien que crea arte con materiales reciclados",
+        "explicacion": "¡Un eco-artista cuida el planeta mientras crea! Convierte basura en belleza. ¡Tú puedes ser uno! ♻️🎨🌍"
+      },
+      {
+        "id": "pre1-artes-b5-v2-007",
+        "tema": "Canciones y rondas mexicanas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "'Naranja dulce, limón partido, dame un abrazo que yo te ___.'",
+        "respuestaCorrecta": "pido",
+        "explicacion": "¡'Dame un abrazo que yo te pido'! Es una ronda mexicana clásica. ¡Los abrazos hacen felices a todos! 🍊🤗"
+      },
+      {
+        "id": "pre1-artes-b5-v2-008",
+        "tema": "Mi museo personal",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Al final del año escolar, puedes hacer una exposición de arte con todo lo que creaste.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Es una idea genial! Invitas a tu familia a ver todas las obras que hiciste durante el año. ¡Una gran fiesta del arte! 🎉🎨"
+      },
+      {
+        "id": "pre1-artes-b5-v2-009",
+        "tema": "Láminas de arte y cultura",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué aprendimos sobre el arte este año?",
+        "opciones": [
+          "El arte es para todos y tiene muchas formas",
+          "Solo los adultos hacen arte",
+          "El arte es aburrido",
+          "Solo existe la pintura"
+        ],
+        "respuestaCorrecta": "El arte es para todos y tiene muchas formas",
+        "explicacion": "¡El arte es para TODOS! Pintura, escultura, música, danza, teatro, fotografía, artesanía... ¡Y TÚ eres un artista! 🌟🎨"
+      },
+      {
+        "id": "pre1-artes-b5-v2-010",
+        "tema": "Arte con materiales reciclados",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Hacer arte con materiales reciclados ayuda al medio ambiente.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Cada material que reciclas es uno menos en la basura. ¡El arte puede salvar el planeta! 🌍♻️🎨"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-artes-b5-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b5-v1-001",
+        "tema": "Láminas de arte y cultura",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "¿Para qué sirven las láminas de arte de tu libro?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Para observar, platicar y aprender sobre arte",
+          "Para recortar",
+          "Para tirar",
+          "Para hacer aviones"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Para observar, platicar y aprender sobre arte",
+        "explicacion": "¡Para disfrutar el arte y compartir! 👁️🎨",
+        "visual": "🖼️",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-artes-b5-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b5-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b5-v1-006",
+        "tema": "Arte con materiales reciclados",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "nivel": "v1",
+        "pregunta": "¿Qué materiales puedes reciclar para hacer arte?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Cartón, botellas, tapas, papel",
+          "Ninguno",
+          "Solo el oro",
+          "Solo el vidrio"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Cartón, botellas, tapas, papel",
+        "explicacion": "¡Todo puede ser arte! ♻️🎨",
+        "visual": "♻️"
+      },
+      {
+        "id": "pre1-artes-b5-v1-004",
+        "tema": "Mi museo personal",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Puedes crear tu propio museo en casa con tus dibujos y esculturas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Tu propio museo en casa! 🏛️✨"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.118Z",
-  "version": "2.0"
+  "generado": "2026-03-11T11:35:00.000Z",
+  "version": "4.0-SEP"
 }

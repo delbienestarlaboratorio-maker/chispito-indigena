@@ -2,195 +2,303 @@
   "grado": "preescolar-1",
   "materia": "educacion_fisica",
   "bloque": 5,
-  "nombre": "Naturaleza activa",
-  "meses": "Abr-Jun",
+  "nombre": "Mini olimpiada y vida activa",
+  "meses": "Abril–Junio",
   "temas": [
-    "Aire libre",
-    "Cuidado del entorno"
+    "Mini olimpiada escolar",
+    "Deportes acuáticos y al aire libre",
+    "Hábitos de vida activa",
+    "Celebración del cuerpo"
   ],
-  "totalEjercicios": 10,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar1ef-b5-01",
-        "tema": "Naturaleza",
+        "id": "pre1-ef-b5-v1-001",
+        "tema": "Mini olimpiada escolar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Por qué es bueno jugar al aire libre?",
+        "pregunta": "¿Qué son las olimpiadas?",
         "opciones": [
-          "Nos da sol y espacio para movernos",
-          "Porque está de moda",
-          "Para alejarse de casa",
-          "Para no estudiar"
+          "Una competencia deportiva entre muchos países",
+          "Una fiesta de comida",
+          "Una clase de lectura",
+          "Un concurso de dibujo"
         ],
-        "respuestaCorrecta": "Nos da sol y espacio para movernos",
-        "explicacion": "El sol nos da vitamina D y el espacio exterior invita a moverse más.",
-        "visual": "🌞"
+        "respuestaCorrecta": "Una competencia deportiva entre muchos países",
+        "explicacion": "¡Las olimpiadas reúnen a los mejores deportistas del mundo! Compiten en muchos deportes. ¡Tu escuela puede hacer su propia mini olimpiada! 🏅🌍",
+        "visual": "🏅"
       },
       {
-        "id": "preescolar1ef-b5-02",
-        "tema": "Entorno",
+        "id": "pre1-ef-b5-v1-002",
+        "tema": "Mini olimpiada escolar",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos cuidar las plantas del parque",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Las plantas son seres vivos que benefician al medio ambiente."
+        "pregunta": "En una mini olimpiada escolar todos pueden participar y divertirse.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En la mini olimpiada lo importante es participar, dar lo mejor y divertirse. ¡Todos son campeones! 🏆😊"
       },
       {
-        "id": "preescolar1ef-b5-03",
-        "tema": "Salud",
+        "id": "pre1-ef-b5-v1-003",
+        "tema": "Deportes acuáticos y al aire libre",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En un día caluroso debemos llevar al parque:",
+        "pregunta": "¿Qué deporte se practica en el agua?",
         "opciones": [
-          "Agua y protector solar",
-          "Solo dulces",
-          "Un abrigo",
+          "Natación 🏊",
+          "Fútbol ⚽",
+          "Ciclismo 🚴",
+          "Salto de cuerda"
+        ],
+        "respuestaCorrecta": "Natación 🏊",
+        "explicacion": "¡La natación! Es uno de los mejores ejercicios porque trabaja todo el cuerpo. ¡Y es muy refrescante! 🏊💦",
+        "visual": "🏊"
+      },
+      {
+        "id": "pre1-ef-b5-v1-004",
+        "tema": "Deportes acuáticos y al aire libre",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Jugar al aire libre es bueno para la salud y el ánimo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El sol, el aire fresco y el movimiento al aire libre nos hacen más felices y sanos. ☀️🌳😊"
+      },
+      {
+        "id": "pre1-ef-b5-v1-005",
+        "tema": "Hábitos de vida activa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es mejor para tu salud?",
+        "opciones": [
+          "Jugar afuera y hacer ejercicio",
+          "Ver tele todo el día",
+          "Jugar videojuegos 10 horas",
+          "No moverse nunca"
+        ],
+        "respuestaCorrecta": "Jugar afuera y hacer ejercicio",
+        "explicacion": "¡Moverse es vida! Jugar afuera, correr, saltar y hacer deporte es mucho mejor que estar sentado todo el día. 🏃🌳",
+        "visual": "🏃"
+      },
+      {
+        "id": "pre1-ef-b5-v1-006",
+        "tema": "Hábitos de vida activa",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Caminar al parque con tu familia es una forma de hacer ejercicio.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Caminar es ejercicio. ¡No necesitas un gimnasio — el parque, la calle o tu patio son perfectos! 🚶‍♂️🌳"
+      },
+      {
+        "id": "pre1-ef-b5-v1-007",
+        "tema": "Celebración del cuerpo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Mi cuerpo es increíble porque puedo correr, saltar, bailar y jug___.",
+        "respuestaCorrecta": "ar",
+        "explicacion": "¡Jugar! Tu cuerpo puede hacer cosas asombrosas. ¡Celebra todo lo que tu cuerpo puede hacer! 🎉💪"
+      },
+      {
+        "id": "pre1-ef-b5-v1-008",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué premio reciben los atletas en las olimpiadas?",
+        "opciones": [
+          "Medallas de oro, plata y bronce 🥇🥈🥉",
+          "Dulces",
+          "Dinero",
           "Nada"
         ],
-        "respuestaCorrecta": "Agua y protector solar",
-        "explicacion": "El agua hidrata y el protector solar cuida la piel del sol.",
-        "visual": "☀️"
+        "respuestaCorrecta": "Medallas de oro, plata y bronce 🥇🥈🥉",
+        "explicacion": "¡Medallas! Oro para el primero, plata para el segundo y bronce para el tercero. ¡Pero participar ya es un triunfo! 🏅",
+        "visual": "🥇"
       },
       {
-        "id": "preescolar1ef-b5-04",
-        "tema": "Entorno",
+        "id": "pre1-ef-b5-v1-009",
+        "tema": "Deportes acuáticos y al aire libre",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Dónde tiramos la basura?",
+        "pregunta": "¿Qué deporte se practica en una bicicleta?",
         "opciones": [
-          "En el bote",
-          "En el suelo",
-          "En el río",
-          "En el pasto"
+          "Ciclismo 🚴",
+          "Natación 🏊",
+          "Gimnasia 🤸",
+          "Boxeo 🥊"
         ],
-        "respuestaCorrecta": "En el bote",
-        "explicacion": "Tirar basura en su lugar mantiene los espacios limpios para todos.",
-        "visual": "🗑️"
+        "respuestaCorrecta": "Ciclismo 🚴",
+        "explicacion": "¡El ciclismo! Pedaleamos la bicicleta para avanzar. ¡Es bueno para las piernas y el corazón! 🚴‍♀️",
+        "visual": "🚴"
       },
       {
-        "id": "preescolar1ef-b5-05",
-        "tema": "Entorno",
+        "id": "pre1-ef-b5-v1-010",
+        "tema": "Celebración del cuerpo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los animales del parque merecen respeto",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Los animales son parte del ecosistema y debemos respetarlos."
-      },
-      {
-        "id": "preescolar1ef-b5-06",
-        "tema": "Actividad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué hacemos en el parque?",
-        "opciones": [
-          "Correr, saltar y jugar",
-          "Solo sentarse",
-          "Solo comer",
-          "Solo ver el celular"
-        ],
-        "respuestaCorrecta": "Correr, saltar y jugar",
-        "explicacion": "El parque es el lugar ideal para actividades físicas variadas.",
-        "visual": "🌳"
-      },
-      {
-        "id": "preescolar1ef-b5-07",
-        "tema": "Entorno",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Arrancar flores del parque está bien",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Falso",
-        "explicacion": "Las plantas necesitan sus flores para reproducirse. No las arranques."
-      },
-      {
-        "id": "preescolar1ef-b5-08",
-        "tema": "Salud",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué hacemos si encontramos un animal lastimado?",
-        "opciones": [
-          "Avisamos a un adulto",
-          "Lo dejamos solo",
-          "Lo asustamos",
-          "Lo cargamos y corremos"
-        ],
-        "respuestaCorrecta": "Avisamos a un adulto",
-        "explicacion": "Un adulto sabrá cómo buscar ayuda veterinaria adecuada.",
-        "visual": "🦮"
-      },
-      {
-        "id": "preescolar1ef-b5-09",
-        "tema": "Entorno",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Por qué cerramos la llave cuando no usamos agua?",
-        "opciones": [
-          "Para no desperdiciarla",
-          "Para que no se moje el piso",
-          "Por costumbre",
-          "No la cerramos"
-        ],
-        "respuestaCorrecta": "Para no desperdiciarla",
-        "explicacion": "El agua es un recurso valioso y debemos cuidarla.",
-        "visual": "💧"
-      },
-      {
-        "id": "preescolar1ef-b5-10",
-        "tema": "Actividad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Caminar es un buen ejercicio",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Caminar ejercita el corazón y los músculos de forma sencilla y efectiva."
+        "pregunta": "Todos los cuerpos son diferentes y todos son valiosos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Cada cuerpo es único y especial! Altos, bajitos, delgados, robustos... ¡Todos merecen respeto y cariño! 🌈❤️"
       }
     ],
-    "v2": [],
-    "preview": [
+    "v2": [
       {
-        "id": "preescolar1ef-b5-01",
-        "tema": "Naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Por qué es bueno jugar al aire libre?",
-        "opciones": [
-          "Nos da sol y espacio para movernos",
-          "Porque está de moda",
-          "Para alejarse de casa",
-          "Para no estudiar"
-        ],
-        "respuestaCorrecta": "Nos da sol y espacio para movernos",
-        "explicacion": "El sol nos da vitamina D y el espacio exterior invita a moverse más.",
-        "visual": "🌞"
+        "id": "pre1-ef-b5-v2-001",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El lema de las olimpiadas es 'más rápido, más alto, más fuer___'.",
+        "respuestaCorrecta": "te",
+        "explicacion": "¡Citius, Altius, Fortius! Más rápido, más alto, más fuerte. ¡El espíritu olímpico nos inspira a dar lo mejor! 🏅"
       },
       {
-        "id": "preescolar1ef-b5-02",
-        "tema": "Entorno",
+        "id": "pre1-ef-b5-v2-002",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cada cuántos años se celebran los Juegos Olímpicos?",
+        "opciones": [
+          "Cada 4 años",
+          "Cada año",
+          "Cada 10 años",
+          "Cada 100 años"
+        ],
+        "respuestaCorrecta": "Cada 4 años",
+        "explicacion": "¡Cada 4 años! Los mejores atletas del mundo se reúnen para competir. ¡México ha ganado muchas medallas! 🇲🇽🏅"
+      },
+      {
+        "id": "pre1-ef-b5-v2-003",
+        "tema": "Deportes acuáticos y al aire libre",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En México, el surfeo es un deporte que se practica en las playas con olas grandes.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! México tiene costas increíbles. Puerto Escondido, Sayulita y Baja California son famosos para surfear. 🏄🌊"
+      },
+      {
+        "id": "pre1-ef-b5-v2-004",
+        "tema": "Hábitos de vida activa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas horas al día debería un niño estar frente a pantallas como máximo?",
+        "opciones": [
+          "1-2 horas",
+          "10 horas",
+          "24 horas",
+          "Todo el día"
+        ],
+        "respuestaCorrecta": "1-2 horas",
+        "explicacion": "¡1-2 horas máximo! El resto del tiempo es para jugar, estudiar, estar con la familia y moverse. 📱⏰🏃"
+      },
+      {
+        "id": "pre1-ef-b5-v2-005",
+        "tema": "Hábitos de vida activa",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Comer bien, dormir bien y hacer ejercicio son hábitos salu___.",
+        "respuestaCorrecta": "dables",
+        "explicacion": "¡Hábitos saludables! Son las 3 bases de una vida sana: buena alimentación, buen descanso y actividad física. 🥗😴💪"
+      },
+      {
+        "id": "pre1-ef-b5-v2-006",
+        "tema": "Deportes acuáticos y al aire libre",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué equipo necesitas para andar en bicicleta de forma segura?",
+        "opciones": [
+          "Casco, rodilleras y coderas",
+          "Solo un paraguas",
+          "Nada",
+          "Solo lentes"
+        ],
+        "respuestaCorrecta": "Casco, rodilleras y coderas",
+        "explicacion": "¡Protección completa! El casco protege la cabeza, las rodilleras las rodillas y las coderas los codos. ⛑️🦵💪"
+      },
+      {
+        "id": "pre1-ef-b5-v2-007",
+        "tema": "Celebración del cuerpo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cada persona tiene habilidades diferentes: unos corren rápido, otros son flexibles, otros son fuertes.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Todos somos únicos! Cada persona tiene talentos especiales. Lo importante es descubrir y celebrar los tuyos. 🌟"
+      },
+      {
+        "id": "pre1-ef-b5-v2-008",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué valores promueven las olimpiadas?",
+        "opciones": [
+          "Excelencia, respeto y amistad",
+          "Trampa y mentiras",
+          "Solo ganar",
+          "Violencia"
+        ],
+        "respuestaCorrecta": "Excelencia, respeto y amistad",
+        "explicacion": "¡Los valores olímpicos! Dar lo mejor (excelencia), respetar a todos y hacer amigos. ¡Eso es lo más importante! 🤝🏅"
+      },
+      {
+        "id": "pre1-ef-b5-v2-009",
+        "tema": "Hábitos de vida activa",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Subir escaleras en vez de usar el elevador es una forma fácil de hacer ejercicio.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Pequeños cambios hacen gran diferencia. Subir escaleras fortalece las piernas y el corazón. 🪜❤️"
+      },
+      {
+        "id": "pre1-ef-b5-v2-010",
+        "tema": "Celebración del cuerpo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Este año aprendimos que nuestro cuerpo es un teso___ que debemos cuidar.",
+        "respuestaCorrecta": "ro",
+        "explicacion": "¡Un tesoro! Tu cuerpo es lo más valioso que tienes. ¡Cuídalo con ejercicio, buena comida y mucho amor! 💎❤️"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-ef-b5-v1-001",
+        "tema": "Mini olimpiada escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son las olimpiadas?",
+        "opciones": [
+          "Competencia deportiva mundial",
+          "Fiesta de comida",
+          "Clase de lectura",
+          "Concurso de dibujo"
+        ],
+        "respuestaCorrecta": "Competencia deportiva mundial",
+        "explicacion": "¡Los mejores atletas del mundo! 🏅🌍",
+        "visual": "🏅"
+      },
+      {
+        "id": "pre1-ef-b5-v1-005",
+        "tema": "Hábitos de vida activa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es mejor para tu salud?",
+        "opciones": [
+          "Jugar afuera y hacer ejercicio",
+          "Ver tele todo el día",
+          "Videojuegos 10h",
+          "No moverse"
+        ],
+        "respuestaCorrecta": "Jugar afuera y hacer ejercicio",
+        "explicacion": "¡Moverse es vida! 🏃🌳",
+        "visual": "🏃"
+      },
+      {
+        "id": "pre1-ef-b5-v1-010",
+        "tema": "Celebración del cuerpo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos cuidar las plantas del parque",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "Verdadero",
-        "explicacion": "Las plantas son seres vivos que benefician al medio ambiente."
+        "pregunta": "Todos los cuerpos son diferentes y valiosos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Cada uno es único! 🌈❤️"
       }
     ]
-  }
+  },
+  "generado": "2026-03-11T12:30:00.000Z",
+  "version": "4.0-SEP"
 }

@@ -2,397 +2,428 @@
   "grado": "preescolar-1",
   "materia": "artes",
   "bloque": 1,
-  "nombre": "Me expreso con colores",
-  "meses": "Agosto-Septiembre",
+  "nombre": "El arte en tu libro — Títeres y primeras pinturas",
+  "libroSep": "K1MLA",
+  "paginasLibro": "8-62",
+  "meses": "Agosto–Septiembre",
   "temas": [
-    "Pintar con dedos",
-    "Cantar canciones",
-    "Bailar",
-    "Dibujar libremente",
-    "Hacer manualidades"
+    "Malli y el baúl del arte",
+    "Títeres y marionetas",
+    "Pinturas de Mario Núñez",
+    "Pinturas rupestres"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-artes-b1-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b1-v1-001",
+        "tema": "Malli y el baúl del arte",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "En tu libro, Malli tiene un baúl lleno de cosas mágicas. ¿Para qué las usa?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Para hacer arte",
+          "Para cocinar",
+          "Para dormir",
+          "Para bañarse"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Para hacer arte",
+        "explicacion": "¡Malli usa su baúl mágico para crear arte! Tiene pinturas, colores, y muchas cosas creativas dentro. 🎨",
+        "visual": "🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 8
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b1-003",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b1-v1-002",
+        "tema": "Títeres y marionetas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Rojo y azul juntos forman morado",
+        "pregunta": "Los títeres son muñecos que se mueven con las manos o con hilos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! Mezclar rojo + azul = morado (violeta).",
-        "visual": "🔴",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Los títeres de guante se mueven con la mano y las marionetas se mueven con hilos. ¡Como los del libro! 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-006",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b1-v1-003",
+        "tema": "Títeres y marionetas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "En la página de títeres de tu libro, ¿qué tipo de títere se mueve con hilos desde arriba?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Marioneta",
+          "Guante",
+          "Calcetín",
+          "Peluche"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Marioneta",
+        "explicacion": "¡Las marionetas se mueven con hilos! En tu libro hay un esqueleto, un acróbata y un perro que son marionetas. 🎪",
+        "visual": "🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-007",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b1-v1-004",
+        "tema": "Títeres y marionetas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Las niñas del libro están jugando con unos títeres. ¿Con qué hacen sombras?",
+        "opciones": [
+          "Con luz y sus manos",
+          "Con agua",
+          "Con pintura",
+          "Con pegamento"
+        ],
+        "respuestaCorrecta": "Con luz y sus manos",
+        "explicacion": "¡Con luz y las manos se hacen sombras chinescas! Pones tus manos frente a la luz y aparecen figuras en la pared. 🖐️",
+        "visual": "🖐️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
+      },
+      {
+        "id": "pre1-artes-b1-v1-005",
+        "tema": "Pinturas de Mario Núñez",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Mario Núñez es un pintor que usa muchos colores en sus obras.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Mario Núñez pinta con amarillos, rojos, azules y morados. ¡Sus pinturas están llenas de color! 🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-008",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-010",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-011",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b1-v1-006",
+        "tema": "Pinturas de Mario Núñez",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "La pintura de Mario Núñez en tu libro tiene muchas figuras. ¿Qué técnica usa?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Acuarela",
+          "Fotografía",
+          "Escultura",
+          "Cocina"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Acuarela",
+        "explicacion": "Mario Núñez pinta con acuarelas — son pinturas que se mezclan con agua y hacen colores suaves y hermosos. 💧🎨",
+        "visual": "💧",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-013",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b1-v1-007",
+        "tema": "Pinturas rupestres",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "Las pinturas rupestres son dibujos que las personas hacían en las cuevas hace mucho, mucho tiempo.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Hace miles de años, las personas pintaban animales en las paredes de las cuevas. ¡Son las pinturas más antiguas del mundo! 🏔️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b1-v1-008",
+        "tema": "Pinturas rupestres",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
+        "pregunta": "En tu libro hay una pintura rupestre de un animal grande. ¿Qué animal es?",
+        "opciones": [
+          "Un bisonte",
+          "Un pez",
+          "Un pájaro",
+          "Un gato"
+        ],
+        "respuestaCorrecta": "Un bisonte",
+        "explicacion": "¡Es un bisonte! Un animal grande y fuerte que las personas de antes pintaron en las cuevas con colores naturales. 🦬",
+        "visual": "🦬",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-016",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
+        "id": "pre1-artes-b1-v1-009",
+        "tema": "Pinturas rupestres",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
+        "pregunta": "¿Con qué pintaban las personas en las cuevas hace miles de años?",
+        "opciones": [
+          "Con tierras y plantas de colores",
+          "Con crayolas",
+          "Con plumones",
+          "Con computadora"
+        ],
+        "respuestaCorrecta": "Con tierras y plantas de colores",
+        "explicacion": "¡Usaban tierras rojas, negras y amarillas de la naturaleza! No tenían tiendas, así que usaban lo que encontraban. 🌍",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-017",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b1-v1-010",
+        "tema": "Malli y el baúl del arte",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
+        "pregunta": "El personaje que nos acompaña en el libro de arte se llama ___.",
+        "respuestaCorrecta": "Malli",
+        "explicacion": "¡Malli es tu compañero de aventuras artísticas! Los acompaña en todo el libro para crear y explorar el arte. ✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 8
+        }
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-artes-b1-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b1-v2-001",
+        "tema": "Títeres y marionetas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "pregunta": "¿Cuál es la diferencia entre un títere de guante y una marioneta?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "La marioneta usa hilos, el títere usa la mano",
+          "Son lo mismo",
+          "La marioneta es más pequeña",
+          "El títere es de papel"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "La marioneta usa hilos, el títere usa la mano",
+        "explicacion": "¡La marioneta se controla con hilos desde arriba, y el títere de guante se mete en la mano como un calcetín! Cada uno se mueve diferente. 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-005",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Bailar es moverse al ritmo de la ___",
-        "respuestaCorrecta": "música",
-        "explicacion": "La danza es el arte de moverse siguiendo la música."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-006",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-007",
-        "tema": "Cantar canciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
-        "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
-        ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-008",
-        "tema": "Bailar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-009",
-        "tema": "Dibujar libremente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
-        "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
-        ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-010",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b1-v2-002",
+        "tema": "Títeres y marionetas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La flauta es un instrumento de viento",
+        "pregunta": "En tu libro aparece una marioneta de un esqueleto y otra de un perro.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La flauta suena al soplar aire. Otros de viento: trompeta, clarinete."
+        "explicacion": "¡Sí! Las marionetas pueden ser de cualquier personaje: esqueletos, animales, personas. ¡La imaginación no tiene límite! 💀🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-011",
-        "tema": "Pintar con dedos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Una obra de teatro se llama también ___",
-        "respuestaCorrecta": "drama",
-        "explicacion": "Drama, comedia y tragedia son los géneros del teatro."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-012",
-        "tema": "Cantar canciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En la danza folclórica de Jalisco se usa el traje llamado ___",
-        "respuestaCorrecta": "charro",
-        "explicacion": "El traje de charro (hombres) y china poblana (mujeres) se usan en el Jarabe Tapatío."
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-013",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El color verde se obtiene mezclando azul y ___",
-        "respuestaCorrecta": "amarillo",
-        "explicacion": "Azul + Amarillo = Verde. Es uno de los colores secundarios.",
-        "visual": "🔵",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-artes-b1-x-014",
-        "tema": "Dibujar libremente",
+        "id": "pre1-artes-b1-v2-003",
+        "tema": "Pinturas de Mario Núñez",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué muralista mexicano pintó en la SEP?",
+        "pregunta": "La pintura 'Sin título' de Mario Núñez tiene figuras que parecen personas. ¿Qué tipo de arte es?",
         "opciones": [
-          "Frida Kahlo",
-          "Diego Rivera",
-          "Rufino Tamayo",
-          "David Siqueiros"
+          "Arte abstracto",
+          "Fotografía",
+          "Escultura",
+          "Arquitectura"
         ],
-        "respuestaCorrecta": "Diego Rivera",
-        "explicacion": "Diego Rivera pintó los murales del edificio de la SEP entre 1923 y 1928."
+        "respuestaCorrecta": "Arte abstracto",
+        "explicacion": "El arte abstracto no dibuja las cosas como son, sino como el artista las siente. ¡Por eso las figuras se ven diferentes y divertidas! 🌈",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-015",
-        "tema": "Hacer manualidades",
-        "tipo": "multiple_choice",
+        "id": "pre1-artes-b1-v2-004",
+        "tema": "Pinturas de Mario Núñez",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Cuántas notas tiene la escala musical?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Las 7 notas: Do, Re, Mi, Fa, Sol, La, Si."
+        "pregunta": "Mario Núñez nació en el año 1963 y sus pinturas son de acua___.",
+        "respuestaCorrecta": "rela",
+        "explicacion": "¡Acuarela! Es una pintura que se mezcla con agua. Mario Núñez la usa para crear sus obras llenas de color y movimiento. 💧🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
       },
       {
-        "id": "preescolar-1-artes-b1-x-016",
-        "tema": "Pintar con dedos",
+        "id": "pre1-artes-b1-v2-005",
+        "tema": "Pinturas rupestres",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "pregunta": "¿Por qué las personas de antes pintaban animales en las cuevas?",
         "opciones": [
-          "Picasso",
-          "Leonardo da Vinci",
-          "Miguel Ángel",
-          "Rafael"
+          "Para recordar lo que veían y cazaban",
+          "Para decorar su teléfono",
+          "Para hacer tarea",
+          "Por aburrimiento"
         ],
-        "respuestaCorrecta": "Leonardo da Vinci",
-        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci (1503-1519). Está en el Louvre, París."
+        "respuestaCorrecta": "Para recordar lo que veían y cazaban",
+        "explicacion": "¡Pintaban los animales que les importaban! Era su forma de contar historias antes de que existiera la escritura. 📖🦬",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
+      },
+      {
+        "id": "pre1-artes-b1-v2-006",
+        "tema": "Pinturas rupestres",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las pinturas rupestres se encontraron dentro de cuevas porque allí se protegían de la lluvia y el sol.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Las cuevas protegieron las pinturas por miles de años. ¡Por eso todavía podemos verlas hoy! 🏔️✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
+      },
+      {
+        "id": "pre1-artes-b1-v2-007",
+        "tema": "Títeres y marionetas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Para hacer un teatro de títeres en casa, ¿qué necesitas?",
+        "opciones": [
+          "Un títere, una tela y una historia",
+          "Una computadora",
+          "Un carro",
+          "Mucho dinero"
+        ],
+        "respuestaCorrecta": "Un títere, una tela y una historia",
+        "explicacion": "¡Solo necesitas un títere (puede ser un calcetín), una tela para el escenario, y tu imaginación para la historia! 🎪",
+        "visual": "🎪",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
+      },
+      {
+        "id": "pre1-artes-b1-v2-008",
+        "tema": "Malli y el baúl del arte",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En el libro, Malli nos enseña que el arte se puede hacer con pintu___, colores y la imaginación.",
+        "respuestaCorrecta": "ras",
+        "explicacion": "¡Pinturas, colores y mucha imaginación! Malli nos muestra que todos podemos ser artistas. 🖌️✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 8
+        }
+      },
+      {
+        "id": "pre1-artes-b1-v2-009",
+        "tema": "Pinturas de Mario Núñez",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En la pintura de Mario Núñez se pueden ver colores como rojo, amarillo, azul y morado.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Su pintura es un arcoíris de colores. Usa rojo, amarillo, azul, morado, naranja... ¡casi todos los colores! 🌈",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 56
+        }
+      },
+      {
+        "id": "pre1-artes-b1-v2-010",
+        "tema": "Pinturas rupestres",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué colores usaban las personas antiguas para sus pinturas en las cuevas?",
+        "opciones": [
+          "Rojo, negro y amarillo",
+          "Rosa neón y verde fosforescente",
+          "Azul eléctrico",
+          "Colores que no existen"
+        ],
+        "respuestaCorrecta": "Rojo, negro y amarillo",
+        "explicacion": "Usaban colores de la tierra: rojo de minerales, negro del carbón, amarillo de la arcilla. ¡La naturaleza era su tienda de pinturas! 🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 62
+        }
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-artes-b1-001",
-        "tema": "Cantar canciones",
+        "id": "pre1-artes-b1-v1-001",
+        "tema": "Malli y el baúl del arte",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué usamos para pintar?",
+        "pregunta": "En tu libro, Malli tiene un baúl lleno de cosas mágicas. ¿Para qué las usa?",
         "opciones": [
-          "Un cuchillo",
-          "Un pincel",
-          "Una regla",
-          "Un eraser"
+          "Para hacer arte",
+          "Para cocinar",
+          "Para dormir",
+          "Para bañarse"
         ],
-        "respuestaCorrecta": "Un pincel",
-        "explicacion": "El pincel se moja con pintura para crear belleza en el papel."
+        "respuestaCorrecta": "Para hacer arte",
+        "explicacion": "¡Malli usa su baúl mágico para crear arte! 🎨",
+        "visual": "🎨",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-artes-b1-002",
-        "tema": "Bailar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La música tiene ___ y melodía",
-        "respuestaCorrecta": "ritmo",
-        "explicacion": "La música tiene ritmo (el pulso) y melodía (las notas)."
-      },
-      {
-        "id": "preescolar-1-artes-b1-004",
-        "tema": "Hacer manualidades",
+        "id": "pre1-artes-b1-v1-003",
+        "tema": "Títeres y marionetas",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Con qué podemos hacer esculturas?",
+        "nivel": "v1",
+        "pregunta": "¿Qué tipo de títere se mueve con hilos desde arriba?",
         "opciones": [
-          "Agua",
-          "Plastilina",
-          "Luz",
-          "Aire"
+          "Marioneta",
+          "Guante",
+          "Calcetín",
+          "Peluche"
         ],
-        "respuestaCorrecta": "Plastilina",
-        "explicacion": "La plastilina nos permite moldear y crear formas en 3D."
+        "respuestaCorrecta": "Marioneta",
+        "explicacion": "¡Las marionetas se mueven con hilos! 🎪",
+        "visual": "🎭",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-artes-b1-v1-008",
+        "tema": "Pinturas rupestres",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En tu libro hay una pintura rupestre. ¿Qué animal es?",
+        "opciones": [
+          "Un bisonte",
+          "Un pez",
+          "Un pájaro",
+          "Un gato"
+        ],
+        "respuestaCorrecta": "Un bisonte",
+        "explicacion": "¡Es un bisonte pintado en una cueva hace miles de años! 🦬",
+        "visual": "🦬",
+        "fuenteSEP": true
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.113Z",
-  "version": "2.0"
+  "generado": "2026-03-11T11:15:00.000Z",
+  "version": "4.0-SEP"
 }

@@ -2,441 +2,374 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 1,
-  "nombre": "Soy yo",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Mi comunidad y la naturaleza",
+  "libroSep": "K1LPA",
+  "paginasLibro": "10-25",
+  "meses": "Agosto–Septiembre",
   "temas": [
-    "Mi cuerpo",
-    "Los colores",
-    "Los animales",
-    "La familia",
-    "La naturaleza"
+    "La kermés y mi comunidad",
+    "Las plantas de mi comunidad",
+    "El agua y el sol",
+    "Cuidar la naturaleza"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-conocimiento-b1-001",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b1-v1-001",
+        "tema": "La kermés y mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "En tu libro hay un dibujo de una kermés. ¿Qué es una kermés?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Una fiesta de la comunidad con comida y juegos",
+          "Un hospital",
+          "Una escuela",
+          "Un banco"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Una fiesta de la comunidad con comida y juegos",
+        "explicacion": "¡La kermés es una fiesta donde la comunidad se reúne! Hay comida, juegos y diversión para todos. 🎪🌮",
+        "visual": "🎪",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-003",
-        "tema": "La familia",
+        "id": "pre1-conoc-b1-v1-002",
+        "tema": "La kermés y mi comunidad",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
+        "pregunta": "En la kermés del libro se venden chopos, esquites y lonches.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Los peces son animales acuáticos.",
-        "visual": "🐟",
-        "visualAnimado": true
+        "explicacion": "¡Sí! En la kermés venden comida rica: chopos a 15 pesos, chivitas a 3 pesos y lonches a 25 pesos. ¡Qué rico! 🌽",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b1-v1-003",
+        "tema": "Las plantas de mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué necesitan las plantas para vivir?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Agua, sol y tierra",
+          "Solo agua",
+          "Solo sol",
+          "Nada"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Agua, sol y tierra",
+        "explicacion": "¡Las plantas necesitan agua para beber, sol para crecer y tierra para sus raíces! 🌱☀️💧",
+        "visual": "🌱",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-007",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b1-v1-004",
+        "tema": "Las plantas de mi comunidad",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "En tu libro aparecen plantas en macetas, un árbol grande y plantas pequeñas.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Las plantas vienen en muchos tamaños: desde pequeñas en macetitas hasta árboles enormes. ¡Todas son importantes! 🌳🌿",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-008",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-009",
-        "tema": "La familia",
+        "id": "pre1-conoc-b1-v1-005",
+        "tema": "El agua y el sol",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué pasa cuando llueve mucho?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Las plantas se riegan y crecen",
+          "Las plantas se secan",
+          "El sol se apaga",
+          "Los animales vuelan"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Las plantas se riegan y crecen",
+        "explicacion": "¡La lluvia es como una regadera gigante para las plantas! Les da el agua que necesitan para crecer. 🌧️🌱",
+        "visual": "🌧️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-010",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b1-v1-006",
+        "tema": "El agua y el sol",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "El sol nos da luz y calor durante el día.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡El sol es una estrella que nos da luz y calor! Sin el sol, la Tierra sería oscura y fría. ☀️",
+        "visual": "☀️"
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-012",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b1-v1-007",
+        "tema": "Cuidar la naturaleza",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "En tu libro se ve basura tirada cerca de las plantas. ¿Qué debemos hacer?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Recoger la basura y ponerla en su lugar",
+          "Tirar más basura",
+          "Ignorarla",
+          "Pisar las plantas"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Recoger la basura y ponerla en su lugar",
+        "explicacion": "¡La basura daña a las plantas y los animales! Siempre debemos tirar la basura en el bote correcto. ♻️🌍",
+        "visual": "♻️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-013",
-        "tema": "Los animales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-014",
-        "tema": "La familia",
+        "id": "pre1-conoc-b1-v1-008",
+        "tema": "La kermés y mi comunidad",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "En la kermés, todos se juntan porque somos una comu___.",
+        "respuestaCorrecta": "nidad",
+        "explicacion": "¡Comunidad! Es el grupo de personas que viven cerca y se ayudan entre sí. ¡Como una gran familia! 🏘️❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-015",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b1-v1-009",
+        "tema": "Las plantas de mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Para qué nos sirven los árboles?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Dan sombra, oxígeno y frutos",
+          "Solo estorban",
+          "No sirven para nada",
+          "Solo para trepar"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Dan sombra, oxígeno y frutos",
+        "explicacion": "¡Los árboles son increíbles! Nos dan sombra, producen el aire que respiramos y muchos dan frutas deliciosas. 🌳🍎",
+        "visual": "🌳",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-016",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b1-v1-010",
+        "tema": "Cuidar la naturaleza",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "Las botellas de plástico tardan cientos de años en desaparecer de la naturaleza.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-017",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "explicacion": "¡Sí! El plástico tarda hasta 500 años en descomponerse. Por eso es tan importante reciclarlo. ♻️🌍",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-conocimiento-b1-004",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b1-v2-001",
+        "tema": "La kermés y mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Por qué son importantes las fiestas de la comunidad como la kermés?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "Porque nos unen y compartimos con los vecinos",
+          "Porque son obligatorias",
+          "Porque son caras",
+          "No son importantes"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "Porque nos unen y compartimos con los vecinos",
+        "explicacion": "¡Las fiestas nos unen! En la kermés los vecinos se conocen, platican y se divierten juntos. ¡Eso hace fuerte a la comunidad! 🤝",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-005",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b1-v2-002",
+        "tema": "La kermés y mi comunidad",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol brilla de ___",
-        "respuestaCorrecta": "día",
-        "explicacion": "El sol sale de día y de noche está la luna y las estrellas.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Los esquites en la kermés cuestan ___ pesos.",
+        "respuestaCorrecta": "20",
+        "explicacion": "¡20 pesos los esquites! En la kermés hay precios para todos: chopos a 15, chivitas a 3 y lonches a 25. 💰",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 10
+        }
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b1-v2-003",
+        "tema": "Las plantas de mi comunidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué parte de la planta absorbe el agua del suelo?",
+        "opciones": [
+          "La raíz",
+          "Las hojas",
+          "Las flores",
+          "El tallo"
+        ],
+        "respuestaCorrecta": "La raíz",
+        "explicacion": "¡La raíz! Está debajo de la tierra y chupa el agua como un popote gigante para alimentar a toda la planta. 🌿",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 20
+        }
+      },
+      {
+        "id": "pre1-conoc-b1-v2-004",
+        "tema": "El agua y el sol",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El ciclo del agua es: el sol calienta el agua, sube a las nubes, y cae como lluvia.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! El agua viaja: el sol la evapora, sube a las nubes, y vuelve como lluvia. ¡Es un ciclo infinito! 💧☀️🌧️"
+      },
+      {
+        "id": "pre1-conoc-b1-v2-005",
+        "tema": "Cuidar la naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estos contenedores es para reciclar plástico?",
+        "opciones": [
+          "El amarillo",
+          "El negro",
+          "El morado",
+          "El dorado"
+        ],
+        "respuestaCorrecta": "El amarillo",
+        "explicacion": "¡El amarillo para plástico! También está el azul para papel y el verde para vidrio. ¡Separar basura ayuda al planeta! ♻️"
+      },
+      {
+        "id": "pre1-conoc-b1-v2-006",
+        "tema": "Las plantas de mi comunidad",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Las plantas hacen su alimento con la luz del sol. Ese proceso se llama fotosín___.",
+        "respuestaCorrecta": "tesis",
+        "explicacion": "¡Fotosíntesis! Las plantas usan la luz del sol para hacer su comida. ¡Son las únicas que pueden hacer eso! 🌿☀️"
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-007",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b1-v2-007",
+        "tema": "El agua y el sol",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Qué pasa si una planta NO recibe agua?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "Se seca y puede morir",
+          "Crece más rápido",
+          "Se vuelve azul",
+          "No pasa nada"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "Se seca y puede morir",
+        "explicacion": "Sin agua las plantas se marchitan y pueden morir. ¡El agua es vida para las plantas y para nosotros! 💧🥀"
       },
       {
-        "id": "preescolar-1-conocimiento-b1-x-008",
-        "tema": "Los animales",
+        "id": "pre1-conoc-b1-v2-008",
+        "tema": "Cuidar la naturaleza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cuando plantamos un árbol, estamos ayudando a cuidar el medio ambiente.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Plantar árboles ayuda a limpiar el aire, dar hogar a los animales y mantener fresco nuestro planeta. 🌳💚"
+      },
+      {
+        "id": "pre1-conoc-b1-v2-009",
+        "tema": "La kermés y mi comunidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En la comunidad hay diferentes trabajos: maestros, doctores, vendedores, bomberos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Cada persona en la comunidad tiene un trabajo importante. Todos colaboran para que la comunidad funcione. 🏘️👩‍⚕️👨‍🏫"
+      },
+      {
+        "id": "pre1-conoc-b1-v2-010",
+        "tema": "Las plantas de mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
+        "pregunta": "¿Qué nos dan las plantas además de oxígeno?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
+          "Alimento, sombra y medicinas",
+          "Solo flores",
+          "Nada más",
+          "Dinero"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-009",
-        "tema": "La familia",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-010",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-012",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-013",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-014",
-        "tema": "La familia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-015",
-        "tema": "La naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "Alimento, sombra y medicinas",
+        "explicacion": "¡Las plantas nos dan de todo! Frutas, verduras, sombra, medicinas, madera... ¡Son esenciales para la vida! 🍎🌿💊"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-conocimiento-b1-001",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b1-v1-001",
+        "tema": "La kermés y mi comunidad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Qué es una kermés?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Una fiesta de la comunidad",
+          "Un hospital",
+          "Una escuela",
+          "Un banco"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Una fiesta de la comunidad",
+        "explicacion": "¡Una fiesta comunitaria! 🎪🌮",
+        "visual": "🎪",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-conocimiento-b1-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b1-004",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b1-v1-003",
+        "tema": "Las plantas de mi comunidad",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "nivel": "v1",
+        "pregunta": "¿Qué necesitan las plantas para vivir?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
+          "Agua, sol y tierra",
           "Solo agua",
-          "Solo aire"
+          "Solo sol",
+          "Nada"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "Agua, sol y tierra",
+        "explicacion": "¡Agua, sol y tierra! 🌱☀️💧",
+        "visual": "🌱",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-conoc-b1-v1-006",
+        "tema": "El agua y el sol",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El sol nos da luz y calor durante el día.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El sol es una estrella! ☀️"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.108Z",
-  "version": "2.0"
+  "generado": "2026-03-11T11:40:00.000Z",
+  "version": "4.0-SEP"
 }

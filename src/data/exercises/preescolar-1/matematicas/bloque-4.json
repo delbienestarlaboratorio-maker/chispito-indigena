@@ -2,415 +2,335 @@
   "grado": "preescolar-1",
   "materia": "matematicas",
   "bloque": 4,
-  "nombre": "Comparar cantidades",
-  "meses": "Febrero-Marzo",
+  "nombre": "Medida, clasificación y comparación",
+  "libroSep": "K1LMA",
+  "paginasLibro": "56-70",
+  "meses": "Febrero–Marzo",
   "temas": [
-    "Contar del 1 al 5",
-    "Figuras básicas",
-    "Más y menos",
-    "Ordena objetos",
-    "Patrones simples"
+    "Grande, mediano y pequeño",
+    "Largo y corto",
+    "Pesado y ligero",
+    "Clasificar por color, forma y tamaño"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-matematicas-b4-001",
-        "tema": "Figuras básicas",
-        "tipo": "visual_count",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-002",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b4-v1-001",
+        "tema": "Grande, mediano y pequeño",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
+        "pregunta": "¿Cuál es el animal MÁS GRANDE: un ratón, un perro o un elefante?",
         "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
+          "El elefante 🐘",
+          "El perro 🐕",
+          "El ratón 🐭",
+          "Son iguales"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "El elefante 🐘",
+        "explicacion": "¡El elefante es el más grande! Elefante > perro > ratón. ¡Comparar tamaños es matemáticas! 🐘📏",
+        "visual": "🐘",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 58
+        }
       },
       {
-        "id": "preescolar-1-matematicas-b4-003",
-        "tema": "Ordena objetos",
+        "id": "pre1-mat-b4-v1-002",
+        "tema": "Grande, mediano y pequeño",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El cuadrado tiene 4 lados",
+        "pregunta": "Una hormiga es más pequeña que un gato.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El cuadrado tiene 4 lados iguales.",
-        "visual": "🟦",
-        "visualAnimado": true
+        "explicacion": "¡Sí! La hormiga es chiquitita y el gato es mucho más grande. ¡Comparar nos ayuda a entender el mundo! 🐜🐱"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-007",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-008",
-        "tema": "Figuras básicas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-009",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b4-v1-003",
+        "tema": "Largo y corto",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "¿Cuál es más LARGO: un lápiz o un autobús?",
         "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
+          "El autobús 🚌",
+          "El lápiz ✏️",
+          "Son iguales",
+          "No se puede saber"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "El autobús 🚌",
+        "explicacion": "¡El autobús es mucho más largo que un lápiz! El autobús mide metros y el lápiz centímetros. 🚌📏",
+        "visual": "🚌"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-010",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-011",
-        "tema": "Patrones simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-012",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b4-v1-004",
+        "tema": "Pesado y ligero",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "¿Qué es más PESADO: una pluma o una piedra?",
         "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
+          "La piedra 🪨",
+          "La pluma 🪶",
+          "Son iguales",
+          "Una nube"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "La piedra 🪨",
+        "explicacion": "¡La piedra pesa más! Si las pones en una balanza, la piedra baja. ¡Es más pesada! 🪨⚖️",
+        "visual": "⚖️"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-013",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-014",
-        "tema": "Más y menos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-015",
-        "tema": "Ordena objetos",
+        "id": "pre1-mat-b4-v1-005",
+        "tema": "Clasificar por color, forma y tamaño",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "Si tienes bloques rojos 🟥 y bloques azules 🟦, ¿cómo los separas?",
         "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
+          "Por color: rojos juntos y azules juntos",
+          "Los tiras",
+          "Los mezclas más",
+          "No se pueden separar"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "Por color: rojos juntos y azules juntos",
+        "explicacion": "¡Clasificar por color! Pones todos los rojos en un grupo y todos los azules en otro. ¡Es organizar! 🟥🟦",
+        "visual": "🟥🟦",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 62
+        }
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-016",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b4-v1-006",
+        "tema": "Grande, mediano y pequeño",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "El oso papá es grande, el oso mamá es mediano, y el osito bebé es peque___.",
+        "respuestaCorrecta": "ño",
+        "explicacion": "¡Pequeño! Como el cuento de los tres osos: grande, mediano y pequeño. 🐻🐻🧸"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-017",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b4-v1-007",
+        "tema": "Largo y corto",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "10 > 9",
+        "pregunta": "Una serpiente es más larga que un gusanito.",
         "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+        "explicacion": "¡Sí! Las serpientes pueden medir metros, los gusanitos solo centímetros. ¡La serpiente gana en longitud! 🐍📏"
+      },
+      {
+        "id": "pre1-mat-b4-v1-008",
+        "tema": "Pesado y ligero",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un globo lleno de aire flota porque es muy ligero.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los globos son ligeros! El aire caliente los hace flotar. ¡Ligero sube, pesado baja! 🎈⬆️",
+        "visual": "🎈"
+      },
+      {
+        "id": "pre1-mat-b4-v1-009",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿De cuántas formas puedes separar estos objetos: 🟥🔵🟢 🟩🔴🟦?",
+        "opciones": [
+          "Los separo por color",
+          "No se pueden separar",
+          "Los tiro",
+          "Los como"
+        ],
+        "respuestaCorrecta": "Los separo por color",
+        "explicacion": "¡Por color! Rojos juntos, azules juntos, verdes juntos. ¡Clasificar es súper importante en matemáticas! 🎨📊"
+      },
+      {
+        "id": "pre1-mat-b4-v1-010",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Ordena de mayor a menor: un oso 🐻, un gatito 🐱 y un caballo 🐴.",
+        "opciones": [
+          "Caballo, oso, gatito",
+          "Gatito, oso, caballo",
+          "Oso, caballo, gatito",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "Caballo, oso, gatito",
+        "explicacion": "¡El caballo es el más grande, luego el oso y al final el gatito! Ordenar por tamaño es comparar. 🐴🐻🐱"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-matematicas-b4-004",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
-        "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-005",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b4-v2-001",
+        "tema": "Grande, mediano y pequeño",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué figura es redonda?",
+        "pregunta": "¿Con qué instrumento medimos la altura de una persona?",
         "opciones": [
-          "Cuadrado",
-          "Triángulo",
-          "Círculo",
-          "Rectángulo"
+          "Con una cinta métrica o metro",
+          "Con una cuchara",
+          "Con un vaso",
+          "Con un crayón"
         ],
-        "respuestaCorrecta": "Círculo",
-        "explicacion": "El círculo es completamente redondo, sin esquinas."
+        "respuestaCorrecta": "Con una cinta métrica o metro",
+        "explicacion": "¡Con una cinta métrica! Nos dice cuántos centímetros o metros mides. ¡El metro mide la longitud! 📏"
       },
       {
-        "id": "preescolar-1-matematicas-b4-006",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b4-v2-002",
+        "tema": "Largo y corto",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "2 + 1 = ___",
-        "respuestaCorrecta": "3",
-        "explicacion": "2 manzanas más 1 manzana = 3 manzanas.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "Para medir cosas cortas usamos centí___.",
+        "respuestaCorrecta": "metros",
+        "explicacion": "¡Centímetros! Para cosas pequeñas usamos centímetros (cm). Para cosas grandes usamos metros (m). 📏"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-007",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b4-v2-003",
+        "tema": "Pesado y ligero",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "¿Con qué se pesa la fruta en el mercado?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Con una báscula o balanza",
+          "Con una regla",
+          "Con un termómetro",
+          "Con un reloj"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "Con una báscula o balanza",
+        "explicacion": "¡Con una báscula! Nos dice cuántos kilos o gramos pesa algo. ¡Cada instrumento mide algo diferente! ⚖️🍎",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 65
+        }
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-008",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b4-v2-004",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "Puedo clasificar frutas por color: rojas (manzana, fresa) y amarillas (plátano, piña).",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las frutas se pueden clasificar por color, tamaño, sabor... ¡Hay muchas formas de organizar! 🍎🍓🍌🍍"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-009",
-        "tema": "Más y menos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-010",
-        "tema": "Ordena objetos",
+        "id": "pre1-mat-b4-v2-005",
+        "tema": "Grande, mediano y pequeño",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "¿Qué es más alto: una casa o una jirafa?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Depende — pero una jirafa puede ser más alta que una casa de 1 piso",
+          "La casa siempre",
+          "La jirafa siempre",
+          "Son iguales"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "Depende — pero una jirafa puede ser más alta que una casa de 1 piso",
+        "explicacion": "¡Una jirafa puede medir hasta 5.5 metros! Una casa de 1 piso mide unos 3 metros. ¡La jirafa gana! 🦒🏠"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-011",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b4-v2-006",
+        "tema": "Pesado y ligero",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "Los kilos (kg) miden el ___ de las cosas.",
+        "respuestaCorrecta": "peso",
+        "explicacion": "¡El peso! Los kilogramos (kg) nos dicen qué tan pesado es algo. Tú pesas varios kilos. ⚖️"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-012",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b4-v2-007",
+        "tema": "Largo y corto",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+        "pregunta": "Un río es más largo que una alberca.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los ríos pueden medir kilómetros y kilómetros. ¡Una alberca solo mide unos metros! 🏊🌊"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-013",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b4-v2-008",
+        "tema": "Clasificar por color, forma y tamaño",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "Si clasificas animales por número de patas: ¿en qué grupo va una araña?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "Grupo de 8 patas",
+          "Grupo de 4 patas",
+          "Grupo de 6 patas",
+          "Grupo de 2 patas"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "Grupo de 8 patas",
+        "explicacion": "¡8 patas! Las arañas tienen 8 patas (arácnidos). Los insectos tienen 6 y los mamíferos 4. ¡Clasificar ayuda a entender! 🕷️8️⃣"
       },
       {
-        "id": "preescolar-1-matematicas-b4-x-014",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b4-v2-009",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Una ballena azul es el animal más grande del mundo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La ballena azul puede medir 30 metros — ¡más grande que un autobús! Es el animal más grande que ha existido. 🐋🏆"
+      },
+      {
+        "id": "pre1-mat-b4-v2-010",
+        "tema": "Clasificar por color, forma y tamaño",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-015",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-016",
-        "tema": "Patrones simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-x-017",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "Organizar objetos en grupos según una característica se llama clasifi___.",
+        "respuestaCorrecta": "car",
+        "explicacion": "¡Clasificar! Es separar en grupos según algo que comparten: color, tamaño, forma, tipo... ¡Es pensar ordenado! 📊"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-matematicas-b4-001",
-        "tema": "Figuras básicas",
-        "tipo": "visual_count",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
-      },
-      {
-        "id": "preescolar-1-matematicas-b4-002",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b4-v1-001",
+        "tema": "Grande, mediano y pequeño",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
+        "pregunta": "¿Cuál es el más grande?",
         "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
+          "Elefante 🐘",
+          "Perro 🐕",
+          "Ratón 🐭",
+          "Son iguales"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "Elefante 🐘",
+        "explicacion": "¡El elefante! 🐘📏",
+        "visual": "🐘",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-matematicas-b4-004",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
-        "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
+        "id": "pre1-mat-b4-v1-004",
+        "tema": "Pesado y ligero",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué pesa más?",
+        "opciones": [
+          "Una piedra 🪨",
+          "Una pluma 🪶",
+          "Son iguales",
+          "Una nube"
+        ],
+        "respuestaCorrecta": "Una piedra 🪨",
+        "explicacion": "¡La piedra! 🪨⚖️",
+        "visual": "⚖️"
+      },
+      {
+        "id": "pre1-mat-b4-v1-005",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo separas bloques 🟥🟦?",
+        "opciones": [
+          "Por color",
+          "Los tiras",
+          "Los mezclas",
+          "No se puede"
+        ],
+        "respuestaCorrecta": "Por color",
+        "explicacion": "¡Por color! 🟥🟦",
+        "visual": "🟥🟦",
+        "fuenteSEP": true
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.099Z",
-  "version": "2.0"
+  "generado": "2026-03-11T12:55:00.000Z",
+  "version": "4.0-SEP"
 }

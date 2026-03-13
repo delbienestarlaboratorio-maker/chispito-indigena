@@ -2,441 +2,314 @@
   "grado": "preescolar-1",
   "materia": "conocimiento",
   "bloque": 5,
-  "nombre": "La naturaleza",
-  "meses": "Abril-Junio",
+  "nombre": "Las estaciones, el clima y nuestro planeta",
+  "libroSep": "K1LPA",
+  "paginasLibro": "111-150",
+  "meses": "Abril–Junio",
   "temas": [
-    "Mi cuerpo",
-    "Los colores",
-    "Los animales",
-    "La familia",
-    "La naturaleza"
+    "Las 4 estaciones del año",
+    "El clima y el tiempo",
+    "Día y noche",
+    "Cuidar nuestro planeta"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-conocimiento-b5-001",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b5-v1-001",
+        "tema": "Las 4 estaciones del año",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Cuáles son las 4 estaciones del año?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Primavera, verano, otoño e invierno",
+          "Lunes y viernes",
+          "Mañana y noche",
+          "Enero y diciembre"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Primavera, verano, otoño e invierno",
+        "explicacion": "¡Las 4 estaciones! En primavera florecen las flores, en verano hace calor, en otoño caen las hojas, y en invierno hace frío. 🌸☀️🍂❄️",
+        "visual": "🌸"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-003",
-        "tema": "La familia",
+        "id": "pre1-conoc-b5-v1-002",
+        "tema": "Las 4 estaciones del año",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
+        "pregunta": "En primavera las flores se abren y los árboles se llenan de hojas verdes.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Los peces son animales acuáticos.",
-        "visual": "🐟",
-        "visualAnimado": true
+        "explicacion": "¡Sí! La primavera es cuando la naturaleza despierta: flores, mariposas, pajaritos... ¡Todo cobra vida! 🌸🦋",
+        "visual": "🌸"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b5-v1-003",
+        "tema": "El clima y el tiempo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "Cuando las nubes están oscuras y grandes, ¿qué va a pasar?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Va a llover 🌧️",
+          "Va a nevar ❄️",
+          "Nada",
+          "Sale el arcoíris"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "Va a llover 🌧️",
+        "explicacion": "¡Las nubes oscuras traen lluvia! Están llenas de gotitas de agua que caen cuando ya no caben más. 🌧️🌥️",
+        "visual": "🌧️"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-007",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b5-v1-004",
+        "tema": "El clima y el tiempo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "El arcoíris aparece cuando llueve y sale el sol al mismo tiempo.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡Sí! La luz del sol pasa por las gotitas de lluvia y se divide en colores. ¡Es magia de la naturaleza! 🌈☀️🌧️"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-008",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-009",
-        "tema": "La familia",
+        "id": "pre1-conoc-b5-v1-005",
+        "tema": "Día y noche",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué aparece en el cielo durante la noche?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "La luna y las estrellas 🌙⭐",
+          "El sol ☀️",
+          "Un arcoíris 🌈",
+          "Nubes rojas"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "La luna y las estrellas 🌙⭐",
+        "explicacion": "¡La luna y las estrellas brillan de noche! El sol se esconde y la luna nos acompaña mientras dormimos. 🌙⭐",
+        "visual": "🌙"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-010",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b5-v1-006",
+        "tema": "Día y noche",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "El sol sale en la mañana y se esconde en la tarde.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Al amanecer el sol aparece y al atardecer se oculta. ¡Por eso hay día y noche! ☀️🌅"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-012",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b5-v1-007",
+        "tema": "Cuidar nuestro planeta",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué podemos hacer para cuidar nuestro planeta Tierra?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "No tirar basura, ahorrar agua y plantar árboles",
+          "Tirar basura al río",
+          "Desperdiciar agua",
+          "Quemar plástico"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "respuestaCorrecta": "No tirar basura, ahorrar agua y plantar árboles",
+        "explicacion": "¡Cuidar la Tierra es responsabilidad de todos! No tirar basura, ahorrar agua y plantar árboles son las mejores formas. 🌍💚",
+        "visual": "🌍"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-013",
-        "tema": "Los animales",
+        "id": "pre1-conoc-b5-v1-008",
+        "tema": "Cuidar nuestro planeta",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "La Tierra es el único planeta donde vivimos, por eso debemos cuidarla.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "¡Solo tenemos una Tierra! No hay planeta B. ¡Cuidarla es cuidarnos a nosotros mismos! 🌍❤️"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-014",
-        "tema": "La familia",
+        "id": "pre1-conoc-b5-v1-009",
+        "tema": "Las 4 estaciones del año",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "En otoño las hojas de los árboles cambian de color y se ___.",
+        "respuestaCorrecta": "caen",
+        "explicacion": "¡Se caen! Las hojas se vuelven amarillas, naranjas y rojas, y luego caen al suelo. ¡Es un espectáculo de colores! 🍂🍁",
+        "visual": "🍁"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-015",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b5-v1-010",
+        "tema": "El clima y el tiempo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué te pones cuando hace mucho frío?",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
+          "Chamarra, gorro y guantes 🧥",
+          "Traje de baño 🩱",
+          "Shorts y playera 🩳",
+          "Nada"
         ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-017",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "respuestaCorrecta": "Chamarra, gorro y guantes 🧥",
+        "explicacion": "¡Cuando hace frío nos abrigamos! La ropa caliente protege nuestro cuerpo del frío. 🧥🧣🧤",
+        "visual": "🧥"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-conocimiento-b5-004",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b5-v2-001",
+        "tema": "Las 4 estaciones del año",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿En qué estación del año hace más calor en México?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "En verano ☀️",
+          "En invierno ❄️",
+          "En otoño 🍂",
+          "En primavera 🌸"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "En verano ☀️",
+        "explicacion": "¡En verano! Los días son largos, hace mucho calor y es perfecto para ir a la playa o al parque. ☀️🏖️"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-005",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b5-v2-002",
+        "tema": "Las 4 estaciones del año",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol brilla de ___",
-        "respuestaCorrecta": "día",
-        "explicacion": "El sol sale de día y de noche está la luna y las estrellas.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "La estación más fría del año es el invier___.",
+        "respuestaCorrecta": "no",
+        "explicacion": "¡Invierno! En diciembre y enero hace frío, los días son más cortos y en algunos lugares nieva. ❄️🎄"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-006",
-        "tema": "Mi cuerpo",
+        "id": "pre1-conoc-b5-v2-003",
+        "tema": "El clima y el tiempo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El viento se produce cuando el aire se mueve de un lugar a otro.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El aire caliente sube y el frío baja, y eso crea el viento. ¡Por eso un ventilador nos refresca! 💨"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-004",
+        "tema": "Día y noche",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué hay día y noche?",
+        "opciones": [
+          "Porque la Tierra gira y una parte mira al sol y la otra no",
+          "Porque alguien apaga la luz",
+          "Porque la luna tapa el sol",
+          "No se sabe"
+        ],
+        "respuestaCorrecta": "Porque la Tierra gira y una parte mira al sol y la otra no",
+        "explicacion": "¡La Tierra gira como un trompo! La parte que mira al sol tiene día, y la parte de atrás tiene noche. 🌍🔄☀️"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-005",
+        "tema": "Día y noche",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cuando en México es de día, en China es de noche.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Como la Tierra es redonda, cuando de un lado es de día, del otro es de noche. ¡El sol no puede alumbrar todo al mismo tiempo! 🌍"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-006",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son las 3 R de la ecología?",
+        "opciones": [
+          "Reducir, Reutilizar y Reciclar",
+          "Romper, Regar y Rascar",
+          "Reír, Rabiar y Rodar",
+          "No existen"
+        ],
+        "respuestaCorrecta": "Reducir, Reutilizar y Reciclar",
+        "explicacion": "¡Las 3 R! Reducir lo que compramos, Reutilizar lo que podamos, y Reciclar lo que ya no sirve. ♻️🌍💚"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-007",
+        "tema": "Cuidar nuestro planeta",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Para cuidar el agua, debemos cerrar la llave mientras nos lava___ los dientes.",
+        "respuestaCorrecta": "mos",
+        "explicacion": "¡Cerrar la llave ahorra litros de agua! Cada gota cuenta para cuidar este recurso tan valioso. 💧🦷"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-007",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b5-v2-008",
+        "tema": "El clima y el tiempo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Qué es un termómetro?",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
+          "Un instrumento que mide la temperatura",
+          "Un tipo de comida",
+          "Un animal",
+          "Una estrella"
         ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "respuestaCorrecta": "Un instrumento que mide la temperatura",
+        "explicacion": "¡El termómetro mide la temperatura! Nos dice si hace frío o calor con números (grados). También mide si tenemos fiebre. 🌡️"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-008",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
+        "id": "pre1-conoc-b5-v2-009",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+        "pregunta": "Los árboles ayudan a limpiar el aire que respiramos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los árboles absorben el CO2 (aire sucio) y liberan oxígeno (aire limpio). ¡Son los pulmones del planeta! 🌳💨"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-x-009",
-        "tema": "La familia",
-        "tipo": "fill_blank",
+        "id": "pre1-conoc-b5-v2-010",
+        "tema": "Las 4 estaciones del año",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-010",
-        "tema": "La naturaleza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-011",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-012",
-        "tema": "Los colores",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-013",
-        "tema": "Los animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-014",
-        "tema": "La familia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-015",
-        "tema": "La naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-x-016",
-        "tema": "Mi cuerpo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+        "pregunta": "En México, la Navidad se celebra en invierno.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La Navidad es el 25 de diciembre, en pleno invierno. ¡Por eso hace frío (en la mayoría de México) y nos abrigamos! 🎄❄️"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-conocimiento-b5-001",
-        "tema": "Los colores",
+        "id": "pre1-conoc-b5-v1-001",
+        "tema": "Las 4 estaciones del año",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Cuáles son las 4 estaciones?",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
+          "Primavera, verano, otoño e invierno",
+          "Lunes y viernes",
+          "Mañana y noche",
+          "Enero y diciembre"
         ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+        "respuestaCorrecta": "Primavera, verano, otoño e invierno",
+        "explicacion": "¡4 estaciones! 🌸☀️🍂❄️",
+        "visual": "🌸"
       },
       {
-        "id": "preescolar-1-conocimiento-b5-002",
-        "tema": "Los animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
-      },
-      {
-        "id": "preescolar-1-conocimiento-b5-004",
-        "tema": "La naturaleza",
+        "id": "pre1-conoc-b5-v1-005",
+        "tema": "Día y noche",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "nivel": "v1",
+        "pregunta": "¿Qué hay en el cielo de noche?",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
+          "La luna y estrellas 🌙",
+          "El sol ☀️",
+          "Un arcoíris 🌈",
+          "Nubes rojas"
         ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "respuestaCorrecta": "La luna y estrellas 🌙",
+        "explicacion": "¡Luna y estrellas! 🌙⭐",
+        "visual": "🌙"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-007",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo cuidamos la Tierra?",
+        "opciones": [
+          "No tirar basura y ahorrar agua",
+          "Tirar basura al río",
+          "Desperdiciar agua",
+          "Quemar plástico"
+        ],
+        "respuestaCorrecta": "No tirar basura y ahorrar agua",
+        "explicacion": "¡Cuidar la Tierra! 🌍💚",
+        "visual": "🌍"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.112Z",
-  "version": "2.0"
+  "generado": "2026-03-11T12:00:00.000Z",
+  "version": "4.0-SEP"
 }

@@ -2,415 +2,338 @@
   "grado": "preescolar-1",
   "materia": "matematicas",
   "bloque": 2,
-  "nombre": "Figuras y colores",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Números del 5 al 10 y la decena",
+  "libroSep": "K1LMA",
+  "paginasLibro": "23-40",
+  "meses": "Octubre–Noviembre",
   "temas": [
-    "Contar del 1 al 5",
-    "Figuras básicas",
-    "Más y menos",
-    "Ordena objetos",
-    "Patrones simples"
+    "Contar del 5 al 10",
+    "La decena: el número 10",
+    "Secuencias numéricas",
+    "Mayor que y menor que"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-matematicas-b2-001",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b2-v1-001",
+        "tema": "Contar del 5 al 10",
         "tipo": "visual_count",
         "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
+        "pregunta": "¿Cuántos corazones hay? ❤️❤️❤️❤️❤️❤️",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "5",
+          "6",
+          "7",
+          "8"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
+        "respuestaCorrecta": "6",
+        "explicacion": "¡Hay 6 corazones! 1, 2, 3, 4, 5, 6. El 6 viene después del 5. ❤️6️⃣",
+        "visual": "❤️❤️❤️❤️❤️❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 25
+        }
       },
       {
-        "id": "preescolar-1-matematicas-b2-002",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b2-v1-002",
+        "tema": "Contar del 5 al 10",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántas flores hay? 🌸🌸🌸🌸🌸🌸🌸🌸",
+        "opciones": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "respuestaCorrecta": "8",
+        "explicacion": "¡8 flores! Contamos: 1, 2, 3, 4, 5, 6, 7, 8. ¡Casi llegamos al 10! 🌸8️⃣",
+        "visual": "🌸🌸🌸🌸🌸🌸🌸🌸"
+      },
+      {
+        "id": "pre1-mat-b2-v1-003",
+        "tema": "La decena: el número 10",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
+        "pregunta": "¿Cuántos dedos tienes en las DOS manos juntas?",
         "opciones": [
-          "2",
-          "3",
-          "4",
+          "10",
+          "5",
+          "8",
+          "20"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "¡10 dedos! 5 en cada mano. ¡El 10 es nuestro primer número de dos cifras! ✋✋🔟",
+        "visual": "✋✋"
+      },
+      {
+        "id": "pre1-mat-b2-v1-004",
+        "tema": "Secuencias numéricas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Completa: 6, 7, ___, 9, 10.",
+        "respuestaCorrecta": "8",
+        "explicacion": "¡El 8! Los números van en orden. Después del 7 viene el 8. 7️⃣➡️8️⃣"
+      },
+      {
+        "id": "pre1-mat-b2-v1-005",
+        "tema": "Mayor que y menor que",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál número es MAYOR: 6 o 9?",
+        "opciones": [
+          "9",
+          "6",
+          "Son iguales",
+          "No se puede saber"
+        ],
+        "respuestaCorrecta": "9",
+        "explicacion": "¡El 9! Nueve es mayor que seis. 9 > 6. ¡El cocodrilo siempre come al más grande! 🐊9️⃣"
+      },
+      {
+        "id": "pre1-mat-b2-v1-006",
+        "tema": "Contar del 5 al 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El número 7 viene DESPUÉS del número 6.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La secuencia es: ...5, 6, 7, 8, 9, 10. El 7 siempre viene después del 6. ✅"
+      },
+      {
+        "id": "pre1-mat-b2-v1-007",
+        "tema": "La decena: el número 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El número 10 se forma con el 1 y el 0 juntos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El 10 es especial: tiene dos cifras, un 1 y un 0. ¡Es el primer número con dos dígitos! 1️⃣0️⃣",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 35
+        }
+      },
+      {
+        "id": "pre1-mat-b2-v1-008",
+        "tema": "Secuencias numéricas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué número viene ANTES del 10?",
+        "opciones": [
+          "9",
+          "8",
+          "11",
           "5"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "9",
+        "explicacion": "¡El 9! Justo antes del 10 está el 9. Son vecinos en la recta numérica. 9️⃣⬅️🔟"
       },
       {
-        "id": "preescolar-1-matematicas-b2-003",
-        "tema": "Ordena objetos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El cuadrado tiene 4 lados",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Sí! El cuadrado tiene 4 lados iguales.",
-        "visual": "🟦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-007",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-008",
-        "tema": "Figuras básicas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-009",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b2-v1-009",
+        "tema": "Mayor que y menor que",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "¿Cuál número es el MENOR: 10, 5 o 7?",
         "opciones": [
+          "5",
+          "7",
           "10",
-          "11",
-          "12",
-          "13"
+          "Son iguales"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "5",
+        "explicacion": "¡El 5! Es el más pequeño de los tres. 5 < 7 < 10. 5️⃣"
       },
       {
-        "id": "preescolar-1-matematicas-b2-x-010",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b2-v1-010",
+        "tema": "Contar del 5 al 10",
+        "tipo": "visual_count",
         "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-011",
-        "tema": "Patrones simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-012",
-        "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
+        "pregunta": "¿Cuántas mariposas? 🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋",
         "opciones": [
+          "8",
+          "9",
           "10",
-          "11",
-          "12",
-          "13"
+          "11"
         ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-013",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-014",
-        "tema": "Más y menos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-015",
-        "tema": "Ordena objetos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
-        "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre.",
-        "visual": "🔢",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-016",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-017",
-        "tema": "Contar del 1 al 5",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
+        "respuestaCorrecta": "10",
+        "explicacion": "¡10 mariposas! ¡Una decena completa! 10 es un número muy importante en matemáticas. 🦋🔟",
+        "visual": "🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-matematicas-b2-004",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b2-v2-001",
+        "tema": "Contar del 5 al 10",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
-        "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
+        "pregunta": "Si tengo 7 crayones y me dan 2 más, tengo ___ crayones.",
+        "respuestaCorrecta": "9",
+        "explicacion": "¡9 crayones! 7 + 2 = 9. ¡Sumar es juntar cantidades! 🖍️🖍️🖍️🖍️🖍️🖍️🖍️🖍️🖍️"
       },
       {
-        "id": "preescolar-1-matematicas-b2-005",
-        "tema": "Contar del 1 al 5",
+        "id": "pre1-mat-b2-v2-002",
+        "tema": "Secuencias numéricas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué figura es redonda?",
+        "pregunta": "¿Cuál es el número que falta? 5, ___, 7, 8",
         "opciones": [
-          "Cuadrado",
-          "Triángulo",
-          "Círculo",
-          "Rectángulo"
-        ],
-        "respuestaCorrecta": "Círculo",
-        "explicacion": "El círculo es completamente redondo, sin esquinas."
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-006",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "2 + 1 = ___",
-        "respuestaCorrecta": "3",
-        "explicacion": "2 manzanas más 1 manzana = 3 manzanas.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-007",
-        "tema": "Contar del 1 al 5",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
           "6",
-          "7",
-          "8"
+          "4",
+          "9",
+          "3"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "6",
+        "explicacion": "¡El 6! La secuencia es: 5, 6, 7, 8. Los números siempre van en orden. 6️⃣"
       },
       {
-        "id": "preescolar-1-matematicas-b2-x-008",
-        "tema": "Figuras básicas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-009",
-        "tema": "Más y menos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-010",
-        "tema": "Ordena objetos",
+        "id": "pre1-mat-b2-v2-003",
+        "tema": "La decena: el número 10",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "Si juntas 5 manzanas 🍎🍎🍎🍎🍎 y 5 naranjas 🍊🍊🍊🍊🍊, ¿cuántas frutas tienes?",
         "opciones": [
+          "10",
           "5",
-          "6",
-          "7",
-          "8"
+          "8",
+          "15"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "10",
+        "explicacion": "¡10 frutas! 5 + 5 = 10. ¡Eso es una decena! ¡Cómo tus 10 dedos! 🍎🍊🔟",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 35
+        }
       },
       {
-        "id": "preescolar-1-matematicas-b2-x-011",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b2-v2-004",
+        "tema": "Mayor que y menor que",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "8 es mayor que 10.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! 8 es MENOR que 10. 8 < 10. ¡El 10 gana! 🔟🏆"
       },
       {
-        "id": "preescolar-1-matematicas-b2-x-012",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-x-013",
-        "tema": "Figuras básicas",
+        "id": "pre1-mat-b2-v2-005",
+        "tema": "Contar del 5 al 10",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "Si cuento hacia atrás desde el 10, ¿cuál es el orden?",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "10, 9, 8, 7, 6, 5...",
+          "5, 6, 7, 8, 9, 10",
+          "10, 20, 30",
+          "1, 2, 3, 4, 5"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "10, 9, 8, 7, 6, 5...",
+        "explicacion": "¡Como un astronauta! 10, 9, 8, 7, 6, 5, 4, 3, 2, 1... ¡Despegue! 🚀 Contar hacia atrás es útil para restar."
       },
       {
-        "id": "preescolar-1-matematicas-b2-x-014",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b2-v2-006",
+        "tema": "Secuencias numéricas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "Después del 9 viene el número ___.",
+        "respuestaCorrecta": "10",
+        "explicacion": "¡El 10! Es el primer número de dos cifras. 9 + 1 = 10. ¡Felicidades, llegaste a la decena! 🔟🎉"
       },
       {
-        "id": "preescolar-1-matematicas-b2-x-015",
-        "tema": "Ordena objetos",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b2-v2-007",
+        "tema": "La decena: el número 10",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
+        "pregunta": "Una decena es un grupo de 10.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! 10 unidades forman 1 decena. ¡Como 10 dedos en tus manos! ✋✋🔟"
       },
       {
-        "id": "preescolar-1-matematicas-b2-x-016",
-        "tema": "Patrones simples",
+        "id": "pre1-mat-b2-v2-008",
+        "tema": "Mayor que y menor que",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
+        "pregunta": "Ordena de MENOR a MAYOR: 9, 6, 8",
         "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "6, 8, 9",
+          "9, 8, 6",
+          "8, 6, 9",
+          "6, 9, 8"
         ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "6, 8, 9",
+        "explicacion": "¡6, 8, 9! De menor a mayor: primero el más chiquito (6), luego el mediano (8) y al final el más grande (9). 📈"
       },
       {
-        "id": "preescolar-1-matematicas-b2-x-017",
-        "tema": "Contar del 1 al 5",
-        "tipo": "fill_blank",
+        "id": "pre1-mat-b2-v2-009",
+        "tema": "Contar del 5 al 10",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces.",
-        "visual": "➖",
-        "visualAnimado": true
+        "pregunta": "Si quitas 3 de 10, te quedan 7.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 10 - 3 = 7. Restar es quitar. ¡Las matemáticas funcionan! 🔢"
+      },
+      {
+        "id": "pre1-mat-b2-v2-010",
+        "tema": "Secuencias numéricas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos números hay del 1 al 10?",
+        "opciones": [
+          "10",
+          "9",
+          "11",
+          "5"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "¡Hay 10 números! 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. ¡Es la familia completa! 🔢👨‍👩‍👧‍👦"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-matematicas-b2-001",
-        "tema": "Figuras básicas",
-        "tipo": "visual_count",
-        "nivel": "v1",
-        "pregunta": "¿Cuántas ⭐ hay? ⭐⭐⭐",
-        "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "Hay 3 estrellas. Contamos: 1, 2, 3.",
-        "visual": "⭐⭐⭐"
-      },
-      {
-        "id": "preescolar-1-matematicas-b2-002",
-        "tema": "Más y menos",
+        "id": "pre1-mat-b2-v1-003",
+        "tema": "La decena: el número 10",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es el 3?",
+        "pregunta": "¿Cuántos dedos en las 2 manos?",
         "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
+          "10",
+          "5",
+          "8",
+          "20"
         ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El 3 son tres objetos: 🍎🍎🍎",
-        "visual": "🔢",
-        "visualAnimado": true
+        "respuestaCorrecta": "10",
+        "explicacion": "¡10 dedos! ✋✋🔟",
+        "visual": "✋✋"
       },
       {
-        "id": "preescolar-1-matematicas-b2-004",
-        "tema": "Patrones simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1, 2, ___, 4, 5",
-        "respuestaCorrecta": "3",
-        "explicacion": "La secuencia es 1,2,3,4,5. El 3 va entre el 2 y el 4."
+        "id": "pre1-mat-b2-v1-001",
+        "tema": "Contar del 5 al 10",
+        "tipo": "visual_count",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos ❤️? ❤️❤️❤️❤️❤️❤️",
+        "opciones": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "respuestaCorrecta": "6",
+        "explicacion": "¡Son 6! ❤️6️⃣",
+        "visual": "❤️❤️❤️❤️❤️❤️",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-mat-b2-v1-006",
+        "tema": "Contar del 5 al 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El 7 viene después del 6.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 6 → 7 ✅"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.096Z",
-  "version": "2.0"
+  "generado": "2026-03-11T12:45:00.000Z",
+  "version": "4.0-SEP"
 }

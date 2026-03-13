@@ -2,423 +2,325 @@
   "grado": "preescolar-1",
   "materia": "espanol",
   "bloque": 5,
-  "nombre": "Mis primeras palabras escritas",
-  "meses": "Abril-Junio",
+  "nombre": "Teatro, poesía y comunicación",
+  "libroSep": "K1MLA",
+  "paginasLibro": "121-160",
+  "meses": "Abril–Junio",
   "temas": [
-    "Mi nombre",
-    "Vocales A E I",
-    "Imágenes y palabras",
-    "Escuchar cuentos",
-    "Mis primeras letras"
+    "Poesía y versos",
+    "Teatro y diálogos",
+    "Expresar sentimientos",
+    "Comunicar ideas claras"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 23,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-1-espanol-b5-001",
-        "tema": "Vocales A E I",
+        "id": "pre1-esp-b5-v1-001",
+        "tema": "Poesía y versos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es una vocal?",
+        "pregunta": "Un poema está hecho de...",
         "opciones": [
-          "B",
-          "M",
-          "A",
-          "T"
+          "Versos (frases bonitas que a veces riman) 🎵",
+          "Números",
+          "Solo dibujos",
+          "Nada"
         ],
-        "respuestaCorrecta": "A",
-        "explicacion": "Las vocales son: A, E, I, O, U. La A es vocal.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "respuestaCorrecta": "Versos (frases bonitas que a veces riman) 🎵",
+        "explicacion": "¡Versos! Los poemas usan palabras bonitas que a veces riman. Son como canciones sin música. 🎵📜",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 125
+        }
       },
       {
-        "id": "preescolar-1-espanol-b5-002",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "MAMÁ empieza con la letra ___",
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es la M.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b5-003",
-        "tema": "Escuchar cuentos",
+        "id": "pre1-esp-b5-v1-002",
+        "tema": "Poesía y versos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"PERRO\" tiene 5 letras",
+        "pregunta": "Los poemas pueden hablar de la naturaleza, el amor, los animales o los sentimientos.",
         "respuestaCorrecta": "true",
-        "explicacion": "P-E-R-R-O. Sí, tiene 5 letras.",
-        "visual": "🐶",
-        "visualAnimado": true
+        "explicacion": "¡Sí! Los poemas hablan de todo lo que nos importa y nos emociona. 🌸❤️🐱😊"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-006",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b5-v1-003",
+        "tema": "Teatro y diálogos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
+        "pregunta": "En una obra de teatro, los actores...",
         "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
+          "Actúan como personajes y dicen diálogos 🎭",
+          "Solo duermen",
+          "Solo comen",
+          "Solo ven televisión"
         ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+        "respuestaCorrecta": "Actúan como personajes y dicen diálogos 🎭",
+        "explicacion": "¡Los actores interpretan personajes! Hablan, se mueven y cuentan una historia en vivo. 🎭🎪",
+        "visual": "🎭"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-007",
-        "tema": "Vocales A E I",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-008",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-009",
-        "tema": "Escuchar cuentos",
+        "id": "pre1-esp-b5-v1-004",
+        "tema": "Expresar sentimientos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
+        "pregunta": "Si estoy feliz, ¿qué cara pongo?",
         "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
+          "😊 Sonrío",
+          "😢 Lloro",
+          "😡 Me enojo",
+          "😴 Duermo"
         ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+        "respuestaCorrecta": "😊 Sonrío",
+        "explicacion": "¡Sonreír! Cuando estamos felices, sonreímos. ¡Es importante saber expresar cómo nos sentimos! 😊",
+        "visual": "😊"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-010",
-        "tema": "Mis primeras letras",
+        "id": "pre1-esp-b5-v1-005",
+        "tema": "Comunicar ideas claras",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
+        "pregunta": "Para que me entiendan, debo hablar claro y con palabras que conozco.",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
+        "explicacion": "¡Sí! Comunicar bien es decir las cosas con palabras claras, mirando a los ojos y en voz para que te escuchen. 🗣️👀"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-011",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b5-v1-006",
+        "tema": "Poesía y versos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+        "pregunta": "Las palabras bonitas y ordenadas de un poema se llaman ver___.",
+        "respuestaCorrecta": "sos",
+        "explicacion": "¡Versos! Cada línea de un poema es un verso. 📜"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-012",
-        "tema": "Vocales A E I",
+        "id": "pre1-esp-b5-v1-007",
+        "tema": "Teatro y diálogos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un diálogo es cuando 2 o más personas platican.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Diálogo = plática entre personas. En el teatro, los personajes hablan con diálogos. 🗣️🗣️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 140
+        }
+      },
+      {
+        "id": "pre1-esp-b5-v1-008",
+        "tema": "Expresar sentimientos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
+        "pregunta": "¿Está bien sentirse triste a veces?",
         "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
+          "Sí, todos los sentimientos son válidos 💙",
+          "No, nunca",
+          "Solo los adultos se sienten tristes",
+          "No existe la tristeza"
         ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+        "respuestaCorrecta": "Sí, todos los sentimientos son válidos 💙",
+        "explicacion": "¡Todos los sentimientos son válidos! Alegría, tristeza, miedo, enojo... Lo importante es aprender a expresarlos. 💙"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-013",
-        "tema": "Imágenes y palabras",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-014",
-        "tema": "Escuchar cuentos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-015",
-        "tema": "Mis primeras letras",
+        "id": "pre1-esp-b5-v1-009",
+        "tema": "Comunicar ideas claras",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
+        "pregunta": "¿Qué dices cuando necesitas algo?",
         "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
+          "'Por favor' 🙏",
+          "Grito fuerte",
+          "No digo nada",
+          "Me enojo"
         ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
+        "respuestaCorrecta": "'Por favor' 🙏",
+        "explicacion": "¡'Por favor'! Las palabras mágicas abren puertas: por favor, gracias, perdón. ¡Son la base de la comunicación respetuosa! 🙏"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-016",
-        "tema": "Mi nombre",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-017",
-        "tema": "Vocales A E I",
+        "id": "pre1-esp-b5-v1-010",
+        "tema": "Teatro y diálogos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+        "pregunta": "La carita 🎭 representa el tea___.",
+        "respuestaCorrecta": "tro",
+        "explicacion": "¡Teatro! Las máscaras de comedia y tragedia representan el teatro. 🎭",
+        "visual": "🎭"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-1-espanol-b5-004",
-        "tema": "Mis primeras letras",
+        "id": "pre1-esp-b5-v2-001",
+        "tema": "Poesía y versos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántas vocales hay en \"CASA\"?",
+        "pregunta": "¿Cuál es un verso de poesía?",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "'La mariposa vuela entre las flores' 🦋🌸",
+          "'2 + 2 = 4'",
+          "'Hoy es martes'",
+          "'La mesa es de madera'"
         ],
-        "respuestaCorrecta": "2",
-        "explicacion": "C-A-S-A. Las vocales son: A y A. Hay 2 vocales.",
-        "visual": "🏠",
-        "visualAnimado": true
+        "respuestaCorrecta": "'La mariposa vuela entre las flores' 🦋🌸",
+        "explicacion": "¡Poesía! Usa palabras bonitas que crean imágenes en la mente. 🦋🌸📜"
       },
       {
-        "id": "preescolar-1-espanol-b5-005",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b5-v2-002",
+        "tema": "Teatro y diálogos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las vocales son: A, E, ___, O, U",
-        "respuestaCorrecta": "I",
-        "explicacion": "Las 5 vocales son: A, E, I, O, U.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "pregunta": "En las obras de teatro, el texto que dicen los actores se llama gui___.",
+        "respuestaCorrecta": "ón",
+        "explicacion": "¡Guión! Es el texto con los diálogos que los actores memorizan y dicen en escena. 📝🎭"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-006",
-        "tema": "Mi nombre",
+        "id": "pre1-esp-b5-v2-003",
+        "tema": "Expresar sentimientos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son emociones básicas?",
+        "opciones": [
+          "Alegría, tristeza, miedo, enojo, sorpresa",
+          "Solo alegría",
+          "Solo enojo",
+          "No existen las emociones"
+        ],
+        "respuestaCorrecta": "Alegría, tristeza, miedo, enojo, sorpresa",
+        "explicacion": "¡5 emociones básicas! 😊😢😨😡😲 Todas son normales y necesarias. ¡No hay emociones malas!"
+      },
+      {
+        "id": "pre1-esp-b5-v2-004",
+        "tema": "Comunicar ideas claras",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Escuchar es tan importante como hablar en una conversación.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La comunicación tiene dos partes: hablar Y escuchar. Sin escuchar no hay diálogo. 🗣️👂"
+      },
+      {
+        "id": "pre1-esp-b5-v2-005",
+        "tema": "Poesía y versos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un poema puede ser corto, de 2 o 3 versos nada más.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los haikus japoneses tienen solo 3 versos. Un poema puede ser cortito y muy bonito. 📜✨"
+      },
+      {
+        "id": "pre1-esp-b5-v2-006",
+        "tema": "Teatro y diálogos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de títere se maneja con hilos?",
+        "opciones": [
+          "Marioneta 🪆",
+          "Títere de guante",
+          "Títere de sombra",
+          "Títere de dedo"
+        ],
+        "respuestaCorrecta": "Marioneta 🪆",
+        "explicacion": "¡Marioneta! Se mueve con hilos desde arriba. ¡Es arte y teatro combinados! 🪆🎪",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
+      },
+      {
+        "id": "pre1-esp-b5-v2-007",
+        "tema": "Expresar sentimientos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
+        "pregunta": "Decir cómo me siento se llama expre___.",
+        "respuestaCorrecta": "sar",
+        "explicacion": "¡Expresar! Expresar mis sentimientos es sano y me ayuda a sentirme mejor. 💚🗣️"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-007",
-        "tema": "Vocales A E I",
+        "id": "pre1-esp-b5-v2-008",
+        "tema": "Comunicar ideas claras",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "pregunta": "¿Qué son las '3 palabras mágicas'?",
         "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
+          "Por favor, gracias, perdón",
+          "1, 2, 3",
+          "A, B, C",
+          "Sí, no, tal vez"
         ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+        "respuestaCorrecta": "Por favor, gracias, perdón",
+        "explicacion": "¡Por favor, gracias y perdón! Son la base de la comunicación amable y respetuosa. 🙏🤝"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-008",
-        "tema": "Imágenes y palabras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "visual": "😊",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-009",
-        "tema": "Escuchar cuentos",
+        "id": "pre1-esp-b5-v2-009",
+        "tema": "Poesía y versos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
+        "pregunta": "La persona que escribe poemas se llama poe___.",
+        "respuestaCorrecta": "ta",
+        "explicacion": "¡Poeta! Los poetas escriben con el corazón. ¡Tú también puedes ser poeta! ✍️❤️"
       },
       {
-        "id": "preescolar-1-espanol-b5-x-010",
-        "tema": "Mis primeras letras",
-        "tipo": "multiple_choice",
+        "id": "pre1-esp-b5-v2-010",
+        "tema": "Comunicar ideas claras",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-011",
-        "tema": "Mi nombre",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "visual": "😊",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-012",
-        "tema": "Vocales A E I",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-013",
-        "tema": "Imágenes y palabras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-014",
-        "tema": "Escuchar cuentos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste.",
-        "visual": "😊",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-015",
-        "tema": "Mis primeras letras",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz.",
-        "visual": "📝",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b5-x-016",
-        "tema": "Mi nombre",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+        "pregunta": "Levantar la mano antes de hablar en clase es una forma de comunicación respetuosa.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Levantar la mano muestra respeto. Así todos tienen turno de hablar y ser escuchados. ✋🏫"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-1-espanol-b5-001",
-        "tema": "Vocales A E I",
+        "id": "pre1-esp-b5-v1-001",
+        "tema": "Poesía",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es una vocal?",
+        "pregunta": "Un poema está hecho de...",
         "opciones": [
-          "B",
-          "M",
-          "A",
-          "T"
+          "Versos 🎵",
+          "Números",
+          "Dibujos",
+          "Nada"
         ],
-        "respuestaCorrecta": "A",
-        "explicacion": "Las vocales son: A, E, I, O, U. La A es vocal.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "respuestaCorrecta": "Versos 🎵",
+        "explicacion": "¡Versos! 📜🎵",
+        "fuenteSEP": true
       },
       {
-        "id": "preescolar-1-espanol-b5-002",
-        "tema": "Imágenes y palabras",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "MAMÁ empieza con la letra ___",
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es la M.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-1-espanol-b5-004",
-        "tema": "Mis primeras letras",
+        "id": "pre1-esp-b5-v1-003",
+        "tema": "Teatro",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas vocales hay en \"CASA\"?",
+        "nivel": "v1",
+        "pregunta": "En una obra de teatro...",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "Actores dicen diálogos 🎭",
+          "Duermen",
+          "Comen",
+          "Ven tele"
         ],
-        "respuestaCorrecta": "2",
-        "explicacion": "C-A-S-A. Las vocales son: A y A. Hay 2 vocales.",
-        "visual": "🏠",
-        "visualAnimado": true
+        "respuestaCorrecta": "Actores dicen diálogos 🎭",
+        "explicacion": "🎭🎪",
+        "visual": "🎭"
+      },
+      {
+        "id": "pre1-esp-b5-v1-004",
+        "tema": "Sentimientos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si estoy feliz, ¿qué hago?",
+        "opciones": [
+          "Sonrío 😊",
+          "Lloro 😢",
+          "Me enojo 😡",
+          "Duermo 😴"
+        ],
+        "respuestaCorrecta": "Sonrío 😊",
+        "explicacion": "😊",
+        "visual": "😊"
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.106Z",
-  "version": "2.0"
+  "generado": "2026-03-11T13:25:00.000Z",
+  "version": "4.0-SEP"
 }
