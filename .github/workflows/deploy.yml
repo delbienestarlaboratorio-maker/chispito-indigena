@@ -41,10 +41,13 @@ jobs:
           git checkout HEAD -- src/app/[lang] || true
           git checkout HEAD -- src/data/diccionarios || true
           git checkout HEAD -- wrangler.toml || true
-          git checkout HEAD -- .github/workflows/deploy.yml || true
           git checkout HEAD -- open-next.config.ts || true
           git checkout HEAD -- package.json || true
           git checkout HEAD -- package-lock.json || true
+          # Remove upstream-only workflow files that we don't need
+          git rm -f .github/workflows/sync-downstream.yml || true
+          # Restore our deploy workflow exactly as-is
+          git checkout HEAD -- .github/workflows/deploy.yml || true
 
       - name: Commit merge result
         run: |
