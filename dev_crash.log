@@ -1,0 +1,46 @@
+
+> chispito@0.1.0 dev
+> next dev -p 5001 --hostname 0.0.0.0
+
+⚠ `eslint` configuration in next.config.ts is no longer supported. See more info here: https://nextjs.org/docs/app/api-reference/cli/next#next-lint-options
+⚠ Invalid next.config.ts options detected: 
+⚠     Unrecognized key(s) in object: 'eslint'
+⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:5001
+- Network:       http://0.0.0.0:5001
+- Environments: .env.local
+
+✓ Starting...
+✓ Ready in 1903ms
+ GET /preescolar-1 200 in 4.4s (compile: 3.3s, generate-params: 750ms, render: 1108ms)
+ GET /preescolar-1 200 in 166ms (compile: 23ms, generate-params: 14ms, render: 142ms)
+ GET /preescolar-1 200 in 141ms (compile: 19ms, generate-params: 13ms, render: 121ms)
+ GET /preescolar-1/artes 200 in 2.2s (compile: 821ms, generate-params: 741ms, render: 1350ms)
+ GET /preescolar-1 200 in 160ms (compile: 20ms, generate-params: 10ms, render: 140ms)
+ GET /preescolar-1/artes 200 in 134ms (compile: 21ms, generate-params: 10ms, render: 114ms)
+ GET /preescolar-1/educacion_fisica 200 in 276ms (compile: 19ms, generate-params: 12ms, render: 257ms)
+✓ Compiled in 408ms
+ GET /preescolar-1/educacion_fisica 200 in 223ms (compile: 120ms, generate-params: 65µs, render: 103ms)
+ GET /preescolar-1/artes 200 in 226ms (compile: 20ms, generate-params: 11ms, render: 206ms)
+✓ Compiled in 179ms
+ GET /preescolar-1/artes 200 in 130ms (compile: 18ms, generate-params: 10ms, render: 112ms)
+ GET /preescolar-1/educacion_fisica 200 in 106ms (compile: 6ms, generate-params: 53µs, render: 101ms)
+ GET /preescolar-1 200 in 932ms (compile: 155ms, generate-params: 10ms, render: 776ms)
+ GET /preescolar-1 200 in 424ms (compile: 16ms, generate-params: 10ms, render: 408ms)
+ GET /preescolar-1 200 in 324ms (compile: 27ms, generate-params: 14ms, render: 297ms)
+ GET /preescolar-1/educacion_fisica 200 in 191ms (compile: 15ms, generate-params: 10ms, render: 176ms)
+ GET /preescolar-1 200 in 306ms (compile: 16ms, generate-params: 10ms, render: 291ms)
+ GET /preescolar-1/educacion_fisica 200 in 221ms (compile: 16ms, generate-params: 10ms, render: 205ms)
+ GET /preescolar-1 200 in 335ms (compile: 16ms, generate-params: 10ms, render: 319ms)
+✓ Compiled in 324ms
+ GET /preescolar-1/artes 200 in 737ms (compile: 19ms, generate-params: 10ms, render: 717ms)
+ GET /preescolar-1/educacion_fisica 200 in 647ms (compile: 11ms, generate-params: 40µs, render: 637ms)
+ GET /preescolar-1 200 in 583ms (compile: 144ms, generate-params: 10ms, render: 440ms)
+ GET /preescolar-1 200 in 584ms (compile: 336ms, generate-params: 42µs, render: 248ms)
+ GET /preescolar-1 200 in 1447ms (compile: 17ms, generate-params: 11ms, render: 1430ms)
+ GET /preescolar-1/espanol/bloque-6-v1 404 in 1198ms (compile: 1022ms, generate-params: 829ms, render: 175ms)
+ GET /preescolar-1 200 in 439ms (compile: 16ms, generate-params: 9ms, render: 423ms)
+ GET /preescolar-1/espanol/bloque-6 200 in 94ms (compile: 30ms, generate-params: 11ms, render: 65ms)
+ GET /preescolar-1/espanol/bloque-6 200 in 816ms (compile: 35ms, generate-params: 12ms, render: 781ms)
+ GET /preescolar-1/conocimiento/bloque-6 200 in 162ms (compile: 29ms, generate-params: 13ms, render: 133ms)

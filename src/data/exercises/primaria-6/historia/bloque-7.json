@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-6",
+    "materia": "historia",
+    "bloque": 7,
+    "nombre": "México y el mundo (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "México contemporáneo en LSM",
+        "Globalización y tecnología",
+        "Derechos digitales y ciberseguridad",
+        "La comunidad sorda en México hoy"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p6-his-b7-v1-001",
+                "tema": "México contemporáneo",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se expresa 'DEMOCRACIA' en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "PUEBLO (seña de muchas personas, dedos moviéndose juntos) + DECIDIR (mano que baja firmemente, seleccionando). El pueblo que decide.",
+                    "Se levanta un dedo como si se votara.",
+                    "Se deletrea D-E-M-O-C-R-A-C-I-A."
+                ],
+                "respuestaCorrecta": "PUEBLO (seña de muchas personas, dedos moviéndose juntos) + DECIDIR (mano que baja firmemente, seleccionando). El pueblo que decide.",
+                "explicacion": "¡Exacto! DEMOCRACIA = PUEBLO + DECIDE. La seña compuesta desglosa el concepto griego (demos = pueblo, kratos = poder) en una narrativa visual que un niño sordo puede entender inmediatamente. 🗳️"
+            },
+            {
+                "id": "p6-his-b7-v1-002",
+                "tema": "Globalización",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La seña de 'INTERNET' en LSM se forma con ambos dedos índices apuntándose entre sí y girando en círculos alternados, representando la conexión de redes que se entrelazan globalmente.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! La seña captura la esencia de Internet: nodos que se conectan en red. Los dedos giración crean una imagen de datos fluyendo entre puntos. Cada lengua de señas del mundo tiene su propia seña para Internet. 🌐"
+            },
+            {
+                "id": "p6-his-b7-v1-003",
+                "tema": "Derechos digitales",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de 'CONTRASEÑA' o 'PRIVACIDAD DIGITAL', cerramos el puño (secreto) y lo giramos frente a la boca (como si cerráramos un ___), indicando información protegida.",
+                "respuestaCorrecta": "candado",
+                "explicacion": "¡Correcto! El puño que gira como un candado frente a la boca comunica 'información que no se comparte'. Es idéntico al concepto de privacidad: algo encerrado y protegido. 🔒"
+            },
+            {
+                "id": "p6-his-b7-v1-004",
+                "tema": "Comunidad sorda",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "En México, ¿qué organismo reconoció oficialmente la LSM como lengua nacional en 2005?",
+                "opciones": [
+                    "El Congreso de la Unión, mediante la Ley General para la Inclusión de Personas con Discapacidad, que reconoce a la LSM como patrimonio lingüístico de la nación.",
+                    "La Real Academia Española.",
+                    "La Organización Mundial de la Salud."
+                ],
+                "respuestaCorrecta": "El Congreso de la Unión, mediante la Ley General para la Inclusión de Personas con Discapacidad, que reconoce a la LSM como patrimonio lingüístico de la nación.",
+                "explicacion": "¡Perfecto! En 2005, la LSM fue reconocida como lengua nacional. Esto significa que las personas sordas en México tienen el DERECHO LEGAL a recibir educación, servicios de salud y justicia en su lengua. ¡Conocer tus derechos es poder! ⚖️🇲🇽"
+            }
+        ]
+    },
+    "generado": "2026-03-10T19:37:00.000Z",
+    "version": "3.0"
+}

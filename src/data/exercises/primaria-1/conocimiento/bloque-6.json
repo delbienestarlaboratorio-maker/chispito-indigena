@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-1",
+    "materia": "conocimiento",
+    "bloque": 6,
+    "nombre": "Mi mundo en señas (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Animales de México en LSM",
+        "Las estaciones del año",
+        "Higiene y salud",
+        "La escuela y sus espacios"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p1-con-b6-v1-001",
+                "tema": "Animales de México en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo hacemos la seña del 'ÁGUILA' (como la del escudo de México) en LSM?",
+                "opciones": [
+                    "Formamos un gancho con el índice y el pulgar (como un pico) frente a la nariz, y lo abrimos y cerramos dos veces imitando el pico del águila.",
+                    "Movemos los brazos de arriba abajo como si voláramos.",
+                    "Ponemos los brazos cruzados sobre el pecho."
+                ],
+                "respuestaCorrecta": "Formamos un gancho con el índice y el pulgar (como un pico) frente a la nariz, y lo abrimos y cerramos dos veces imitando el pico del águila.",
+                "explicacion": "¡Exacto! El águila en LSM se representa con su característica más visible: el pico. Lo hacemos con el índice y pulgar frente a la nariz, como si fuéramos el águila del escudo nacional. 🦅"
+            },
+            {
+                "id": "p1-con-b6-v1-002",
+                "tema": "Las estaciones del año",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La seña para 'INVIERNO' en LSM se hace temblando con los puños cerrados frente al cuerpo, como cuando tienes mucho frío.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! Cerramos ambos puños y los sacudimos frente al pecho como si estuviéramos titiritando de frío. Es una seña muy intuitiva porque imita exactamente lo que hacemos cuando hace frío. 🥶"
+            },
+            {
+                "id": "p1-con-b6-v1-003",
+                "tema": "Higiene y salud",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para pedir 'JABÓN' en LSM, hacemos como si nos frotáramos las ___ una contra la otra haciendo espuma imaginaria.",
+                "respuestaCorrecta": "manos",
+                "explicacion": "¡Correcto! La seña de 'jabón' es literal: frotas las manos como si las estuvieras enjabonando. Muchas señas de higiene imitan la acción real. 🧼"
+            },
+            {
+                "id": "p1-con-b6-v1-004",
+                "tema": "La escuela y sus espacios",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cuál es la seña correcta para 'ESCUELA' en LSM?",
+                "opciones": [
+                    "Damos palmadas suaves dos veces, como llamando la atención de un grupo, y luego hacemos la seña de casa (techo con ambas manos).",
+                    "Dibujamos un rectángulo en el aire.",
+                    "Hacemos la seña de libro tres veces seguidas."
+                ],
+                "respuestaCorrecta": "Damos palmadas suaves dos veces, como llamando la atención de un grupo, y luego hacemos la seña de casa (techo con ambas manos).",
+                "explicacion": "¡Así es! La escuela combina el concepto de grupo/clase (palmadas para llamar atención) + casa (techo). Es como decir 'la casa donde aprendemos juntos'. 🏫"
+            }
+        ]
+    },
+    "generado": "2026-03-10T13:40:00.000Z",
+    "version": "3.0"
+}

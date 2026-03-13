@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-4",
+    "materia": "matematicas",
+    "bloque": 7,
+    "nombre": "Números que vuelan (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Fracciones avanzadas en LSM",
+        "Multiplicación visual con señas",
+        "Unidades de medida (metro, kilo, litro)",
+        "Gráficas y datos con las manos"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p4-mat-b7-v1-001",
+                "tema": "Fracciones avanzadas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Ya conoces la seña de 'MITAD'. ¿Cómo expresarías 'UN CUARTO' (1/4) en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "Primero muestras el número 1 (numerador), luego una línea horizontal con el índice (división), y después el número 4 (denominador).",
+                    "Levantas 4 dedos y luego cierras uno.",
+                    "Haces la seña de 'mitad' dos veces seguidas."
+                ],
+                "respuestaCorrecta": "Primero muestras el número 1 (numerador), luego una línea horizontal con el índice (división), y después el número 4 (denominador).",
+                "explicacion": "¡Exacto! Las fracciones en LSM se expresan visualmente: ARRIBA el numerador, la LÍNEA de la fracción se traza en el aire, y ABAJO el denominador. ¡Las matemáticas flotan en 3D! 📊"
+            },
+            {
+                "id": "p4-mat-b7-v1-002",
+                "tema": "Multiplicación visual",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En LSM, para decir 'MULTIPLICAR' cruzamos los dedos índice y medio de ambas manos formando una X, similar al signo de multiplicación (×).",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! La seña de multiplicar imita literalmente el símbolo ×. Cruzas los dedos en forma de X y agregas un ligero movimiento. ¡Las matemáticas son muy visuales en LSM! ✖️"
+            },
+            {
+                "id": "p4-mat-b7-v1-003",
+                "tema": "Unidades de medida",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de 'KILOGRAMO', hacemos la seña de 'PESO/PESADO' (manos bajando por la gravedad) y le agregamos la letra ___ del alfabeto manual de LSM.",
+                "respuestaCorrecta": "K",
+                "explicacion": "¡Así es! Muchas unidades de medida combinan el concepto base (peso, distancia, volumen) con la letra inicial: K para Kilo, M para Metro, L para Litro. 📏"
+            },
+            {
+                "id": "p4-mat-b7-v1-004",
+                "tema": "Gráficas y datos",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Si quieres describir una gráfica de barras en LSM, ¿cómo representarías las barras?",
+                "opciones": [
+                    "Con las manos planas verticales, subiendo y bajando para mostrar las diferentes alturas de cada barra.",
+                    "Contando cada número de la gráfica uno por uno.",
+                    "Dibujando círculos en el aire para cada dato."
+                ],
+                "respuestaCorrecta": "Con las manos planas verticales, subiendo y bajando para mostrar las diferentes alturas de cada barra.",
+                "explicacion": "¡Correcto! La LSM puede 'construir' gráficos en el espacio. Usas tus manos como barras visuales, variando su altura. ¡Es estadística en 3D! 📈"
+            }
+        ]
+    },
+    "generado": "2026-03-10T19:10:00.000Z",
+    "version": "3.0"
+}

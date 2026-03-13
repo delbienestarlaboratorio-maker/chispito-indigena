@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-6",
+    "materia": "espanol",
+    "bloque": 7,
+    "nombre": "Pensamiento en señas (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Pensamiento crítico en LSM",
+        "Discurso persuasivo visual",
+        "Textos académicos y registro culto",
+        "Metalenguaje: hablar SOBRE la LSM en LSM"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p6-esp-b7-v1-001",
+                "tema": "Pensamiento crítico",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cuál es la forma correcta de expresar una OPINIÓN en Lengua de Señas Mexicana, diferenciándola claramente de un HECHO?",
+                "opciones": [
+                    "Para opinión, señalamos el pecho (YO) + seña de PENSAR (sien) antes de la afirmación. Para hechos, omitimos esta marca personal y presentamos la información directamente.",
+                    "Las opiniones se deletrean y los hechos se señan.",
+                    "No hay diferencia; todo depende de la expresión facial."
+                ],
+                "respuestaCorrecta": "Para opinión, señalamos el pecho (YO) + seña de PENSAR (sien) antes de la afirmación. Para hechos, omitimos esta marca personal y presentamos la información directamente.",
+                "explicacion": "¡Exacto! La LSM marca subjetividad con YO-PIENSO antes de la afirmación. Si omites esa marca, el discurso se interpreta como hecho objetivo. Es una gramática de la perspectiva. 🧠"
+            },
+            {
+                "id": "p6-esp-b7-v1-002",
+                "tema": "Discurso persuasivo",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En un discurso persuasivo en LSM, la expresión facial es tan importante o MÁS importante que las señas manuales, porque transmite emoción, urgencia y convicción al público.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! La expresión facial en LSM NO es decorativa: es GRAMATICAL. Las cejas levantadas indican pregunta, las cejas fruncidas indican negación, y la intensidad facial amplifica la urgencia del argumento. Un político sordo persuade con la cara tanto como con las manos. 🎤"
+            },
+            {
+                "id": "p6-esp-b7-v1-003",
+                "tema": "Registro académico",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "En contextos académicos, la LSM incorpora términos técnicos que frecuentemente se construyen combinando una seña base con la ___ de la palabra en español, tomada del alfabeto manual.",
+                "respuestaCorrecta": "letra inicial",
+                "explicacion": "¡Correcto! Esto se llama 'inicialización'. Ejemplo: CIENCIA = seña base de 'investigar' + forma de la letra C. FILOSOFÍA = seña de 'pensar profundo' + F. Es la principal herramienta para neologismos técnicos. 🎓"
+            },
+            {
+                "id": "p6-esp-b7-v1-004",
+                "tema": "Metalenguaje LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué es el 'metalenguaje' en LSM?",
+                "opciones": [
+                    "Es la capacidad de usar la LSM para hablar SOBRE la propia LSM: explicar su gramática, sus reglas, y analizar sus señas usando señas.",
+                    "Es un lenguaje especial que solo usan los lingüistas.",
+                    "Es un tipo de seña que se hace con los pies."
+                ],
+                "respuestaCorrecta": "Es la capacidad de usar la LSM para hablar SOBRE la propia LSM: explicar su gramática, sus reglas, y analizar sus señas usando señas.",
+                "explicacion": "¡Perfecto! Cuando un profesor sordo explica EN LSM cómo funciona la gramática DE LA LSM, está usando metalenguaje. Esto demuestra que la LSM es una lengua completa con la misma complejidad que cualquier idioma oral. 🪞"
+            }
+        ]
+    },
+    "generado": "2026-03-10T19:37:00.000Z",
+    "version": "3.0"
+}

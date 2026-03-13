@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-2",
+    "materia": "matematicas",
+    "bloque": 6,
+    "nombre": "Cálculo en mis manos (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Números hasta el 100",
+        "Fracciones rápidas: Mitad y Entero",
+        "Restas con señas",
+        "El tiempo en el reloj"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p2-mat-b6-v1-001",
+                "tema": "Números hasta el 100",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "La seña del número '100' (CIEN) es especial. ¿Cómo se hace en LSM?",
+                "opciones": [
+                    "Se dibuja una letra 'C' con la mano y se mueve de izquierda a derecha.",
+                    "Se muestran los 10 dedos y se abren y cierran 10 veces.",
+                    "Se hace la seña de '1', luego dos círculos en el aire (ceros)."
+                ],
+                "respuestaCorrecta": "Se dibuja una letra 'C' con la mano y se mueve de izquierda a derecha.",
+                "explicacion": "¡Exacto! Para decir 100, 200, 300, etc., usamos la configuración de la letra 'C' representando las centenas y la recorremos ligeramente de forma lateral. 💯"
+            },
+            {
+                "id": "p2-mat-b6-v1-002",
+                "tema": "Restas con señas",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para representar la operación de RESTA o MENOS, pasamos una mano estirada (como si fuera un borrador) limpiando la palma de la otra mano hacia abajo.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! La seña de MENOS o QUITAR visualiza literalmente cómo se le 'quita' o 'limpia' algo a la cantidad original. ➖"
+            },
+            {
+                "id": "p2-mat-b6-v1-003",
+                "tema": "Fracciones rápidas",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de 'MITAD' o 'MEDIO', ponemos el dedo índice de una mano sobre la palma abierta de la otra, como si estuviéramos partiendo la mano por el ___.",
+                "respuestaCorrecta": "centro",
+                "explicacion": "¡Así es! Usamos nuestra palma como si fuera un papel o un objeto y lo partimos exactamente por el centro con el otro dedo para decir 'la mitad'. 🍕"
+            },
+            {
+                "id": "p2-mat-b6-v1-004",
+                "tema": "El tiempo en el reloj",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo preguntamos '¿QUÉ HORA ES?' en LSM?",
+                "opciones": [
+                    "Tocamos nuestra muñeca con el índice un par de veces y fruncimos el ceño.",
+                    "Dibujamos un círculo grande en el aire copiando un reloj de pared.",
+                    "Movemos los brazos como si fueran las manecillas dando vueltas."
+                ],
+                "respuestaCorrecta": "Tocamos nuestra muñeca con el índice un par de veces y fruncimos el ceño.",
+                "explicacion": "¡Correcto! Señalar la muñeca se refiere al reloj, y fruncir el ceño le da el tono de pregunta (¿Cuál? ¿Qué?). Así de eficiente es el lenguaje. ⌚"
+            }
+        ]
+    },
+    "generado": "2026-03-10T18:20:00.000Z",
+    "version": "3.0"
+}

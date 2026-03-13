@@ -1,0 +1,66 @@
+{
+    "grado": "secundaria-3",
+    "materia": "historia",
+    "bloque": 6,
+    "nombre": "El mundo que heredamos (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Siglo XX: guerras mundiales en LSM",
+        "Derechos humanos universales",
+        "Movimiento global de derechos Sordos",
+        "El futuro: inteligencia artificial y accesibilidad"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "s3-his-b6-v1-001",
+                "tema": "Derechos humanos",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se expresa 'DERECHOS HUMANOS' en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "DERECHO (la mano D sube firmemente, como una ley que se levanta) + PERSONA/HUMANO (la seña de persona, ambas manos paralelas bajando por el cuerpo delineando la forma humana). Los derechos que pertenecen a toda persona.",
+                    "Se señala la bandera de la ONU.",
+                    "Se cruzan los brazos sobre el pecho."
+                ],
+                "respuestaCorrecta": "DERECHO (la mano D sube firmemente, como una ley que se levanta) + PERSONA/HUMANO (la seña de persona, ambas manos paralelas bajando por el cuerpo delineando la forma humana). Los derechos que pertenecen a toda persona.",
+                "explicacion": "¡Exacto! DERECHOS HUMANOS = D que sube (derecho/ley) + forma humana. La Declaración Universal (1948) incluye el derecho a la educación y a la participación cultural en la propia lengua. Esto incluye la LSM. 📜🌍"
+            },
+            {
+                "id": "s3-his-b6-v1-002",
+                "tema": "Movimiento Sordo global",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "El Congreso de Milán de 1880 fue un evento histórico negativo para la comunidad sorda mundial, donde educadores OYENTES votaron por prohibir las lenguas de señas en las escuelas y forzar el 'oralismo' (enseñar a los sordos a hablar y leer labios). Esta prohibición duró más de 100 años en muchos países.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! El Congreso de Milán (1880) fue devastador: se prohibió la LSM/ASL/BSL en las escuelas. Generaciones de niños sordos fueron castigados por señar. Fue hasta el año 2010 que el mismo congreso (ICED) se disculpó oficialmente. ¡Conocer el pasado evita repetirlo! 📍1880"
+            },
+            {
+                "id": "s3-his-b6-v1-003",
+                "tema": "Siglo XX",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "La Convención sobre los Derechos de las Personas con Discapacidad (CDPD) de la ONU, ratificada por México en 2008, establece en su Artículo 21 que los Estados deben aceptar y facilitar la utilización de las lenguas de ___ en las relaciones oficiales.",
+                "respuestaCorrecta": "señas",
+                "explicacion": "¡Correcto! El Artículo 21 de la CDPD garantiza el derecho a usar lenguas de señas en contextos oficiales. México ratificó esta convención en 2008. Esto significa que un tribunal, un hospital o una escuela DEBEN proporcionar intérprete de LSM cuando se les solicite. ⚖️"
+            },
+            {
+                "id": "s3-his-b6-v1-004",
+                "tema": "Futuro y tecnología",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cuál es el mayor desafío actual para la accesibilidad lingüística de la comunidad sorda en México?",
+                "opciones": [
+                    "La escasez de intérpretes certificados de LSM. México tiene aproximadamente 40 intérpretes certificados para más de 2 millones de personas sordas o con discapacidad auditiva. La inteligencia artificial podría ayudar, pero aún no reemplaza la interpretación humana cultural.",
+                    "Que no existen tecnologías de comunicación.",
+                    "Que las personas sordas no quieren comunicarse."
+                ],
+                "respuestaCorrecta": "La escasez de intérpretes certificados de LSM. México tiene aproximadamente 40 intérpretes certificados para más de 2 millones de personas sordas o con discapacidad auditiva. La inteligencia artificial podría ayudar, pero aún no reemplaza la interpretación humana cultural.",
+                "explicacion": "¡Exacto! La brecha es ENORME: ~40 intérpretes certificados para ~2 millones de personas. Plataformas como Chispito.mx contribuyen enseñando LSM desde la infancia. Cada persona que aprende LSM reduce esa brecha. TÚ puedes ser parte de la solución. 🤟💪"
+            }
+        ]
+    },
+    "generado": "2026-03-10T20:05:00.000Z",
+    "version": "3.0"
+}

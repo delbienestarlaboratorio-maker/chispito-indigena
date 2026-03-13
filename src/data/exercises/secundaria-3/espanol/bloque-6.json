@@ -1,0 +1,66 @@
+{
+    "grado": "secundaria-3",
+    "materia": "espanol",
+    "bloque": 6,
+    "nombre": "Literatura sin fronteras (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Literatura universal adaptada a LSM",
+        "Análisis semiótico: signos visuales",
+        "Poesía en lengua de señas",
+        "Identidad lingüística y orgullo sordo"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "s3-esp-b6-v1-001",
+                "tema": "Literatura universal",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se adapta una obra literaria clásica (como 'Romeo y Julieta') a la LSM?",
+                "opciones": [
+                    "No se 'traduce' palabra por palabra. Se RECREA: los intérpretes usan cambio de rol para encarnar personajes, clasificadores para describir escenarios, y expresión facial para transmitir emociones. Es una REINTERPRETACIÓN artística completa.",
+                    "Se proyecta el texto escrito y alguien deletrea cada palabra.",
+                    "Se lee el libro en español y alguien señala las páginas."
+                ],
+                "respuestaCorrecta": "No se 'traduce' palabra por palabra. Se RECREA: los intérpretes usan cambio de rol para encarnar personajes, clasificadores para describir escenarios, y expresión facial para transmitir emociones. Es una REINTERPRETACIÓN artística completa.",
+                "explicacion": "¡Exacto! Shakespeare en LSM no es traducción: es RECREACIÓN. El balcón de Julieta se 'construye' con clasificadores. Romeo 'sube' con el cuerpo. Los diálogos usan cambio de rol. Es teatro DENTRO de la lengua. ¡La literatura vive en 3D! 🎭📖"
+            },
+            {
+                "id": "s3-esp-b6-v1-002",
+                "tema": "Poesía en LSM",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La poesía en LSM NO usa rima fonética (sonidos que suenan igual) sino 'rima visual': señas que comparten la misma forma de mano, el mismo movimiento, o la misma ubicación. La belleza está en la simetría visual, no en el sonido.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! La poesía en LSM es un arte visual extraordinario. Usa simetría de manos, repetición de movimientos, ritmo corporal y transiciones fluidas. Poetas sordos como Clayton Valli demostraron que la poesía NO necesita sonido para ser profunda y bella. 🎵👐"
+            },
+            {
+                "id": "s3-esp-b6-v1-003",
+                "tema": "Análisis semiótico",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "La semiótica estudia los SIGNOS y sus significados. En LSM, cada seña es un signo compuesto por forma de la mano, ubicación, movimiento y ___. Analizar estos componentes es hacer semiótica visual.",
+                "respuestaCorrecta": "expresión facial",
+                "explicacion": "¡Correcto! Los 4 parámetros de la LSM son: configuración manual (forma), ubicación, movimiento y componentes no manuales (expresión facial/corporal). Juntos forman el 'fonema' visual. La semiótica de la LSM es la lingüística del siglo XXI. 🔍"
+            },
+            {
+                "id": "s3-esp-b6-v1-004",
+                "tema": "Identidad lingüística",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué es el 'Orgullo Sordo' (Deaf Pride)?",
+                "opciones": [
+                    "Es un movimiento cultural que afirma que la sordera NO es una discapacidad sino una diferencia lingüística. Las personas sordas tienen su propia lengua, cultura, arte e historia, y rechazan que se les defina por lo que 'les falta' (la audición).",
+                    "Es una fiesta anual de la comunidad sorda.",
+                    "Es una marca de audífonos."
+                ],
+                "respuestaCorrecta": "Es un movimiento cultural que afirma que la sordera NO es una discapacidad sino una diferencia lingüística. Las personas sordas tienen su propia lengua, cultura, arte e historia, y rechazan que se les defina por lo que 'les falta' (la audición).",
+                "explicacion": "¡Perfecto! El modelo cultural de la sordera dice: 'No soy un oyente roto. Soy una persona Sorda con mayúscula, con lengua propia y cultura propia'. Este cambio de perspectiva es uno de los logros más importantes del movimiento Sordo mundial. 🏳️‍🌈👂❌→👐✅"
+            }
+        ]
+    },
+    "generado": "2026-03-10T20:05:00.000Z",
+    "version": "3.0"
+}

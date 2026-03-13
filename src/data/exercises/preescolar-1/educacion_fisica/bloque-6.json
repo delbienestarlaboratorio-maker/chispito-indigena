@@ -1,0 +1,323 @@
+{
+    "grado": "preescolar-1",
+    "materia": "educacion_fisica",
+    "bloque": 6,
+    "nombre": "Mi cuerpo habla (LSM)",
+    "meses": "Todo el ciclo escolar",
+    "temas": [
+        "Partes del cuerpo en LSM",
+        "Acciones y movimientos",
+        "Deportes en señas",
+        "Salud y sentir"
+    ],
+    "totalEjercicios": 23,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "pre1-ef-b6-v1-001",
+                "tema": "Partes del cuerpo en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos CABEZA en LSM? 🧠",
+                "opciones": [
+                    "Tocamos la parte superior de la cabeza con la mano",
+                    "Cerramos los ojos",
+                    "Aplaudimos",
+                    "Saltamos"
+                ],
+                "respuestaCorrecta": "Tocamos la parte superior de la cabeza con la mano",
+                "explicacion": "¡CABEZA! Simplemente tocamos la parte de arriba de nuestra cabeza. ¡Fácil! 🧠👆",
+                "visual": "🧠"
+            },
+            {
+                "id": "pre1-ef-b6-v1-002",
+                "tema": "Partes del cuerpo en LSM",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir MANO ✋ en LSM, señalamos nuestra propia mano con la otra.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Sí! MANO = señalamos nuestra propia mano. ¡Las manos son las herramientas de la LSM! ✋🤝"
+            },
+            {
+                "id": "pre1-ef-b6-v1-003",
+                "tema": "Acciones y movimientos",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos CORRER 🏃 en LSM?",
+                "opciones": [
+                    "Movemos los brazos como si corriéramos rápido",
+                    "Cerramos puños",
+                    "Señalamos arriba",
+                    "Aplaudimos"
+                ],
+                "respuestaCorrecta": "Movemos los brazos como si corriéramos rápido",
+                "explicacion": "¡CORRER! En LSM imitamos el movimiento de los brazos al correr. ¡Rápido, rápido! 🏃💨",
+                "visual": "🏃"
+            },
+            {
+                "id": "pre1-ef-b6-v1-004",
+                "tema": "Acciones y movimientos",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para decir SALTAR en LSM, levantamos dos dedos (V) y los movemos hacia ___.",
+                "respuestaCorrecta": "arriba",
+                "explicacion": "¡SALTAR! Dos dedos como piernitas que brincan hacia arriba. ¡Boing, boing! 🤸‍♂️⬆️"
+            },
+            {
+                "id": "pre1-ef-b6-v1-005",
+                "tema": "Deportes en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo hacemos FÚTBOL ⚽ en LSM?",
+                "opciones": [
+                    "Imitamos patear un balón con el pie",
+                    "Aplaudimos",
+                    "Tocamos la frente",
+                    "Señalamos al suelo"
+                ],
+                "respuestaCorrecta": "Imitamos patear un balón con el pie",
+                "explicacion": "¡FÚTBOL! Imitamos la patada al balón. ¡Goool! ⚽🦶",
+                "visual": "⚽"
+            },
+            {
+                "id": "pre1-ef-b6-v1-006",
+                "tema": "Salud y sentir",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir DOLOR 😣 en LSM, juntamos los dedos índice y los giramos como si doliera.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡DOLOR! Los dedos índice se acercan y giran, como punzadas. Si te duele algo, ¡dilo en señas! 😣🤕"
+            },
+            {
+                "id": "pre1-ef-b6-v1-007",
+                "tema": "Partes del cuerpo en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo señalamos PIE 🦶 en LSM?",
+                "opciones": [
+                    "Señalamos nuestro propio pie",
+                    "Tocamos la nariz",
+                    "Cerramos los ojos",
+                    "Aplaudimos"
+                ],
+                "respuestaCorrecta": "Señalamos nuestro propio pie",
+                "explicacion": "¡PIE! Señalamos nuestro pie directamente. Muchas partes del cuerpo se señalan simplemente. 🦶👣",
+                "visual": "🦶"
+            },
+            {
+                "id": "pre1-ef-b6-v1-008",
+                "tema": "Acciones y movimientos",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo decimos BAILAR 💃 en LSM?",
+                "opciones": [
+                    "Movemos dos dedos sobre la palma como piernas bailando",
+                    "Cerramos puños",
+                    "Señalamos el cielo",
+                    "Aplaudimos fuerte"
+                ],
+                "respuestaCorrecta": "Movemos dos dedos sobre la palma como piernas bailando",
+                "explicacion": "¡BAILAR! Dos dedos son las piernitas que bailan sobre la palmita. ¡A bailar! 💃🕺🎵",
+                "visual": "💃"
+            },
+            {
+                "id": "pre1-ef-b6-v1-009",
+                "tema": "Salud y sentir",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para decir CANSADO 😩 en LSM, ponemos las manos en el ___ y las dejamos caer.",
+                "respuestaCorrecta": "pecho",
+                "explicacion": "¡CANSADO! Manos en el pecho que caen hacia abajo, como cuando estamos sin energía. 😩💤"
+            },
+            {
+                "id": "pre1-ef-b6-v1-010",
+                "tema": "Deportes en señas",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "NADAR 🏊 en LSM se hace imitando el movimiento de brazos al nadar.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡NADAR! Imitamos cómo movemos los brazos en el agua. ¡Splash, splash! 🏊‍♂️💦",
+                "visual": "🏊"
+            }
+        ],
+        "v2": [
+            {
+                "id": "pre1-ef-b6-v2-001",
+                "tema": "Partes del cuerpo en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cómo decimos OJOS 👀 en LSM?",
+                "opciones": [
+                    "Señalamos debajo de nuestros ojos con el dedo índice",
+                    "Tocamos las orejas",
+                    "Aplaudimos",
+                    "Saltamos"
+                ],
+                "respuestaCorrecta": "Señalamos debajo de nuestros ojos con el dedo índice",
+                "explicacion": "¡OJOS! Señalamos justo debajo de nuestros ojos. Así decimos que VER es con los ojitos. 👀👁️"
+            },
+            {
+                "id": "pre1-ef-b6-v2-002",
+                "tema": "Acciones y movimientos",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "Para APLAUDIR 👏 en LSM, simplemente abrimos y cerramos las ___ dando palmadas.",
+                "respuestaCorrecta": "manos",
+                "explicacion": "¡APLAUDIR! ¡Es igual en señas! Damos palmaditas. Todo el mundo entiende los aplausos. 👏🎉"
+            },
+            {
+                "id": "pre1-ef-b6-v2-003",
+                "tema": "Deportes en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cómo se hace BÁSQUETBOL 🏀 en LSM?",
+                "opciones": [
+                    "Imitamos lanzar un balón hacia arriba con ambas manos",
+                    "Pateamos",
+                    "Tocamos la cabeza",
+                    "Aplaudimos"
+                ],
+                "respuestaCorrecta": "Imitamos lanzar un balón hacia arriba con ambas manos",
+                "explicacion": "¡BÁSQUETBOL! Imitamos la acción de lanzar el balón a la canasta. ¡Swish! 🏀🏀",
+                "visual": "🏀"
+            },
+            {
+                "id": "pre1-ef-b6-v2-004",
+                "tema": "Salud y sentir",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "FUERTE 💪 en LSM se hace flexionando el brazo y mostrando el músculo.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡FUERTE! Flexionamos el brazo y mostramos el músculo. ¡Igual que cuando presumimos fuerza! 💪😁"
+            },
+            {
+                "id": "pre1-ef-b6-v2-005",
+                "tema": "Partes del cuerpo en LSM",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿OREJA/OÍDO 👂 en LSM?",
+                "opciones": [
+                    "Tocamos o señalamos nuestra oreja",
+                    "Señalamos el pie",
+                    "Aplaudimos",
+                    "Saltamos"
+                ],
+                "respuestaCorrecta": "Tocamos o señalamos nuestra oreja",
+                "explicacion": "¡OREJA! Tocamos nuestra oreja directamente. ¡Los niños sordos 'escuchan' con los ojos! 👂👀"
+            },
+            {
+                "id": "pre1-ef-b6-v2-006",
+                "tema": "Acciones y movimientos",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cómo decimos SENTARSE en LSM?",
+                "opciones": [
+                    "Dos dedos (V) se doblan sobre la otra mano plana",
+                    "Cerramos puños",
+                    "Aplaudimos",
+                    "Señalamos arriba"
+                ],
+                "respuestaCorrecta": "Dos dedos (V) se doblan sobre la otra mano plana",
+                "explicacion": "¡SENTARSE! Los dos dedos son las piernitas que se doblan al sentarse sobre la mano-silla. 🪑"
+            },
+            {
+                "id": "pre1-ef-b6-v2-007",
+                "tema": "Salud y sentir",
+                "tipo": "fill_blank",
+                "nivel": "v2",
+                "pregunta": "TRISTE 😢 en LSM: pasamos los dedos desde los ___ hacia abajo, como lágrimas.",
+                "respuestaCorrecta": "ojos",
+                "explicacion": "¡TRISTE! Los dedos bajan desde los ojos como lagrimitas. Pero está bien sentirse triste a veces. 😢💙"
+            },
+            {
+                "id": "pre1-ef-b6-v2-008",
+                "tema": "Deportes en señas",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cómo se hace BICICLETA 🚲 en LSM?",
+                "opciones": [
+                    "Giramos los puños como pedaleando",
+                    "Tocamos la nariz",
+                    "Aplaudimos",
+                    "Saltamos"
+                ],
+                "respuestaCorrecta": "Giramos los puños como pedaleando",
+                "explicacion": "¡BICICLETA! Los puños giran como los pies en los pedales. ¡A pedalear! 🚲🌿",
+                "visual": "🚲"
+            },
+            {
+                "id": "pre1-ef-b6-v2-009",
+                "tema": "Partes del cuerpo en LSM",
+                "tipo": "true_false",
+                "nivel": "v2",
+                "pregunta": "CORAZÓN ❤️ en LSM se hace poniendo la mano en el pecho del lado izquierdo.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡CORAZÓN! Ponemos la mano donde latimos. ¡Tum, tum, tum! ❤️💓"
+            },
+            {
+                "id": "pre1-ef-b6-v2-010",
+                "tema": "Acciones y movimientos",
+                "tipo": "multiple_choice",
+                "nivel": "v2",
+                "pregunta": "¿Cómo decimos DORMIR 😴 en LSM?",
+                "opciones": [
+                    "Inclinamos la cabeza sobre las manos juntas (como almohada)",
+                    "Saltamos",
+                    "Corremos",
+                    "Aplaudimos"
+                ],
+                "respuestaCorrecta": "Inclinamos la cabeza sobre las manos juntas (como almohada)",
+                "explicacion": "¡DORMIR! Manos juntitas como almohada y la cabeza se inclina. ¡Zzzzz! 😴💤"
+            }
+        ],
+        "preview": [
+            {
+                "id": "pre1-ef-b6-v1-001",
+                "tema": "Cuerpo",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿CABEZA en LSM? 🧠",
+                "opciones": [
+                    "Tocar la cabeza",
+                    "Cerrar ojos",
+                    "Aplaudir",
+                    "Saltar"
+                ],
+                "respuestaCorrecta": "Tocar la cabeza",
+                "explicacion": "🧠👆"
+            },
+            {
+                "id": "pre1-ef-b6-v1-003",
+                "tema": "Acciones",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿CORRER en LSM? 🏃",
+                "opciones": [
+                    "Brazos corriendo",
+                    "Puños cerrados",
+                    "Señalar arriba",
+                    "Aplaudir"
+                ],
+                "respuestaCorrecta": "Brazos corriendo",
+                "explicacion": "🏃💨"
+            },
+            {
+                "id": "pre1-ef-b6-v1-005",
+                "tema": "Deportes",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿FÚTBOL en LSM? ⚽",
+                "opciones": [
+                    "Patear balón",
+                    "Aplaudir",
+                    "Tocar frente",
+                    "Señalar suelo"
+                ],
+                "respuestaCorrecta": "Patear balón",
+                "explicacion": "⚽🦶"
+            }
+        ]
+    },
+    "generado": "2026-03-11T14:08:00.000Z",
+    "version": "4.0-SEP"
+}

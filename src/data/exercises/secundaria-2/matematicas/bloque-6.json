@@ -1,0 +1,66 @@
+{
+    "grado": "secundaria-2",
+    "materia": "matematicas",
+    "bloque": 6,
+    "nombre": "Sistemas y triángulos (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Sistemas de ecuaciones en LSM",
+        "Trigonometría introductoria",
+        "Funciones lineales y gráficas",
+        "Notación matemática avanzada"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "s2-mat-b6-v1-001",
+                "tema": "Sistemas de ecuaciones",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "Para expresar un SISTEMA de dos ecuaciones simultáneas en LSM, ¿qué estrategia espacial se utiliza?",
+                "opciones": [
+                    "La primera ecuación se coloca en el espacio izquierdo y la segunda en el derecho. Ambas se conectan con la seña JUNTAS (manos que se unen), indicando que deben resolverse al mismo tiempo.",
+                    "Se señan las dos ecuaciones una después de otra sin distinción.",
+                    "Se usa una sola mano para cada ecuación."
+                ],
+                "respuestaCorrecta": "La primera ecuación se coloca en el espacio izquierdo y la segunda en el derecho. Ambas se conectan con la seña JUNTAS (manos que se unen), indicando que deben resolverse al mismo tiempo.",
+                "explicacion": "¡Exacto! La distribución espacial de la LSM es PERFECTA para sistemas de ecuaciones: cada ecuación tiene su espacio, y la seña JUNTAS indica simultaneidad. El señante puede 'volver' a cada ecuación señalándola. 📐⚡"
+            },
+            {
+                "id": "s2-mat-b6-v1-002",
+                "tema": "Trigonometría",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "En LSM, las funciones trigonométricas SENO, COSENO y TANGENTE se representan usando las iniciales manuales (S, C, T) combinadas con el gesto de un triángulo formado con ambas manos.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! SENO = S manual + triángulo. COSENO = C manual + triángulo. TANGENTE = T manual + línea que toca el círculo. La inicialización funciona perfectamente para terminología matemática avanzada. 📐"
+            },
+            {
+                "id": "s2-mat-b6-v1-003",
+                "tema": "Funciones lineales",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para graficar una función lineal en LSM, el señante traza una línea recta en el espacio con la mano dominante, y la ___ de la línea (si sube o baja de izquierda a derecha) indica visualmente si la pendiente es positiva o negativa.",
+                "respuestaCorrecta": "inclinación",
+                "explicacion": "¡Correcto! La inclinación de la mano ES la pendiente. Mano subiendo (↗) = pendiente positiva. Mano bajando (↘) = pendiente negativa. Mano horizontal (→) = pendiente cero. ¡Más intuitivo que la fórmula m = Δy/Δx! 📈"
+            },
+            {
+                "id": "s2-mat-b6-v1-004",
+                "tema": "Notación avanzada",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se expresa 'RAÍZ CUADRADA' en LSM?",
+                "opciones": [
+                    "La mano dominante forma el símbolo √ (dedo índice dibuja la marca de verificación invertida hacia arriba) sobre la mano pasiva que muestra el número.",
+                    "Se golpea la mesa dos veces.",
+                    "Se señala el suelo con ambas manos."
+                ],
+                "respuestaCorrecta": "La mano dominante forma el símbolo √ (dedo índice dibuja la marca de verificación invertida hacia arriba) sobre la mano pasiva que muestra el número.",
+                "explicacion": "¡Muy bien! El símbolo √ se traza literalmente en el aire. La LSM incorpora notación matemática visual de forma natural. Para √16 = 4: trazar √ + DIECISÉIS + IGUAL + CUATRO. ✓"
+            }
+        ]
+    },
+    "generado": "2026-03-10T20:05:00.000Z",
+    "version": "3.0"
+}

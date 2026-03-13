@@ -1,0 +1,66 @@
+{
+    "grado": "primaria-5",
+    "materia": "ciencias",
+    "bloque": 7,
+    "nombre": "Mi cuerpo por dentro (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "Sistema digestivo en LSM",
+        "Sistema circulatorio: el corazón",
+        "Sistema nervioso: el cerebro",
+        "Salud y prevención"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "p5-cie-b7-v1-001",
+                "tema": "Sistema digestivo",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo representarías el recorrido del sistema digestivo en LSM?",
+                "opciones": [
+                    "Con una mano siguiendo el camino desde la boca, bajando por el pecho (esófago), pasando por el estómago (círculo en el abdomen) hasta los intestinos (movimiento serpenteante abajo).",
+                    "Haciendo la seña de 'comer' cinco veces seguidas.",
+                    "Señalando cada órgano con el dedo índice sin mover la mano."
+                ],
+                "respuestaCorrecta": "Con una mano siguiendo el camino desde la boca, bajando por el pecho (esófago), pasando por el estómago (círculo en el abdomen) hasta los intestinos (movimiento serpenteante abajo).",
+                "explicacion": "¡Exacto! La LSM usa el propio cuerpo como mapa anatómico. La mano traza la ruta real del alimento: boca → esófago → estómago → intestinos. ¡Tu cuerpo ES el diagrama! 🫁"
+            },
+            {
+                "id": "p5-cie-b7-v1-002",
+                "tema": "Sistema circulatorio",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "La seña de 'CORAZÓN' en LSM se hace con ambas manos formando un corazón (♥) sobre el pecho, y para indicar que 'late', se abren y cierran rítmicamente imitando los latidos.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! La LSM conecta el concepto con la ubicación real y la función. El corazón se ubica en el pecho y su función (latir) se representa con la pulsación rítmica de las manos. 💓"
+            },
+            {
+                "id": "p5-cie-b7-v1-003",
+                "tema": "Sistema nervioso",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para la seña de 'CEREBRO' o 'PENSAR', nos tocamos la ___ con el dedo índice, ya que ahí se ubica el órgano del pensamiento.",
+                "respuestaCorrecta": "sien",
+                "explicacion": "¡Correcto! La sien o la frente son los puntos de contacto para todas las señas relacionadas con el pensamiento, la inteligencia, la memoria y las ideas. El cerebro manda. 🧠"
+            },
+            {
+                "id": "p5-cie-b7-v1-004",
+                "tema": "Salud y prevención",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Cómo se dice 'VACUNA' en Lengua de Señas Mexicana?",
+                "opciones": [
+                    "Se imita la acción de inyectar: el dedo índice de una mano 'pincha' el brazo opuesto (como una jeringa).",
+                    "Se hace una cruz sobre el brazo.",
+                    "Se deletrea V-A-C-U-N-A letra por letra."
+                ],
+                "respuestaCorrecta": "Se imita la acción de inyectar: el dedo índice de una mano 'pincha' el brazo opuesto (como una jeringa).",
+                "explicacion": "¡Exacto! Muchas señas médicas son icónicas: imitan la acción real. VACUNA = inyección en el brazo. PASTILLA = algo pequeño que se lleva a la boca. La LSM refleja la experiencia corporal. 💉"
+            }
+        ]
+    },
+    "generado": "2026-03-10T19:25:00.000Z",
+    "version": "3.0"
+}

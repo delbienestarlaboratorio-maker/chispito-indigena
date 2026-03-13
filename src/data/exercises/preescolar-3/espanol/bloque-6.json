@@ -1,0 +1,61 @@
+{
+    "grado": "preescolar-3",
+    "materia": "espanol",
+    "bloque": 6,
+    "nombre": "Yo hablo sin voz (LSM)",
+    "meses": "Julio",
+    "temas": [
+        "El Abecedario final (K a la Z)",
+        "Formando mis primeras sílabas",
+        "Por favor y Gracias",
+        "Oficios y mi comunidad"
+    ],
+    "totalEjercicios": 10,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "pre3-esp-b6-v1-001",
+                "tema": "El Abecedario final (K a la Z)",
+                "tipo": "multiple_choice",
+                "nivel": "v1",
+                "pregunta": "¿Qué letra en Lengua de Señas es parecida a una pistola pero con el dedo medio bajando hacia el pulgar?",
+                "opciones": [
+                    "La letra K",
+                    "La letra P",
+                    "La letra T"
+                ],
+                "respuestaCorrecta": "La letra K",
+                "explicacion": "¡Es la K! Y si le dieras un ligero movimiento de muñeca hacia arriba parecería que la 'K' está saltando. 🦘"
+            },
+            {
+                "id": "pre3-esp-b6-v1-002",
+                "tema": "Por favor y Gracias",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para decir 'POR FAVOR', juntamos ambas palmas como rezando.",
+                "respuestaCorrecta": "false",
+                "explicacion": "¡Falso! En LSM, 'Por Favor' se dice poniendo la mano plana sobre el pecho y dando vueltas en círculo. 🙏"
+            },
+            {
+                "id": "pre3-esp-b6-v1-003",
+                "tema": "Formando mis primeras sílabas",
+                "tipo": "fill_blank",
+                "nivel": "v1",
+                "pregunta": "Para deletrear la sílaba 'MA', primero hago puño con el pulgar entre tres dedos (M) y luego empuño normal con el pulgar a un ___ (A).",
+                "respuestaCorrecta": "lado",
+                "explicacion": "¡Sí! Vas hilando una letra tras otra suavemente para formar palabras enteras. Tu pulgar se desliza de estar entre los dedos a quedarse a un lado del puño. 📖"
+            },
+            {
+                "id": "pre3-esp-b6-v1-004",
+                "tema": "Por favor y Gracias",
+                "tipo": "true_false",
+                "nivel": "v1",
+                "pregunta": "Para dar las 'GRACIAS', tocamos con la punta de nuestros dedos el labio inferior y luego abrimos la mano hacia adelante.",
+                "respuestaCorrecta": "true",
+                "explicacion": "¡Verdadero! Toca gentilmente tu labio inferior (o barbilla) y extiende la mano hacia la persona agradeciendo. ✨"
+            }
+        ]
+    },
+    "generado": "2026-03-09T04:00:00.000Z",
+    "version": "3.0"
+}
