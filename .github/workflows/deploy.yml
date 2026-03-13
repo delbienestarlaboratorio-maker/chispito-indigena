@@ -44,7 +44,24 @@ jobs:
           git checkout HEAD -- open-next.config.ts || true
           git checkout HEAD -- package.json || true
           git checkout HEAD -- package-lock.json || true
-          # Remove upstream-only workflow files that we don't need
+          # Remove upstream-only routes that conflict with our [lang] routing
+          git rm -rf src/app/layout.tsx || true
+          git rm -rf src/app/page.tsx || true
+          git rm -rf src/app/login || true
+          git rm -rf src/app/auth || true
+          git rm -rf src/app/mi-cuenta || true
+          git rm -rf src/app/blog || true
+          git rm -rf src/app/maestros || true
+          git rm -rf src/app/buscar-pagina || true
+          git rm -rf src/app/pipi-story || true
+          git rm -rf src/app/mantenimiento || true
+          git rm -rf src/app/opengraph-image.tsx || true
+          git rm -rf src/app/sitemap.ts || true
+          git rm -rf src/app/robots.ts || true
+          git rm -rf src/app/globals.css || true
+          git rm -rf src/app/icon.svg || true
+          git rm -rf src/app/[grado] || true
+          # Remove upstream-only workflow files
           git rm -f .github/workflows/sync-downstream.yml || true
           # Restore our deploy workflow exactly as-is
           git checkout HEAD -- .github/workflows/deploy.yml || true
