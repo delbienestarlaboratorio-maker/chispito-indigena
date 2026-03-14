@@ -1,6 +1,6 @@
 // Currículo SEP México - Plan 2022 (Nueva Escuela Mexicana)
 // Fuente: CONALITEG / conaliteg.gob.mx
-import { BLOQUES_TELESECUNDARIA } from './content-telesecundaria';
+// Fuente: CONALITEG / conaliteg.gob.mx
 
 export type Materia = {
     id: string;
@@ -374,8 +374,6 @@ export const BLOQUES: Record<string, Record<string, Bloque[]>> = {
             },
         ],
     },
-    // Telesecundaria bloques (imported from content-telesecundaria.ts)
-    ...BLOQUES_TELESECUNDARIA,
 };
 
 export type EjercicioTipo = "multiple_choice" | "fill_blank" | "true_false" | "match" | "order" | "visual_count";
