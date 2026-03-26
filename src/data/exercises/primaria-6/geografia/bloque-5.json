@@ -8,334 +8,184 @@
     "Megaciudades",
     "Zonas rurales en crisis"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 14,
   "ejercicios": {
     "v1": [
       {
         "id": "primaria-6-geografia-b5-001",
         "tema": "Megaciudades",
         "tipo": "multiple_choice",
-        "pregunta": "¿Qué estudia \"Megaciudades\" en geografía?",
-        "opciones": [
-          "La distribución en el espacio",
-          "La historia antigua",
-          "Las ciencias exactas",
-          "La literatura"
-        ],
-        "explicacion": "La geografía estudia cómo se distribuyen Megaciudades en el espacio terrestre.",
         "nivel": "v1",
-        "respuestaCorrecta": "La distribución en el espacio"
+        "pregunta": "¿Cuántos continentes tiene el planeta Tierra?",
+        "respuestaCorrecta": "7",
+        "explicacion": "Los 7 continentes son: África, América del Norte, América del Sur, Antártida, Asia, Europa y Oceanía.",
+        "opciones": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ]
       },
       {
         "id": "primaria-6-geografia-b5-002",
         "tema": "Megaciudades",
-        "tipo": "fill_blank",
-        "pregunta": "Los mapas nos ayudan a ubicar ___",
-        "explicacion": "Los mapas son herramientas clave de la geografía para representar el espacio.",
+        "tipo": "true_false",
         "nivel": "v1",
-        "respuestaCorrecta": "lugares y fenómenos"
+        "pregunta": "México está ubicado en América del Norte",
+        "respuestaCorrecta": "true",
+        "explicacion": "México forma parte de América del Norte, junto con Estados Unidos y Canadá."
       },
       {
         "id": "primaria-6-geografia-b5-003",
         "tema": "Megaciudades",
-        "tipo": "true_false",
-        "pregunta": "La geografía estudia tanto el espacio físico como el humano",
-        "explicacion": "Geografía física: relieve, clima, etc. Geografía humana: población, economía, etc.",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "respuestaCorrecta": "true"
-      },
-      {
-        "id": "primaria-6-geografia-b5-extra-007",
-        "tema": "Megaciudades",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el río más largo del mundo?",
-        "opciones": [
-          "Mississipi",
-          "Nilo",
-          "Amazonas",
-          "Yangtsé"
-        ],
+        "pregunta": "El río más largo del mundo es el ___",
         "respuestaCorrecta": "Nilo",
-        "explicacion": "El Nilo (6,650 km) compite con el Amazonas por ser el más largo. El Nilo está en África."
+        "explicacion": "El río Nilo, en África, tiene una longitud de aproximadamente 6,650 km."
       },
       {
-        "id": "primaria-6-geografia-b5-extra-009",
+        "id": "primaria-6-geografia-b5-004",
+        "tema": "Megaciudades",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un mapa?",
+        "respuestaCorrecta": "Una representación gráfica de un territorio",
+        "explicacion": "Un mapa es una representación plana y reducida de un territorio o del mundo.",
+        "opciones": [
+          "Una fotografía del espacio",
+          "Una representación gráfica de un territorio",
+          "Un tipo de lupa",
+          "Un libro de historia"
+        ]
+      },
+      {
+        "id": "primaria-6-geografia-b5-005",
+        "tema": "Megaciudades",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "respuestaCorrecta": "Pacífico",
+        "explicacion": "El océano Pacífico es el más grande, cubre más de 165 millones de km².",
+        "opciones": [
+          "Atlántico",
+          "Índico",
+          "Ártico",
+          "Pacífico"
+        ]
+      },
+      {
+        "id": "primaria-6-geografia-b5-006",
         "tema": "Megaciudades",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Brasil es el país más grande de América del Sur",
+        "pregunta": "El Sahara es el desierto más grande del mundo",
         "respuestaCorrecta": "true",
-        "explicacion": "Brasil ocupa el 47% del territorio de América del Sur."
+        "explicacion": "El desierto del Sahara, en África, es el desierto cálido más grande con aproximadamente 9 millones de km²."
       },
       {
-        "id": "primaria-6-geografia-b5-extra-011",
+        "id": "primaria-6-geografia-b5-007",
         "tema": "Megaciudades",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La capital de Francia es ___",
-        "respuestaCorrecta": "París",
-        "explicacion": "París es la capital y ciudad más grande de Francia, conocida por la Torre Eiffel."
+        "pregunta": "La rosa de los vientos indica los puntos cardinales: Norte, Sur, Este y ___",
+        "respuestaCorrecta": "Oeste",
+        "explicacion": "Los cuatro puntos cardinales son Norte, Sur, Este y Oeste. La rosa de los vientos los señala."
       },
       {
-        "id": "primaria-6-geografia-b5-x-013",
+        "id": "primaria-6-geografia-b5-008",
         "tema": "Megaciudades",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "pregunta": "¿Cuál es la capital de México?",
+        "respuestaCorrecta": "Ciudad de México",
+        "explicacion": "La Ciudad de México (CDMX) es la capital y ciudad más grande del país.",
         "opciones": [
-          "China",
-          "EUA",
-          "Rusia",
-          "Canadá"
-        ],
-        "respuestaCorrecta": "Rusia",
-        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-014",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-015",
-        "tema": "Megaciudades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "México limita al sur con ___ y ___",
-        "respuestaCorrecta": "Guatemala y Belice",
-        "explicacion": "Al sur de México están Guatemala y Belice, en América Central."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-016",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
-        "respuestaCorrecta": "Estados Unidos",
-        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-017",
-        "tema": "Megaciudades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La capital de Japón es ___",
-        "respuestaCorrecta": "Tokio",
-        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-018",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el desierto más grande del mundo?",
-        "opciones": [
-          "Sahara",
-          "Atacama",
-          "Gobi",
-          "Antartico"
-        ],
-        "respuestaCorrecta": "Antartico",
-        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-019",
-        "tema": "Megaciudades",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué continente está Brasil?",
-        "opciones": [
-          "Norteamérica",
-          "Europa",
-          "África",
-          "Sudamérica"
-        ],
-        "respuestaCorrecta": "Sudamérica",
-        "explicacion": "Brasil es el país más grande de América del Sur."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-020",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el país más grande del mundo?",
-        "opciones": [
-          "China",
-          "EUA",
-          "Rusia",
-          "Canadá"
-        ],
-        "respuestaCorrecta": "Rusia",
-        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+          "Guadalajara",
+          "Monterrey",
+          "Ciudad de México",
+          "Puebla"
+        ]
       }
     ],
     "v2": [
       {
-        "id": "primaria-6-geografia-b5-004",
+        "id": "primaria-6-geografia-b5-v2-001",
         "tema": "Zonas rurales en crisis",
         "tipo": "multiple_choice",
-        "pregunta": "¿Qué estudia \"Megaciudades\" en geografía?",
+        "nivel": "v2",
+        "pregunta": "¿Qué son las coordenadas geográficas?",
+        "respuestaCorrecta": "El sistema de latitud y longitud para ubicar puntos en la Tierra",
+        "explicacion": "Las coordenadas geográficas (latitud y longitud) permiten ubicar con precisión cualquier punto del planeta.",
         "opciones": [
-          "La distribución en el espacio",
-          "La historia antigua",
-          "Las ciencias exactas",
-          "La literatura"
-        ],
-        "explicacion": "La geografía estudia cómo se distribuyen Megaciudades en el espacio terrestre.",
-        "nivel": "v2",
-        "respuestaCorrecta": "La distribución en el espacio"
+          "Un tipo de mapa especial",
+          "El sistema de latitud y longitud para ubicar puntos en la Tierra",
+          "El nombre de los continentes",
+          "Las fronteras entre países"
+        ]
       },
       {
-        "id": "primaria-6-geografia-b5-005",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "fill_blank",
-        "pregunta": "Los mapas nos ayudan a ubicar ___",
-        "explicacion": "Los mapas son herramientas clave de la geografía para representar el espacio.",
-        "nivel": "v2",
-        "respuestaCorrecta": "lugares y fenómenos"
-      },
-      {
-        "id": "primaria-6-geografia-b5-006",
+        "id": "primaria-6-geografia-b5-v2-002",
         "tema": "Zonas rurales en crisis",
         "tipo": "true_false",
-        "pregunta": "La geografía estudia tanto el espacio físico como el humano",
-        "explicacion": "Geografía física: relieve, clima, etc. Geografía humana: población, economía, etc.",
         "nivel": "v2",
-        "respuestaCorrecta": "true"
+        "pregunta": "El ecuador divide a la Tierra en hemisferio norte y hemisferio sur",
+        "respuestaCorrecta": "true",
+        "explicacion": "El ecuador es la línea imaginaria que divide la Tierra en dos mitades iguales: norte y sur."
       },
       {
-        "id": "primaria-6-geografia-b5-extra-008",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El estado más grande de México es ___",
-        "respuestaCorrecta": "Chihuahua",
-        "explicacion": "Chihuahua es el estado más grande de México con 247,455 km²."
-      },
-      {
-        "id": "primaria-6-geografia-b5-extra-010",
+        "id": "primaria-6-geografia-b5-v2-003",
         "tema": "Zonas rurales en crisis",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿En qué continente está Egipto?",
-        "opciones": [
-          "Asia",
-          "Europa",
-          "África",
-          "América"
-        ],
-        "respuestaCorrecta": "África",
-        "explicacion": "Egipto está en el noreste de África, aunque el Canal de Suez lo conecta con Asia."
-      },
-      {
-        "id": "primaria-6-geografia-b5-extra-012",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos estados tiene México?",
-        "opciones": [
-          "28",
-          "29",
-          "31",
-          "33"
-        ],
-        "respuestaCorrecta": "31",
-        "explicacion": "México tiene 31 estados y 1 entidad (Ciudad de México), total 32 entidades federativas."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-013",
-        "tema": "Megaciudades",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La capital de Japón es ___",
-        "respuestaCorrecta": "Tokio",
-        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-014",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el desierto más grande del mundo?",
-        "opciones": [
-          "Sahara",
-          "Atacama",
-          "Gobi",
-          "Antartico"
-        ],
-        "respuestaCorrecta": "Antartico",
-        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-015",
-        "tema": "Megaciudades",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿En qué continente está Brasil?",
-        "opciones": [
-          "Norteamérica",
-          "Europa",
-          "África",
-          "Sudamérica"
-        ],
-        "respuestaCorrecta": "Sudamérica",
-        "explicacion": "Brasil es el país más grande de América del Sur."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-016",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene una superficie de 17.1 millones de km², el mayor de cualquier país.",
         "opciones": [
           "China",
-          "EUA",
-          "Rusia",
-          "Canadá"
-        ],
-        "respuestaCorrecta": "Rusia",
-        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+          "Estados Unidos",
+          "Canadá",
+          "Rusia"
+        ]
       },
       {
-        "id": "primaria-6-geografia-b5-x-017",
-        "tema": "Megaciudades",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-018",
+        "id": "primaria-6-geografia-b5-v2-004",
         "tema": "Zonas rurales en crisis",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "México limita al sur con ___ y ___",
-        "respuestaCorrecta": "Guatemala y Belice",
-        "explicacion": "Al sur de México están Guatemala y Belice, en América Central."
+        "pregunta": "El fenómeno por el que el sol sale por el este y se oculta por el oeste se llama ___ de la Tierra",
+        "respuestaCorrecta": "rotación",
+        "explicacion": "La rotación terrestre sobre su eje da lugar al ciclo día/noche y al movimiento aparente del Sol."
       },
       {
-        "id": "primaria-6-geografia-b5-x-019",
-        "tema": "Megaciudades",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
-        "respuestaCorrecta": "Estados Unidos",
-        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México."
-      },
-      {
-        "id": "primaria-6-geografia-b5-x-020",
+        "id": "primaria-6-geografia-b5-v2-005",
         "tema": "Zonas rurales en crisis",
-        "tipo": "fill_blank",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "La capital de Japón es ___",
-        "respuestaCorrecta": "Tokio",
-        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
+        "pregunta": "¿Qué tipo de clima tienen los polos terrestres?",
+        "respuestaCorrecta": "Polar o glacial",
+        "explicacion": "Los polos tienen clima polar: temperaturas extremadamente bajas y presencia permanente de hielo.",
+        "opciones": [
+          "Tropical",
+          "Desértico",
+          "Polar o glacial",
+          "Mediterráneo"
+        ]
+      },
+      {
+        "id": "primaria-6-geografia-b5-v2-006",
+        "tema": "Zonas rurales en crisis",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estas es una característica de la zona intertropical?",
+        "respuestaCorrecta": "Alta biodiversidad y lluvias abundantes",
+        "explicacion": "La zona intertropical (entre los trópicos de Cáncer y Capricornio) tiene climas cálidos con mucha lluvia y biodiversidad.",
+        "opciones": [
+          "Temperaturas muy bajas",
+          "Alta biodiversidad y lluvias abundantes",
+          "Desiertos fríos",
+          "Escasa vegetación"
+        ]
       }
     ],
     "preview": [
@@ -343,43 +193,43 @@
         "id": "primaria-6-geografia-b5-001",
         "tema": "Megaciudades",
         "tipo": "multiple_choice",
-        "pregunta": "¿Qué estudia \"Megaciudades\" en geografía?",
-        "opciones": [
-          "La distribución en el espacio",
-          "La historia antigua",
-          "Las ciencias exactas",
-          "La literatura"
-        ],
-        "explicacion": "La geografía estudia cómo se distribuyen Megaciudades en el espacio terrestre.",
         "nivel": "v1",
-        "respuestaCorrecta": "La distribución en el espacio"
+        "pregunta": "¿Cuántos continentes tiene el planeta Tierra?",
+        "respuestaCorrecta": "7",
+        "explicacion": "Los 7 continentes son: África, América del Norte, América del Sur, Antártida, Asia, Europa y Oceanía.",
+        "opciones": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "primaria-6-geografia-b5-v2-001",
+        "tema": "Zonas rurales en crisis",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son las coordenadas geográficas?",
+        "respuestaCorrecta": "El sistema de latitud y longitud para ubicar puntos en la Tierra",
+        "explicacion": "Las coordenadas geográficas (latitud y longitud) permiten ubicar con precisión cualquier punto del planeta.",
+        "opciones": [
+          "Un tipo de mapa especial",
+          "El sistema de latitud y longitud para ubicar puntos en la Tierra",
+          "El nombre de los continentes",
+          "Las fronteras entre países"
+        ]
       },
       {
         "id": "primaria-6-geografia-b5-002",
         "tema": "Megaciudades",
-        "tipo": "fill_blank",
-        "pregunta": "Los mapas nos ayudan a ubicar ___",
-        "explicacion": "Los mapas son herramientas clave de la geografía para representar el espacio.",
+        "tipo": "true_false",
         "nivel": "v1",
-        "respuestaCorrecta": "lugares y fenómenos"
-      },
-      {
-        "id": "primaria-6-geografia-b5-004",
-        "tema": "Zonas rurales en crisis",
-        "tipo": "multiple_choice",
-        "pregunta": "¿Qué estudia \"Megaciudades\" en geografía?",
-        "opciones": [
-          "La distribución en el espacio",
-          "La historia antigua",
-          "Las ciencias exactas",
-          "La literatura"
-        ],
-        "explicacion": "La geografía estudia cómo se distribuyen Megaciudades en el espacio terrestre.",
-        "nivel": "v2",
-        "respuestaCorrecta": "La distribución en el espacio"
+        "pregunta": "México está ubicado en América del Norte",
+        "respuestaCorrecta": "true",
+        "explicacion": "México forma parte de América del Norte, junto con Estados Unidos y Canadá."
       }
     ]
   },
-  "generado": "2026-02-27T16:06:30.487Z",
+  "generado": "2026-03-26T02:58:37.727Z",
   "version": "2.0"
 }

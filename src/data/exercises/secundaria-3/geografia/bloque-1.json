@@ -8,7 +8,7 @@
     "Conflictos geopolíticos",
     "Zonas de conflicto"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 14,
   "ejercicios": {
     "v1": [
       {
@@ -16,326 +16,176 @@
         "tema": "Conflictos geopolíticos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Conflictos geopolíticos\"?",
+        "pregunta": "¿Cuántos continentes tiene el planeta Tierra?",
+        "respuestaCorrecta": "7",
+        "explicacion": "Los 7 continentes son: África, América del Norte, América del Sur, Antártida, Asia, Europa y Oceanía.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Conflictos geopolíticos es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "4",
+          "5",
+          "6",
+          "7"
+        ]
       },
       {
         "id": "secundaria-3-geografia-b1-002",
         "tema": "Conflictos geopolíticos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Conflictos geopolíticos es parte del currículo oficial de la SEP",
+        "pregunta": "México está ubicado en América del Norte",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "México forma parte de América del Norte, junto con Estados Unidos y Canadá."
       },
       {
         "id": "secundaria-3-geografia-b1-003",
         "tema": "Conflictos geopolíticos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En Conflictos geopolíticos, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-extra-007",
-        "tema": "Conflictos geopolíticos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el río más largo del mundo?",
-        "opciones": [
-          "Mississipi",
-          "Nilo",
-          "Amazonas",
-          "Yangtsé"
-        ],
+        "pregunta": "El río más largo del mundo es el ___",
         "respuestaCorrecta": "Nilo",
-        "explicacion": "El Nilo (6,650 km) compite con el Amazonas por ser el más largo. El Nilo está en África."
+        "explicacion": "El río Nilo, en África, tiene una longitud de aproximadamente 6,650 km."
       },
       {
-        "id": "secundaria-3-geografia-b1-extra-009",
+        "id": "secundaria-3-geografia-b1-004",
+        "tema": "Conflictos geopolíticos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un mapa?",
+        "respuestaCorrecta": "Una representación gráfica de un territorio",
+        "explicacion": "Un mapa es una representación plana y reducida de un territorio o del mundo.",
+        "opciones": [
+          "Una fotografía del espacio",
+          "Una representación gráfica de un territorio",
+          "Un tipo de lupa",
+          "Un libro de historia"
+        ]
+      },
+      {
+        "id": "secundaria-3-geografia-b1-005",
+        "tema": "Conflictos geopolíticos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "respuestaCorrecta": "Pacífico",
+        "explicacion": "El océano Pacífico es el más grande, cubre más de 165 millones de km².",
+        "opciones": [
+          "Atlántico",
+          "Índico",
+          "Ártico",
+          "Pacífico"
+        ]
+      },
+      {
+        "id": "secundaria-3-geografia-b1-006",
         "tema": "Conflictos geopolíticos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Brasil es el país más grande de América del Sur",
+        "pregunta": "El Sahara es el desierto más grande del mundo",
         "respuestaCorrecta": "true",
-        "explicacion": "Brasil ocupa el 47% del territorio de América del Sur."
+        "explicacion": "El desierto del Sahara, en África, es el desierto cálido más grande con aproximadamente 9 millones de km²."
       },
       {
-        "id": "secundaria-3-geografia-b1-extra-011",
+        "id": "secundaria-3-geografia-b1-007",
         "tema": "Conflictos geopolíticos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La capital de Francia es ___",
-        "respuestaCorrecta": "París",
-        "explicacion": "París es la capital y ciudad más grande de Francia, conocida por la Torre Eiffel."
+        "pregunta": "La rosa de los vientos indica los puntos cardinales: Norte, Sur, Este y ___",
+        "respuestaCorrecta": "Oeste",
+        "explicacion": "Los cuatro puntos cardinales son Norte, Sur, Este y Oeste. La rosa de los vientos los señala."
       },
       {
-        "id": "secundaria-3-geografia-b1-x-013",
+        "id": "secundaria-3-geografia-b1-008",
         "tema": "Conflictos geopolíticos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "pregunta": "¿Cuál es la capital de México?",
+        "respuestaCorrecta": "Ciudad de México",
+        "explicacion": "La Ciudad de México (CDMX) es la capital y ciudad más grande del país.",
         "opciones": [
-          "China",
-          "EUA",
-          "Rusia",
-          "Canadá"
-        ],
-        "respuestaCorrecta": "Rusia",
-        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-014",
-        "tema": "Zonas de conflicto",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-015",
-        "tema": "Conflictos geopolíticos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "México limita al sur con ___ y ___",
-        "respuestaCorrecta": "Guatemala y Belice",
-        "explicacion": "Al sur de México están Guatemala y Belice, en América Central."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-016",
-        "tema": "Zonas de conflicto",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
-        "respuestaCorrecta": "Estados Unidos",
-        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-017",
-        "tema": "Conflictos geopolíticos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La capital de Japón es ___",
-        "respuestaCorrecta": "Tokio",
-        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-018",
-        "tema": "Zonas de conflicto",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el desierto más grande del mundo?",
-        "opciones": [
-          "Sahara",
-          "Atacama",
-          "Gobi",
-          "Antartico"
-        ],
-        "respuestaCorrecta": "Antartico",
-        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-019",
-        "tema": "Conflictos geopolíticos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué continente está Brasil?",
-        "opciones": [
-          "Norteamérica",
-          "Europa",
-          "África",
-          "Sudamérica"
-        ],
-        "respuestaCorrecta": "Sudamérica",
-        "explicacion": "Brasil es el país más grande de América del Sur."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-020",
-        "tema": "Zonas de conflicto",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el país más grande del mundo?",
-        "opciones": [
-          "China",
-          "EUA",
-          "Rusia",
-          "Canadá"
-        ],
-        "respuestaCorrecta": "Rusia",
-        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+          "Guadalajara",
+          "Monterrey",
+          "Ciudad de México",
+          "Puebla"
+        ]
       }
     ],
     "v2": [
       {
-        "id": "secundaria-3-geografia-b1-004",
+        "id": "secundaria-3-geografia-b1-v2-001",
         "tema": "Zonas de conflicto",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Zonas de conflicto\"?",
+        "pregunta": "¿Qué son las coordenadas geográficas?",
+        "respuestaCorrecta": "El sistema de latitud y longitud para ubicar puntos en la Tierra",
+        "explicacion": "Las coordenadas geográficas (latitud y longitud) permiten ubicar con precisión cualquier punto del planeta.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Zonas de conflicto es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "Un tipo de mapa especial",
+          "El sistema de latitud y longitud para ubicar puntos en la Tierra",
+          "El nombre de los continentes",
+          "Las fronteras entre países"
+        ]
       },
       {
-        "id": "secundaria-3-geografia-b1-005",
+        "id": "secundaria-3-geografia-b1-v2-002",
         "tema": "Zonas de conflicto",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Zonas de conflicto es parte del currículo oficial de la SEP",
+        "pregunta": "El ecuador divide a la Tierra en hemisferio norte y hemisferio sur",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "El ecuador es la línea imaginaria que divide la Tierra en dos mitades iguales: norte y sur."
       },
       {
-        "id": "secundaria-3-geografia-b1-006",
-        "tema": "Zonas de conflicto",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En Zonas de conflicto, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-extra-008",
-        "tema": "Zonas de conflicto",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El estado más grande de México es ___",
-        "respuestaCorrecta": "Chihuahua",
-        "explicacion": "Chihuahua es el estado más grande de México con 247,455 km²."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-extra-010",
+        "id": "secundaria-3-geografia-b1-v2-003",
         "tema": "Zonas de conflicto",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿En qué continente está Egipto?",
-        "opciones": [
-          "Asia",
-          "Europa",
-          "África",
-          "América"
-        ],
-        "respuestaCorrecta": "África",
-        "explicacion": "Egipto está en el noreste de África, aunque el Canal de Suez lo conecta con Asia."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-extra-012",
-        "tema": "Zonas de conflicto",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos estados tiene México?",
-        "opciones": [
-          "28",
-          "29",
-          "31",
-          "33"
-        ],
-        "respuestaCorrecta": "31",
-        "explicacion": "México tiene 31 estados y 1 entidad (Ciudad de México), total 32 entidades federativas."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-013",
-        "tema": "Conflictos geopolíticos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La capital de Japón es ___",
-        "respuestaCorrecta": "Tokio",
-        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-014",
-        "tema": "Zonas de conflicto",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el desierto más grande del mundo?",
-        "opciones": [
-          "Sahara",
-          "Atacama",
-          "Gobi",
-          "Antartico"
-        ],
-        "respuestaCorrecta": "Antartico",
-        "explicacion": "El desierto de la Antártida es el más grande (14.2 millones km²). El Sahara es el más grande caliente."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-015",
-        "tema": "Conflictos geopolíticos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿En qué continente está Brasil?",
-        "opciones": [
-          "Norteamérica",
-          "Europa",
-          "África",
-          "Sudamérica"
-        ],
-        "respuestaCorrecta": "Sudamérica",
-        "explicacion": "Brasil es el país más grande de América del Sur."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-016",
-        "tema": "Zonas de conflicto",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+        "respuestaCorrecta": "Rusia",
+        "explicacion": "Rusia tiene una superficie de 17.1 millones de km², el mayor de cualquier país.",
         "opciones": [
           "China",
-          "EUA",
-          "Rusia",
-          "Canadá"
-        ],
-        "respuestaCorrecta": "Rusia",
-        "explicacion": "Rusia tiene 17.1 millones de km², más de dos veces el territorio de EUA."
+          "Estados Unidos",
+          "Canadá",
+          "Rusia"
+        ]
       },
       {
-        "id": "secundaria-3-geografia-b1-x-017",
-        "tema": "Conflictos geopolíticos",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El Ecuador divide la Tierra en hemisferio Norte y Sur",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. El Ecuador (latitud 0°) divide el planeta en mitades."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-018",
+        "id": "secundaria-3-geografia-b1-v2-004",
         "tema": "Zonas de conflicto",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "México limita al sur con ___ y ___",
-        "respuestaCorrecta": "Guatemala y Belice",
-        "explicacion": "Al sur de México están Guatemala y Belice, en América Central."
+        "pregunta": "El fenómeno por el que el sol sale por el este y se oculta por el oeste se llama ___ de la Tierra",
+        "respuestaCorrecta": "rotación",
+        "explicacion": "La rotación terrestre sobre su eje da lugar al ciclo día/noche y al movimiento aparente del Sol."
       },
       {
-        "id": "secundaria-3-geografia-b1-x-019",
-        "tema": "Conflictos geopolíticos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El Río Grande o Bravo es la frontera entre México y ___",
-        "respuestaCorrecta": "Estados Unidos",
-        "explicacion": "El Río Bravo (o Grande en EUA) marca parte de la frontera norte de México."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-x-020",
+        "id": "secundaria-3-geografia-b1-v2-005",
         "tema": "Zonas de conflicto",
-        "tipo": "fill_blank",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "La capital de Japón es ___",
-        "respuestaCorrecta": "Tokio",
-        "explicacion": "Tokio es la capital y mayor área metropolitana de Japón y del mundo."
+        "pregunta": "¿Qué tipo de clima tienen los polos terrestres?",
+        "respuestaCorrecta": "Polar o glacial",
+        "explicacion": "Los polos tienen clima polar: temperaturas extremadamente bajas y presencia permanente de hielo.",
+        "opciones": [
+          "Tropical",
+          "Desértico",
+          "Polar o glacial",
+          "Mediterráneo"
+        ]
+      },
+      {
+        "id": "secundaria-3-geografia-b1-v2-006",
+        "tema": "Zonas de conflicto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estas es una característica de la zona intertropical?",
+        "respuestaCorrecta": "Alta biodiversidad y lluvias abundantes",
+        "explicacion": "La zona intertropical (entre los trópicos de Cáncer y Capricornio) tiene climas cálidos con mucha lluvia y biodiversidad.",
+        "opciones": [
+          "Temperaturas muy bajas",
+          "Alta biodiversidad y lluvias abundantes",
+          "Desiertos fríos",
+          "Escasa vegetación"
+        ]
       }
     ],
     "preview": [
@@ -344,42 +194,42 @@
         "tema": "Conflictos geopolíticos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Conflictos geopolíticos\"?",
+        "pregunta": "¿Cuántos continentes tiene el planeta Tierra?",
+        "respuestaCorrecta": "7",
+        "explicacion": "Los 7 continentes son: África, América del Norte, América del Sur, Antártida, Asia, Europa y Oceanía.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Conflictos geopolíticos es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "4",
+          "5",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "secundaria-3-geografia-b1-v2-001",
+        "tema": "Zonas de conflicto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son las coordenadas geográficas?",
+        "respuestaCorrecta": "El sistema de latitud y longitud para ubicar puntos en la Tierra",
+        "explicacion": "Las coordenadas geográficas (latitud y longitud) permiten ubicar con precisión cualquier punto del planeta.",
+        "opciones": [
+          "Un tipo de mapa especial",
+          "El sistema de latitud y longitud para ubicar puntos en la Tierra",
+          "El nombre de los continentes",
+          "Las fronteras entre países"
+        ]
       },
       {
         "id": "secundaria-3-geografia-b1-002",
         "tema": "Conflictos geopolíticos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Conflictos geopolíticos es parte del currículo oficial de la SEP",
+        "pregunta": "México está ubicado en América del Norte",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
-      },
-      {
-        "id": "secundaria-3-geografia-b1-004",
-        "tema": "Zonas de conflicto",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Zonas de conflicto\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Zonas de conflicto es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "explicacion": "México forma parte de América del Norte, junto con Estados Unidos y Canadá."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:24.100Z",
+  "generado": "2026-03-26T02:58:37.830Z",
   "version": "2.0"
 }

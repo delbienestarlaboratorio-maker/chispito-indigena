@@ -11,432 +11,234 @@
     "La comunidad",
     "Cuidar el planeta"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 14,
   "ejercicios": {
     "v1": [
       {
         "id": "preescolar-2-conocimiento-b2-001",
-        "tema": "El tiempo y clima",
+        "tema": "Los sentidos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
+        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
+        "respuestaCorrecta": "5",
+        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
       },
       {
         "id": "preescolar-2-conocimiento-b2-002",
-        "tema": "Plantas y animales",
-        "tipo": "fill_blank",
+        "tema": "Los sentidos",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
+        "pregunta": "¿Con qué sentido olemos las flores?",
+        "respuestaCorrecta": "Olfato",
+        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
+        "opciones": [
+          "Vista",
+          "Gusto",
+          "Olfato",
+          "Tacto"
+        ]
       },
       {
         "id": "preescolar-2-conocimiento-b2-003",
-        "tema": "La comunidad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los peces viven en el agua",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Los peces son animales acuáticos.",
-        "visual": "🐟",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-006",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
-        "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-007",
-        "tema": "El tiempo y clima",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-008",
-        "tema": "Plantas y animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-009",
-        "tema": "La comunidad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
-        "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-010",
-        "tema": "Cuidar el planeta",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-011",
-        "tema": "Los sentidos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-012",
-        "tema": "El tiempo y clima",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
-        "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-013",
-        "tema": "Plantas y animales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-014",
-        "tema": "La comunidad",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-015",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
-        "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-016",
         "tema": "Los sentidos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
+        "pregunta": "La mamá, el papá y los hijos forman una familia",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
+        "explicacion": "La familia es el grupo de personas con quienes vivimos y compartimos afecto y cuidado."
       },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-017",
-        "tema": "El tiempo y clima",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      }
-    ],
-    "v2": [
       {
         "id": "preescolar-2-conocimiento-b2-004",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
-        "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
-        ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+        "tema": "Los sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Con los ojos podemos ___ todo a nuestro alrededor",
+        "respuestaCorrecta": "ver",
+        "explicacion": "Los ojos son los órganos de la vista; nos permiten ver formas, colores y movimiento."
       },
       {
         "id": "preescolar-2-conocimiento-b2-005",
         "tema": "Los sentidos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol brilla de ___",
-        "respuestaCorrecta": "día",
-        "explicacion": "El sol sale de día y de noche está la luna y las estrellas.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estas son partes del cuerpo?",
+        "respuestaCorrecta": "Brazo, pierna, cabeza",
+        "explicacion": "Las partes del cuerpo humano incluyen cabeza, tronco y extremidades (brazos y piernas).",
+        "opciones": [
+          "Mesa, silla, puerta",
+          "Brazo, pierna, cabeza",
+          "Libro, cuaderno, lápiz",
+          "Casa, árbol, nube"
+        ]
       },
       {
-        "id": "preescolar-2-conocimiento-b2-x-006",
+        "id": "preescolar-2-conocimiento-b2-006",
+        "tema": "Los sentidos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El perro y el gato son animales domésticos",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los animales domésticos son los que viven con las personas en sus casas."
+      },
+      {
+        "id": "preescolar-2-conocimiento-b2-007",
+        "tema": "Los sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué le da energía a las plantas para crecer?",
+        "respuestaCorrecta": "El Sol",
+        "explicacion": "Las plantas necesitan luz solar para realizar la fotosíntesis y producir su alimento.",
+        "opciones": [
+          "La luna",
+          "La lluvia ácida",
+          "El Sol",
+          "El viento"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b2-008",
         "tema": "Los sentidos",
         "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
+        "nivel": "v1",
+        "pregunta": "El agua, el fuego, la tierra y el ___ son elementos de la naturaleza",
+        "respuestaCorrecta": "aire",
+        "explicacion": "El aire es uno de los elementos fundamentales de la naturaleza y lo respiramos para vivir."
+      }
+    ],
+    "v2": [
       {
-        "id": "preescolar-2-conocimiento-b2-x-007",
-        "tema": "El tiempo y clima",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-008",
-        "tema": "Plantas y animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-009",
-        "tema": "La comunidad",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-010",
+        "id": "preescolar-2-conocimiento-b2-v2-001",
         "tema": "Cuidar el planeta",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
+        "respuestaCorrecta": "Tacto",
+        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+          "Vista",
+          "Oído",
+          "Tacto",
+          "Gusto"
+        ]
       },
       {
-        "id": "preescolar-2-conocimiento-b2-x-011",
-        "tema": "Los sentidos",
+        "id": "preescolar-2-conocimiento-b2-v2-002",
+        "tema": "Cuidar el planeta",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
+        "pregunta": "¿Cuáles son los miembros de una familia extendida?",
+        "respuestaCorrecta": "Abuelos, tíos, primos y más parientes",
+        "explicacion": "La familia extendida incluye a todos los parientes: abuelos, tíos, primos, etc.",
         "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
+          "Solo papá y mamá",
+          "Papá, mamá e hijos",
+          "Abuelos, tíos, primos y más parientes",
+          "Solo los vecinos"
+        ]
       },
       {
-        "id": "preescolar-2-conocimiento-b2-x-012",
-        "tema": "El tiempo y clima",
-        "tipo": "fill_blank",
+        "id": "preescolar-2-conocimiento-b2-v2-003",
+        "tema": "Cuidar el planeta",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Los animales salvajes también son importantes para la naturaleza aunque no vivamos con ellos",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los animales salvajes son parte del ecosistema y ayudan a mantener el equilibrio natural."
       },
       {
-        "id": "preescolar-2-conocimiento-b2-x-013",
-        "tema": "Plantas y animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-014",
-        "tema": "La comunidad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-x-015",
+        "id": "preescolar-2-conocimiento-b2-v2-004",
         "tema": "Cuidar el planeta",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Las plantas producen el ___ que respiramos",
+        "respuestaCorrecta": "oxígeno",
+        "explicacion": "Durante la fotosíntesis, las plantas absorben CO₂ y liberan oxígeno, el gas que necesitamos para vivir."
       },
       {
-        "id": "preescolar-2-conocimiento-b2-x-016",
-        "tema": "Los sentidos",
+        "id": "preescolar-2-conocimiento-b2-v2-005",
+        "tema": "Cuidar el planeta",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿Qué necesitamos para mantenernos saludables?",
+        "respuestaCorrecta": "Comer bien, hacer ejercicio y dormir suficiente",
+        "explicacion": "La salud integral requiere buena alimentación, actividad física y descanso adecuado.",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+          "Solo dormir",
+          "Comer comida chatarra",
+          "Comer bien, hacer ejercicio y dormir suficiente",
+          "Solo tomar vitaminas"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b2-v2-006",
+        "tema": "Cuidar el planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿De dónde viene el agua que tomamos?",
+        "respuestaCorrecta": "De ríos, lagos y pozos que se purifica",
+        "explicacion": "El agua que consumimos proviene de fuentes naturales (ríos, acuíferos) y pasa por procesos de purificación.",
+        "opciones": [
+          "Del cielo directamente",
+          "De ríos, lagos y pozos que se purifica",
+          "Solo del mar",
+          "De las nubes sin purificar"
+        ]
       }
     ],
     "preview": [
       {
         "id": "preescolar-2-conocimiento-b2-001",
-        "tema": "El tiempo y clima",
+        "tema": "Los sentidos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido huelo las flores?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El oído"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él olemos las flores.",
-        "visual": "🌸",
-        "visualAnimado": true
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-002",
-        "tema": "Plantas y animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Tenemos ___ sentidos (cinco)",
+        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
         "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos: vista, oído, olfato, gusto y tacto."
+        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
       },
       {
-        "id": "preescolar-2-conocimiento-b2-004",
+        "id": "preescolar-2-conocimiento-b2-v2-001",
         "tema": "Cuidar el planeta",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
+        "respuestaCorrecta": "Tacto",
+        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
         "opciones": [
-          "Solo tierra",
-          "Agua y sol",
-          "Solo agua",
-          "Solo aire"
-        ],
-        "respuestaCorrecta": "Agua y sol",
-        "explicacion": "Las plantas necesitan agua, luz del sol y tierra para crecer."
+          "Vista",
+          "Oído",
+          "Tacto",
+          "Gusto"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b2-002",
+        "tema": "Los sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué sentido olemos las flores?",
+        "respuestaCorrecta": "Olfato",
+        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
+        "opciones": [
+          "Vista",
+          "Gusto",
+          "Olfato",
+          "Tacto"
+        ]
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.133Z",
+  "generado": "2026-03-26T02:58:37.570Z",
   "version": "2.0"
 }

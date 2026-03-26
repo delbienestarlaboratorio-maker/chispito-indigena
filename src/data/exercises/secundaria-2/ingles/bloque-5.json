@@ -10,378 +10,222 @@
     "Internet and social media",
     "Communicating online"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 14,
   "ejercicios": {
     "v1": [
       {
         "id": "secundaria-2-ingles-b5-001",
-        "tema": "Conditionals type 1",
+        "tema": "Technology vocabulary",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "\"Yesterday I ___ to school.\" (Ayer fui a la escuela.)",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
         "opciones": [
-          "go",
-          "goes",
-          "went",
-          "going"
-        ],
-        "respuestaCorrecta": "went",
-        "explicacion": "\"Went\" is the past tense of \"go\". Irregular verb: go → went → gone."
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
       },
       {
         "id": "secundaria-2-ingles-b5-002",
-        "tema": "Internet and social media",
-        "tipo": "fill_blank",
+        "tema": "Technology vocabulary",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "I am ___ to visit Paris next summer. (Voy a visitar París)",
-        "respuestaCorrecta": "going",
-        "explicacion": "\"Going to + verb\" expresses future plans. \"I am going to visit Paris.\""
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
       },
       {
         "id": "secundaria-2-ingles-b5-003",
-        "tema": "Communicating online",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el comparativo de \"big\"?",
-        "opciones": [
-          "more big",
-          "biggest",
-          "bigger",
-          "most big"
-        ],
-        "respuestaCorrecta": "bigger",
-        "explicacion": "For short adjectives: add -er for comparatives. Big → bigger. Ex: \"Mexico is bigger than Canada.\""
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-007",
-        "tema": "Technology vocabulary",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
-        "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-008",
-        "tema": "Conditionals type 1",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién fue el primer Presidente de México?",
-        "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Antonio López de Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-009",
-        "tema": "Internet and social media",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
-        "respuestaCorrecta": "476",
-        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-010",
-        "tema": "Communicating online",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
-        "respuestaCorrecta": "1945",
-        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-011",
         "tema": "Technology vocabulary",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+        "pregunta": "The opposite of \"hot\" is ___",
+        "respuestaCorrecta": "cold",
+        "explicacion": "\"Hot\" and \"cold\" are antonyms (opposite words) used to describe temperature."
       },
       {
-        "id": "secundaria-2-ingles-b5-x-012",
-        "tema": "Conditionals type 1",
+        "id": "secundaria-2-ingles-b5-004",
+        "tema": "Technology vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Which word is an adjective in: \"The red apple is delicious\"?",
+        "respuestaCorrecta": "red",
+        "explicacion": "\"Red\" describes the noun \"apple\", making it an adjective. \"Delicious\" is also an adjective but modifies a predicate.",
+        "opciones": [
+          "apple",
+          "is",
+          "red",
+          "delicious"
+        ]
+      },
+      {
+        "id": "secundaria-2-ingles-b5-005",
+        "tema": "Technology vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "How do you say \"buenos días\" in English?",
+        "respuestaCorrecta": "Good morning",
+        "explicacion": "\"Good morning\" is the greeting used in the morning hours (before noon).",
+        "opciones": [
+          "Good night",
+          "Good evening",
+          "Good afternoon",
+          "Good morning"
+        ]
+      },
+      {
+        "id": "secundaria-2-ingles-b5-006",
+        "tema": "Technology vocabulary",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "pregunta": "In English, nouns are capitalized only at the beginning of a sentence",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+        "explicacion": "Unlike German, English only capitalizes nouns at the start of sentences, names, titles, and proper nouns."
       },
       {
-        "id": "secundaria-2-ingles-b5-x-013",
-        "tema": "Internet and social media",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién fue Simón Bolívar?",
-        "opciones": [
-          "Rey de España",
-          "Libertador de América del Sur",
-          "Presidente de México",
-          "Conquistador español"
-        ],
-        "respuestaCorrecta": "Libertador de América del Sur",
-        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-014",
-        "tema": "Communicating online",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
-        "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-015",
+        "id": "secundaria-2-ingles-b5-007",
         "tema": "Technology vocabulary",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién fue el primer Presidente de México?",
-        "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Antonio López de Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-016",
-        "tema": "Conditionals type 1",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
-        "respuestaCorrecta": "476",
-        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-017",
-        "tema": "Internet and social media",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
-        "respuestaCorrecta": "1945",
-        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
+        "pregunta": "I ___ reading a book right now. (present progressive)",
+        "respuestaCorrecta": "am",
+        "explicacion": "Present progressive: subject + am/is/are + verb-ing. \"I am reading\" = action happening now."
       }
     ],
     "v2": [
       {
-        "id": "secundaria-2-ingles-b5-004",
-        "tema": "Technology vocabulary",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Will\" se usa para hacer predicciones en inglés",
-        "respuestaCorrecta": "true",
-        "explicacion": "Yes! \"Will\" expresses predictions and spontaneous decisions. \"It will rain tomorrow.\""
-      },
-      {
-        "id": "secundaria-2-ingles-b5-005",
-        "tema": "Conditionals type 1",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Mexico ___ bigger than Guatemala. (México ES más grande)",
-        "respuestaCorrecta": "is",
-        "explicacion": "We use \"is\" for third person singular in present tense. Mexico + is (= es)."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-006",
-        "tema": "Internet and social media",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"You should recycle\" significa...",
-        "opciones": [
-          "Reciclas",
-          "Deberías reciclar",
-          "Reciclé",
-          "Reciclando"
-        ],
-        "respuestaCorrecta": "Deberías reciclar",
-        "explicacion": "\"Should\" expresses advice/obligation: \"You should...\" = Deberías..."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-007",
-        "tema": "Technology vocabulary",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-008",
-        "tema": "Conditionals type 1",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-009",
-        "tema": "Internet and social media",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién fue Simón Bolívar?",
-        "opciones": [
-          "Rey de España",
-          "Libertador de América del Sur",
-          "Presidente de México",
-          "Conquistador español"
-        ],
-        "respuestaCorrecta": "Libertador de América del Sur",
-        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-010",
+        "id": "secundaria-2-ingles-b5-v2-001",
         "tema": "Communicating online",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "pregunta": "Which sentence uses the past perfect correctly?",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
         "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
       },
       {
-        "id": "secundaria-2-ingles-b5-x-011",
-        "tema": "Technology vocabulary",
+        "id": "secundaria-2-ingles-b5-v2-002",
+        "tema": "Communicating online",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "A clause with \"although\" always introduces a contrast or concession",
+        "respuestaCorrecta": "true",
+        "explicacion": "\"Although\" introduces a subordinate clause that presents a contrast: \"Although it was raining, we went out.\""
+      },
+      {
+        "id": "secundaria-2-ingles-b5-v2-003",
+        "tema": "Communicating online",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "pregunta": "What is the function of a relative clause introduced by \"who\"?",
+        "respuestaCorrecta": "Modify a person noun",
+        "explicacion": "\"Who\" introduces relative clauses that provide more information about a person: \"The man who called is my uncle.\"",
         "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Antonio López de Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+          "Describe a time",
+          "Modify a person noun",
+          "Express a condition",
+          "Show a result"
+        ]
       },
       {
-        "id": "secundaria-2-ingles-b5-x-012",
-        "tema": "Conditionals type 1",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
-        "respuestaCorrecta": "476",
-        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-013",
-        "tema": "Internet and social media",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
-        "respuestaCorrecta": "1945",
-        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-014",
+        "id": "secundaria-2-ingles-b5-v2-004",
         "tema": "Communicating online",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+        "pregunta": "If I ___ (study) harder, I would pass the exam. (second conditional)",
+        "respuestaCorrecta": "studied",
+        "explicacion": "Second conditional: If + simple past, would + base verb. Expresses hypothetical/unlikely situations."
       },
       {
-        "id": "secundaria-2-ingles-b5-x-015",
-        "tema": "Technology vocabulary",
+        "id": "secundaria-2-ingles-b5-v2-005",
+        "tema": "Communicating online",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which word best replaces \"big\" in a formal academic text?",
+        "respuestaCorrecta": "Substantial",
+        "explicacion": "\"Substantial\" is the most appropriate formal synonym for \"large/big\" in academic writing.",
+        "opciones": [
+          "Huge",
+          "Enormous",
+          "Substantial",
+          "Giant"
+        ]
+      },
+      {
+        "id": "secundaria-2-ingles-b5-v2-006",
+        "tema": "Communicating online",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "pregunta": "The passive voice is formed with the verb \"to be\" + past participle",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+        "explicacion": "Passive voice: subject + to be (conjugated) + past participle. E.g., \"The book was written by Cervantes.\""
       },
       {
-        "id": "secundaria-2-ingles-b5-x-016",
-        "tema": "Conditionals type 1",
+        "id": "secundaria-2-ingles-b5-v2-007",
+        "tema": "Communicating online",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién fue Simón Bolívar?",
+        "pregunta": "What does the prefix \"un-\" mean in \"unhappy\" or \"unusual\"?",
+        "respuestaCorrecta": "Not or opposite",
+        "explicacion": "The prefix \"un-\" negates or reverses the meaning: unhappy = not happy, unusual = not usual.",
         "opciones": [
-          "Rey de España",
-          "Libertador de América del Sur",
-          "Presidente de México",
-          "Conquistador español"
-        ],
-        "respuestaCorrecta": "Libertador de América del Sur",
-        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
-      },
-      {
-        "id": "secundaria-2-ingles-b5-x-017",
-        "tema": "Internet and social media",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
-        "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+          "Again",
+          "More than",
+          "Not or opposite",
+          "Before"
+        ]
       }
     ],
     "preview": [
       {
         "id": "secundaria-2-ingles-b5-001",
-        "tema": "Conditionals type 1",
+        "tema": "Technology vocabulary",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "\"Yesterday I ___ to school.\" (Ayer fui a la escuela.)",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
         "opciones": [
-          "go",
-          "goes",
-          "went",
-          "going"
-        ],
-        "respuestaCorrecta": "went",
-        "explicacion": "\"Went\" is the past tense of \"go\". Irregular verb: go → went → gone."
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
+      },
+      {
+        "id": "secundaria-2-ingles-b5-v2-001",
+        "tema": "Communicating online",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which sentence uses the past perfect correctly?",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
+        "opciones": [
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
       },
       {
         "id": "secundaria-2-ingles-b5-002",
-        "tema": "Internet and social media",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "I am ___ to visit Paris next summer. (Voy a visitar París)",
-        "respuestaCorrecta": "going",
-        "explicacion": "\"Going to + verb\" expresses future plans. \"I am going to visit Paris.\""
-      },
-      {
-        "id": "secundaria-2-ingles-b5-004",
         "tema": "Technology vocabulary",
         "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Will\" se usa para hacer predicciones en inglés",
-        "respuestaCorrecta": "true",
-        "explicacion": "Yes! \"Will\" expresses predictions and spontaneous decisions. \"It will rain tomorrow.\""
+        "nivel": "v1",
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.156Z",
+  "generado": "2026-03-26T02:58:37.804Z",
   "version": "2.0"
 }

@@ -10,7 +10,7 @@
     "School subjects and activities",
     "Telling time"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 14,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,170 @@
         "tema": "Daily routines",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Daily routines\", ¿qué es lo más importante?",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
         "opciones": [
-          "Es un concepto fundamental de Daily",
-          "Se relaciona con el estudio de Daily routines",
-          "Es un proceso que involucra Daily",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Daily routines",
-        "explicacion": "💡 Neptuno te ayuda: Daily routines es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
       },
       {
         "id": "telesecundaria-1-ingles-b2-002",
         "tema": "Daily routines",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Daily routines\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Daily routines\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
       },
       {
         "id": "telesecundaria-1-ingles-b2-003",
         "tema": "Daily routines",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Daily ___",
-        "respuestaCorrecta": "routines",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Daily routines\" según el programa de estudios."
+        "pregunta": "The opposite of \"hot\" is ___",
+        "respuestaCorrecta": "cold",
+        "explicacion": "\"Hot\" and \"cold\" are antonyms (opposite words) used to describe temperature."
       },
       {
         "id": "telesecundaria-1-ingles-b2-004",
         "tema": "Daily routines",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Daily routines\" en Telesecundaria?",
+        "pregunta": "Which word is an adjective in: \"The red apple is delicious\"?",
+        "respuestaCorrecta": "red",
+        "explicacion": "\"Red\" describes the noun \"apple\", making it an adjective. \"Delicious\" is also an adjective but modifies a predicate.",
         "opciones": [
-          "Desarrollar pensamiento crítico sobre Daily routines",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Daily routines",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Daily routines\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+          "apple",
+          "is",
+          "red",
+          "delicious"
+        ]
       },
       {
         "id": "telesecundaria-1-ingles-b2-005",
-        "tema": "Present simple tense",
+        "tema": "Daily routines",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Present simple tense\"?",
+        "pregunta": "How do you say \"buenos días\" in English?",
+        "respuestaCorrecta": "Good morning",
+        "explicacion": "\"Good morning\" is the greeting used in the morning hours (before noon).",
         "opciones": [
-          "Es un concepto fundamental de Present",
-          "Se relaciona con el estudio de Present simple tense",
-          "Es un proceso que involucra Present",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Present simple tense",
-        "explicacion": "💡 Neptuno te ayuda: Present simple tense es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Good night",
+          "Good evening",
+          "Good afternoon",
+          "Good morning"
+        ]
       },
       {
         "id": "telesecundaria-1-ingles-b2-006",
-        "tema": "Present simple tense",
+        "tema": "Daily routines",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Present simple tense\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "In English, nouns are capitalized only at the beginning of a sentence",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Present simple tense\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "Unlike German, English only capitalizes nouns at the start of sentences, names, titles, and proper nouns."
       },
       {
         "id": "telesecundaria-1-ingles-b2-007",
-        "tema": "Present simple tense",
+        "tema": "Daily routines",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Present simple ___",
-        "respuestaCorrecta": "tense",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Present simple tense\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-008",
-        "tema": "Present simple tense",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Present simple tense\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Present simple tense",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Present simple tense",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Present simple tense\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-009",
-        "tema": "School subjects and activities",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"School subjects and activities\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de School",
-          "Se relaciona con el estudio de School subjects and activities",
-          "Es un proceso que involucra School",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de School subjects and activities",
-        "explicacion": "💡 El Búho te ayuda: School subjects and activities es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-010",
-        "tema": "School subjects and activities",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"School subjects and activities\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"School subjects and activities\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-011",
-        "tema": "School subjects and activities",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "School subjects and ___",
-        "respuestaCorrecta": "activities",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"School subjects and activities\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-012",
-        "tema": "School subjects and activities",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"School subjects and activities\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre School subjects and activities",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre School subjects and activities",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"School subjects and activities\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-013",
-        "tema": "Telling time",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En el tema de \"Telling time\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Telling",
-          "Se relaciona con el estudio de Telling time",
-          "Es un proceso que involucra Telling",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Telling time",
-        "explicacion": "💡 El Búho te ayuda: Telling time es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-014",
-        "tema": "Telling time",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Telling time\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Telling time\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-015",
-        "tema": "Telling time",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El tema de ___ se estudia en este bloque de Telesecundaria",
-        "respuestaCorrecta": "Telling",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Telling time\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-016",
-        "tema": "Telling time",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Telling time\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Telling time",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Telling time",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Telling time\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "I ___ reading a book right now. (present progressive)",
+        "respuestaCorrecta": "am",
+        "explicacion": "Present progressive: subject + am/is/are + verb-ing. \"I am reading\" = action happening now."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-1-ingles-b2-p-001",
-        "tema": "Daily routines",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Daily routines\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Daily",
-          "Se relaciona con el estudio de Daily routines",
-          "Es un proceso que involucra Daily",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Daily routines",
-        "explicacion": "💡 El Búho te ayuda: Daily routines es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-002",
-        "tema": "Daily routines",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Daily routines\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Daily routines\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-003",
-        "tema": "Daily routines",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Daily ___",
-        "respuestaCorrecta": "routines",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Daily routines\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-004",
-        "tema": "Present simple tense",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Present simple tense\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Present",
-          "Se relaciona con el estudio de Present simple tense",
-          "Es un proceso que involucra Present",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Present simple tense",
-        "explicacion": "💡 Hada te ayuda: Present simple tense es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-005",
-        "tema": "Present simple tense",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Present simple tense\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Present simple tense\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-006",
-        "tema": "Present simple tense",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Present simple ___",
-        "respuestaCorrecta": "tense",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Present simple tense\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-007",
-        "tema": "School subjects and activities",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"School subjects and activities\"?",
-        "opciones": [
-          "Es un concepto fundamental de School",
-          "Se relaciona con el estudio de School subjects and activities",
-          "Es un proceso que involucra School",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de School subjects and activities",
-        "explicacion": "💡 Cuca te ayuda: School subjects and activities es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-008",
-        "tema": "School subjects and activities",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"School subjects and activities\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"School subjects and activities\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-009",
-        "tema": "School subjects and activities",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "School subjects and ___",
-        "respuestaCorrecta": "activities",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"School subjects and activities\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-010",
+        "id": "telesecundaria-1-ingles-b2-v2-001",
         "tema": "Telling time",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En el tema de \"Telling time\", ¿qué es lo más importante?",
+        "pregunta": "Which sentence uses the past perfect correctly?",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
         "opciones": [
-          "Es un concepto fundamental de Telling",
-          "Se relaciona con el estudio de Telling time",
-          "Es un proceso que involucra Telling",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Telling time",
-        "explicacion": "💡 El Búho te ayuda: Telling time es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
       },
       {
-        "id": "telesecundaria-1-ingles-b2-p-011",
+        "id": "telesecundaria-1-ingles-b2-v2-002",
         "tema": "Telling time",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Telling time\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "A clause with \"although\" always introduces a contrast or concession",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Telling time\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "\"Although\" introduces a subordinate clause that presents a contrast: \"Although it was raining, we went out.\""
       },
       {
-        "id": "telesecundaria-1-ingles-b2-p-012",
+        "id": "telesecundaria-1-ingles-b2-v2-003",
+        "tema": "Telling time",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "What is the function of a relative clause introduced by \"who\"?",
+        "respuestaCorrecta": "Modify a person noun",
+        "explicacion": "\"Who\" introduces relative clauses that provide more information about a person: \"The man who called is my uncle.\"",
+        "opciones": [
+          "Describe a time",
+          "Modify a person noun",
+          "Express a condition",
+          "Show a result"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-ingles-b2-v2-004",
         "tema": "Telling time",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El tema de ___ se estudia en este bloque de Telesecundaria",
-        "respuestaCorrecta": "Telling",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Telling time\" según el programa de estudios."
+        "pregunta": "If I ___ (study) harder, I would pass the exam. (second conditional)",
+        "respuestaCorrecta": "studied",
+        "explicacion": "Second conditional: If + simple past, would + base verb. Expresses hypothetical/unlikely situations."
+      },
+      {
+        "id": "telesecundaria-1-ingles-b2-v2-005",
+        "tema": "Telling time",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which word best replaces \"big\" in a formal academic text?",
+        "respuestaCorrecta": "Substantial",
+        "explicacion": "\"Substantial\" is the most appropriate formal synonym for \"large/big\" in academic writing.",
+        "opciones": [
+          "Huge",
+          "Enormous",
+          "Substantial",
+          "Giant"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-ingles-b2-v2-006",
+        "tema": "Telling time",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "The passive voice is formed with the verb \"to be\" + past participle",
+        "respuestaCorrecta": "true",
+        "explicacion": "Passive voice: subject + to be (conjugated) + past participle. E.g., \"The book was written by Cervantes.\""
+      },
+      {
+        "id": "telesecundaria-1-ingles-b2-v2-007",
+        "tema": "Telling time",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "What does the prefix \"un-\" mean in \"unhappy\" or \"unusual\"?",
+        "respuestaCorrecta": "Not or opposite",
+        "explicacion": "The prefix \"un-\" negates or reverses the meaning: unhappy = not happy, unusual = not usual.",
+        "opciones": [
+          "Again",
+          "More than",
+          "Not or opposite",
+          "Before"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +190,42 @@
         "tema": "Daily routines",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Daily routines\", ¿qué es lo más importante?",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
         "opciones": [
-          "Es un concepto fundamental de Daily",
-          "Se relaciona con el estudio de Daily routines",
-          "Es un proceso que involucra Daily",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Daily routines",
-        "explicacion": "💡 Neptuno te ayuda: Daily routines es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-ingles-b2-v2-001",
+        "tema": "Telling time",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which sentence uses the past perfect correctly?",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
+        "opciones": [
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
       },
       {
         "id": "telesecundaria-1-ingles-b2-002",
         "tema": "Daily routines",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Daily routines\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Daily routines\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-ingles-b2-p-001",
-        "tema": "Daily routines",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Daily routines\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Daily",
-          "Se relaciona con el estudio de Daily routines",
-          "Es un proceso que involucra Daily",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Daily routines",
-        "explicacion": "💡 Neptuno te ayuda: Daily routines es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.292Z",
-  "version": "3.0",
-  "historiaChispito": "Nico ha encontrado un mapa antiguo escondido en la biblioteca estelar. El mapa revela secretos sobre My daily life. ¡Descubramos qué esconde!"
+  "generado": "2026-03-26T02:58:37.871Z",
+  "version": "2.0"
 }

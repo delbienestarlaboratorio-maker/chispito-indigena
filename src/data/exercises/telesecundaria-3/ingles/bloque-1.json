@@ -10,7 +10,7 @@
     "Days, months, and seasons",
     "Personal information"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 14,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,170 @@
         "tema": "Hello, my name is...",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Hello, my name is...\", ¿qué es lo más importante?",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
         "opciones": [
-          "Es un concepto fundamental de Hello,",
-          "Se relaciona con el estudio de Hello, my name is...",
-          "Es un proceso que involucra Hello,",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Hello, my name is...",
-        "explicacion": "💡 Hada te ayuda: Hello, my name is... es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
       },
       {
         "id": "telesecundaria-3-ingles-b1-002",
         "tema": "Hello, my name is...",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Hello, my name is...\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Hello, my name is...\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
       },
       {
         "id": "telesecundaria-3-ingles-b1-003",
         "tema": "Hello, my name is...",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Hello, my name ___",
-        "respuestaCorrecta": "is...",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Hello, my name is...\" según el programa de estudios."
+        "pregunta": "The opposite of \"hot\" is ___",
+        "respuestaCorrecta": "cold",
+        "explicacion": "\"Hot\" and \"cold\" are antonyms (opposite words) used to describe temperature."
       },
       {
         "id": "telesecundaria-3-ingles-b1-004",
         "tema": "Hello, my name is...",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Hello, my name is...\" en Telesecundaria?",
+        "pregunta": "Which word is an adjective in: \"The red apple is delicious\"?",
+        "respuestaCorrecta": "red",
+        "explicacion": "\"Red\" describes the noun \"apple\", making it an adjective. \"Delicious\" is also an adjective but modifies a predicate.",
         "opciones": [
-          "Desarrollar pensamiento crítico sobre Hello, my name is...",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Hello, my name is...",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"Hello, my name is...\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+          "apple",
+          "is",
+          "red",
+          "delicious"
+        ]
       },
       {
         "id": "telesecundaria-3-ingles-b1-005",
-        "tema": "Numbers 1-100",
+        "tema": "Hello, my name is...",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Respecto a \"Numbers 1-100\", ¿cuál afirmación es correcta?",
+        "pregunta": "How do you say \"buenos días\" in English?",
+        "respuestaCorrecta": "Good morning",
+        "explicacion": "\"Good morning\" is the greeting used in the morning hours (before noon).",
         "opciones": [
-          "Es un concepto fundamental de Numbers",
-          "Se relaciona con el estudio de Numbers 1-100",
-          "Es un proceso que involucra Numbers",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Numbers 1-100",
-        "explicacion": "💡 Cuca te ayuda: Numbers 1-100 es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Good night",
+          "Good evening",
+          "Good afternoon",
+          "Good morning"
+        ]
       },
       {
         "id": "telesecundaria-3-ingles-b1-006",
-        "tema": "Numbers 1-100",
+        "tema": "Hello, my name is...",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Numbers 1-100\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "In English, nouns are capitalized only at the beginning of a sentence",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Numbers 1-100\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "Unlike German, English only capitalizes nouns at the start of sentences, names, titles, and proper nouns."
       },
       {
         "id": "telesecundaria-3-ingles-b1-007",
-        "tema": "Numbers 1-100",
+        "tema": "Hello, my name is...",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Numbers ___",
-        "respuestaCorrecta": "1-100",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Numbers 1-100\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-008",
-        "tema": "Numbers 1-100",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Numbers 1-100\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Numbers 1-100",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Numbers 1-100",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Numbers 1-100\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-009",
-        "tema": "Days, months, and seasons",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Days, months, and seasons\"?",
-        "opciones": [
-          "Es un concepto fundamental de Days,",
-          "Se relaciona con el estudio de Days, months, and seasons",
-          "Es un proceso que involucra Days,",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Days, months, and seasons",
-        "explicacion": "💡 Hada te ayuda: Days, months, and seasons es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-010",
-        "tema": "Days, months, and seasons",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Days, months, and seasons\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Days, months, and seasons\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-011",
-        "tema": "Days, months, and seasons",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Days, months, and ___",
-        "respuestaCorrecta": "seasons",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Days, months, and seasons\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-012",
-        "tema": "Days, months, and seasons",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Days, months, and seasons\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Days, months, and seasons",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Days, months, and seasons",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Days, months, and seasons\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-013",
-        "tema": "Personal information",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Personal information\"?",
-        "opciones": [
-          "Es un concepto fundamental de Personal",
-          "Se relaciona con el estudio de Personal information",
-          "Es un proceso que involucra Personal",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Personal information",
-        "explicacion": "💡 Hada te ayuda: Personal information es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-014",
-        "tema": "Personal information",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Personal information\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Personal information\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-015",
-        "tema": "Personal information",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Personal ___",
-        "respuestaCorrecta": "information",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Personal information\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-016",
-        "tema": "Personal information",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Personal information\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Personal information",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Personal information",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"Personal information\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "I ___ reading a book right now. (present progressive)",
+        "respuestaCorrecta": "am",
+        "explicacion": "Present progressive: subject + am/is/are + verb-ing. \"I am reading\" = action happening now."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-3-ingles-b1-p-001",
-        "tema": "Hello, my name is...",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Hello, my name is...\"?",
-        "opciones": [
-          "Es un concepto fundamental de Hello,",
-          "Se relaciona con el estudio de Hello, my name is...",
-          "Es un proceso que involucra Hello,",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Hello, my name is...",
-        "explicacion": "💡 Neptuno te ayuda: Hello, my name is... es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-002",
-        "tema": "Hello, my name is...",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Hello, my name is...\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Hello, my name is...\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-003",
-        "tema": "Hello, my name is...",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Hello, my name ___",
-        "respuestaCorrecta": "is...",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Hello, my name is...\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-004",
-        "tema": "Numbers 1-100",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Numbers 1-100\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Numbers",
-          "Se relaciona con el estudio de Numbers 1-100",
-          "Es un proceso que involucra Numbers",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Numbers 1-100",
-        "explicacion": "💡 Neptuno te ayuda: Numbers 1-100 es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-005",
-        "tema": "Numbers 1-100",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Numbers 1-100\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Numbers 1-100\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-006",
-        "tema": "Numbers 1-100",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Numbers ___",
-        "respuestaCorrecta": "1-100",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Numbers 1-100\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-007",
-        "tema": "Days, months, and seasons",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Days, months, and seasons\"?",
-        "opciones": [
-          "Es un concepto fundamental de Days,",
-          "Se relaciona con el estudio de Days, months, and seasons",
-          "Es un proceso que involucra Days,",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Days, months, and seasons",
-        "explicacion": "💡 Neptuno te ayuda: Days, months, and seasons es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-008",
-        "tema": "Days, months, and seasons",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Days, months, and seasons\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Days, months, and seasons\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-009",
-        "tema": "Days, months, and seasons",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Days, months, and ___",
-        "respuestaCorrecta": "seasons",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Days, months, and seasons\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-010",
+        "id": "telesecundaria-3-ingles-b1-v2-001",
         "tema": "Personal information",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Respecto a \"Personal information\", ¿cuál afirmación es correcta?",
+        "pregunta": "Which sentence uses the past perfect correctly?",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
         "opciones": [
-          "Es un concepto fundamental de Personal",
-          "Se relaciona con el estudio de Personal information",
-          "Es un proceso que involucra Personal",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Personal information",
-        "explicacion": "💡 Cuca te ayuda: Personal information es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
       },
       {
-        "id": "telesecundaria-3-ingles-b1-p-011",
+        "id": "telesecundaria-3-ingles-b1-v2-002",
         "tema": "Personal information",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Personal information\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "A clause with \"although\" always introduces a contrast or concession",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Personal information\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "\"Although\" introduces a subordinate clause that presents a contrast: \"Although it was raining, we went out.\""
       },
       {
-        "id": "telesecundaria-3-ingles-b1-p-012",
+        "id": "telesecundaria-3-ingles-b1-v2-003",
+        "tema": "Personal information",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "What is the function of a relative clause introduced by \"who\"?",
+        "respuestaCorrecta": "Modify a person noun",
+        "explicacion": "\"Who\" introduces relative clauses that provide more information about a person: \"The man who called is my uncle.\"",
+        "opciones": [
+          "Describe a time",
+          "Modify a person noun",
+          "Express a condition",
+          "Show a result"
+        ]
+      },
+      {
+        "id": "telesecundaria-3-ingles-b1-v2-004",
         "tema": "Personal information",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Personal ___",
-        "respuestaCorrecta": "information",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Personal information\" según el programa de estudios."
+        "pregunta": "If I ___ (study) harder, I would pass the exam. (second conditional)",
+        "respuestaCorrecta": "studied",
+        "explicacion": "Second conditional: If + simple past, would + base verb. Expresses hypothetical/unlikely situations."
+      },
+      {
+        "id": "telesecundaria-3-ingles-b1-v2-005",
+        "tema": "Personal information",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which word best replaces \"big\" in a formal academic text?",
+        "respuestaCorrecta": "Substantial",
+        "explicacion": "\"Substantial\" is the most appropriate formal synonym for \"large/big\" in academic writing.",
+        "opciones": [
+          "Huge",
+          "Enormous",
+          "Substantial",
+          "Giant"
+        ]
+      },
+      {
+        "id": "telesecundaria-3-ingles-b1-v2-006",
+        "tema": "Personal information",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "The passive voice is formed with the verb \"to be\" + past participle",
+        "respuestaCorrecta": "true",
+        "explicacion": "Passive voice: subject + to be (conjugated) + past participle. E.g., \"The book was written by Cervantes.\""
+      },
+      {
+        "id": "telesecundaria-3-ingles-b1-v2-007",
+        "tema": "Personal information",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "What does the prefix \"un-\" mean in \"unhappy\" or \"unusual\"?",
+        "respuestaCorrecta": "Not or opposite",
+        "explicacion": "The prefix \"un-\" negates or reverses the meaning: unhappy = not happy, unusual = not usual.",
+        "opciones": [
+          "Again",
+          "More than",
+          "Not or opposite",
+          "Before"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +190,42 @@
         "tema": "Hello, my name is...",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Hello, my name is...\", ¿qué es lo más importante?",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
         "opciones": [
-          "Es un concepto fundamental de Hello,",
-          "Se relaciona con el estudio de Hello, my name is...",
-          "Es un proceso que involucra Hello,",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Hello, my name is...",
-        "explicacion": "💡 Neptuno te ayuda: Hello, my name is... es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
+      },
+      {
+        "id": "telesecundaria-3-ingles-b1-v2-001",
+        "tema": "Personal information",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which sentence uses the past perfect correctly?",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
+        "opciones": [
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
       },
       {
         "id": "telesecundaria-3-ingles-b1-002",
         "tema": "Hello, my name is...",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Hello, my name is...\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Hello, my name is...\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-ingles-b1-p-001",
-        "tema": "Hello, my name is...",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Hello, my name is...\"?",
-        "opciones": [
-          "Es un concepto fundamental de Hello,",
-          "Se relaciona con el estudio de Hello, my name is...",
-          "Es un proceso que involucra Hello,",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Hello, my name is...",
-        "explicacion": "💡 Hada te ayuda: Hello, my name is... es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.408Z",
-  "version": "3.0",
-  "historiaChispito": "¡Alerta en Ciudad Chispito! Un portal del conocimiento se ha abierto. Para cruzarlo, debes demostrar tus habilidades en Greetings and introductions."
+  "generado": "2026-03-26T02:58:37.932Z",
+  "version": "2.0"
 }

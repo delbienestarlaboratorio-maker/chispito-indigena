@@ -10,378 +10,222 @@
     "Describing ambitions",
     "Job interviews"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 14,
   "ejercicios": {
     "v1": [
       {
         "id": "secundaria-3-ingles-b5-001",
-        "tema": "Future perfect",
+        "tema": "Career vocabulary",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "\"The wheel was invented by humans.\" ¿Qué forma verbal usa?",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
         "opciones": [
-          "Activa",
-          "Pasiva",
-          "Progresiva",
-          "Perfecta"
-        ],
-        "respuestaCorrecta": "Pasiva",
-        "explicacion": "Passive voice: Subject + was/were + past participle. \"Was invented\" = voz pasiva."
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
       },
       {
         "id": "secundaria-3-ingles-b5-002",
-        "tema": "Describing ambitions",
-        "tipo": "fill_blank",
+        "tema": "Career vocabulary",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "If I had more time, I ___ study more. (Condicional 2)",
-        "respuestaCorrecta": "would",
-        "explicacion": "Conditional type 2: \"If + past simple, would + infinitive\". For hypothetical situations."
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
       },
       {
         "id": "secundaria-3-ingles-b5-003",
-        "tema": "Job interviews",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "\"I have lived in Mexico for 15 years.\" ¿Qué tiempo es?",
-        "opciones": [
-          "Past simple",
-          "Present perfect",
-          "Future",
-          "Past continuous"
-        ],
-        "respuestaCorrecta": "Present perfect",
-        "explicacion": "\"Have/has + past participle\" = Present perfect. It connects past to present: \"I have lived here...\""
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-006",
-        "tema": "Career vocabulary",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
-        "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-007",
-        "tema": "Future perfect",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién fue el primer Presidente de México?",
-        "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Antonio López de Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-008",
-        "tema": "Describing ambitions",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
-        "respuestaCorrecta": "476",
-        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-009",
-        "tema": "Job interviews",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
-        "respuestaCorrecta": "1945",
-        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-010",
         "tema": "Career vocabulary",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+        "pregunta": "The opposite of \"hot\" is ___",
+        "respuestaCorrecta": "cold",
+        "explicacion": "\"Hot\" and \"cold\" are antonyms (opposite words) used to describe temperature."
       },
       {
-        "id": "secundaria-3-ingles-b5-x-011",
-        "tema": "Future perfect",
+        "id": "secundaria-3-ingles-b5-004",
+        "tema": "Career vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Which word is an adjective in: \"The red apple is delicious\"?",
+        "respuestaCorrecta": "red",
+        "explicacion": "\"Red\" describes the noun \"apple\", making it an adjective. \"Delicious\" is also an adjective but modifies a predicate.",
+        "opciones": [
+          "apple",
+          "is",
+          "red",
+          "delicious"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b5-005",
+        "tema": "Career vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "How do you say \"buenos días\" in English?",
+        "respuestaCorrecta": "Good morning",
+        "explicacion": "\"Good morning\" is the greeting used in the morning hours (before noon).",
+        "opciones": [
+          "Good night",
+          "Good evening",
+          "Good afternoon",
+          "Good morning"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b5-006",
+        "tema": "Career vocabulary",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "pregunta": "In English, nouns are capitalized only at the beginning of a sentence",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+        "explicacion": "Unlike German, English only capitalizes nouns at the start of sentences, names, titles, and proper nouns."
       },
       {
-        "id": "secundaria-3-ingles-b5-x-012",
-        "tema": "Describing ambitions",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién fue Simón Bolívar?",
-        "opciones": [
-          "Rey de España",
-          "Libertador de América del Sur",
-          "Presidente de México",
-          "Conquistador español"
-        ],
-        "respuestaCorrecta": "Libertador de América del Sur",
-        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-013",
-        "tema": "Job interviews",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
-        "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-014",
+        "id": "secundaria-3-ingles-b5-007",
         "tema": "Career vocabulary",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién fue el primer Presidente de México?",
-        "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Antonio López de Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-015",
-        "tema": "Future perfect",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
-        "respuestaCorrecta": "476",
-        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-016",
-        "tema": "Describing ambitions",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
-        "respuestaCorrecta": "1945",
-        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-017",
-        "tema": "Job interviews",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+        "pregunta": "I ___ reading a book right now. (present progressive)",
+        "respuestaCorrecta": "am",
+        "explicacion": "Present progressive: subject + am/is/are + verb-ing. \"I am reading\" = action happening now."
       }
     ],
     "v2": [
       {
-        "id": "secundaria-3-ingles-b5-004",
-        "tema": "Career vocabulary",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "A job interview often starts with \"Tell me about yourself\"",
-        "respuestaCorrecta": "true",
-        "explicacion": "\"Tell me about yourself\" is a classic opener in English job interviews."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-005",
-        "tema": "Future perfect",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el significado de \"career\"?",
-        "opciones": [
-          "Auto de carreras",
-          "Trayectoria profesional",
-          "Carretera",
-          "Correr"
-        ],
-        "respuestaCorrecta": "Trayectoria profesional",
-        "explicacion": "\"Career\" = carrera profesional/trayectoria. Not \"carretera\" (that's highway) or \"carro\" (car)."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-006",
-        "tema": "Career vocabulary",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-007",
-        "tema": "Future perfect",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-008",
-        "tema": "Describing ambitions",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién fue Simón Bolívar?",
-        "opciones": [
-          "Rey de España",
-          "Libertador de América del Sur",
-          "Presidente de México",
-          "Conquistador español"
-        ],
-        "respuestaCorrecta": "Libertador de América del Sur",
-        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-009",
+        "id": "secundaria-3-ingles-b5-v2-001",
         "tema": "Job interviews",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "pregunta": "Which sentence uses the past perfect correctly?",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
         "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
       },
       {
-        "id": "secundaria-3-ingles-b5-x-010",
-        "tema": "Career vocabulary",
+        "id": "secundaria-3-ingles-b5-v2-002",
+        "tema": "Job interviews",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "A clause with \"although\" always introduces a contrast or concession",
+        "respuestaCorrecta": "true",
+        "explicacion": "\"Although\" introduces a subordinate clause that presents a contrast: \"Although it was raining, we went out.\""
+      },
+      {
+        "id": "secundaria-3-ingles-b5-v2-003",
+        "tema": "Job interviews",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién fue el primer Presidente de México?",
+        "pregunta": "What is the function of a relative clause introduced by \"who\"?",
+        "respuestaCorrecta": "Modify a person noun",
+        "explicacion": "\"Who\" introduces relative clauses that provide more information about a person: \"The man who called is my uncle.\"",
         "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Antonio López de Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+          "Describe a time",
+          "Modify a person noun",
+          "Express a condition",
+          "Show a result"
+        ]
       },
       {
-        "id": "secundaria-3-ingles-b5-x-011",
-        "tema": "Future perfect",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
-        "respuestaCorrecta": "476",
-        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-012",
-        "tema": "Describing ambitions",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
-        "respuestaCorrecta": "1945",
-        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-013",
+        "id": "secundaria-3-ingles-b5-v2-004",
         "tema": "Job interviews",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+        "pregunta": "If I ___ (study) harder, I would pass the exam. (second conditional)",
+        "respuestaCorrecta": "studied",
+        "explicacion": "Second conditional: If + simple past, would + base verb. Expresses hypothetical/unlikely situations."
       },
       {
-        "id": "secundaria-3-ingles-b5-x-014",
-        "tema": "Career vocabulary",
+        "id": "secundaria-3-ingles-b5-v2-005",
+        "tema": "Job interviews",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which word best replaces \"big\" in a formal academic text?",
+        "respuestaCorrecta": "Substantial",
+        "explicacion": "\"Substantial\" is the most appropriate formal synonym for \"large/big\" in academic writing.",
+        "opciones": [
+          "Huge",
+          "Enormous",
+          "Substantial",
+          "Giant"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b5-v2-006",
+        "tema": "Job interviews",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
+        "pregunta": "The passive voice is formed with the verb \"to be\" + past participle",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
+        "explicacion": "Passive voice: subject + to be (conjugated) + past participle. E.g., \"The book was written by Cervantes.\""
       },
       {
-        "id": "secundaria-3-ingles-b5-x-015",
-        "tema": "Future perfect",
+        "id": "secundaria-3-ingles-b5-v2-007",
+        "tema": "Job interviews",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Quién fue Simón Bolívar?",
+        "pregunta": "What does the prefix \"un-\" mean in \"unhappy\" or \"unusual\"?",
+        "respuestaCorrecta": "Not or opposite",
+        "explicacion": "The prefix \"un-\" negates or reverses the meaning: unhappy = not happy, unusual = not usual.",
         "opciones": [
-          "Rey de España",
-          "Libertador de América del Sur",
-          "Presidente de México",
-          "Conquistador español"
-        ],
-        "respuestaCorrecta": "Libertador de América del Sur",
-        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-x-016",
-        "tema": "Describing ambitions",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
-        "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+          "Again",
+          "More than",
+          "Not or opposite",
+          "Before"
+        ]
       }
     ],
     "preview": [
       {
         "id": "secundaria-3-ingles-b5-001",
-        "tema": "Future perfect",
+        "tema": "Career vocabulary",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "\"The wheel was invented by humans.\" ¿Qué forma verbal usa?",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
         "opciones": [
-          "Activa",
-          "Pasiva",
-          "Progresiva",
-          "Perfecta"
-        ],
-        "respuestaCorrecta": "Pasiva",
-        "explicacion": "Passive voice: Subject + was/were + past participle. \"Was invented\" = voz pasiva."
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b5-v2-001",
+        "tema": "Job interviews",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which sentence uses the past perfect correctly?",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
+        "opciones": [
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
       },
       {
         "id": "secundaria-3-ingles-b5-002",
-        "tema": "Describing ambitions",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "If I had more time, I ___ study more. (Condicional 2)",
-        "respuestaCorrecta": "would",
-        "explicacion": "Conditional type 2: \"If + past simple, would + infinitive\". For hypothetical situations."
-      },
-      {
-        "id": "secundaria-3-ingles-b5-004",
         "tema": "Career vocabulary",
         "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "A job interview often starts with \"Tell me about yourself\"",
-        "respuestaCorrecta": "true",
-        "explicacion": "\"Tell me about yourself\" is a classic opener in English job interviews."
+        "nivel": "v1",
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
       }
     ]
   },
-  "generado": "2026-02-27T16:46:14.163Z",
+  "generado": "2026-03-26T02:58:37.843Z",
   "version": "2.0"
 }

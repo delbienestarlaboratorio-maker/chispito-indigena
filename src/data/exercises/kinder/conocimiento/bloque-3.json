@@ -8,7 +8,7 @@
     "Plantas y animales",
     "El sol y la lluvia"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 14,
   "ejercicios": {
     "v1": [
       {
@@ -16,372 +16,176 @@
         "tema": "Plantas y animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Plantas y animales\"?",
+        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
+        "respuestaCorrecta": "5",
+        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Plantas y animales es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
-        "visual": "🦁",
-        "visualAnimado": true
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
       },
       {
         "id": "kinder-conocimiento-b3-002",
         "tema": "Plantas y animales",
-        "tipo": "true_false",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Plantas y animales es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "pregunta": "¿Con qué sentido olemos las flores?",
+        "respuestaCorrecta": "Olfato",
+        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
+        "opciones": [
+          "Vista",
+          "Gusto",
+          "Olfato",
+          "Tacto"
+        ]
       },
       {
         "id": "kinder-conocimiento-b3-003",
         "tema": "Plantas y animales",
-        "tipo": "fill_blank",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En Plantas y animales, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia.",
-        "visual": "🦁",
-        "visualAnimado": true
+        "pregunta": "La mamá, el papá y los hijos forman una familia",
+        "respuestaCorrecta": "true",
+        "explicacion": "La familia es el grupo de personas con quienes vivimos y compartimos afecto y cuidado."
       },
       {
-        "id": "kinder-conocimiento-b3-extra-007",
+        "id": "kinder-conocimiento-b3-004",
+        "tema": "Plantas y animales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Con los ojos podemos ___ todo a nuestro alrededor",
+        "respuestaCorrecta": "ver",
+        "explicacion": "Los ojos son los órganos de la vista; nos permiten ver formas, colores y movimiento."
+      },
+      {
+        "id": "kinder-conocimiento-b3-005",
         "tema": "Plantas y animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de los 5 sentidos usamos para oír?",
+        "pregunta": "¿Cuál de estas son partes del cuerpo?",
+        "respuestaCorrecta": "Brazo, pierna, cabeza",
+        "explicacion": "Las partes del cuerpo humano incluyen cabeza, tronco y extremidades (brazos y piernas).",
         "opciones": [
-          "La vista",
-          "El olfato",
-          "El oído",
-          "El tacto"
-        ],
-        "respuestaCorrecta": "El oído",
-        "explicacion": "El oído nos permite escuchar sonidos. Las orejas son el órgano del oído."
+          "Mesa, silla, puerta",
+          "Brazo, pierna, cabeza",
+          "Libro, cuaderno, lápiz",
+          "Casa, árbol, nube"
+        ]
       },
       {
-        "id": "kinder-conocimiento-b3-extra-009",
+        "id": "kinder-conocimiento-b3-006",
         "tema": "Plantas y animales",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Los perros son animales domésticos",
+        "pregunta": "El perro y el gato son animales domésticos",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales domésticos viven con el ser humano. El perro es el más común.",
-        "visual": "🐶",
-        "visualAnimado": true
+        "explicacion": "Los animales domésticos son los que viven con las personas en sus casas."
       },
       {
-        "id": "kinder-conocimiento-b3-extra-011",
-        "tema": "Plantas y animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En invierno hace ___ y en verano hace ___",
-        "respuestaCorrecta": "frío / calor",
-        "explicacion": "Las estaciones cambian la temperatura. Invierno = frío, Verano = calor."
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-012",
+        "id": "kinder-conocimiento-b3-007",
         "tema": "Plantas y animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
+        "pregunta": "¿Qué le da energía a las plantas para crecer?",
+        "respuestaCorrecta": "El Sol",
+        "explicacion": "Las plantas necesitan luz solar para realizar la fotosíntesis y producir su alimento.",
         "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
+          "La luna",
+          "La lluvia ácida",
+          "El Sol",
+          "El viento"
+        ]
       },
       {
-        "id": "kinder-conocimiento-b3-x-013",
-        "tema": "El sol y la lluvia",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-014",
+        "id": "kinder-conocimiento-b3-008",
         "tema": "Plantas y animales",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-015",
-        "tema": "El sol y la lluvia",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
-        "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-016",
-        "tema": "Plantas y animales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-017",
-        "tema": "El sol y la lluvia",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-018",
-        "tema": "Plantas y animales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué animal da la leche que tomamos?",
-        "opciones": [
-          "La gallina",
-          "La vaca",
-          "El cerdo",
-          "El caballo"
-        ],
-        "respuestaCorrecta": "La vaca",
-        "explicacion": "La vaca es el animal que produce la leche que usamos para beber y hacer queso y yogurt.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-019",
-        "tema": "El sol y la lluvia",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las plantas necesitan agua y luz para vivir",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sin agua o sin luz, las plantas no pueden hacer fotosíntesis y mueren.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-020",
-        "tema": "Plantas y animales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La primavera viene después del ___",
-        "respuestaCorrecta": "invierno",
-        "explicacion": "Estaciones en México: otoño→invierno→primavera→verano.",
-        "visual": "🐦",
-        "visualAnimado": true
+        "pregunta": "El agua, el fuego, la tierra y el ___ son elementos de la naturaleza",
+        "respuestaCorrecta": "aire",
+        "explicacion": "El aire es uno de los elementos fundamentales de la naturaleza y lo respiramos para vivir."
       }
     ],
     "v2": [
       {
-        "id": "kinder-conocimiento-b3-004",
+        "id": "kinder-conocimiento-b3-v2-001",
         "tema": "El sol y la lluvia",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"El sol y la lluvia\"?",
+        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
+        "respuestaCorrecta": "Tacto",
+        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "El sol y la lluvia es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
-        "visual": "☀️",
-        "visualAnimado": true
+          "Vista",
+          "Oído",
+          "Tacto",
+          "Gusto"
+        ]
       },
       {
-        "id": "kinder-conocimiento-b3-005",
+        "id": "kinder-conocimiento-b3-v2-002",
+        "tema": "El sol y la lluvia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los miembros de una familia extendida?",
+        "respuestaCorrecta": "Abuelos, tíos, primos y más parientes",
+        "explicacion": "La familia extendida incluye a todos los parientes: abuelos, tíos, primos, etc.",
+        "opciones": [
+          "Solo papá y mamá",
+          "Papá, mamá e hijos",
+          "Abuelos, tíos, primos y más parientes",
+          "Solo los vecinos"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b3-v2-003",
         "tema": "El sol y la lluvia",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El sol y la lluvia es parte del currículo oficial de la SEP",
+        "pregunta": "Los animales salvajes también son importantes para la naturaleza aunque no vivamos con ellos",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "explicacion": "Los animales salvajes son parte del ecosistema y ayudan a mantener el equilibrio natural."
       },
       {
-        "id": "kinder-conocimiento-b3-006",
+        "id": "kinder-conocimiento-b3-v2-004",
         "tema": "El sol y la lluvia",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En El sol y la lluvia, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia.",
-        "visual": "☀️",
-        "visualAnimado": true
+        "pregunta": "Las plantas producen el ___ que respiramos",
+        "respuestaCorrecta": "oxígeno",
+        "explicacion": "Durante la fotosíntesis, las plantas absorben CO₂ y liberan oxígeno, el gas que necesitamos para vivir."
       },
       {
-        "id": "kinder-conocimiento-b3-extra-008",
-        "tema": "El sol y la lluvia",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Los animales que viven en el agua se llaman ___",
-        "respuestaCorrecta": "acuáticos",
-        "explicacion": "Los animales acuáticos viven en el agua: peces, delfines, pulpos.",
-        "visual": "💧",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-extra-010",
+        "id": "kinder-conocimiento-b3-v2-005",
         "tema": "El sol y la lluvia",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitan las plantas para crecer?",
+        "pregunta": "¿Qué necesitamos para mantenernos saludables?",
+        "respuestaCorrecta": "Comer bien, hacer ejercicio y dormir suficiente",
+        "explicacion": "La salud integral requiere buena alimentación, actividad física y descanso adecuado.",
         "opciones": [
-          "Solo agua",
-          "Agua, sol y tierra",
-          "Solo luz",
-          "Solo abono"
-        ],
-        "respuestaCorrecta": "Agua, sol y tierra",
-        "explicacion": "Las plantas necesitan agua, luz solar y nutrientes del suelo para crecer."
+          "Solo dormir",
+          "Comer comida chatarra",
+          "Comer bien, hacer ejercicio y dormir suficiente",
+          "Solo tomar vitaminas"
+        ]
       },
       {
-        "id": "kinder-conocimiento-b3-x-012",
-        "tema": "Plantas y animales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-013",
+        "id": "kinder-conocimiento-b3-v2-006",
         "tema": "El sol y la lluvia",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "pregunta": "¿De dónde viene el agua que tomamos?",
+        "respuestaCorrecta": "De ríos, lagos y pozos que se purifica",
+        "explicacion": "El agua que consumimos proviene de fuentes naturales (ríos, acuíferos) y pasa por procesos de purificación.",
         "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-014",
-        "tema": "Plantas y animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-015",
-        "tema": "El sol y la lluvia",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-016",
-        "tema": "Plantas y animales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-017",
-        "tema": "El sol y la lluvia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para oler?",
-        "opciones": [
-          "La vista",
-          "El tacto",
-          "El olfato",
-          "El gusto"
-        ],
-        "respuestaCorrecta": "El olfato",
-        "explicacion": "El olfato es el sentido de la nariz. Con él detectamos olores agradables o peligrosos."
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-018",
-        "tema": "Plantas y animales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El sol sale por el ___ y se pone por el Oeste",
-        "respuestaCorrecta": "Este",
-        "explicacion": "El Sol siempre sale por el Este (oriente) y se pone por el Oeste (poniente).",
-        "visual": "☀️",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-x-019",
-        "tema": "El sol y la lluvia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el animal más grande del mundo?",
-        "opciones": [
-          "El elefante",
-          "La ballena azul",
-          "El tiburón ballena",
-          "El hipopótamo"
-        ],
-        "respuestaCorrecta": "La ballena azul",
-        "explicacion": "La ballena azul (hasta 30 m de longitud) es el animal más grande que ha existido.",
-        "visual": "➕",
-        "visualAnimado": true
+          "Del cielo directamente",
+          "De ríos, lagos y pozos que se purifica",
+          "Solo del mar",
+          "De las nubes sin purificar"
+        ]
       }
     ],
     "preview": [
@@ -390,48 +194,48 @@
         "tema": "Plantas y animales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Plantas y animales\"?",
+        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
+        "respuestaCorrecta": "5",
+        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Plantas y animales es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
-        "visual": "🦁",
-        "visualAnimado": true
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b3-v2-001",
+        "tema": "El sol y la lluvia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
+        "respuestaCorrecta": "Tacto",
+        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "opciones": [
+          "Vista",
+          "Oído",
+          "Tacto",
+          "Gusto"
+        ]
       },
       {
         "id": "kinder-conocimiento-b3-002",
         "tema": "Plantas y animales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Plantas y animales es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
-        "visual": "🦁",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-conocimiento-b3-004",
-        "tema": "El sol y la lluvia",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"El sol y la lluvia\"?",
+        "nivel": "v1",
+        "pregunta": "¿Con qué sentido olemos las flores?",
+        "respuestaCorrecta": "Olfato",
+        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "El sol y la lluvia es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
-        "visual": "☀️",
-        "visualAnimado": true
+          "Vista",
+          "Gusto",
+          "Olfato",
+          "Tacto"
+        ]
       }
     ]
   },
-  "generado": "2026-02-27T16:11:24.000Z",
+  "generado": "2026-03-26T02:58:37.533Z",
   "version": "2.0"
 }
