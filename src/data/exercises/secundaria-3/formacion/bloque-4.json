@@ -4,7 +4,10 @@
   "bloque": 4,
   "nombre": "Paz y no violencia",
   "meses": "Noviembre-Diciembre",
-  "temas": ["Cultura de paz", "Bullying y ciberbullying"],
+  "temas": [
+    "Cultura de paz",
+    "Bullying y ciberbullying"
+  ],
   "totalEjercicios": 28,
   "ejercicios": {
     "v1": [
@@ -189,7 +192,7 @@
         "tema": "Cultura de paz",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué plantea Johan Galtung sobre la violencia estructural?",
+        "pregunta": "¿Qué plantea Johan Galtung sobre la violencia estructural?  ",
         "opciones": [
           "Que la violencia solo es física",
           "Que existe una violencia invisible en las estructuras sociales que generan injusticia y desigualdad",
@@ -204,7 +207,7 @@
         "tema": "Cultura de paz",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La justicia restaurativa busca reparar el daño causado y reconciliar a las partes, en lugar de solo castigar al agresor",
+        "pregunta": "La justicia restaurativa busca reparar el daño causado y reconciliar a las partes, en lugar de solo castigar al agresor  ",
         "respuestaCorrecta": "true",
         "explicacion": "La justicia restaurativa se enfoca en que el agresor comprenda el daño, repare a la víctima y se reintegre a la comunidad, en lugar de solo aplicar castigos."
       },
@@ -213,7 +216,7 @@
         "tema": "Cultura de paz",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es la escucha activa?",
+        "pregunta": "¿Qué es la escucha activa?  ",
         "opciones": [
           "Oír música mientras estudias",
           "Prestar atención plena al interlocutor, mostrando interés y comprensión sin interrumpir",
@@ -228,7 +231,7 @@
         "tema": "Cultura de paz",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué tipo de paz propone la ONU como objetivo en los Objetivos de Desarrollo Sostenible (ODS)?",
+        "pregunta": "¿Qué tipo de paz propone la ONU como objetivo en los Objetivos de Desarrollo Sostenible (ODS)?  ",
         "opciones": [
           "Solo la paz entre países que tienen guerra",
           "Paz justa e inclusiva con instituciones sólidas (ODS 16)",
@@ -243,7 +246,7 @@
         "tema": "Cultura de paz",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La negociación win-win busca que ambas partes obtengan beneficios en un conflicto",
+        "pregunta": "La negociación win-win busca que ambas partes obtengan beneficios en un conflicto  ",
         "respuestaCorrecta": "true",
         "explicacion": "La negociación ganar-ganar contrasta con la mentalidad ganar-perder: busca soluciones creativas donde ambas partes queden satisfechas."
       },
@@ -252,7 +255,7 @@
         "tema": "Bullying y ciberbullying",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el grooming en el contexto del ciberbullying?",
+        "pregunta": "¿Qué es el grooming en el contexto del ciberbullying?  ",
         "opciones": [
           "Un tipo de peinado",
           "La manipulación en línea de un menor por un adulto con fines de explotación sexual",
@@ -267,7 +270,7 @@
         "tema": "Bullying y ciberbullying",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Compartir imágenes íntimas de otra persona sin su consentimiento es considerado violencia digital y puede ser delito",
+        "pregunta": "Compartir imágenes íntimas de otra persona sin su consentimiento es considerado violencia digital y puede ser delito  ",
         "respuestaCorrecta": "true",
         "explicacion": "La difusión de imágenes íntimas sin consentimiento (conocido como 'revenge porn') es violencia digital y en México está tipificada como delito en varias entidades."
       },
@@ -276,7 +279,7 @@
         "tema": "Bullying y ciberbullying",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el rol del 'observador activo' frente al bullying?",
+        "pregunta": "¿Qué es el rol del 'observador activo' frente al bullying?  ",
         "opciones": [
           "Quien graba el bullying para subirlo a redes",
           "Un testigo que interviene para apoyar a la víctima o reportar el acoso",
@@ -291,7 +294,7 @@
         "tema": "Bullying y ciberbullying",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es la diferencia entre un conflicto normal y el bullying?",
+        "pregunta": "¿Cuál es la diferencia entre un conflicto normal y el bullying?  ",
         "opciones": [
           "No hay diferencia",
           "El bullying implica repetición, intencionalidad y desequilibrio de poder; el conflicto no necesariamente",
@@ -306,7 +309,7 @@
         "tema": "Bullying y ciberbullying",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El bullying homofóbico o transfóbico es especialmente grave porque ataca la identidad de la persona",
+        "pregunta": "El bullying homofóbico o transfóbico es especialmente grave porque ataca la identidad de la persona  ",
         "respuestaCorrecta": "true",
         "explicacion": "El bullying hacia personas LGBTQ+ afecta su identidad y aumenta la vulnerabilidad psicológica. Existen protocolos específicos en escuelas para atender estos casos."
       },
@@ -315,7 +318,7 @@
         "tema": "Bullying y ciberbullying",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué herramienta técnica de las plataformas ayuda a combatir el ciberbullying?",
+        "pregunta": "¿Qué herramienta técnica de las plataformas ayuda a combatir el ciberbullying?  ",
         "opciones": [
           "El botón de 'me gusta'",
           "Los sistemas de reporte, bloqueo y moderación de contenido",
@@ -330,7 +333,7 @@
         "tema": "Bullying y ciberbullying",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los agresores de bullying también pueden necesitar apoyo psicológico para modificar su comportamiento",
+        "pregunta": "Los agresores de bullying también pueden necesitar apoyo psicológico para modificar su comportamiento  ",
         "respuestaCorrecta": "true",
         "explicacion": "El acoso muchas veces refleja problemas emocionales no resueltos en el agresor. La intervención psicológica con el agresor es parte de las estrategias efectivas anti-bullying."
       },
@@ -339,7 +342,7 @@
         "tema": "Bullying y ciberbullying",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿En qué momento se considera que el bullying se convierte en un delito penal?",
+        "pregunta": "¿En qué momento se considera que el bullying se convierte en un delito penal?  ",
         "opciones": [
           "Siempre es un delito penal",
           "Cuando involucra lesiones físicas graves, amenazas, extorsión o delitos digitales tipificados",
@@ -354,7 +357,7 @@
         "tema": "Cultura de paz",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el pensamiento crítico en relación a la construcción de la paz?",
+        "pregunta": "¿Qué es el pensamiento crítico en relación a la construcción de la paz?  ",
         "opciones": [
           "Criticar todo lo que digan los demás",
           "La capacidad de analizar situaciones de forma reflexiva y cuestionar discursos que promueven la violencia",

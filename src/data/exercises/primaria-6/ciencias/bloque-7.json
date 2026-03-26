@@ -1,66 +1,114 @@
 {
-    "grado": "primaria-6",
-    "materia": "ciencias",
-    "bloque": 7,
-    "nombre": "Planeta en nuestras manos (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Cambio climático en LSM",
-        "Energías renovables",
-        "Biotecnología básica",
-        "Responsabilidad ambiental global"
+  "grado": "primaria-6",
+  "materia": "ciencias",
+  "bloque": 7,
+  "nombre": "Planeta en nuestras manos (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Cambio climático en LSM",
+    "Energías renovables",
+    "Biotecnología básica",
+    "Responsabilidad ambiental global"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p6-cie-b7-v1-001",
+        "tema": "Cambio climático",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se expresa 'CAMBIO CLIMÁTICO' en Lengua de Señas Mexicana?",
+        "opciones": [
+          "CAMBIO (las manos intercambian posiciones) + CLIMA (movimiento circular amplio sobre la cabeza, como la atmósfera) + expresión facial de preocupación.",
+          "Se sopla aire caliente hacia las manos.",
+          "Se deletrea C-L-I-M-A."
+        ],
+        "respuestaCorrecta": "CAMBIO (las manos intercambian posiciones) + CLIMA (movimiento circular amplio sobre la cabeza, como la atmósfera) + expresión facial de preocupación.",
+        "explicacion": "¡Exacto! Es una seña compuesta perfecta: CAMBIO (intercambio de posiciones) + CLIMA (la atmósfera girando). La expresión de preocupación NO es opcional: marca la gravedad del concepto. 🌍🔥"
+      },
+      {
+        "id": "p6-cie-b7-v1-002",
+        "tema": "Energías renovables",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La seña de 'ENERGÍA SOLAR' en LSM combina la seña de SOL (círculo brillante arriba) con la seña de ENERGÍA (manos vibrando con fuerza), indicando que el sol produce fuerza utilizable.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Las energías renovables en LSM son muy visuales: SOLAR = sol + energía, EÓLICA = viento + energía (manos sopladas por el aire), HIDRÁULICA = agua + energía (corriente poderosa). ☀️💨💧"
+      },
+      {
+        "id": "p6-cie-b7-v1-003",
+        "tema": "Biotecnología",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para la seña de 'ADN' o 'GENÉTICA', las manos se entrelazan en espiral ascendente, imitando la forma de la doble ___.",
+        "respuestaCorrecta": "hélice",
+        "explicacion": "¡Correcto! La doble hélice del ADN se reproduce con ambas manos en espiral ascendente. Es una de las señas científicas más elegantes: la forma molecular SE VE en las manos. 🧬"
+      },
+      {
+        "id": "p6-cie-b7-v1-004",
+        "tema": "Responsabilidad ambiental",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo expresarías 'HUELLA DE CARBONO' en LSM?",
+        "opciones": [
+          "HUELLA (sello del pie en superficie) + CARBONO/CONTAMINACIÓN (humo oscuro subiendo de las manos) + PLANETA (esfera con las manos).",
+          "Se pisa fuerte en el suelo varias veces.",
+          "Se dibuja un pie en el aire."
+        ],
+        "respuestaCorrecta": "HUELLA (sello del pie en superficie) + CARBONO/CONTAMINACIÓN (humo oscuro subiendo de las manos) + PLANETA (esfera con las manos).",
+        "explicacion": "¡Muy bien! Conceptos complejos como 'huella de carbono' se descomponen en sus partes visuales. La LSM no tiene límite de abstracción: puede explicar ciencia avanzada descomponiendo conceptos. 🦶🏭🌎"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "p6-cie-b7-v1-001",
-                "tema": "Cambio climático",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se expresa 'CAMBIO CLIMÁTICO' en Lengua de Señas Mexicana?",
-                "opciones": [
-                    "CAMBIO (las manos intercambian posiciones) + CLIMA (movimiento circular amplio sobre la cabeza, como la atmósfera) + expresión facial de preocupación.",
-                    "Se sopla aire caliente hacia las manos.",
-                    "Se deletrea C-L-I-M-A."
-                ],
-                "respuestaCorrecta": "CAMBIO (las manos intercambian posiciones) + CLIMA (movimiento circular amplio sobre la cabeza, como la atmósfera) + expresión facial de preocupación.",
-                "explicacion": "¡Exacto! Es una seña compuesta perfecta: CAMBIO (intercambio de posiciones) + CLIMA (la atmósfera girando). La expresión de preocupación NO es opcional: marca la gravedad del concepto. 🌍🔥"
-            },
-            {
-                "id": "p6-cie-b7-v1-002",
-                "tema": "Energías renovables",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "La seña de 'ENERGÍA SOLAR' en LSM combina la seña de SOL (círculo brillante arriba) con la seña de ENERGÍA (manos vibrando con fuerza), indicando que el sol produce fuerza utilizable.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! Las energías renovables en LSM son muy visuales: SOLAR = sol + energía, EÓLICA = viento + energía (manos sopladas por el aire), HIDRÁULICA = agua + energía (corriente poderosa). ☀️💨💧"
-            },
-            {
-                "id": "p6-cie-b7-v1-003",
-                "tema": "Biotecnología",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para la seña de 'ADN' o 'GENÉTICA', las manos se entrelazan en espiral ascendente, imitando la forma de la doble ___.",
-                "respuestaCorrecta": "hélice",
-                "explicacion": "¡Correcto! La doble hélice del ADN se reproduce con ambas manos en espiral ascendente. Es una de las señas científicas más elegantes: la forma molecular SE VE en las manos. 🧬"
-            },
-            {
-                "id": "p6-cie-b7-v1-004",
-                "tema": "Responsabilidad ambiental",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo expresarías 'HUELLA DE CARBONO' en LSM?",
-                "opciones": [
-                    "HUELLA (sello del pie en superficie) + CARBONO/CONTAMINACIÓN (humo oscuro subiendo de las manos) + PLANETA (esfera con las manos).",
-                    "Se pisa fuerte en el suelo varias veces.",
-                    "Se dibuja un pie en el aire."
-                ],
-                "respuestaCorrecta": "HUELLA (sello del pie en superficie) + CARBONO/CONTAMINACIÓN (humo oscuro subiendo de las manos) + PLANETA (esfera con las manos).",
-                "explicacion": "¡Muy bien! Conceptos complejos como 'huella de carbono' se descomponen en sus partes visuales. La LSM no tiene límite de abstracción: puede explicar ciencia avanzada descomponiendo conceptos. 🦶🏭🌎"
-            }
-        ]
-    },
-    "generado": "2026-03-10T19:37:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "p6-cie-b7-v1-001-v2",
+        "tema": "Cambio climático",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se expresa 'CAMBIO CLIMÁTICO' en Lengua de Señas Mexicana? ​",
+        "opciones": [
+          "CAMBIO (las manos intercambian posiciones) + CLIMA (movimiento circular amplio sobre la cabeza, como la atmósfera) + expresión facial de preocupación.",
+          "Se sopla aire caliente hacia las manos.",
+          "Se deletrea C-L-I-M-A."
+        ],
+        "respuestaCorrecta": "CAMBIO (las manos intercambian posiciones) + CLIMA (movimiento circular amplio sobre la cabeza, como la atmósfera) + expresión facial de preocupación.",
+        "explicacion": "¡Exacto! Es una seña compuesta perfecta: CAMBIO (intercambio de posiciones) + CLIMA (la atmósfera girando). La expresión de preocupación NO es opcional: marca la gravedad del concepto. 🌍🔥"
+      },
+      {
+        "id": "p6-cie-b7-v1-002-v2",
+        "tema": "Energías renovables",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La seña de 'ENERGÍA SOLAR' en LSM combina la seña de SOL (círculo brillante arriba) con la seña de ENERGÍA (manos vibrando con fuerza), indicando que el sol produce fuerza utilizable. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Las energías renovables en LSM son muy visuales: SOLAR = sol + energía, EÓLICA = viento + energía (manos sopladas por el aire), HIDRÁULICA = agua + energía (corriente poderosa). ☀️💨💧"
+      },
+      {
+        "id": "p6-cie-b7-v1-003-v2",
+        "tema": "Biotecnología",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para la seña de 'ADN' o 'GENÉTICA', las manos se entrelazan en espiral ascendente, imitando la forma de la doble ___. ​",
+        "respuestaCorrecta": "hélice",
+        "explicacion": "¡Correcto! La doble hélice del ADN se reproduce con ambas manos en espiral ascendente. Es una de las señas científicas más elegantes: la forma molecular SE VE en las manos. 🧬"
+      },
+      {
+        "id": "p6-cie-b7-v1-004-v2",
+        "tema": "Responsabilidad ambiental",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo expresarías 'HUELLA DE CARBONO' en LSM? ​",
+        "opciones": [
+          "HUELLA (sello del pie en superficie) + CARBONO/CONTAMINACIÓN (humo oscuro subiendo de las manos) + PLANETA (esfera con las manos).",
+          "Se pisa fuerte en el suelo varias veces.",
+          "Se dibuja un pie en el aire."
+        ],
+        "respuestaCorrecta": "HUELLA (sello del pie en superficie) + CARBONO/CONTAMINACIÓN (humo oscuro subiendo de las manos) + PLANETA (esfera con las manos).",
+        "explicacion": "¡Muy bien! Conceptos complejos como 'huella de carbono' se descomponen en sus partes visuales. La LSM no tiene límite de abstracción: puede explicar ciencia avanzada descomponiendo conceptos. 🦶🏭🌎"
+      }
+    ]
+  },
+  "generado": "2026-03-10T19:37:00.000Z",
+  "version": "3.0"
 }

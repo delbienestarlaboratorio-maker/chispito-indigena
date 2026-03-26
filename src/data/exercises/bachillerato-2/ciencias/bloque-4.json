@@ -10,384 +10,120 @@
     "Circuito eléctrico básico",
     "Ley de Ohm"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "bachillerato-2-ciencias-b4-001",
-        "tema": "Circuito eléctrico básico",
+        "tema": "Carga eléctrica",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es la fórmula del agua?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "CO₂",
-          "H₂O",
-          "O₂",
-          "NaCl"
-        ],
-        "respuestaCorrecta": "H₂O",
-        "explicacion": "El agua tiene 2 átomos de Hidrógeno y 1 de Oxígeno: H₂O."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
       },
       {
         "id": "bachillerato-2-ciencias-b4-002",
-        "tema": "Ley de Ohm",
+        "tema": "Carga eléctrica",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La velocidad de la luz en el vacío es aproximadamente 300,000 km/s",
-        "respuestaCorrecta": "true",
-        "explicacion": "c ≈ 299,792 km/s. Se redondea a 300,000 km/s."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       },
       {
         "id": "bachillerato-2-ciencias-b4-003",
         "tema": "Carga eléctrica",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "E = mc² es la ecuación de ___ de Einstein",
-        "respuestaCorrecta": "relatividad",
-        "explicacion": "E = mc² es la fórmula de equivalencia masa-energía de la Teoría de la Relatividad Especial (1905)."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-006",
-        "tema": "Carga eléctrica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
-        "opciones": [
-          "106",
-          "206",
-          "306",
-          "406"
-        ],
-        "respuestaCorrecta": "206",
-        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-007",
-        "tema": "Ley de Coulomb",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El corazón bombea sangre a todo el cuerpo",
-        "respuestaCorrecta": "true",
-        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-008",
-        "tema": "Circuito eléctrico básico",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El agua en estado gaseoso se llama ___",
-        "respuestaCorrecta": "vapor",
-        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-009",
-        "tema": "Ley de Ohm",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
-        "respuestaCorrecta": "true",
-        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-010",
-        "tema": "Carga eléctrica",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La fotosíntesis produce ___ y oxígeno",
-        "respuestaCorrecta": "glucosa",
-        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-011",
-        "tema": "Ley de Coulomb",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué tipo de energía usa una planta solar?",
-        "opciones": [
-          "Eólica",
-          "Hidráulica",
-          "Solar",
-          "Nuclear"
-        ],
-        "respuestaCorrecta": "Solar",
-        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-012",
-        "tema": "Circuito eléctrico básico",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál gas es necesario para respirar?",
-        "opciones": [
-          "CO₂",
-          "N₂",
-          "O₂",
-          "H₂"
-        ],
-        "respuestaCorrecta": "O₂",
-        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-013",
-        "tema": "Ley de Ohm",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
-        "opciones": [
-          "106",
-          "206",
-          "306",
-          "406"
-        ],
-        "respuestaCorrecta": "206",
-        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-014",
-        "tema": "Carga eléctrica",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El corazón bombea sangre a todo el cuerpo",
-        "respuestaCorrecta": "true",
-        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-015",
-        "tema": "Ley de Coulomb",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El agua en estado gaseoso se llama ___",
-        "respuestaCorrecta": "vapor",
-        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-016",
-        "tema": "Circuito eléctrico básico",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
-        "respuestaCorrecta": "true",
-        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-017",
-        "tema": "Ley de Ohm",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La fotosíntesis produce ___ y oxígeno",
-        "respuestaCorrecta": "glucosa",
-        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
+        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
+        "respuestaCorrecta": "fotosíntesis",
+        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
       }
     ],
     "v2": [
       {
-        "id": "bachillerato-2-ciencias-b4-004",
-        "tema": "Ley de Coulomb",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos cromosomas tiene una célula humana normal?",
-        "opciones": [
-          "23",
-          "46",
-          "48",
-          "92"
-        ],
-        "respuestaCorrecta": "46",
-        "explicacion": "Las células humanas diploides tienen 46 cromosomas (23 pares). Solo los gametos tienen 23."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-005",
-        "tema": "Circuito eléctrico básico",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué ley relaciona voltaje, corriente y resistencia?",
-        "opciones": [
-          "Ley de Newton",
-          "Ley de Ohm",
-          "Ley de Faraday",
-          "Ley de Avogadro"
-        ],
-        "respuestaCorrecta": "Ley de Ohm",
-        "explicacion": "Ley de Ohm: V = I × R (Voltaje = Corriente × Resistencia)."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-006",
-        "tema": "Carga eléctrica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La fotosíntesis produce ___ y oxígeno",
-        "respuestaCorrecta": "glucosa",
-        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-007",
-        "tema": "Ley de Coulomb",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué tipo de energía usa una planta solar?",
-        "opciones": [
-          "Eólica",
-          "Hidráulica",
-          "Solar",
-          "Nuclear"
-        ],
-        "respuestaCorrecta": "Solar",
-        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-008",
-        "tema": "Circuito eléctrico básico",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál gas es necesario para respirar?",
-        "opciones": [
-          "CO₂",
-          "N₂",
-          "O₂",
-          "H₂"
-        ],
-        "respuestaCorrecta": "O₂",
-        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-009",
+        "id": "bachillerato-2-ciencias-b4-v2-001",
         "tema": "Ley de Ohm",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
         "opciones": [
-          "106",
-          "206",
-          "306",
-          "406"
-        ],
-        "respuestaCorrecta": "206",
-        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
-        "id": "bachillerato-2-ciencias-b4-x-010",
-        "tema": "Carga eléctrica",
+        "id": "bachillerato-2-ciencias-b4-v2-002",
+        "tema": "Ley de Ohm",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El corazón bombea sangre a todo el cuerpo",
-        "respuestaCorrecta": "true",
-        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
+        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
       },
       {
-        "id": "bachillerato-2-ciencias-b4-x-011",
-        "tema": "Ley de Coulomb",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El agua en estado gaseoso se llama ___",
-        "respuestaCorrecta": "vapor",
-        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-012",
-        "tema": "Circuito eléctrico básico",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
-        "respuestaCorrecta": "true",
-        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-013",
+        "id": "bachillerato-2-ciencias-b4-v2-003",
         "tema": "Ley de Ohm",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La fotosíntesis produce ___ y oxígeno",
-        "respuestaCorrecta": "glucosa",
-        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-014",
-        "tema": "Carga eléctrica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué tipo de energía usa una planta solar?",
-        "opciones": [
-          "Eólica",
-          "Hidráulica",
-          "Solar",
-          "Nuclear"
-        ],
-        "respuestaCorrecta": "Solar",
-        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-015",
-        "tema": "Ley de Coulomb",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál gas es necesario para respirar?",
-        "opciones": [
-          "CO₂",
-          "N₂",
-          "O₂",
-          "H₂"
-        ],
-        "respuestaCorrecta": "O₂",
-        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-x-016",
-        "tema": "Circuito eléctrico básico",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
-        "opciones": [
-          "106",
-          "206",
-          "306",
-          "406"
-        ],
-        "respuestaCorrecta": "206",
-        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
       }
     ],
     "preview": [
       {
         "id": "bachillerato-2-ciencias-b4-001",
-        "tema": "Circuito eléctrico básico",
+        "tema": "Carga eléctrica",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es la fórmula del agua?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "CO₂",
-          "H₂O",
-          "O₂",
-          "NaCl"
-        ],
-        "respuestaCorrecta": "H₂O",
-        "explicacion": "El agua tiene 2 átomos de Hidrógeno y 1 de Oxígeno: H₂O."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
+      },
+      {
+        "id": "bachillerato-2-ciencias-b4-v2-001",
+        "tema": "Ley de Ohm",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
+        "opciones": [
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
         "id": "bachillerato-2-ciencias-b4-002",
-        "tema": "Ley de Ohm",
+        "tema": "Carga eléctrica",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La velocidad de la luz en el vacío es aproximadamente 300,000 km/s",
-        "respuestaCorrecta": "true",
-        "explicacion": "c ≈ 299,792 km/s. Se redondea a 300,000 km/s."
-      },
-      {
-        "id": "bachillerato-2-ciencias-b4-004",
-        "tema": "Ley de Coulomb",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos cromosomas tiene una célula humana normal?",
-        "opciones": [
-          "23",
-          "46",
-          "48",
-          "92"
-        ],
-        "respuestaCorrecta": "46",
-        "explicacion": "Las células humanas diploides tienen 46 cromosomas (23 pares). Solo los gametos tienen 23."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       }
     ]
   },
-  "generado": "2026-02-27T17:22:03.173Z",
-  "version": "3.0"
+  "generado": "2026-03-26T03:09:52.070Z",
+  "version": "2.0"
 }

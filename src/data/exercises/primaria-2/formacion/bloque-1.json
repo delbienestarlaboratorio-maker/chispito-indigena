@@ -38,7 +38,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La respiración es una técnica efectiva para regular emociones intensas."
       },
       {
@@ -58,7 +58,53 @@
         "visual": "💬"
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p2fc-b1-01-v2",
+        "tema": "Empatía",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la empatía? ​",
+        "opciones": [
+          "Entender cómo se siente el otro",
+          "Ignorar a los demás",
+          "Competir siempre",
+          "Ganar siempre"
+        ],
+        "respuestaCorrecta": "Entender cómo se siente el otro",
+        "explicacion": "La empatía nos permite ponernos en el lugar de otros y comprenderlos mejor.",
+        "visual": "🤝"
+      },
+      {
+        "id": "p2fc-b1-02-v2",
+        "tema": "Gestión emocional",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Respirar profundo ayuda a calmarse cuando estamos enojados ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La respiración es una técnica efectiva para regular emociones intensas."
+      },
+      {
+        "id": "p2fc-b1-03-v2",
+        "tema": "Comunicación asertiva",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Comunicación asertiva significa: ​",
+        "opciones": [
+          "Hablar con respeto y claridad",
+          "Gritar siempre",
+          "Callar todo",
+          "Mentir"
+        ],
+        "respuestaCorrecta": "Hablar con respeto y claridad",
+        "explicacion": "La comunicación asertiva expresa lo que pensamos y sentimos sin dañar a los demás.",
+        "visual": "💬"
+      }
+    ],
     "preview": [
       {
         "id": "p2fc-b1-01",
@@ -86,7 +132,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La respiración es una técnica efectiva para regular emociones intensas."
       }
     ]

@@ -10,7 +10,7 @@
     "Escritura de textos argumentativos breves",
     "Signos de puntuación y ortografía"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,74 @@
         "tema": "Textos informativos y expositivos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Textos informativos y expositivos\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Textos",
-          "Se relaciona con el estudio de Textos informativos y expositivos",
-          "Es un proceso que involucra Textos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Textos informativos y expositivos",
-        "explicacion": "💡 Neptuno te ayuda: Textos informativos y expositivos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "telesecundaria-1-lenguajes_nem-b2-002",
         "tema": "Textos informativos y expositivos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Textos informativos y expositivos\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Textos informativos y expositivos\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "telesecundaria-1-lenguajes_nem-b2-003",
         "tema": "Textos informativos y expositivos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Textos informativos y ___",
-        "respuestaCorrecta": "expositivos",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Textos informativos y expositivos\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-004",
-        "tema": "Textos informativos y expositivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Textos informativos y expositivos\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Textos informativos y expositivos",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Textos informativos y expositivos",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Textos informativos y expositivos\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-005",
-        "tema": "El debate escolar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"El debate escolar\"?",
-        "opciones": [
-          "Es un concepto fundamental de debate",
-          "Se relaciona con el estudio de El debate escolar",
-          "Es un proceso que involucra debate",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El debate escolar",
-        "explicacion": "💡 Hada te ayuda: El debate escolar es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-006",
-        "tema": "El debate escolar",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"El debate escolar\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"El debate escolar\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-007",
-        "tema": "El debate escolar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El debate ___",
-        "respuestaCorrecta": "escolar",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"El debate escolar\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-008",
-        "tema": "El debate escolar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"El debate escolar\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre El debate escolar",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre El debate escolar",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"El debate escolar\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-009",
-        "tema": "Escritura de textos argumentativos breves",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Escritura de textos argumentativos breves\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Escritura",
-          "Se relaciona con el estudio de Escritura de textos argumentativos breves",
-          "Es un proceso que involucra Escritura",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Escritura de textos argumentativos breves",
-        "explicacion": "💡 Neptuno te ayuda: Escritura de textos argumentativos breves es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-010",
-        "tema": "Escritura de textos argumentativos breves",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Escritura de textos argumentativos breves\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Escritura de textos argumentativos breves\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-011",
-        "tema": "Escritura de textos argumentativos breves",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Escritura de textos argumentativos ___",
-        "respuestaCorrecta": "breves",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Escritura de textos argumentativos breves\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-012",
-        "tema": "Escritura de textos argumentativos breves",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Escritura de textos argumentativos breves\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Escritura de textos argumentativos breves",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Escritura de textos argumentativos breves",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Escritura de textos argumentativos breves\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-013",
-        "tema": "Signos de puntuación y ortografía",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Signos de puntuación y ortografía\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Signos",
-          "Se relaciona con el estudio de Signos de puntuación y ortografía",
-          "Es un proceso que involucra Signos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Signos de puntuación y ortografía",
-        "explicacion": "💡 Neptuno te ayuda: Signos de puntuación y ortografía es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-014",
-        "tema": "Signos de puntuación y ortografía",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Signos de puntuación y ortografía\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Signos de puntuación y ortografía\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-015",
-        "tema": "Signos de puntuación y ortografía",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Signos de puntuación y ___",
-        "respuestaCorrecta": "ortografía",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Signos de puntuación y ortografía\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-016",
-        "tema": "Signos de puntuación y ortografía",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Signos de puntuación y ortografía\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Signos de puntuación y ortografía",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Signos de puntuación y ortografía",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Signos de puntuación y ortografía\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-001",
-        "tema": "Textos informativos y expositivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Textos informativos y expositivos\"?",
-        "opciones": [
-          "Es un concepto fundamental de Textos",
-          "Se relaciona con el estudio de Textos informativos y expositivos",
-          "Es un proceso que involucra Textos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Textos informativos y expositivos",
-        "explicacion": "💡 Neptuno te ayuda: Textos informativos y expositivos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-002",
-        "tema": "Textos informativos y expositivos",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Textos informativos y expositivos\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Textos informativos y expositivos\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-003",
-        "tema": "Textos informativos y expositivos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Textos informativos y ___",
-        "respuestaCorrecta": "expositivos",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Textos informativos y expositivos\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-004",
-        "tema": "El debate escolar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"El debate escolar\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de debate",
-          "Se relaciona con el estudio de El debate escolar",
-          "Es un proceso que involucra debate",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El debate escolar",
-        "explicacion": "💡 Pipo te ayuda: El debate escolar es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-005",
-        "tema": "El debate escolar",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"El debate escolar\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"El debate escolar\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-006",
-        "tema": "El debate escolar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El debate ___",
-        "respuestaCorrecta": "escolar",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"El debate escolar\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-007",
-        "tema": "Escritura de textos argumentativos breves",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Escritura de textos argumentativos breves\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Escritura",
-          "Se relaciona con el estudio de Escritura de textos argumentativos breves",
-          "Es un proceso que involucra Escritura",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Escritura de textos argumentativos breves",
-        "explicacion": "💡 Cuca te ayuda: Escritura de textos argumentativos breves es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-008",
-        "tema": "Escritura de textos argumentativos breves",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Escritura de textos argumentativos breves\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Escritura de textos argumentativos breves\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-009",
-        "tema": "Escritura de textos argumentativos breves",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Escritura de textos argumentativos ___",
-        "respuestaCorrecta": "breves",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Escritura de textos argumentativos breves\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-010",
+        "id": "telesecundaria-1-lenguajes_nem-b2-v2-001",
         "tema": "Signos de puntuación y ortografía",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Respecto a \"Signos de puntuación y ortografía\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Es un concepto fundamental de Signos",
-          "Se relaciona con el estudio de Signos de puntuación y ortografía",
-          "Es un proceso que involucra Signos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Signos de puntuación y ortografía",
-        "explicacion": "💡 Pipo te ayuda: Signos de puntuación y ortografía es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-011",
-        "tema": "Signos de puntuación y ortografía",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Signos de puntuación y ortografía\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Signos de puntuación y ortografía\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-012",
+        "id": "telesecundaria-1-lenguajes_nem-b2-v2-002",
         "tema": "Signos de puntuación y ortografía",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Signos de puntuación y ___",
-        "respuestaCorrecta": "ortografía",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Signos de puntuación y ortografía\" según el programa de estudios."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+      },
+      {
+        "id": "telesecundaria-1-lenguajes_nem-b2-v2-003",
+        "tema": "Signos de puntuación y ortografía",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "opciones": [
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +94,42 @@
         "tema": "Textos informativos y expositivos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Textos informativos y expositivos\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Textos",
-          "Se relaciona con el estudio de Textos informativos y expositivos",
-          "Es un proceso que involucra Textos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Textos informativos y expositivos",
-        "explicacion": "💡 El Búho te ayuda: Textos informativos y expositivos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-lenguajes_nem-b2-v2-001",
+        "tema": "Signos de puntuación y ortografía",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "telesecundaria-1-lenguajes_nem-b2-002",
         "tema": "Textos informativos y expositivos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Textos informativos y expositivos\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Textos informativos y expositivos\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b2-p-001",
-        "tema": "Textos informativos y expositivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Textos informativos y expositivos\"?",
-        "opciones": [
-          "Es un concepto fundamental de Textos",
-          "Se relaciona con el estudio de Textos informativos y expositivos",
-          "Es un proceso que involucra Textos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Textos informativos y expositivos",
-        "explicacion": "💡 El Búho te ayuda: Textos informativos y expositivos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.237Z",
-  "version": "3.0",
-  "historiaChispito": "La computadora central de la nave espacial de Chispito ha detectado anomalías en el sector de Comunicación y diálogo. ¡Nico necesita tu talento brillante para arreglarlo!"
+  "generado": "2026-03-26T03:11:48.153Z",
+  "version": "2.0"
 }

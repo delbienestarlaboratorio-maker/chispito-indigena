@@ -8,7 +8,7 @@
     "Letras M, P, S",
     "Sílabas simples"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -16,374 +16,74 @@
         "tema": "Letras M, P, S",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Letras M, P, S\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Letras M, P, S es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
-        "visual": "🔤",
-        "visualAnimado": true
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "kinder-espanol-b2-002",
         "tema": "Letras M, P, S",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Letras M, P, S es parte del currículo oficial de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "kinder-espanol-b2-003",
         "tema": "Letras M, P, S",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En Letras M, P, S, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-extra-007",
-        "tema": "Letras M, P, S",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas es una vocal?",
-        "opciones": [
-          "B",
-          "S",
-          "E",
-          "T"
-        ],
-        "respuestaCorrecta": "E",
-        "explicacion": "Las vocales son: A, E, I, O, U. La B, S y T son consonantes.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-extra-009",
-        "tema": "Letras M, P, S",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"PERRO\" empieza con la letra P",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! P-E-R-R-O. La primera letra es P.",
-        "visual": "🐶",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-extra-011",
-        "tema": "Letras M, P, S",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una oración termina con ___",
-        "respuestaCorrecta": "punto",
-        "explicacion": "Las oraciones terminan con punto (.) para indicar que la idea terminó."
-      },
-      {
-        "id": "kinder-espanol-b2-x-012",
-        "tema": "Letras M, P, S",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué letra empieza \"MAMÁ\"?",
-        "opciones": [
-          "A",
-          "M",
-          "P",
-          "S"
-        ],
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es M de mamá, mariposa, mago.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-013",
-        "tema": "Sílabas simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La \"A\" es una vocal",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí! Las vocales son: A, E, I, O, U.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-014",
-        "tema": "Letras M, P, S",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La vocal que suena en \"OSITO\" al inicio es ___",
-        "respuestaCorrecta": "O",
-        "explicacion": "O-SI-TO. La O es vocal y suena al principio.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-015",
-        "tema": "Sílabas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué letra empieza \"MAMÁ\"?",
-        "opciones": [
-          "A",
-          "M",
-          "P",
-          "S"
-        ],
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es M de mamá, mariposa, mago.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-016",
-        "tema": "Letras M, P, S",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La \"A\" es una vocal",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí! Las vocales son: A, E, I, O, U.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-017",
-        "tema": "Sílabas simples",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La vocal que suena en \"OSITO\" al inicio es ___",
-        "respuestaCorrecta": "O",
-        "explicacion": "O-SI-TO. La O es vocal y suena al principio.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-018",
-        "tema": "Letras M, P, S",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué letra empieza \"MAMÁ\"?",
-        "opciones": [
-          "A",
-          "M",
-          "P",
-          "S"
-        ],
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es M de mamá, mariposa, mago.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-019",
-        "tema": "Sílabas simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La \"A\" es una vocal",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí! Las vocales son: A, E, I, O, U.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-020",
-        "tema": "Letras M, P, S",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La vocal que suena en \"OSITO\" al inicio es ___",
-        "respuestaCorrecta": "O",
-        "explicacion": "O-SI-TO. La O es vocal y suena al principio.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "kinder-espanol-b2-004",
+        "id": "kinder-espanol-b2-v2-001",
         "tema": "Sílabas simples",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Sílabas simples\"?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Sílabas simples es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "kinder-espanol-b2-005",
-        "tema": "Sílabas simples",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Sílabas simples es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
-      },
-      {
-        "id": "kinder-espanol-b2-006",
+        "id": "kinder-espanol-b2-v2-002",
         "tema": "Sílabas simples",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En Sílabas simples, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
       },
       {
-        "id": "kinder-espanol-b2-extra-008",
-        "tema": "Sílabas simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "MA-MA tiene ___ sílabas",
-        "respuestaCorrecta": "2",
-        "explicacion": "MA y MA son las dos sílabas de la palabra mamá.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-extra-010",
+        "id": "kinder-espanol-b2-v2-003",
         "tema": "Sílabas simples",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántas sílabas tiene \"CASA\"?",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "2",
-        "explicacion": "CA-SA tiene 2 sílabas.",
-        "visual": "🏠",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-012",
-        "tema": "Letras M, P, S",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "PA-PÁ tiene ___ sílabas",
-        "respuestaCorrecta": "2",
-        "explicacion": "PA y PÁ son las 2 sílabas de la palabra PAPÁ.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-013",
-        "tema": "Sílabas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"GATO\" empieza con la letra...",
-        "opciones": [
-          "C",
-          "G",
-          "J",
-          "K"
-        ],
-        "respuestaCorrecta": "G",
-        "explicacion": "G-A-T-O. Primera letra G, de gato, globo, guitarra.",
-        "visual": "🐱",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-014",
-        "tema": "Letras M, P, S",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas letras tiene la palabra CASA?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "4",
-        "explicacion": "C-A-S-A = 4 letras.",
-        "visual": "🏠",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-015",
-        "tema": "Sílabas simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "PA-PÁ tiene ___ sílabas",
-        "respuestaCorrecta": "2",
-        "explicacion": "PA y PÁ son las 2 sílabas de la palabra PAPÁ.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-016",
-        "tema": "Letras M, P, S",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"GATO\" empieza con la letra...",
-        "opciones": [
-          "C",
-          "G",
-          "J",
-          "K"
-        ],
-        "respuestaCorrecta": "G",
-        "explicacion": "G-A-T-O. Primera letra G, de gato, globo, guitarra.",
-        "visual": "🐱",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-017",
-        "tema": "Sílabas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas letras tiene la palabra CASA?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "4",
-        "explicacion": "C-A-S-A = 4 letras.",
-        "visual": "🏠",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-018",
-        "tema": "Letras M, P, S",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "PA-PÁ tiene ___ sílabas",
-        "respuestaCorrecta": "2",
-        "explicacion": "PA y PÁ son las 2 sílabas de la palabra PAPÁ.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-x-019",
-        "tema": "Sílabas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"GATO\" empieza con la letra...",
-        "opciones": [
-          "C",
-          "G",
-          "J",
-          "K"
-        ],
-        "respuestaCorrecta": "G",
-        "explicacion": "G-A-T-O. Primera letra G, de gato, globo, guitarra.",
-        "visual": "🐱",
-        "visualAnimado": true
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -392,46 +92,42 @@
         "tema": "Letras M, P, S",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Letras M, P, S\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Letras M, P, S es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
-        "visual": "🔤",
-        "visualAnimado": true
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "kinder-espanol-b2-v2-001",
+        "tema": "Sílabas simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "kinder-espanol-b2-002",
         "tema": "Letras M, P, S",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Letras M, P, S es parte del currículo oficial de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b2-004",
-        "tema": "Sílabas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Sílabas simples\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Sílabas simples es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:23.990Z",
+  "generado": "2026-03-26T03:09:52.185Z",
   "version": "2.0"
 }

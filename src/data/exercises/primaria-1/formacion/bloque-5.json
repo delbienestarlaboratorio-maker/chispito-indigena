@@ -54,7 +54,49 @@
         "explicacion": "La educación es un derecho fundamental de todos los niños en México y el mundo."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p1fc-b5-01-v2",
+        "tema": "Derechos de los niños",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es un derecho de los niños? ​",
+        "opciones": [
+          "Educación gratuita",
+          "Trabajar en fábricas",
+          "Vivir solos",
+          "No tener familia"
+        ],
+        "respuestaCorrecta": "Educación gratuita",
+        "explicacion": "La Convención sobre los Derechos del Niño garantiza el derecho a la educación, salud, juego y protección.",
+        "visual": "📚"
+      },
+      {
+        "id": "p1fc-b5-02-v2",
+        "tema": "Responsabilidades",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es una responsabilidad de los niños en la escuela? ​",
+        "opciones": [
+          "Hacer la tarea",
+          "No escuchar",
+          "Llegar tarde",
+          "No traer materiales"
+        ],
+        "respuestaCorrecta": "Hacer la tarea",
+        "explicacion": "Los niños tienen responsabilidades como hacer tareas, llegar a tiempo y respetar a sus compañeros.",
+        "visual": "✏️"
+      },
+      {
+        "id": "p1fc-b5-03-v2",
+        "tema": "Derechos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Los niños tienen derecho a la ___ ​",
+        "respuestaCorrecta": "educación",
+        "explicacion": "La educación es un derecho fundamental de todos los niños en México y el mundo."
+      }
+    ],
     "preview": [
       {
         "id": "p1fc-b5-01",

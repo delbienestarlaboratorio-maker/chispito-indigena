@@ -10,384 +10,126 @@
     "Comunicación empresarial",
     "LinkedIn y marca personal"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "bachillerato-6-espanol-b4-001",
-        "tema": "Comunicación empresarial",
+        "tema": "CV y carta de presentación",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un sinónimo?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Palabra de significado opuesto",
-          "Palabra de significado similar",
-          "Figura retórica",
-          "Tipo de oración"
-        ],
-        "respuestaCorrecta": "Palabra de significado similar",
-        "explicacion": "Sinónimos son palabras con significado igual o muy parecido. Ej: alegre/contento."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "bachillerato-6-espanol-b4-002",
-        "tema": "LinkedIn y marca personal",
-        "tipo": "fill_blank",
+        "tema": "CV y carta de presentación",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En el verso \"rojo como el fuego\", la comparación es una ___",
-        "respuestaCorrecta": "símil",
-        "explicacion": "El símil compara usando \"como\": \"rojo como el fuego\"."
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "bachillerato-6-espanol-b4-003",
         "tema": "CV y carta de presentación",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El sujeto siempre debe aparecer explícito en la oración",
-        "respuestaCorrecta": "false",
-        "explicacion": "Existen oraciones con sujeto tácito (omitido). Ej: \"Corrí mucho\" — el sujeto \"yo\" está implícito."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-006",
-        "tema": "CV y carta de presentación",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-007",
-        "tema": "Entrevista de trabajo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-008",
-        "tema": "Comunicación empresarial",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-009",
-        "tema": "LinkedIn y marca personal",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-010",
-        "tema": "CV y carta de presentación",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-011",
-        "tema": "Entrevista de trabajo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-012",
-        "tema": "Comunicación empresarial",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-013",
-        "tema": "LinkedIn y marca personal",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-014",
-        "tema": "CV y carta de presentación",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-015",
-        "tema": "Entrevista de trabajo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-016",
-        "tema": "Comunicación empresarial",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-017",
-        "tema": "LinkedIn y marca personal",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "bachillerato-6-espanol-b4-004",
-        "tema": "Entrevista de trabajo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de estos es un texto argumentativo?",
-        "opciones": [
-          "Un cuento",
-          "Una receta",
-          "Un ensayo de opinión",
-          "Un manual de instrucciones"
-        ],
-        "respuestaCorrecta": "Un ensayo de opinión",
-        "explicacion": "El ensayo argumentativo defiende una tesis con argumentos y evidencias."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-005",
-        "tema": "Comunicación empresarial",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Juan Rulfo escribió la novela \"___\"",
-        "respuestaCorrecta": "Pedro Páramo",
-        "explicacion": "\"Pedro Páramo\" (1955) de Juan Rulfo es la obra cumbre de la literatura mexicana del siglo XX."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-006",
-        "tema": "CV y carta de presentación",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-007",
-        "tema": "Entrevista de trabajo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-008",
-        "tema": "Comunicación empresarial",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-009",
-        "tema": "LinkedIn y marca personal",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-010",
-        "tema": "CV y carta de presentación",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-011",
-        "tema": "Entrevista de trabajo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-012",
-        "tema": "Comunicación empresarial",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-013",
+        "id": "bachillerato-6-espanol-b4-v2-001",
         "tema": "LinkedIn y marca personal",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "bachillerato-6-espanol-b4-x-014",
-        "tema": "CV y carta de presentación",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-x-015",
-        "tema": "Entrevista de trabajo",
+        "id": "bachillerato-6-espanol-b4-v2-002",
+        "tema": "LinkedIn y marca personal",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
       },
       {
-        "id": "bachillerato-6-espanol-b4-x-016",
-        "tema": "Comunicación empresarial",
+        "id": "bachillerato-6-espanol-b4-v2-003",
+        "tema": "LinkedIn y marca personal",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
         "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
       {
         "id": "bachillerato-6-espanol-b4-001",
-        "tema": "Comunicación empresarial",
+        "tema": "CV y carta de presentación",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es un sinónimo?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Palabra de significado opuesto",
-          "Palabra de significado similar",
-          "Figura retórica",
-          "Tipo de oración"
-        ],
-        "respuestaCorrecta": "Palabra de significado similar",
-        "explicacion": "Sinónimos son palabras con significado igual o muy parecido. Ej: alegre/contento."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "bachillerato-6-espanol-b4-v2-001",
+        "tema": "LinkedIn y marca personal",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "bachillerato-6-espanol-b4-002",
-        "tema": "LinkedIn y marca personal",
-        "tipo": "fill_blank",
+        "tema": "CV y carta de presentación",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En el verso \"rojo como el fuego\", la comparación es una ___",
-        "respuestaCorrecta": "símil",
-        "explicacion": "El símil compara usando \"como\": \"rojo como el fuego\"."
-      },
-      {
-        "id": "bachillerato-6-espanol-b4-004",
-        "tema": "Entrevista de trabajo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de estos es un texto argumentativo?",
-        "opciones": [
-          "Un cuento",
-          "Una receta",
-          "Un ensayo de opinión",
-          "Un manual de instrucciones"
-        ],
-        "respuestaCorrecta": "Un ensayo de opinión",
-        "explicacion": "El ensayo argumentativo defiende una tesis con argumentos y evidencias."
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-02-27T17:22:03.309Z",
-  "version": "3.0"
+  "generado": "2026-03-26T03:09:52.166Z",
+  "version": "2.0"
 }

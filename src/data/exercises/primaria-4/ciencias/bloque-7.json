@@ -1,66 +1,114 @@
 {
-    "grado": "primaria-4",
-    "materia": "ciencias",
-    "bloque": 7,
-    "nombre": "México natural (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Ecosistemas de México en LSM",
-        "Cadena alimenticia con señas",
-        "Energía y luz: fuentes y usos",
-        "Contaminación y reciclaje"
+  "grado": "primaria-4",
+  "materia": "ciencias",
+  "bloque": 7,
+  "nombre": "México natural (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Ecosistemas de México en LSM",
+    "Cadena alimenticia con señas",
+    "Energía y luz: fuentes y usos",
+    "Contaminación y reciclaje"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p4-cie-b7-v1-001",
+        "tema": "Ecosistemas de México",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "México tiene desiertos, selvas y bosques. ¿Cómo representarías 'SELVA' en LSM?",
+        "opciones": [
+          "Ambos antebrazos verticales con las manos abiertas arriba (como árboles), moviéndolos ligeramente para simular vegetación abundante y densa.",
+          "Un solo dedo apuntando hacia arriba como un tronco delgado.",
+          "Las manos planas sobre la mesa simulando el suelo."
+        ],
+        "respuestaCorrecta": "Ambos antebrazos verticales con las manos abiertas arriba (como árboles), moviéndolos ligeramente para simular vegetación abundante y densa.",
+        "explicacion": "¡Exacto! Los ecosistemas se representan con clasificadores descriptivos. Los antebrazos son los troncos y las manos abiertas son las copas frondosas. 🌴"
+      },
+      {
+        "id": "p4-cie-b7-v1-002",
+        "tema": "Cadena alimenticia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En LSM, para explicar la cadena alimenticia, podemos usar la seña de 'COMER' repetidamente apuntando de un animal (presa) hacia otro (depredador), mostrando la dirección de la energía.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! La dirección de las señas muestra el flujo: PLANTA → RATÓN COME → SERPIENTE COME → ÁGUILA COME. La secuencia temporal y la dirección son herramientas fundamentales de la LSM. 🦅"
+      },
+      {
+        "id": "p4-cie-b7-v1-003",
+        "tema": "Energía y luz",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para la seña de 'LUZ' o 'ELECTRICIDAD', abrimos y cerramos los dedos rápidamente cerca de un foco imaginario, imitando el ___.",
+        "respuestaCorrecta": "parpadeo",
+        "explicacion": "¡Correcto! El parpadeo o destello es la esencia visual de la luz. Esa apertura y cierre rápido de los dedos imita cómo se enciende y apaga un foco. 💡"
+      },
+      {
+        "id": "p4-cie-b7-v1-004",
+        "tema": "Contaminación y reciclaje",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo expresarías 'RECICLAR' en LSM?",
+        "opciones": [
+          "Con las manos haciendo un movimiento circular (como flechas girando en bucle), imitando el símbolo universal de reciclaje ♻️.",
+          "Aplastando algo invisible entre las palmas.",
+          "Agitando las manos como si dijéramos 'adiós' a la basura."
+        ],
+        "respuestaCorrecta": "Con las manos haciendo un movimiento circular (como flechas girando en bucle), imitando el símbolo universal de reciclaje ♻️.",
+        "explicacion": "¡Muy bien! La seña de reciclar es icónica: imita el ciclo circular de reuso. Las manos giran una alrededor de la otra, representando transformación continua. ♻️"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "p4-cie-b7-v1-001",
-                "tema": "Ecosistemas de México",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "México tiene desiertos, selvas y bosques. ¿Cómo representarías 'SELVA' en LSM?",
-                "opciones": [
-                    "Ambos antebrazos verticales con las manos abiertas arriba (como árboles), moviéndolos ligeramente para simular vegetación abundante y densa.",
-                    "Un solo dedo apuntando hacia arriba como un tronco delgado.",
-                    "Las manos planas sobre la mesa simulando el suelo."
-                ],
-                "respuestaCorrecta": "Ambos antebrazos verticales con las manos abiertas arriba (como árboles), moviéndolos ligeramente para simular vegetación abundante y densa.",
-                "explicacion": "¡Exacto! Los ecosistemas se representan con clasificadores descriptivos. Los antebrazos son los troncos y las manos abiertas son las copas frondosas. 🌴"
-            },
-            {
-                "id": "p4-cie-b7-v1-002",
-                "tema": "Cadena alimenticia",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "En LSM, para explicar la cadena alimenticia, podemos usar la seña de 'COMER' repetidamente apuntando de un animal (presa) hacia otro (depredador), mostrando la dirección de la energía.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! La dirección de las señas muestra el flujo: PLANTA → RATÓN COME → SERPIENTE COME → ÁGUILA COME. La secuencia temporal y la dirección son herramientas fundamentales de la LSM. 🦅"
-            },
-            {
-                "id": "p4-cie-b7-v1-003",
-                "tema": "Energía y luz",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para la seña de 'LUZ' o 'ELECTRICIDAD', abrimos y cerramos los dedos rápidamente cerca de un foco imaginario, imitando el ___.",
-                "respuestaCorrecta": "parpadeo",
-                "explicacion": "¡Correcto! El parpadeo o destello es la esencia visual de la luz. Esa apertura y cierre rápido de los dedos imita cómo se enciende y apaga un foco. 💡"
-            },
-            {
-                "id": "p4-cie-b7-v1-004",
-                "tema": "Contaminación y reciclaje",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo expresarías 'RECICLAR' en LSM?",
-                "opciones": [
-                    "Con las manos haciendo un movimiento circular (como flechas girando en bucle), imitando el símbolo universal de reciclaje ♻️.",
-                    "Aplastando algo invisible entre las palmas.",
-                    "Agitando las manos como si dijéramos 'adiós' a la basura."
-                ],
-                "respuestaCorrecta": "Con las manos haciendo un movimiento circular (como flechas girando en bucle), imitando el símbolo universal de reciclaje ♻️.",
-                "explicacion": "¡Muy bien! La seña de reciclar es icónica: imita el ciclo circular de reuso. Las manos giran una alrededor de la otra, representando transformación continua. ♻️"
-            }
-        ]
-    },
-    "generado": "2026-03-10T19:10:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "p4-cie-b7-v1-001-v2",
+        "tema": "Ecosistemas de México",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "México tiene desiertos, selvas y bosques. ¿Cómo representarías 'SELVA' en LSM? ​",
+        "opciones": [
+          "Ambos antebrazos verticales con las manos abiertas arriba (como árboles), moviéndolos ligeramente para simular vegetación abundante y densa.",
+          "Un solo dedo apuntando hacia arriba como un tronco delgado.",
+          "Las manos planas sobre la mesa simulando el suelo."
+        ],
+        "respuestaCorrecta": "Ambos antebrazos verticales con las manos abiertas arriba (como árboles), moviéndolos ligeramente para simular vegetación abundante y densa.",
+        "explicacion": "¡Exacto! Los ecosistemas se representan con clasificadores descriptivos. Los antebrazos son los troncos y las manos abiertas son las copas frondosas. 🌴"
+      },
+      {
+        "id": "p4-cie-b7-v1-002-v2",
+        "tema": "Cadena alimenticia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En LSM, para explicar la cadena alimenticia, podemos usar la seña de 'COMER' repetidamente apuntando de un animal (presa) hacia otro (depredador), mostrando la dirección de la energía. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! La dirección de las señas muestra el flujo: PLANTA → RATÓN COME → SERPIENTE COME → ÁGUILA COME. La secuencia temporal y la dirección son herramientas fundamentales de la LSM. 🦅"
+      },
+      {
+        "id": "p4-cie-b7-v1-003-v2",
+        "tema": "Energía y luz",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para la seña de 'LUZ' o 'ELECTRICIDAD', abrimos y cerramos los dedos rápidamente cerca de un foco imaginario, imitando el ___. ​",
+        "respuestaCorrecta": "parpadeo",
+        "explicacion": "¡Correcto! El parpadeo o destello es la esencia visual de la luz. Esa apertura y cierre rápido de los dedos imita cómo se enciende y apaga un foco. 💡"
+      },
+      {
+        "id": "p4-cie-b7-v1-004-v2",
+        "tema": "Contaminación y reciclaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo expresarías 'RECICLAR' en LSM? ​",
+        "opciones": [
+          "Con las manos haciendo un movimiento circular (como flechas girando en bucle), imitando el símbolo universal de reciclaje ♻️.",
+          "Aplastando algo invisible entre las palmas.",
+          "Agitando las manos como si dijéramos 'adiós' a la basura."
+        ],
+        "respuestaCorrecta": "Con las manos haciendo un movimiento circular (como flechas girando en bucle), imitando el símbolo universal de reciclaje ♻️.",
+        "explicacion": "¡Muy bien! La seña de reciclar es icónica: imita el ciclo circular de reuso. Las manos giran una alrededor de la otra, representando transformación continua. ♻️"
+      }
+    ]
+  },
+  "generado": "2026-03-10T19:10:00.000Z",
+  "version": "3.0"
 }

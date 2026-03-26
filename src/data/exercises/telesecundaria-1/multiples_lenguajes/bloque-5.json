@@ -10,7 +10,7 @@
     "Exposición colectiva",
     "Festival cultural escolar"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,74 @@
         "tema": "Arte y comunidad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Arte y comunidad\", ¿qué es lo más importante?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Arte",
-          "Se relaciona con el estudio de Arte y comunidad",
-          "Es un proceso que involucra Arte",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Arte y comunidad",
-        "explicacion": "💡 Pipo te ayuda: Arte y comunidad es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "telesecundaria-1-multiples_lenguajes-b5-002",
         "tema": "Arte y comunidad",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Arte y comunidad\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Arte y comunidad\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "telesecundaria-1-multiples_lenguajes-b5-003",
         "tema": "Arte y comunidad",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El tema de ___ se estudia en este bloque de Telesecundaria",
-        "respuestaCorrecta": "Arte",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Arte y comunidad\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-004",
-        "tema": "Arte y comunidad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Arte y comunidad\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Arte y comunidad",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Arte y comunidad",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Arte y comunidad\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-005",
-        "tema": "Intervención artística",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En el tema de \"Intervención artística\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Intervención",
-          "Se relaciona con el estudio de Intervención artística",
-          "Es un proceso que involucra Intervención",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Intervención artística",
-        "explicacion": "💡 Pipo te ayuda: Intervención artística es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-006",
-        "tema": "Intervención artística",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Intervención artística\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Intervención artística\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-007",
-        "tema": "Intervención artística",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Intervención ___",
-        "respuestaCorrecta": "artística",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Intervención artística\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-008",
-        "tema": "Intervención artística",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Intervención artística\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Intervención artística",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Intervención artística",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Intervención artística\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-009",
-        "tema": "Exposición colectiva",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Exposición colectiva\"?",
-        "opciones": [
-          "Es un concepto fundamental de Exposición",
-          "Se relaciona con el estudio de Exposición colectiva",
-          "Es un proceso que involucra Exposición",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Exposición colectiva",
-        "explicacion": "💡 Pipo te ayuda: Exposición colectiva es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-010",
-        "tema": "Exposición colectiva",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Exposición colectiva\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Exposición colectiva\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-011",
-        "tema": "Exposición colectiva",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Exposición ___",
-        "respuestaCorrecta": "colectiva",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Exposición colectiva\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-012",
-        "tema": "Exposición colectiva",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Exposición colectiva\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Exposición colectiva",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Exposición colectiva",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Exposición colectiva\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-013",
-        "tema": "Festival cultural escolar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Festival cultural escolar\"?",
-        "opciones": [
-          "Es un concepto fundamental de Festival",
-          "Se relaciona con el estudio de Festival cultural escolar",
-          "Es un proceso que involucra Festival",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Festival cultural escolar",
-        "explicacion": "💡 El Búho te ayuda: Festival cultural escolar es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-014",
-        "tema": "Festival cultural escolar",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Festival cultural escolar\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Festival cultural escolar\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-015",
-        "tema": "Festival cultural escolar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Festival cultural ___",
-        "respuestaCorrecta": "escolar",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Festival cultural escolar\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-016",
-        "tema": "Festival cultural escolar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Festival cultural escolar\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Festival cultural escolar",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Festival cultural escolar",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Festival cultural escolar\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-001",
-        "tema": "Arte y comunidad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Arte y comunidad\"?",
-        "opciones": [
-          "Es un concepto fundamental de Arte",
-          "Se relaciona con el estudio de Arte y comunidad",
-          "Es un proceso que involucra Arte",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Arte y comunidad",
-        "explicacion": "💡 Cuca te ayuda: Arte y comunidad es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-002",
-        "tema": "Arte y comunidad",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Arte y comunidad\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Arte y comunidad\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-003",
-        "tema": "Arte y comunidad",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El tema de ___ se estudia en este bloque de Telesecundaria",
-        "respuestaCorrecta": "Arte",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Arte y comunidad\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-004",
-        "tema": "Intervención artística",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Intervención artística\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Intervención",
-          "Se relaciona con el estudio de Intervención artística",
-          "Es un proceso que involucra Intervención",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Intervención artística",
-        "explicacion": "💡 Pipo te ayuda: Intervención artística es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-005",
-        "tema": "Intervención artística",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Intervención artística\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Intervención artística\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-006",
-        "tema": "Intervención artística",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Intervención ___",
-        "respuestaCorrecta": "artística",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Intervención artística\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-007",
-        "tema": "Exposición colectiva",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Exposición colectiva\"?",
-        "opciones": [
-          "Es un concepto fundamental de Exposición",
-          "Se relaciona con el estudio de Exposición colectiva",
-          "Es un proceso que involucra Exposición",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Exposición colectiva",
-        "explicacion": "💡 Cuca te ayuda: Exposición colectiva es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-008",
-        "tema": "Exposición colectiva",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Exposición colectiva\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Exposición colectiva\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-009",
-        "tema": "Exposición colectiva",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Exposición ___",
-        "respuestaCorrecta": "colectiva",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Exposición colectiva\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-010",
+        "id": "telesecundaria-1-multiples_lenguajes-b5-v2-001",
         "tema": "Festival cultural escolar",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Respecto a \"Festival cultural escolar\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Es un concepto fundamental de Festival",
-          "Se relaciona con el estudio de Festival cultural escolar",
-          "Es un proceso que involucra Festival",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Festival cultural escolar",
-        "explicacion": "💡 Pipo te ayuda: Festival cultural escolar es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-011",
-        "tema": "Festival cultural escolar",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Festival cultural escolar\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Festival cultural escolar\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-012",
+        "id": "telesecundaria-1-multiples_lenguajes-b5-v2-002",
         "tema": "Festival cultural escolar",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Festival cultural ___",
-        "respuestaCorrecta": "escolar",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Festival cultural escolar\" según el programa de estudios."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+      },
+      {
+        "id": "telesecundaria-1-multiples_lenguajes-b5-v2-003",
+        "tema": "Festival cultural escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "opciones": [
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +94,42 @@
         "tema": "Arte y comunidad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Arte y comunidad\", ¿qué es lo más importante?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Arte",
-          "Se relaciona con el estudio de Arte y comunidad",
-          "Es un proceso que involucra Arte",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Arte y comunidad",
-        "explicacion": "💡 Pipo te ayuda: Arte y comunidad es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-multiples_lenguajes-b5-v2-001",
+        "tema": "Festival cultural escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "telesecundaria-1-multiples_lenguajes-b5-002",
         "tema": "Arte y comunidad",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Arte y comunidad\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Arte y comunidad\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b5-p-001",
-        "tema": "Arte y comunidad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Arte y comunidad\"?",
-        "opciones": [
-          "Es un concepto fundamental de Arte",
-          "Se relaciona con el estudio de Arte y comunidad",
-          "Es un proceso que involucra Arte",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Arte y comunidad",
-        "explicacion": "💡 Hada te ayuda: Arte y comunidad es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.282Z",
-  "version": "3.0",
-  "historiaChispito": "La computadora central de la nave espacial de Chispito ha detectado anomalías en el sector de Proyecto artístico. ¡Nico necesita tu talento brillante para arreglarlo!"
+  "generado": "2026-03-26T03:11:48.161Z",
+  "version": "2.0"
 }

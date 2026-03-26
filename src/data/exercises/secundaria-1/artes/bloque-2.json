@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La arquitectura prehispánica combina arte, ciencia y espiritualidad."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El muralismo nació en los años 1920s como herramienta educativa post-revolucionaria."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La UNAM fue declarada Patrimonio por la UNESCO, incluyendo sus murales."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "Auto = uno mismo. Auto + retrato = retrato de sí mismo."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s1art-b2-01-v2",
+        "tema": "Muralismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el muralismo mexicano? ​",
+        "opciones": [
+          "Movimiento artístico de pintura en muros públicos",
+          "Escultura en madera",
+          "Fotografía artística",
+          "Arte digital"
+        ],
+        "respuestaCorrecta": "Movimiento artístico de pintura en muros públicos",
+        "explicacion": "El muralismo plasmó la historia y luchas de México en paredes de edificios públicos."
+      },
+      {
+        "id": "s1art-b2-02-v2",
+        "tema": "Muralismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quiénes son los \"tres grandes\" del muralismo? ​",
+        "opciones": [
+          "Rivera, Orozco y Siqueiros",
+          "Kahlo, Tamayo y Rivera",
+          "Picasso, Dalí y Miró",
+          "Van Gogh, Monet y Renoir"
+        ],
+        "respuestaCorrecta": "Rivera, Orozco y Siqueiros",
+        "explicacion": "Diego Rivera, José Clemente Orozco y David Alfaro Siqueiros son los tres grandes muralistas."
+      },
+      {
+        "id": "s1art-b2-03-v2",
+        "tema": "Prehispánico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las pirámides mayas y aztecas son obras arquitectónicas ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La arquitectura prehispánica combina arte, ciencia y espiritualidad."
+      },
+      {
+        "id": "s1art-b2-04-v2",
+        "tema": "Prehispánico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es un ejemplo de arte prehispánico? ​",
+        "opciones": [
+          "La Piedra del Sol (Calendario Azteca)",
+          "La Mona Lisa",
+          "El David de Miguel Ángel",
+          "La Torre Eiffel"
+        ],
+        "respuestaCorrecta": "La Piedra del Sol (Calendario Azteca)",
+        "explicacion": "La Piedra del Sol es una obra maestra de arte y ciencia azteca."
+      },
+      {
+        "id": "s1art-b2-05-v2",
+        "tema": "Artistas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Frida Kahlo era famosa por: ​",
+        "opciones": [
+          "Sus autorretratos que expresaban dolor e identidad",
+          "Sus murales gigantes",
+          "Sus esculturas de bronce",
+          "Sus fotografías de paisajes"
+        ],
+        "respuestaCorrecta": "Sus autorretratos que expresaban dolor e identidad",
+        "explicacion": "Frida pintó su realidad personal con simbolismo mexicano profundo."
+      },
+      {
+        "id": "s1art-b2-06-v2",
+        "tema": "Muralismo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El muralismo surgió después de la Revolución Mexicana ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El muralismo nació en los años 1920s como herramienta educativa post-revolucionaria."
+      },
+      {
+        "id": "s1art-b2-07-v2",
+        "tema": "Prehispánico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué material usaban los mayas para sus esculturas? ​",
+        "opciones": [
+          "Piedra caliza",
+          "Plástico",
+          "Metal moderno",
+          "Vidrio"
+        ],
+        "respuestaCorrecta": "Piedra caliza",
+        "explicacion": "Los mayas trabajaban piedra caliza para estelas, dinteles y fachadas monumentales."
+      },
+      {
+        "id": "s1art-b2-08-v2",
+        "tema": "Artistas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Rufino Tamayo se distinguía de los muralistas por: ​",
+        "opciones": [
+          "Usar colores vibrantes y temas universales, no solo políticos",
+          "No pintar nunca",
+          "Solo hacer esculturas",
+          "Copiar a Rivera"
+        ],
+        "respuestaCorrecta": "Usar colores vibrantes y temas universales, no solo políticos",
+        "explicacion": "Tamayo fusionó lo mexicano con tendencias de vanguardia internacional."
+      },
+      {
+        "id": "s1art-b2-09-v2",
+        "tema": "Muralismo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los murales de la UNAM son Patrimonio de la Humanidad ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La UNAM fue declarada Patrimonio por la UNESCO, incluyendo sus murales."
+      },
+      {
+        "id": "s1art-b2-10-v2",
+        "tema": "Arte",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un autorretrato? ​",
+        "opciones": [
+          "Un retrato que el artista hace de sí mismo",
+          "Un paisaje",
+          "Una naturaleza muerta",
+          "Un retrato de otra persona"
+        ],
+        "respuestaCorrecta": "Un retrato que el artista hace de sí mismo",
+        "explicacion": "Auto = uno mismo. Auto + retrato = retrato de sí mismo."
+      }
+    ],
     "preview": [
       {
         "id": "s1art-b2-01",

@@ -38,7 +38,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El respeto es fundamental en la familia. Escuchamos, no agredimos y valoramos a cada integrante."
       },
       {
@@ -58,7 +58,53 @@
         "visual": "🏠"
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p1fc-b2-01-v2",
+        "tema": "Tipos de familia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos tipos de familia existen? ​",
+        "opciones": [
+          "Muchos tipos",
+          "Solo uno",
+          "Exactamente tres",
+          "Dos"
+        ],
+        "respuestaCorrecta": "Muchos tipos",
+        "explicacion": "Las familias pueden ser grandes, pequeñas, con mamá y papá, o con abuelos, tíos, etc. Todas son válidas.",
+        "visual": "👨‍👩‍👧"
+      },
+      {
+        "id": "p1fc-b2-02-v2",
+        "tema": "Respeto en familia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Debemos respetar a todos los miembros de nuestra familia ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El respeto es fundamental en la familia. Escuchamos, no agredimos y valoramos a cada integrante."
+      },
+      {
+        "id": "p1fc-b2-03-v2",
+        "tema": "Roles familiares",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un rol en la familia? ​",
+        "opciones": [
+          "La tarea que cada quien realiza",
+          "Un jugo",
+          "Un tipo de juego",
+          "Una materia escolar"
+        ],
+        "respuestaCorrecta": "La tarea que cada quien realiza",
+        "explicacion": "Cada miembro de la familia tiene responsabilidades: cocinar, trabajar, limpiar, estudiar, etc.",
+        "visual": "🏠"
+      }
+    ],
     "preview": [
       {
         "id": "p1fc-b2-01",
@@ -86,7 +132,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El respeto es fundamental en la familia. Escuchamos, no agredimos y valoramos a cada integrante."
       }
     ]

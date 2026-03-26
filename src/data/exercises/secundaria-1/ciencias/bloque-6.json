@@ -1,66 +1,114 @@
 {
-    "grado": "secundaria-1",
-    "materia": "ciencias",
-    "bloque": 6,
-    "nombre": "Fuerzas invisibles (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Fuerza y movimiento en LSM",
-        "Energía cinética y potencial",
-        "Ondas y sonido (ironía productiva)",
-        "Método científico visual"
+  "grado": "secundaria-1",
+  "materia": "ciencias",
+  "bloque": 6,
+  "nombre": "Fuerzas invisibles (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Fuerza y movimiento en LSM",
+    "Energía cinética y potencial",
+    "Ondas y sonido (ironía productiva)",
+    "Método científico visual"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s1-cie-b6-v1-001",
+        "tema": "Fuerza y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se expresa 'FUERZA' en Lengua de Señas Mexicana en un contexto de física?",
+        "opciones": [
+          "Se flexiona el brazo mostrando el bíceps (la fuerza muscular como ícono), y para especificar dirección se agrega un vector con el dedo índice apuntando en la dirección de la fuerza aplicada.",
+          "Se da un golpe en la mesa.",
+          "Se deletrea F-U-E-R-Z-A."
+        ],
+        "respuestaCorrecta": "Se flexiona el brazo mostrando el bíceps (la fuerza muscular como ícono), y para especificar dirección se agrega un vector con el dedo índice apuntando en la dirección de la fuerza aplicada.",
+        "explicacion": "¡Exacto! La FUERZA en LSM combina la imagen icónica (bíceps) con el concepto físico (dirección vectorial). La LSM puede distinguir 'fuerza' cotidiana de 'fuerza' como magnitud vectorial agregando dirección. 💪➡️"
+      },
+      {
+        "id": "s1-cie-b6-v1-002",
+        "tema": "Energía cinética y potencial",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En LSM, la diferencia entre energía cinética (en movimiento) y potencial (almacenada) se expresa con el MISMO signo de ENERGÍA pero cambiando el movimiento: cinética = manos vibrando y moviéndose, potencial = manos vibrando pero quietas/tensas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! La distinción es brillante: la energía en movimiento SE MUEVE (vibración + traslación). La energía almacenada VIBRA SIN MOVERSE (tensión estática). El modificador de movimiento cambia el tipo de energía. ¡Física visual! ⚡🔋"
+      },
+      {
+        "id": "s1-cie-b6-v1-003",
+        "tema": "Ondas y sonido",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El sonido es uno de los temas más interesantes de enseñar en LSM porque la comunidad sorda experimenta las vibraciones táctilmente. En LSM, 'VIBRACIÓN' se representa con las manos ___ rápidamente pero con poco desplazamiento.",
+        "respuestaCorrecta": "temblando",
+        "explicacion": "¡Correcto! La comunidad sorda no 'escucha' el sonido pero SÍ lo experimenta como vibración: los bajos del bajo, el motor de un camión, un trueno. La seña de VIBRACIÓN captura esa experiencia táctil que es real y rica. 🫨"
+      },
+      {
+        "id": "s1-cie-b6-v1-004",
+        "tema": "Método científico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo expresarías los pasos del método científico en LSM?",
+        "opciones": [
+          "Cada paso ocupa un espacio: OBSERVAR (ojos + señalar), PREGUNTAR (cejas levantadas), HIPÓTESIS (YO-PIENSO + QUIZÁS), EXPERIMENTAR (manos manipulando), CONCLUIR (manos cerrando = resultado final).",
+          "Se dibuja un triángulo en el aire representando el embudo científico.",
+          "Se deletrean las 5 palabras completas."
+        ],
+        "respuestaCorrecta": "Cada paso ocupa un espacio: OBSERVAR (ojos + señalar), PREGUNTAR (cejas levantadas), HIPÓTESIS (YO-PIENSO + QUIZÁS), EXPERIMENTAR (manos manipulando), CONCLUIR (manos cerrando = resultado final).",
+        "explicacion": "¡Perfecto! El método científico se convierte en una secuencia espacial: 5 posiciones de izquierda a derecha, cada una con su seña. El alumno puede 'recorrer' los pasos moviéndose en el espacio. ¡Ciencia en 3D! 🔬"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "s1-cie-b6-v1-001",
-                "tema": "Fuerza y movimiento",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se expresa 'FUERZA' en Lengua de Señas Mexicana en un contexto de física?",
-                "opciones": [
-                    "Se flexiona el brazo mostrando el bíceps (la fuerza muscular como ícono), y para especificar dirección se agrega un vector con el dedo índice apuntando en la dirección de la fuerza aplicada.",
-                    "Se da un golpe en la mesa.",
-                    "Se deletrea F-U-E-R-Z-A."
-                ],
-                "respuestaCorrecta": "Se flexiona el brazo mostrando el bíceps (la fuerza muscular como ícono), y para especificar dirección se agrega un vector con el dedo índice apuntando en la dirección de la fuerza aplicada.",
-                "explicacion": "¡Exacto! La FUERZA en LSM combina la imagen icónica (bíceps) con el concepto físico (dirección vectorial). La LSM puede distinguir 'fuerza' cotidiana de 'fuerza' como magnitud vectorial agregando dirección. 💪➡️"
-            },
-            {
-                "id": "s1-cie-b6-v1-002",
-                "tema": "Energía cinética y potencial",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "En LSM, la diferencia entre energía cinética (en movimiento) y potencial (almacenada) se expresa con el MISMO signo de ENERGÍA pero cambiando el movimiento: cinética = manos vibrando y moviéndose, potencial = manos vibrando pero quietas/tensas.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! La distinción es brillante: la energía en movimiento SE MUEVE (vibración + traslación). La energía almacenada VIBRA SIN MOVERSE (tensión estática). El modificador de movimiento cambia el tipo de energía. ¡Física visual! ⚡🔋"
-            },
-            {
-                "id": "s1-cie-b6-v1-003",
-                "tema": "Ondas y sonido",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "El sonido es uno de los temas más interesantes de enseñar en LSM porque la comunidad sorda experimenta las vibraciones táctilmente. En LSM, 'VIBRACIÓN' se representa con las manos ___ rápidamente pero con poco desplazamiento.",
-                "respuestaCorrecta": "temblando",
-                "explicacion": "¡Correcto! La comunidad sorda no 'escucha' el sonido pero SÍ lo experimenta como vibración: los bajos del bajo, el motor de un camión, un trueno. La seña de VIBRACIÓN captura esa experiencia táctil que es real y rica. 🫨"
-            },
-            {
-                "id": "s1-cie-b6-v1-004",
-                "tema": "Método científico",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo expresarías los pasos del método científico en LSM?",
-                "opciones": [
-                    "Cada paso ocupa un espacio: OBSERVAR (ojos + señalar), PREGUNTAR (cejas levantadas), HIPÓTESIS (YO-PIENSO + QUIZÁS), EXPERIMENTAR (manos manipulando), CONCLUIR (manos cerrando = resultado final).",
-                    "Se dibuja un triángulo en el aire representando el embudo científico.",
-                    "Se deletrean las 5 palabras completas."
-                ],
-                "respuestaCorrecta": "Cada paso ocupa un espacio: OBSERVAR (ojos + señalar), PREGUNTAR (cejas levantadas), HIPÓTESIS (YO-PIENSO + QUIZÁS), EXPERIMENTAR (manos manipulando), CONCLUIR (manos cerrando = resultado final).",
-                "explicacion": "¡Perfecto! El método científico se convierte en una secuencia espacial: 5 posiciones de izquierda a derecha, cada una con su seña. El alumno puede 'recorrer' los pasos moviéndose en el espacio. ¡Ciencia en 3D! 🔬"
-            }
-        ]
-    },
-    "generado": "2026-03-10T19:50:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "s1-cie-b6-v1-001-v2",
+        "tema": "Fuerza y movimiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se expresa 'FUERZA' en Lengua de Señas Mexicana en un contexto de física? ​",
+        "opciones": [
+          "Se flexiona el brazo mostrando el bíceps (la fuerza muscular como ícono), y para especificar dirección se agrega un vector con el dedo índice apuntando en la dirección de la fuerza aplicada.",
+          "Se da un golpe en la mesa.",
+          "Se deletrea F-U-E-R-Z-A."
+        ],
+        "respuestaCorrecta": "Se flexiona el brazo mostrando el bíceps (la fuerza muscular como ícono), y para especificar dirección se agrega un vector con el dedo índice apuntando en la dirección de la fuerza aplicada.",
+        "explicacion": "¡Exacto! La FUERZA en LSM combina la imagen icónica (bíceps) con el concepto físico (dirección vectorial). La LSM puede distinguir 'fuerza' cotidiana de 'fuerza' como magnitud vectorial agregando dirección. 💪➡️"
+      },
+      {
+        "id": "s1-cie-b6-v1-002-v2",
+        "tema": "Energía cinética y potencial",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En LSM, la diferencia entre energía cinética (en movimiento) y potencial (almacenada) se expresa con el MISMO signo de ENERGÍA pero cambiando el movimiento: cinética = manos vibrando y moviéndose, potencial = manos vibrando pero quietas/tensas. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! La distinción es brillante: la energía en movimiento SE MUEVE (vibración + traslación). La energía almacenada VIBRA SIN MOVERSE (tensión estática). El modificador de movimiento cambia el tipo de energía. ¡Física visual! ⚡🔋"
+      },
+      {
+        "id": "s1-cie-b6-v1-003-v2",
+        "tema": "Ondas y sonido",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sonido es uno de los temas más interesantes de enseñar en LSM porque la comunidad sorda experimenta las vibraciones táctilmente. En LSM, 'VIBRACIÓN' se representa con las manos ___ rápidamente pero con poco desplazamiento. ​",
+        "respuestaCorrecta": "temblando",
+        "explicacion": "¡Correcto! La comunidad sorda no 'escucha' el sonido pero SÍ lo experimenta como vibración: los bajos del bajo, el motor de un camión, un trueno. La seña de VIBRACIÓN captura esa experiencia táctil que es real y rica. 🫨"
+      },
+      {
+        "id": "s1-cie-b6-v1-004-v2",
+        "tema": "Método científico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo expresarías los pasos del método científico en LSM? ​",
+        "opciones": [
+          "Cada paso ocupa un espacio: OBSERVAR (ojos + señalar), PREGUNTAR (cejas levantadas), HIPÓTESIS (YO-PIENSO + QUIZÁS), EXPERIMENTAR (manos manipulando), CONCLUIR (manos cerrando = resultado final).",
+          "Se dibuja un triángulo en el aire representando el embudo científico.",
+          "Se deletrean las 5 palabras completas."
+        ],
+        "respuestaCorrecta": "Cada paso ocupa un espacio: OBSERVAR (ojos + señalar), PREGUNTAR (cejas levantadas), HIPÓTESIS (YO-PIENSO + QUIZÁS), EXPERIMENTAR (manos manipulando), CONCLUIR (manos cerrando = resultado final).",
+        "explicacion": "¡Perfecto! El método científico se convierte en una secuencia espacial: 5 posiciones de izquierda a derecha, cada una con su seña. El alumno puede 'recorrer' los pasos moviéndose en el espacio. ¡Ciencia en 3D! 🔬"
+      }
+    ]
+  },
+  "generado": "2026-03-10T19:50:00.000Z",
+  "version": "3.0"
 }

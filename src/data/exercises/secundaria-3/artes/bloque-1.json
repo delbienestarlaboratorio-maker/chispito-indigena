@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Los murales transforman espacios públicos y generan sentido de pertenencia comunitaria."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Canciones de protesta han acompañado movimientos por derechos civiles, paz y justicia."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El teatro-foro y el teatro social abordan problemas reales buscando soluciones colectivas."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "El artista puede ser voz de su comunidad y agente de cambio positivo."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s3art-b1-01-v2",
+        "tema": "Social",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo puede el arte transformar la sociedad? ​",
+        "opciones": [
+          "Creando conciencia, denunciando injusticias e inspirando cambios",
+          "No puede influir",
+          "Solo decorando",
+          "Solo entreteniendo"
+        ],
+        "respuestaCorrecta": "Creando conciencia, denunciando injusticias e inspirando cambios",
+        "explicacion": "El arte tiene poder para visibilizar problemas y movilizar a las personas hacia el cambio."
+      },
+      {
+        "id": "s3art-b1-02-v2",
+        "tema": "Activismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el arte activista? ​",
+        "opciones": [
+          "Arte que aborda problemas sociales para generar conciencia y acción",
+          "Arte sin mensaje",
+          "Solo decoración bonita",
+          "Arte solo para museos"
+        ],
+        "respuestaCorrecta": "Arte que aborda problemas sociales para generar conciencia y acción",
+        "explicacion": "El arte activista usa la creatividad como herramienta de cambio social."
+      },
+      {
+        "id": "s3art-b1-03-v2",
+        "tema": "Social",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los murales comunitarios pueden fortalecer la identidad de un barrio ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Los murales transforman espacios públicos y generan sentido de pertenencia comunitaria."
+      },
+      {
+        "id": "s3art-b1-04-v2",
+        "tema": "Historia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué movimiento artístico denunció los horrores de la guerra? ​",
+        "opciones": [
+          "El Guernica de Picasso y el expresionismo",
+          "El impresionismo",
+          "El renacimiento",
+          "El romanticismo"
+        ],
+        "respuestaCorrecta": "El Guernica de Picasso y el expresionismo",
+        "explicacion": "El Guernica denuncia el bombardeo de la ciudad española durante la Guerra Civil."
+      },
+      {
+        "id": "s3art-b1-05-v2",
+        "tema": "Social",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El street art (arte urbano) puede ser una forma de: ​",
+        "opciones": [
+          "Expresión cultural, denuncia social y embellecimiento urbano",
+          "Solo vandalismo",
+          "Solo decoración",
+          "Nada significativo"
+        ],
+        "respuestaCorrecta": "Expresión cultural, denuncia social y embellecimiento urbano",
+        "explicacion": "El arte urbano legítimo transforma espacios y comunica mensajes importantes."
+      },
+      {
+        "id": "s3art-b1-06-v2",
+        "tema": "Activismo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La música de protesta ha influido en movimientos sociales en la historia ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Canciones de protesta han acompañado movimientos por derechos civiles, paz y justicia."
+      },
+      {
+        "id": "s3art-b1-07-v2",
+        "tema": "Social",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo usaron los muralistas mexicanos el arte para la sociedad? ​",
+        "opciones": [
+          "Educaron al pueblo sobre su historia y derechos en murales públicos",
+          "Solo decoraron palacios",
+          "Solo pintaron paisajes",
+          "No tenían mensaje"
+        ],
+        "respuestaCorrecta": "Educaron al pueblo sobre su historia y derechos en murales públicos",
+        "explicacion": "El muralismo fue un proyecto educativo y político para un país con alto analfabetismo."
+      },
+      {
+        "id": "s3art-b1-08-v2",
+        "tema": "Activismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es una intervención artística? ​",
+        "opciones": [
+          "Acción temporal que modifica un espacio público con arte",
+          "Un deporte",
+          "Una clase normal",
+          "Un examen"
+        ],
+        "respuestaCorrecta": "Acción temporal que modifica un espacio público con arte",
+        "explicacion": "Las intervenciones sorprenden al público y provocan reflexión sobre el entorno."
+      },
+      {
+        "id": "s3art-b1-09-v2",
+        "tema": "Social",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El teatro puede usarse como herramienta educativa y de sensibilización ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El teatro-foro y el teatro social abordan problemas reales buscando soluciones colectivas."
+      },
+      {
+        "id": "s3art-b1-10-v2",
+        "tema": "Social",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la responsabilidad social del artista? ​",
+        "opciones": [
+          "Usar su talento para contribuir al diálogo y bienestar social",
+          "No tiene responsabilidad",
+          "Solo ganar fama",
+          "Solo vender obras"
+        ],
+        "respuestaCorrecta": "Usar su talento para contribuir al diálogo y bienestar social",
+        "explicacion": "El artista puede ser voz de su comunidad y agente de cambio positivo."
+      }
+    ],
     "preview": [
       {
         "id": "s3art-b1-01",

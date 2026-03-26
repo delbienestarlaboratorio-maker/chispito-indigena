@@ -37,7 +37,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La cooperación y comunicación entre compañeros son clave para el éxito del equipo."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "En basquetbol hay que botar (driblar) la pelota mientras caminas o corres."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Reconocer el esfuerzo del rival es parte del juego limpio y el respeto deportivo."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "La natación individual es un deporte donde compites solo, no en equipo."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p3ef-b2-01-v2",
+        "tema": "Futbol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos jugadores tiene un equipo de futbol en cancha? ​",
+        "opciones": [
+          "11",
+          "9",
+          "7",
+          "5"
+        ],
+        "respuestaCorrecta": "11",
+        "explicacion": "Cada equipo tiene 11 jugadores incluyendo al portero."
+      },
+      {
+        "id": "p3ef-b2-02-v2",
+        "tema": "Equipo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En los deportes de equipo es importante la cooperación ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La cooperación y comunicación entre compañeros son clave para el éxito del equipo."
+      },
+      {
+        "id": "p3ef-b2-03-v2",
+        "tema": "Basquetbol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos puntos vale una canasta normal en basquetbol? ​",
+        "opciones": [
+          "2 puntos",
+          "1 punto",
+          "3 puntos",
+          "5 puntos"
+        ],
+        "respuestaCorrecta": "2 puntos",
+        "explicacion": "Una canasta dentro del área vale 2 puntos. Fuera del arco vale 3."
+      },
+      {
+        "id": "p3ef-b2-04-v2",
+        "tema": "Futbol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién es el único jugador que puede usar las manos en futbol? ​",
+        "opciones": [
+          "El portero",
+          "El delantero",
+          "El mediocampista",
+          "El defensa"
+        ],
+        "respuestaCorrecta": "El portero",
+        "explicacion": "Solo el portero puede tocar el balón con las manos, y solo dentro del área."
+      },
+      {
+        "id": "p3ef-b2-05-v2",
+        "tema": "Equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa \"fair play\"? ​",
+        "opciones": [
+          "Juego limpio: respetar reglas y al rival",
+          "Ganar a toda costa",
+          "Hacer trampa",
+          "No jugar"
+        ],
+        "respuestaCorrecta": "Juego limpio: respetar reglas y al rival",
+        "explicacion": "Fair play es la deportividad: jugar respetando las reglas y a los demás."
+      },
+      {
+        "id": "p3ef-b2-06-v2",
+        "tema": "Basquetbol",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En basquetbol se puede correr con la pelota sin botarla ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "En basquetbol hay que botar (driblar) la pelota mientras caminas o corres."
+      },
+      {
+        "id": "p3ef-b2-07-v2",
+        "tema": "Equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si un compañero comete un error, ¿qué hacemos? ​",
+        "opciones": [
+          "Lo animamos y ayudamos a mejorar",
+          "Lo regañamos",
+          "No le volvemos a pasar la pelota",
+          "Lo sacamos del equipo"
+        ],
+        "respuestaCorrecta": "Lo animamos y ayudamos a mejorar",
+        "explicacion": "Los buenos compañeros se apoyan mutuamente, especialmente ante los errores."
+      },
+      {
+        "id": "p3ef-b2-08-v2",
+        "tema": "Futbol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un \"penalti\" en futbol? ​",
+        "opciones": [
+          "Un tiro libre desde un punto cerca de la portería",
+          "Un gol",
+          "Un saque de banda",
+          "Una falta lejana"
+        ],
+        "respuestaCorrecta": "Un tiro libre desde un punto cerca de la portería",
+        "explicacion": "El penalti se cobra por una falta dentro del área. El tirador queda frente al portero."
+      },
+      {
+        "id": "p3ef-b2-09-v2",
+        "tema": "Equipo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Felicitar al equipo contrario al final del partido es buena deportividad ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Reconocer el esfuerzo del rival es parte del juego limpio y el respeto deportivo."
+      },
+      {
+        "id": "p3ef-b2-10-v2",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estos NO es un deporte de equipo? ​",
+        "opciones": [
+          "Natación individual",
+          "Futbol",
+          "Basquetbol",
+          "Volibol"
+        ],
+        "respuestaCorrecta": "Natación individual",
+        "explicacion": "La natación individual es un deporte donde compites solo, no en equipo."
+      }
+    ],
     "preview": [
       {
         "id": "p3ef-b2-01",
@@ -184,7 +329,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La cooperación y comunicación entre compañeros son clave para el éxito del equipo."
       }
     ]

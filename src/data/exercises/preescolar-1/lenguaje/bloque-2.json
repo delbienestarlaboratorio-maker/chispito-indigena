@@ -1,332 +1,332 @@
 {
-    "grado": "preescolar-1",
-    "materia": "lenguaje",
-    "bloque": 2,
-    "nombre": "Títeres, chocolate y medusas",
-    "libroSep": "Múltiples Lenguajes K1MLA",
-    "paginasLibro": "36-57",
-    "meses": "Octubre – Noviembre",
-    "temas": [
-        "Títeres (p.36-37)",
-        "Una palabra, un dibujo – Nierika (p.38-41)",
-        "Turu y Pompo (p.42-45)",
-        "Hermosas y misteriosas – medusas (p.46-47)",
-        "El sabor del chocolate (p.48-51)",
-        "¿Qué frutas y verduras hay en tu región? (p.52-55)",
-        "Pinturas de Mario Núñez (p.56-57)"
+  "grado": "preescolar-1",
+  "materia": "lenguaje",
+  "bloque": 2,
+  "nombre": "Títeres, chocolate y medusas",
+  "libroSep": "Múltiples Lenguajes K1MLA",
+  "paginasLibro": "36-57",
+  "meses": "Octubre – Noviembre",
+  "temas": [
+    "Títeres (p.36-37)",
+    "Una palabra, un dibujo – Nierika (p.38-41)",
+    "Turu y Pompo (p.42-45)",
+    "Hermosas y misteriosas – medusas (p.46-47)",
+    "El sabor del chocolate (p.48-51)",
+    "¿Qué frutas y verduras hay en tu región? (p.52-55)",
+    "Pinturas de Mario Núñez (p.56-57)"
+  ],
+  "totalEjercicios": 20,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "k1-len-b2-001",
+        "tema": "Títeres (p.36-37)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son los títeres que se muestran en el libro?",
+        "opciones": [
+          "Animales reales",
+          "Muñecos que se mueven con hilos o con las manos",
+          "Robots",
+          "Dibujos en papel"
+        ],
+        "respuestaCorrecta": "Muñecos que se mueven con hilos o con las manos",
+        "explicacion": "En el libro vemos marionetas (muñecos con hilos) y títeres de mano. También se muestran sombras con las manos y niñas jugando con títeres."
+      },
+      {
+        "id": "k1-len-b2-002",
+        "tema": "Títeres (p.36)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Con las manos se pueden hacer sombras para contar historias.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. En la página 36 del libro se muestra una foto de niños haciendo sombras con sus manos frente a una cortina iluminada."
+      },
+      {
+        "id": "k1-len-b2-003",
+        "tema": "Una palabra, un dibujo (p.38)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la palabra especial que trae el capítulo 'Una palabra, un dibujo'?",
+        "opciones": [
+          "Mariposa",
+          "Nierika",
+          "Estrella",
+          "Arcoíris"
+        ],
+        "respuestaCorrecta": "Nierika",
+        "explicacion": "El capítulo dice: '¿Sabes que en una palabra pueden caber muchas cosas? Escucha la palabra que traigo para ti: Nierika'. Es una palabra del arte huichol."
+      },
+      {
+        "id": "k1-len-b2-004",
+        "tema": "Turu y Pompo (p.42-45)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se cuenta la historia de Turu y Pompo?",
+        "opciones": [
+          "Con muchas palabras",
+          "Con dibujos tipo historieta, casi sin palabras",
+          "Con canciones",
+          "Con un video"
+        ],
+        "respuestaCorrecta": "Con dibujos tipo historieta, casi sin palabras",
+        "explicacion": "Turu y Pompo es una historieta visual donde se cuentan las aventuras de dos personajes fantásticos (un robot y un ser verde) usando solo dibujos, sin texto."
+      },
+      {
+        "id": "k1-len-b2-005",
+        "tema": "Hermosas y misteriosas (p.46-47)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal 'hermoso y misterioso' se muestra en el libro?",
+        "opciones": [
+          "Un delfín",
+          "Una medusa",
+          "Un tiburón",
+          "Una ballena"
+        ],
+        "respuestaCorrecta": "Una medusa",
+        "explicacion": "El capítulo 'Hermosas y misteriosas' habla de las medusas. Son animales que flotan en el agua con tentáculos ondulantes y colores brillantes."
+      },
+      {
+        "id": "k1-len-b2-006",
+        "tema": "Hermosas y misteriosas (p.46)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las medusas que se llaman 'aguamalas' pueden picar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El libro dice: '¡Cuidado! Aunque son muy bellas, algunas especies denominadas aguamalas pueden picar, así que es importante admirarlas desde una distancia segura'."
+      },
+      {
+        "id": "k1-len-b2-007",
+        "tema": "El sabor del chocolate (p.48-49)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Según el poema, ¿de qué planta viene el chocolate?",
+        "opciones": [
+          "De la rosa",
+          "Del cacao",
+          "Del maíz",
+          "Del trigo"
+        ],
+        "respuestaCorrecta": "Del cacao",
+        "explicacion": "El poema dice: 'Me dicen que el chocolate sabe a cacao: no es verdad. Bueno, sí sabe un poquito, pero sabe a mil cosas más'."
+      },
+      {
+        "id": "k1-len-b2-008",
+        "tema": "Frutas y verduras (p.52-53)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En el libro aparece un pájaro hecho de frutas y verduras. ¿Qué meses se mencionan?",
+        "opciones": [
+          "Enero, febrero, marzo",
+          "Marzo, abril, mayo",
+          "Junio, julio, agosto",
+          "Septiembre, octubre, noviembre"
+        ],
+        "respuestaCorrecta": "Marzo, abril, mayo",
+        "explicacion": "La imagen muestra un pájaro armado con frutas (aguacate, plátano, mamey) y verduras (elote, lechuga, zanahoria) junto con los meses marzo, abril y mayo."
+      },
+      {
+        "id": "k1-len-b2-009",
+        "tema": "Pinturas de Mario Núñez (p.56-57)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Las pinturas de Mario Núñez que muestra el libro están hechas con:",
+        "opciones": [
+          "Crayolas",
+          "Acuarelas de muchos colores",
+          "Lápiz negro",
+          "Computadora"
+        ],
+        "respuestaCorrecta": "Acuarelas de muchos colores",
+        "explicacion": "Las pinturas de Mario Núñez (1963) son obras abstractas hechas con acuarelas en colores como rojo, amarillo, azul, rosa y verde."
+      },
+      {
+        "id": "k1-len-b2-010",
+        "tema": "El sabor del chocolate (p.48)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El chocolate solo sabe a cacao y a nada más.",
+        "respuestaCorrecta": "false",
+        "explicacion": "Falso. El poema dice que 'sí sabe un poquito a cacao, pero sabe a mil cosas más': sabe a papá, a historias, a la mesa y al pan."
+      }
     ],
-    "totalEjercicios": 20,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "k1-len-b2-001",
-                "tema": "Títeres (p.36-37)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué son los títeres que se muestran en el libro?",
-                "opciones": [
-                    "Animales reales",
-                    "Muñecos que se mueven con hilos o con las manos",
-                    "Robots",
-                    "Dibujos en papel"
-                ],
-                "respuestaCorrecta": "Muñecos que se mueven con hilos o con las manos",
-                "explicacion": "En el libro vemos marionetas (muñecos con hilos) y títeres de mano. También se muestran sombras con las manos y niñas jugando con títeres."
-            },
-            {
-                "id": "k1-len-b2-002",
-                "tema": "Títeres (p.36)",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Con las manos se pueden hacer sombras para contar historias.",
-                "respuestaCorrecta": "true",
-                "explicacion": "Correcto. En la página 36 del libro se muestra una foto de niños haciendo sombras con sus manos frente a una cortina iluminada."
-            },
-            {
-                "id": "k1-len-b2-003",
-                "tema": "Una palabra, un dibujo (p.38)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cuál es la palabra especial que trae el capítulo 'Una palabra, un dibujo'?",
-                "opciones": [
-                    "Mariposa",
-                    "Nierika",
-                    "Estrella",
-                    "Arcoíris"
-                ],
-                "respuestaCorrecta": "Nierika",
-                "explicacion": "El capítulo dice: '¿Sabes que en una palabra pueden caber muchas cosas? Escucha la palabra que traigo para ti: Nierika'. Es una palabra del arte huichol."
-            },
-            {
-                "id": "k1-len-b2-004",
-                "tema": "Turu y Pompo (p.42-45)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se cuenta la historia de Turu y Pompo?",
-                "opciones": [
-                    "Con muchas palabras",
-                    "Con dibujos tipo historieta, casi sin palabras",
-                    "Con canciones",
-                    "Con un video"
-                ],
-                "respuestaCorrecta": "Con dibujos tipo historieta, casi sin palabras",
-                "explicacion": "Turu y Pompo es una historieta visual donde se cuentan las aventuras de dos personajes fantásticos (un robot y un ser verde) usando solo dibujos, sin texto."
-            },
-            {
-                "id": "k1-len-b2-005",
-                "tema": "Hermosas y misteriosas (p.46-47)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué animal 'hermoso y misterioso' se muestra en el libro?",
-                "opciones": [
-                    "Un delfín",
-                    "Una medusa",
-                    "Un tiburón",
-                    "Una ballena"
-                ],
-                "respuestaCorrecta": "Una medusa",
-                "explicacion": "El capítulo 'Hermosas y misteriosas' habla de las medusas. Son animales que flotan en el agua con tentáculos ondulantes y colores brillantes."
-            },
-            {
-                "id": "k1-len-b2-006",
-                "tema": "Hermosas y misteriosas (p.46)",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Las medusas que se llaman 'aguamalas' pueden picar.",
-                "respuestaCorrecta": "true",
-                "explicacion": "Correcto. El libro dice: '¡Cuidado! Aunque son muy bellas, algunas especies denominadas aguamalas pueden picar, así que es importante admirarlas desde una distancia segura'."
-            },
-            {
-                "id": "k1-len-b2-007",
-                "tema": "El sabor del chocolate (p.48-49)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "Según el poema, ¿de qué planta viene el chocolate?",
-                "opciones": [
-                    "De la rosa",
-                    "Del cacao",
-                    "Del maíz",
-                    "Del trigo"
-                ],
-                "respuestaCorrecta": "Del cacao",
-                "explicacion": "El poema dice: 'Me dicen que el chocolate sabe a cacao: no es verdad. Bueno, sí sabe un poquito, pero sabe a mil cosas más'."
-            },
-            {
-                "id": "k1-len-b2-008",
-                "tema": "Frutas y verduras (p.52-53)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "En el libro aparece un pájaro hecho de frutas y verduras. ¿Qué meses se mencionan?",
-                "opciones": [
-                    "Enero, febrero, marzo",
-                    "Marzo, abril, mayo",
-                    "Junio, julio, agosto",
-                    "Septiembre, octubre, noviembre"
-                ],
-                "respuestaCorrecta": "Marzo, abril, mayo",
-                "explicacion": "La imagen muestra un pájaro armado con frutas (aguacate, plátano, mamey) y verduras (elote, lechuga, zanahoria) junto con los meses marzo, abril y mayo."
-            },
-            {
-                "id": "k1-len-b2-009",
-                "tema": "Pinturas de Mario Núñez (p.56-57)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "Las pinturas de Mario Núñez que muestra el libro están hechas con:",
-                "opciones": [
-                    "Crayolas",
-                    "Acuarelas de muchos colores",
-                    "Lápiz negro",
-                    "Computadora"
-                ],
-                "respuestaCorrecta": "Acuarelas de muchos colores",
-                "explicacion": "Las pinturas de Mario Núñez (1963) son obras abstractas hechas con acuarelas en colores como rojo, amarillo, azul, rosa y verde."
-            },
-            {
-                "id": "k1-len-b2-010",
-                "tema": "El sabor del chocolate (p.48)",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "El chocolate solo sabe a cacao y a nada más.",
-                "respuestaCorrecta": "false",
-                "explicacion": "Falso. El poema dice que 'sí sabe un poquito a cacao, pero sabe a mil cosas más': sabe a papá, a historias, a la mesa y al pan."
-            }
+    "v2": [
+      {
+        "id": "k1-len-b2-011",
+        "tema": "Títeres (p.36-37)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de títeres aparecen colgados de hilos en el libro?  ",
+        "opciones": [
+          "Títeres de guante",
+          "Marionetas",
+          "Títeres de sombra",
+          "Títeres de dedo"
         ],
-        "v2": [
-            {
-                "id": "k1-len-b2-011",
-                "tema": "Títeres (p.36-37)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Qué tipo de títeres aparecen colgados de hilos en el libro?",
-                "opciones": [
-                    "Títeres de guante",
-                    "Marionetas",
-                    "Títeres de sombra",
-                    "Títeres de dedo"
-                ],
-                "respuestaCorrecta": "Marionetas",
-                "explicacion": "En la página 36 se ven marionetas: muñecos que cuelgan de hilos atados a un palo de madera (cruz de control). Aparecen un payaso, un esqueleto y un animal."
-            },
-            {
-                "id": "k1-len-b2-012",
-                "tema": "Una palabra, un dibujo (p.38-41)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "La ilustración del capítulo 'Nierika' muestra un paisaje con cactus y un animal azul. ¿Qué tipo de arte representa?",
-                "opciones": [
-                    "Arte europeo",
-                    "Arte huichol / wixárika",
-                    "Arte egipcio",
-                    "Arte japonés"
-                ],
-                "respuestaCorrecta": "Arte huichol / wixárika",
-                "explicacion": "El Nierika es un concepto del arte huichol (wixárika). La ilustración muestra chaquira colorida, cactus del desierto y un venado azul típico de esta cultura mexicana."
-            },
-            {
-                "id": "k1-len-b2-013",
-                "tema": "Turu y Pompo (p.42-45)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿De qué color es el personaje Turu en la historieta?",
-                "opciones": [
-                    "Rojo",
-                    "Azul con suéter morado/rosa",
-                    "Verde",
-                    "Amarillo"
-                ],
-                "respuestaCorrecta": "Azul con suéter morado/rosa",
-                "explicacion": "Turu es un personaje azul/gris con un suéter grande de color morado/rosa. Su amigo Pompo parece un ser verde con antena y puerta en la barriga."
-            },
-            {
-                "id": "k1-len-b2-014",
-                "tema": "Hermosas y misteriosas (p.46-47)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Para qué le sirven los tentáculos a las medusas?",
-                "opciones": [
-                    "Para caminar",
-                    "Para atrapar comida y defenderse de depredadores",
-                    "Para volar",
-                    "Para cantar"
-                ],
-                "respuestaCorrecta": "Para atrapar comida y defenderse de depredadores",
-                "explicacion": "El libro dice que sus tentáculos 'son como largos mechones de pelo que les ayudan a atrapar comida y defenderse de posibles depredadores'."
-            },
-            {
-                "id": "k1-len-b2-015",
-                "tema": "El sabor del chocolate (p.48-51)",
-                "tipo": "fill_blank",
-                "nivel": "v2",
-                "pregunta": "En el poema, el chocolate le recuerda al niño cuando su ___ contaba de cuando conoció el mar.",
-                "respuestaCorrecta": "papá",
-                "explicacion": "El poema dice: 'Sabe a mi papá contando de cuando conoció el mar, con una taza en la mesa y un pedazo de pan'."
-            },
-            {
-                "id": "k1-len-b2-016",
-                "tema": "Frutas y verduras (p.52-55)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Qué forma tiene la figura hecha con frutas y verduras en la página 52?",
-                "opciones": [
-                    "Un perro",
-                    "Un pájaro / loro",
-                    "Un gato",
-                    "Una mariposa"
-                ],
-                "respuestaCorrecta": "Un pájaro / loro",
-                "explicacion": "La imagen muestra un pájaro colorido armado completamente con frutas y verduras reales: aguacate como ojo, mamey, plátano, elote, zanahoria y más."
-            },
-            {
-                "id": "k1-len-b2-017",
-                "tema": "Pinturas de Mario Núñez (p.56)",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "Las pinturas de Mario Núñez muestran personas y casas de forma muy realista.",
-                "respuestaCorrecta": "false",
-                "explicacion": "Falso. Las pinturas de Mario Núñez son abstractas: son manchas y líneas de muchos colores que no representan objetos claros. El libro invita a observarlas con detenimiento."
-            },
-            {
-                "id": "k1-len-b2-018",
-                "tema": "Títeres (p.36-37)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Quién aparece como marioneta con huesos blancos en el libro?",
-                "opciones": [
-                    "Un payaso",
-                    "Un esqueleto",
-                    "Un rey",
-                    "Una princesa"
-                ],
-                "respuestaCorrecta": "Un esqueleto",
-                "explicacion": "Entre las marionetas del libro aparece un esqueleto con huesos blancos colgando de hilos, una figura típica del Día de Muertos en México."
-            },
-            {
-                "id": "k1-len-b2-019",
-                "tema": "Hermosas y misteriosas (p.46)",
-                "tipo": "fill_blank",
-                "nivel": "v2",
-                "pregunta": "El libro dice que las medusas viven en el mar desde hace ___ años.",
-                "respuestaCorrecta": "muchísimos",
-                "explicacion": "El texto dice: 'Las medusas viven en el mar desde hace muchísimos años. Son animales fascinantes que flotan en el agua con sus tentáculos ondulantes'."
-            },
-            {
-                "id": "k1-len-b2-020",
-                "tema": "Turu y Pompo (p.42-45)",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "Turu y Pompo es una historieta donde se lee mucho texto.",
-                "respuestaCorrecta": "false",
-                "explicacion": "Falso. Turu y Pompo es una historieta visual que cuenta la historia casi sin palabras, solo con dibujos en viñetas. El ilustrador es Ricardo Peláez Goycochea."
-            }
+        "respuestaCorrecta": "Marionetas",
+        "explicacion": "En la página 36 se ven marionetas: muñecos que cuelgan de hilos atados a un palo de madera (cruz de control). Aparecen un payaso, un esqueleto y un animal."
+      },
+      {
+        "id": "k1-len-b2-012",
+        "tema": "Una palabra, un dibujo (p.38-41)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La ilustración del capítulo 'Nierika' muestra un paisaje con cactus y un animal azul. ¿Qué tipo de arte representa?  ",
+        "opciones": [
+          "Arte europeo",
+          "Arte huichol / wixárika",
+          "Arte egipcio",
+          "Arte japonés"
         ],
-        "preview": [
-            {
-                "id": "k1-len-b2-005",
-                "tema": "Hermosas y misteriosas (p.46-47)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué animal 'hermoso y misterioso' se muestra en el libro?",
-                "opciones": [
-                    "Un delfín",
-                    "Una medusa",
-                    "Un tiburón",
-                    "Una ballena"
-                ],
-                "respuestaCorrecta": "Una medusa",
-                "explicacion": "El capítulo 'Hermosas y misteriosas' habla de las medusas. Son animales que flotan en el agua con tentáculos ondulantes y colores brillantes."
-            },
-            {
-                "id": "k1-len-b2-007",
-                "tema": "El sabor del chocolate (p.48-49)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "Según el poema, ¿de qué planta viene el chocolate?",
-                "opciones": [
-                    "De la rosa",
-                    "Del cacao",
-                    "Del maíz",
-                    "Del trigo"
-                ],
-                "respuestaCorrecta": "Del cacao",
-                "explicacion": "El poema dice: 'Me dicen que el chocolate sabe a cacao: no es verdad. Bueno, sí sabe un poquito, pero sabe a mil cosas más'."
-            },
-            {
-                "id": "k1-len-b2-004",
-                "tema": "Turu y Pompo (p.42-45)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se cuenta la historia de Turu y Pompo?",
-                "opciones": [
-                    "Con muchas palabras",
-                    "Con dibujos tipo historieta, casi sin palabras",
-                    "Con canciones",
-                    "Con un video"
-                ],
-                "respuestaCorrecta": "Con dibujos tipo historieta, casi sin palabras",
-                "explicacion": "Turu y Pompo es una historieta visual donde se cuentan las aventuras de dos personajes fantásticos usando solo dibujos, sin texto."
-            }
-        ]
-    },
-    "generado": "2026-03-10T21:42:00.000Z",
-    "version": "3.0-libro-real"
+        "respuestaCorrecta": "Arte huichol / wixárika",
+        "explicacion": "El Nierika es un concepto del arte huichol (wixárika). La ilustración muestra chaquira colorida, cactus del desierto y un venado azul típico de esta cultura mexicana."
+      },
+      {
+        "id": "k1-len-b2-013",
+        "tema": "Turu y Pompo (p.42-45)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿De qué color es el personaje Turu en la historieta?  ",
+        "opciones": [
+          "Rojo",
+          "Azul con suéter morado/rosa",
+          "Verde",
+          "Amarillo"
+        ],
+        "respuestaCorrecta": "Azul con suéter morado/rosa",
+        "explicacion": "Turu es un personaje azul/gris con un suéter grande de color morado/rosa. Su amigo Pompo parece un ser verde con antena y puerta en la barriga."
+      },
+      {
+        "id": "k1-len-b2-014",
+        "tema": "Hermosas y misteriosas (p.46-47)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Para qué le sirven los tentáculos a las medusas?  ",
+        "opciones": [
+          "Para caminar",
+          "Para atrapar comida y defenderse de depredadores",
+          "Para volar",
+          "Para cantar"
+        ],
+        "respuestaCorrecta": "Para atrapar comida y defenderse de depredadores",
+        "explicacion": "El libro dice que sus tentáculos 'son como largos mechones de pelo que les ayudan a atrapar comida y defenderse de posibles depredadores'."
+      },
+      {
+        "id": "k1-len-b2-015",
+        "tema": "El sabor del chocolate (p.48-51)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En el poema, el chocolate le recuerda al niño cuando su ___ contaba de cuando conoció el mar.  ",
+        "respuestaCorrecta": "papá",
+        "explicacion": "El poema dice: 'Sabe a mi papá contando de cuando conoció el mar, con una taza en la mesa y un pedazo de pan'."
+      },
+      {
+        "id": "k1-len-b2-016",
+        "tema": "Frutas y verduras (p.52-55)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué forma tiene la figura hecha con frutas y verduras en la página 52?  ",
+        "opciones": [
+          "Un perro",
+          "Un pájaro / loro",
+          "Un gato",
+          "Una mariposa"
+        ],
+        "respuestaCorrecta": "Un pájaro / loro",
+        "explicacion": "La imagen muestra un pájaro colorido armado completamente con frutas y verduras reales: aguacate como ojo, mamey, plátano, elote, zanahoria y más."
+      },
+      {
+        "id": "k1-len-b2-017",
+        "tema": "Pinturas de Mario Núñez (p.56)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las pinturas de Mario Núñez muestran personas y casas de forma muy realista.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "Falso. Las pinturas de Mario Núñez son abstractas: son manchas y líneas de muchos colores que no representan objetos claros. El libro invita a observarlas con detenimiento."
+      },
+      {
+        "id": "k1-len-b2-018",
+        "tema": "Títeres (p.36-37)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién aparece como marioneta con huesos blancos en el libro?  ",
+        "opciones": [
+          "Un payaso",
+          "Un esqueleto",
+          "Un rey",
+          "Una princesa"
+        ],
+        "respuestaCorrecta": "Un esqueleto",
+        "explicacion": "Entre las marionetas del libro aparece un esqueleto con huesos blancos colgando de hilos, una figura típica del Día de Muertos en México."
+      },
+      {
+        "id": "k1-len-b2-019",
+        "tema": "Hermosas y misteriosas (p.46)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El libro dice que las medusas viven en el mar desde hace ___ años.  ",
+        "respuestaCorrecta": "muchísimos",
+        "explicacion": "El texto dice: 'Las medusas viven en el mar desde hace muchísimos años. Son animales fascinantes que flotan en el agua con sus tentáculos ondulantes'."
+      },
+      {
+        "id": "k1-len-b2-020",
+        "tema": "Turu y Pompo (p.42-45)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Turu y Pompo es una historieta donde se lee mucho texto.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "Falso. Turu y Pompo es una historieta visual que cuenta la historia casi sin palabras, solo con dibujos en viñetas. El ilustrador es Ricardo Peláez Goycochea."
+      }
+    ],
+    "preview": [
+      {
+        "id": "k1-len-b2-005",
+        "tema": "Hermosas y misteriosas (p.46-47)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal 'hermoso y misterioso' se muestra en el libro?",
+        "opciones": [
+          "Un delfín",
+          "Una medusa",
+          "Un tiburón",
+          "Una ballena"
+        ],
+        "respuestaCorrecta": "Una medusa",
+        "explicacion": "El capítulo 'Hermosas y misteriosas' habla de las medusas. Son animales que flotan en el agua con tentáculos ondulantes y colores brillantes."
+      },
+      {
+        "id": "k1-len-b2-007",
+        "tema": "El sabor del chocolate (p.48-49)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Según el poema, ¿de qué planta viene el chocolate?",
+        "opciones": [
+          "De la rosa",
+          "Del cacao",
+          "Del maíz",
+          "Del trigo"
+        ],
+        "respuestaCorrecta": "Del cacao",
+        "explicacion": "El poema dice: 'Me dicen que el chocolate sabe a cacao: no es verdad. Bueno, sí sabe un poquito, pero sabe a mil cosas más'."
+      },
+      {
+        "id": "k1-len-b2-004",
+        "tema": "Turu y Pompo (p.42-45)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se cuenta la historia de Turu y Pompo?",
+        "opciones": [
+          "Con muchas palabras",
+          "Con dibujos tipo historieta, casi sin palabras",
+          "Con canciones",
+          "Con un video"
+        ],
+        "respuestaCorrecta": "Con dibujos tipo historieta, casi sin palabras",
+        "explicacion": "Turu y Pompo es una historieta visual donde se cuentan las aventuras de dos personajes fantásticos usando solo dibujos, sin texto."
+      }
+    ]
+  },
+  "generado": "2026-03-10T21:42:00.000Z",
+  "version": "3.0-libro-real"
 }

@@ -36,7 +36,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Los árboles y plantas nos dan oxígeno, sombra y son hogar de animales."
       },
       {
@@ -79,7 +79,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Las flores son parte de las plantas vivas y arrancarlas les hace daño."
       },
       {
@@ -122,7 +122,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El agua limpia es necesaria para las personas, los animales y las plantas."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "El agua es un recurso limitado y debemos cuidarla cerrando la llave siempre."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p1ef-b5-01-v2",
+        "tema": "Aire libre",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué es bueno jugar al aire libre? ​",
+        "opciones": [
+          "Nos da sol, aire fresco y espacio para movernos",
+          "Solo porque sí",
+          "Para alejarnos de casa",
+          "Para no estudiar"
+        ],
+        "respuestaCorrecta": "Nos da sol, aire fresco y espacio para movernos",
+        "explicacion": "El sol nos da vitamina D, el aire fresco nos oxigena y el espacio nos deja movernos libremente."
+      },
+      {
+        "id": "p1ef-b5-02-v2",
+        "tema": "Naturaleza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Debemos cuidar los árboles y plantas del parque ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Los árboles y plantas nos dan oxígeno, sombra y son hogar de animales."
+      },
+      {
+        "id": "p1ef-b5-03-v2",
+        "tema": "Seguridad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos llevar al parque en un día de mucho sol? ​",
+        "opciones": [
+          "Agua y gorra o sombrero",
+          "Solo dulces",
+          "Un abrigo de invierno",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Agua y gorra o sombrero",
+        "explicacion": "El agua nos hidrata y la gorra protege nuestra cabeza del sol."
+      },
+      {
+        "id": "p1ef-b5-04-v2",
+        "tema": "Naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Dónde debemos tirar la basura en el parque? ​",
+        "opciones": [
+          "En el bote de basura",
+          "En el pasto",
+          "En la fuente de agua",
+          "Debajo de un árbol"
+        ],
+        "respuestaCorrecta": "En el bote de basura",
+        "explicacion": "Tirar la basura en su lugar cuida el medio ambiente y los espacios para todos."
+      },
+      {
+        "id": "p1ef-b5-05-v2",
+        "tema": "Naturaleza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "No debemos arrancar las flores de los jardines ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Las flores son parte de las plantas vivas y arrancarlas les hace daño."
+      },
+      {
+        "id": "p1ef-b5-06-v2",
+        "tema": "Aire libre",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué actividades podemos hacer en el parque? ​",
+        "opciones": [
+          "Correr, saltar, columpiarse, jugar pelota",
+          "Solo sentarse",
+          "Solo ver el celular",
+          "Solo comer"
+        ],
+        "respuestaCorrecta": "Correr, saltar, columpiarse, jugar pelota",
+        "explicacion": "El parque es el lugar perfecto para muchas actividades físicas divertidas."
+      },
+      {
+        "id": "p1ef-b5-07-v2",
+        "tema": "Seguridad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si te lastimas jugando en el parque, ¿qué haces? ​",
+        "opciones": [
+          "Aviso a un adulto",
+          "Me quedo callado",
+          "Sigo jugando",
+          "Me escondo"
+        ],
+        "respuestaCorrecta": "Aviso a un adulto",
+        "explicacion": "Siempre debemos avisar a un adulto cuando nos lastimamos para que nos ayude."
+      },
+      {
+        "id": "p1ef-b5-08-v2",
+        "tema": "Naturaleza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El agua de los ríos y lagos debemos cuidarla ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El agua limpia es necesaria para las personas, los animales y las plantas."
+      },
+      {
+        "id": "p1ef-b5-09-v2",
+        "tema": "Aire libre",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué juego se hace con una cuerda larga que se brinca? ​",
+        "opciones": [
+          "Saltar la cuerda",
+          "Ajedrez",
+          "Dominó",
+          "Lotería"
+        ],
+        "respuestaCorrecta": "Saltar la cuerda",
+        "explicacion": "Saltar la cuerda es un juego al aire libre excelente para las piernas y el corazón."
+      },
+      {
+        "id": "p1ef-b5-10-v2",
+        "tema": "Naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué cerramos la llave del agua cuando no la usamos? ​",
+        "opciones": [
+          "Para no desperdiciarla",
+          "Para que no se moje el piso",
+          "Por costumbre",
+          "No importa"
+        ],
+        "respuestaCorrecta": "Para no desperdiciarla",
+        "explicacion": "El agua es un recurso limitado y debemos cuidarla cerrando la llave siempre."
+      }
+    ],
     "preview": [
       {
         "id": "p1ef-b5-01",
@@ -183,7 +328,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Los árboles y plantas nos dan oxígeno, sombra y son hogar de animales."
       }
     ]

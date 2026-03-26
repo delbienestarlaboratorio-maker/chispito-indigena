@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Aunque hay criterios técnicos, la interpretación personal es válida y enriquece el diálogo."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La crítica profesional se basa en conocimiento técnico, histórico y estético, no en gustos."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La exposición directa al arte desarrolla la sensibilidad y el vocabulario visual."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "Ambas son válidas pero la crítica aporta un análisis más profundo y educativo."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s3art-b4-01-v2",
+        "tema": "Crítica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la crítica de arte? ​",
+        "opciones": [
+          "Análisis informado que interpreta y valora una obra artística",
+          "Solo decir si gusta o no",
+          "Solo insultar al artista",
+          "Solo describir colores"
+        ],
+        "respuestaCorrecta": "Análisis informado que interpreta y valora una obra artística",
+        "explicacion": "La crítica profesional contextualiza, interpreta y evalúa con argumentos fundamentados."
+      },
+      {
+        "id": "s3art-b4-02-v2",
+        "tema": "Análisis",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Para analizar una obra de arte debemos considerar: ​",
+        "opciones": [
+          "Contexto histórico, técnica, composición, tema y mensaje",
+          "Solo el precio",
+          "Solo el tamaño",
+          "Solo el color"
+        ],
+        "respuestaCorrecta": "Contexto histórico, técnica, composición, tema y mensaje",
+        "explicacion": "Un análisis completo examina qué, cómo, cuándo, por qué y para qué de la obra."
+      },
+      {
+        "id": "s3art-b4-03-v2",
+        "tema": "Apreciación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El arte es subjetivo: cada persona puede interpretarlo de diferente manera ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Aunque hay criterios técnicos, la interpretación personal es válida y enriquece el diálogo."
+      },
+      {
+        "id": "s3art-b4-04-v2",
+        "tema": "Estética",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la estética? ​",
+        "opciones": [
+          "Rama de la filosofía que estudia la belleza y el arte",
+          "Un tipo de cirugía",
+          "Solo el maquillaje",
+          "La moda"
+        ],
+        "respuestaCorrecta": "Rama de la filosofía que estudia la belleza y el arte",
+        "explicacion": "La estética reflexiona sobre qué es bello, qué es arte y por qué nos conmueve."
+      },
+      {
+        "id": "s3art-b4-05-v2",
+        "tema": "Análisis",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el contexto de una obra de arte? ​",
+        "opciones": [
+          "Las circunstancias históricas, sociales y personales en que fue creada",
+          "Solo dónde está el museo",
+          "Solo el precio",
+          "Solo el tamaño del lienzo"
+        ],
+        "respuestaCorrecta": "Las circunstancias históricas, sociales y personales en que fue creada",
+        "explicacion": "El contexto explica por qué el artista creó la obra y qué significaba en su época."
+      },
+      {
+        "id": "s3art-b4-06-v2",
+        "tema": "Crítica",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Una buena crítica de arte debe argumentar sus opiniones con fundamentos ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La crítica profesional se basa en conocimiento técnico, histórico y estético, no en gustos."
+      },
+      {
+        "id": "s3art-b4-07-v2",
+        "tema": "Apreciación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué es importante aprender a apreciar el arte? ​",
+        "opciones": [
+          "Desarrolla sensibilidad, pensamiento crítico y comprensión cultural",
+          "No es importante",
+          "Solo para artistas",
+          "Solo para museos"
+        ],
+        "respuestaCorrecta": "Desarrolla sensibilidad, pensamiento crítico y comprensión cultural",
+        "explicacion": "La apreciación artística enriquece nuestra percepción del mundo y de las demás culturas."
+      },
+      {
+        "id": "s3art-b4-08-v2",
+        "tema": "Análisis",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa que una obra tenga \"equilibrio compositivo\"? ​",
+        "opciones": [
+          "Que sus elementos están distribuidos armónicamente en el espacio",
+          "Que pesa igual en ambos lados",
+          "Que es simétrica siempre",
+          "Que tiene muchos colores"
+        ],
+        "respuestaCorrecta": "Que sus elementos están distribuidos armónicamente en el espacio",
+        "explicacion": "El equilibrio puede ser simétrico o asimétrico y genera armonía visual."
+      },
+      {
+        "id": "s3art-b4-09-v2",
+        "tema": "Apreciación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Visitar museos y galerías amplía nuestra cultura artística ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La exposición directa al arte desarrolla la sensibilidad y el vocabulario visual."
+      },
+      {
+        "id": "s3art-b4-10-v2",
+        "tema": "Crítica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la diferencia entre opinión y crítica fundamentada? ​",
+        "opciones": [
+          "La crítica se basa en argumentos y conocimiento; la opinión en gustos personales",
+          "Son lo mismo",
+          "La opinión es más válida",
+          "La crítica no existe"
+        ],
+        "respuestaCorrecta": "La crítica se basa en argumentos y conocimiento; la opinión en gustos personales",
+        "explicacion": "Ambas son válidas pero la crítica aporta un análisis más profundo y educativo."
+      }
+    ],
     "preview": [
       {
         "id": "s3art-b4-01",

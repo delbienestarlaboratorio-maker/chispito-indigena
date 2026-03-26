@@ -1,66 +1,114 @@
 {
-    "grado": "secundaria-3",
-    "materia": "ciencias",
-    "bloque": 6,
-    "nombre": "La química de la vida (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Química orgánica básica en LSM",
-        "ADN y genética molecular",
-        "Biotecnología y bioética",
-        "Ciencia inclusiva: científicos sordos"
+  "grado": "secundaria-3",
+  "materia": "ciencias",
+  "bloque": 6,
+  "nombre": "La química de la vida (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Química orgánica básica en LSM",
+    "ADN y genética molecular",
+    "Biotecnología y bioética",
+    "Ciencia inclusiva: científicos sordos"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3-cie-b6-v1-001",
+        "tema": "Química orgánica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se representa la cadena de CARBONO (base de la química orgánica) en LSM?",
+        "opciones": [
+          "Se forma la letra C (carbono) y se repite en secuencia horizontal, como eslabones de una cadena, agregando enlaces (dedos entrelazados entre cada C). Para ramificaciones, se desvía hacia arriba o abajo desde la cadena principal.",
+          "Se dibuja la letra C una sola vez.",
+          "Se señala algo negro (como el carbón)."
+        ],
+        "respuestaCorrecta": "Se forma la letra C (carbono) y se repite en secuencia horizontal, como eslabones de una cadena, agregando enlaces (dedos entrelazados entre cada C). Para ramificaciones, se desvía hacia arriba o abajo desde la cadena principal.",
+        "explicacion": "¡Exacto! La cadena carbonada se CONSTRUYE en el espacio: C-C-C-C como eslabones. Doble enlace = dos dedos entrelazados. Triple enlace = tres. Las ramificaciones se trazan como desviaciones. ¡Estructura molecular en 3D! ⛓️"
+      },
+      {
+        "id": "s3-cie-b6-v1-002",
+        "tema": "Biotecnología",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La discusión sobre implantes cocleares (dispositivos que permiten a personas sordas percibir sonido) es uno de los debates más intensos dentro de la comunidad sorda. Muchos sordos consideran que el implante NO es una 'cura' sino una imposición cultural.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! El debate sobre implantes cocleares es central en bioética sorda. Para muchos sordos, la sordera no es una enfermedad que 'curar'. El implante es una opción válida, pero NO debe presentarse como la ÚNICA solución. La LSM y la cultura sorda son igualmente válidas. 🔊⚖️🤟"
+      },
+      {
+        "id": "s3-cie-b6-v1-003",
+        "tema": "Genética molecular",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La mayoría de la sordera genética (alrededor del 50% de los casos) es causada por mutaciones en el gen GJB2, que codifica la proteína conexina 26. En LSM, 'GEN' se señala con la doble hélice (espiral ascendente) + la letra ___ del alfabeto manual para especificar cuál gen.",
+        "respuestaCorrecta": "G",
+        "explicacion": "¡Correcto! GEN = espiral ascendente + G. Para especificar GJB2: G + J + B + DOS. La genética de la sordera es un campo científico fascinante que la comunidad sorda estudia con orgullo, no como patología sino como diversidad humana. 🧬"
+      },
+      {
+        "id": "s3-cie-b6-v1-004",
+        "tema": "Científicos sordos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién es considerado el 'padre de la Lengua de Señas Americana' (ASL), prima hermana de la LSM?",
+        "opciones": [
+          "Laurent Clerc, un educador sordo francés que en 1817 cofundó la primera escuela para sordos en EE.UU. y demostró que las personas sordas pueden enseñar, aprender y producir conocimiento al más alto nivel.",
+          "Albert Einstein.",
+          "Thomas Edison."
+        ],
+        "respuestaCorrecta": "Laurent Clerc, un educador sordo francés que en 1817 cofundó la primera escuela para sordos en EE.UU. y demostró que las personas sordas pueden enseñar, aprender y producir conocimiento al más alto nivel.",
+        "explicacion": "¡Exacto! Laurent Clerc fue un MAESTRO sordo que cruzó el Atlántico para fundar la educación de sordos en América. La ASL y la LSM comparten raíces con la Lengua de Señas Francesa. La ciencia y la educación NO tienen barreras. 🇫🇷🇺🇸🇲🇽"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "s3-cie-b6-v1-001",
-                "tema": "Química orgánica",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se representa la cadena de CARBONO (base de la química orgánica) en LSM?",
-                "opciones": [
-                    "Se forma la letra C (carbono) y se repite en secuencia horizontal, como eslabones de una cadena, agregando enlaces (dedos entrelazados entre cada C). Para ramificaciones, se desvía hacia arriba o abajo desde la cadena principal.",
-                    "Se dibuja la letra C una sola vez.",
-                    "Se señala algo negro (como el carbón)."
-                ],
-                "respuestaCorrecta": "Se forma la letra C (carbono) y se repite en secuencia horizontal, como eslabones de una cadena, agregando enlaces (dedos entrelazados entre cada C). Para ramificaciones, se desvía hacia arriba o abajo desde la cadena principal.",
-                "explicacion": "¡Exacto! La cadena carbonada se CONSTRUYE en el espacio: C-C-C-C como eslabones. Doble enlace = dos dedos entrelazados. Triple enlace = tres. Las ramificaciones se trazan como desviaciones. ¡Estructura molecular en 3D! ⛓️"
-            },
-            {
-                "id": "s3-cie-b6-v1-002",
-                "tema": "Biotecnología",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "La discusión sobre implantes cocleares (dispositivos que permiten a personas sordas percibir sonido) es uno de los debates más intensos dentro de la comunidad sorda. Muchos sordos consideran que el implante NO es una 'cura' sino una imposición cultural.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! El debate sobre implantes cocleares es central en bioética sorda. Para muchos sordos, la sordera no es una enfermedad que 'curar'. El implante es una opción válida, pero NO debe presentarse como la ÚNICA solución. La LSM y la cultura sorda son igualmente válidas. 🔊⚖️🤟"
-            },
-            {
-                "id": "s3-cie-b6-v1-003",
-                "tema": "Genética molecular",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "La mayoría de la sordera genética (alrededor del 50% de los casos) es causada por mutaciones en el gen GJB2, que codifica la proteína conexina 26. En LSM, 'GEN' se señala con la doble hélice (espiral ascendente) + la letra ___ del alfabeto manual para especificar cuál gen.",
-                "respuestaCorrecta": "G",
-                "explicacion": "¡Correcto! GEN = espiral ascendente + G. Para especificar GJB2: G + J + B + DOS. La genética de la sordera es un campo científico fascinante que la comunidad sorda estudia con orgullo, no como patología sino como diversidad humana. 🧬"
-            },
-            {
-                "id": "s3-cie-b6-v1-004",
-                "tema": "Científicos sordos",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Quién es considerado el 'padre de la Lengua de Señas Americana' (ASL), prima hermana de la LSM?",
-                "opciones": [
-                    "Laurent Clerc, un educador sordo francés que en 1817 cofundó la primera escuela para sordos en EE.UU. y demostró que las personas sordas pueden enseñar, aprender y producir conocimiento al más alto nivel.",
-                    "Albert Einstein.",
-                    "Thomas Edison."
-                ],
-                "respuestaCorrecta": "Laurent Clerc, un educador sordo francés que en 1817 cofundó la primera escuela para sordos en EE.UU. y demostró que las personas sordas pueden enseñar, aprender y producir conocimiento al más alto nivel.",
-                "explicacion": "¡Exacto! Laurent Clerc fue un MAESTRO sordo que cruzó el Atlántico para fundar la educación de sordos en América. La ASL y la LSM comparten raíces con la Lengua de Señas Francesa. La ciencia y la educación NO tienen barreras. 🇫🇷🇺🇸🇲🇽"
-            }
-        ]
-    },
-    "generado": "2026-03-10T20:05:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "s3-cie-b6-v1-001-v2",
+        "tema": "Química orgánica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se representa la cadena de CARBONO (base de la química orgánica) en LSM? ​",
+        "opciones": [
+          "Se forma la letra C (carbono) y se repite en secuencia horizontal, como eslabones de una cadena, agregando enlaces (dedos entrelazados entre cada C). Para ramificaciones, se desvía hacia arriba o abajo desde la cadena principal.",
+          "Se dibuja la letra C una sola vez.",
+          "Se señala algo negro (como el carbón)."
+        ],
+        "respuestaCorrecta": "Se forma la letra C (carbono) y se repite en secuencia horizontal, como eslabones de una cadena, agregando enlaces (dedos entrelazados entre cada C). Para ramificaciones, se desvía hacia arriba o abajo desde la cadena principal.",
+        "explicacion": "¡Exacto! La cadena carbonada se CONSTRUYE en el espacio: C-C-C-C como eslabones. Doble enlace = dos dedos entrelazados. Triple enlace = tres. Las ramificaciones se trazan como desviaciones. ¡Estructura molecular en 3D! ⛓️"
+      },
+      {
+        "id": "s3-cie-b6-v1-002-v2",
+        "tema": "Biotecnología",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La discusión sobre implantes cocleares (dispositivos que permiten a personas sordas percibir sonido) es uno de los debates más intensos dentro de la comunidad sorda. Muchos sordos consideran que el implante NO es una 'cura' sino una imposición cultural. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! El debate sobre implantes cocleares es central en bioética sorda. Para muchos sordos, la sordera no es una enfermedad que 'curar'. El implante es una opción válida, pero NO debe presentarse como la ÚNICA solución. La LSM y la cultura sorda son igualmente válidas. 🔊⚖️🤟"
+      },
+      {
+        "id": "s3-cie-b6-v1-003-v2",
+        "tema": "Genética molecular",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La mayoría de la sordera genética (alrededor del 50% de los casos) es causada por mutaciones en el gen GJB2, que codifica la proteína conexina 26. En LSM, 'GEN' se señala con la doble hélice (espiral ascendente) + la letra ___ del alfabeto manual para especificar cuál gen. ​",
+        "respuestaCorrecta": "G",
+        "explicacion": "¡Correcto! GEN = espiral ascendente + G. Para especificar GJB2: G + J + B + DOS. La genética de la sordera es un campo científico fascinante que la comunidad sorda estudia con orgullo, no como patología sino como diversidad humana. 🧬"
+      },
+      {
+        "id": "s3-cie-b6-v1-004-v2",
+        "tema": "Científicos sordos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién es considerado el 'padre de la Lengua de Señas Americana' (ASL), prima hermana de la LSM? ​",
+        "opciones": [
+          "Laurent Clerc, un educador sordo francés que en 1817 cofundó la primera escuela para sordos en EE.UU. y demostró que las personas sordas pueden enseñar, aprender y producir conocimiento al más alto nivel.",
+          "Albert Einstein.",
+          "Thomas Edison."
+        ],
+        "respuestaCorrecta": "Laurent Clerc, un educador sordo francés que en 1817 cofundó la primera escuela para sordos en EE.UU. y demostró que las personas sordas pueden enseñar, aprender y producir conocimiento al más alto nivel.",
+        "explicacion": "¡Exacto! Laurent Clerc fue un MAESTRO sordo que cruzó el Atlántico para fundar la educación de sordos en América. La ASL y la LSM comparten raíces con la Lengua de Señas Francesa. La ciencia y la educación NO tienen barreras. 🇫🇷🇺🇸🇲🇽"
+      }
+    ]
+  },
+  "generado": "2026-03-10T20:05:00.000Z",
+  "version": "3.0"
 }

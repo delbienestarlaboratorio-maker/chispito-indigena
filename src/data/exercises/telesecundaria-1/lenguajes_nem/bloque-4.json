@@ -10,7 +10,7 @@
     "Escritura creativa: microrrelato",
     "Teatro: diálogo y acotaciones"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,74 @@
         "tema": "Poesía y lírica mexicana",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Poesía y lírica mexicana\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Poesía",
-          "Se relaciona con el estudio de Poesía y lírica mexicana",
-          "Es un proceso que involucra Poesía",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Poesía y lírica mexicana",
-        "explicacion": "💡 Hada te ayuda: Poesía y lírica mexicana es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "telesecundaria-1-lenguajes_nem-b4-002",
         "tema": "Poesía y lírica mexicana",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Poesía y lírica mexicana\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Poesía y lírica mexicana\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "telesecundaria-1-lenguajes_nem-b4-003",
         "tema": "Poesía y lírica mexicana",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Poesía y lírica ___",
-        "respuestaCorrecta": "mexicana",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Poesía y lírica mexicana\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-004",
-        "tema": "Poesía y lírica mexicana",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Poesía y lírica mexicana\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Poesía y lírica mexicana",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Poesía y lírica mexicana",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Poesía y lírica mexicana\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-005",
-        "tema": "Trabalenguas, rimas y coplas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Trabalenguas, rimas y coplas\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Trabalenguas,",
-          "Se relaciona con el estudio de Trabalenguas, rimas y coplas",
-          "Es un proceso que involucra Trabalenguas,",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Trabalenguas, rimas y coplas",
-        "explicacion": "💡 Cuca te ayuda: Trabalenguas, rimas y coplas es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-006",
-        "tema": "Trabalenguas, rimas y coplas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Trabalenguas, rimas y coplas\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Trabalenguas, rimas y coplas\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-007",
-        "tema": "Trabalenguas, rimas y coplas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Trabalenguas, rimas y ___",
-        "respuestaCorrecta": "coplas",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Trabalenguas, rimas y coplas\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-008",
-        "tema": "Trabalenguas, rimas y coplas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Trabalenguas, rimas y coplas\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Trabalenguas, rimas y coplas",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Trabalenguas, rimas y coplas",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Trabalenguas, rimas y coplas\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-009",
-        "tema": "Escritura creativa: microrrelato",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Escritura creativa: microrrelato\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Escritura",
-          "Se relaciona con el estudio de Escritura creativa: microrrelato",
-          "Es un proceso que involucra Escritura",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Escritura creativa: microrrelato",
-        "explicacion": "💡 Hada te ayuda: Escritura creativa: microrrelato es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-010",
-        "tema": "Escritura creativa: microrrelato",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Escritura creativa: microrrelato\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Escritura creativa: microrrelato\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-011",
-        "tema": "Escritura creativa: microrrelato",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Escritura creativa: ___",
-        "respuestaCorrecta": "microrrelato",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Escritura creativa: microrrelato\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-012",
-        "tema": "Escritura creativa: microrrelato",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Escritura creativa: microrrelato\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Escritura creativa: microrrelato",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Escritura creativa: microrrelato",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Escritura creativa: microrrelato\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-013",
-        "tema": "Teatro: diálogo y acotaciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Teatro: diálogo y acotaciones\"?",
-        "opciones": [
-          "Es un concepto fundamental de Teatro:",
-          "Se relaciona con el estudio de Teatro: diálogo y acotaciones",
-          "Es un proceso que involucra Teatro:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Teatro: diálogo y acotaciones",
-        "explicacion": "💡 Cuca te ayuda: Teatro: diálogo y acotaciones es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-014",
-        "tema": "Teatro: diálogo y acotaciones",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Teatro: diálogo y acotaciones\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Teatro: diálogo y acotaciones\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-015",
-        "tema": "Teatro: diálogo y acotaciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Teatro: diálogo y ___",
-        "respuestaCorrecta": "acotaciones",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Teatro: diálogo y acotaciones\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-016",
-        "tema": "Teatro: diálogo y acotaciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Teatro: diálogo y acotaciones\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Teatro: diálogo y acotaciones",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Teatro: diálogo y acotaciones",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Teatro: diálogo y acotaciones\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-001",
-        "tema": "Poesía y lírica mexicana",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Poesía y lírica mexicana\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Poesía",
-          "Se relaciona con el estudio de Poesía y lírica mexicana",
-          "Es un proceso que involucra Poesía",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Poesía y lírica mexicana",
-        "explicacion": "💡 Hada te ayuda: Poesía y lírica mexicana es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-002",
-        "tema": "Poesía y lírica mexicana",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Poesía y lírica mexicana\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Poesía y lírica mexicana\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-003",
-        "tema": "Poesía y lírica mexicana",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Poesía y lírica ___",
-        "respuestaCorrecta": "mexicana",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Poesía y lírica mexicana\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-004",
-        "tema": "Trabalenguas, rimas y coplas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Trabalenguas, rimas y coplas\"?",
-        "opciones": [
-          "Es un concepto fundamental de Trabalenguas,",
-          "Se relaciona con el estudio de Trabalenguas, rimas y coplas",
-          "Es un proceso que involucra Trabalenguas,",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Trabalenguas, rimas y coplas",
-        "explicacion": "💡 El Búho te ayuda: Trabalenguas, rimas y coplas es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-005",
-        "tema": "Trabalenguas, rimas y coplas",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Trabalenguas, rimas y coplas\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Trabalenguas, rimas y coplas\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-006",
-        "tema": "Trabalenguas, rimas y coplas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Trabalenguas, rimas y ___",
-        "respuestaCorrecta": "coplas",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Trabalenguas, rimas y coplas\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-007",
-        "tema": "Escritura creativa: microrrelato",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Escritura creativa: microrrelato\"?",
-        "opciones": [
-          "Es un concepto fundamental de Escritura",
-          "Se relaciona con el estudio de Escritura creativa: microrrelato",
-          "Es un proceso que involucra Escritura",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Escritura creativa: microrrelato",
-        "explicacion": "💡 Neptuno te ayuda: Escritura creativa: microrrelato es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-008",
-        "tema": "Escritura creativa: microrrelato",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Escritura creativa: microrrelato\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Escritura creativa: microrrelato\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-009",
-        "tema": "Escritura creativa: microrrelato",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Escritura creativa: ___",
-        "respuestaCorrecta": "microrrelato",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Escritura creativa: microrrelato\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-010",
+        "id": "telesecundaria-1-lenguajes_nem-b4-v2-001",
         "tema": "Teatro: diálogo y acotaciones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Respecto a \"Teatro: diálogo y acotaciones\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Es un concepto fundamental de Teatro:",
-          "Se relaciona con el estudio de Teatro: diálogo y acotaciones",
-          "Es un proceso que involucra Teatro:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Teatro: diálogo y acotaciones",
-        "explicacion": "💡 Hada te ayuda: Teatro: diálogo y acotaciones es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-011",
-        "tema": "Teatro: diálogo y acotaciones",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Teatro: diálogo y acotaciones\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Teatro: diálogo y acotaciones\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-012",
+        "id": "telesecundaria-1-lenguajes_nem-b4-v2-002",
         "tema": "Teatro: diálogo y acotaciones",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Teatro: diálogo y ___",
-        "respuestaCorrecta": "acotaciones",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Teatro: diálogo y acotaciones\" según el programa de estudios."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+      },
+      {
+        "id": "telesecundaria-1-lenguajes_nem-b4-v2-003",
+        "tema": "Teatro: diálogo y acotaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "opciones": [
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +94,42 @@
         "tema": "Poesía y lírica mexicana",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Poesía y lírica mexicana\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Poesía",
-          "Se relaciona con el estudio de Poesía y lírica mexicana",
-          "Es un proceso que involucra Poesía",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Poesía y lírica mexicana",
-        "explicacion": "💡 El Búho te ayuda: Poesía y lírica mexicana es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-lenguajes_nem-b4-v2-001",
+        "tema": "Teatro: diálogo y acotaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "telesecundaria-1-lenguajes_nem-b4-002",
         "tema": "Poesía y lírica mexicana",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Poesía y lírica mexicana\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Poesía y lírica mexicana\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b4-p-001",
-        "tema": "Poesía y lírica mexicana",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Poesía y lírica mexicana\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Poesía",
-          "Se relaciona con el estudio de Poesía y lírica mexicana",
-          "Es un proceso que involucra Poesía",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Poesía y lírica mexicana",
-        "explicacion": "💡 Cuca te ayuda: Poesía y lírica mexicana es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.239Z",
-  "version": "3.0",
-  "historiaChispito": "En el Universo de Chispito, Nico y su amigo estaban explorando la galaxia del conocimiento cuando se encontraron con un misterio sobre Expresión y creatividad. ¡Ayúdales a resolverlo!"
+  "generado": "2026-03-26T03:11:48.155Z",
+  "version": "2.0"
 }

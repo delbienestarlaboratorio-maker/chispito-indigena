@@ -38,7 +38,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "México tiene 68 grupos indígenas con lenguas y culturas propias. Es una riqueza enorme."
       },
       {
@@ -58,7 +58,53 @@
         "visual": "🦅"
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p2fc-b3-01-v2",
+        "tema": "Símbolos patrios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los símbolos patrios de México? ​",
+        "opciones": [
+          "Bandera, Himno y Escudo",
+          "Tacos, mariachi y sombrero",
+          "Pirámides y volcanes",
+          "Solo la bandera"
+        ],
+        "respuestaCorrecta": "Bandera, Himno y Escudo",
+        "explicacion": "Los tres símbolos patrios de México son la Bandera Nacional, el Himno Nacional y el Escudo Nacional.",
+        "visual": "🇲🇽"
+      },
+      {
+        "id": "p2fc-b3-02-v2",
+        "tema": "Diversidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "México es un país con mucha diversidad cultural ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "México tiene 68 grupos indígenas con lenguas y culturas propias. Es una riqueza enorme."
+      },
+      {
+        "id": "p2fc-b3-03-v2",
+        "tema": "Orgullo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué debemos cuidar nuestro país? ​",
+        "opciones": [
+          "Porque es nuestro hogar y patrimonio de todos",
+          "Solo porque lo dicen los adultos",
+          "Por obligación",
+          "No es necesario"
+        ],
+        "respuestaCorrecta": "Porque es nuestro hogar y patrimonio de todos",
+        "explicacion": "México es el patrimonio de todos sus ciudadanos. Cuidarlo es responsabilidad de cada uno.",
+        "visual": "🦅"
+      }
+    ],
     "preview": [
       {
         "id": "p2fc-b3-01",
@@ -86,7 +132,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "México tiene 68 grupos indígenas con lenguas y culturas propias. Es una riqueza enorme."
       }
     ]

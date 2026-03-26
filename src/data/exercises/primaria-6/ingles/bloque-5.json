@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "I can swim = puedo/sé nadar. Can expresa habilidad o capacidad."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Must = debes (obligación). Should = deberías (consejo). Must es más fuerte."
       },
       {
@@ -152,11 +152,156 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Learned = aprendí (pasado). This year = este año."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p6en-b5-01-v2",
+        "tema": "Repaso",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which is correct: \"She go\" or \"She goes\"? ​",
+        "opciones": [
+          "She goes",
+          "She go",
+          "She going",
+          "She goed"
+        ],
+        "respuestaCorrecta": "She goes",
+        "explicacion": "3a persona singular en presente simple: he/she/it + verbo + s."
+      },
+      {
+        "id": "p6en-b5-02-v2",
+        "tema": "Repaso",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"There are five books\" means: ​",
+        "opciones": [
+          "Hay cinco libros",
+          "Hay un libro",
+          "No hay libros",
+          "Hubo cinco libros"
+        ],
+        "respuestaCorrecta": "Hay cinco libros",
+        "explicacion": "There are = hay (plural). There is = hay (singular)."
+      },
+      {
+        "id": "p6en-b5-03-v2",
+        "tema": "Repaso",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Can\" is used to express ability ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "I can swim = puedo/sé nadar. Can expresa habilidad o capacidad."
+      },
+      {
+        "id": "p6en-b5-04-v2",
+        "tema": "Despedida",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"See you in secondary school!\" means: ​",
+        "opciones": [
+          "¡Nos vemos en la secundaria!",
+          "¡Adiós para siempre!",
+          "¡Hola!",
+          "¡Buenos días!"
+        ],
+        "respuestaCorrecta": "¡Nos vemos en la secundaria!",
+        "explicacion": "See you = nos vemos. Secondary school = escuela secundaria."
+      },
+      {
+        "id": "p6en-b5-05-v2",
+        "tema": "Repaso",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Complete: \"I ___ to the park yesterday\" ​",
+        "opciones": [
+          "went",
+          "go",
+          "going",
+          "goes"
+        ],
+        "respuestaCorrecta": "went",
+        "explicacion": "Go → went (pasado). Yesterday requiere pasado simple."
+      },
+      {
+        "id": "p6en-b5-06-v2",
+        "tema": "Repaso",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Must\" is stronger than \"should\" ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Must = debes (obligación). Should = deberías (consejo). Must es más fuerte."
+      },
+      {
+        "id": "p6en-b5-07-v2",
+        "tema": "Repaso",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Would you like some water?\" means: ​",
+        "opciones": [
+          "¿Te gustaría un poco de agua?",
+          "¿Tienes agua?",
+          "¿Dónde está el agua?",
+          "No quiero agua"
+        ],
+        "respuestaCorrecta": "¿Te gustaría un poco de agua?",
+        "explicacion": "Would you like = ¿Te gustaría? Es una forma educada de ofrecer."
+      },
+      {
+        "id": "p6en-b5-08-v2",
+        "tema": "Despedida",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Good luck in secondary!\" means: ​",
+        "opciones": [
+          "¡Buena suerte en la secundaria!",
+          "¡Mala suerte!",
+          "¡Adiós escuela!",
+          "¡No quiero ir!"
+        ],
+        "respuestaCorrecta": "¡Buena suerte en la secundaria!",
+        "explicacion": "Good luck = buena suerte. Un deseo positivo para el futuro."
+      },
+      {
+        "id": "p6en-b5-09-v2",
+        "tema": "Repaso",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which sentence is in future tense? ​",
+        "opciones": [
+          "I will study English",
+          "I study English",
+          "I studied English",
+          "I am studying English"
+        ],
+        "respuestaCorrecta": "I will study English",
+        "explicacion": "Will + verbo = futuro. I will study = estudiaré."
+      },
+      {
+        "id": "p6en-b5-10-v2",
+        "tema": "Despedida",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"I learned a lot this year\" is in past tense ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Learned = aprendí (pasado). This year = este año."
+      }
+    ],
     "preview": [
       {
         "id": "p6en-b5-01",

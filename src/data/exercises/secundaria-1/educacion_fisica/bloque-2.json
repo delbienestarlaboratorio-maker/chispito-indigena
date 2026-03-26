@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El fair play es la base ética de todo deporte: respeto, honestidad y deportividad."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Es antideportivo y puede resultar en sanciones. El respeto al árbitro es obligatorio."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La solidaridad con el rival lesionado demuestra los valores más altos del deporte."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "El bádminton usa una plumilla ligera en lugar de pelota."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s1ef-b2-01-v2",
+        "tema": "Futbol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos jugadores tiene cada equipo de futbol en cancha? ​",
+        "opciones": [
+          "11",
+          "9",
+          "7",
+          "13"
+        ],
+        "respuestaCorrecta": "11",
+        "explicacion": "Cada equipo tiene 11 jugadores incluyendo al portero."
+      },
+      {
+        "id": "s1ef-b2-02-v2",
+        "tema": "Basquetbol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos puntos vale un triple en basquetbol? ​",
+        "opciones": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "respuestaCorrecta": "3",
+        "explicacion": "Los tiros desde fuera de la línea de tres puntos valen 3."
+      },
+      {
+        "id": "s1ef-b2-03-v2",
+        "tema": "Fair play",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El juego limpio (fair play) significa respetar reglas y rivales ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El fair play es la base ética de todo deporte: respeto, honestidad y deportividad."
+      },
+      {
+        "id": "s1ef-b2-04-v2",
+        "tema": "Voleibol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos toques máximo puede dar un equipo en voleibol? ​",
+        "opciones": [
+          "3 toques",
+          "5 toques",
+          "1 toque",
+          "Ilimitados"
+        ],
+        "respuestaCorrecta": "3 toques",
+        "explicacion": "Recepción, armado y remate: 3 toques antes de devolver el balón."
+      },
+      {
+        "id": "s1ef-b2-05-v2",
+        "tema": "Reglas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La tarjeta roja en futbol significa: ​",
+        "opciones": [
+          "Expulsión del jugador",
+          "Advertencia",
+          "Tiro libre",
+          "Saque de esquina"
+        ],
+        "respuestaCorrecta": "Expulsión del jugador",
+        "explicacion": "La roja expulsa al jugador. La amarilla es advertencia."
+      },
+      {
+        "id": "s1ef-b2-06-v2",
+        "tema": "Fair play",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Insultar al árbitro es parte normal del deporte ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Es antideportivo y puede resultar en sanciones. El respeto al árbitro es obligatorio."
+      },
+      {
+        "id": "s1ef-b2-07-v2",
+        "tema": "Historia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién inventó el basquetbol? ​",
+        "opciones": [
+          "James Naismith en 1891",
+          "Pelé en 1960",
+          "Pierre de Coubertin en 1896",
+          "Michael Jordan en 1984"
+        ],
+        "respuestaCorrecta": "James Naismith en 1891",
+        "explicacion": "Naismith creó el basquetbol en Springfield, Massachusetts, como deporte de invierno."
+      },
+      {
+        "id": "s1ef-b2-08-v2",
+        "tema": "Atletismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El atletismo incluye: ​",
+        "opciones": [
+          "Carreras, saltos y lanzamientos",
+          "Solo natación",
+          "Solo gimnasia",
+          "Solo futbol"
+        ],
+        "respuestaCorrecta": "Carreras, saltos y lanzamientos",
+        "explicacion": "El atletismo es el deporte más antiguo y base de los Juegos Olímpicos."
+      },
+      {
+        "id": "s1ef-b2-09-v2",
+        "tema": "Fair play",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Ayudar a un rival lesionado es buena deportividad ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La solidaridad con el rival lesionado demuestra los valores más altos del deporte."
+      },
+      {
+        "id": "s1ef-b2-10-v2",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué deporte de raqueta se juega con un \"gallito\" (shuttlecock)? ​",
+        "opciones": [
+          "Bádminton",
+          "Tenis",
+          "Ping-pong",
+          "Squash"
+        ],
+        "respuestaCorrecta": "Bádminton",
+        "explicacion": "El bádminton usa una plumilla ligera en lugar de pelota."
+      }
+    ],
     "preview": [
       {
         "id": "s1ef-b2-01",

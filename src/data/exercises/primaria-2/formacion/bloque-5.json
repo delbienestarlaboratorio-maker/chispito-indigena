@@ -38,7 +38,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Depende de la configuración de privacidad. Es importante revisar quién puede ver nuestras publicaciones."
       },
       {
@@ -58,7 +58,53 @@
         "visual": "💻"
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p2fc-b5-01-v2",
+        "tema": "Internet",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué información NO debes compartir en internet? ​",
+        "opciones": [
+          "Tu dirección y teléfono",
+          "Tu nombre",
+          "Tu color favorito",
+          "Tu animal preferido"
+        ],
+        "respuestaCorrecta": "Tu dirección y teléfono",
+        "explicacion": "Nunca compartas datos personales como dirección, teléfono o contraseñas con desconocidos en línea.",
+        "visual": "🔒"
+      },
+      {
+        "id": "p2fc-b5-02-v2",
+        "tema": "Privacidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cualquier persona puede ver todo lo que publicas en internet ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Depende de la configuración de privacidad. Es importante revisar quién puede ver nuestras publicaciones."
+      },
+      {
+        "id": "p2fc-b5-03-v2",
+        "tema": "Huella digital",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La huella digital es: ​",
+        "opciones": [
+          "Lo que dejamos al usar internet",
+          "La huella de tu dedo",
+          "El diseño del teclado",
+          "Tu firma"
+        ],
+        "respuestaCorrecta": "Lo que dejamos al usar internet",
+        "explicacion": "La huella digital son todos los datos y rastros que dejamos al navegar, publicar y usar apps en línea.",
+        "visual": "💻"
+      }
+    ],
     "preview": [
       {
         "id": "p2fc-b5-01",
@@ -86,7 +132,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Depende de la configuración de privacidad. Es importante revisar quién puede ver nuestras publicaciones."
       }
     ]

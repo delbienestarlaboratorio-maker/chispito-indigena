@@ -1,66 +1,114 @@
 {
-    "grado": "secundaria-1",
-    "materia": "matematicas",
-    "bloque": 6,
-    "nombre": "Ecuaciones en el espacio (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Ecuaciones lineales en LSM",
-        "Números negativos y positivos",
-        "Geometría analítica corporal",
-        "Estadística descriptiva visual"
+  "grado": "secundaria-1",
+  "materia": "matematicas",
+  "bloque": 6,
+  "nombre": "Ecuaciones en el espacio (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Ecuaciones lineales en LSM",
+    "Números negativos y positivos",
+    "Geometría analítica corporal",
+    "Estadística descriptiva visual"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s1-mat-b6-v1-001",
+        "tema": "Ecuaciones lineales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se expresa una ecuación como '2X + 3 = 7' en LSM?",
+        "opciones": [
+          "DOS (seña de 2) + X (letra manual con sacudida interrogativa) + MÁS (dedos cruzándose) + TRES + IGUAL (dos manos paralelas moviéndose sincrónicamente) + SIETE.",
+          "Se escriben los números en el aire con el dedo.",
+          "Se cuentan con piedritas en la mesa."
+        ],
+        "respuestaCorrecta": "DOS (seña de 2) + X (letra manual con sacudida interrogativa) + MÁS (dedos cruzándose) + TRES + IGUAL (dos manos paralelas moviéndose sincrónicamente) + SIETE.",
+        "explicacion": "¡Exacto! Las ecuaciones se expresan secuencialmente como en notación escrita, pero con señas para cada operador. El IGUAL es particularmente elegante: dos manos que se nivelan perfectamente. ⚖️"
+      },
+      {
+        "id": "s1-mat-b6-v1-002",
+        "tema": "Números negativos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En LSM, los números negativos se expresan señando primero NEGATIVO (un movimiento descendente con el dedo índice, como una flecha hacia abajo) seguido del número.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! NEGATIVO = flecha hacia abajo (el índice baja). Luego el número. Ejemplo: -5 = NEGATIVO + CINCO. Es intuitivo: lo negativo está 'abajo' del cero, como en una recta numérica vertical. ⬇️5️⃣"
+      },
+      {
+        "id": "s1-mat-b6-v1-003",
+        "tema": "Geometría analítica",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para expresar 'ÁNGULO' en LSM, se forma una esquina con los dedos índices de ambas manos, creando la forma de una ___ abierta.",
+        "respuestaCorrecta": "V",
+        "explicacion": "¡Correcto! La V formada con los índices representa el ángulo visualmente. Para especificar grados, se agrega la seña del número + GRADO (un pequeño círculo con el índice, como el símbolo °). 📐"
+      },
+      {
+        "id": "s1-mat-b6-v1-004",
+        "tema": "Estadística descriptiva",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo expresarías 'PROMEDIO' o 'MEDIA ARITMÉTICA' en LSM?",
+        "opciones": [
+          "SUMAR (dedos que se acumulan) + TODOS (barrido circular) + DIVIDIR (mano que corta horizontalmente) + CANTIDAD (seña del número de datos). La seña desglosa la operación.",
+          "Se muestra la mano abierta (5 dedos) como el número 'medio'.",
+          "Se hace un círculo perfecto con ambas manos."
+        ],
+        "respuestaCorrecta": "SUMAR (dedos que se acumulan) + TODOS (barrido circular) + DIVIDIR (mano que corta horizontalmente) + CANTIDAD (seña del número de datos). La seña desglosa la operación.",
+        "explicacion": "¡Muy bien! La LSM no tiene una seña única para 'promedio': DESCOMPONE el concepto en sus pasos operativos. Esto es MÁS claro que la palabra 'promedio', ¡porque explica QUÉ es! 📊"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "s1-mat-b6-v1-001",
-                "tema": "Ecuaciones lineales",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se expresa una ecuación como '2X + 3 = 7' en LSM?",
-                "opciones": [
-                    "DOS (seña de 2) + X (letra manual con sacudida interrogativa) + MÁS (dedos cruzándose) + TRES + IGUAL (dos manos paralelas moviéndose sincrónicamente) + SIETE.",
-                    "Se escriben los números en el aire con el dedo.",
-                    "Se cuentan con piedritas en la mesa."
-                ],
-                "respuestaCorrecta": "DOS (seña de 2) + X (letra manual con sacudida interrogativa) + MÁS (dedos cruzándose) + TRES + IGUAL (dos manos paralelas moviéndose sincrónicamente) + SIETE.",
-                "explicacion": "¡Exacto! Las ecuaciones se expresan secuencialmente como en notación escrita, pero con señas para cada operador. El IGUAL es particularmente elegante: dos manos que se nivelan perfectamente. ⚖️"
-            },
-            {
-                "id": "s1-mat-b6-v1-002",
-                "tema": "Números negativos",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "En LSM, los números negativos se expresan señando primero NEGATIVO (un movimiento descendente con el dedo índice, como una flecha hacia abajo) seguido del número.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! NEGATIVO = flecha hacia abajo (el índice baja). Luego el número. Ejemplo: -5 = NEGATIVO + CINCO. Es intuitivo: lo negativo está 'abajo' del cero, como en una recta numérica vertical. ⬇️5️⃣"
-            },
-            {
-                "id": "s1-mat-b6-v1-003",
-                "tema": "Geometría analítica",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para expresar 'ÁNGULO' en LSM, se forma una esquina con los dedos índices de ambas manos, creando la forma de una ___ abierta.",
-                "respuestaCorrecta": "V",
-                "explicacion": "¡Correcto! La V formada con los índices representa el ángulo visualmente. Para especificar grados, se agrega la seña del número + GRADO (un pequeño círculo con el índice, como el símbolo °). 📐"
-            },
-            {
-                "id": "s1-mat-b6-v1-004",
-                "tema": "Estadística descriptiva",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo expresarías 'PROMEDIO' o 'MEDIA ARITMÉTICA' en LSM?",
-                "opciones": [
-                    "SUMAR (dedos que se acumulan) + TODOS (barrido circular) + DIVIDIR (mano que corta horizontalmente) + CANTIDAD (seña del número de datos). La seña desglosa la operación.",
-                    "Se muestra la mano abierta (5 dedos) como el número 'medio'.",
-                    "Se hace un círculo perfecto con ambas manos."
-                ],
-                "respuestaCorrecta": "SUMAR (dedos que se acumulan) + TODOS (barrido circular) + DIVIDIR (mano que corta horizontalmente) + CANTIDAD (seña del número de datos). La seña desglosa la operación.",
-                "explicacion": "¡Muy bien! La LSM no tiene una seña única para 'promedio': DESCOMPONE el concepto en sus pasos operativos. Esto es MÁS claro que la palabra 'promedio', ¡porque explica QUÉ es! 📊"
-            }
-        ]
-    },
-    "generado": "2026-03-10T19:50:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "s1-mat-b6-v1-001-v2",
+        "tema": "Ecuaciones lineales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se expresa una ecuación como '2X + 3 = 7' en LSM? ​",
+        "opciones": [
+          "DOS (seña de 2) + X (letra manual con sacudida interrogativa) + MÁS (dedos cruzándose) + TRES + IGUAL (dos manos paralelas moviéndose sincrónicamente) + SIETE.",
+          "Se escriben los números en el aire con el dedo.",
+          "Se cuentan con piedritas en la mesa."
+        ],
+        "respuestaCorrecta": "DOS (seña de 2) + X (letra manual con sacudida interrogativa) + MÁS (dedos cruzándose) + TRES + IGUAL (dos manos paralelas moviéndose sincrónicamente) + SIETE.",
+        "explicacion": "¡Exacto! Las ecuaciones se expresan secuencialmente como en notación escrita, pero con señas para cada operador. El IGUAL es particularmente elegante: dos manos que se nivelan perfectamente. ⚖️"
+      },
+      {
+        "id": "s1-mat-b6-v1-002-v2",
+        "tema": "Números negativos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En LSM, los números negativos se expresan señando primero NEGATIVO (un movimiento descendente con el dedo índice, como una flecha hacia abajo) seguido del número. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! NEGATIVO = flecha hacia abajo (el índice baja). Luego el número. Ejemplo: -5 = NEGATIVO + CINCO. Es intuitivo: lo negativo está 'abajo' del cero, como en una recta numérica vertical. ⬇️5️⃣"
+      },
+      {
+        "id": "s1-mat-b6-v1-003-v2",
+        "tema": "Geometría analítica",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para expresar 'ÁNGULO' en LSM, se forma una esquina con los dedos índices de ambas manos, creando la forma de una ___ abierta. ​",
+        "respuestaCorrecta": "V",
+        "explicacion": "¡Correcto! La V formada con los índices representa el ángulo visualmente. Para especificar grados, se agrega la seña del número + GRADO (un pequeño círculo con el índice, como el símbolo °). 📐"
+      },
+      {
+        "id": "s1-mat-b6-v1-004-v2",
+        "tema": "Estadística descriptiva",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo expresarías 'PROMEDIO' o 'MEDIA ARITMÉTICA' en LSM? ​",
+        "opciones": [
+          "SUMAR (dedos que se acumulan) + TODOS (barrido circular) + DIVIDIR (mano que corta horizontalmente) + CANTIDAD (seña del número de datos). La seña desglosa la operación.",
+          "Se muestra la mano abierta (5 dedos) como el número 'medio'.",
+          "Se hace un círculo perfecto con ambas manos."
+        ],
+        "respuestaCorrecta": "SUMAR (dedos que se acumulan) + TODOS (barrido circular) + DIVIDIR (mano que corta horizontalmente) + CANTIDAD (seña del número de datos). La seña desglosa la operación.",
+        "explicacion": "¡Muy bien! La LSM no tiene una seña única para 'promedio': DESCOMPONE el concepto en sus pasos operativos. Esto es MÁS claro que la palabra 'promedio', ¡porque explica QUÉ es! 📊"
+      }
+    ]
+  },
+  "generado": "2026-03-10T19:50:00.000Z",
+  "version": "3.0"
 }

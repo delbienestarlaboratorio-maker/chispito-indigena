@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Tomorrow = mañana. Yesterday = ayer. Today = hoy."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Next = próximo/siguiente. Next week, next month, next year."
       },
       {
@@ -152,11 +152,156 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Going to se usa para acciones futuras que ya planeamos o decidimos hacer."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p6en-b3-01-v2",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I am going to study\" means: ​",
+        "opciones": [
+          "Voy a estudiar",
+          "Estoy estudiando",
+          "Estudié",
+          "Estudio"
+        ],
+        "respuestaCorrecta": "Voy a estudiar",
+        "explicacion": "Going to + verbo = voy a (futuro planeado)."
+      },
+      {
+        "id": "p6en-b3-02-v2",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"She is going to travel\" means: ​",
+        "opciones": [
+          "Ella va a viajar",
+          "Ella viajó",
+          "Ella viaja",
+          "Ella está viajando"
+        ],
+        "respuestaCorrecta": "Ella va a viajar",
+        "explicacion": "Is going to + verbo = va a hacer algo (futuro)."
+      },
+      {
+        "id": "p6en-b3-03-v2",
+        "tema": "Futuro",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Tomorrow\" means mañana (el día siguiente) ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Tomorrow = mañana. Yesterday = ayer. Today = hoy."
+      },
+      {
+        "id": "p6en-b3-04-v2",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"We are going to play\" means: ​",
+        "opciones": [
+          "Vamos a jugar",
+          "Estamos jugando",
+          "Jugamos ayer",
+          "No jugamos"
+        ],
+        "respuestaCorrecta": "Vamos a jugar",
+        "explicacion": "We are going to = nosotros vamos a."
+      },
+      {
+        "id": "p6en-b3-05-v2",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Are you going to eat?\" means: ​",
+        "opciones": [
+          "¿Vas a comer?",
+          "¿Estás comiendo?",
+          "¿Comiste?",
+          "¿Comes?"
+        ],
+        "respuestaCorrecta": "¿Vas a comer?",
+        "explicacion": "Are you going to...? = ¿Vas a...? (pregunta sobre planes futuros)."
+      },
+      {
+        "id": "p6en-b3-06-v2",
+        "tema": "Futuro",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Next year\" means el próximo año ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Next = próximo/siguiente. Next week, next month, next year."
+      },
+      {
+        "id": "p6en-b3-07-v2",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"They are NOT going to come\" means: ​",
+        "opciones": [
+          "Ellos no van a venir",
+          "Ellos van a venir",
+          "Ellos vinieron",
+          "Ellos vienen"
+        ],
+        "respuestaCorrecta": "Ellos no van a venir",
+        "explicacion": "Not going to = no va/van a (negación del futuro planeado)."
+      },
+      {
+        "id": "p6en-b3-08-v2",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"What are you going to do?\" means: ​",
+        "opciones": [
+          "¿Qué vas a hacer?",
+          "¿Qué hiciste?",
+          "¿Qué haces?",
+          "¿Qué estás haciendo?"
+        ],
+        "respuestaCorrecta": "¿Qué vas a hacer?",
+        "explicacion": "What are you going to do = ¿qué vas a hacer? (futuro)."
+      },
+      {
+        "id": "p6en-b3-09-v2",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I am going to be a doctor\" means: ​",
+        "opciones": [
+          "Voy a ser doctor",
+          "Soy doctor",
+          "Fui doctor",
+          "Era doctor"
+        ],
+        "respuestaCorrecta": "Voy a ser doctor",
+        "explicacion": "Going to be = voy a ser (aspiración futura)."
+      },
+      {
+        "id": "p6en-b3-10-v2",
+        "tema": "Futuro",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "We use \"going to\" for planned future actions ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Going to se usa para acciones futuras que ya planeamos o decidimos hacer."
+      }
+    ],
     "preview": [
       {
         "id": "p6en-b3-01",

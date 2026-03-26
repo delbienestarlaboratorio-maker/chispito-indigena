@@ -37,7 +37,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Respetar a los compañero hace que todos se diviertan."
       },
       {
@@ -82,7 +82,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Todos pueden jugar, adaptando las actividades a cada edad."
       },
       {
@@ -111,7 +111,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El juego en equipo fomenta cooperación y convivencia."
       },
       {
@@ -156,11 +156,160 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Perder forma parte del juego. Lo importante es disfrutar y aprender."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "kinderef-b2-01-v2",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Para qué sirven las reglas en un juego? ​",
+        "opciones": [
+          "Para que todos jueguen bien",
+          "Para castigar",
+          "Para ganar siempre",
+          "Para no jugar"
+        ],
+        "respuestaCorrecta": "Para que todos jueguen bien",
+        "explicacion": "Las reglas garantizan diversión justa para todos.",
+        "visual": "🎮"
+      },
+      {
+        "id": "kinderef-b2-02-v2",
+        "tema": "Convivencia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Debemos respetar a los demás al jugar ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Respetar a los compañero hace que todos se diviertan."
+      },
+      {
+        "id": "kinderef-b2-03-v2",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En las \"traes\", ¿qué hace quien la lleva? ​",
+        "opciones": [
+          "Persigue a los demás",
+          "Se esconde",
+          "Se queda quieto",
+          "Canta"
+        ],
+        "respuestaCorrecta": "Persigue a los demás",
+        "explicacion": "Quien \"la lleva\" corre para tocar a otro jugador.",
+        "visual": "🏃"
+      },
+      {
+        "id": "kinderef-b2-04-v2",
+        "tema": "Convivencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si un amigo se cae jugando, ¿qué hago? ​",
+        "opciones": [
+          "Lo ayudo",
+          "Lo ignoro",
+          "Me río",
+          "Sigo jugando"
+        ],
+        "respuestaCorrecta": "Lo ayudo",
+        "explicacion": "Ayudar a un amigo lastimado es lo correcto. Avisa a un adulto si es necesario.",
+        "visual": "🤝"
+      },
+      {
+        "id": "kinderef-b2-05-v2",
+        "tema": "Juego",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Solo los niños grandes pueden jugar ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Todos pueden jugar, adaptando las actividades a cada edad."
+      },
+      {
+        "id": "kinderef-b2-06-v2",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En \"Simón dice\", hacemos caso cuando: ​",
+        "opciones": [
+          "Simón lo ordena",
+          "Cualquier niño lo diga",
+          "Nadie lo diga",
+          "Solo si queremos"
+        ],
+        "respuestaCorrecta": "Simón lo ordena",
+        "explicacion": "Solo ejecutamos la acción si se dice \"Simón dice...\".",
+        "visual": "👑"
+      },
+      {
+        "id": "kinderef-b2-07-v2",
+        "tema": "Juego",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Jugar en equipo enseña a compartir ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El juego en equipo fomenta cooperación y convivencia."
+      },
+      {
+        "id": "kinderef-b2-08-v2",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al terminar el juego? ​",
+        "opciones": [
+          "Guardar materiales y agradecer",
+          "Tirar todo",
+          "Pelearnos",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Guardar materiales y agradecer",
+        "explicacion": "Al terminar guardamos todo y agradecemos a quienes jugaron.",
+        "visual": "🙏"
+      },
+      {
+        "id": "kinderef-b2-09-v2",
+        "tema": "Juego",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas manos usamos para atrapar una pelota grande? ​",
+        "opciones": [
+          "Dos",
+          "Una",
+          "Ninguna",
+          "Tres"
+        ],
+        "respuestaCorrecta": "Dos",
+        "explicacion": "Con las dos manos sujetamos mejor una pelota grande.",
+        "visual": "🏀"
+      },
+      {
+        "id": "kinderef-b2-10-v2",
+        "tema": "Convivencia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Podemos pelear si perdemos un juego ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Perder forma parte del juego. Lo importante es disfrutar y aprender."
+      }
+    ],
     "preview": [
       {
         "id": "kinderef-b2-01",
@@ -188,7 +337,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Respetar a los compañero hace que todos se diviertan."
       }
     ]

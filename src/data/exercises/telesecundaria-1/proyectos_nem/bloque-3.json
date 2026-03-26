@@ -10,7 +10,7 @@
     "Recetario de alimentos locales",
     "Feria de la salud"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,68 @@
         "tema": "Diagnóstico de salud comunitaria",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Diagnóstico de salud comunitaria\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Diagnóstico",
-          "Se relaciona con el estudio de Diagnóstico de salud comunitaria",
-          "Es un proceso que involucra Diagnóstico",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Diagnóstico de salud comunitaria",
-        "explicacion": "💡 Cuca te ayuda: Diagnóstico de salud comunitaria es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
       },
       {
         "id": "telesecundaria-1-proyectos_nem-b3-002",
         "tema": "Diagnóstico de salud comunitaria",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Diagnóstico de salud comunitaria\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Diagnóstico de salud comunitaria\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       },
       {
         "id": "telesecundaria-1-proyectos_nem-b3-003",
         "tema": "Diagnóstico de salud comunitaria",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Diagnóstico de salud ___",
-        "respuestaCorrecta": "comunitaria",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Diagnóstico de salud comunitaria\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-004",
-        "tema": "Diagnóstico de salud comunitaria",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Diagnóstico de salud comunitaria\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Diagnóstico de salud comunitaria",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Diagnóstico de salud comunitaria",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Diagnóstico de salud comunitaria\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-005",
-        "tema": "Campaña de prevención",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Campaña de prevención\"?",
-        "opciones": [
-          "Es un concepto fundamental de Campaña",
-          "Se relaciona con el estudio de Campaña de prevención",
-          "Es un proceso que involucra Campaña",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Campaña de prevención",
-        "explicacion": "💡 Neptuno te ayuda: Campaña de prevención es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-006",
-        "tema": "Campaña de prevención",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Campaña de prevención\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Campaña de prevención\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-007",
-        "tema": "Campaña de prevención",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Campaña de ___",
-        "respuestaCorrecta": "prevención",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Campaña de prevención\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-008",
-        "tema": "Campaña de prevención",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Campaña de prevención\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Campaña de prevención",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Campaña de prevención",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Campaña de prevención\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-009",
-        "tema": "Recetario de alimentos locales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Recetario de alimentos locales\"?",
-        "opciones": [
-          "Es un concepto fundamental de Recetario",
-          "Se relaciona con el estudio de Recetario de alimentos locales",
-          "Es un proceso que involucra Recetario",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Recetario de alimentos locales",
-        "explicacion": "💡 Cuca te ayuda: Recetario de alimentos locales es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-010",
-        "tema": "Recetario de alimentos locales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Recetario de alimentos locales\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Recetario de alimentos locales\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-011",
-        "tema": "Recetario de alimentos locales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Recetario de alimentos ___",
-        "respuestaCorrecta": "locales",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Recetario de alimentos locales\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-012",
-        "tema": "Recetario de alimentos locales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Recetario de alimentos locales\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Recetario de alimentos locales",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Recetario de alimentos locales",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Recetario de alimentos locales\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-013",
-        "tema": "Feria de la salud",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Feria de la salud\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Feria",
-          "Se relaciona con el estudio de Feria de la salud",
-          "Es un proceso que involucra Feria",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Feria de la salud",
-        "explicacion": "💡 El Búho te ayuda: Feria de la salud es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-014",
-        "tema": "Feria de la salud",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Feria de la salud\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Feria de la salud\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-015",
-        "tema": "Feria de la salud",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Feria de la ___",
-        "respuestaCorrecta": "salud",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Feria de la salud\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-016",
-        "tema": "Feria de la salud",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Feria de la salud\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Feria de la salud",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Feria de la salud",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Feria de la salud\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La capacidad de ponerse en el lugar de los demás y comprender sus sentimientos se llama ___",
+        "respuestaCorrecta": "empatía",
+        "explicacion": "La empatía es fundamental para la convivencia social."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-001",
-        "tema": "Diagnóstico de salud comunitaria",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Diagnóstico de salud comunitaria\"?",
-        "opciones": [
-          "Es un concepto fundamental de Diagnóstico",
-          "Se relaciona con el estudio de Diagnóstico de salud comunitaria",
-          "Es un proceso que involucra Diagnóstico",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Diagnóstico de salud comunitaria",
-        "explicacion": "💡 El Búho te ayuda: Diagnóstico de salud comunitaria es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-002",
-        "tema": "Diagnóstico de salud comunitaria",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Diagnóstico de salud comunitaria\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Diagnóstico de salud comunitaria\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-003",
-        "tema": "Diagnóstico de salud comunitaria",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Diagnóstico de salud ___",
-        "respuestaCorrecta": "comunitaria",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Diagnóstico de salud comunitaria\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-004",
-        "tema": "Campaña de prevención",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Campaña de prevención\"?",
-        "opciones": [
-          "Es un concepto fundamental de Campaña",
-          "Se relaciona con el estudio de Campaña de prevención",
-          "Es un proceso que involucra Campaña",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Campaña de prevención",
-        "explicacion": "💡 Hada te ayuda: Campaña de prevención es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-005",
-        "tema": "Campaña de prevención",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Campaña de prevención\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Campaña de prevención\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-006",
-        "tema": "Campaña de prevención",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Campaña de ___",
-        "respuestaCorrecta": "prevención",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Campaña de prevención\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-007",
-        "tema": "Recetario de alimentos locales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Recetario de alimentos locales\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Recetario",
-          "Se relaciona con el estudio de Recetario de alimentos locales",
-          "Es un proceso que involucra Recetario",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Recetario de alimentos locales",
-        "explicacion": "💡 Cuca te ayuda: Recetario de alimentos locales es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-008",
-        "tema": "Recetario de alimentos locales",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Recetario de alimentos locales\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Recetario de alimentos locales\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-009",
-        "tema": "Recetario de alimentos locales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Recetario de alimentos ___",
-        "respuestaCorrecta": "locales",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Recetario de alimentos locales\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-010",
+        "id": "telesecundaria-1-proyectos_nem-b3-v2-001",
         "tema": "Feria de la salud",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Feria de la salud\"?",
+        "pregunta": "¿Qué es la \"separación de poderes\"?  ",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
         "opciones": [
-          "Es un concepto fundamental de Feria",
-          "Se relaciona con el estudio de Feria de la salud",
-          "Es un proceso que involucra Feria",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Feria de la salud",
-        "explicacion": "💡 Cuca te ayuda: Feria de la salud es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-011",
+        "id": "telesecundaria-1-proyectos_nem-b3-v2-002",
         "tema": "Feria de la salud",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Feria de la salud\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Feria de la salud\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "La cultura de la legalidad promueve que la gente decida cuáles reglas cumplir y cuáles ignorar  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La cultura de la legalidad implica conocer, respetar y cumplir las leyes por convicción."
       },
       {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-012",
+        "id": "telesecundaria-1-proyectos_nem-b3-v2-003",
         "tema": "Feria de la salud",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Feria de la ___",
-        "respuestaCorrecta": "salud",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Feria de la salud\" según el programa de estudios."
+        "pregunta": "El sistema de gobierno en el cual los ciudadanos eligen a sus representantes es una ___  ",
+        "respuestaCorrecta": "democracia",
+        "explicacion": "Proviene del griego \"demos\" (pueblo) y \"kratos\" (poder)."
       }
     ],
     "preview": [
@@ -346,43 +88,42 @@
         "tema": "Diagnóstico de salud comunitaria",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Diagnóstico de salud comunitaria\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Diagnóstico",
-          "Se relaciona con el estudio de Diagnóstico de salud comunitaria",
-          "Es un proceso que involucra Diagnóstico",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Diagnóstico de salud comunitaria",
-        "explicacion": "💡 El Búho te ayuda: Diagnóstico de salud comunitaria es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-proyectos_nem-b3-v2-001",
+        "tema": "Feria de la salud",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
         "id": "telesecundaria-1-proyectos_nem-b3-002",
         "tema": "Diagnóstico de salud comunitaria",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Diagnóstico de salud comunitaria\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Diagnóstico de salud comunitaria\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-proyectos_nem-b3-p-001",
-        "tema": "Diagnóstico de salud comunitaria",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Diagnóstico de salud comunitaria\"?",
-        "opciones": [
-          "Es un concepto fundamental de Diagnóstico",
-          "Se relaciona con el estudio de Diagnóstico de salud comunitaria",
-          "Es un proceso que involucra Diagnóstico",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Diagnóstico de salud comunitaria",
-        "explicacion": "💡 El Búho te ayuda: Diagnóstico de salud comunitaria es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.287Z",
-  "version": "3.0",
-  "historiaChispito": "Nico ha encontrado un mapa antiguo escondido en la biblioteca estelar. El mapa revela secretos sobre Proyecto Comunitario: Salud. ¡Descubramos qué esconde!"
+  "generado": "2026-03-26T03:11:48.165Z",
+  "version": "2.0"
 }

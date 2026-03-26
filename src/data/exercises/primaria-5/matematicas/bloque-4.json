@@ -8,362 +8,76 @@
     "Cuerpos geométricos",
     "Volumen"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "primaria-5-matematicas-b4-001",
         "tema": "Cuerpos geométricos",
         "tipo": "multiple_choice",
-        "pregunta": "Problema de Cuerpos geométricos: ¿Cuál opción es correcta?",
-        "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Cuerpos geométricos.",
         "nivel": "v1",
-        "respuestaCorrecta": "Opción A"
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "opciones": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
       },
       {
         "id": "primaria-5-matematicas-b4-002",
         "tema": "Cuerpos geométricos",
-        "tipo": "fill_blank",
-        "pregunta": "Completa: ___ es la clave en Cuerpos geométricos",
-        "explicacion": "En Cuerpos geométricos siempre debemos aplicar el método correcto.",
+        "tipo": "true_false",
         "nivel": "v1",
-        "respuestaCorrecta": "Correcto"
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       },
       {
         "id": "primaria-5-matematicas-b4-003",
         "tema": "Cuerpos geométricos",
-        "tipo": "true_false",
-        "pregunta": "Cuerpos geométricos es parte de las matemáticas de 5° Primaria",
-        "explicacion": "Sí, Cuerpos geométricos es un tema central en este grado.",
-        "nivel": "v1",
-        "respuestaCorrecta": "true"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-extra-007",
-        "tema": "Cuerpos geométricos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si 3x + 7 = 22, ¿cuánto es x?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "3x = 22-7 = 15, x = 15÷3 = 5."
-      },
-      {
-        "id": "primaria-5-matematicas-b4-extra-009",
-        "tema": "Cuerpos geométricos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el MCD de 12 y 18?",
-        "opciones": [
-          "3",
-          "4",
-          "6",
-          "9"
-        ],
-        "respuestaCorrecta": "6",
-        "explicacion": "Los factores de 12: 1,2,3,4,6,12. Los de 18: 1,2,3,6,9,18. El máximo común es 6."
-      },
-      {
-        "id": "primaria-5-matematicas-b4-extra-011",
-        "tema": "Cuerpos geométricos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "15% de 80 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "15% de 80 = 0.15 × 80 = 12.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-013",
-        "tema": "Cuerpos geométricos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-014",
-        "tema": "Volumen",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-015",
-        "tema": "Cuerpos geométricos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000."
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-016",
-        "tema": "Volumen",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-017",
-        "tema": "Cuerpos geométricos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6."
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-018",
-        "tema": "Volumen",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-019",
-        "tema": "Cuerpos geométricos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "datoClave": "Escala de pH: 0-6 ácido, 7 neutro, 8-14 básico. El pH del estómago es ~2 (ácido).",
-        "formula": "pH = -log[H⁺] · Agua pura = 7"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-020",
-        "tema": "Volumen",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000.",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
+        "pregunta": "El resultado de una suma se llama ___",
+        "respuestaCorrecta": "total",
+        "explicacion": "También se le conoce como suma o adición."
       }
     ],
     "v2": [
       {
-        "id": "primaria-5-matematicas-b4-004",
+        "id": "primaria-5-matematicas-b4-v2-001",
         "tema": "Volumen",
         "tipo": "multiple_choice",
-        "pregunta": "Problema de Cuerpos geométricos: ¿Cuál opción es correcta?",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
         "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Cuerpos geométricos.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Opción A",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
-        "id": "primaria-5-matematicas-b4-005",
-        "tema": "Volumen",
-        "tipo": "fill_blank",
-        "pregunta": "Completa: ___ es la clave en Cuerpos geométricos",
-        "explicacion": "En Cuerpos geométricos siempre debemos aplicar el método correcto.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Correcto",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-006",
-        "tema": "Volumen",
-        "tipo": "true_false",
-        "pregunta": "Cuerpos geométricos es parte de las matemáticas de 5° Primaria",
-        "explicacion": "Sí, Cuerpos geométricos es un tema central en este grado.",
-        "nivel": "v2",
-        "respuestaCorrecta": "true",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-extra-008",
-        "tema": "Volumen",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "√144 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "La raíz cuadrada de 144 es 12, porque 12×12=144.",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-extra-010",
+        "id": "primaria-5-matematicas-b4-v2-002",
         "tema": "Volumen",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número pi (π) es aproximadamente 3.14",
+        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. π ≈ 3.14159... Se usa para calcular circunferencias y áreas de círculos.",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
+        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
       },
       {
-        "id": "primaria-5-matematicas-b4-extra-012",
-        "tema": "Volumen",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "La media de 4, 6, 8, 10 es:",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Media = (4+6+8+10)÷4 = 28÷4 = 7.",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-013",
-        "tema": "Cuerpos geométricos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-014",
+        "id": "primaria-5-matematicas-b4-v2-003",
         "tema": "Volumen",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-015",
-        "tema": "Cuerpos geométricos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-016",
-        "tema": "Volumen",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-017",
-        "tema": "Cuerpos geométricos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000."
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-018",
-        "tema": "Volumen",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-019",
-        "tema": "Cuerpos geométricos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6."
-      },
-      {
-        "id": "primaria-5-matematicas-b4-x-020",
-        "tema": "Volumen",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
+        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
+        "respuestaCorrecta": "recto",
+        "explicacion": "Un ángulo recto forma una L perfecta."
       }
     ],
     "preview": [
@@ -371,45 +85,43 @@
         "id": "primaria-5-matematicas-b4-001",
         "tema": "Cuerpos geométricos",
         "tipo": "multiple_choice",
-        "pregunta": "Problema de Cuerpos geométricos: ¿Cuál opción es correcta?",
-        "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Cuerpos geométricos.",
         "nivel": "v1",
-        "respuestaCorrecta": "Opción A"
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "opciones": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
+      },
+      {
+        "id": "primaria-5-matematicas-b4-v2-001",
+        "tema": "Volumen",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
         "id": "primaria-5-matematicas-b4-002",
         "tema": "Cuerpos geométricos",
-        "tipo": "fill_blank",
-        "pregunta": "Completa: ___ es la clave en Cuerpos geométricos",
-        "explicacion": "En Cuerpos geométricos siempre debemos aplicar el método correcto.",
+        "tipo": "true_false",
         "nivel": "v1",
-        "respuestaCorrecta": "Correcto"
-      },
-      {
-        "id": "primaria-5-matematicas-b4-004",
-        "tema": "Volumen",
-        "tipo": "multiple_choice",
-        "pregunta": "Problema de Cuerpos geométricos: ¿Cuál opción es correcta?",
-        "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Cuerpos geométricos.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Opción A",
-        "datoClave": "Volumen del prisma recto = área de la base × altura.",
-        "formula": "V = B × h"
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       }
     ]
   },
-  "generado": "2026-02-27T16:06:30.422Z",
+  "generado": "2026-03-26T03:09:52.361Z",
   "version": "2.0"
 }

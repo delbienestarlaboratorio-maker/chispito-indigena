@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Contienen exceso de cafeína y azúcar. No son recomendables para menores de edad."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Las grasas insaturadas son esenciales para el cerebro, hormonas y absorción de vitaminas."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Exceso de azúcar, sodio y grasas malas afectan negativamente la energía y recuperación."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "La vitamina D se sintetiza con sol y se encuentra en pescados grasos y huevo."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s1ef-b3-01-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la principal fuente de energía para el ejercicio intenso? ​",
+        "opciones": [
+          "Carbohidratos",
+          "Solo proteínas",
+          "Solo grasas",
+          "Solo vitaminas"
+        ],
+        "respuestaCorrecta": "Carbohidratos",
+        "explicacion": "Los carbohidratos proporcionan glucosa, el combustible preferido de los músculos activos."
+      },
+      {
+        "id": "s1ef-b3-02-v2",
+        "tema": "Proteínas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué macronutriente repara y construye tejido muscular? ​",
+        "opciones": [
+          "Proteína",
+          "Carbohidratos",
+          "Grasas",
+          "Agua"
+        ],
+        "respuestaCorrecta": "Proteína",
+        "explicacion": "Las proteínas son los bloques constructores del músculo."
+      },
+      {
+        "id": "s1ef-b3-03-v2",
+        "tema": "Nutrición",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las bebidas energéticas son recomendables para todos los adolescentes ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Contienen exceso de cafeína y azúcar. No son recomendables para menores de edad."
+      },
+      {
+        "id": "s1ef-b3-04-v2",
+        "tema": "Hidratación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo debemos hidratarnos durante el ejercicio? ​",
+        "opciones": [
+          "Antes, durante y después",
+          "Solo al terminar",
+          "Solo si tenemos mucha sed",
+          "Nunca durante el ejercicio"
+        ],
+        "respuestaCorrecta": "Antes, durante y después",
+        "explicacion": "La hidratación constante mantiene el rendimiento y previene el agotamiento."
+      },
+      {
+        "id": "s1ef-b3-05-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Fuentes de proteína saludable incluyen: ​",
+        "opciones": [
+          "Pollo, huevo, frijoles, lentejas",
+          "Solo suplementos",
+          "Solo bebidas proteicas",
+          "Solo carne roja"
+        ],
+        "respuestaCorrecta": "Pollo, huevo, frijoles, lentejas",
+        "explicacion": "Carnes magras, huevo y leguminosas son excelentes fuentes proteicas naturales."
+      },
+      {
+        "id": "s1ef-b3-06-v2",
+        "tema": "Grasas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las grasas saludables (aguacate, nueces, aceite de oliva) son necesarias ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Las grasas insaturadas son esenciales para el cerebro, hormonas y absorción de vitaminas."
+      },
+      {
+        "id": "s1ef-b3-07-v2",
+        "tema": "IMC",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el IMC? ​",
+        "opciones": [
+          "Índice de Masa Corporal: peso(kg)/estatura(m)²",
+          "Solo el peso",
+          "Solo la estatura",
+          "El porcentaje de grasa"
+        ],
+        "respuestaCorrecta": "Índice de Masa Corporal: peso(kg)/estatura(m)²",
+        "explicacion": "El IMC es una referencia básica para evaluar si estamos en un rango de peso saludable."
+      },
+      {
+        "id": "s1ef-b3-08-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo es mejor comer antes de hacer ejercicio? ​",
+        "opciones": [
+          "1 a 2 horas antes",
+          "Justo antes de empezar",
+          "5 horas antes",
+          "No comer"
+        ],
+        "respuestaCorrecta": "1 a 2 horas antes",
+        "explicacion": "Comer 1-2 horas antes permite digestión adecuada y energía disponible."
+      },
+      {
+        "id": "s1ef-b3-09-v2",
+        "tema": "Nutrición",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los alimentos ultraprocesados reducen el rendimiento deportivo ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Exceso de azúcar, sodio y grasas malas afectan negativamente la energía y recuperación."
+      },
+      {
+        "id": "s1ef-b3-10-v2",
+        "tema": "Vitaminas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La vitamina D, importante para huesos, se obtiene principalmente de: ​",
+        "opciones": [
+          "La exposición solar y alimentos como pescado",
+          "Solo suplementos",
+          "Solo dulces",
+          "Solo refrescos"
+        ],
+        "respuestaCorrecta": "La exposición solar y alimentos como pescado",
+        "explicacion": "La vitamina D se sintetiza con sol y se encuentra en pescados grasos y huevo."
+      }
+    ],
     "preview": [
       {
         "id": "s1ef-b3-01",

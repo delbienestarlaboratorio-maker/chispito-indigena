@@ -8,7 +8,7 @@
     "Sumas hasta 20",
     "Multiplicacion basica"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -16,348 +16,68 @@
         "tema": "Sumas hasta 20",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuanto es 8 + 7?",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "13",
-          "14",
-          "15",
-          "16"
-        ],
-        "respuestaCorrecta": "15",
-        "explicacion": "8 + 7: primero sumamos 8 + 2 = 10, luego 10 + 5 = 15."
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
       },
       {
         "id": "primaria-6-matematicas-b1-002",
         "tema": "Sumas hasta 20",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "10 + ___ = 17",
-        "respuestaCorrecta": "7",
-        "explicacion": "A 10 le sumamos 7 para llegar a 17."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-006",
-        "tema": "Multiplicacion basica",
-        "tipo": "visual_count",
-        "nivel": "v1",
-        "pregunta": "Hay 3 grupos de 2 pizzas. Cuantas pizzas en total?",
-        "opciones": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "respuestaCorrecta": "6",
-        "explicacion": "3 grupos con 2 pizzas cada uno = 3 x 2 = 6 pizzas."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-extra-010",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si 3x + 7 = 22, ¿cuánto es x?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "3x = 22-7 = 15, x = 15÷3 = 5."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-extra-012",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el MCD de 12 y 18?",
-        "opciones": [
-          "3",
-          "4",
-          "6",
-          "9"
-        ],
-        "respuestaCorrecta": "6",
-        "explicacion": "Los factores de 12: 1,2,3,4,6,12. Los de 18: 1,2,3,6,9,18. El máximo común es 6."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-extra-014",
-        "tema": "Sumas hasta 20",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "15% de 80 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "15% de 80 = 0.15 × 80 = 12.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-016",
-        "tema": "Sumas hasta 20",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-017",
-        "tema": "Multiplicacion basica",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "datoClave": "Escala de pH: 0-6 ácido, 7 neutro, 8-14 básico. El pH del estómago es ~2 (ácido).",
-        "formula": "pH = -log[H⁺] · Agua pura = 7"
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       },
       {
-        "id": "primaria-6-matematicas-b1-x-018",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-019",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-020",
+        "id": "primaria-6-matematicas-b1-003",
         "tema": "Sumas hasta 20",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-021",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-022",
-        "tema": "Sumas hasta 20",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "datoClave": "Escala de pH: 0-6 ácido, 7 neutro, 8-14 básico. El pH del estómago es ~2 (ácido).",
-        "formula": "pH = -log[H⁺] · Agua pura = 7"
+        "pregunta": "El resultado de una suma se llama ___",
+        "respuestaCorrecta": "total",
+        "explicacion": "También se le conoce como suma o adición."
       }
     ],
     "v2": [
       {
-        "id": "primaria-6-matematicas-b1-003",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Ana tiene 9 lapices y compra 8 mas. Cuantos tiene?",
-        "opciones": [
-          "15",
-          "16",
-          "17",
-          "18"
-        ],
-        "respuestaCorrecta": "17",
-        "explicacion": "9 + 8 = 17. Pensamos: 9 + 1 = 10, y 10 + 7 = 17."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-004",
-        "tema": "Sumas hasta 20",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "13 + 4 = 18",
-        "respuestaCorrecta": "false",
-        "explicacion": "13 + 4 = 17, no 18. Cuenta desde 13: 14, 15, 16, 17."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-005",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Cuanto es 9 + 9?",
-        "opciones": [
-          "16",
-          "17",
-          "18",
-          "19"
-        ],
-        "respuestaCorrecta": "18",
-        "explicacion": "9 + 9 = 18. Podemos pensar: 9 + 1 = 10, 10 + 8 = 18."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-008",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "4 x ___ = 12",
-        "respuestaCorrecta": "3",
-        "explicacion": "4 x 3 = 12. Podemos sumar: 4 + 4 + 4 = 12."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-009",
+        "id": "primaria-6-matematicas-b1-v2-001",
         "tema": "Multiplicacion basica",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Cuanto es 6 x 7?",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
         "opciones": [
-          "40",
-          "42",
-          "44",
-          "48"
-        ],
-        "respuestaCorrecta": "42",
-        "explicacion": "6 x 7 = 42. Truco: 6 x 7 = 6 x 5 + 6 x 2 = 30 + 12 = 42."
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
-        "id": "primaria-6-matematicas-b1-010",
+        "id": "primaria-6-matematicas-b1-v2-002",
         "tema": "Multiplicacion basica",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "3 x 4 = 4 x 3 (la multiplicacion es conmutativa)",
+        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto! 3 x 4 = 12 y 4 x 3 = 12. El orden de los factores no cambia el producto."
+        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
       },
       {
-        "id": "primaria-6-matematicas-b1-extra-011",
+        "id": "primaria-6-matematicas-b1-v2-003",
         "tema": "Multiplicacion basica",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "√144 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "La raíz cuadrada de 144 es 12, porque 12×12=144."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-extra-013",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El número pi (π) es aproximadamente 3.14",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. π ≈ 3.14159... Se usa para calcular circunferencias y áreas de círculos."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-extra-015",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "La media de 4, 6, 8, 10 es:",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Media = (4+6+8+10)÷4 = 28÷4 = 7.",
-        "datoClave": "La media aritmética es la suma de todos los valores dividida entre el número de datos.",
-        "formula": "x̄ = (x₁+x₂+...+xₙ) / n"
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-016",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-017",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-018",
-        "tema": "Sumas hasta 20",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-019",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "datoClave": "Escala de pH: 0-6 ácido, 7 neutro, 8-14 básico. El pH del estómago es ~2 (ácido).",
-        "formula": "pH = -log[H⁺] · Agua pura = 7"
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-020",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-x-021",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
+        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
+        "respuestaCorrecta": "recto",
+        "explicacion": "Un ángulo recto forma una L perfecta."
       }
     ],
     "preview": [
@@ -366,42 +86,42 @@
         "tema": "Sumas hasta 20",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuanto es 8 + 7?",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "13",
-          "14",
-          "15",
-          "16"
-        ],
-        "respuestaCorrecta": "15",
-        "explicacion": "8 + 7: primero sumamos 8 + 2 = 10, luego 10 + 5 = 15."
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
+      },
+      {
+        "id": "primaria-6-matematicas-b1-v2-001",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
         "id": "primaria-6-matematicas-b1-002",
         "tema": "Sumas hasta 20",
-        "tipo": "fill_blank",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "10 + ___ = 17",
-        "respuestaCorrecta": "7",
-        "explicacion": "A 10 le sumamos 7 para llegar a 17."
-      },
-      {
-        "id": "primaria-6-matematicas-b1-003",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Ana tiene 9 lapices y compra 8 mas. Cuantos tiene?",
-        "opciones": [
-          "15",
-          "16",
-          "17",
-          "18"
-        ],
-        "respuestaCorrecta": "17",
-        "explicacion": "9 + 8 = 17. Pensamos: 9 + 1 = 10, y 10 + 7 = 17."
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       }
     ]
   },
-  "generado": "2026-02-27T04:04:54.125Z",
+  "generado": "2026-03-26T03:09:52.398Z",
   "version": "2.0"
 }

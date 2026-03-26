@@ -54,11 +54,57 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El trabajo en equipo combina las fortalezas de cada persona y logra mejores resultados."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p1fc-b3-01-v2",
+        "tema": "Mi comunidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es una comunidad? ​",
+        "opciones": [
+          "Grupo de personas que viven juntas",
+          "Una sola persona",
+          "Un animal",
+          "Una planta"
+        ],
+        "respuestaCorrecta": "Grupo de personas que viven juntas",
+        "explicacion": "Una comunidad es un conjunto de personas que comparten un lugar y se ayudan mutuamente.",
+        "visual": "🏘️"
+      },
+      {
+        "id": "p1fc-b3-02-v2",
+        "tema": "Reglas de convivencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Para qué sirven las reglas? ​",
+        "opciones": [
+          "Para que todos vivamos mejor",
+          "Para castigar",
+          "Para jugar",
+          "Para confundir"
+        ],
+        "respuestaCorrecta": "Para que todos vivamos mejor",
+        "explicacion": "Las reglas de convivencia nos permiten vivir en armonía y resolver conflictos de forma pacífica.",
+        "visual": "📋"
+      },
+      {
+        "id": "p1fc-b3-03-v2",
+        "tema": "Trabajo en equipo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El trabajo en equipo es mejor que trabajar solos siempre ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El trabajo en equipo combina las fortalezas de cada persona y logra mejores resultados."
+      }
+    ],
     "preview": [
       {
         "id": "p1fc-b3-01",

@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El Jarabe Tapatío, originario de Jalisco, es el baile folclórico más representativo de México."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "En la mímica solo se usan gestos y movimientos del cuerpo, sin palabras."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Cada danza folclórica cuenta historias, tradiciones y la identidad de su región."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "La expresión corporal usa cada parte del cuerpo para comunicar."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p4ef-b3-01-v2",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"La Bamba\" es una danza tradicional de: ​",
+        "opciones": [
+          "Veracruz",
+          "Jalisco",
+          "Oaxaca",
+          "Guerrero"
+        ],
+        "respuestaCorrecta": "Veracruz",
+        "explicacion": "La Bamba es un son jarocho tradicional del estado de Veracruz."
+      },
+      {
+        "id": "p4ef-b3-02-v2",
+        "tema": "Expresión",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la expresión corporal? ​",
+        "opciones": [
+          "Comunicar ideas y emociones con el movimiento del cuerpo",
+          "Solo hablar",
+          "Solo cantar",
+          "Solo escribir"
+        ],
+        "respuestaCorrecta": "Comunicar ideas y emociones con el movimiento del cuerpo",
+        "explicacion": "Sin palabras podemos expresar alegría, tristeza, miedo y más con nuestro cuerpo."
+      },
+      {
+        "id": "p4ef-b3-03-v2",
+        "tema": "Danza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El Jarabe Tapatío es el baile nacional de México ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El Jarabe Tapatío, originario de Jalisco, es el baile folclórico más representativo de México."
+      },
+      {
+        "id": "p4ef-b3-04-v2",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el compás en la danza? ​",
+        "opciones": [
+          "La medida del tiempo que organiza los pasos",
+          "El color del vestuario",
+          "El nombre de la canción",
+          "La cantidad de bailarines"
+        ],
+        "respuestaCorrecta": "La medida del tiempo que organiza los pasos",
+        "explicacion": "El compás organiza los movimientos de la danza con el ritmo de la música."
+      },
+      {
+        "id": "p4ef-b3-05-v2",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La Danza del Venado es tradicional de: ​",
+        "opciones": [
+          "Los pueblos yaqui y mayo de Sonora",
+          "La Ciudad de México",
+          "Jalisco",
+          "Puebla"
+        ],
+        "respuestaCorrecta": "Los pueblos yaqui y mayo de Sonora",
+        "explicacion": "Esta danza representa la cacería del venado por los pueblos originarios del noroeste."
+      },
+      {
+        "id": "p4ef-b3-06-v2",
+        "tema": "Expresión",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La mímica es expresión corporal sin usar la voz ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "En la mímica solo se usan gestos y movimientos del cuerpo, sin palabras."
+      },
+      {
+        "id": "p4ef-b3-07-v2",
+        "tema": "Creatividad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué podemos crear en una clase de expresión corporal? ​",
+        "opciones": [
+          "Coreografías y secuencias de movimientos",
+          "Solo ecuaciones",
+          "Solo mapas",
+          "Solo textos"
+        ],
+        "respuestaCorrecta": "Coreografías y secuencias de movimientos",
+        "explicacion": "La expresión corporal permite crear coreografías originales combinando movimientos."
+      },
+      {
+        "id": "p4ef-b3-08-v2",
+        "tema": "Danza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El \"zapateado\" es característico de danzas de: ​",
+        "opciones": [
+          "México, España y otros países latinos",
+          "Solo Japón",
+          "Solo Inglaterra",
+          "Solo Rusia"
+        ],
+        "respuestaCorrecta": "México, España y otros países latinos",
+        "explicacion": "El zapateado usa el golpeteo rítmico de los pies contra el suelo."
+      },
+      {
+        "id": "p4ef-b3-09-v2",
+        "tema": "Danza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las danzas folclóricas representan la cultura de un pueblo ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Cada danza folclórica cuenta historias, tradiciones y la identidad de su región."
+      },
+      {
+        "id": "p4ef-b3-10-v2",
+        "tema": "Expresión",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué partes del cuerpo usamos en la expresión corporal? ​",
+        "opciones": [
+          "Todo el cuerpo: cara, brazos, piernas, torso",
+          "Solo las manos",
+          "Solo los pies",
+          "Solo la cara"
+        ],
+        "respuestaCorrecta": "Todo el cuerpo: cara, brazos, piernas, torso",
+        "explicacion": "La expresión corporal usa cada parte del cuerpo para comunicar."
+      }
+    ],
     "preview": [
       {
         "id": "p4ef-b3-01",

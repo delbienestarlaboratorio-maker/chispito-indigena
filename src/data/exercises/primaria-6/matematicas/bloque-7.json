@@ -1,66 +1,114 @@
 {
-    "grado": "primaria-6",
-    "materia": "matematicas",
-    "bloque": 7,
-    "nombre": "Álgebra en el aire (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Variables y ecuaciones en LSM",
-        "Coordenadas cartesianas con el cuerpo",
-        "Probabilidad y azar",
-        "Pensamiento lógico-abstracto"
+  "grado": "primaria-6",
+  "materia": "matematicas",
+  "bloque": 7,
+  "nombre": "Álgebra en el aire (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Variables y ecuaciones en LSM",
+    "Coordenadas cartesianas con el cuerpo",
+    "Probabilidad y azar",
+    "Pensamiento lógico-abstracto"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p6-mat-b7-v1-001",
+        "tema": "Variables y ecuaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En álgebra, usamos letras como 'X' para representar valores desconocidos. ¿Cómo se expresa 'la variable X' en LSM?",
+        "opciones": [
+          "Se forma la letra X con el alfabeto manual y se le agrega un movimiento de interrogación (leve sacudida), indicando que su valor es desconocido.",
+          "Se dibuja una X grande en el aire con ambas manos.",
+          "Se señala cualquier objeto aleatorio de la habitación."
+        ],
+        "respuestaCorrecta": "Se forma la letra X con el alfabeto manual y se le agrega un movimiento de interrogación (leve sacudida), indicando que su valor es desconocido.",
+        "explicacion": "¡Exacto! La X manual con sacudida interrogativa comunica perfectamente 'algo que no sabemos todavía'. Es álgebra abstracta convertida en movimiento corporal. ¡Las matemáticas vuelan! ✖️❓"
+      },
+      {
+        "id": "p6-mat-b7-v1-002",
+        "tema": "Coordenadas cartesianas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para representar un plano cartesiano en LSM, usamos los brazos: el brazo horizontal (eje X) y el brazo vertical (eje Y), y señalamos puntos en el espacio donde se cruzan las coordenadas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! El cuerpo ES el plano cartesiano. Un brazo horizontal = eje X, el otro vertical = eje Y. Para ubicar el punto (3,2), cuentas 3 en el horizontal y 2 en el vertical, señalando la intersección. ¡Geometría analítica corporal! 📐"
+      },
+      {
+        "id": "p6-mat-b7-v1-003",
+        "tema": "Probabilidad",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para expresar 'PROBABLE' o 'QUIZÁS' en LSM, la mano oscila de lado a lado (como una balanza incierta), y la expresión facial muestra ___.",
+        "respuestaCorrecta": "duda",
+        "explicacion": "¡Así es! La duda facial (cejas arrugadas, labios apretados, cabeza ligeramente ladeada) es INSEPARABLE de la seña de probabilidad. Sin esa cara de incertidumbre, la seña pierde su significado. 🎲"
+      },
+      {
+        "id": "p6-mat-b7-v1-004",
+        "tema": "Pensamiento lógico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo expresarías 'SI... ENTONCES...' (condicional lógico) en LSM?",
+        "opciones": [
+          "Cejas levantadas para la condición (SI), pausa, y cejas neutras para la consecuencia (ENTONCES). La estructura SI va primero en el espacio izquierdo y ENTONCES en el derecho.",
+          "Se deletrea S-I y luego E-N-T-O-N-C-E-S.",
+          "Se usa la misma seña para ambas partes."
+        ],
+        "respuestaCorrecta": "Cejas levantadas para la condición (SI), pausa, y cejas neutras para la consecuencia (ENTONCES). La estructura SI va primero en el espacio izquierdo y ENTONCES en el derecho.",
+        "explicacion": "¡Correcto! La lógica condicional en LSM usa marcadores no-manuales (cejas) Y distribución espacial. La condición ocupa un espacio, la consecuencia otro. ¡Programación visual! 💻"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "p6-mat-b7-v1-001",
-                "tema": "Variables y ecuaciones",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "En álgebra, usamos letras como 'X' para representar valores desconocidos. ¿Cómo se expresa 'la variable X' en LSM?",
-                "opciones": [
-                    "Se forma la letra X con el alfabeto manual y se le agrega un movimiento de interrogación (leve sacudida), indicando que su valor es desconocido.",
-                    "Se dibuja una X grande en el aire con ambas manos.",
-                    "Se señala cualquier objeto aleatorio de la habitación."
-                ],
-                "respuestaCorrecta": "Se forma la letra X con el alfabeto manual y se le agrega un movimiento de interrogación (leve sacudida), indicando que su valor es desconocido.",
-                "explicacion": "¡Exacto! La X manual con sacudida interrogativa comunica perfectamente 'algo que no sabemos todavía'. Es álgebra abstracta convertida en movimiento corporal. ¡Las matemáticas vuelan! ✖️❓"
-            },
-            {
-                "id": "p6-mat-b7-v1-002",
-                "tema": "Coordenadas cartesianas",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para representar un plano cartesiano en LSM, usamos los brazos: el brazo horizontal (eje X) y el brazo vertical (eje Y), y señalamos puntos en el espacio donde se cruzan las coordenadas.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! El cuerpo ES el plano cartesiano. Un brazo horizontal = eje X, el otro vertical = eje Y. Para ubicar el punto (3,2), cuentas 3 en el horizontal y 2 en el vertical, señalando la intersección. ¡Geometría analítica corporal! 📐"
-            },
-            {
-                "id": "p6-mat-b7-v1-003",
-                "tema": "Probabilidad",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para expresar 'PROBABLE' o 'QUIZÁS' en LSM, la mano oscila de lado a lado (como una balanza incierta), y la expresión facial muestra ___.",
-                "respuestaCorrecta": "duda",
-                "explicacion": "¡Así es! La duda facial (cejas arrugadas, labios apretados, cabeza ligeramente ladeada) es INSEPARABLE de la seña de probabilidad. Sin esa cara de incertidumbre, la seña pierde su significado. 🎲"
-            },
-            {
-                "id": "p6-mat-b7-v1-004",
-                "tema": "Pensamiento lógico",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo expresarías 'SI... ENTONCES...' (condicional lógico) en LSM?",
-                "opciones": [
-                    "Cejas levantadas para la condición (SI), pausa, y cejas neutras para la consecuencia (ENTONCES). La estructura SI va primero en el espacio izquierdo y ENTONCES en el derecho.",
-                    "Se deletrea S-I y luego E-N-T-O-N-C-E-S.",
-                    "Se usa la misma seña para ambas partes."
-                ],
-                "respuestaCorrecta": "Cejas levantadas para la condición (SI), pausa, y cejas neutras para la consecuencia (ENTONCES). La estructura SI va primero en el espacio izquierdo y ENTONCES en el derecho.",
-                "explicacion": "¡Correcto! La lógica condicional en LSM usa marcadores no-manuales (cejas) Y distribución espacial. La condición ocupa un espacio, la consecuencia otro. ¡Programación visual! 💻"
-            }
-        ]
-    },
-    "generado": "2026-03-10T19:37:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "p6-mat-b7-v1-001-v2",
+        "tema": "Variables y ecuaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En álgebra, usamos letras como 'X' para representar valores desconocidos. ¿Cómo se expresa 'la variable X' en LSM? ​",
+        "opciones": [
+          "Se forma la letra X con el alfabeto manual y se le agrega un movimiento de interrogación (leve sacudida), indicando que su valor es desconocido.",
+          "Se dibuja una X grande en el aire con ambas manos.",
+          "Se señala cualquier objeto aleatorio de la habitación."
+        ],
+        "respuestaCorrecta": "Se forma la letra X con el alfabeto manual y se le agrega un movimiento de interrogación (leve sacudida), indicando que su valor es desconocido.",
+        "explicacion": "¡Exacto! La X manual con sacudida interrogativa comunica perfectamente 'algo que no sabemos todavía'. Es álgebra abstracta convertida en movimiento corporal. ¡Las matemáticas vuelan! ✖️❓"
+      },
+      {
+        "id": "p6-mat-b7-v1-002-v2",
+        "tema": "Coordenadas cartesianas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para representar un plano cartesiano en LSM, usamos los brazos: el brazo horizontal (eje X) y el brazo vertical (eje Y), y señalamos puntos en el espacio donde se cruzan las coordenadas. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! El cuerpo ES el plano cartesiano. Un brazo horizontal = eje X, el otro vertical = eje Y. Para ubicar el punto (3,2), cuentas 3 en el horizontal y 2 en el vertical, señalando la intersección. ¡Geometría analítica corporal! 📐"
+      },
+      {
+        "id": "p6-mat-b7-v1-003-v2",
+        "tema": "Probabilidad",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para expresar 'PROBABLE' o 'QUIZÁS' en LSM, la mano oscila de lado a lado (como una balanza incierta), y la expresión facial muestra ___. ​",
+        "respuestaCorrecta": "duda",
+        "explicacion": "¡Así es! La duda facial (cejas arrugadas, labios apretados, cabeza ligeramente ladeada) es INSEPARABLE de la seña de probabilidad. Sin esa cara de incertidumbre, la seña pierde su significado. 🎲"
+      },
+      {
+        "id": "p6-mat-b7-v1-004-v2",
+        "tema": "Pensamiento lógico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo expresarías 'SI... ENTONCES...' (condicional lógico) en LSM? ​",
+        "opciones": [
+          "Cejas levantadas para la condición (SI), pausa, y cejas neutras para la consecuencia (ENTONCES). La estructura SI va primero en el espacio izquierdo y ENTONCES en el derecho.",
+          "Se deletrea S-I y luego E-N-T-O-N-C-E-S.",
+          "Se usa la misma seña para ambas partes."
+        ],
+        "respuestaCorrecta": "Cejas levantadas para la condición (SI), pausa, y cejas neutras para la consecuencia (ENTONCES). La estructura SI va primero en el espacio izquierdo y ENTONCES en el derecho.",
+        "explicacion": "¡Correcto! La lógica condicional en LSM usa marcadores no-manuales (cejas) Y distribución espacial. La condición ocupa un espacio, la consecuencia otro. ¡Programación visual! 💻"
+      }
+    ]
+  },
+  "generado": "2026-03-10T19:37:00.000Z",
+  "version": "3.0"
 }

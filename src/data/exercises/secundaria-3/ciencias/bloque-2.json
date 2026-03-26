@@ -8,7 +8,7 @@
     "Darwin y la selección natural",
     "Fósiles y evidencias"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -16,326 +16,68 @@
         "tema": "Darwin y la selección natural",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Darwin y la selección natural\"?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Darwin y la selección natural es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
       },
       {
         "id": "secundaria-3-ciencias-b2-002",
         "tema": "Darwin y la selección natural",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Darwin y la selección natural es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       },
       {
         "id": "secundaria-3-ciencias-b2-003",
         "tema": "Darwin y la selección natural",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En Darwin y la selección natural, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-extra-007",
-        "tema": "Darwin y la selección natural",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
-        "opciones": [
-          "Venus",
-          "Mercurio",
-          "Marte",
-          "Tierra"
-        ],
-        "respuestaCorrecta": "Mercurio",
-        "explicacion": "Mercurio es el planeta más cercano al Sol, a 57.9 millones de kilómetros."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-extra-009",
-        "tema": "Darwin y la selección natural",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los mamíferos son de sangre fría",
-        "respuestaCorrecta": "false",
-        "explicacion": "Los mamíferos somos de sangre caliente (homeotérmicos). Los reptiles sí son de sangre fría."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-extra-011",
-        "tema": "Darwin y la selección natural",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La fotosíntesis convierte luz solar en ___",
-        "respuestaCorrecta": "glucosa",
-        "explicacion": "Las plantas usan la luz del sol, CO₂ y agua para fabricar glucosa (azúcar) que les da energía."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-extra-013",
-        "tema": "Darwin y la selección natural",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La Luna produce su propia luz",
-        "respuestaCorrecta": "false",
-        "explicacion": "La Luna refleja la luz del Sol. No tiene luz propia."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-014",
-        "tema": "Darwin y la selección natural",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
-        "opciones": [
-          "106",
-          "206",
-          "306",
-          "406"
-        ],
-        "respuestaCorrecta": "206",
-        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-015",
-        "tema": "Fósiles y evidencias",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El corazón bombea sangre a todo el cuerpo",
-        "respuestaCorrecta": "true",
-        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-016",
-        "tema": "Darwin y la selección natural",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El agua en estado gaseoso se llama ___",
-        "respuestaCorrecta": "vapor",
-        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-017",
-        "tema": "Fósiles y evidencias",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
-        "respuestaCorrecta": "true",
-        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-018",
-        "tema": "Darwin y la selección natural",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La fotosíntesis produce ___ y oxígeno",
-        "respuestaCorrecta": "glucosa",
-        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-019",
-        "tema": "Fósiles y evidencias",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué tipo de energía usa una planta solar?",
-        "opciones": [
-          "Eólica",
-          "Hidráulica",
-          "Solar",
-          "Nuclear"
-        ],
-        "respuestaCorrecta": "Solar",
-        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-020",
-        "tema": "Darwin y la selección natural",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál gas es necesario para respirar?",
-        "opciones": [
-          "CO₂",
-          "N₂",
-          "O₂",
-          "H₂"
-        ],
-        "respuestaCorrecta": "O₂",
-        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-021",
-        "tema": "Fósiles y evidencias",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
-        "opciones": [
-          "106",
-          "206",
-          "306",
-          "406"
-        ],
-        "respuestaCorrecta": "206",
-        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
+        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
+        "respuestaCorrecta": "fotosíntesis",
+        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
       }
     ],
     "v2": [
       {
-        "id": "secundaria-3-ciencias-b2-004",
+        "id": "secundaria-3-ciencias-b2-v2-001",
         "tema": "Fósiles y evidencias",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Fósiles y evidencias\"?",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Fósiles y evidencias es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
-        "id": "secundaria-3-ciencias-b2-005",
+        "id": "secundaria-3-ciencias-b2-v2-002",
         "tema": "Fósiles y evidencias",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Fósiles y evidencias es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
       },
       {
-        "id": "secundaria-3-ciencias-b2-006",
+        "id": "secundaria-3-ciencias-b2-v2-003",
         "tema": "Fósiles y evidencias",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En Fósiles y evidencias, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-extra-008",
-        "tema": "Fósiles y evidencias",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El oxígeno tiene símbolo químico ___",
-        "respuestaCorrecta": "O",
-        "explicacion": "O es el símbolo del oxígeno en la tabla periódica. Con este respiramos."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-extra-010",
-        "tema": "Fósiles y evidencias",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué orgánulo produce energía en la célula?",
-        "opciones": [
-          "Núcleo",
-          "Ribosoma",
-          "Mitocondria",
-          "Vacuola"
-        ],
-        "respuestaCorrecta": "Mitocondria",
-        "explicacion": "Las mitocondrias son \"las plantas de energía\" de la célula. Producen ATP."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-extra-012",
-        "tema": "Fósiles y evidencias",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "El agua hierve a...",
-        "opciones": [
-          "0°C",
-          "50°C",
-          "100°C",
-          "150°C"
-        ],
-        "respuestaCorrecta": "100°C",
-        "explicacion": "A 100°C (a nivel del mar) el agua pasa de líquido a gas (vapor)."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-014",
-        "tema": "Darwin y la selección natural",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La fotosíntesis produce ___ y oxígeno",
-        "respuestaCorrecta": "glucosa",
-        "explicacion": "Fotosíntesis: CO₂ + H₂O + Luz → Glucosa + O₂."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-015",
-        "tema": "Fósiles y evidencias",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué tipo de energía usa una planta solar?",
-        "opciones": [
-          "Eólica",
-          "Hidráulica",
-          "Solar",
-          "Nuclear"
-        ],
-        "respuestaCorrecta": "Solar",
-        "explicacion": "Los paneles solares convierten luz solar en energía eléctrica."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-016",
-        "tema": "Darwin y la selección natural",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál gas es necesario para respirar?",
-        "opciones": [
-          "CO₂",
-          "N₂",
-          "O₂",
-          "H₂"
-        ],
-        "respuestaCorrecta": "O₂",
-        "explicacion": "El oxígeno (O₂) es esencial para la respiración celular en seres vivos."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-017",
-        "tema": "Fósiles y evidencias",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
-        "opciones": [
-          "106",
-          "206",
-          "306",
-          "406"
-        ],
-        "respuestaCorrecta": "206",
-        "explicacion": "El cuerpo humano adulto tiene 206 huesos. Los bebés tienen más (270) que se fusionan."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-018",
-        "tema": "Darwin y la selección natural",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El corazón bombea sangre a todo el cuerpo",
-        "respuestaCorrecta": "true",
-        "explicacion": "El corazón es una bomba muscular que circula la sangre por todo el cuerpo."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-019",
-        "tema": "Fósiles y evidencias",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El agua en estado gaseoso se llama ___",
-        "respuestaCorrecta": "vapor",
-        "explicacion": "H₂O puede ser sólido (hielo), líquido (agua) o gaseoso (vapor)."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-x-020",
-        "tema": "Darwin y la selección natural",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "La Tierra tarda 365 días en girar alrededor del Sol",
-        "respuestaCorrecta": "true",
-        "explicacion": "El año tiene 365 días (366 en año bisiesto) que dura la órbita de la Tierra."
+        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
       }
     ],
     "preview": [
@@ -344,42 +86,42 @@
         "tema": "Darwin y la selección natural",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Darwin y la selección natural\"?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Darwin y la selección natural es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
+      },
+      {
+        "id": "secundaria-3-ciencias-b2-v2-001",
+        "tema": "Fósiles y evidencias",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
+        "opciones": [
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
         "id": "secundaria-3-ciencias-b2-002",
         "tema": "Darwin y la selección natural",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Darwin y la selección natural es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
-      },
-      {
-        "id": "secundaria-3-ciencias-b2-004",
-        "tema": "Fósiles y evidencias",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Fósiles y evidencias\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Fósiles y evidencias es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:24.089Z",
+  "generado": "2026-03-26T03:09:52.463Z",
   "version": "2.0"
 }

@@ -10,7 +10,7 @@
     "Energía térmica y eléctrica",
     "Circuitos eléctricos simples"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,68 @@
         "tema": "Estados de la materia",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Estados de la materia\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "Es un concepto fundamental de Estados",
-          "Se relaciona con el estudio de Estados de la materia",
-          "Es un proceso que involucra Estados",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Estados de la materia",
-        "explicacion": "💡 Hada te ayuda: Estados de la materia es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
       },
       {
         "id": "telesecundaria-3-saberes_cientificos-b2-002",
         "tema": "Estados de la materia",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Estados de la materia\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Estados de la materia\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       },
       {
         "id": "telesecundaria-3-saberes_cientificos-b2-003",
         "tema": "Estados de la materia",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Estados de la ___",
-        "respuestaCorrecta": "materia",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Estados de la materia\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-004",
-        "tema": "Estados de la materia",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Estados de la materia\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Estados de la materia",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Estados de la materia",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"Estados de la materia\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-005",
-        "tema": "Mezclas: homogéneas y heterogéneas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Mezclas: homogéneas y heterogéneas\"?",
-        "opciones": [
-          "Es un concepto fundamental de Mezclas:",
-          "Se relaciona con el estudio de Mezclas: homogéneas y heterogéneas",
-          "Es un proceso que involucra Mezclas:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Mezclas: homogéneas y heterogéneas",
-        "explicacion": "💡 Pipo te ayuda: Mezclas: homogéneas y heterogéneas es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-006",
-        "tema": "Mezclas: homogéneas y heterogéneas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Mezclas: homogéneas y heterogéneas\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Mezclas: homogéneas y heterogéneas\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-007",
-        "tema": "Mezclas: homogéneas y heterogéneas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Mezclas: homogéneas y ___",
-        "respuestaCorrecta": "heterogéneas",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Mezclas: homogéneas y heterogéneas\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-008",
-        "tema": "Mezclas: homogéneas y heterogéneas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Mezclas: homogéneas y heterogéneas\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Mezclas: homogéneas y heterogéneas",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Mezclas: homogéneas y heterogéneas",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Mezclas: homogéneas y heterogéneas\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-009",
-        "tema": "Energía térmica y eléctrica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Energía térmica y eléctrica\"?",
-        "opciones": [
-          "Es un concepto fundamental de Energía",
-          "Se relaciona con el estudio de Energía térmica y eléctrica",
-          "Es un proceso que involucra Energía",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Energía térmica y eléctrica",
-        "explicacion": "💡 Pipo te ayuda: Energía térmica y eléctrica es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-010",
-        "tema": "Energía térmica y eléctrica",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Energía térmica y eléctrica\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Energía térmica y eléctrica\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-011",
-        "tema": "Energía térmica y eléctrica",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Energía térmica y ___",
-        "respuestaCorrecta": "eléctrica",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Energía térmica y eléctrica\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-012",
-        "tema": "Energía térmica y eléctrica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Energía térmica y eléctrica\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Energía térmica y eléctrica",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Energía térmica y eléctrica",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Energía térmica y eléctrica\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-013",
-        "tema": "Circuitos eléctricos simples",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Circuitos eléctricos simples\"?",
-        "opciones": [
-          "Es un concepto fundamental de Circuitos",
-          "Se relaciona con el estudio de Circuitos eléctricos simples",
-          "Es un proceso que involucra Circuitos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Circuitos eléctricos simples",
-        "explicacion": "💡 Hada te ayuda: Circuitos eléctricos simples es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-014",
-        "tema": "Circuitos eléctricos simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Circuitos eléctricos simples\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Circuitos eléctricos simples\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-015",
-        "tema": "Circuitos eléctricos simples",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Circuitos eléctricos ___",
-        "respuestaCorrecta": "simples",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Circuitos eléctricos simples\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-016",
-        "tema": "Circuitos eléctricos simples",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Circuitos eléctricos simples\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Circuitos eléctricos simples",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Circuitos eléctricos simples",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Circuitos eléctricos simples\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
+        "respuestaCorrecta": "fotosíntesis",
+        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-001",
-        "tema": "Estados de la materia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Estados de la materia\"?",
-        "opciones": [
-          "Es un concepto fundamental de Estados",
-          "Se relaciona con el estudio de Estados de la materia",
-          "Es un proceso que involucra Estados",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Estados de la materia",
-        "explicacion": "💡 Cuca te ayuda: Estados de la materia es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-002",
-        "tema": "Estados de la materia",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Estados de la materia\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Estados de la materia\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-003",
-        "tema": "Estados de la materia",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Estados de la ___",
-        "respuestaCorrecta": "materia",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Estados de la materia\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-004",
-        "tema": "Mezclas: homogéneas y heterogéneas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Mezclas: homogéneas y heterogéneas\"?",
-        "opciones": [
-          "Es un concepto fundamental de Mezclas:",
-          "Se relaciona con el estudio de Mezclas: homogéneas y heterogéneas",
-          "Es un proceso que involucra Mezclas:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Mezclas: homogéneas y heterogéneas",
-        "explicacion": "💡 Pipo te ayuda: Mezclas: homogéneas y heterogéneas es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-005",
-        "tema": "Mezclas: homogéneas y heterogéneas",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Mezclas: homogéneas y heterogéneas\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Mezclas: homogéneas y heterogéneas\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-006",
-        "tema": "Mezclas: homogéneas y heterogéneas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Mezclas: homogéneas y ___",
-        "respuestaCorrecta": "heterogéneas",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Mezclas: homogéneas y heterogéneas\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-007",
-        "tema": "Energía térmica y eléctrica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Energía térmica y eléctrica\"?",
-        "opciones": [
-          "Es un concepto fundamental de Energía",
-          "Se relaciona con el estudio de Energía térmica y eléctrica",
-          "Es un proceso que involucra Energía",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Energía térmica y eléctrica",
-        "explicacion": "💡 Hada te ayuda: Energía térmica y eléctrica es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-008",
-        "tema": "Energía térmica y eléctrica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Energía térmica y eléctrica\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Energía térmica y eléctrica\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-009",
-        "tema": "Energía térmica y eléctrica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Energía térmica y ___",
-        "respuestaCorrecta": "eléctrica",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Energía térmica y eléctrica\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-010",
+        "id": "telesecundaria-3-saberes_cientificos-b2-v2-001",
         "tema": "Circuitos eléctricos simples",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Circuitos eléctricos simples\"?",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
         "opciones": [
-          "Es un concepto fundamental de Circuitos",
-          "Se relaciona con el estudio de Circuitos eléctricos simples",
-          "Es un proceso que involucra Circuitos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Circuitos eléctricos simples",
-        "explicacion": "💡 Hada te ayuda: Circuitos eléctricos simples es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-011",
+        "id": "telesecundaria-3-saberes_cientificos-b2-v2-002",
         "tema": "Circuitos eléctricos simples",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Circuitos eléctricos simples\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Circuitos eléctricos simples\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
       },
       {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-012",
+        "id": "telesecundaria-3-saberes_cientificos-b2-v2-003",
         "tema": "Circuitos eléctricos simples",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Circuitos eléctricos ___",
-        "respuestaCorrecta": "simples",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Circuitos eléctricos simples\" según el programa de estudios."
+        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
       }
     ],
     "preview": [
@@ -346,43 +88,42 @@
         "tema": "Estados de la materia",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Estados de la materia\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "Es un concepto fundamental de Estados",
-          "Se relaciona con el estudio de Estados de la materia",
-          "Es un proceso que involucra Estados",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Estados de la materia",
-        "explicacion": "💡 Pipo te ayuda: Estados de la materia es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
+      },
+      {
+        "id": "telesecundaria-3-saberes_cientificos-b2-v2-001",
+        "tema": "Circuitos eléctricos simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
+        "opciones": [
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
         "id": "telesecundaria-3-saberes_cientificos-b2-002",
         "tema": "Estados de la materia",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Estados de la materia\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Estados de la materia\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b2-p-001",
-        "tema": "Estados de la materia",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Estados de la materia\"?",
-        "opciones": [
-          "Es un concepto fundamental de Estados",
-          "Se relaciona con el estudio de Estados de la materia",
-          "Es un proceso que involucra Estados",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Estados de la materia",
-        "explicacion": "💡 Hada te ayuda: Estados de la materia es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.358Z",
-  "version": "3.0",
-  "historiaChispito": "¡Alerta en Ciudad Chispito! Un portal del conocimiento se ha abierto. Para cruzarlo, debes demostrar tus habilidades en Materia y energía."
+  "generado": "2026-03-26T03:11:48.230Z",
+  "version": "2.0"
 }

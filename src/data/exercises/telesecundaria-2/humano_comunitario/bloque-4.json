@@ -10,7 +10,7 @@
     "Respeto a la diversidad",
     "Prevención de la violencia de género"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,68 @@
         "tema": "Perspectiva de género",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Perspectiva de género\"?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Perspectiva",
-          "Se relaciona con el estudio de Perspectiva de género",
-          "Es un proceso que involucra Perspectiva",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Perspectiva de género",
-        "explicacion": "💡 Hada te ayuda: Perspectiva de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
       },
       {
         "id": "telesecundaria-2-humano_comunitario-b4-002",
         "tema": "Perspectiva de género",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Perspectiva de género\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Perspectiva de género\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       },
       {
         "id": "telesecundaria-2-humano_comunitario-b4-003",
         "tema": "Perspectiva de género",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Perspectiva de ___",
-        "respuestaCorrecta": "género",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Perspectiva de género\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-004",
-        "tema": "Perspectiva de género",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Perspectiva de género\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Perspectiva de género",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Perspectiva de género",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Perspectiva de género\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-005",
-        "tema": "Estereotipos y roles de género",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Estereotipos y roles de género\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Estereotipos",
-          "Se relaciona con el estudio de Estereotipos y roles de género",
-          "Es un proceso que involucra Estereotipos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Estereotipos y roles de género",
-        "explicacion": "💡 El Búho te ayuda: Estereotipos y roles de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-006",
-        "tema": "Estereotipos y roles de género",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Estereotipos y roles de género\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Estereotipos y roles de género\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-007",
-        "tema": "Estereotipos y roles de género",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Estereotipos y roles de ___",
-        "respuestaCorrecta": "género",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Estereotipos y roles de género\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-008",
-        "tema": "Estereotipos y roles de género",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Estereotipos y roles de género\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Estereotipos y roles de género",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Estereotipos y roles de género",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Estereotipos y roles de género\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-009",
-        "tema": "Respeto a la diversidad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Respeto a la diversidad\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Respeto",
-          "Se relaciona con el estudio de Respeto a la diversidad",
-          "Es un proceso que involucra Respeto",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Respeto a la diversidad",
-        "explicacion": "💡 Cuca te ayuda: Respeto a la diversidad es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-010",
-        "tema": "Respeto a la diversidad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Respeto a la diversidad\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Respeto a la diversidad\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-011",
-        "tema": "Respeto a la diversidad",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Respeto a la ___",
-        "respuestaCorrecta": "diversidad",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Respeto a la diversidad\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-012",
-        "tema": "Respeto a la diversidad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Respeto a la diversidad\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Respeto a la diversidad",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Respeto a la diversidad",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Respeto a la diversidad\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-013",
-        "tema": "Prevención de la violencia de género",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Prevención de la violencia de género\"?",
-        "opciones": [
-          "Es un concepto fundamental de Prevención",
-          "Se relaciona con el estudio de Prevención de la violencia de género",
-          "Es un proceso que involucra Prevención",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Prevención de la violencia de género",
-        "explicacion": "💡 Cuca te ayuda: Prevención de la violencia de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-014",
-        "tema": "Prevención de la violencia de género",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Prevención de la violencia de género\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Prevención de la violencia de género\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-015",
-        "tema": "Prevención de la violencia de género",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Prevención de la violencia de ___",
-        "respuestaCorrecta": "género",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Prevención de la violencia de género\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-016",
-        "tema": "Prevención de la violencia de género",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Prevención de la violencia de género\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Prevención de la violencia de género",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Prevención de la violencia de género",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Prevención de la violencia de género\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La capacidad de ponerse en el lugar de los demás y comprender sus sentimientos se llama ___",
+        "respuestaCorrecta": "empatía",
+        "explicacion": "La empatía es fundamental para la convivencia social."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-001",
-        "tema": "Perspectiva de género",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Perspectiva de género\"?",
-        "opciones": [
-          "Es un concepto fundamental de Perspectiva",
-          "Se relaciona con el estudio de Perspectiva de género",
-          "Es un proceso que involucra Perspectiva",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Perspectiva de género",
-        "explicacion": "💡 El Búho te ayuda: Perspectiva de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-002",
-        "tema": "Perspectiva de género",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Perspectiva de género\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Perspectiva de género\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-003",
-        "tema": "Perspectiva de género",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Perspectiva de ___",
-        "respuestaCorrecta": "género",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Perspectiva de género\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-004",
-        "tema": "Estereotipos y roles de género",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Estereotipos y roles de género\"?",
-        "opciones": [
-          "Es un concepto fundamental de Estereotipos",
-          "Se relaciona con el estudio de Estereotipos y roles de género",
-          "Es un proceso que involucra Estereotipos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Estereotipos y roles de género",
-        "explicacion": "💡 Hada te ayuda: Estereotipos y roles de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-005",
-        "tema": "Estereotipos y roles de género",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Estereotipos y roles de género\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Estereotipos y roles de género\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-006",
-        "tema": "Estereotipos y roles de género",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Estereotipos y roles de ___",
-        "respuestaCorrecta": "género",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Estereotipos y roles de género\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-007",
-        "tema": "Respeto a la diversidad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Respeto a la diversidad\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Respeto",
-          "Se relaciona con el estudio de Respeto a la diversidad",
-          "Es un proceso que involucra Respeto",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Respeto a la diversidad",
-        "explicacion": "💡 Hada te ayuda: Respeto a la diversidad es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-008",
-        "tema": "Respeto a la diversidad",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Respeto a la diversidad\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Respeto a la diversidad\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-009",
-        "tema": "Respeto a la diversidad",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Respeto a la ___",
-        "respuestaCorrecta": "diversidad",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Respeto a la diversidad\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-010",
+        "id": "telesecundaria-2-humano_comunitario-b4-v2-001",
         "tema": "Prevención de la violencia de género",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Respecto a \"Prevención de la violencia de género\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Qué es la \"separación de poderes\"?  ",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
         "opciones": [
-          "Es un concepto fundamental de Prevención",
-          "Se relaciona con el estudio de Prevención de la violencia de género",
-          "Es un proceso que involucra Prevención",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Prevención de la violencia de género",
-        "explicacion": "💡 Hada te ayuda: Prevención de la violencia de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-011",
+        "id": "telesecundaria-2-humano_comunitario-b4-v2-002",
         "tema": "Prevención de la violencia de género",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Prevención de la violencia de género\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Prevención de la violencia de género\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "La cultura de la legalidad promueve que la gente decida cuáles reglas cumplir y cuáles ignorar  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La cultura de la legalidad implica conocer, respetar y cumplir las leyes por convicción."
       },
       {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-012",
+        "id": "telesecundaria-2-humano_comunitario-b4-v2-003",
         "tema": "Prevención de la violencia de género",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Prevención de la violencia de ___",
-        "respuestaCorrecta": "género",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Prevención de la violencia de género\" según el programa de estudios."
+        "pregunta": "El sistema de gobierno en el cual los ciudadanos eligen a sus representantes es una ___  ",
+        "respuestaCorrecta": "democracia",
+        "explicacion": "Proviene del griego \"demos\" (pueblo) y \"kratos\" (poder)."
       }
     ],
     "preview": [
@@ -346,43 +88,42 @@
         "tema": "Perspectiva de género",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Perspectiva de género\"?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Perspectiva",
-          "Se relaciona con el estudio de Perspectiva de género",
-          "Es un proceso que involucra Perspectiva",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Perspectiva de género",
-        "explicacion": "💡 Pipo te ayuda: Perspectiva de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "telesecundaria-2-humano_comunitario-b4-v2-001",
+        "tema": "Prevención de la violencia de género",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
         "id": "telesecundaria-2-humano_comunitario-b4-002",
         "tema": "Perspectiva de género",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Perspectiva de género\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Perspectiva de género\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-humano_comunitario-b4-p-001",
-        "tema": "Perspectiva de género",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Perspectiva de género\"?",
-        "opciones": [
-          "Es un concepto fundamental de Perspectiva",
-          "Se relaciona con el estudio de Perspectiva de género",
-          "Es un proceso que involucra Perspectiva",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Perspectiva de género",
-        "explicacion": "💡 Cuca te ayuda: Perspectiva de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.329Z",
-  "version": "3.0",
-  "historiaChispito": "Nico ha encontrado un mapa antiguo escondido en la biblioteca estelar. El mapa revela secretos sobre Género y diversidad. ¡Descubramos qué esconde!"
+  "generado": "2026-03-26T03:11:48.181Z",
+  "version": "2.0"
 }

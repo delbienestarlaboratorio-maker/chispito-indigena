@@ -8,7 +8,7 @@
     "Democracia y ciudadanía",
     "Participación social"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -16,332 +16,68 @@
         "tema": "Democracia y ciudadanía",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Democracia y ciudadanía\"?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Democracia y ciudadanía es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
       },
       {
         "id": "secundaria-1-formacion-b3-002",
         "tema": "Democracia y ciudadanía",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Democracia y ciudadanía es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       },
       {
         "id": "secundaria-1-formacion-b3-003",
         "tema": "Democracia y ciudadanía",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En Democracia y ciudadanía, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-extra-007",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué son los derechos humanos?",
-        "opciones": [
-          "Privilegios para ricos",
-          "Derechos de solo los adultos",
-          "Derechos de todas las personas por igual",
-          "Reglas del gobierno"
-        ],
-        "respuestaCorrecta": "Derechos de todas las personas por igual",
-        "explicacion": "Los derechos humanos son universales: aplican a todas las personas sin importar origen, género o edad."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-extra-009",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "En México el voto es secreto y universal",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Todos los ciudadanos mexicanos (+18 años) pueden votar en secreto."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-011",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-012",
-        "tema": "Participación social",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
-        "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-013",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-014",
-        "tema": "Participación social",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
-        "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-015",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-016",
-        "tema": "Participación social",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
-        "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-017",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-018",
-        "tema": "Participación social",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
-        "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-019",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "pregunta": "La capacidad de ponerse en el lugar de los demás y comprender sus sentimientos se llama ___",
+        "respuestaCorrecta": "empatía",
+        "explicacion": "La empatía es fundamental para la convivencia social."
       }
     ],
     "v2": [
       {
-        "id": "secundaria-1-formacion-b3-004",
+        "id": "secundaria-1-formacion-b3-v2-001",
         "tema": "Participación social",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Participación social\"?",
+        "pregunta": "¿Qué es la \"separación de poderes\"?  ",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Participación social es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
-        "id": "secundaria-1-formacion-b3-005",
+        "id": "secundaria-1-formacion-b3-v2-002",
         "tema": "Participación social",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Participación social es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "pregunta": "La cultura de la legalidad promueve que la gente decida cuáles reglas cumplir y cuáles ignorar  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La cultura de la legalidad implica conocer, respetar y cumplir las leyes por convicción."
       },
       {
-        "id": "secundaria-1-formacion-b3-006",
+        "id": "secundaria-1-formacion-b3-v2-003",
         "tema": "Participación social",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En Participación social, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-extra-008",
-        "tema": "Participación social",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La democracia es el gobierno del ___, para el pueblo",
-        "respuestaCorrecta": "pueblo",
-        "explicacion": "Democracia viene del griego \"demos\" (pueblo) y \"kratos\" (poder). El pueblo gobierna."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-extra-010",
-        "tema": "Participación social",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es una forma de participación ciudadana?",
-        "opciones": [
-          "No votar",
-          "Ignorar las leyes",
-          "Votar y participar en comunidad",
-          "Solo obedecer sin opinar"
-        ],
-        "respuestaCorrecta": "Votar y participar en comunidad",
-        "explicacion": "Ser ciudadano activo significa votar, participar en organizaciones y defender derechos."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-011",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-012",
-        "tema": "Participación social",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
-        "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
-        ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-013",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-014",
-        "tema": "Participación social",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
-        "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
-        ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-015",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-016",
-        "tema": "Participación social",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
-        "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
-        ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-017",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-018",
-        "tema": "Participación social",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
-        "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
-        ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-x-019",
-        "tema": "Democracia y ciudadanía",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+        "pregunta": "El sistema de gobierno en el cual los ciudadanos eligen a sus representantes es una ___  ",
+        "respuestaCorrecta": "democracia",
+        "explicacion": "Proviene del griego \"demos\" (pueblo) y \"kratos\" (poder)."
       }
     ],
     "preview": [
@@ -350,42 +86,42 @@
         "tema": "Democracia y ciudadanía",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Democracia y ciudadanía\"?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Democracia y ciudadanía es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "secundaria-1-formacion-b3-v2-001",
+        "tema": "Participación social",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
         "id": "secundaria-1-formacion-b3-002",
         "tema": "Democracia y ciudadanía",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Democracia y ciudadanía es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
-      },
-      {
-        "id": "secundaria-1-formacion-b3-004",
-        "tema": "Participación social",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Participación social\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Participación social es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:24.044Z",
+  "generado": "2026-03-26T03:09:52.417Z",
   "version": "2.0"
 }

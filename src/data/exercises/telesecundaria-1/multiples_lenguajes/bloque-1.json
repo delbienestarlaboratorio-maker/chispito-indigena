@@ -10,7 +10,7 @@
     "Arte popular mexicano",
     "Muralismo: Diego Rivera y Siqueiros"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,74 @@
         "tema": "El dibujo y la pintura",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"El dibujo y la pintura\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de dibujo",
-          "Se relaciona con el estudio de El dibujo y la pintura",
-          "Es un proceso que involucra dibujo",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El dibujo y la pintura",
-        "explicacion": "💡 El Búho te ayuda: El dibujo y la pintura es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "telesecundaria-1-multiples_lenguajes-b1-002",
         "tema": "El dibujo y la pintura",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"El dibujo y la pintura\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"El dibujo y la pintura\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "telesecundaria-1-multiples_lenguajes-b1-003",
         "tema": "El dibujo y la pintura",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El dibujo y la ___",
-        "respuestaCorrecta": "pintura",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"El dibujo y la pintura\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-004",
-        "tema": "El dibujo y la pintura",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"El dibujo y la pintura\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre El dibujo y la pintura",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre El dibujo y la pintura",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"El dibujo y la pintura\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-005",
-        "tema": "Colores primarios y secundarios",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Colores primarios y secundarios\"?",
-        "opciones": [
-          "Es un concepto fundamental de Colores",
-          "Se relaciona con el estudio de Colores primarios y secundarios",
-          "Es un proceso que involucra Colores",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Colores primarios y secundarios",
-        "explicacion": "💡 Pipo te ayuda: Colores primarios y secundarios es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-006",
-        "tema": "Colores primarios y secundarios",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Colores primarios y secundarios\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Colores primarios y secundarios\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-007",
-        "tema": "Colores primarios y secundarios",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Colores primarios y ___",
-        "respuestaCorrecta": "secundarios",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Colores primarios y secundarios\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-008",
-        "tema": "Colores primarios y secundarios",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Colores primarios y secundarios\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Colores primarios y secundarios",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Colores primarios y secundarios",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"Colores primarios y secundarios\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-009",
-        "tema": "Arte popular mexicano",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Arte popular mexicano\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Arte",
-          "Se relaciona con el estudio de Arte popular mexicano",
-          "Es un proceso que involucra Arte",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Arte popular mexicano",
-        "explicacion": "💡 Pipo te ayuda: Arte popular mexicano es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-010",
-        "tema": "Arte popular mexicano",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Arte popular mexicano\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Arte popular mexicano\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-011",
-        "tema": "Arte popular mexicano",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Arte popular ___",
-        "respuestaCorrecta": "mexicano",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Arte popular mexicano\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-012",
-        "tema": "Arte popular mexicano",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Arte popular mexicano\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Arte popular mexicano",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Arte popular mexicano",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Arte popular mexicano\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-013",
-        "tema": "Muralismo: Diego Rivera y Siqueiros",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En el tema de \"Muralismo: Diego Rivera y Siqueiros\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Muralismo:",
-          "Se relaciona con el estudio de Muralismo: Diego Rivera y Siqueiros",
-          "Es un proceso que involucra Muralismo:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Muralismo: Diego Rivera y Siqueiros",
-        "explicacion": "💡 Cuca te ayuda: Muralismo: Diego Rivera y Siqueiros es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-014",
-        "tema": "Muralismo: Diego Rivera y Siqueiros",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Muralismo: Diego Rivera y Siqueiros\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Muralismo: Diego Rivera y Siqueiros\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-015",
-        "tema": "Muralismo: Diego Rivera y Siqueiros",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Muralismo: Diego Rivera y ___",
-        "respuestaCorrecta": "Siqueiros",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Muralismo: Diego Rivera y Siqueiros\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-016",
-        "tema": "Muralismo: Diego Rivera y Siqueiros",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Muralismo: Diego Rivera y Siqueiros\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Muralismo: Diego Rivera y Siqueiros",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Muralismo: Diego Rivera y Siqueiros",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Muralismo: Diego Rivera y Siqueiros\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-001",
-        "tema": "El dibujo y la pintura",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"El dibujo y la pintura\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de dibujo",
-          "Se relaciona con el estudio de El dibujo y la pintura",
-          "Es un proceso que involucra dibujo",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El dibujo y la pintura",
-        "explicacion": "💡 Cuca te ayuda: El dibujo y la pintura es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-002",
-        "tema": "El dibujo y la pintura",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"El dibujo y la pintura\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"El dibujo y la pintura\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-003",
-        "tema": "El dibujo y la pintura",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El dibujo y la ___",
-        "respuestaCorrecta": "pintura",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"El dibujo y la pintura\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-004",
-        "tema": "Colores primarios y secundarios",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Colores primarios y secundarios\"?",
-        "opciones": [
-          "Es un concepto fundamental de Colores",
-          "Se relaciona con el estudio de Colores primarios y secundarios",
-          "Es un proceso que involucra Colores",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Colores primarios y secundarios",
-        "explicacion": "💡 Neptuno te ayuda: Colores primarios y secundarios es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-005",
-        "tema": "Colores primarios y secundarios",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Colores primarios y secundarios\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Colores primarios y secundarios\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-006",
-        "tema": "Colores primarios y secundarios",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Colores primarios y ___",
-        "respuestaCorrecta": "secundarios",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Colores primarios y secundarios\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-007",
-        "tema": "Arte popular mexicano",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Arte popular mexicano\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Arte",
-          "Se relaciona con el estudio de Arte popular mexicano",
-          "Es un proceso que involucra Arte",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Arte popular mexicano",
-        "explicacion": "💡 El Búho te ayuda: Arte popular mexicano es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-008",
-        "tema": "Arte popular mexicano",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Arte popular mexicano\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Arte popular mexicano\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-009",
-        "tema": "Arte popular mexicano",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Arte popular ___",
-        "respuestaCorrecta": "mexicano",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Arte popular mexicano\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-010",
+        "id": "telesecundaria-1-multiples_lenguajes-b1-v2-001",
         "tema": "Muralismo: Diego Rivera y Siqueiros",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En el tema de \"Muralismo: Diego Rivera y Siqueiros\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Es un concepto fundamental de Muralismo:",
-          "Se relaciona con el estudio de Muralismo: Diego Rivera y Siqueiros",
-          "Es un proceso que involucra Muralismo:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Muralismo: Diego Rivera y Siqueiros",
-        "explicacion": "💡 Hada te ayuda: Muralismo: Diego Rivera y Siqueiros es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-011",
-        "tema": "Muralismo: Diego Rivera y Siqueiros",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Muralismo: Diego Rivera y Siqueiros\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Muralismo: Diego Rivera y Siqueiros\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-012",
+        "id": "telesecundaria-1-multiples_lenguajes-b1-v2-002",
         "tema": "Muralismo: Diego Rivera y Siqueiros",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Muralismo: Diego Rivera y ___",
-        "respuestaCorrecta": "Siqueiros",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Muralismo: Diego Rivera y Siqueiros\" según el programa de estudios."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+      },
+      {
+        "id": "telesecundaria-1-multiples_lenguajes-b1-v2-003",
+        "tema": "Muralismo: Diego Rivera y Siqueiros",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "opciones": [
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +94,42 @@
         "tema": "El dibujo y la pintura",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"El dibujo y la pintura\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de dibujo",
-          "Se relaciona con el estudio de El dibujo y la pintura",
-          "Es un proceso que involucra dibujo",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El dibujo y la pintura",
-        "explicacion": "💡 Neptuno te ayuda: El dibujo y la pintura es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-multiples_lenguajes-b1-v2-001",
+        "tema": "Muralismo: Diego Rivera y Siqueiros",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "telesecundaria-1-multiples_lenguajes-b1-002",
         "tema": "El dibujo y la pintura",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"El dibujo y la pintura\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"El dibujo y la pintura\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-multiples_lenguajes-b1-p-001",
-        "tema": "El dibujo y la pintura",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"El dibujo y la pintura\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de dibujo",
-          "Se relaciona con el estudio de El dibujo y la pintura",
-          "Es un proceso que involucra dibujo",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El dibujo y la pintura",
-        "explicacion": "💡 El Búho te ayuda: El dibujo y la pintura es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.275Z",
-  "version": "3.0",
-  "historiaChispito": "Nico ha encontrado un mapa antiguo escondido en la biblioteca estelar. El mapa revela secretos sobre Artes visuales. ¡Descubramos qué esconde!"
+  "generado": "2026-03-26T03:11:48.157Z",
+  "version": "2.0"
 }

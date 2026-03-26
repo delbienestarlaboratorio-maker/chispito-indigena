@@ -10,7 +10,7 @@
     "Danzas regionales de México",
     "Canto coral"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,74 @@
         "tema": "Elementos de la música: ritmo, melodía, armonía",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Elementos de la música: ritmo, melodía, armonía\", ¿qué es lo más importante?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Elementos",
-          "Se relaciona con el estudio de Elementos de la música: ritmo, melodía, armonía",
-          "Es un proceso que involucra Elementos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Elementos de la música: ritmo, melodía, armonía",
-        "explicacion": "💡 El Búho te ayuda: Elementos de la música: ritmo, melodía, armonía es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "telesecundaria-3-multiples_lenguajes-b2-002",
         "tema": "Elementos de la música: ritmo, melodía, armonía",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Elementos de la música: ritmo, melodía, armonía\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Elementos de la música: ritmo, melodía, armonía\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "telesecundaria-3-multiples_lenguajes-b2-003",
         "tema": "Elementos de la música: ritmo, melodía, armonía",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Elementos de la música: ritmo, melodía, ___",
-        "respuestaCorrecta": "armonía",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Elementos de la música: ritmo, melodía, armonía\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-004",
-        "tema": "Elementos de la música: ritmo, melodía, armonía",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Elementos de la música: ritmo, melodía, armonía\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Elementos de la música: ritmo, melodía, armonía",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Elementos de la música: ritmo, melodía, armonía",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Elementos de la música: ritmo, melodía, armonía\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-005",
-        "tema": "Instrumentos musicales mexicanos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En el tema de \"Instrumentos musicales mexicanos\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Instrumentos",
-          "Se relaciona con el estudio de Instrumentos musicales mexicanos",
-          "Es un proceso que involucra Instrumentos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Instrumentos musicales mexicanos",
-        "explicacion": "💡 Neptuno te ayuda: Instrumentos musicales mexicanos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-006",
-        "tema": "Instrumentos musicales mexicanos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Instrumentos musicales mexicanos\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Instrumentos musicales mexicanos\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-007",
-        "tema": "Instrumentos musicales mexicanos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Instrumentos musicales ___",
-        "respuestaCorrecta": "mexicanos",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Instrumentos musicales mexicanos\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-008",
-        "tema": "Instrumentos musicales mexicanos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Instrumentos musicales mexicanos\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Instrumentos musicales mexicanos",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Instrumentos musicales mexicanos",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Instrumentos musicales mexicanos\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-009",
-        "tema": "Danzas regionales de México",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Danzas regionales de México\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Danzas",
-          "Se relaciona con el estudio de Danzas regionales de México",
-          "Es un proceso que involucra Danzas",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Danzas regionales de México",
-        "explicacion": "💡 Cuca te ayuda: Danzas regionales de México es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-010",
-        "tema": "Danzas regionales de México",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Danzas regionales de México\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Danzas regionales de México\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-011",
-        "tema": "Danzas regionales de México",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Danzas regionales de ___",
-        "respuestaCorrecta": "México",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Danzas regionales de México\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-012",
-        "tema": "Danzas regionales de México",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Danzas regionales de México\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Danzas regionales de México",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Danzas regionales de México",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Danzas regionales de México\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-013",
-        "tema": "Canto coral",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Canto coral\"?",
-        "opciones": [
-          "Es un concepto fundamental de Canto",
-          "Se relaciona con el estudio de Canto coral",
-          "Es un proceso que involucra Canto",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Canto coral",
-        "explicacion": "💡 Cuca te ayuda: Canto coral es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-014",
-        "tema": "Canto coral",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Canto coral\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Canto coral\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-015",
-        "tema": "Canto coral",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Canto ___",
-        "respuestaCorrecta": "coral",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Canto coral\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-016",
-        "tema": "Canto coral",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Canto coral\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Canto coral",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Canto coral",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Canto coral\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-001",
-        "tema": "Elementos de la música: ritmo, melodía, armonía",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Elementos de la música: ritmo, melodía, armonía\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Elementos",
-          "Se relaciona con el estudio de Elementos de la música: ritmo, melodía, armonía",
-          "Es un proceso que involucra Elementos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Elementos de la música: ritmo, melodía, armonía",
-        "explicacion": "💡 Cuca te ayuda: Elementos de la música: ritmo, melodía, armonía es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-002",
-        "tema": "Elementos de la música: ritmo, melodía, armonía",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Elementos de la música: ritmo, melodía, armonía\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Elementos de la música: ritmo, melodía, armonía\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-003",
-        "tema": "Elementos de la música: ritmo, melodía, armonía",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Elementos de la música: ritmo, melodía, ___",
-        "respuestaCorrecta": "armonía",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Elementos de la música: ritmo, melodía, armonía\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-004",
-        "tema": "Instrumentos musicales mexicanos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Instrumentos musicales mexicanos\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Instrumentos",
-          "Se relaciona con el estudio de Instrumentos musicales mexicanos",
-          "Es un proceso que involucra Instrumentos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Instrumentos musicales mexicanos",
-        "explicacion": "💡 Pipo te ayuda: Instrumentos musicales mexicanos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-005",
-        "tema": "Instrumentos musicales mexicanos",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Instrumentos musicales mexicanos\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Instrumentos musicales mexicanos\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-006",
-        "tema": "Instrumentos musicales mexicanos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Instrumentos musicales ___",
-        "respuestaCorrecta": "mexicanos",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Instrumentos musicales mexicanos\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-007",
-        "tema": "Danzas regionales de México",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Danzas regionales de México\"?",
-        "opciones": [
-          "Es un concepto fundamental de Danzas",
-          "Se relaciona con el estudio de Danzas regionales de México",
-          "Es un proceso que involucra Danzas",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Danzas regionales de México",
-        "explicacion": "💡 Pipo te ayuda: Danzas regionales de México es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-008",
-        "tema": "Danzas regionales de México",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Danzas regionales de México\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Danzas regionales de México\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-009",
-        "tema": "Danzas regionales de México",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Danzas regionales de ___",
-        "respuestaCorrecta": "México",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Danzas regionales de México\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-010",
+        "id": "telesecundaria-3-multiples_lenguajes-b2-v2-001",
         "tema": "Canto coral",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Canto coral\"?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Es un concepto fundamental de Canto",
-          "Se relaciona con el estudio de Canto coral",
-          "Es un proceso que involucra Canto",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Canto coral",
-        "explicacion": "💡 Neptuno te ayuda: Canto coral es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-011",
-        "tema": "Canto coral",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Canto coral\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Canto coral\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-012",
+        "id": "telesecundaria-3-multiples_lenguajes-b2-v2-002",
         "tema": "Canto coral",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Canto ___",
-        "respuestaCorrecta": "coral",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Canto coral\" según el programa de estudios."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+      },
+      {
+        "id": "telesecundaria-3-multiples_lenguajes-b2-v2-003",
+        "tema": "Canto coral",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "opciones": [
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +94,42 @@
         "tema": "Elementos de la música: ritmo, melodía, armonía",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Elementos de la música: ritmo, melodía, armonía\", ¿qué es lo más importante?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Elementos",
-          "Se relaciona con el estudio de Elementos de la música: ritmo, melodía, armonía",
-          "Es un proceso que involucra Elementos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Elementos de la música: ritmo, melodía, armonía",
-        "explicacion": "💡 El Búho te ayuda: Elementos de la música: ritmo, melodía, armonía es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "telesecundaria-3-multiples_lenguajes-b2-v2-001",
+        "tema": "Canto coral",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "telesecundaria-3-multiples_lenguajes-b2-002",
         "tema": "Elementos de la música: ritmo, melodía, armonía",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Elementos de la música: ritmo, melodía, armonía\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Elementos de la música: ritmo, melodía, armonía\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-multiples_lenguajes-b2-p-001",
-        "tema": "Elementos de la música: ritmo, melodía, armonía",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Elementos de la música: ritmo, melodía, armonía\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Elementos",
-          "Se relaciona con el estudio de Elementos de la música: ritmo, melodía, armonía",
-          "Es un proceso que involucra Elementos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Elementos de la música: ritmo, melodía, armonía",
-        "explicacion": "💡 Neptuno te ayuda: Elementos de la música: ritmo, melodía, armonía es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.378Z",
-  "version": "3.0",
-  "historiaChispito": "En el Universo de Chispito, Nico y su amigo estaban explorando la galaxia del conocimiento cuando se encontraron con un misterio sobre Música y danza. ¡Ayúdales a resolverlo!"
+  "generado": "2026-03-26T03:11:48.221Z",
+  "version": "2.0"
 }

@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Basketball = basquetbol. Soccer = futbol."
       },
       {
@@ -109,7 +109,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Running = correr. Puede ser deporte competitivo o pasatiempo recreativo."
       },
       {
@@ -158,7 +158,154 @@
         "explicacion": "Win = ganar. Lose = perder. Draw/Tie = empatar."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p4en-b4-01-v2",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Soccer\" means: ​",
+        "opciones": [
+          "Futbol",
+          "Basquetbol",
+          "Béisbol",
+          "Tenis"
+        ],
+        "respuestaCorrecta": "Futbol",
+        "explicacion": "Soccer = futbol (inglés americano). Football = futbol (inglés británico)."
+      },
+      {
+        "id": "p4en-b4-02-v2",
+        "tema": "Gustos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I like swimming\" means: ​",
+        "opciones": [
+          "Me gusta nadar",
+          "Me gusta correr",
+          "Me gusta comer",
+          "Me gusta bailar"
+        ],
+        "respuestaCorrecta": "Me gusta nadar",
+        "explicacion": "Like + verb-ing = gustar + infinitivo."
+      },
+      {
+        "id": "p4en-b4-03-v2",
+        "tema": "Deportes",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Basketball\" means futbol ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Basketball = basquetbol. Soccer = futbol."
+      },
+      {
+        "id": "p4en-b4-04-v2",
+        "tema": "Gustos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I like reading\" means: ​",
+        "opciones": [
+          "Me gusta leer",
+          "Me gusta escribir",
+          "Me gusta correr",
+          "Me gusta pintar"
+        ],
+        "respuestaCorrecta": "Me gusta leer",
+        "explicacion": "Reading = leyendo/leer. I like reading = me gusta leer."
+      },
+      {
+        "id": "p4en-b4-05-v2",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"He plays tennis\" means: ​",
+        "opciones": [
+          "Él juega tenis",
+          "Ella juega tenis",
+          "Yo juego tenis",
+          "Ellos juegan tenis"
+        ],
+        "respuestaCorrecta": "Él juega tenis",
+        "explicacion": "He plays = él juega (3a persona singular con -s)."
+      },
+      {
+        "id": "p4en-b4-06-v2",
+        "tema": "Pasatiempos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Drawing\" means: ​",
+        "opciones": [
+          "Dibujar",
+          "Pintar",
+          "Escribir",
+          "Bailar"
+        ],
+        "respuestaCorrecta": "Dibujar",
+        "explicacion": "Drawing = dibujar, hacer dibujos."
+      },
+      {
+        "id": "p4en-b4-07-v2",
+        "tema": "Deportes",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Running\" can be a sport and a hobby ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Running = correr. Puede ser deporte competitivo o pasatiempo recreativo."
+      },
+      {
+        "id": "p4en-b4-08-v2",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Team\" means: ​",
+        "opciones": [
+          "Equipo",
+          "Jugador",
+          "Árbitro",
+          "Campo"
+        ],
+        "respuestaCorrecta": "Equipo",
+        "explicacion": "Team = equipo de jugadores."
+      },
+      {
+        "id": "p4en-b4-09-v2",
+        "tema": "Gustos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"She likes dancing\" — dancing means: ​",
+        "opciones": [
+          "Bailar",
+          "Correr",
+          "Nadar",
+          "Cantar"
+        ],
+        "respuestaCorrecta": "Bailar",
+        "explicacion": "Dancing = bailar."
+      },
+      {
+        "id": "p4en-b4-10-v2",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Win\" means: ​",
+        "opciones": [
+          "Ganar",
+          "Perder",
+          "Empatar",
+          "Jugar"
+        ],
+        "respuestaCorrecta": "Ganar",
+        "explicacion": "Win = ganar. Lose = perder. Draw/Tie = empatar."
+      }
+    ],
     "preview": [
       {
         "id": "p4en-b4-01",

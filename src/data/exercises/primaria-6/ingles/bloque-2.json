@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Para comparar 2 cosas: This is bigger THAN that."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Tall → taller, fast → faster, small → smaller."
       },
       {
@@ -152,11 +152,156 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Para adjetivos largos: more + adjetivo + than."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p6en-b2-01-v2",
+        "tema": "Comparativo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Bigger\" means: ​",
+        "opciones": [
+          "Más grande",
+          "Más pequeño",
+          "El más grande",
+          "Grande"
+        ],
+        "respuestaCorrecta": "Más grande",
+        "explicacion": "Big → bigger (comparativo). Bigger = más grande."
+      },
+      {
+        "id": "p6en-b2-02-v2",
+        "tema": "Superlativo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"The tallest\" means: ​",
+        "opciones": [
+          "El más alto",
+          "Más alto",
+          "Alto",
+          "Menos alto"
+        ],
+        "respuestaCorrecta": "El más alto",
+        "explicacion": "Tall → taller (comparativo) → the tallest (superlativo)."
+      },
+      {
+        "id": "p6en-b2-03-v2",
+        "tema": "Comparativo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "To compare two things we use comparative adjectives ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Para comparar 2 cosas: This is bigger THAN that."
+      },
+      {
+        "id": "p6en-b2-04-v2",
+        "tema": "Comparativo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Faster than\" means: ​",
+        "opciones": [
+          "Más rápido que",
+          "Más lento que",
+          "El más rápido",
+          "Rápido"
+        ],
+        "respuestaCorrecta": "Más rápido que",
+        "explicacion": "Faster than = más rápido que (comparando dos cosas)."
+      },
+      {
+        "id": "p6en-b2-05-v2",
+        "tema": "Superlativo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"The most beautiful\" means: ​",
+        "opciones": [
+          "La más hermosa",
+          "Más hermosa",
+          "Hermosa",
+          "Menos hermosa"
+        ],
+        "respuestaCorrecta": "La más hermosa",
+        "explicacion": "Para adjetivos largos: more beautiful (comparativo), the most beautiful (superlativo)."
+      },
+      {
+        "id": "p6en-b2-06-v2",
+        "tema": "Comparativo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "For short adjectives, we add -er for comparative ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Tall → taller, fast → faster, small → smaller."
+      },
+      {
+        "id": "p6en-b2-07-v2",
+        "tema": "Superlativo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"The smallest animal is...\" — smallest means: ​",
+        "opciones": [
+          "El más pequeño",
+          "Más pequeño",
+          "Pequeño",
+          "Grande"
+        ],
+        "respuestaCorrecta": "El más pequeño",
+        "explicacion": "Small → smaller → the smallest."
+      },
+      {
+        "id": "p6en-b2-08-v2",
+        "tema": "Comparativo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Better\" is the comparative of: ​",
+        "opciones": [
+          "Good",
+          "Bad",
+          "Big",
+          "Well"
+        ],
+        "respuestaCorrecta": "Good",
+        "explicacion": "Good → better → the best (formas irregulares)."
+      },
+      {
+        "id": "p6en-b2-09-v2",
+        "tema": "Superlativo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"The worst\" is the superlative of: ​",
+        "opciones": [
+          "Bad",
+          "Good",
+          "Big",
+          "Small"
+        ],
+        "respuestaCorrecta": "Bad",
+        "explicacion": "Bad → worse → the worst (formas irregulares)."
+      },
+      {
+        "id": "p6en-b2-10-v2",
+        "tema": "Comparativo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"More interesting than\" compares two things ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Para adjetivos largos: more + adjetivo + than."
+      }
+    ],
     "preview": [
       {
         "id": "p6en-b2-01",

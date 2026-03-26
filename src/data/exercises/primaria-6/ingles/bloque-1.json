@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Played, walked, cooked — los verbos regulares agregan -ed en pasado."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "See → saw. I saw a movie = vi una película."
       },
       {
@@ -152,11 +152,156 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Last = pasado/a. Last week = la semana pasada. Last year = el año pasado."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p6en-b1-01-v2",
+        "tema": "Pasado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I played soccer yesterday\" means: ​",
+        "opciones": [
+          "Yo jugué futbol ayer",
+          "Yo juego futbol hoy",
+          "Yo jugaré futbol mañana",
+          "Yo estoy jugando futbol"
+        ],
+        "respuestaCorrecta": "Yo jugué futbol ayer",
+        "explicacion": "Played = jugué (pasado de play). Yesterday = ayer."
+      },
+      {
+        "id": "p6en-b1-02-v2",
+        "tema": "Pasado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"She went to school\" — went is past of: ​",
+        "opciones": [
+          "Go",
+          "See",
+          "Eat",
+          "Run"
+        ],
+        "respuestaCorrecta": "Go",
+        "explicacion": "Go → went (pasado irregular). Fui/fue a la escuela."
+      },
+      {
+        "id": "p6en-b1-03-v2",
+        "tema": "Pasado",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Regular verbs in past tense end in -ed ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Played, walked, cooked — los verbos regulares agregan -ed en pasado."
+      },
+      {
+        "id": "p6en-b1-04-v2",
+        "tema": "Pasado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"He ate pizza\" — ate is past of: ​",
+        "opciones": [
+          "Eat",
+          "Be",
+          "Have",
+          "Make"
+        ],
+        "respuestaCorrecta": "Eat",
+        "explicacion": "Eat → ate (pasado irregular). He ate = él comió."
+      },
+      {
+        "id": "p6en-b1-05-v2",
+        "tema": "Pasado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Did you study?\" means: ​",
+        "opciones": [
+          "¿Estudiaste?",
+          "¿Estudias?",
+          "¿Estudiarás?",
+          "¿Estás estudiando?"
+        ],
+        "respuestaCorrecta": "¿Estudiaste?",
+        "explicacion": "Did + sujeto + verbo base = pregunta en pasado simple."
+      },
+      {
+        "id": "p6en-b1-06-v2",
+        "tema": "Pasado",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Saw\" is the past of \"see\" ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "See → saw. I saw a movie = vi una película."
+      },
+      {
+        "id": "p6en-b1-07-v2",
+        "tema": "Pasado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I didn't go\" means: ​",
+        "opciones": [
+          "Yo no fui",
+          "Yo fui",
+          "Yo iré",
+          "Yo voy"
+        ],
+        "respuestaCorrecta": "Yo no fui",
+        "explicacion": "Didn't + verbo base = negación en pasado. Didn't go = no fui."
+      },
+      {
+        "id": "p6en-b1-08-v2",
+        "tema": "Pasado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"They visited their grandma\" — visited means: ​",
+        "opciones": [
+          "Visitaron",
+          "Visitan",
+          "Visitarán",
+          "Están visitando"
+        ],
+        "respuestaCorrecta": "Visitaron",
+        "explicacion": "Visited = visitaron (pasado de visit, verbo regular)."
+      },
+      {
+        "id": "p6en-b1-09-v2",
+        "tema": "Pasado",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which is the past of \"write\"? ​",
+        "opciones": [
+          "Wrote",
+          "Writed",
+          "Writing",
+          "Writes"
+        ],
+        "respuestaCorrecta": "Wrote",
+        "explicacion": "Write → wrote (irregular). I wrote a letter = escribí una carta."
+      },
+      {
+        "id": "p6en-b1-10-v2",
+        "tema": "Pasado",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Last week\" means la semana pasada ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Last = pasado/a. Last week = la semana pasada. Last year = el año pasado."
+      }
+    ],
     "preview": [
       {
         "id": "p6en-b1-01",

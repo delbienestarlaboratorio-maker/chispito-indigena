@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "La música se puede sentir físicamente: el ritmo, las vibraciones y las emociones que provoca son parte de la experiencia musical."
       },
       {
@@ -88,7 +88,85 @@
         "visual": "✨"
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "primaria-4ar-b3-01-v2",
+        "tema": "Folclor mexicano",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estos es un elemento del arte visual? ​",
+        "opciones": [
+          "El color",
+          "La temperatura",
+          "El peso",
+          "El olor"
+        ],
+        "respuestaCorrecta": "El color",
+        "explicacion": "Los elementos del arte visual incluyen: color, forma, línea, textura, espacio y valor.",
+        "visual": "🎨"
+      },
+      {
+        "id": "primaria-4ar-b3-02-v2",
+        "tema": "Folclor mexicano",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son los colores primarios? ​",
+        "opciones": [
+          "Rojo, azul y amarillo",
+          "Verde, naranja y morado",
+          "Negro, blanco y gris",
+          "Rosa, café y beige"
+        ],
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "Los colores primarios no se pueden crear mezclando otros. De ellos derivamos todos los demás colores.",
+        "visual": "🔴"
+      },
+      {
+        "id": "primaria-4ar-b3-03-v2",
+        "tema": "Danzas de México",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La música solo se puede escuchar, no sentir ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "La música se puede sentir físicamente: el ritmo, las vibraciones y las emociones que provoca son parte de la experiencia musical."
+      },
+      {
+        "id": "primaria-4ar-b3-04-v2",
+        "tema": "Danzas de México",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el ritmo en música? ​",
+        "opciones": [
+          "La organización del tiempo en son ida",
+          "La letra de una canción",
+          "El instrumento principal",
+          "El volumen"
+        ],
+        "respuestaCorrecta": "La organización del tiempo en son ida",
+        "explicacion": "El ritmo organiza los sonidos en el tiempo. Es el \"pulso\" de la música, como el latido del corazón.",
+        "visual": "🎵"
+      },
+      {
+        "id": "primaria-4ar-b3-05-v2",
+        "tema": "Folclor mexicano",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Para qué sirve el arte? ​",
+        "opciones": [
+          "Expresar emociones e ideas",
+          "Solo decorar paredes",
+          "Para gastar pintura",
+          "Solo para artistas famosos"
+        ],
+        "respuestaCorrecta": "Expresar emociones e ideas",
+        "explicacion": "El arte es un lenguaje universal que nos permite expresar ideas, emociones, culturas e historias de forma creativa.",
+        "visual": "✨"
+      }
+    ],
     "preview": [
       {
         "id": "primaria-4ar-b3-01",

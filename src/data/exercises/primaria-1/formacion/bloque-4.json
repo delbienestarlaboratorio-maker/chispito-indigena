@@ -54,11 +54,57 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "El enojo es una emoción natural. Lo que importa es cómo lo manejamos: sin agredir a los demás."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p1fc-b4-01-v2",
+        "tema": "Qué son las emociones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estas es una emoción? ​",
+        "opciones": [
+          "Alegría",
+          "Mesa",
+          "Libro",
+          "Escuela"
+        ],
+        "respuestaCorrecta": "Alegría",
+        "explicacion": "Las emociones como alegría, tristeza, miedo y enojo son respuestas naturales de nuestro cuerpo y mente.",
+        "visual": "😊"
+      },
+      {
+        "id": "p1fc-b4-02-v2",
+        "tema": "Expresar emociones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo podemos expresar nuestras emociones de manera sana? ​",
+        "opciones": [
+          "Hablando con alguien de confianza",
+          "Gritando a los demás",
+          "Rompiendo cosas",
+          "Ignorando a todos"
+        ],
+        "respuestaCorrecta": "Hablando con alguien de confianza",
+        "explicacion": "Expresar cómo nos sentimos con palabras es la forma más sana de manejar nuestras emociones.",
+        "visual": "💬"
+      },
+      {
+        "id": "p1fc-b4-03-v2",
+        "tema": "Emociones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El enojo siempre está mal ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "El enojo es una emoción natural. Lo que importa es cómo lo manejamos: sin agredir a los demás."
+      }
+    ],
     "preview": [
       {
         "id": "p1fc-b4-01",

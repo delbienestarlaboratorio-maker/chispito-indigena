@@ -1,66 +1,114 @@
 {
-    "grado": "primaria-2",
-    "materia": "educacion_fisica",
-    "bloque": 6,
-    "nombre": "Cuerpo en movimiento (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Lateralidad: Derecha e Izquierda",
-        "Direcciones: Arriba, Abajo, Adelante",
-        "Reglas de juegos en equipo",
-        "Emociones deportivas"
+  "grado": "primaria-2",
+  "materia": "educacion_fisica",
+  "bloque": 6,
+  "nombre": "Cuerpo en movimiento (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Lateralidad: Derecha e Izquierda",
+    "Direcciones: Arriba, Abajo, Adelante",
+    "Reglas de juegos en equipo",
+    "Emociones deportivas"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-edf-b6-v1-001",
+        "tema": "Lateralidad y direcciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para señalar la 'DERECHA' hacemos la letra 'D' con la mano y la movemos hacia ese lado; para la 'IZQUIERDA', hacemos la letra 'I' y la movemos hacia el otro lado.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Son señas inicializadas (empiezan con la letra de la palabra) que nos muestran literalmente el camino en el espacio. Muy útiles en juegos y deportes. ➡️⬅️"
+      },
+      {
+        "id": "p2-edf-b6-v1-002",
+        "tema": "Reglas de juegos en equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Durante un partido, ¿cómo pedimos que alguien 'PASA' o dé un 'PASE' de balón en LSM?",
+        "opciones": [
+          "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
+          "Aplaqudimos dos veces rápido.",
+          "Silbamos y levantamos una mano."
+        ],
+        "respuestaCorrecta": "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
+        "explicacion": "¡Correcto! Es una seña icónica que copia la acción real. Se entiende en cualquier deporte que requiera enviar una pelota a otra persona. 🏀"
+      },
+      {
+        "id": "p2-edf-b6-v1-003",
+        "tema": "Direcciones",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para decir 'ARRIBA', simplemente usamos nuestro dedo índice y señalamos hacia el ___.",
+        "respuestaCorrecta": "cielo",
+        "explicacion": "¡Así es! Es la seña más natural del mundo: apuntar hacia arriba. A veces lo simple es exactamente lo correcto. ☝️"
+      },
+      {
+        "id": "p2-edf-b6-v1-004",
+        "tema": "Emociones deportivas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo demostramos 'CANSADO' o tener 'FATIGA' después de correr mucho en LSM?",
+        "opciones": [
+          "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
+          "Nos tiramos al piso.",
+          "Agitamos las manos como si tuviéramos calor."
+        ],
+        "respuestaCorrecta": "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
+        "explicacion": "¡Correcto! El gesto corporal de agotamiento combinado con las manos deslizándose hacia abajo transmite la pérdida de energía física. 🥵"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "p2-edf-b6-v1-001",
-                "tema": "Lateralidad y direcciones",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para señalar la 'DERECHA' hacemos la letra 'D' con la mano y la movemos hacia ese lado; para la 'IZQUIERDA', hacemos la letra 'I' y la movemos hacia el otro lado.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! Son señas inicializadas (empiezan con la letra de la palabra) que nos muestran literalmente el camino en el espacio. Muy útiles en juegos y deportes. ➡️⬅️"
-            },
-            {
-                "id": "p2-edf-b6-v1-002",
-                "tema": "Reglas de juegos en equipo",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "Durante un partido, ¿cómo pedimos que alguien 'PASA' o dé un 'PASE' de balón en LSM?",
-                "opciones": [
-                    "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
-                    "Aplaqudimos dos veces rápido.",
-                    "Silbamos y levantamos una mano."
-                ],
-                "respuestaCorrecta": "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
-                "explicacion": "¡Correcto! Es una seña icónica que copia la acción real. Se entiende en cualquier deporte que requiera enviar una pelota a otra persona. 🏀"
-            },
-            {
-                "id": "p2-edf-b6-v1-003",
-                "tema": "Direcciones",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para decir 'ARRIBA', simplemente usamos nuestro dedo índice y señalamos hacia el ___.",
-                "respuestaCorrecta": "cielo",
-                "explicacion": "¡Así es! Es la seña más natural del mundo: apuntar hacia arriba. A veces lo simple es exactamente lo correcto. ☝️"
-            },
-            {
-                "id": "p2-edf-b6-v1-004",
-                "tema": "Emociones deportivas",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo demostramos 'CANSADO' o tener 'FATIGA' después de correr mucho en LSM?",
-                "opciones": [
-                    "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
-                    "Nos tiramos al piso.",
-                    "Agitamos las manos como si tuviéramos calor."
-                ],
-                "respuestaCorrecta": "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
-                "explicacion": "¡Correcto! El gesto corporal de agotamiento combinado con las manos deslizándose hacia abajo transmite la pérdida de energía física. 🥵"
-            }
-        ]
-    },
-    "generado": "2026-03-10T18:20:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "p2-edf-b6-v1-001-v2",
+        "tema": "Lateralidad y direcciones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para señalar la 'DERECHA' hacemos la letra 'D' con la mano y la movemos hacia ese lado; para la 'IZQUIERDA', hacemos la letra 'I' y la movemos hacia el otro lado. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Son señas inicializadas (empiezan con la letra de la palabra) que nos muestran literalmente el camino en el espacio. Muy útiles en juegos y deportes. ➡️⬅️"
+      },
+      {
+        "id": "p2-edf-b6-v1-002-v2",
+        "tema": "Reglas de juegos en equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Durante un partido, ¿cómo pedimos que alguien 'PASA' o dé un 'PASE' de balón en LSM? ​",
+        "opciones": [
+          "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
+          "Aplaqudimos dos veces rápido.",
+          "Silbamos y levantamos una mano."
+        ],
+        "respuestaCorrecta": "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
+        "explicacion": "¡Correcto! Es una seña icónica que copia la acción real. Se entiende en cualquier deporte que requiera enviar una pelota a otra persona. 🏀"
+      },
+      {
+        "id": "p2-edf-b6-v1-003-v2",
+        "tema": "Direcciones",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para decir 'ARRIBA', simplemente usamos nuestro dedo índice y señalamos hacia el ___. ​",
+        "respuestaCorrecta": "cielo",
+        "explicacion": "¡Así es! Es la seña más natural del mundo: apuntar hacia arriba. A veces lo simple es exactamente lo correcto. ☝️"
+      },
+      {
+        "id": "p2-edf-b6-v1-004-v2",
+        "tema": "Emociones deportivas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo demostramos 'CANSADO' o tener 'FATIGA' después de correr mucho en LSM? ​",
+        "opciones": [
+          "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
+          "Nos tiramos al piso.",
+          "Agitamos las manos como si tuviéramos calor."
+        ],
+        "respuestaCorrecta": "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
+        "explicacion": "¡Correcto! El gesto corporal de agotamiento combinado con las manos deslizándose hacia abajo transmite la pérdida de energía física. 🥵"
+      }
+    ]
+  },
+  "generado": "2026-03-10T18:20:00.000Z",
+  "version": "3.0"
 }

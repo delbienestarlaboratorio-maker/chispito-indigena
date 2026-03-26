@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Software de edición, realidad virtual, IA generativa y más abren nuevos caminos creativos."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La ópera es una de las formas artísticas más completas e interdisciplinarias."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Películas animadas como las de Ghibli o Pixar abordan temas complejos y emocionales."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "Crear multimedia requiere combinar creatividad, tecnología y narrativa."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s3art-b3-01-v2",
+        "tema": "Multimedia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es una obra multimedia? ​",
+        "opciones": [
+          "Obra que combina imagen, sonido, texto y/o interactividad",
+          "Solo una pintura",
+          "Solo una canción",
+          "Solo un texto"
+        ],
+        "respuestaCorrecta": "Obra que combina imagen, sonido, texto y/o interactividad",
+        "explicacion": "Las obras multimedia integran diferentes medios para una experiencia más completa."
+      },
+      {
+        "id": "s3art-b3-02-v2",
+        "tema": "Interdisciplina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un videoclip musical es ejemplo de arte: ​",
+        "opciones": [
+          "Interdisciplinario: combina música, danza, fotografía y narrativa",
+          "Solo visual",
+          "Solo musical",
+          "Solo teatral"
+        ],
+        "respuestaCorrecta": "Interdisciplinario: combina música, danza, fotografía y narrativa",
+        "explicacion": "Los videoclips son productos artísticos complejos que integran múltiples lenguajes."
+      },
+      {
+        "id": "s3art-b3-03-v2",
+        "tema": "Tecnología",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La tecnología ha ampliado las posibilidades de creación artística ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Software de edición, realidad virtual, IA generativa y más abren nuevos caminos creativos."
+      },
+      {
+        "id": "s3art-b3-04-v2",
+        "tema": "Cine",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El cine se considera el séptimo arte porque: ​",
+        "opciones": [
+          "Integra las 6 artes anteriores: arquitectura, escultura, pintura, música, danza y literatura",
+          "Es el más caro",
+          "Es el más antiguo",
+          "Solo entretiene"
+        ],
+        "respuestaCorrecta": "Integra las 6 artes anteriores: arquitectura, escultura, pintura, música, danza y literatura",
+        "explicacion": "El cine combina elementos de todas las artes clásicas en un medio audiovisual."
+      },
+      {
+        "id": "s3art-b3-05-v2",
+        "tema": "Multimedia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es una instalación interactiva? ​",
+        "opciones": [
+          "Obra que responde a las acciones del espectador",
+          "Un cuadro en la pared",
+          "Una escultura clásica",
+          "Un libro"
+        ],
+        "respuestaCorrecta": "Obra que responde a las acciones del espectador",
+        "explicacion": "Las instalaciones interactivas usan sensores y tecnología para que el público sea parte de la obra."
+      },
+      {
+        "id": "s3art-b3-06-v2",
+        "tema": "Interdisciplina",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La ópera combina música, teatro, danza y artes visuales ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La ópera es una de las formas artísticas más completas e interdisciplinarias."
+      },
+      {
+        "id": "s3art-b3-07-v2",
+        "tema": "Digital",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el arte generativo? ​",
+        "opciones": [
+          "Arte creado con algoritmos y código de computadora",
+          "Pintura a mano",
+          "Fotografía analógica",
+          "Escultura en piedra"
+        ],
+        "respuestaCorrecta": "Arte creado con algoritmos y código de computadora",
+        "explicacion": "El arte generativo usa programación para que la computadora genere obras únicas."
+      },
+      {
+        "id": "s3art-b3-08-v2",
+        "tema": "Proyecto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se documenta un proyecto artístico multimedia? ​",
+        "opciones": [
+          "Con bitácora, fotografías, video y reflexión escrita",
+          "Solo con el título",
+          "No se documenta",
+          "Solo con una foto"
+        ],
+        "respuestaCorrecta": "Con bitácora, fotografías, video y reflexión escrita",
+        "explicacion": "La documentación completa permite analizar y compartir el proceso creativo."
+      },
+      {
+        "id": "s3art-b3-09-v2",
+        "tema": "Cine",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La animación puede transmitir mensajes tan profundos como el cine convencional ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Películas animadas como las de Ghibli o Pixar abordan temas complejos y emocionales."
+      },
+      {
+        "id": "s3art-b3-10-v2",
+        "tema": "Multimedia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué habilidad del siglo XXI desarrolla la creación multimedia? ​",
+        "opciones": [
+          "Pensamiento creativo, digital y comunicación efectiva",
+          "Solo memorización",
+          "Solo copia",
+          "Solo cálculo"
+        ],
+        "respuestaCorrecta": "Pensamiento creativo, digital y comunicación efectiva",
+        "explicacion": "Crear multimedia requiere combinar creatividad, tecnología y narrativa."
+      }
+    ],
     "preview": [
       {
         "id": "s3art-b3-01",

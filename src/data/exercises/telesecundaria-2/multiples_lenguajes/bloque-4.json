@@ -10,7 +10,7 @@
     "Podcast escolar",
     "Narrativa visual"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,74 @@
         "tema": "Fotografía: composición básica",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Respecto a \"Fotografía: composición básica\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Fotografía:",
-          "Se relaciona con el estudio de Fotografía: composición básica",
-          "Es un proceso que involucra Fotografía:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Fotografía: composición básica",
-        "explicacion": "💡 Cuca te ayuda: Fotografía: composición básica es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "telesecundaria-2-multiples_lenguajes-b4-002",
         "tema": "Fotografía: composición básica",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Fotografía: composición básica\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Fotografía: composición básica\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "telesecundaria-2-multiples_lenguajes-b4-003",
         "tema": "Fotografía: composición básica",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Fotografía: composición ___",
-        "respuestaCorrecta": "básica",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Fotografía: composición básica\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-004",
-        "tema": "Fotografía: composición básica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Fotografía: composición básica\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Fotografía: composición básica",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Fotografía: composición básica",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Fotografía: composición básica\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-005",
-        "tema": "El cortometraje",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"El cortometraje\"?",
-        "opciones": [
-          "Es un concepto fundamental de cortometraje",
-          "Se relaciona con el estudio de El cortometraje",
-          "Es un proceso que involucra cortometraje",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El cortometraje",
-        "explicacion": "💡 Hada te ayuda: El cortometraje es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-006",
-        "tema": "El cortometraje",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"El cortometraje\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"El cortometraje\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-007",
-        "tema": "El cortometraje",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El tema de ___ se estudia en este bloque de Telesecundaria",
-        "respuestaCorrecta": "El",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"El cortometraje\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-008",
-        "tema": "El cortometraje",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"El cortometraje\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre El cortometraje",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre El cortometraje",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"El cortometraje\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-009",
-        "tema": "Podcast escolar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En el tema de \"Podcast escolar\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Podcast",
-          "Se relaciona con el estudio de Podcast escolar",
-          "Es un proceso que involucra Podcast",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Podcast escolar",
-        "explicacion": "💡 Hada te ayuda: Podcast escolar es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-010",
-        "tema": "Podcast escolar",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Podcast escolar\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Podcast escolar\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-011",
-        "tema": "Podcast escolar",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Podcast ___",
-        "respuestaCorrecta": "escolar",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Podcast escolar\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-012",
-        "tema": "Podcast escolar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Podcast escolar\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Podcast escolar",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Podcast escolar",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"Podcast escolar\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-013",
-        "tema": "Narrativa visual",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Narrativa visual\"?",
-        "opciones": [
-          "Es un concepto fundamental de Narrativa",
-          "Se relaciona con el estudio de Narrativa visual",
-          "Es un proceso que involucra Narrativa",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Narrativa visual",
-        "explicacion": "💡 Hada te ayuda: Narrativa visual es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-014",
-        "tema": "Narrativa visual",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Narrativa visual\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Narrativa visual\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-015",
-        "tema": "Narrativa visual",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Narrativa ___",
-        "respuestaCorrecta": "visual",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Narrativa visual\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-016",
-        "tema": "Narrativa visual",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Narrativa visual\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Narrativa visual",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Narrativa visual",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Narrativa visual\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-001",
-        "tema": "Fotografía: composición básica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Fotografía: composición básica\"?",
-        "opciones": [
-          "Es un concepto fundamental de Fotografía:",
-          "Se relaciona con el estudio de Fotografía: composición básica",
-          "Es un proceso que involucra Fotografía:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Fotografía: composición básica",
-        "explicacion": "💡 El Búho te ayuda: Fotografía: composición básica es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-002",
-        "tema": "Fotografía: composición básica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Fotografía: composición básica\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Fotografía: composición básica\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-003",
-        "tema": "Fotografía: composición básica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Fotografía: composición ___",
-        "respuestaCorrecta": "básica",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Fotografía: composición básica\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-004",
-        "tema": "El cortometraje",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"El cortometraje\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de cortometraje",
-          "Se relaciona con el estudio de El cortometraje",
-          "Es un proceso que involucra cortometraje",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El cortometraje",
-        "explicacion": "💡 El Búho te ayuda: El cortometraje es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-005",
-        "tema": "El cortometraje",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"El cortometraje\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"El cortometraje\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-006",
-        "tema": "El cortometraje",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El tema de ___ se estudia en este bloque de Telesecundaria",
-        "respuestaCorrecta": "El",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"El cortometraje\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-007",
-        "tema": "Podcast escolar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Podcast escolar\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Podcast",
-          "Se relaciona con el estudio de Podcast escolar",
-          "Es un proceso que involucra Podcast",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Podcast escolar",
-        "explicacion": "💡 Cuca te ayuda: Podcast escolar es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-008",
-        "tema": "Podcast escolar",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Podcast escolar\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Podcast escolar\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-009",
-        "tema": "Podcast escolar",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Podcast ___",
-        "respuestaCorrecta": "escolar",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Podcast escolar\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-010",
+        "id": "telesecundaria-2-multiples_lenguajes-b4-v2-001",
         "tema": "Narrativa visual",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Narrativa visual\"?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Es un concepto fundamental de Narrativa",
-          "Se relaciona con el estudio de Narrativa visual",
-          "Es un proceso que involucra Narrativa",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Narrativa visual",
-        "explicacion": "💡 Hada te ayuda: Narrativa visual es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-011",
-        "tema": "Narrativa visual",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Narrativa visual\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Narrativa visual\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-012",
+        "id": "telesecundaria-2-multiples_lenguajes-b4-v2-002",
         "tema": "Narrativa visual",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Narrativa ___",
-        "respuestaCorrecta": "visual",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Narrativa visual\" según el programa de estudios."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+      },
+      {
+        "id": "telesecundaria-2-multiples_lenguajes-b4-v2-003",
+        "tema": "Narrativa visual",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "opciones": [
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +94,42 @@
         "tema": "Fotografía: composición básica",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Respecto a \"Fotografía: composición básica\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Fotografía:",
-          "Se relaciona con el estudio de Fotografía: composición básica",
-          "Es un proceso que involucra Fotografía:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Fotografía: composición básica",
-        "explicacion": "💡 Cuca te ayuda: Fotografía: composición básica es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "telesecundaria-2-multiples_lenguajes-b4-v2-001",
+        "tema": "Narrativa visual",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "telesecundaria-2-multiples_lenguajes-b4-002",
         "tema": "Fotografía: composición básica",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Fotografía: composición básica\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Fotografía: composición básica\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b4-p-001",
-        "tema": "Fotografía: composición básica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Fotografía: composición básica\"?",
-        "opciones": [
-          "Es un concepto fundamental de Fotografía:",
-          "Se relaciona con el estudio de Fotografía: composición básica",
-          "Es un proceso que involucra Fotografía:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Fotografía: composición básica",
-        "explicacion": "💡 Hada te ayuda: Fotografía: composición básica es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.337Z",
-  "version": "3.0",
-  "historiaChispito": "En el Universo de Chispito, Nico y su amigo estaban explorando la galaxia del conocimiento cuando se encontraron con un misterio sobre Medios audiovisuales. ¡Ayúdales a resolverlo!"
+  "generado": "2026-03-26T03:11:48.193Z",
+  "version": "2.0"
 }

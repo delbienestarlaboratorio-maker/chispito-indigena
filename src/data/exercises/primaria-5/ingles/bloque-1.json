@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "He plays, she reads, it rains — la 3a persona singular lleva -s."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Short = bajo/a o corto/a. Tall = alto/a."
       },
       {
@@ -152,11 +152,156 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Old = viejo. Young = joven. Son opuestos."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p5en-b1-01-v2",
+        "tema": "Present simple",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I play soccer every day\" means: ​",
+        "opciones": [
+          "Yo juego futbol todos los días",
+          "Yo jugué futbol ayer",
+          "Yo jugaré futbol",
+          "Yo estoy jugando futbol"
+        ],
+        "respuestaCorrecta": "Yo juego futbol todos los días",
+        "explicacion": "El presente simple describe acciones habituales o rutinas."
+      },
+      {
+        "id": "p5en-b1-02-v2",
+        "tema": "Descripción",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"She is tall and thin\" means: ​",
+        "opciones": [
+          "Ella es alta y delgada",
+          "Ella es baja y gorda",
+          "Él es alto",
+          "Ellas son altas"
+        ],
+        "respuestaCorrecta": "Ella es alta y delgada",
+        "explicacion": "Tall = alto/a. Thin = delgado/a."
+      },
+      {
+        "id": "p5en-b1-03-v2",
+        "tema": "Present simple",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "In present simple, we add -s to verbs with he/she/it ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "He plays, she reads, it rains — la 3a persona singular lleva -s."
+      },
+      {
+        "id": "p5en-b1-04-v2",
+        "tema": "Descripción",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"He has brown eyes\" means: ​",
+        "opciones": [
+          "Él tiene ojos cafés",
+          "Él tiene ojos azules",
+          "Ella tiene ojos cafés",
+          "Ellos tienen ojos verdes"
+        ],
+        "respuestaCorrecta": "Él tiene ojos cafés",
+        "explicacion": "Brown = café/marrón. Eyes = ojos. Has = tiene (3a persona)."
+      },
+      {
+        "id": "p5en-b1-05-v2",
+        "tema": "Present simple",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which sentence is correct? ​",
+        "opciones": [
+          "She likes music",
+          "She like music",
+          "She liking music",
+          "She liked music"
+        ],
+        "respuestaCorrecta": "She likes music",
+        "explicacion": "Con she/he/it se agrega -s al verbo: She likes = a ella le gusta."
+      },
+      {
+        "id": "p5en-b1-06-v2",
+        "tema": "Descripción",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Short\" means alto ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Short = bajo/a o corto/a. Tall = alto/a."
+      },
+      {
+        "id": "p5en-b1-07-v2",
+        "tema": "Present simple",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Do you speak English?\" means: ​",
+        "opciones": [
+          "¿Hablas inglés?",
+          "¿Hablas español?",
+          "¿Comes inglés?",
+          "¿Escribes inglés?"
+        ],
+        "respuestaCorrecta": "¿Hablas inglés?",
+        "explicacion": "Do you...? se usa para preguntas en presente simple."
+      },
+      {
+        "id": "p5en-b1-08-v2",
+        "tema": "Descripción",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"My hair is black and curly\" means: ​",
+        "opciones": [
+          "Mi cabello es negro y rizado",
+          "Mi cabello es rubio",
+          "Mi cabello es corto",
+          "Mi cabello es azul"
+        ],
+        "respuestaCorrecta": "Mi cabello es negro y rizado",
+        "explicacion": "Black = negro. Curly = rizado. Straight = lacio."
+      },
+      {
+        "id": "p5en-b1-09-v2",
+        "tema": "Present simple",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I don't like spiders\" means: ​",
+        "opciones": [
+          "No me gustan las arañas",
+          "Me gustan las arañas",
+          "No como arañas",
+          "Soy una araña"
+        ],
+        "respuestaCorrecta": "No me gustan las arañas",
+        "explicacion": "Don't = forma negativa. I don't like = no me gusta/n."
+      },
+      {
+        "id": "p5en-b1-10-v2",
+        "tema": "Descripción",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Old\" is the opposite of \"young\" ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Old = viejo. Young = joven. Son opuestos."
+      }
+    ],
     "preview": [
       {
         "id": "p5en-b1-01",

@@ -1,66 +1,114 @@
 {
-    "grado": "preescolar-3",
-    "materia": "conocimiento",
-    "bloque": 6,
-    "nombre": "Mi ciudad habla (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Oficios y profesiones",
-        "Medios de transporte",
-        "Alimentos y la hora de comer",
-        "Naturaleza y bichitos"
+  "grado": "preescolar-3",
+  "materia": "conocimiento",
+  "bloque": 6,
+  "nombre": "Mi ciudad habla (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Oficios y profesiones",
+    "Medios de transporte",
+    "Alimentos y la hora de comer",
+    "Naturaleza y bichitos"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre3-con-b6-v1-001",
+        "tema": "Oficios y profesiones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo representamos a un 'DOCTOR' o Médico en LSM?",
+        "opciones": [
+          "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
+          "Ponemos una cruz en el estómago",
+          "Tosamos con la mano en la boca"
+        ],
+        "respuestaCorrecta": "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
+        "explicacion": "¡El Doctor! Colocamos la figura de la letra D (índice arriba, demás haciendo círculo con el pulgar) sobre la muñeca del otro brazo como tomando el pulso. 🩺"
+      },
+      {
+        "id": "pre3-con-b6-v1-002",
+        "tema": "Medios de transporte",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para referirnos a un 'COCHE' (Auto), la seña universal es hacer como si manejáramos un volante con las dos manos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correcto! Solo pon tus puños frente a ti como si sostuvieras el volante y gíralo un poquito de lado a lado. 🚗"
+      },
+      {
+        "id": "pre3-con-b6-v1-003",
+        "tema": "Naturaleza y bichitos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hermoso insecto se dice cruzando las manos por las muñecas y aleteando rítmicamente todos los dedos juntos?",
+        "opciones": [
+          "Mariposa",
+          "Mosquito",
+          "Araña"
+        ],
+        "respuestaCorrecta": "Mariposa",
+        "explicacion": "¡Mariposa! Es una seña divina: cruza tus pulgares y haz que tus otros cuatro dedos aleteen lentamente como unas coloridas alas volando. 🦋"
+      },
+      {
+        "id": "pre3-con-b6-v1-004",
+        "tema": "Alimentos y la hora de comer",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Si tengo sed, la seña para pedir 'AGUA' es formar la letra A (puño con pulgar pegado) y tocar mi ___ con el dedo índice varias veces.",
+        "respuestaCorrecta": "barbilla",
+        "explicacion": "¡Agua pura! Toma tu mano cerrada figurando la A y da toquecitos ligeros en el labio inferior o en la barbilla. 💧"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "pre3-con-b6-v1-001",
-                "tema": "Oficios y profesiones",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo representamos a un 'DOCTOR' o Médico en LSM?",
-                "opciones": [
-                    "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
-                    "Ponemos una cruz en el estómago",
-                    "Tosamos con la mano en la boca"
-                ],
-                "respuestaCorrecta": "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
-                "explicacion": "¡El Doctor! Colocamos la figura de la letra D (índice arriba, demás haciendo círculo con el pulgar) sobre la muñeca del otro brazo como tomando el pulso. 🩺"
-            },
-            {
-                "id": "pre3-con-b6-v1-002",
-                "tema": "Medios de transporte",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para referirnos a un 'COCHE' (Auto), la seña universal es hacer como si manejáramos un volante con las dos manos.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Correcto! Solo pon tus puños frente a ti como si sostuvieras el volante y gíralo un poquito de lado a lado. 🚗"
-            },
-            {
-                "id": "pre3-con-b6-v1-003",
-                "tema": "Naturaleza y bichitos",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué hermoso insecto se dice cruzando las manos por las muñecas y aleteando rítmicamente todos los dedos juntos?",
-                "opciones": [
-                    "Mariposa",
-                    "Mosquito",
-                    "Araña"
-                ],
-                "respuestaCorrecta": "Mariposa",
-                "explicacion": "¡Mariposa! Es una seña divina: cruza tus pulgares y haz que tus otros cuatro dedos aleteen lentamente como unas coloridas alas volando. 🦋"
-            },
-            {
-                "id": "pre3-con-b6-v1-004",
-                "tema": "Alimentos y la hora de comer",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Si tengo sed, la seña para pedir 'AGUA' es formar la letra A (puño con pulgar pegado) y tocar mi ___ con el dedo índice varias veces.",
-                "respuestaCorrecta": "barbilla",
-                "explicacion": "¡Agua pura! Toma tu mano cerrada figurando la A y da toquecitos ligeros en el labio inferior o en la barbilla. 💧"
-            }
-        ]
-    },
-    "generado": "2026-03-09T04:00:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "pre3-con-b6-v1-001-v2",
+        "tema": "Oficios y profesiones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo representamos a un 'DOCTOR' o Médico en LSM? ​",
+        "opciones": [
+          "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
+          "Ponemos una cruz en el estómago",
+          "Tosamos con la mano en la boca"
+        ],
+        "respuestaCorrecta": "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
+        "explicacion": "¡El Doctor! Colocamos la figura de la letra D (índice arriba, demás haciendo círculo con el pulgar) sobre la muñeca del otro brazo como tomando el pulso. 🩺"
+      },
+      {
+        "id": "pre3-con-b6-v1-002-v2",
+        "tema": "Medios de transporte",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para referirnos a un 'COCHE' (Auto), la seña universal es hacer como si manejáramos un volante con las dos manos. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correcto! Solo pon tus puños frente a ti como si sostuvieras el volante y gíralo un poquito de lado a lado. 🚗"
+      },
+      {
+        "id": "pre3-con-b6-v1-003-v2",
+        "tema": "Naturaleza y bichitos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hermoso insecto se dice cruzando las manos por las muñecas y aleteando rítmicamente todos los dedos juntos? ​",
+        "opciones": [
+          "Mariposa",
+          "Mosquito",
+          "Araña"
+        ],
+        "respuestaCorrecta": "Mariposa",
+        "explicacion": "¡Mariposa! Es una seña divina: cruza tus pulgares y haz que tus otros cuatro dedos aleteen lentamente como unas coloridas alas volando. 🦋"
+      },
+      {
+        "id": "pre3-con-b6-v1-004-v2",
+        "tema": "Alimentos y la hora de comer",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Si tengo sed, la seña para pedir 'AGUA' es formar la letra A (puño con pulgar pegado) y tocar mi ___ con el dedo índice varias veces. ​",
+        "respuestaCorrecta": "barbilla",
+        "explicacion": "¡Agua pura! Toma tu mano cerrada figurando la A y da toquecitos ligeros en el labio inferior o en la barbilla. 💧"
+      }
+    ]
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

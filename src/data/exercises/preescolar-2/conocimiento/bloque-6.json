@@ -1,67 +1,116 @@
 {
-    "grado": "preescolar-2",
-    "materia": "conocimiento",
-    "bloque": 6,
-    "nombre": "Mi entorno habla (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Mi familia ampliada en señas",
-        "El tiempo: día y noche",
-        "Mascotas del hogar",
-        "Climas básicos"
+  "grado": "preescolar-2",
+  "materia": "conocimiento",
+  "bloque": 6,
+  "nombre": "Mi entorno habla (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Mi familia ampliada en señas",
+    "El tiempo: día y noche",
+    "Mascotas del hogar",
+    "Climas básicos"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-con-b6-v1-001",
+        "tema": "Mi familia ampliada en señas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo decimos 'ABUELO' en Lengua de Señas Mexicana?",
+        "opciones": [
+          "Empuñamos la mano en 'A' y damos pequeños toques en nuestro hombro o barbilla",
+          "Caminamos jorobados",
+          "Tocamos nuestro cabello blanco"
+        ],
+        "respuestaCorrecta": "Empuñamos la mano en 'A' y damos pequeños toques en nuestro hombro o barbilla",
+        "explicacion": "¡Abuelo! Usamos la letra 'A' (puño) y damos dos golpecitos a un lado de la barbilla o en el hombro. 👴"
+      },
+      {
+        "id": "pre2-con-b6-v1-002",
+        "tema": "El tiempo: día y noche",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para la seña de 'Día', apuntamos al sol arriba en el cielo.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No exactamente! Para 'Día', usamos la mano extendida que sale de atrás del puño de la otra mano, como si fuera el Sol saliendo del horizonte. 🌅"
+      },
+      {
+        "id": "pre2-con-b6-v1-003",
+        "tema": "Mascotas del hogar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal se dice levantando tres dedos en la cara y haciendo un leve rasguño en el aire hacia afuera como bigotes?",
+        "opciones": [
+          "Gato",
+          "Perro",
+          "Pájaro",
+          "Pez"
+        ],
+        "respuestaCorrecta": "Gato",
+        "explicacion": "¡Gato! Los dedos simulan los bigotitos simpáticos que tienen los gatitos saltando de sus mejillas. 🐱"
+      },
+      {
+        "id": "pre2-con-b6-v1-004",
+        "tema": "Climas básicos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para decir que hace 'FRÍO', juntamos nuestros dos ___ cerrados al pecho y los temblamos un poquito.",
+        "respuestaCorrecta": "puños",
+        "explicacion": "¡Frío! Cerramos los puños (como agarrándonos para darnos calor) y los agitamos cerquita del pecho temblando. 🥶❄️"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "pre2-con-b6-v1-001",
-                "tema": "Mi familia ampliada en señas",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo decimos 'ABUELO' en Lengua de Señas Mexicana?",
-                "opciones": [
-                    "Empuñamos la mano en 'A' y damos pequeños toques en nuestro hombro o barbilla",
-                    "Caminamos jorobados",
-                    "Tocamos nuestro cabello blanco"
-                ],
-                "respuestaCorrecta": "Empuñamos la mano en 'A' y damos pequeños toques en nuestro hombro o barbilla",
-                "explicacion": "¡Abuelo! Usamos la letra 'A' (puño) y damos dos golpecitos a un lado de la barbilla o en el hombro. 👴"
-            },
-            {
-                "id": "pre2-con-b6-v1-002",
-                "tema": "El tiempo: día y noche",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para la seña de 'Día', apuntamos al sol arriba en el cielo.",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡No exactamente! Para 'Día', usamos la mano extendida que sale de atrás del puño de la otra mano, como si fuera el Sol saliendo del horizonte. 🌅"
-            },
-            {
-                "id": "pre2-con-b6-v1-003",
-                "tema": "Mascotas del hogar",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué animal se dice levantando tres dedos en la cara y haciendo un leve rasguño en el aire hacia afuera como bigotes?",
-                "opciones": [
-                    "Gato",
-                    "Perro",
-                    "Pájaro",
-                    "Pez"
-                ],
-                "respuestaCorrecta": "Gato",
-                "explicacion": "¡Gato! Los dedos simulan los bigotitos simpáticos que tienen los gatitos saltando de sus mejillas. 🐱"
-            },
-            {
-                "id": "pre2-con-b6-v1-004",
-                "tema": "Climas básicos",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para decir que hace 'FRÍO', juntamos nuestros dos ___ cerrados al pecho y los temblamos un poquito.",
-                "respuestaCorrecta": "puños",
-                "explicacion": "¡Frío! Cerramos los puños (como agarrándonos para darnos calor) y los agitamos cerquita del pecho temblando. 🥶❄️"
-            }
-        ]
-    },
-    "generado": "2026-03-09T04:00:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "pre2-con-b6-v1-001-v2",
+        "tema": "Mi familia ampliada en señas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo decimos 'ABUELO' en Lengua de Señas Mexicana? ​",
+        "opciones": [
+          "Empuñamos la mano en 'A' y damos pequeños toques en nuestro hombro o barbilla",
+          "Caminamos jorobados",
+          "Tocamos nuestro cabello blanco"
+        ],
+        "respuestaCorrecta": "Empuñamos la mano en 'A' y damos pequeños toques en nuestro hombro o barbilla",
+        "explicacion": "¡Abuelo! Usamos la letra 'A' (puño) y damos dos golpecitos a un lado de la barbilla o en el hombro. 👴"
+      },
+      {
+        "id": "pre2-con-b6-v1-002-v2",
+        "tema": "El tiempo: día y noche",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para la seña de 'Día', apuntamos al sol arriba en el cielo. ​",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No exactamente! Para 'Día', usamos la mano extendida que sale de atrás del puño de la otra mano, como si fuera el Sol saliendo del horizonte. 🌅"
+      },
+      {
+        "id": "pre2-con-b6-v1-003-v2",
+        "tema": "Mascotas del hogar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué animal se dice levantando tres dedos en la cara y haciendo un leve rasguño en el aire hacia afuera como bigotes? ​",
+        "opciones": [
+          "Gato",
+          "Perro",
+          "Pájaro",
+          "Pez"
+        ],
+        "respuestaCorrecta": "Gato",
+        "explicacion": "¡Gato! Los dedos simulan los bigotitos simpáticos que tienen los gatitos saltando de sus mejillas. 🐱"
+      },
+      {
+        "id": "pre2-con-b6-v1-004-v2",
+        "tema": "Climas básicos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para decir que hace 'FRÍO', juntamos nuestros dos ___ cerrados al pecho y los temblamos un poquito. ​",
+        "respuestaCorrecta": "puños",
+        "explicacion": "¡Frío! Cerramos los puños (como agarrándonos para darnos calor) y los agitamos cerquita del pecho temblando. 🥶❄️"
+      }
+    ]
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Las personas resilientes enfrentan problemas, aprenden de ellos y salen fortalecidas."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Prácticamente todas las profesiones requieren colaborar con otros de manera efectiva."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Cada decisión diaria, grande o pequeña, contribuye a construir tu futuro."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "🎓 ¡Felicidades! Tu camino apenas comienza. ¡Tú puedes lograr lo que te propongas! 🚀"
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s3ov-b5-01-v2",
+        "tema": "Habilidades",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son las habilidades socioemocionales? ​",
+        "opciones": [
+          "Capacidades para manejar emociones, relaciones y toma de decisiones",
+          "Solo ser simpático",
+          "Solo obedecer",
+          "Solo memorizar"
+        ],
+        "respuestaCorrecta": "Capacidades para manejar emociones, relaciones y toma de decisiones",
+        "explicacion": "La inteligencia emocional es clave para el éxito personal y profesional."
+      },
+      {
+        "id": "s3ov-b5-02-v2",
+        "tema": "Cambio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo te puedes preparar para la transición a bachillerato? ​",
+        "opciones": [
+          "Investigando opciones, preparándote académicamente y siendo adaptable",
+          "Sin hacer nada",
+          "Solo esperando",
+          "Teniendo miedo"
+        ],
+        "respuestaCorrecta": "Investigando opciones, preparándote académicamente y siendo adaptable",
+        "explicacion": "La preparación reduce la ansiedad y aumenta la confianza ante el cambio."
+      },
+      {
+        "id": "s3ov-b5-03-v2",
+        "tema": "Habilidades",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La resiliencia es la capacidad de recuperarse ante las dificultades ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Las personas resilientes enfrentan problemas, aprenden de ellos y salen fortalecidas."
+      },
+      {
+        "id": "s3ov-b5-04-v2",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la habilidad más importante del siglo XXI? ​",
+        "opciones": [
+          "Aprender a aprender (capacidad de adaptación y aprendizaje continuo)",
+          "Memorizar todo",
+          "Solo usar tecnología",
+          "Solo hablar inglés"
+        ],
+        "respuestaCorrecta": "Aprender a aprender (capacidad de adaptación y aprendizaje continuo)",
+        "explicacion": "En un mundo cambiante, la capacidad de aprender cosas nuevas es la habilidad más valiosa."
+      },
+      {
+        "id": "s3ov-b5-05-v2",
+        "tema": "Cambio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué es importante desarrollar autonomía? ​",
+        "opciones": [
+          "Para tomar nuestras propias decisiones responsablemente",
+          "Para hacer lo que queramos sin consecuencias",
+          "Para no pedir ayuda nunca",
+          "Para aislarnos"
+        ],
+        "respuestaCorrecta": "Para tomar nuestras propias decisiones responsablemente",
+        "explicacion": "La autonomía con responsabilidad es signo de madurez y crecimiento personal."
+      },
+      {
+        "id": "s3ov-b5-06-v2",
+        "tema": "Habilidades",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El trabajo en equipo es una habilidad fundamental para cualquier profesión ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Prácticamente todas las profesiones requieren colaborar con otros de manera efectiva."
+      },
+      {
+        "id": "s3ov-b5-07-v2",
+        "tema": "Futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué actitud te llevará más lejos en la vida? ​",
+        "opciones": [
+          "Curiosidad, perseverancia y apertura al aprendizaje",
+          "Conformismo",
+          "Indiferencia",
+          "Solo quejarse"
+        ],
+        "respuestaCorrecta": "Curiosidad, perseverancia y apertura al aprendizaje",
+        "explicacion": "Estas tres actitudes son el motor del crecimiento personal y profesional."
+      },
+      {
+        "id": "s3ov-b5-08-v2",
+        "tema": "Reflexión",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué aprendiste en Orientación Vocacional? ​",
+        "opciones": [
+          "A conocerme, explorar opciones, tomar decisiones y planificar mi futuro",
+          "Nada",
+          "Solo a estudiar",
+          "Solo el nombre de carreras"
+        ],
+        "respuestaCorrecta": "A conocerme, explorar opciones, tomar decisiones y planificar mi futuro",
+        "explicacion": "La orientación vocacional te da herramientas para construir tu propio camino."
+      },
+      {
+        "id": "s3ov-b5-09-v2",
+        "tema": "Futuro",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Tu futuro lo construyes con las decisiones y acciones que tomas HOY ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Cada decisión diaria, grande o pequeña, contribuye a construir tu futuro."
+      },
+      {
+        "id": "s3ov-b5-10-v2",
+        "tema": "Compromiso",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Tu compromiso al egresar de secundaria es: ​",
+        "opciones": [
+          "Seguir aprendiendo, ser responsable y construir el futuro que deseas",
+          "No hacer nada",
+          "Solo descansar",
+          "Olvidar todo"
+        ],
+        "respuestaCorrecta": "Seguir aprendiendo, ser responsable y construir el futuro que deseas",
+        "explicacion": "🎓 ¡Felicidades! Tu camino apenas comienza. ¡Tú puedes lograr lo que te propongas! 🚀"
+      }
+    ],
     "preview": [
       {
         "id": "s3ov-b5-01",

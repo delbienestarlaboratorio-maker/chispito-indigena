@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El respeto al rival es la base de las artes marciales y todos los deportes de combate."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Ju = suave/flexible, Do = camino. El judo usa la fuerza del oponente a tu favor."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El saludo es tradición en todas las artes marciales y representa honor y respeto."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "La anticipación se desarrolla observando patrones y movimientos del oponente."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s2ef-b2-01-v2",
+        "tema": "Adversario",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un deporte de adversario? ​",
+        "opciones": [
+          "Deporte donde compites directamente contra un oponente",
+          "Solo deportes de equipo",
+          "Juegos de mesa",
+          "Deportes sin contacto"
+        ],
+        "respuestaCorrecta": "Deporte donde compites directamente contra un oponente",
+        "explicacion": "Tenis, judo, esgrima, boxeo y taekwondo son deportes de adversario."
+      },
+      {
+        "id": "s2ef-b2-02-v2",
+        "tema": "Defensa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el origen del taekwondo? ​",
+        "opciones": [
+          "Corea del Sur",
+          "Japón",
+          "China",
+          "Brasil"
+        ],
+        "respuestaCorrecta": "Corea del Sur",
+        "explicacion": "El taekwondo es un arte marcial coreano olímpico que enfatiza las patadas."
+      },
+      {
+        "id": "s2ef-b2-03-v2",
+        "tema": "Adversario",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En los deportes de adversario, respetar al oponente es fundamental ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El respeto al rival es la base de las artes marciales y todos los deportes de combate."
+      },
+      {
+        "id": "s2ef-b2-04-v2",
+        "tema": "Estrategia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la estrategia en un deporte individual? ​",
+        "opciones": [
+          "Plan de acción para aprovechar fortalezas y explotar debilidades del rival",
+          "Solo atacar sin pensar",
+          "Solo defenderse",
+          "No tener plan"
+        ],
+        "respuestaCorrecta": "Plan de acción para aprovechar fortalezas y explotar debilidades del rival",
+        "explicacion": "La estrategia combina inteligencia táctica con habilidad física."
+      },
+      {
+        "id": "s2ef-b2-05-v2",
+        "tema": "Tenis",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos sets necesita ganar un jugador para ganar un partido de Grand Slam masculino? ​",
+        "opciones": [
+          "3 de 5 sets",
+          "1 set",
+          "2 de 3 sets",
+          "4 de 7 sets"
+        ],
+        "respuestaCorrecta": "3 de 5 sets",
+        "explicacion": "En Grand Slams masculinos se juegan al mejor de 5 sets."
+      },
+      {
+        "id": "s2ef-b2-06-v2",
+        "tema": "Artes marciales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El judo significa \"camino de la flexibilidad\" o \"camino suave\" ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Ju = suave/flexible, Do = camino. El judo usa la fuerza del oponente a tu favor."
+      },
+      {
+        "id": "s2ef-b2-07-v2",
+        "tema": "Defensa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la primera regla de la autodefensa personal? ​",
+        "opciones": [
+          "Evitar el conflicto y alejarse si es posible",
+          "Atacar primero",
+          "Provocar al oponente",
+          "Nunca retirarse"
+        ],
+        "respuestaCorrecta": "Evitar el conflicto y alejarse si es posible",
+        "explicacion": "La mejor defensa es prevenir. Solo se usa la defensa personal como último recurso."
+      },
+      {
+        "id": "s2ef-b2-08-v2",
+        "tema": "Adversario",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué deporte de adversario es olímpico y usa espadas? ​",
+        "opciones": [
+          "Esgrima",
+          "Kendo",
+          "Lucha libre",
+          "Boxeo"
+        ],
+        "respuestaCorrecta": "Esgrima",
+        "explicacion": "La esgrima usa tres tipos de armas: espada, florete y sable."
+      },
+      {
+        "id": "s2ef-b2-09-v2",
+        "tema": "Respeto",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En artes marciales, el saludo al oponente simboliza respeto mutuo ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El saludo es tradición en todas las artes marciales y representa honor y respeto."
+      },
+      {
+        "id": "s2ef-b2-10-v2",
+        "tema": "Estrategia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la anticipación en deportes de adversario? ​",
+        "opciones": [
+          "Prever la acción del rival antes de que ocurra",
+          "Adivinar sin observar",
+          "Solo reaccionar",
+          "No pensar"
+        ],
+        "respuestaCorrecta": "Prever la acción del rival antes de que ocurra",
+        "explicacion": "La anticipación se desarrolla observando patrones y movimientos del oponente."
+      }
+    ],
     "preview": [
       {
         "id": "s2ef-b2-01",

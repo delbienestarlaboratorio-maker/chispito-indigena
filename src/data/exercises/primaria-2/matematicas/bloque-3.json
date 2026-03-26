@@ -7,384 +7,120 @@
   "temas": [
     "Multiplicacion basica"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "primaria-2-matematicas-b3-001",
         "tema": "Multiplicacion basica",
-        "tipo": "visual_count",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Hay 3 grupos de 2 pizzas. Cuantas pizzas en total?",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "respuestaCorrecta": "6",
-        "explicacion": "3 grupos con 2 pizzas cada uno = 3 x 2 = 6 pizzas."
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
       },
       {
         "id": "primaria-2-matematicas-b3-002",
         "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Cuanto es 5 x 2?",
-        "opciones": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "respuestaCorrecta": "10",
-        "explicacion": "5 x 2 significa sumar el 5 dos veces: 5 + 5 = 10."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-extra-006",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 45 + 38?",
-        "opciones": [
-          "73",
-          "83",
-          "93",
-          "75"
-        ],
-        "respuestaCorrecta": "83",
-        "explicacion": "45+38: sumamos unidades 5+8=13 (llevamos 1), decenas 4+3+1=8. Resultado: 83."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-extra-008",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 100 - 37?",
-        "opciones": [
-          "57",
-          "63",
-          "73",
-          "67"
-        ],
-        "respuestaCorrecta": "63",
-        "explicacion": "100-37=63. Podemos pensar: de 37 a 40 son 3, de 40 a 100 son 60. Total: 63."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-extra-010",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "56 ÷ 8 = ___",
-        "respuestaCorrecta": "7",
-        "explicacion": "56 ÷ 8 = 7. Verificamos: 8 × 7 = 56."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-extra-012",
-        "tema": "Multiplicacion basica",
-        "tipo": "visual_count",
-        "nivel": "v1",
-        "pregunta": "Una semana tiene ___ días",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Una semana tiene 7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-013",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "48 + 35 = ___",
-        "respuestaCorrecta": "83",
-        "explicacion": "8+5=13 (llevo 1), 4+3+1=8. Resultado: 83."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-014",
-        "tema": "Multiplicacion basica",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "7 × 8 = 56",
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
         "respuestaCorrecta": "true",
-        "explicacion": "Sí, 7 × 8 = 56. Tablas del 7!"
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       },
-      {
-        "id": "primaria-2-matematicas-b3-x-015",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos cm tiene 1 km?",
-        "opciones": [
-          "100",
-          "1,000",
-          "10,000",
-          "100,000"
-        ],
-        "respuestaCorrecta": "100,000",
-        "explicacion": "1 km = 1,000 m = 100,000 cm."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-016",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es la mitad de 60?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "30",
-        "explicacion": "La mitad de 60 = 60÷2 = 30."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-017",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "100 ÷ 4 = ___",
-        "respuestaCorrecta": "25",
-        "explicacion": "100 ÷ 4 = 25. Verificamos: 4 × 25 = 100."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-018",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "48 + 35 = ___",
-        "respuestaCorrecta": "83",
-        "explicacion": "8+5=13 (llevo 1), 4+3+1=8. Resultado: 83."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-019",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "7 × 8 = 56",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí, 7 × 8 = 56. Tablas del 7!"
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-020",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos cm tiene 1 km?",
-        "opciones": [
-          "100",
-          "1,000",
-          "10,000",
-          "100,000"
-        ],
-        "respuestaCorrecta": "100,000",
-        "explicacion": "1 km = 1,000 m = 100,000 cm."
-      }
-    ],
-    "v2": [
       {
         "id": "primaria-2-matematicas-b3-003",
         "tema": "Multiplicacion basica",
         "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "4 x ___ = 12",
-        "respuestaCorrecta": "3",
-        "explicacion": "4 x 3 = 12. Podemos sumar: 4 + 4 + 4 = 12."
-      },
+        "nivel": "v1",
+        "pregunta": "El resultado de una suma se llama ___",
+        "respuestaCorrecta": "total",
+        "explicacion": "También se le conoce como suma o adición."
+      }
+    ],
+    "v2": [
       {
-        "id": "primaria-2-matematicas-b3-004",
+        "id": "primaria-2-matematicas-b3-v2-001",
         "tema": "Multiplicacion basica",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Cuanto es 6 x 7?",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
         "opciones": [
-          "40",
-          "42",
-          "44",
-          "48"
-        ],
-        "respuestaCorrecta": "42",
-        "explicacion": "6 x 7 = 42. Truco: 6 x 7 = 6 x 5 + 6 x 2 = 30 + 12 = 42."
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
-        "id": "primaria-2-matematicas-b3-005",
+        "id": "primaria-2-matematicas-b3-v2-002",
         "tema": "Multiplicacion basica",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "3 x 4 = 4 x 3 (la multiplicacion es conmutativa)",
+        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto! 3 x 4 = 12 y 4 x 3 = 12. El orden de los factores no cambia el producto."
+        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
       },
       {
-        "id": "primaria-2-matematicas-b3-extra-007",
+        "id": "primaria-2-matematicas-b3-v2-003",
         "tema": "Multiplicacion basica",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "7 × 8 = ___",
-        "respuestaCorrecta": "56",
-        "explicacion": "7 por 8 = 56. Truco: 7×8=7×4×2=28×2=56."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-extra-009",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "4 × 6 = 6 × 4",
-        "respuestaCorrecta": "true",
-        "explicacion": "La multiplicación es conmutativa. 4×6=24 y 6×4=24."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-extra-011",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos centímetros tiene 1 metro?",
-        "opciones": [
-          "10",
-          "100",
-          "1000",
-          "10000"
-        ],
-        "respuestaCorrecta": "100",
-        "explicacion": "1 metro = 100 centímetros. ¡1 metro es como una regla muy larga!"
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-013",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuánto es la mitad de 60?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "30",
-        "explicacion": "La mitad de 60 = 60÷2 = 30."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-014",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "100 ÷ 4 = ___",
-        "respuestaCorrecta": "25",
-        "explicacion": "100 ÷ 4 = 25. Verificamos: 4 × 25 = 100."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-015",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "48 + 35 = ___",
-        "respuestaCorrecta": "83",
-        "explicacion": "8+5=13 (llevo 1), 4+3+1=8. Resultado: 83."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-016",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "7 × 8 = 56",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí, 7 × 8 = 56. Tablas del 7!"
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-017",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos cm tiene 1 km?",
-        "opciones": [
-          "100",
-          "1,000",
-          "10,000",
-          "100,000"
-        ],
-        "respuestaCorrecta": "100,000",
-        "explicacion": "1 km = 1,000 m = 100,000 cm."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-018",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuánto es la mitad de 60?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "30",
-        "explicacion": "La mitad de 60 = 60÷2 = 30."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-019",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "100 ÷ 4 = ___",
-        "respuestaCorrecta": "25",
-        "explicacion": "100 ÷ 4 = 25. Verificamos: 4 × 25 = 100."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-x-020",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "48 + 35 = ___",
-        "respuestaCorrecta": "83",
-        "explicacion": "8+5=13 (llevo 1), 4+3+1=8. Resultado: 83."
+        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
+        "respuestaCorrecta": "recto",
+        "explicacion": "Un ángulo recto forma una L perfecta."
       }
     ],
     "preview": [
       {
         "id": "primaria-2-matematicas-b3-001",
         "tema": "Multiplicacion basica",
-        "tipo": "visual_count",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Hay 3 grupos de 2 pizzas. Cuantas pizzas en total?",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "respuestaCorrecta": "6",
-        "explicacion": "3 grupos con 2 pizzas cada uno = 3 x 2 = 6 pizzas."
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
+      },
+      {
+        "id": "primaria-2-matematicas-b3-v2-001",
+        "tema": "Multiplicacion basica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
         "id": "primaria-2-matematicas-b3-002",
         "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Cuanto es 5 x 2?",
-        "opciones": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "respuestaCorrecta": "10",
-        "explicacion": "5 x 2 significa sumar el 5 dos veces: 5 + 5 = 10."
-      },
-      {
-        "id": "primaria-2-matematicas-b3-003",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "4 x ___ = 12",
-        "respuestaCorrecta": "3",
-        "explicacion": "4 x 3 = 12. Podemos sumar: 4 + 4 + 4 = 12."
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       }
     ]
   },
-  "generado": "2026-02-27T04:04:54.096Z",
+  "generado": "2026-03-26T03:09:52.270Z",
   "version": "2.0"
 }

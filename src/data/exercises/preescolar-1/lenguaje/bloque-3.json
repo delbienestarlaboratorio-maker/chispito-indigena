@@ -1,336 +1,336 @@
 {
-    "grado": "preescolar-1",
-    "materia": "lenguaje",
-    "bloque": 3,
-    "nombre": "Murciélagos, mariposas y pinturas antiguas",
-    "libroSep": "Múltiples Lenguajes K1MLA",
-    "paginasLibro": "58-96",
-    "meses": "Diciembre – Enero",
-    "temas": [
-        "El murciélago diadema de Filipinas (p.58-61)",
-        "Pinturas rupestres (p.62-63)",
-        "Un extraño paseo (p.64-70)",
-        "Veo, veo ¿qué ves? (p.71)",
-        "El viaje musical de Estrella la Mariposa (p.72-75)",
-        "Cabeza de mango (p.76-79)",
-        "Papalotla no supo que existía la noche (p.80-83)",
-        "Retos matemáticos (p.84-87)",
-        "Caritas felices (p.88)",
-        "Árboles y raíces (p.89)",
-        "Los bisontes americanos (p.90-93)"
+  "grado": "preescolar-1",
+  "materia": "lenguaje",
+  "bloque": 3,
+  "nombre": "Murciélagos, mariposas y pinturas antiguas",
+  "libroSep": "Múltiples Lenguajes K1MLA",
+  "paginasLibro": "58-96",
+  "meses": "Diciembre – Enero",
+  "temas": [
+    "El murciélago diadema de Filipinas (p.58-61)",
+    "Pinturas rupestres (p.62-63)",
+    "Un extraño paseo (p.64-70)",
+    "Veo, veo ¿qué ves? (p.71)",
+    "El viaje musical de Estrella la Mariposa (p.72-75)",
+    "Cabeza de mango (p.76-79)",
+    "Papalotla no supo que existía la noche (p.80-83)",
+    "Retos matemáticos (p.84-87)",
+    "Caritas felices (p.88)",
+    "Árboles y raíces (p.89)",
+    "Los bisontes americanos (p.90-93)"
+  ],
+  "totalEjercicios": 20,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "k1-len-b3-001",
+        "tema": "Murciélago diadema (p.58)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se llama el murciélago más grande del mundo?",
+        "opciones": [
+          "Murciélago vampiro",
+          "Murciélago diadema de Filipinas",
+          "Murciélago común",
+          "Murciélago enano"
+        ],
+        "respuestaCorrecta": "Murciélago diadema de Filipinas",
+        "explicacion": "También llamado 'zorro volador filipino', es el murciélago más grande del mundo. Sus alas extendidas miden hasta 1.5 metros."
+      },
+      {
+        "id": "k1-len-b3-002",
+        "tema": "Murciélago diadema (p.58)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuánto pueden medir las alas del murciélago diadema de Filipinas?",
+        "opciones": [
+          "30 centímetros",
+          "1 metro",
+          "1.5 metros",
+          "5 metros"
+        ],
+        "respuestaCorrecta": "1.5 metros",
+        "explicacion": "El libro dice que sus alas extendidas miden hasta 1.5 metros y pueden pesar hasta 1.2 kilos."
+      },
+      {
+        "id": "k1-len-b3-003",
+        "tema": "Pinturas rupestres (p.62-63)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Dónde se pintaron las pinturas rupestres que muestra el libro?",
+        "opciones": [
+          "En un cuaderno",
+          "En las paredes de cuevas y rocas",
+          "En tela",
+          "En madera"
+        ],
+        "respuestaCorrecta": "En las paredes de cuevas y rocas",
+        "explicacion": "Las pinturas rupestres son dibujos hechos hace miles de años en las paredes de cuevas. En el libro aparece un bisonte pintado en una roca."
+      },
+      {
+        "id": "k1-len-b3-004",
+        "tema": "Estrella la Mariposa (p.72)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué don especial tenía Estrella la Mariposa?",
+        "opciones": [
+          "Podía hablar",
+          "Llevaba la música en sus alas",
+          "Sabía cocinar",
+          "Podía nadar"
+        ],
+        "respuestaCorrecta": "Llevaba la música en sus alas",
+        "explicacion": "Estrella era 'una mariposa muy especial, pues tenía el don de llevar la música en sus alas'. Vivía en un bosque encantado."
+      },
+      {
+        "id": "k1-len-b3-005",
+        "tema": "Estrella la Mariposa (p.72)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Dónde vivía Estrella la Mariposa?",
+        "opciones": [
+          "En una ciudad",
+          "En un bosque encantado",
+          "En el desierto",
+          "En el mar"
+        ],
+        "respuestaCorrecta": "En un bosque encantado",
+        "explicacion": "El cuento dice: 'En un bosque encantado vivía Estrella, una mariposa muy especial'."
+      },
+      {
+        "id": "k1-len-b3-006",
+        "tema": "Cabeza de mango (p.76)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Según el cuento, dicen que si no se cumple un antojo el bebé nacerá 'con cara de esa comida'.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El cuento dice con humor: 'Dicen que si no se cumple el antojo, algo terrible pasará: el bebé nacerá con cara de esa comida'."
+      },
+      {
+        "id": "k1-len-b3-007",
+        "tema": "Retos matemáticos (p.84)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En los retos matemáticos del libro, ¿qué hay que descubrir con los insectos de origami?",
+        "opciones": [
+          "Su nombre",
+          "Qué insecto sigue en el patrón",
+          "De qué color son",
+          "Cuántas patas tienen"
+        ],
+        "respuestaCorrecta": "Qué insecto sigue en el patrón",
+        "explicacion": "La página muestra insectos de origami (papel doblado) de dos colores en un patrón y pregunta: '¿Qué insecto sigue?'"
+      },
+      {
+        "id": "k1-len-b3-008",
+        "tema": "Caritas felices (p.88)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En 'Caritas felices' se muestran fotos de niños y niñas de todo México.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. La página 88 tiene un mosaico de 16 fotos reales de niños y niñas mexicanos sonrientes, de diferentes regiones y comunidades del país."
+      },
+      {
+        "id": "k1-len-b3-009",
+        "tema": "Bisontes americanos (p.90)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuánto pueden medir los bisontes americanos?",
+        "opciones": [
+          "50 centímetros",
+          "1 metro",
+          "Entre 2.10 y 3.50 metros",
+          "10 metros"
+        ],
+        "respuestaCorrecta": "Entre 2.10 y 3.50 metros",
+        "explicacion": "El libro dice que los bisontes americanos llegan a medir entre 2.10 y 3.50 metros. Son animales libres que viven en armonía con su entorno."
+      },
+      {
+        "id": "k1-len-b3-010",
+        "tema": "Bisontes americanos (p.90)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Dónde prefieren vivir los bisontes americanos?",
+        "opciones": [
+          "En la selva",
+          "En sabanas y praderas",
+          "En el mar",
+          "En la ciudad"
+        ],
+        "respuestaCorrecta": "En sabanas y praderas",
+        "explicacion": "El libro dice que 'las sabanas y praderas son las preferidas para su desarrollo'. Son animales libres."
+      }
     ],
-    "totalEjercicios": 20,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "k1-len-b3-001",
-                "tema": "Murciélago diadema (p.58)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se llama el murciélago más grande del mundo?",
-                "opciones": [
-                    "Murciélago vampiro",
-                    "Murciélago diadema de Filipinas",
-                    "Murciélago común",
-                    "Murciélago enano"
-                ],
-                "respuestaCorrecta": "Murciélago diadema de Filipinas",
-                "explicacion": "También llamado 'zorro volador filipino', es el murciélago más grande del mundo. Sus alas extendidas miden hasta 1.5 metros."
-            },
-            {
-                "id": "k1-len-b3-002",
-                "tema": "Murciélago diadema (p.58)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cuánto pueden medir las alas del murciélago diadema de Filipinas?",
-                "opciones": [
-                    "30 centímetros",
-                    "1 metro",
-                    "1.5 metros",
-                    "5 metros"
-                ],
-                "respuestaCorrecta": "1.5 metros",
-                "explicacion": "El libro dice que sus alas extendidas miden hasta 1.5 metros y pueden pesar hasta 1.2 kilos."
-            },
-            {
-                "id": "k1-len-b3-003",
-                "tema": "Pinturas rupestres (p.62-63)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Dónde se pintaron las pinturas rupestres que muestra el libro?",
-                "opciones": [
-                    "En un cuaderno",
-                    "En las paredes de cuevas y rocas",
-                    "En tela",
-                    "En madera"
-                ],
-                "respuestaCorrecta": "En las paredes de cuevas y rocas",
-                "explicacion": "Las pinturas rupestres son dibujos hechos hace miles de años en las paredes de cuevas. En el libro aparece un bisonte pintado en una roca."
-            },
-            {
-                "id": "k1-len-b3-004",
-                "tema": "Estrella la Mariposa (p.72)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué don especial tenía Estrella la Mariposa?",
-                "opciones": [
-                    "Podía hablar",
-                    "Llevaba la música en sus alas",
-                    "Sabía cocinar",
-                    "Podía nadar"
-                ],
-                "respuestaCorrecta": "Llevaba la música en sus alas",
-                "explicacion": "Estrella era 'una mariposa muy especial, pues tenía el don de llevar la música en sus alas'. Vivía en un bosque encantado."
-            },
-            {
-                "id": "k1-len-b3-005",
-                "tema": "Estrella la Mariposa (p.72)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Dónde vivía Estrella la Mariposa?",
-                "opciones": [
-                    "En una ciudad",
-                    "En un bosque encantado",
-                    "En el desierto",
-                    "En el mar"
-                ],
-                "respuestaCorrecta": "En un bosque encantado",
-                "explicacion": "El cuento dice: 'En un bosque encantado vivía Estrella, una mariposa muy especial'."
-            },
-            {
-                "id": "k1-len-b3-006",
-                "tema": "Cabeza de mango (p.76)",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Según el cuento, dicen que si no se cumple un antojo el bebé nacerá 'con cara de esa comida'.",
-                "respuestaCorrecta": "true",
-                "explicacion": "Correcto. El cuento dice con humor: 'Dicen que si no se cumple el antojo, algo terrible pasará: el bebé nacerá con cara de esa comida'."
-            },
-            {
-                "id": "k1-len-b3-007",
-                "tema": "Retos matemáticos (p.84)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "En los retos matemáticos del libro, ¿qué hay que descubrir con los insectos de origami?",
-                "opciones": [
-                    "Su nombre",
-                    "Qué insecto sigue en el patrón",
-                    "De qué color son",
-                    "Cuántas patas tienen"
-                ],
-                "respuestaCorrecta": "Qué insecto sigue en el patrón",
-                "explicacion": "La página muestra insectos de origami (papel doblado) de dos colores en un patrón y pregunta: '¿Qué insecto sigue?'"
-            },
-            {
-                "id": "k1-len-b3-008",
-                "tema": "Caritas felices (p.88)",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "En 'Caritas felices' se muestran fotos de niños y niñas de todo México.",
-                "respuestaCorrecta": "true",
-                "explicacion": "Correcto. La página 88 tiene un mosaico de 16 fotos reales de niños y niñas mexicanos sonrientes, de diferentes regiones y comunidades del país."
-            },
-            {
-                "id": "k1-len-b3-009",
-                "tema": "Bisontes americanos (p.90)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cuánto pueden medir los bisontes americanos?",
-                "opciones": [
-                    "50 centímetros",
-                    "1 metro",
-                    "Entre 2.10 y 3.50 metros",
-                    "10 metros"
-                ],
-                "respuestaCorrecta": "Entre 2.10 y 3.50 metros",
-                "explicacion": "El libro dice que los bisontes americanos llegan a medir entre 2.10 y 3.50 metros. Son animales libres que viven en armonía con su entorno."
-            },
-            {
-                "id": "k1-len-b3-010",
-                "tema": "Bisontes americanos (p.90)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Dónde prefieren vivir los bisontes americanos?",
-                "opciones": [
-                    "En la selva",
-                    "En sabanas y praderas",
-                    "En el mar",
-                    "En la ciudad"
-                ],
-                "respuestaCorrecta": "En sabanas y praderas",
-                "explicacion": "El libro dice que 'las sabanas y praderas son las preferidas para su desarrollo'. Son animales libres."
-            }
+    "v2": [
+      {
+        "id": "k1-len-b3-011",
+        "tema": "Murciélago diadema (p.58)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El murciélago diadema de Filipinas también se conoce como ___ volador filipino.  ",
+        "respuestaCorrecta": "zorro",
+        "explicacion": "Su otro nombre es 'zorro volador filipino' por su cara parecida a la de un zorro."
+      },
+      {
+        "id": "k1-len-b3-012",
+        "tema": "Pinturas rupestres (p.62)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué animal aparece pintado en la cueva de las pinturas rupestres?  ",
+        "opciones": [
+          "Un caballo",
+          "Un bisonte",
+          "Un oso",
+          "Un venado"
         ],
-        "v2": [
-            {
-                "id": "k1-len-b3-011",
-                "tema": "Murciélago diadema (p.58)",
-                "tipo": "fill_blank",
-                "nivel": "v2",
-                "pregunta": "El murciélago diadema de Filipinas también se conoce como ___ volador filipino.",
-                "respuestaCorrecta": "zorro",
-                "explicacion": "Su otro nombre es 'zorro volador filipino' por su cara parecida a la de un zorro."
-            },
-            {
-                "id": "k1-len-b3-012",
-                "tema": "Pinturas rupestres (p.62)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Qué animal aparece pintado en la cueva de las pinturas rupestres?",
-                "opciones": [
-                    "Un caballo",
-                    "Un bisonte",
-                    "Un oso",
-                    "Un venado"
-                ],
-                "respuestaCorrecta": "Un bisonte",
-                "explicacion": "La pintura rupestre de la página 62 muestra un bisonte grande pintado con colores rojizos y marrones sobre la roca de una cueva."
-            },
-            {
-                "id": "k1-len-b3-013",
-                "tema": "Estrella la Mariposa (p.72)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿De qué colores son las alas de Estrella la Mariposa?",
-                "opciones": [
-                    "Azules y verdes",
-                    "Amarillas, anaranjadas y rosas",
-                    "Blancas y negras",
-                    "Rojas y moradas"
-                ],
-                "respuestaCorrecta": "Amarillas, anaranjadas y rosas",
-                "explicacion": "En la ilustración, Estrella tiene grandes alas de colores amarillo, anaranjado y rosa/fucsia con notas musicales alrededor."
-            },
-            {
-                "id": "k1-len-b3-014",
-                "tema": "Estrella la Mariposa (p.72)",
-                "tipo": "fill_blank",
-                "nivel": "v2",
-                "pregunta": "El autor del cuento 'El viaje musical de Estrella la Mariposa' se llama Rodrigo Díaz ___.",
-                "respuestaCorrecta": "Bueno",
-                "explicacion": "El libro muestra que el autor del cuento es Rodrigo Díaz Bueno."
-            },
-            {
-                "id": "k1-len-b3-015",
-                "tema": "Cabeza de mango (p.76)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Qué comida mexicana se menciona como antojo en 'Cabeza de mango'?",
-                "opciones": [
-                    "Pizza y hamburguesa",
-                    "Elote con mayonesa y helado de chocolate",
-                    "Sushi y ramen",
-                    "Ensalada y fruta"
-                ],
-                "respuestaCorrecta": "Elote con mayonesa y helado de chocolate",
-                "explicacion": "El cuento dice que los antojos reales son cosas como 'un elote con mayonesa o un helado de chocolate', no comidas raras."
-            },
-            {
-                "id": "k1-len-b3-016",
-                "tema": "Retos matemáticos (p.84)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "Los insectos del reto matemático están hechos de:",
-                "opciones": [
-                    "Plastilina",
-                    "Papel doblado (origami)",
-                    "Madera",
-                    "Metal"
-                ],
-                "respuestaCorrecta": "Papel doblado (origami)",
-                "explicacion": "Los insectos del reto matemático son figuras de origami (papel doblado) en dos colores, amarillo y café, formando un patrón."
-            },
-            {
-                "id": "k1-len-b3-017",
-                "tema": "Caritas felices (p.88)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Qué tienen en común todos los niños de las fotos en 'Caritas felices'?",
-                "opciones": [
-                    "Todos son rubios",
-                    "Todos están sonriendo o se ven felices",
-                    "Todos están llorando",
-                    "Todos usan uniforme"
-                ],
-                "respuestaCorrecta": "Todos están sonriendo o se ven felices",
-                "explicacion": "El mosaico muestra niños de muchos orígenes y comunidades de México, todos con expresiones felices y caritas sonrientes."
-            },
-            {
-                "id": "k1-len-b3-018",
-                "tema": "Murciélago diadema (p.58)",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "El murciélago diadema de Filipinas puede pesar hasta 1.2 kilos.",
-                "respuestaCorrecta": "true",
-                "explicacion": "Correcto. El libro dice: 'Llegan a pesar hasta 1.2 kilos, y sus alas, extendidas, miden hasta 1.5 metros'."
-            },
-            {
-                "id": "k1-len-b3-019",
-                "tema": "Pinturas rupestres (p.62-63)",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "Las pinturas rupestres se hicieron la semana pasada.",
-                "respuestaCorrecta": "false",
-                "explicacion": "Falso. Las pinturas rupestres fueron hechas hace miles y miles de años por personas que vivían en cuevas."
-            },
-            {
-                "id": "k1-len-b3-020",
-                "tema": "Bisontes americanos (p.90)",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "Los bisontes americanos son animales libres que viven en armonía con su entorno.",
-                "respuestaCorrecta": "true",
-                "explicacion": "Correcto. El libro describe a los bisontes como 'animales libres que viven en armonía con su entorno' en sabanas y praderas."
-            }
+        "respuestaCorrecta": "Un bisonte",
+        "explicacion": "La pintura rupestre de la página 62 muestra un bisonte grande pintado con colores rojizos y marrones sobre la roca de una cueva."
+      },
+      {
+        "id": "k1-len-b3-013",
+        "tema": "Estrella la Mariposa (p.72)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿De qué colores son las alas de Estrella la Mariposa?  ",
+        "opciones": [
+          "Azules y verdes",
+          "Amarillas, anaranjadas y rosas",
+          "Blancas y negras",
+          "Rojas y moradas"
         ],
-        "preview": [
-            {
-                "id": "k1-len-b3-001",
-                "tema": "Murciélago diadema (p.58)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se llama el murciélago más grande del mundo?",
-                "opciones": [
-                    "Murciélago vampiro",
-                    "Murciélago diadema de Filipinas",
-                    "Murciélago común",
-                    "Murciélago enano"
-                ],
-                "respuestaCorrecta": "Murciélago diadema de Filipinas",
-                "explicacion": "También llamado 'zorro volador filipino', es el murciélago más grande del mundo."
-            },
-            {
-                "id": "k1-len-b3-004",
-                "tema": "Estrella la Mariposa (p.72)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué don especial tenía Estrella la Mariposa?",
-                "opciones": [
-                    "Podía hablar",
-                    "Llevaba la música en sus alas",
-                    "Sabía cocinar",
-                    "Podía nadar"
-                ],
-                "respuestaCorrecta": "Llevaba la música en sus alas",
-                "explicacion": "Estrella era 'una mariposa muy especial, pues tenía el don de llevar la música en sus alas'."
-            },
-            {
-                "id": "k1-len-b3-009",
-                "tema": "Bisontes americanos (p.90)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cuánto pueden medir los bisontes americanos?",
-                "opciones": [
-                    "50 centímetros",
-                    "1 metro",
-                    "Entre 2.10 y 3.50 metros",
-                    "10 metros"
-                ],
-                "respuestaCorrecta": "Entre 2.10 y 3.50 metros",
-                "explicacion": "Los bisontes americanos llegan a medir entre 2.10 y 3.50 metros."
-            }
-        ]
-    },
-    "generado": "2026-03-10T21:45:00.000Z",
-    "version": "3.0-libro-real"
+        "respuestaCorrecta": "Amarillas, anaranjadas y rosas",
+        "explicacion": "En la ilustración, Estrella tiene grandes alas de colores amarillo, anaranjado y rosa/fucsia con notas musicales alrededor."
+      },
+      {
+        "id": "k1-len-b3-014",
+        "tema": "Estrella la Mariposa (p.72)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El autor del cuento 'El viaje musical de Estrella la Mariposa' se llama Rodrigo Díaz ___.  ",
+        "respuestaCorrecta": "Bueno",
+        "explicacion": "El libro muestra que el autor del cuento es Rodrigo Díaz Bueno."
+      },
+      {
+        "id": "k1-len-b3-015",
+        "tema": "Cabeza de mango (p.76)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué comida mexicana se menciona como antojo en 'Cabeza de mango'?  ",
+        "opciones": [
+          "Pizza y hamburguesa",
+          "Elote con mayonesa y helado de chocolate",
+          "Sushi y ramen",
+          "Ensalada y fruta"
+        ],
+        "respuestaCorrecta": "Elote con mayonesa y helado de chocolate",
+        "explicacion": "El cuento dice que los antojos reales son cosas como 'un elote con mayonesa o un helado de chocolate', no comidas raras."
+      },
+      {
+        "id": "k1-len-b3-016",
+        "tema": "Retos matemáticos (p.84)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Los insectos del reto matemático están hechos de:  ",
+        "opciones": [
+          "Plastilina",
+          "Papel doblado (origami)",
+          "Madera",
+          "Metal"
+        ],
+        "respuestaCorrecta": "Papel doblado (origami)",
+        "explicacion": "Los insectos del reto matemático son figuras de origami (papel doblado) en dos colores, amarillo y café, formando un patrón."
+      },
+      {
+        "id": "k1-len-b3-017",
+        "tema": "Caritas felices (p.88)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tienen en común todos los niños de las fotos en 'Caritas felices'?  ",
+        "opciones": [
+          "Todos son rubios",
+          "Todos están sonriendo o se ven felices",
+          "Todos están llorando",
+          "Todos usan uniforme"
+        ],
+        "respuestaCorrecta": "Todos están sonriendo o se ven felices",
+        "explicacion": "El mosaico muestra niños de muchos orígenes y comunidades de México, todos con expresiones felices y caritas sonrientes."
+      },
+      {
+        "id": "k1-len-b3-018",
+        "tema": "Murciélago diadema (p.58)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El murciélago diadema de Filipinas puede pesar hasta 1.2 kilos.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El libro dice: 'Llegan a pesar hasta 1.2 kilos, y sus alas, extendidas, miden hasta 1.5 metros'."
+      },
+      {
+        "id": "k1-len-b3-019",
+        "tema": "Pinturas rupestres (p.62-63)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las pinturas rupestres se hicieron la semana pasada.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "Falso. Las pinturas rupestres fueron hechas hace miles y miles de años por personas que vivían en cuevas."
+      },
+      {
+        "id": "k1-len-b3-020",
+        "tema": "Bisontes americanos (p.90)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los bisontes americanos son animales libres que viven en armonía con su entorno.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El libro describe a los bisontes como 'animales libres que viven en armonía con su entorno' en sabanas y praderas."
+      }
+    ],
+    "preview": [
+      {
+        "id": "k1-len-b3-001",
+        "tema": "Murciélago diadema (p.58)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se llama el murciélago más grande del mundo?",
+        "opciones": [
+          "Murciélago vampiro",
+          "Murciélago diadema de Filipinas",
+          "Murciélago común",
+          "Murciélago enano"
+        ],
+        "respuestaCorrecta": "Murciélago diadema de Filipinas",
+        "explicacion": "También llamado 'zorro volador filipino', es el murciélago más grande del mundo."
+      },
+      {
+        "id": "k1-len-b3-004",
+        "tema": "Estrella la Mariposa (p.72)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué don especial tenía Estrella la Mariposa?",
+        "opciones": [
+          "Podía hablar",
+          "Llevaba la música en sus alas",
+          "Sabía cocinar",
+          "Podía nadar"
+        ],
+        "respuestaCorrecta": "Llevaba la música en sus alas",
+        "explicacion": "Estrella era 'una mariposa muy especial, pues tenía el don de llevar la música en sus alas'."
+      },
+      {
+        "id": "k1-len-b3-009",
+        "tema": "Bisontes americanos (p.90)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuánto pueden medir los bisontes americanos?",
+        "opciones": [
+          "50 centímetros",
+          "1 metro",
+          "Entre 2.10 y 3.50 metros",
+          "10 metros"
+        ],
+        "respuestaCorrecta": "Entre 2.10 y 3.50 metros",
+        "explicacion": "Los bisontes americanos llegan a medir entre 2.10 y 3.50 metros."
+      }
+    ]
+  },
+  "generado": "2026-03-10T21:45:00.000Z",
+  "version": "3.0-libro-real"
 }

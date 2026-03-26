@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Los hábitos de actividad física establecidos de niño tienden a mantenerse en la adultez."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La mayoría de secundarias ofrecen clubes o talleres deportivos como actividades extra."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Disciplina, perseverancia, trabajo en equipo y respeto son valores universales del deporte."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "El compromiso con la salud es para toda la vida. ¡La secundaria es el siguiente paso! 🚀"
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p6ef-b5-01-v2",
+        "tema": "Vida sana",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los 3 pilares de una vida saludable? ​",
+        "opciones": [
+          "Actividad física, alimentación balanceada y descanso",
+          "Solo dieta",
+          "Solo ejercicio",
+          "Solo dormir"
+        ],
+        "respuestaCorrecta": "Actividad física, alimentación balanceada y descanso",
+        "explicacion": "La salud integral requiere equilibrio entre movimiento, nutrición y recuperación."
+      },
+      {
+        "id": "p6ef-b5-02-v2",
+        "tema": "Secundaria",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la secundaria, ¿qué cambia en Educación Física? ​",
+        "opciones": [
+          "Se practican deportes más complejos y se aprende más sobre salud",
+          "Ya no hay ejercicio",
+          "Solo se corre",
+          "Se elimina la materia"
+        ],
+        "respuestaCorrecta": "Se practican deportes más complejos y se aprende más sobre salud",
+        "explicacion": "La Ed. Física de secundaria profundiza en deportes, salud y acondicionamiento físico."
+      },
+      {
+        "id": "p6ef-b5-03-v2",
+        "tema": "Vida sana",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El ejercicio regular durante la infancia crea hábitos para toda la vida ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Los hábitos de actividad física establecidos de niño tienden a mantenerse en la adultez."
+      },
+      {
+        "id": "p6ef-b5-04-v2",
+        "tema": "Deporte",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué deporte o actividad puedes practicar toda tu vida? ​",
+        "opciones": [
+          "Caminar, nadar, yoga, ciclismo",
+          "Solo futbol profesional",
+          "Solo atletismo olímpico",
+          "Solo gimnasia de competencia"
+        ],
+        "respuestaCorrecta": "Caminar, nadar, yoga, ciclismo",
+        "explicacion": "Algunas actividades se pueden practicar a cualquier edad con adaptaciones."
+      },
+      {
+        "id": "p6ef-b5-05-v2",
+        "tema": "Vida sana",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué es importante el ejercicio para la salud mental? ​",
+        "opciones": [
+          "Reduce estrés, ansiedad y mejora el ánimo",
+          "No afecta la mente",
+          "Solo afecta los músculos",
+          "Causa más estrés"
+        ],
+        "respuestaCorrecta": "Reduce estrés, ansiedad y mejora el ánimo",
+        "explicacion": "El ejercicio libera endorfinas y serotonina, sustancias que generan bienestar mental."
+      },
+      {
+        "id": "p6ef-b5-06-v2",
+        "tema": "Secundaria",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En secundaria se pueden elegir actividades deportivas extracurriculares ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La mayoría de secundarias ofrecen clubes o talleres deportivos como actividades extra."
+      },
+      {
+        "id": "p6ef-b5-07-v2",
+        "tema": "Deporte",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué aprendiste en 6 años de Educación Física en primaria? ​",
+        "opciones": [
+          "Capacidades físicas, deportes, salud, trabajo en equipo y valores",
+          "Solo a correr",
+          "Nada",
+          "Solo a saltar"
+        ],
+        "respuestaCorrecta": "Capacidades físicas, deportes, salud, trabajo en equipo y valores",
+        "explicacion": "La Ed. Física desarrolla el cuerpo, la mente y los valores a lo largo de toda la primaria."
+      },
+      {
+        "id": "p6ef-b5-08-v2",
+        "tema": "Vida sana",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la mejor razón para hacer ejercicio? ​",
+        "opciones": [
+          "Sentirse bien, estar sano y disfrutarlo",
+          "Solo para verse delgado",
+          "Solo para ganar medallas",
+          "Solo porque obligan"
+        ],
+        "respuestaCorrecta": "Sentirse bien, estar sano y disfrutarlo",
+        "explicacion": "La motivación intrínseca (disfrutar) es la que mantiene el hábito a largo plazo."
+      },
+      {
+        "id": "p6ef-b5-09-v2",
+        "tema": "Deporte",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El deporte enseña valores que sirven en la escuela, el trabajo y la vida ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Disciplina, perseverancia, trabajo en equipo y respeto son valores universales del deporte."
+      },
+      {
+        "id": "p6ef-b5-10-v2",
+        "tema": "Transición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es tu compromiso al entrar a secundaria? ​",
+        "opciones": [
+          "Mantenerme activo/a, comer sano y cuidar mi salud",
+          "Dejar el ejercicio",
+          "Solo estudiar sin moverse",
+          "No me importa la salud"
+        ],
+        "respuestaCorrecta": "Mantenerme activo/a, comer sano y cuidar mi salud",
+        "explicacion": "El compromiso con la salud es para toda la vida. ¡La secundaria es el siguiente paso! 🚀"
+      }
+    ],
     "preview": [
       {
         "id": "p6ef-b5-01",

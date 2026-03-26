@@ -38,7 +38,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "El bullying puede ser físico, verbal, psicológico o cibernético (cyberbullying)."
       },
       {
@@ -58,7 +58,53 @@
         "visual": "📋"
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p2fc-b2-01-v2",
+        "tema": "Convivencia escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos hacer si alguien nos agrede en la escuela? ​",
+        "opciones": [
+          "Decírselo a un adulto de confianza",
+          "Devolver el golpe",
+          "Ignorarlo siempre",
+          "Huir"
+        ],
+        "respuestaCorrecta": "Decírselo a un adulto de confianza",
+        "explicacion": "Ante situaciones de agresión, busca ayuda de un maestro, director o familiar. No estás solo.",
+        "visual": "🏫"
+      },
+      {
+        "id": "p2fc-b2-02-v2",
+        "tema": "Bullying",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El bullying solo es físico ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "El bullying puede ser físico, verbal, psicológico o cibernético (cyberbullying)."
+      },
+      {
+        "id": "p2fc-b2-03-v2",
+        "tema": "Normas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Las normas escolares existen para: ​",
+        "opciones": [
+          "Garantizar un ambiente seguro",
+          "Castigar a los alumnos",
+          "Hacer la vida difícil",
+          "Controlarnos"
+        ],
+        "respuestaCorrecta": "Garantizar un ambiente seguro",
+        "explicacion": "Las normas escolares protegen a todos y crean un ambiente de aprendizaje positivo.",
+        "visual": "📋"
+      }
+    ],
     "preview": [
       {
         "id": "p2fc-b2-01",
@@ -86,7 +132,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "El bullying puede ser físico, verbal, psicológico o cibernético (cyberbullying)."
       }
     ]

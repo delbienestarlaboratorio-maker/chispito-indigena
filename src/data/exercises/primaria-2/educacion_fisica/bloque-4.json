@@ -36,7 +36,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El agua mantiene nuestro cuerpo funcionando y evita la deshidratación."
       },
       {
@@ -79,7 +79,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Las verduras tienen vitaminas y minerales esenciales para que el cuerpo crezca fuerte."
       },
       {
@@ -122,7 +122,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Los dulces dan energía rápida pero después nos sentimos más cansados. Mejor comer fruta."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "El descanso permite que el cuerpo repare los músculos y se fortalezca."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p2ef-b4-01-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos comer antes de hacer ejercicio? ​",
+        "opciones": [
+          "Algo ligero como fruta, 1 hora antes",
+          "Una comida enorme",
+          "Nada",
+          "Solo dulces"
+        ],
+        "respuestaCorrecta": "Algo ligero como fruta, 1 hora antes",
+        "explicacion": "Comer algo ligero 1 hora antes nos da energía sin sentirnos pesados."
+      },
+      {
+        "id": "p2ef-b4-02-v2",
+        "tema": "Hidratación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Debemos tomar agua antes, durante y después del ejercicio ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El agua mantiene nuestro cuerpo funcionando y evita la deshidratación."
+      },
+      {
+        "id": "p2ef-b4-03-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es un buen snack para después de hacer ejercicio? ​",
+        "opciones": [
+          "Un plátano o manzana",
+          "Papas fritas",
+          "Refresco grande",
+          "Paleta de hielo"
+        ],
+        "respuestaCorrecta": "Un plátano o manzana",
+        "explicacion": "La fruta nos da vitaminas, minerales y azúcares naturales para recuperarnos."
+      },
+      {
+        "id": "p2ef-b4-04-v2",
+        "tema": "Hidratación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo sabemos que nuestro cuerpo necesita agua? ​",
+        "opciones": [
+          "Cuando sentimos sed o la boca seca",
+          "Nunca",
+          "Solo cuando lloramos",
+          "Solo en la noche"
+        ],
+        "respuestaCorrecta": "Cuando sentimos sed o la boca seca",
+        "explicacion": "La sed es la señal de que el cuerpo necesita agua. Pero es mejor tomar agua aún sin sed."
+      },
+      {
+        "id": "p2ef-b4-05-v2",
+        "tema": "Nutrición",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las verduras nos ayudan a tener huesos y músculos fuertes ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Las verduras tienen vitaminas y minerales esenciales para que el cuerpo crezca fuerte."
+      },
+      {
+        "id": "p2ef-b4-06-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué grupo de alimentos nos da más energía rápida? ​",
+        "opciones": [
+          "Frutas y cereales",
+          "Solo carne",
+          "Solo agua",
+          "Solo leche"
+        ],
+        "respuestaCorrecta": "Frutas y cereales",
+        "explicacion": "Los carbohidratos de frutas y cereales son la fuente principal de energía para el ejercicio."
+      },
+      {
+        "id": "p2ef-b4-07-v2",
+        "tema": "Hidratación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué pasa si hacemos ejercicio sin tomar agua? ​",
+        "opciones": [
+          "Nos deshidratamos y nos sentimos mal",
+          "Nada",
+          "Nos hacemos más fuertes",
+          "Es mejor así"
+        ],
+        "respuestaCorrecta": "Nos deshidratamos y nos sentimos mal",
+        "explicacion": "Sin agua el cuerpo no puede regular su temperatura y nos cansamos más rápido."
+      },
+      {
+        "id": "p2ef-b4-08-v2",
+        "tema": "Nutrición",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Comer muchos dulces antes de hacer ejercicio es buena idea ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Los dulces dan energía rápida pero después nos sentimos más cansados. Mejor comer fruta."
+      },
+      {
+        "id": "p2ef-b4-09-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El Plato del Bien Comer nos enseña a: ​",
+        "opciones": [
+          "Comer de todos los grupos de alimentos",
+          "Comer solo un tipo de comida",
+          "No comer nunca",
+          "Comer solo dulces"
+        ],
+        "respuestaCorrecta": "Comer de todos los grupos de alimentos",
+        "explicacion": "El Plato del Bien Comer divide los alimentos en frutas/verduras, cereales y proteínas."
+      },
+      {
+        "id": "p2ef-b4-10-v2",
+        "tema": "Descanso",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué es importante descansar después de hacer ejercicio? ​",
+        "opciones": [
+          "Para que los músculos se recuperen y crezcan",
+          "Para nunca volver a hacer ejercicio",
+          "No tiene importancia",
+          "Para quedarse dormido todo el día"
+        ],
+        "respuestaCorrecta": "Para que los músculos se recuperen y crezcan",
+        "explicacion": "El descanso permite que el cuerpo repare los músculos y se fortalezca."
+      }
+    ],
     "preview": [
       {
         "id": "p2ef-b4-01",
@@ -183,7 +328,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El agua mantiene nuestro cuerpo funcionando y evita la deshidratación."
       }
     ]

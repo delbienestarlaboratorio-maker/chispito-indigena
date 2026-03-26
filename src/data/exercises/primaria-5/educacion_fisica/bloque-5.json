@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El contacto con la naturaleza reduce cortisol (hormona del estrés) y mejora el ánimo."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Un adulto debe saber dónde estamos y cuándo volveremos por seguridad."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El ciclismo fortalece el corazón, las piernas y es una forma de transporte ecológica."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "La salud integral requiere actividad física regular, alimentación balanceada y sueño suficiente."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p5ef-b5-01-v2",
+        "tema": "Senderismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el senderismo? ​",
+        "opciones": [
+          "Caminar por senderos naturales como montañas o bosques",
+          "Correr en pista",
+          "Nadar en alberca",
+          "Jugar en la cancha"
+        ],
+        "respuestaCorrecta": "Caminar por senderos naturales como montañas o bosques",
+        "explicacion": "El senderismo combina ejercicio con contacto con la naturaleza."
+      },
+      {
+        "id": "p5ef-b5-02-v2",
+        "tema": "Seguridad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos llevar siempre al hacer actividades al aire libre? ​",
+        "opciones": [
+          "Agua, protector solar y un botiquín básico",
+          "Solo el celular",
+          "Solo dulces",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Agua, protector solar y un botiquín básico",
+        "explicacion": "La hidratación, protección solar y primeros auxilios son esenciales en actividades al aire libre."
+      },
+      {
+        "id": "p5ef-b5-03-v2",
+        "tema": "Naturaleza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las actividades al aire libre mejoran la salud mental y reducen el estrés ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El contacto con la naturaleza reduce cortisol (hormona del estrés) y mejora el ánimo."
+      },
+      {
+        "id": "p5ef-b5-04-v2",
+        "tema": "Campismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué principio debemos seguir al acampar en la naturaleza? ​",
+        "opciones": [
+          "No dejar rastro: llevarse toda la basura",
+          "Tirar basura donde sea",
+          "Cortar árboles libremente",
+          "Hacer fogatas sin control"
+        ],
+        "respuestaCorrecta": "No dejar rastro: llevarse toda la basura",
+        "explicacion": "El principio \"Leave No Trace\" protege el medio ambiente para futuras generaciones."
+      },
+      {
+        "id": "p5ef-b5-05-v2",
+        "tema": "Recreación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estas es una actividad recreativa al aire libre? ​",
+        "opciones": [
+          "Todas: ciclismo, excursionismo, natación en río",
+          "Solo ver televisión",
+          "Solo usar el celular",
+          "Solo jugar videojuegos"
+        ],
+        "respuestaCorrecta": "Todas: ciclismo, excursionismo, natación en río",
+        "explicacion": "Las actividades recreativas al aire libre son variadas y benefician la salud integral."
+      },
+      {
+        "id": "p5ef-b5-06-v2",
+        "tema": "Seguridad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Es importante avisar a un adulto antes de salir a hacer actividades en la naturaleza ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Un adulto debe saber dónde estamos y cuándo volveremos por seguridad."
+      },
+      {
+        "id": "p5ef-b5-07-v2",
+        "tema": "Vida sana",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el beneficio más importante de una vida físicamente activa? ​",
+        "opciones": [
+          "Prevenir enfermedades y tener mejor calidad de vida",
+          "Solo verse bien",
+          "Solo ganar competencias",
+          "Solo bajar de peso"
+        ],
+        "respuestaCorrecta": "Prevenir enfermedades y tener mejor calidad de vida",
+        "explicacion": "La actividad física regular previene obesidad, diabetes, enfermedades del corazón y mejora la salud mental."
+      },
+      {
+        "id": "p5ef-b5-08-v2",
+        "tema": "Naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos si nos encontramos un animal silvestre? ​",
+        "opciones": [
+          "Observarlo a distancia sin molestarlo",
+          "Correr hacia él",
+          "Intentar tocarlo",
+          "Darle comida humana"
+        ],
+        "respuestaCorrecta": "Observarlo a distancia sin molestarlo",
+        "explicacion": "Los animales silvestres deben ser respetados y observados sin interferir."
+      },
+      {
+        "id": "p5ef-b5-09-v2",
+        "tema": "Recreación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Andar en bicicleta es una excelente forma de ejercicio cardiovascular ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El ciclismo fortalece el corazón, las piernas y es una forma de transporte ecológica."
+      },
+      {
+        "id": "p5ef-b5-10-v2",
+        "tema": "Vida sana",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los 3 pilares de una vida saludable? ​",
+        "opciones": [
+          "Ejercicio, nutrición y descanso",
+          "Solo dieta",
+          "Solo ejercicio",
+          "Solo descanso"
+        ],
+        "respuestaCorrecta": "Ejercicio, nutrición y descanso",
+        "explicacion": "La salud integral requiere actividad física regular, alimentación balanceada y sueño suficiente."
+      }
+    ],
     "preview": [
       {
         "id": "p5ef-b5-01",

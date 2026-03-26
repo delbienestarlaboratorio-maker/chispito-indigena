@@ -1,66 +1,114 @@
 {
-    "grado": "secundaria-3",
-    "materia": "matematicas",
-    "bloque": 6,
-    "nombre": "Funciones y futuro (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Funciones cuadráticas en LSM",
-        "Probabilidad avanzada y combinatoria",
-        "Notación científica",
-        "Matemáticas y tecnología asistiva"
+  "grado": "secundaria-3",
+  "materia": "matematicas",
+  "bloque": 6,
+  "nombre": "Funciones y futuro (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Funciones cuadráticas en LSM",
+    "Probabilidad avanzada y combinatoria",
+    "Notación científica",
+    "Matemáticas y tecnología asistiva"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s3-mat-b6-v1-001",
+        "tema": "Funciones cuadráticas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se representa una PARÁBOLA (función cuadrática) en LSM?",
+        "opciones": [
+          "La mano dominante traza la curva de la parábola en el espacio (forma de U o U invertida), y los dedos de la otra mano señalan el vértice (punto más alto o más bajo). La apertura de la curva indica el coeficiente.",
+          "Se dibuja un círculo con ambas manos.",
+          "Se señala hacia arriba con un dedo."
+        ],
+        "respuestaCorrecta": "La mano dominante traza la curva de la parábola en el espacio (forma de U o U invertida), y los dedos de la otra mano señalan el vértice (punto más alto o más bajo). La apertura de la curva indica el coeficiente.",
+        "explicacion": "¡Exacto! La parábola se TRAZA en el aire. U = abre hacia arriba (coeficiente positivo). U invertida = abre hacia abajo (negativo). La mano pasiva marca el vértice. ¡Es geometría analítica esculpida en el espacio! 📉📈"
+      },
+      {
+        "id": "s3-mat-b6-v1-002",
+        "tema": "Notación científica",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La notación científica en LSM se expresa señando el número base, luego la seña de MULTIPLICAR, la seña DIEZ, y finalmente el exponente señalado ligeramente arriba del nivel normal (como un superíndice visual). Ejemplo: 3 × 10⁵ = TRES + POR + DIEZ + CINCO(arriba).",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! El superíndice se convierte en un NIVEL ESPACIAL: el exponente se señala más arriba que la línea base. La verticalidad del espacio de señas permite distinguir entre 10⁵ (diez a la quinta) y 10×5 (diez por cinco). ¡Brillante! 🔬"
+      },
+      {
+        "id": "s3-mat-b6-v1-003",
+        "tema": "Probabilidad",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para expresar 'COMBINACIÓN' en LSM (como en combinatoria matemática), las manos entrelazan dedos de múltiples formas, representando las diferentes ___ posibles de agrupar elementos.",
+        "respuestaCorrecta": "maneras",
+        "explicacion": "¡Correcto! COMBINACIÓN = manos entrelazándose de múltiples formas, cada forma es un arreglo posible. PERMUTACIÓN agrega ORDEN: los dedos se alinean en secuencia. La LSM hace tangible la matemática abstracta. 🎰"
+      },
+      {
+        "id": "s3-mat-b6-v1-004",
+        "tema": "Tecnología asistiva",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué herramienta tecnológica permite a personas sordas acceder a clases de matemáticas en línea?",
+        "opciones": [
+          "Las plataformas con videointerpretación en LSM en tiempo real, combinadas con pizarras digitales compartidas donde el profesor y el alumno sordo pueden escribir ecuaciones mientras un intérprete traduce las explicaciones.",
+          "Solo los audífonos bluetooth.",
+          "No existe tecnología para esto."
+        ],
+        "respuestaCorrecta": "Las plataformas con videointerpretación en LSM en tiempo real, combinadas con pizarras digitales compartidas donde el profesor y el alumno sordo pueden escribir ecuaciones mientras un intérprete traduce las explicaciones.",
+        "explicacion": "¡Perfecto! La educación matemática inclusiva ya es posible: Zoom/Meet con intérprete + pizarra digital + chat de texto = clase accesible. Chispito.mx es parte de este ecosistema de accesibilidad. 💻🤟"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "s3-mat-b6-v1-001",
-                "tema": "Funciones cuadráticas",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se representa una PARÁBOLA (función cuadrática) en LSM?",
-                "opciones": [
-                    "La mano dominante traza la curva de la parábola en el espacio (forma de U o U invertida), y los dedos de la otra mano señalan el vértice (punto más alto o más bajo). La apertura de la curva indica el coeficiente.",
-                    "Se dibuja un círculo con ambas manos.",
-                    "Se señala hacia arriba con un dedo."
-                ],
-                "respuestaCorrecta": "La mano dominante traza la curva de la parábola en el espacio (forma de U o U invertida), y los dedos de la otra mano señalan el vértice (punto más alto o más bajo). La apertura de la curva indica el coeficiente.",
-                "explicacion": "¡Exacto! La parábola se TRAZA en el aire. U = abre hacia arriba (coeficiente positivo). U invertida = abre hacia abajo (negativo). La mano pasiva marca el vértice. ¡Es geometría analítica esculpida en el espacio! 📉📈"
-            },
-            {
-                "id": "s3-mat-b6-v1-002",
-                "tema": "Notación científica",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "La notación científica en LSM se expresa señando el número base, luego la seña de MULTIPLICAR, la seña DIEZ, y finalmente el exponente señalado ligeramente arriba del nivel normal (como un superíndice visual). Ejemplo: 3 × 10⁵ = TRES + POR + DIEZ + CINCO(arriba).",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! El superíndice se convierte en un NIVEL ESPACIAL: el exponente se señala más arriba que la línea base. La verticalidad del espacio de señas permite distinguir entre 10⁵ (diez a la quinta) y 10×5 (diez por cinco). ¡Brillante! 🔬"
-            },
-            {
-                "id": "s3-mat-b6-v1-003",
-                "tema": "Probabilidad",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para expresar 'COMBINACIÓN' en LSM (como en combinatoria matemática), las manos entrelazan dedos de múltiples formas, representando las diferentes ___ posibles de agrupar elementos.",
-                "respuestaCorrecta": "maneras",
-                "explicacion": "¡Correcto! COMBINACIÓN = manos entrelazándose de múltiples formas, cada forma es un arreglo posible. PERMUTACIÓN agrega ORDEN: los dedos se alinean en secuencia. La LSM hace tangible la matemática abstracta. 🎰"
-            },
-            {
-                "id": "s3-mat-b6-v1-004",
-                "tema": "Tecnología asistiva",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué herramienta tecnológica permite a personas sordas acceder a clases de matemáticas en línea?",
-                "opciones": [
-                    "Las plataformas con videointerpretación en LSM en tiempo real, combinadas con pizarras digitales compartidas donde el profesor y el alumno sordo pueden escribir ecuaciones mientras un intérprete traduce las explicaciones.",
-                    "Solo los audífonos bluetooth.",
-                    "No existe tecnología para esto."
-                ],
-                "respuestaCorrecta": "Las plataformas con videointerpretación en LSM en tiempo real, combinadas con pizarras digitales compartidas donde el profesor y el alumno sordo pueden escribir ecuaciones mientras un intérprete traduce las explicaciones.",
-                "explicacion": "¡Perfecto! La educación matemática inclusiva ya es posible: Zoom/Meet con intérprete + pizarra digital + chat de texto = clase accesible. Chispito.mx es parte de este ecosistema de accesibilidad. 💻🤟"
-            }
-        ]
-    },
-    "generado": "2026-03-10T20:05:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "s3-mat-b6-v1-001-v2",
+        "tema": "Funciones cuadráticas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se representa una PARÁBOLA (función cuadrática) en LSM? ​",
+        "opciones": [
+          "La mano dominante traza la curva de la parábola en el espacio (forma de U o U invertida), y los dedos de la otra mano señalan el vértice (punto más alto o más bajo). La apertura de la curva indica el coeficiente.",
+          "Se dibuja un círculo con ambas manos.",
+          "Se señala hacia arriba con un dedo."
+        ],
+        "respuestaCorrecta": "La mano dominante traza la curva de la parábola en el espacio (forma de U o U invertida), y los dedos de la otra mano señalan el vértice (punto más alto o más bajo). La apertura de la curva indica el coeficiente.",
+        "explicacion": "¡Exacto! La parábola se TRAZA en el aire. U = abre hacia arriba (coeficiente positivo). U invertida = abre hacia abajo (negativo). La mano pasiva marca el vértice. ¡Es geometría analítica esculpida en el espacio! 📉📈"
+      },
+      {
+        "id": "s3-mat-b6-v1-002-v2",
+        "tema": "Notación científica",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La notación científica en LSM se expresa señando el número base, luego la seña de MULTIPLICAR, la seña DIEZ, y finalmente el exponente señalado ligeramente arriba del nivel normal (como un superíndice visual). Ejemplo: 3 × 10⁵ = TRES + POR + DIEZ + CINCO(arriba). ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! El superíndice se convierte en un NIVEL ESPACIAL: el exponente se señala más arriba que la línea base. La verticalidad del espacio de señas permite distinguir entre 10⁵ (diez a la quinta) y 10×5 (diez por cinco). ¡Brillante! 🔬"
+      },
+      {
+        "id": "s3-mat-b6-v1-003-v2",
+        "tema": "Probabilidad",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para expresar 'COMBINACIÓN' en LSM (como en combinatoria matemática), las manos entrelazan dedos de múltiples formas, representando las diferentes ___ posibles de agrupar elementos. ​",
+        "respuestaCorrecta": "maneras",
+        "explicacion": "¡Correcto! COMBINACIÓN = manos entrelazándose de múltiples formas, cada forma es un arreglo posible. PERMUTACIÓN agrega ORDEN: los dedos se alinean en secuencia. La LSM hace tangible la matemática abstracta. 🎰"
+      },
+      {
+        "id": "s3-mat-b6-v1-004-v2",
+        "tema": "Tecnología asistiva",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué herramienta tecnológica permite a personas sordas acceder a clases de matemáticas en línea? ​",
+        "opciones": [
+          "Las plataformas con videointerpretación en LSM en tiempo real, combinadas con pizarras digitales compartidas donde el profesor y el alumno sordo pueden escribir ecuaciones mientras un intérprete traduce las explicaciones.",
+          "Solo los audífonos bluetooth.",
+          "No existe tecnología para esto."
+        ],
+        "respuestaCorrecta": "Las plataformas con videointerpretación en LSM en tiempo real, combinadas con pizarras digitales compartidas donde el profesor y el alumno sordo pueden escribir ecuaciones mientras un intérprete traduce las explicaciones.",
+        "explicacion": "¡Perfecto! La educación matemática inclusiva ya es posible: Zoom/Meet con intérprete + pizarra digital + chat de texto = clase accesible. Chispito.mx es parte de este ecosistema de accesibilidad. 💻🤟"
+      }
+    ]
+  },
+  "generado": "2026-03-10T20:05:00.000Z",
+  "version": "3.0"
 }

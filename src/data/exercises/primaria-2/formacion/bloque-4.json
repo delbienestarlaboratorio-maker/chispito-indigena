@@ -54,11 +54,57 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Ahorra energía eléctrica, que suele producirse quemando combustibles que contaminan."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p2fc-b4-01-v2",
+        "tema": "Ecosistemas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un ecosistema? ​",
+        "opciones": [
+          "Conjunto de seres vivos y su entorno",
+          "Solo los animales",
+          "Solo las plantas",
+          "Solo el agua"
+        ],
+        "respuestaCorrecta": "Conjunto de seres vivos y su entorno",
+        "explicacion": "Un ecosistema incluye animales, plantas, suelo, agua y clima que interactúan entre sí.",
+        "visual": "🌳"
+      },
+      {
+        "id": "p2fc-b4-02-v2",
+        "tema": "Reciclaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los colores del reciclaje básico? ​",
+        "opciones": [
+          "Verde, amarillo y azul",
+          "Rojo, negro y blanco",
+          "Rosa y gris",
+          "Solo azul"
+        ],
+        "respuestaCorrecta": "Verde, amarillo y azul",
+        "explicacion": "Verde=vidrio, amarillo=plástico/latas, azul=papel. ¡Separar basura ayuda al planeta!",
+        "visual": "♻️"
+      },
+      {
+        "id": "p2fc-b4-03-v2",
+        "tema": "Acciones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Apagar la luz cuando salimos de un cuarto ayuda al medio ambiente ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Ahorra energía eléctrica, que suele producirse quemando combustibles que contaminan."
+      }
+    ],
     "preview": [
       {
         "id": "p2fc-b4-01",

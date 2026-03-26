@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Los instrumentos de percusión producen sonido al ser golpeados: tambor, maracas, xilófono."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El arco frota las cuerdas del violín para producir sonido."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El compás más común es 4/4: cuatro tiempos por compás."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "La armonía son acordes (varias notas simultáneas) que acompañan la melodía."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s1art-b3-01-v2",
+        "tema": "Melodía",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la melodía? ​",
+        "opciones": [
+          "Sucesión de notas musicales que forman una canción",
+          "El volumen",
+          "Solo el ritmo",
+          "Los instrumentos"
+        ],
+        "respuestaCorrecta": "Sucesión de notas musicales que forman una canción",
+        "explicacion": "La melodía es la parte que reconocemos y podemos tararear de una canción."
+      },
+      {
+        "id": "s1art-b3-02-v2",
+        "tema": "Instrumentos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿A qué familia pertenece la guitarra? ​",
+        "opciones": [
+          "Cuerdas",
+          "Vientos",
+          "Percusión",
+          "Electrónica"
+        ],
+        "respuestaCorrecta": "Cuerdas",
+        "explicacion": "La guitarra produce sonido vibrando sus 6 cuerdas."
+      },
+      {
+        "id": "s1art-b3-03-v2",
+        "tema": "Percusión",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un tambor es un instrumento de percusión ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Los instrumentos de percusión producen sonido al ser golpeados: tambor, maracas, xilófono."
+      },
+      {
+        "id": "s1art-b3-04-v2",
+        "tema": "Escala",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas notas tiene la escala musical básica? ​",
+        "opciones": [
+          "7: Do, Re, Mi, Fa, Sol, La, Si",
+          "5",
+          "10",
+          "12"
+        ],
+        "respuestaCorrecta": "7: Do, Re, Mi, Fa, Sol, La, Si",
+        "explicacion": "La escala diatónica tiene 7 notas naturales."
+      },
+      {
+        "id": "s1art-b3-05-v2",
+        "tema": "Instrumentos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La flauta es un instrumento de: ​",
+        "opciones": [
+          "Viento",
+          "Cuerda",
+          "Percusión",
+          "Teclado"
+        ],
+        "respuestaCorrecta": "Viento",
+        "explicacion": "Los instrumentos de viento producen sonido por el aire que pasa a través de ellos."
+      },
+      {
+        "id": "s1art-b3-06-v2",
+        "tema": "Instrumentos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El violín se toca con un arco ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El arco frota las cuerdas del violín para producir sonido."
+      },
+      {
+        "id": "s1art-b3-07-v2",
+        "tema": "Ritmo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el tempo en música? ​",
+        "opciones": [
+          "La velocidad a la que se interpreta la música",
+          "El volumen",
+          "La melodía principal",
+          "El nombre de la canción"
+        ],
+        "respuestaCorrecta": "La velocidad a la que se interpreta la música",
+        "explicacion": "Allegro = rápido, Adagio = lento, Andante = moderado."
+      },
+      {
+        "id": "s1art-b3-08-v2",
+        "tema": "Instrumentos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué instrumento de percusión es tradicional de Chiapas? ​",
+        "opciones": [
+          "La marimba",
+          "El violín",
+          "La guitarra",
+          "La trompeta"
+        ],
+        "respuestaCorrecta": "La marimba",
+        "explicacion": "La marimba es un instrumento de percusión emblemático de Chiapas y Oaxaca."
+      },
+      {
+        "id": "s1art-b3-09-v2",
+        "tema": "Ritmo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El compás organiza la música en grupos regulares de tiempos ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El compás más común es 4/4: cuatro tiempos por compás."
+      },
+      {
+        "id": "s1art-b3-10-v2",
+        "tema": "Música",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la armonía en música? ​",
+        "opciones": [
+          "La combinación de notas que suenan al mismo tiempo",
+          "Solo tocar fuerte",
+          "Solo la letra",
+          "El nombre del grupo"
+        ],
+        "respuestaCorrecta": "La combinación de notas que suenan al mismo tiempo",
+        "explicacion": "La armonía son acordes (varias notas simultáneas) que acompañan la melodía."
+      }
+    ],
     "preview": [
       {
         "id": "s1art-b3-01",

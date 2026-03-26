@@ -8,339 +8,76 @@
     "Problemas mixtos",
     "Estimación"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "primaria-4-matematicas-b6-001",
         "tema": "Problemas mixtos",
         "tipo": "multiple_choice",
-        "pregunta": "Problema de Problemas mixtos: ¿Cuál opción es correcta?",
-        "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Problemas mixtos.",
         "nivel": "v1",
-        "respuestaCorrecta": "Opción A"
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "opciones": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
       },
       {
         "id": "primaria-4-matematicas-b6-002",
         "tema": "Problemas mixtos",
-        "tipo": "fill_blank",
-        "pregunta": "Completa: ___ es la clave en Problemas mixtos",
-        "explicacion": "En Problemas mixtos siempre debemos aplicar el método correcto.",
+        "tipo": "true_false",
         "nivel": "v1",
-        "respuestaCorrecta": "Correcto"
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       },
       {
         "id": "primaria-4-matematicas-b6-003",
         "tema": "Problemas mixtos",
-        "tipo": "true_false",
-        "pregunta": "Problemas mixtos es parte de las matemáticas de 4° Primaria",
-        "explicacion": "Sí, Problemas mixtos es un tema central en este grado.",
-        "nivel": "v1",
-        "respuestaCorrecta": "true"
-      },
-      {
-        "id": "primaria-4-matematicas-b6-extra-007",
-        "tema": "Problemas mixtos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el resultado de 234 × 3?",
-        "opciones": [
-          "602",
-          "702",
-          "712",
-          "642"
-        ],
-        "respuestaCorrecta": "702",
-        "explicacion": "234×3: 4×3=12(llevo 1), 3×3+1=10(llevo 1), 2×3+1=7. Resultado: 702."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-extra-009",
-        "tema": "Problemas mixtos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El perímetro de un cuadrado de lado 6cm es:",
-        "opciones": [
-          "12 cm",
-          "18 cm",
-          "24 cm",
-          "36 cm"
-        ],
-        "respuestaCorrecta": "24 cm",
-        "explicacion": "Perímetro = 4 × lado = 4 × 6 = 24 cm.",
-        "ejemplo": "Ejemplo: Cuadrado de lado 5 cm\nPerímetro = 4 × 5 = 20 cm.\n(Suma todos los lados)"
-      },
-      {
-        "id": "primaria-4-matematicas-b6-extra-011",
-        "tema": "Problemas mixtos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "25% de 200 = ___",
-        "respuestaCorrecta": "50",
-        "explicacion": "25% = 1/4. Un cuarto de 200 = 200÷4 = 50."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-extra-013",
-        "tema": "Problemas mixtos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si un rectángulo mide 8 de base y 5 de altura, su área es:",
-        "opciones": [
-          "26 cm²",
-          "40 cm²",
-          "13 cm²",
-          "52 cm²"
-        ],
-        "respuestaCorrecta": "40 cm²",
-        "explicacion": "Área = base × altura = 8 × 5 = 40 cm².",
-        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-014",
-        "tema": "Problemas mixtos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-015",
-        "tema": "Estimación",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-016",
-        "tema": "Problemas mixtos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-017",
-        "tema": "Estimación",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-018",
-        "tema": "Problemas mixtos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-019",
-        "tema": "Estimación",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-020",
-        "tema": "Problemas mixtos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-021",
-        "tema": "Estimación",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000."
+        "pregunta": "El resultado de una suma se llama ___",
+        "respuestaCorrecta": "total",
+        "explicacion": "También se le conoce como suma o adición."
       }
     ],
     "v2": [
       {
-        "id": "primaria-4-matematicas-b6-004",
+        "id": "primaria-4-matematicas-b6-v2-001",
         "tema": "Estimación",
         "tipo": "multiple_choice",
-        "pregunta": "Problema de Problemas mixtos: ¿Cuál opción es correcta?",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
         "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Problemas mixtos.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Opción A"
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
-        "id": "primaria-4-matematicas-b6-005",
-        "tema": "Estimación",
-        "tipo": "fill_blank",
-        "pregunta": "Completa: ___ es la clave en Problemas mixtos",
-        "explicacion": "En Problemas mixtos siempre debemos aplicar el método correcto.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Correcto"
-      },
-      {
-        "id": "primaria-4-matematicas-b6-006",
-        "tema": "Estimación",
-        "tipo": "true_false",
-        "pregunta": "Problemas mixtos es parte de las matemáticas de 4° Primaria",
-        "explicacion": "Sí, Problemas mixtos es un tema central en este grado.",
-        "nivel": "v2",
-        "respuestaCorrecta": "true"
-      },
-      {
-        "id": "primaria-4-matematicas-b6-extra-008",
-        "tema": "Estimación",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3/4 + 1/4 = ___",
-        "respuestaCorrecta": "1",
-        "explicacion": "3/4 + 1/4 = 4/4 = 1 entero."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-extra-010",
+        "id": "primaria-4-matematicas-b6-v2-002",
         "tema": "Estimación",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "0.7 > 0.5",
+        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
         "respuestaCorrecta": "true",
-        "explicacion": "0.7 tiene 7 décimas y 0.5 tiene 5. 7 > 5, entonces 0.7 > 0.5."
+        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
       },
       {
-        "id": "primaria-4-matematicas-b6-extra-012",
-        "tema": "Estimación",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuánto es 12² (doce al cuadrado)?",
-        "opciones": [
-          "24",
-          "144",
-          "121",
-          "169"
-        ],
-        "respuestaCorrecta": "144",
-        "explicacion": "12² = 12 × 12 = 144."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-014",
-        "tema": "Problemas mixtos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-015",
+        "id": "primaria-4-matematicas-b6-v2-003",
         "tema": "Estimación",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-016",
-        "tema": "Problemas mixtos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-017",
-        "tema": "Estimación",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-018",
-        "tema": "Problemas mixtos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-019",
-        "tema": "Estimación",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40."
-      },
-      {
-        "id": "primaria-4-matematicas-b6-x-020",
-        "tema": "Problemas mixtos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6."
+        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
+        "respuestaCorrecta": "recto",
+        "explicacion": "Un ángulo recto forma una L perfecta."
       }
     ],
     "preview": [
@@ -348,43 +85,43 @@
         "id": "primaria-4-matematicas-b6-001",
         "tema": "Problemas mixtos",
         "tipo": "multiple_choice",
-        "pregunta": "Problema de Problemas mixtos: ¿Cuál opción es correcta?",
-        "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Problemas mixtos.",
         "nivel": "v1",
-        "respuestaCorrecta": "Opción A"
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "opciones": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
+      },
+      {
+        "id": "primaria-4-matematicas-b6-v2-001",
+        "tema": "Estimación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
         "id": "primaria-4-matematicas-b6-002",
         "tema": "Problemas mixtos",
-        "tipo": "fill_blank",
-        "pregunta": "Completa: ___ es la clave en Problemas mixtos",
-        "explicacion": "En Problemas mixtos siempre debemos aplicar el método correcto.",
+        "tipo": "true_false",
         "nivel": "v1",
-        "respuestaCorrecta": "Correcto"
-      },
-      {
-        "id": "primaria-4-matematicas-b6-004",
-        "tema": "Estimación",
-        "tipo": "multiple_choice",
-        "pregunta": "Problema de Problemas mixtos: ¿Cuál opción es correcta?",
-        "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Problemas mixtos.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Opción A"
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       }
     ]
   },
-  "generado": "2026-02-27T16:06:30.392Z",
+  "generado": "2026-03-26T03:09:52.331Z",
   "version": "2.0"
 }

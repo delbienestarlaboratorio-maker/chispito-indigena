@@ -1,66 +1,114 @@
 {
-    "grado": "primaria-4",
-    "materia": "historia",
-    "bloque": 7,
-    "nombre": "México en mis manos (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Culturas prehispánicas en LSM",
-        "La Independencia de México",
-        "Patrimonio cultural y tradiciones",
-        "Héroes nacionales: sus nombres en deletreo"
+  "grado": "primaria-4",
+  "materia": "historia",
+  "bloque": 7,
+  "nombre": "México en mis manos (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Culturas prehispánicas en LSM",
+    "La Independencia de México",
+    "Patrimonio cultural y tradiciones",
+    "Héroes nacionales: sus nombres en deletreo"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p4-his-b7-v1-001",
+        "tema": "Culturas prehispánicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "La palabra 'AZTECA' o 'MEXICA' tiene una seña propia en LSM que hace referencia a su símbolo principal. ¿Cuál es?",
+        "opciones": [
+          "Se forma un águila con las manos: una mano como cuerpo y la otra como alas extendidas, evocando el águila del escudo nacional.",
+          "Se dibuja una pirámide con los dedos índices.",
+          "Se hace la letra M cerca del corazón."
+        ],
+        "respuestaCorrecta": "Se forma un águila con las manos: una mano como cuerpo y la otra como alas extendidas, evocando el águila del escudo nacional.",
+        "explicacion": "¡Exacto! La seña de 'Mexica/Azteca' evoca al águila devorando la serpiente sobre el nopal, el símbolo fundacional de México-Tenochtitlan. 🦅"
+      },
+      {
+        "id": "p4-his-b7-v1-002",
+        "tema": "La Independencia de México",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En LSM, para referirse al 'Grito de Independencia', se usa la seña de 'GRITAR' (mano en forma de cono frente a la boca) seguida de la seña de 'LIBRE' (manos cruzadas rompiéndose como cadenas).",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Es una seña compuesta bellísima: GRITO + LIBERTAD. Las señas compuestas en LSM cuentan historias completas. Las muñecas cruzadas que se separan representan romper las cadenas de la esclavitud. 🇲🇽"
+      },
+      {
+        "id": "p4-his-b7-v1-003",
+        "tema": "Patrimonio cultural",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para la seña de 'TRADICIÓN' o 'COSTUMBRE', las manos se mueven repetidamente en la misma dirección, indicando algo que se ___ generación tras generación.",
+        "respuestaCorrecta": "repite",
+        "explicacion": "¡Así es! El movimiento repetitivo transmite continuidad y herencia cultural. Si algo se repite de padres a hijos, es una tradición. 🎎"
+      },
+      {
+        "id": "p4-his-b7-v1-004",
+        "tema": "Héroes nacionales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando un personaje histórico no tiene una seña asignada en LSM, ¿cómo nos referimos a él?",
+        "opciones": [
+          "Usamos el deletreo manual (dactilología): cada letra de su nombre se forma con una configuración de la mano.",
+          "Inventamos una seña nueva cada vez.",
+          "No podemos referirnos a personas sin seña; simplemente las ignoramos."
+        ],
+        "respuestaCorrecta": "Usamos el deletreo manual (dactilología): cada letra de su nombre se forma con una configuración de la mano.",
+        "explicacion": "¡Correcto! La dactilología es el 'puente' entre el español escrito y la LSM. Permite deletrear cualquier nombre propio: H-I-D-A-L-G-O. ¡Es la herramienta de emergencia! 🔤"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "p4-his-b7-v1-001",
-                "tema": "Culturas prehispánicas",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "La palabra 'AZTECA' o 'MEXICA' tiene una seña propia en LSM que hace referencia a su símbolo principal. ¿Cuál es?",
-                "opciones": [
-                    "Se forma un águila con las manos: una mano como cuerpo y la otra como alas extendidas, evocando el águila del escudo nacional.",
-                    "Se dibuja una pirámide con los dedos índices.",
-                    "Se hace la letra M cerca del corazón."
-                ],
-                "respuestaCorrecta": "Se forma un águila con las manos: una mano como cuerpo y la otra como alas extendidas, evocando el águila del escudo nacional.",
-                "explicacion": "¡Exacto! La seña de 'Mexica/Azteca' evoca al águila devorando la serpiente sobre el nopal, el símbolo fundacional de México-Tenochtitlan. 🦅"
-            },
-            {
-                "id": "p4-his-b7-v1-002",
-                "tema": "La Independencia de México",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "En LSM, para referirse al 'Grito de Independencia', se usa la seña de 'GRITAR' (mano en forma de cono frente a la boca) seguida de la seña de 'LIBRE' (manos cruzadas rompiéndose como cadenas).",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! Es una seña compuesta bellísima: GRITO + LIBERTAD. Las señas compuestas en LSM cuentan historias completas. Las muñecas cruzadas que se separan representan romper las cadenas de la esclavitud. 🇲🇽"
-            },
-            {
-                "id": "p4-his-b7-v1-003",
-                "tema": "Patrimonio cultural",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para la seña de 'TRADICIÓN' o 'COSTUMBRE', las manos se mueven repetidamente en la misma dirección, indicando algo que se ___ generación tras generación.",
-                "respuestaCorrecta": "repite",
-                "explicacion": "¡Así es! El movimiento repetitivo transmite continuidad y herencia cultural. Si algo se repite de padres a hijos, es una tradición. 🎎"
-            },
-            {
-                "id": "p4-his-b7-v1-004",
-                "tema": "Héroes nacionales",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "Cuando un personaje histórico no tiene una seña asignada en LSM, ¿cómo nos referimos a él?",
-                "opciones": [
-                    "Usamos el deletreo manual (dactilología): cada letra de su nombre se forma con una configuración de la mano.",
-                    "Inventamos una seña nueva cada vez.",
-                    "No podemos referirnos a personas sin seña; simplemente las ignoramos."
-                ],
-                "respuestaCorrecta": "Usamos el deletreo manual (dactilología): cada letra de su nombre se forma con una configuración de la mano.",
-                "explicacion": "¡Correcto! La dactilología es el 'puente' entre el español escrito y la LSM. Permite deletrear cualquier nombre propio: H-I-D-A-L-G-O. ¡Es la herramienta de emergencia! 🔤"
-            }
-        ]
-    },
-    "generado": "2026-03-10T19:10:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "p4-his-b7-v1-001-v2",
+        "tema": "Culturas prehispánicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "La palabra 'AZTECA' o 'MEXICA' tiene una seña propia en LSM que hace referencia a su símbolo principal. ¿Cuál es? ​",
+        "opciones": [
+          "Se forma un águila con las manos: una mano como cuerpo y la otra como alas extendidas, evocando el águila del escudo nacional.",
+          "Se dibuja una pirámide con los dedos índices.",
+          "Se hace la letra M cerca del corazón."
+        ],
+        "respuestaCorrecta": "Se forma un águila con las manos: una mano como cuerpo y la otra como alas extendidas, evocando el águila del escudo nacional.",
+        "explicacion": "¡Exacto! La seña de 'Mexica/Azteca' evoca al águila devorando la serpiente sobre el nopal, el símbolo fundacional de México-Tenochtitlan. 🦅"
+      },
+      {
+        "id": "p4-his-b7-v1-002-v2",
+        "tema": "La Independencia de México",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En LSM, para referirse al 'Grito de Independencia', se usa la seña de 'GRITAR' (mano en forma de cono frente a la boca) seguida de la seña de 'LIBRE' (manos cruzadas rompiéndose como cadenas). ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Es una seña compuesta bellísima: GRITO + LIBERTAD. Las señas compuestas en LSM cuentan historias completas. Las muñecas cruzadas que se separan representan romper las cadenas de la esclavitud. 🇲🇽"
+      },
+      {
+        "id": "p4-his-b7-v1-003-v2",
+        "tema": "Patrimonio cultural",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para la seña de 'TRADICIÓN' o 'COSTUMBRE', las manos se mueven repetidamente en la misma dirección, indicando algo que se ___ generación tras generación. ​",
+        "respuestaCorrecta": "repite",
+        "explicacion": "¡Así es! El movimiento repetitivo transmite continuidad y herencia cultural. Si algo se repite de padres a hijos, es una tradición. 🎎"
+      },
+      {
+        "id": "p4-his-b7-v1-004-v2",
+        "tema": "Héroes nacionales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Cuando un personaje histórico no tiene una seña asignada en LSM, ¿cómo nos referimos a él? ​",
+        "opciones": [
+          "Usamos el deletreo manual (dactilología): cada letra de su nombre se forma con una configuración de la mano.",
+          "Inventamos una seña nueva cada vez.",
+          "No podemos referirnos a personas sin seña; simplemente las ignoramos."
+        ],
+        "respuestaCorrecta": "Usamos el deletreo manual (dactilología): cada letra de su nombre se forma con una configuración de la mano.",
+        "explicacion": "¡Correcto! La dactilología es el 'puente' entre el español escrito y la LSM. Permite deletrear cualquier nombre propio: H-I-D-A-L-G-O. ¡Es la herramienta de emergencia! 🔤"
+      }
+    ]
+  },
+  "generado": "2026-03-10T19:10:00.000Z",
+  "version": "3.0"
 }

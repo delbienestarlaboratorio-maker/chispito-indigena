@@ -10,7 +10,7 @@
     "Orientación vocacional básica",
     "Mi comunidad y mi futuro"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,68 @@
         "tema": "Toma de decisiones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Toma de decisiones\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Toma",
-          "Se relaciona con el estudio de Toma de decisiones",
-          "Es un proceso que involucra Toma",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Toma de decisiones",
-        "explicacion": "💡 El Búho te ayuda: Toma de decisiones es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
       },
       {
         "id": "telesecundaria-3-humano_comunitario-b5-002",
         "tema": "Toma de decisiones",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Toma de decisiones\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Toma de decisiones\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       },
       {
         "id": "telesecundaria-3-humano_comunitario-b5-003",
         "tema": "Toma de decisiones",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El tema de ___ se estudia en este bloque de Telesecundaria",
-        "respuestaCorrecta": "Toma",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Toma de decisiones\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-004",
-        "tema": "Toma de decisiones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Toma de decisiones\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Toma de decisiones",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Toma de decisiones",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Toma de decisiones\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-005",
-        "tema": "Metas a corto y largo plazo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Metas a corto y largo plazo\"?",
-        "opciones": [
-          "Es un concepto fundamental de Metas",
-          "Se relaciona con el estudio de Metas a corto y largo plazo",
-          "Es un proceso que involucra Metas",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Metas a corto y largo plazo",
-        "explicacion": "💡 Hada te ayuda: Metas a corto y largo plazo es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-006",
-        "tema": "Metas a corto y largo plazo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Metas a corto y largo plazo\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Metas a corto y largo plazo\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-007",
-        "tema": "Metas a corto y largo plazo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Metas a corto y largo ___",
-        "respuestaCorrecta": "plazo",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Metas a corto y largo plazo\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-008",
-        "tema": "Metas a corto y largo plazo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Metas a corto y largo plazo\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Metas a corto y largo plazo",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Metas a corto y largo plazo",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"Metas a corto y largo plazo\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-009",
-        "tema": "Orientación vocacional básica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Orientación vocacional básica\"?",
-        "opciones": [
-          "Es un concepto fundamental de Orientación",
-          "Se relaciona con el estudio de Orientación vocacional básica",
-          "Es un proceso que involucra Orientación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Orientación vocacional básica",
-        "explicacion": "💡 El Búho te ayuda: Orientación vocacional básica es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-010",
-        "tema": "Orientación vocacional básica",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Orientación vocacional básica\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Orientación vocacional básica\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-011",
-        "tema": "Orientación vocacional básica",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Orientación vocacional ___",
-        "respuestaCorrecta": "básica",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Orientación vocacional básica\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-012",
-        "tema": "Orientación vocacional básica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Orientación vocacional básica\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Orientación vocacional básica",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Orientación vocacional básica",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Orientación vocacional básica\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-013",
-        "tema": "Mi comunidad y mi futuro",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En el tema de \"Mi comunidad y mi futuro\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de comunidad",
-          "Se relaciona con el estudio de Mi comunidad y mi futuro",
-          "Es un proceso que involucra comunidad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Mi comunidad y mi futuro",
-        "explicacion": "💡 El Búho te ayuda: Mi comunidad y mi futuro es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-014",
-        "tema": "Mi comunidad y mi futuro",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Mi comunidad y mi futuro\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Mi comunidad y mi futuro\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-015",
-        "tema": "Mi comunidad y mi futuro",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Mi comunidad y mi ___",
-        "respuestaCorrecta": "futuro",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Mi comunidad y mi futuro\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-016",
-        "tema": "Mi comunidad y mi futuro",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Mi comunidad y mi futuro\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Mi comunidad y mi futuro",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Mi comunidad y mi futuro",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Mi comunidad y mi futuro\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La capacidad de ponerse en el lugar de los demás y comprender sus sentimientos se llama ___",
+        "respuestaCorrecta": "empatía",
+        "explicacion": "La empatía es fundamental para la convivencia social."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-001",
-        "tema": "Toma de decisiones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Toma de decisiones\"?",
-        "opciones": [
-          "Es un concepto fundamental de Toma",
-          "Se relaciona con el estudio de Toma de decisiones",
-          "Es un proceso que involucra Toma",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Toma de decisiones",
-        "explicacion": "💡 Pipo te ayuda: Toma de decisiones es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-002",
-        "tema": "Toma de decisiones",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Toma de decisiones\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Toma de decisiones\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-003",
-        "tema": "Toma de decisiones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El tema de ___ se estudia en este bloque de Telesecundaria",
-        "respuestaCorrecta": "Toma",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Toma de decisiones\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-004",
-        "tema": "Metas a corto y largo plazo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Metas a corto y largo plazo\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Metas",
-          "Se relaciona con el estudio de Metas a corto y largo plazo",
-          "Es un proceso que involucra Metas",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Metas a corto y largo plazo",
-        "explicacion": "💡 Hada te ayuda: Metas a corto y largo plazo es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-005",
-        "tema": "Metas a corto y largo plazo",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Metas a corto y largo plazo\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Metas a corto y largo plazo\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-006",
-        "tema": "Metas a corto y largo plazo",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Metas a corto y largo ___",
-        "respuestaCorrecta": "plazo",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Metas a corto y largo plazo\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-007",
-        "tema": "Orientación vocacional básica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Orientación vocacional básica\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Orientación",
-          "Se relaciona con el estudio de Orientación vocacional básica",
-          "Es un proceso que involucra Orientación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Orientación vocacional básica",
-        "explicacion": "💡 Neptuno te ayuda: Orientación vocacional básica es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-008",
-        "tema": "Orientación vocacional básica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Orientación vocacional básica\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Orientación vocacional básica\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-009",
-        "tema": "Orientación vocacional básica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Orientación vocacional ___",
-        "respuestaCorrecta": "básica",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Orientación vocacional básica\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-010",
+        "id": "telesecundaria-3-humano_comunitario-b5-v2-001",
         "tema": "Mi comunidad y mi futuro",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Mi comunidad y mi futuro\"?",
+        "pregunta": "¿Qué es la \"separación de poderes\"?  ",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
         "opciones": [
-          "Es un concepto fundamental de comunidad",
-          "Se relaciona con el estudio de Mi comunidad y mi futuro",
-          "Es un proceso que involucra comunidad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Mi comunidad y mi futuro",
-        "explicacion": "💡 Neptuno te ayuda: Mi comunidad y mi futuro es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-011",
+        "id": "telesecundaria-3-humano_comunitario-b5-v2-002",
         "tema": "Mi comunidad y mi futuro",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Mi comunidad y mi futuro\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Mi comunidad y mi futuro\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "La cultura de la legalidad promueve que la gente decida cuáles reglas cumplir y cuáles ignorar  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La cultura de la legalidad implica conocer, respetar y cumplir las leyes por convicción."
       },
       {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-012",
+        "id": "telesecundaria-3-humano_comunitario-b5-v2-003",
         "tema": "Mi comunidad y mi futuro",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Mi comunidad y mi ___",
-        "respuestaCorrecta": "futuro",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Mi comunidad y mi futuro\" según el programa de estudios."
+        "pregunta": "El sistema de gobierno en el cual los ciudadanos eligen a sus representantes es una ___  ",
+        "respuestaCorrecta": "democracia",
+        "explicacion": "Proviene del griego \"demos\" (pueblo) y \"kratos\" (poder)."
       }
     ],
     "preview": [
@@ -346,43 +88,42 @@
         "tema": "Toma de decisiones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Toma de decisiones\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Toma",
-          "Se relaciona con el estudio de Toma de decisiones",
-          "Es un proceso que involucra Toma",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Toma de decisiones",
-        "explicacion": "💡 Cuca te ayuda: Toma de decisiones es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "telesecundaria-3-humano_comunitario-b5-v2-001",
+        "tema": "Mi comunidad y mi futuro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
         "id": "telesecundaria-3-humano_comunitario-b5-002",
         "tema": "Toma de decisiones",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Toma de decisiones\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Toma de decisiones\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b5-p-001",
-        "tema": "Toma de decisiones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Toma de decisiones\"?",
-        "opciones": [
-          "Es un concepto fundamental de Toma",
-          "Se relaciona con el estudio de Toma de decisiones",
-          "Es un proceso que involucra Toma",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Toma de decisiones",
-        "explicacion": "💡 Hada te ayuda: Toma de decisiones es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.375Z",
-  "version": "3.0",
-  "historiaChispito": "¡Alerta en Ciudad Chispito! Un portal del conocimiento se ha abierto. Para cruzarlo, debes demostrar tus habilidades en Proyecto de vida."
+  "generado": "2026-03-26T03:11:48.213Z",
+  "version": "2.0"
 }

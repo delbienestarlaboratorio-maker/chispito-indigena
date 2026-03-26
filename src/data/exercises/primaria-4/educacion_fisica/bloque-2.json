@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El bádminton usa una plumilla o gallito en lugar de una pelota convencional."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El tenis de mesa es un deporte olímpico con raquetas pequeñas y pelota ligera."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Cuanto más practicamos con raquetas y bastones, mejor coordinación desarrollamos."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "En la carrera de velocidad solo se usa el cuerpo, sin ningún implemento."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p4ef-b2-01-v2",
+        "tema": "Raqueta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué deporte usa una raqueta y una pelota pequeña? ​",
+        "opciones": [
+          "Tenis",
+          "Futbol",
+          "Natación",
+          "Atletismo"
+        ],
+        "respuestaCorrecta": "Tenis",
+        "explicacion": "El tenis se juega con raqueta y pelota sobre una cancha con red."
+      },
+      {
+        "id": "p4ef-b2-02-v2",
+        "tema": "Coordinación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué habilidad se necesita para golpear una pelota con un bat? ​",
+        "opciones": [
+          "Coordinación ojo-mano",
+          "Solo fuerza",
+          "Solo velocidad",
+          "Solo resistencia"
+        ],
+        "respuestaCorrecta": "Coordinación ojo-mano",
+        "explicacion": "Para batear necesitamos que los ojos guíen las manos al momento exacto del golpe."
+      },
+      {
+        "id": "p4ef-b2-03-v2",
+        "tema": "Deportes",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El bádminton se juega con un \"gallito\" (shuttlecock) ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El bádminton usa una plumilla o gallito en lugar de una pelota convencional."
+      },
+      {
+        "id": "p4ef-b2-04-v2",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Con qué se juega el hockey? ​",
+        "opciones": [
+          "Un bastón curvo y un disco o pelota",
+          "Una raqueta",
+          "Las manos",
+          "Los pies"
+        ],
+        "respuestaCorrecta": "Un bastón curvo y un disco o pelota",
+        "explicacion": "El hockey usa un bastón (stick) para golpear un disco (puck) o pelota."
+      },
+      {
+        "id": "p4ef-b2-05-v2",
+        "tema": "Coordinación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Rebotar una pelota con una raqueta sin que se caiga ejercita: ​",
+        "opciones": [
+          "La coordinación y el control",
+          "Solo la fuerza",
+          "Solo la velocidad",
+          "Solo la resistencia"
+        ],
+        "respuestaCorrecta": "La coordinación y el control",
+        "explicacion": "Mantener la pelota rebotando requiere precisión, ritmo y control motriz."
+      },
+      {
+        "id": "p4ef-b2-06-v2",
+        "tema": "Deportes",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El ping-pong (tenis de mesa) se juega sobre una mesa con raquetas pequeñas ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El tenis de mesa es un deporte olímpico con raquetas pequeñas y pelota ligera."
+      },
+      {
+        "id": "p4ef-b2-07-v2",
+        "tema": "Seguridad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué debemos usar los implementos deportivos correctamente? ​",
+        "opciones": [
+          "Para evitar lesiones propias y de los demás",
+          "Porque son bonitos",
+          "Para presumir",
+          "No es necesario"
+        ],
+        "respuestaCorrecta": "Para evitar lesiones propias y de los demás",
+        "explicacion": "El mal uso de bastones o raquetas puede causar golpes accidentales."
+      },
+      {
+        "id": "p4ef-b2-08-v2",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué deporte usa un bastón largo para lanzar una pelota? ​",
+        "opciones": [
+          "Lacrosse",
+          "Natación",
+          "Ciclismo",
+          "Ajedrez"
+        ],
+        "respuestaCorrecta": "Lacrosse",
+        "explicacion": "El lacrosse usa un bastón con red para atrapar y lanzar la pelota."
+      },
+      {
+        "id": "p4ef-b2-09-v2",
+        "tema": "Coordinación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Practicar con implementos deportivos mejora nuestras habilidades motrices ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Cuanto más practicamos con raquetas y bastones, mejor coordinación desarrollamos."
+      },
+      {
+        "id": "p4ef-b2-10-v2",
+        "tema": "Deportes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál de estos deportes NO usa un implemento (herramienta)? ​",
+        "opciones": [
+          "Carrera de velocidad",
+          "Tenis",
+          "Béisbol",
+          "Golf"
+        ],
+        "respuestaCorrecta": "Carrera de velocidad",
+        "explicacion": "En la carrera de velocidad solo se usa el cuerpo, sin ningún implemento."
+      }
+    ],
     "preview": [
       {
         "id": "p4ef-b2-01",

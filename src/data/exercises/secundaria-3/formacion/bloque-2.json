@@ -4,7 +4,10 @@
   "bloque": 2,
   "nombre": "Derechos avanzados",
   "meses": "Septiembre-Octubre",
-  "temas": ["Derechos económicos y sociales", "Defensa de derechos"],
+  "temas": [
+    "Derechos económicos y sociales",
+    "Defensa de derechos"
+  ],
   "totalEjercicios": 28,
   "ejercicios": {
     "v1": [
@@ -14,7 +17,12 @@
         "tipo": "multiple_choice",
         "nivel": "v1",
         "pregunta": "¿Cuál es un derecho económico reconocido en la Constitución Mexicana?",
-        "opciones": ["Elegir el color de tu casa", "El trabajo digno y socialmente útil", "Tener una mascota", "Viajar al extranjero"],
+        "opciones": [
+          "Elegir el color de tu casa",
+          "El trabajo digno y socialmente útil",
+          "Tener una mascota",
+          "Viajar al extranjero"
+        ],
         "respuestaCorrecta": "El trabajo digno y socialmente útil",
         "explicacion": "El artículo 123 constitucional establece el derecho al trabajo digno, incluyendo salario mínimo, jornada laboral máxima y seguridad social."
       },
@@ -33,7 +41,12 @@
         "tipo": "multiple_choice",
         "nivel": "v1",
         "pregunta": "¿Qué artículo constitucional protege el derecho a la salud en México?",
-        "opciones": ["Artículo 1°", "Artículo 4°", "Artículo 27°", "Artículo 123°"],
+        "opciones": [
+          "Artículo 1°",
+          "Artículo 4°",
+          "Artículo 27°",
+          "Artículo 123°"
+        ],
         "respuestaCorrecta": "Artículo 4°",
         "explicacion": "El artículo 4° constitucional establece el derecho a la protección de la salud, a un medio ambiente sano y a la vivienda."
       },
@@ -91,7 +104,12 @@
         "tipo": "multiple_choice",
         "nivel": "v1",
         "pregunta": "¿Qué institución defiende los derechos humanos ante abusos de autoridades en México?",
-        "opciones": ["El Banco de México", "La CNDH", "El IMSS", "La Cámara de Diputados"],
+        "opciones": [
+          "El Banco de México",
+          "La CNDH",
+          "El IMSS",
+          "La Cámara de Diputados"
+        ],
         "respuestaCorrecta": "La CNDH",
         "explicacion": "La Comisión Nacional de los Derechos Humanos (CNDH) recibe quejas, investiga violaciones y emite recomendaciones a las autoridades."
       },
@@ -174,7 +192,7 @@
         "tema": "Derechos económicos y sociales",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Los derechos DESC se distinguen de los derechos civiles y políticos porque:",
+        "pregunta": "Los derechos DESC se distinguen de los derechos civiles y políticos porque:  ",
         "opciones": [
           "Los DESC solo aplican a los ricos",
           "Los DESC requieren mayor inversión del Estado para su cumplimiento",
@@ -189,7 +207,7 @@
         "tema": "Derechos económicos y sociales",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "México ratificó el Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC)",
+        "pregunta": "México ratificó el Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC)  ",
         "respuestaCorrecta": "true",
         "explicacion": "México ratificó el PIDESC en 1981, comprometiéndose a garantizar progresivamente derechos como salud, trabajo y educación."
       },
@@ -198,7 +216,7 @@
         "tema": "Derechos económicos y sociales",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa el principio de 'progresividad' en los derechos sociales?",
+        "pregunta": "¿Qué significa el principio de 'progresividad' en los derechos sociales?  ",
         "opciones": [
           "Que los derechos pueden reducirse cada año",
           "Que el Estado debe mejorar continuamente el nivel de cumplimiento de los derechos",
@@ -213,7 +231,7 @@
         "tema": "Derechos económicos y sociales",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El trabajo infantil viola derechos reconocidos internacionalmente",
+        "pregunta": "El trabajo infantil viola derechos reconocidos internacionalmente  ",
         "respuestaCorrecta": "true",
         "explicacion": "La Convención sobre los Derechos del Niño y convenios de la OIT prohíben el trabajo infantil que afecta la educación, salud y desarrollo de los menores."
       },
@@ -222,7 +240,7 @@
         "tema": "Derechos económicos y sociales",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es la desigualdad social?",
+        "pregunta": "¿Qué es la desigualdad social?  ",
         "opciones": [
           "La diferencia de estatura entre personas",
           "La distribución inequitativa de recursos, oportunidades y poder en la sociedad",
@@ -237,8 +255,13 @@
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué mecanismo internacional protege los derechos humanos en América cuando México los viola?",
-        "opciones": ["El Banco Mundial", "La Corte Interamericana de Derechos Humanos", "La ONU directamente", "El FMI"],
+        "pregunta": "¿Qué mecanismo internacional protege los derechos humanos en América cuando México los viola?  ",
+        "opciones": [
+          "El Banco Mundial",
+          "La Corte Interamericana de Derechos Humanos",
+          "La ONU directamente",
+          "El FMI"
+        ],
         "respuestaCorrecta": "La Corte Interamericana de Derechos Humanos",
         "explicacion": "La Corte IDH, con sede en Costa Rica, puede condenar a los Estados de la OEA —incluyendo México— cuando violan la Convención Americana."
       },
@@ -247,7 +270,7 @@
         "tema": "Defensa de derechos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Desde 2011, los tratados internacionales de derechos humanos tienen la misma jerarquía que la Constitución en México",
+        "pregunta": "Desde 2011, los tratados internacionales de derechos humanos tienen la misma jerarquía que la Constitución en México  ",
         "respuestaCorrecta": "true",
         "explicacion": "La reforma constitucional de 2011 igualó la jerarquía de los tratados internacionales de derechos humanos con la Constitución, aplicando el principio pro persona."
       },
@@ -256,7 +279,7 @@
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa el principio 'pro persona' en derechos humanos?",
+        "pregunta": "¿Qué significa el principio 'pro persona' en derechos humanos?  ",
         "opciones": [
           "Siempre favorecer al acusado en juicio penal",
           "Aplicar siempre la norma más favorable a la persona, sin importar su jerarquía",
@@ -271,7 +294,7 @@
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es la discriminación positiva o acción afirmativa?",
+        "pregunta": "¿Qué es la discriminación positiva o acción afirmativa?  ",
         "opciones": [
           "Favorecer a grupos históricamente privilegiados",
           "Medidas para grupos históricamente discriminados para equilibrar oportunidades",
@@ -286,7 +309,7 @@
         "tema": "Defensa de derechos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La acción colectiva ciudadana puede ser un mecanismo efectivo para defender derechos cuando las instituciones fallan",
+        "pregunta": "La acción colectiva ciudadana puede ser un mecanismo efectivo para defender derechos cuando las instituciones fallan  ",
         "respuestaCorrecta": "true",
         "explicacion": "Movimientos sociales y organizaciones ciudadanas han logrado cambios legislativos y políticas públicas a favor de los derechos humanos."
       },
@@ -295,7 +318,7 @@
         "tema": "Defensa de derechos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La libertad de expresión tiene límites cuando incita al odio, la discriminación o la violencia",
+        "pregunta": "La libertad de expresión tiene límites cuando incita al odio, la discriminación o la violencia  ",
         "respuestaCorrecta": "true",
         "explicacion": "La libertad de expresión no es absoluta. El discurso de odio que promueve discriminación o violencia puede ser regulado legalmente."
       },
@@ -304,7 +327,7 @@
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué son los derechos de tercera generación?",
+        "pregunta": "¿Qué son los derechos de tercera generación?  ",
         "opciones": [
           "Los derechos de los abuelos",
           "Derechos colectivos como la paz, el desarrollo sostenible y el medio ambiente",
@@ -319,7 +342,7 @@
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El movimiento #MeToo es un ejemplo de defensa de derechos mediante:",
+        "pregunta": "El movimiento #MeToo es un ejemplo de defensa de derechos mediante:  ",
         "opciones": [
           "Una reforma constitucional",
           "La acción colectiva en redes sociales para visibilizar violencia de género",
@@ -334,7 +357,7 @@
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es la función del Ombudsman (Defensor del Pueblo) en América Latina?",
+        "pregunta": "¿Cuál es la función del Ombudsman (Defensor del Pueblo) en América Latina?  ",
         "opciones": [
           "Recaudar impuestos",
           "Proteger los derechos de los ciudadanos ante abusos del Estado",
@@ -352,7 +375,12 @@
         "tipo": "multiple_choice",
         "nivel": "v1",
         "pregunta": "¿Cuál es un derecho económico reconocido en la Constitución Mexicana?",
-        "opciones": ["Elegir el color de tu casa", "El trabajo digno y socialmente útil", "Tener una mascota", "Viajar al extranjero"],
+        "opciones": [
+          "Elegir el color de tu casa",
+          "El trabajo digno y socialmente útil",
+          "Tener una mascota",
+          "Viajar al extranjero"
+        ],
         "respuestaCorrecta": "El trabajo digno y socialmente útil",
         "explicacion": "El artículo 123 constitucional establece el derecho al trabajo digno, incluyendo salario mínimo y seguridad social."
       },
@@ -362,7 +390,12 @@
         "tipo": "multiple_choice",
         "nivel": "v1",
         "pregunta": "¿Qué institución defiende los derechos humanos ante abusos de autoridades en México?",
-        "opciones": ["El Banco de México", "La CNDH", "El IMSS", "La Cámara de Diputados"],
+        "opciones": [
+          "El Banco de México",
+          "La CNDH",
+          "El IMSS",
+          "La Cámara de Diputados"
+        ],
         "respuestaCorrecta": "La CNDH",
         "explicacion": "La CNDH recibe quejas, investiga violaciones a derechos humanos y emite recomendaciones a las autoridades."
       },

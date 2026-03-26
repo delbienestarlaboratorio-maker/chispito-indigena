@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El árbitro garantiza el juego limpio y la seguridad de todos los participantes."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La organización deportiva enseña planificación, delegación, comunicación y resolución de problemas."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Analizar qué funcionó y qué no permite perfeccionar la organización para el próximo evento."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "Las habilidades organizativas deportivas son directamente transferibles a la vida profesional."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s3ef-b2-01-v2",
+        "tema": "Organización",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué se necesita para organizar un torneo escolar? ​",
+        "opciones": [
+          "Reglamento, calendario, equipos, árbitros y logística",
+          "Solo un balón",
+          "Solo una cancha",
+          "Nada en especial"
+        ],
+        "respuestaCorrecta": "Reglamento, calendario, equipos, árbitros y logística",
+        "explicacion": "La organización deportiva requiere planificación en todos los aspectos."
+      },
+      {
+        "id": "s3ef-b2-02-v2",
+        "tema": "Eventos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué formato de torneo permite que todos los equipos se enfrenten entre sí? ​",
+        "opciones": [
+          "Todos contra todos (round robin)",
+          "Eliminación directa",
+          "Solo un partido",
+          "Lotería"
+        ],
+        "respuestaCorrecta": "Todos contra todos (round robin)",
+        "explicacion": "En round robin cada equipo juega contra todos, el que sume más puntos gana."
+      },
+      {
+        "id": "s3ef-b2-03-v2",
+        "tema": "Arbitraje",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un buen árbitro debe ser imparcial, conocer las reglas y mantener el control ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El árbitro garantiza el juego limpio y la seguridad de todos los participantes."
+      },
+      {
+        "id": "s3ef-b2-04-v2",
+        "tema": "Liderazgo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Un capitán de equipo efectivo debe: ​",
+        "opciones": [
+          "Motivar, comunicar, dar ejemplo y mediar conflictos",
+          "Solo gritar órdenes",
+          "Jugar solo para él",
+          "No comunicarse"
+        ],
+        "respuestaCorrecta": "Motivar, comunicar, dar ejemplo y mediar conflictos",
+        "explicacion": "El liderazgo deportivo combina habilidades técnicas con inteligencia emocional."
+      },
+      {
+        "id": "s3ef-b2-05-v2",
+        "tema": "Eventos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un acta de juego? ​",
+        "opciones": [
+          "Documento oficial que registra resultados, incidencias y alineaciones",
+          "Una carta",
+          "Un cuento",
+          "Una receta"
+        ],
+        "respuestaCorrecta": "Documento oficial que registra resultados, incidencias y alineaciones",
+        "explicacion": "El acta es el registro oficial de todo lo ocurrido durante un partido."
+      },
+      {
+        "id": "s3ef-b2-06-v2",
+        "tema": "Organización",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Organizar eventos deportivos desarrolla habilidades de gestión y liderazgo ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La organización deportiva enseña planificación, delegación, comunicación y resolución de problemas."
+      },
+      {
+        "id": "s3ef-b2-07-v2",
+        "tema": "Gestión",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son las fases de un evento deportivo? ​",
+        "opciones": [
+          "Planeación, ejecución y evaluación",
+          "Solo el día del evento",
+          "Solo la premiación",
+          "No tiene fases"
+        ],
+        "respuestaCorrecta": "Planeación, ejecución y evaluación",
+        "explicacion": "Cada fase es fundamental para un evento exitoso y bien organizado."
+      },
+      {
+        "id": "s3ef-b2-08-v2",
+        "tema": "Eventos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el papel de los voluntarios en un evento deportivo? ​",
+        "opciones": [
+          "Apoyan la logística, atención, arbitraje menor y servicio al público",
+          "No son importantes",
+          "Solo observan",
+          "Solo comen"
+        ],
+        "respuestaCorrecta": "Apoyan la logística, atención, arbitraje menor y servicio al público",
+        "explicacion": "Los voluntarios son esenciales para que un evento funcione correctamente."
+      },
+      {
+        "id": "s3ef-b2-09-v2",
+        "tema": "Gestión",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La evaluación post-evento ayuda a mejorar futuros eventos ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Analizar qué funcionó y qué no permite perfeccionar la organización para el próximo evento."
+      },
+      {
+        "id": "s3ef-b2-10-v2",
+        "tema": "Liderazgo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué aprendemos de la gestión deportiva para la vida? ​",
+        "opciones": [
+          "Planificación, trabajo en equipo, comunicación y responsabilidad",
+          "Nada aplicable",
+          "Solo a competir",
+          "Solo a ganar"
+        ],
+        "respuestaCorrecta": "Planificación, trabajo en equipo, comunicación y responsabilidad",
+        "explicacion": "Las habilidades organizativas deportivas son directamente transferibles a la vida profesional."
+      }
+    ],
     "preview": [
       {
         "id": "s3ef-b2-01",

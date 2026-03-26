@@ -36,7 +36,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El respeto hace que todos disfruten del juego sin peleas ni problemas."
       },
       {
@@ -79,7 +79,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Todos los niños pueden jugar, adaptando los juegos a su edad y capacidad."
       },
       {
@@ -122,7 +122,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Perder es parte del juego. Lo importante es divertirse y aprender."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "Piedra, papel o tijera es una forma justa de decidir, porque depende de la suerte."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p1ef-b2-01-v2",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Para qué sirven las reglas en un juego? ​",
+        "opciones": [
+          "Para que todos jueguen bien y se diviertan",
+          "Para castigar",
+          "Para ganar siempre",
+          "Para aburrirnos"
+        ],
+        "respuestaCorrecta": "Para que todos jueguen bien y se diviertan",
+        "explicacion": "Las reglas hacen que el juego sea justo y divertido para todos."
+      },
+      {
+        "id": "p1ef-b2-02-v2",
+        "tema": "Convivencia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Debemos respetar a nuestros compañeros cuando jugamos ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El respeto hace que todos disfruten del juego sin peleas ni problemas."
+      },
+      {
+        "id": "p1ef-b2-03-v2",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En el juego de \"las traes\", ¿qué hace el que la lleva? ​",
+        "opciones": [
+          "Persigue a los demás para tocarlos",
+          "Se esconde",
+          "Se sienta",
+          "Canta"
+        ],
+        "respuestaCorrecta": "Persigue a los demás para tocarlos",
+        "explicacion": "El jugador que \"la lleva\" corre para tocar a otro, quien pasa a ser el perseguidor."
+      },
+      {
+        "id": "p1ef-b2-04-v2",
+        "tema": "Equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos si un compañero se cae durante el juego? ​",
+        "opciones": [
+          "Lo ayudamos a levantarse",
+          "Nos reímos",
+          "Lo ignoramos",
+          "Seguimos sin él"
+        ],
+        "respuestaCorrecta": "Lo ayudamos a levantarse",
+        "explicacion": "Ayudar a un compañero es lo correcto. Si se lastimó, avisamos al profesor."
+      },
+      {
+        "id": "p1ef-b2-05-v2",
+        "tema": "Juegos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Solo los niños grandes pueden jugar ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Todos los niños pueden jugar, adaptando los juegos a su edad y capacidad."
+      },
+      {
+        "id": "p1ef-b2-06-v2",
+        "tema": "Equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa trabajar en equipo? ​",
+        "opciones": [
+          "Colaborar juntos para lograr algo",
+          "Hacer todo solo",
+          "Pelear con los demás",
+          "No participar"
+        ],
+        "respuestaCorrecta": "Colaborar juntos para lograr algo",
+        "explicacion": "Trabajar en equipo es unir esfuerzos para alcanzar una meta entre todos."
+      },
+      {
+        "id": "p1ef-b2-07-v2",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al terminar un juego? ​",
+        "opciones": [
+          "Guardar el material y agradecer",
+          "Tirar las cosas",
+          "Pelear",
+          "Irnos sin decir nada"
+        ],
+        "respuestaCorrecta": "Guardar el material y agradecer",
+        "explicacion": "Al terminar guardamos el material y damos las gracias a quienes jugaron con nosotros."
+      },
+      {
+        "id": "p1ef-b2-08-v2",
+        "tema": "Convivencia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Si perdemos un juego podemos enojarnos y pelear ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Perder es parte del juego. Lo importante es divertirse y aprender."
+      },
+      {
+        "id": "p1ef-b2-09-v2",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué juego se hace con un balón grande que hay que meter en una portería? ​",
+        "opciones": [
+          "Futbol",
+          "Ajedrez",
+          "Lotería",
+          "Memorama"
+        ],
+        "respuestaCorrecta": "Futbol",
+        "explicacion": "En el futbol se patea un balón para meterlo en la portería del equipo contrario."
+      },
+      {
+        "id": "p1ef-b2-10-v2",
+        "tema": "Equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo elegimos quién empieza un juego de forma justa? ​",
+        "opciones": [
+          "Con piedra, papel o tijera",
+          "El más grande siempre",
+          "Peleando",
+          "El que llore más"
+        ],
+        "respuestaCorrecta": "Con piedra, papel o tijera",
+        "explicacion": "Piedra, papel o tijera es una forma justa de decidir, porque depende de la suerte."
+      }
+    ],
     "preview": [
       {
         "id": "p1ef-b2-01",
@@ -183,7 +328,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El respeto hace que todos disfruten del juego sin peleas ni problemas."
       }
     ]

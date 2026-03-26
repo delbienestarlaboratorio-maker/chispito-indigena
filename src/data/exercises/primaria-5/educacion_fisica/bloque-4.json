@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Las 3 touches: recepción, armado y remate, antes de devolver el balón al otro lado."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Después de 3 pasos se debe botar la pelota, pasarla o lanzar a portería."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El saque (serve) se hace desde detrás de la línea final para poner la pelota en juego."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "La comunicación permite que el equipo actúe como unidad y reaccione a las jugadas."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p5ef-b4-01-v2",
+        "tema": "Voleibol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos jugadores tiene cada equipo de voleibol en cancha? ​",
+        "opciones": [
+          "6",
+          "5",
+          "11",
+          "7"
+        ],
+        "respuestaCorrecta": "6",
+        "explicacion": "Cada equipo de voleibol tiene 6 jugadores en cancha con rotaciones."
+      },
+      {
+        "id": "p5ef-b4-02-v2",
+        "tema": "Handball",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el handball (balonmano)? ​",
+        "opciones": [
+          "Deporte donde se lanza la pelota con las manos para anotar gol",
+          "Futbol con las manos",
+          "Solo atrapar pelotas",
+          "Un juego de mesa"
+        ],
+        "respuestaCorrecta": "Deporte donde se lanza la pelota con las manos para anotar gol",
+        "explicacion": "El balonmano combina elementos de basquetbol y futbol, usando las manos para anotar en portería."
+      },
+      {
+        "id": "p5ef-b4-03-v2",
+        "tema": "Voleibol",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En voleibol, cada equipo puede tocar la pelota máximo 3 veces antes de pasarla ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Las 3 touches: recepción, armado y remate, antes de devolver el balón al otro lado."
+      },
+      {
+        "id": "p5ef-b4-04-v2",
+        "tema": "Estrategia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es una estrategia de juego? ​",
+        "opciones": [
+          "Un plan organizado para ganar como equipo",
+          "Hacer trampa",
+          "Jugar sin pensar",
+          "Hacer todo solo"
+        ],
+        "respuestaCorrecta": "Un plan organizado para ganar como equipo",
+        "explicacion": "La estrategia coordina las acciones de todos los jugadores para alcanzar el objetivo."
+      },
+      {
+        "id": "p5ef-b4-05-v2",
+        "tema": "Voleibol",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se llama el golpe principal de ataque en voleibol? ​",
+        "opciones": [
+          "Remate (spike)",
+          "Saque",
+          "Recepción",
+          "Bloqueo"
+        ],
+        "respuestaCorrecta": "Remate (spike)",
+        "explicacion": "El remate es un golpe fuerte y hacia abajo para que la pelota caiga en el campo rival."
+      },
+      {
+        "id": "p5ef-b4-06-v2",
+        "tema": "Handball",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En balonmano NO se puede dar más de 3 pasos con la pelota ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Después de 3 pasos se debe botar la pelota, pasarla o lanzar a portería."
+      },
+      {
+        "id": "p5ef-b4-07-v2",
+        "tema": "Estrategia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué posición defiende la portería en handball y futbol? ​",
+        "opciones": [
+          "El portero/guardameta",
+          "El delantero",
+          "El mediocampista",
+          "El lateral"
+        ],
+        "respuestaCorrecta": "El portero/guardameta",
+        "explicacion": "El portero es el último defensor y el único que puede usar todo su cuerpo para detener el balón."
+      },
+      {
+        "id": "p5ef-b4-08-v2",
+        "tema": "Equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la diferencia entre ataque y defensa? ​",
+        "opciones": [
+          "Ataque intenta anotar, defensa intenta impedirlo",
+          "Son lo mismo",
+          "No hay diferencia",
+          "Solo el capitán decide"
+        ],
+        "respuestaCorrecta": "Ataque intenta anotar, defensa intenta impedirlo",
+        "explicacion": "En deportes de equipo se alterna entre atacar (buscar gol) y defender (evitar goles)."
+      },
+      {
+        "id": "p5ef-b4-09-v2",
+        "tema": "Voleibol",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El saque es el golpe que inicia cada punto en voleibol ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El saque (serve) se hace desde detrás de la línea final para poner la pelota en juego."
+      },
+      {
+        "id": "p5ef-b4-10-v2",
+        "tema": "Equipo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué la comunicación es clave en deportes de equipo? ​",
+        "opciones": [
+          "Para coordinar movimientos y anticipar jugadas del rival",
+          "Para gritar",
+          "Para pelear",
+          "No es necesaria"
+        ],
+        "respuestaCorrecta": "Para coordinar movimientos y anticipar jugadas del rival",
+        "explicacion": "La comunicación permite que el equipo actúe como unidad y reaccione a las jugadas."
+      }
+    ],
     "preview": [
       {
         "id": "p5ef-b4-01",

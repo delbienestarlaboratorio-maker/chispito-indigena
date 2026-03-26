@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La velocidad nos permite desplazarnos a gran rapidez en poco tiempo."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Calentar prepara los músculos, tendones y articulaciones para el ejercicio intenso."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La carrera continua es un ejercicio aeróbico que desarrolla la resistencia."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "La vuelta a la calma reduce el ritmo cardíaco y previene lesiones."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p3ef-b1-01-v2",
+        "tema": "Capacidades",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son las capacidades físicas básicas? ​",
+        "opciones": [
+          "Fuerza, velocidad, resistencia y flexibilidad",
+          "Solo correr",
+          "Comer bien",
+          "Dormir mucho"
+        ],
+        "respuestaCorrecta": "Fuerza, velocidad, resistencia y flexibilidad",
+        "explicacion": "Estas 4 capacidades son la base de todo movimiento deportivo."
+      },
+      {
+        "id": "p3ef-b1-02-v2",
+        "tema": "Fuerza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué ejercicio nos ayuda a tener más fuerza en los brazos? ​",
+        "opciones": [
+          "Lagartijas (push-ups)",
+          "Saltar la cuerda",
+          "Correr",
+          "Nadar"
+        ],
+        "respuestaCorrecta": "Lagartijas (push-ups)",
+        "explicacion": "Las lagartijas ejercitan los músculos de los brazos, pecho y hombros."
+      },
+      {
+        "id": "p3ef-b1-03-v2",
+        "tema": "Velocidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La velocidad es la capacidad de movernos rápido ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La velocidad nos permite desplazarnos a gran rapidez en poco tiempo."
+      },
+      {
+        "id": "p3ef-b1-04-v2",
+        "tema": "Resistencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la resistencia física? ​",
+        "opciones": [
+          "Poder hacer ejercicio durante mucho tiempo sin cansarse tanto",
+          "Ser muy fuerte",
+          "Ser muy rápido",
+          "Ser muy flexible"
+        ],
+        "respuestaCorrecta": "Poder hacer ejercicio durante mucho tiempo sin cansarse tanto",
+        "explicacion": "La resistencia nos permite mantener la actividad física durante períodos largos."
+      },
+      {
+        "id": "p3ef-b1-05-v2",
+        "tema": "Flexibilidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la flexibilidad? ​",
+        "opciones": [
+          "La capacidad de estirar nuestro cuerpo",
+          "La velocidad máxima",
+          "La fuerza de los brazos",
+          "El peso del cuerpo"
+        ],
+        "respuestaCorrecta": "La capacidad de estirar nuestro cuerpo",
+        "explicacion": "La flexibilidad permite que articulaciones y músculos se muevan con amplitud."
+      },
+      {
+        "id": "p3ef-b1-06-v2",
+        "tema": "Capacidades",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El calentamiento previo evita lesiones ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Calentar prepara los músculos, tendones y articulaciones para el ejercicio intenso."
+      },
+      {
+        "id": "p3ef-b1-07-v2",
+        "tema": "Velocidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En qué deporte es muy importante la velocidad? ​",
+        "opciones": [
+          "Carreras de 100 metros",
+          "Ajedrez",
+          "Dominó",
+          "Lectura"
+        ],
+        "respuestaCorrecta": "Carreras de 100 metros",
+        "explicacion": "Los velocistas necesitan máxima velocidad para ganar la carrera."
+      },
+      {
+        "id": "p3ef-b1-08-v2",
+        "tema": "Fuerza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué ejercicio fortalece las piernas? ​",
+        "opciones": [
+          "Sentadillas",
+          "Lagartijas",
+          "Abdominales",
+          "Estiramientos de brazos"
+        ],
+        "respuestaCorrecta": "Sentadillas",
+        "explicacion": "Las sentadillas ejercitan los cuádriceps, glúteos y pantorrillas."
+      },
+      {
+        "id": "p3ef-b1-09-v2",
+        "tema": "Resistencia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Correr durante 20 minutos seguidos requiere resistencia ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La carrera continua es un ejercicio aeróbico que desarrolla la resistencia."
+      },
+      {
+        "id": "p3ef-b1-10-v2",
+        "tema": "Capacidades",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos hacer al terminar el ejercicio? ​",
+        "opciones": [
+          "Estiramientos suaves (vuelta a la calma)",
+          "Detenernos de golpe",
+          "Comer inmediatamente",
+          "Correr más rápido"
+        ],
+        "respuestaCorrecta": "Estiramientos suaves (vuelta a la calma)",
+        "explicacion": "La vuelta a la calma reduce el ritmo cardíaco y previene lesiones."
+      }
+    ],
     "preview": [
       {
         "id": "p3ef-b1-01",

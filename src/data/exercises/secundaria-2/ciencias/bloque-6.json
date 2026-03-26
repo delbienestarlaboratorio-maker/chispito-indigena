@@ -1,66 +1,114 @@
 {
-    "grado": "secundaria-2",
-    "materia": "ciencias",
-    "bloque": 6,
-    "nombre": "La tabla invisible (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Tabla periódica en LSM",
-        "Reacciones químicas",
-        "Estados de la materia y sus transiciones",
-        "Laboratorio inclusivo"
+  "grado": "secundaria-2",
+  "materia": "ciencias",
+  "bloque": 6,
+  "nombre": "La tabla invisible (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Tabla periódica en LSM",
+    "Reacciones químicas",
+    "Estados de la materia y sus transiciones",
+    "Laboratorio inclusivo"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2-cie-b6-v1-001",
+        "tema": "Tabla periódica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se representan los elementos químicos en LSM?",
+        "opciones": [
+          "Se usa la letra inicial del símbolo químico (H para hidrógeno, O para oxígeno, Fe = F+E para hierro) seguida de un clasificador que describe su estado natural (gas = manos flotando, sólido = puño firme, líquido = ondulación).",
+          "Se dibujan los átomos con ambas manos.",
+          "Se cuentan los electrones con los dedos."
+        ],
+        "respuestaCorrecta": "Se usa la letra inicial del símbolo químico (H para hidrógeno, O para oxígeno, Fe = F+E para hierro) seguida de un clasificador que describe su estado natural (gas = manos flotando, sólido = puño firme, líquido = ondulación).",
+        "explicacion": "¡Exacto! Cada elemento combina su símbolo con un clasificador de estado. Esto es DIDÁCTICAMENTE superior porque al señar 'Hidrógeno = H + gas flotando', el alumno ya sabe que es un gas. ¡La seña enseña! 🧪"
+      },
+      {
+        "id": "s2-cie-b6-v1-002",
+        "tema": "Reacciones químicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En LSM, una reacción química se representa separando los reactivos (manos en un lado) de los productos (manos en el otro lado), con una seña de TRANSFORMACIÓN en el medio (las manos giran y cambian de configuración).",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Reactivos (izquierda) → TRANSFORMACIÓN (manos girando/cambiando) → Productos (derecha). La flecha de la ecuación química es un MOVIMIENTO REAL de transformación. La LSM hace tangible lo abstracto. ⚗️➡️🧪"
+      },
+      {
+        "id": "s2-cie-b6-v1-003",
+        "tema": "Estados de la materia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La transición de sólido a líquido (fusión) se expresa en LSM pasando del puño cerrado (sólido) a la mano abierta con dedos ___, imitando la materia que pierde rigidez y comienza a fluir.",
+        "respuestaCorrecta": "ondulantes",
+        "explicacion": "¡Correcto! Sólido → Líquido: puño que se abre y ondula. Líquido → Gas: manos ondulantes que se separan y flotan hacia arriba. Cada transición de estado es un MOVIMIENTO de las manos. ¡Termodinámica corporal! 🧊💧💨"
+      },
+      {
+        "id": "s2-cie-b6-v1-004",
+        "tema": "Laboratorio inclusivo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué adaptación es ESENCIAL en un laboratorio de química para estudiantes sordos?",
+        "opciones": [
+          "Reemplazar las alarmas sonoras por alertas visuales (luces estroboscópicas) y utilizar señalización en LSM para los protocolos de seguridad (PELIGRO, ÁCIDO, INFLAMABLE, EVACUACIÓN).",
+          "Que no entren al laboratorio por seguridad.",
+          "Que siempre lleven audífonos."
+        ],
+        "respuestaCorrecta": "Reemplazar las alarmas sonoras por alertas visuales (luces estroboscópicas) y utilizar señalización en LSM para los protocolos de seguridad (PELIGRO, ÁCIDO, INFLAMABLE, EVACUACIÓN).",
+        "explicacion": "¡Exacto! Las personas sordas PUEDEN hacer ciencia. La adaptación es del ENTORNO, no de la persona. Alertas visuales, protocolos en LSM y compañeros que señen = laboratorio 100% inclusivo. La discapacidad está en la barrera, no en el estudiante. 🔬✊"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "s2-cie-b6-v1-001",
-                "tema": "Tabla periódica",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se representan los elementos químicos en LSM?",
-                "opciones": [
-                    "Se usa la letra inicial del símbolo químico (H para hidrógeno, O para oxígeno, Fe = F+E para hierro) seguida de un clasificador que describe su estado natural (gas = manos flotando, sólido = puño firme, líquido = ondulación).",
-                    "Se dibujan los átomos con ambas manos.",
-                    "Se cuentan los electrones con los dedos."
-                ],
-                "respuestaCorrecta": "Se usa la letra inicial del símbolo químico (H para hidrógeno, O para oxígeno, Fe = F+E para hierro) seguida de un clasificador que describe su estado natural (gas = manos flotando, sólido = puño firme, líquido = ondulación).",
-                "explicacion": "¡Exacto! Cada elemento combina su símbolo con un clasificador de estado. Esto es DIDÁCTICAMENTE superior porque al señar 'Hidrógeno = H + gas flotando', el alumno ya sabe que es un gas. ¡La seña enseña! 🧪"
-            },
-            {
-                "id": "s2-cie-b6-v1-002",
-                "tema": "Reacciones químicas",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "En LSM, una reacción química se representa separando los reactivos (manos en un lado) de los productos (manos en el otro lado), con una seña de TRANSFORMACIÓN en el medio (las manos giran y cambian de configuración).",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! Reactivos (izquierda) → TRANSFORMACIÓN (manos girando/cambiando) → Productos (derecha). La flecha de la ecuación química es un MOVIMIENTO REAL de transformación. La LSM hace tangible lo abstracto. ⚗️➡️🧪"
-            },
-            {
-                "id": "s2-cie-b6-v1-003",
-                "tema": "Estados de la materia",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "La transición de sólido a líquido (fusión) se expresa en LSM pasando del puño cerrado (sólido) a la mano abierta con dedos ___, imitando la materia que pierde rigidez y comienza a fluir.",
-                "respuestaCorrecta": "ondulantes",
-                "explicacion": "¡Correcto! Sólido → Líquido: puño que se abre y ondula. Líquido → Gas: manos ondulantes que se separan y flotan hacia arriba. Cada transición de estado es un MOVIMIENTO de las manos. ¡Termodinámica corporal! 🧊💧💨"
-            },
-            {
-                "id": "s2-cie-b6-v1-004",
-                "tema": "Laboratorio inclusivo",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué adaptación es ESENCIAL en un laboratorio de química para estudiantes sordos?",
-                "opciones": [
-                    "Reemplazar las alarmas sonoras por alertas visuales (luces estroboscópicas) y utilizar señalización en LSM para los protocolos de seguridad (PELIGRO, ÁCIDO, INFLAMABLE, EVACUACIÓN).",
-                    "Que no entren al laboratorio por seguridad.",
-                    "Que siempre lleven audífonos."
-                ],
-                "respuestaCorrecta": "Reemplazar las alarmas sonoras por alertas visuales (luces estroboscópicas) y utilizar señalización en LSM para los protocolos de seguridad (PELIGRO, ÁCIDO, INFLAMABLE, EVACUACIÓN).",
-                "explicacion": "¡Exacto! Las personas sordas PUEDEN hacer ciencia. La adaptación es del ENTORNO, no de la persona. Alertas visuales, protocolos en LSM y compañeros que señen = laboratorio 100% inclusivo. La discapacidad está en la barrera, no en el estudiante. 🔬✊"
-            }
-        ]
-    },
-    "generado": "2026-03-10T20:05:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "s2-cie-b6-v1-001-v2",
+        "tema": "Tabla periódica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se representan los elementos químicos en LSM? ​",
+        "opciones": [
+          "Se usa la letra inicial del símbolo químico (H para hidrógeno, O para oxígeno, Fe = F+E para hierro) seguida de un clasificador que describe su estado natural (gas = manos flotando, sólido = puño firme, líquido = ondulación).",
+          "Se dibujan los átomos con ambas manos.",
+          "Se cuentan los electrones con los dedos."
+        ],
+        "respuestaCorrecta": "Se usa la letra inicial del símbolo químico (H para hidrógeno, O para oxígeno, Fe = F+E para hierro) seguida de un clasificador que describe su estado natural (gas = manos flotando, sólido = puño firme, líquido = ondulación).",
+        "explicacion": "¡Exacto! Cada elemento combina su símbolo con un clasificador de estado. Esto es DIDÁCTICAMENTE superior porque al señar 'Hidrógeno = H + gas flotando', el alumno ya sabe que es un gas. ¡La seña enseña! 🧪"
+      },
+      {
+        "id": "s2-cie-b6-v1-002-v2",
+        "tema": "Reacciones químicas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En LSM, una reacción química se representa separando los reactivos (manos en un lado) de los productos (manos en el otro lado), con una seña de TRANSFORMACIÓN en el medio (las manos giran y cambian de configuración). ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Reactivos (izquierda) → TRANSFORMACIÓN (manos girando/cambiando) → Productos (derecha). La flecha de la ecuación química es un MOVIMIENTO REAL de transformación. La LSM hace tangible lo abstracto. ⚗️➡️🧪"
+      },
+      {
+        "id": "s2-cie-b6-v1-003-v2",
+        "tema": "Estados de la materia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La transición de sólido a líquido (fusión) se expresa en LSM pasando del puño cerrado (sólido) a la mano abierta con dedos ___, imitando la materia que pierde rigidez y comienza a fluir. ​",
+        "respuestaCorrecta": "ondulantes",
+        "explicacion": "¡Correcto! Sólido → Líquido: puño que se abre y ondula. Líquido → Gas: manos ondulantes que se separan y flotan hacia arriba. Cada transición de estado es un MOVIMIENTO de las manos. ¡Termodinámica corporal! 🧊💧💨"
+      },
+      {
+        "id": "s2-cie-b6-v1-004-v2",
+        "tema": "Laboratorio inclusivo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué adaptación es ESENCIAL en un laboratorio de química para estudiantes sordos? ​",
+        "opciones": [
+          "Reemplazar las alarmas sonoras por alertas visuales (luces estroboscópicas) y utilizar señalización en LSM para los protocolos de seguridad (PELIGRO, ÁCIDO, INFLAMABLE, EVACUACIÓN).",
+          "Que no entren al laboratorio por seguridad.",
+          "Que siempre lleven audífonos."
+        ],
+        "respuestaCorrecta": "Reemplazar las alarmas sonoras por alertas visuales (luces estroboscópicas) y utilizar señalización en LSM para los protocolos de seguridad (PELIGRO, ÁCIDO, INFLAMABLE, EVACUACIÓN).",
+        "explicacion": "¡Exacto! Las personas sordas PUEDEN hacer ciencia. La adaptación es del ENTORNO, no de la persona. Alertas visuales, protocolos en LSM y compañeros que señen = laboratorio 100% inclusivo. La discapacidad está en la barrera, no en el estudiante. 🔬✊"
+      }
+    ]
+  },
+  "generado": "2026-03-10T20:05:00.000Z",
+  "version": "3.0"
 }

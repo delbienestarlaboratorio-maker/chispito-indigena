@@ -7,7 +7,7 @@
   "temas": [
     "Formas geometricas"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -15,326 +15,68 @@
         "tema": "Formas geometricas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuantos lados tiene un triangulo?",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El triangulo tiene exactamente 3 lados y 3 vertices (esquinas)."
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
       },
       {
         "id": "primaria-1-matematicas-b3-002",
         "tema": "Formas geometricas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un cuadrado tiene 4 lados iguales.",
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto! El cuadrado tiene 4 lados y todos miden lo mismo."
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       },
       {
-        "id": "primaria-1-matematicas-b3-extra-005",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 45 + 38?",
-        "opciones": [
-          "73",
-          "83",
-          "93",
-          "75"
-        ],
-        "respuestaCorrecta": "83",
-        "explicacion": "45+38: sumamos unidades 5+8=13 (llevamos 1), decenas 4+3+1=8. Resultado: 83."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-extra-007",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 100 - 37?",
-        "opciones": [
-          "57",
-          "63",
-          "73",
-          "67"
-        ],
-        "respuestaCorrecta": "63",
-        "explicacion": "100-37=63. Podemos pensar: de 37 a 40 son 3, de 40 a 100 son 60. Total: 63."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-extra-009",
+        "id": "primaria-1-matematicas-b3-003",
         "tema": "Formas geometricas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "56 ÷ 8 = ___",
-        "respuestaCorrecta": "7",
-        "explicacion": "56 ÷ 8 = 7. Verificamos: 8 × 7 = 56."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-extra-011",
-        "tema": "Formas geometricas",
-        "tipo": "visual_count",
-        "nivel": "v1",
-        "pregunta": "Una semana tiene ___ días",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Una semana tiene 7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-012",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-013",
-        "tema": "Formas geometricas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-014",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
-        "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-015",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-016",
-        "tema": "Formas geometricas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-017",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
-        "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-018",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "5 + 3 = ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "5 más 3 son 8."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-019",
-        "tema": "Formas geometricas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "10 > 9",
-        "respuestaCorrecta": "true",
-        "explicacion": "10 es mayor que 9. En la recta, el 10 está más a la derecha."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-020",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos meses tiene un año?",
-        "opciones": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "12 meses: enero a diciembre."
+        "pregunta": "El resultado de una suma se llama ___",
+        "respuestaCorrecta": "total",
+        "explicacion": "También se le conoce como suma o adición."
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-matematicas-b3-003",
+        "id": "primaria-1-matematicas-b3-v2-001",
         "tema": "Formas geometricas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Que figura tiene forma redonda sin esquinas?",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
         "opciones": [
-          "Cuadrado",
-          "Triangulo",
-          "Circulo",
-          "Rectangulo"
-        ],
-        "respuestaCorrecta": "Circulo",
-        "explicacion": "El circulo es redondo, no tiene lados ni esquinas."
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
-        "id": "primaria-1-matematicas-b3-004",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Un rectangulo tiene ___ lados.",
-        "respuestaCorrecta": "4",
-        "explicacion": "El rectangulo tiene 4 lados: 2 lados largos y 2 lados cortos."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-extra-006",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "7 × 8 = ___",
-        "respuestaCorrecta": "56",
-        "explicacion": "7 por 8 = 56. Truco: 7×8=7×4×2=28×2=56."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-extra-008",
+        "id": "primaria-1-matematicas-b3-v2-002",
         "tema": "Formas geometricas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "4 × 6 = 6 × 4",
+        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
         "respuestaCorrecta": "true",
-        "explicacion": "La multiplicación es conmutativa. 4×6=24 y 6×4=24."
+        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
       },
       {
-        "id": "primaria-1-matematicas-b3-extra-010",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos centímetros tiene 1 metro?",
-        "opciones": [
-          "10",
-          "100",
-          "1000",
-          "10000"
-        ],
-        "respuestaCorrecta": "100",
-        "explicacion": "1 metro = 100 centímetros. ¡1 metro es como una regla muy larga!"
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-012",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-013",
+        "id": "primaria-1-matematicas-b3-v2-003",
         "tema": "Formas geometricas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-014",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-015",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-016",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-017",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3 × 4 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "3 grupos de 4: 4+4+4 = 12."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-018",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos días tiene una semana?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "7 días: lunes, martes, miércoles, jueves, viernes, sábado y domingo."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-x-019",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "20 - 8 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "20 minus 8: bajamos de 20 hasta 12 contando hacia atrás 8 veces."
+        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
+        "respuestaCorrecta": "recto",
+        "explicacion": "Un ángulo recto forma una L perfecta."
       }
     ],
     "preview": [
@@ -343,42 +85,42 @@
         "tema": "Formas geometricas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuantos lados tiene un triangulo?",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "2",
-          "3",
-          "4",
-          "5"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "El triangulo tiene exactamente 3 lados y 3 vertices (esquinas)."
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
+      },
+      {
+        "id": "primaria-1-matematicas-b3-v2-001",
+        "tema": "Formas geometricas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
         "id": "primaria-1-matematicas-b3-002",
         "tema": "Formas geometricas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un cuadrado tiene 4 lados iguales.",
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto! El cuadrado tiene 4 lados y todos miden lo mismo."
-      },
-      {
-        "id": "primaria-1-matematicas-b3-003",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Que figura tiene forma redonda sin esquinas?",
-        "opciones": [
-          "Cuadrado",
-          "Triangulo",
-          "Circulo",
-          "Rectangulo"
-        ],
-        "respuestaCorrecta": "Circulo",
-        "explicacion": "El circulo es redondo, no tiene lados ni esquinas."
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       }
     ]
   },
-  "generado": "2026-02-27T04:04:54.082Z",
+  "generado": "2026-03-26T03:09:52.245Z",
   "version": "2.0"
 }

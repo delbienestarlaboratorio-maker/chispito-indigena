@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Músculos y articulaciones calientes son más elásticos y resistentes a lesiones."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Casco, rodilleras, espinilleras y calzado adecuado son fundamentales según el deporte."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Mover a alguien con lesión espinal puede causar parálisis. Esperar a los paramédicos."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "El descanso permite que los tejidos se recuperen y fortalezcan."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s1ef-b4-01-v2",
+        "tema": "Lesiones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un esguince? ​",
+        "opciones": [
+          "Estiramiento o ruptura parcial de ligamentos",
+          "Una fractura",
+          "Un corte",
+          "Solo un moretón"
+        ],
+        "respuestaCorrecta": "Estiramiento o ruptura parcial de ligamentos",
+        "explicacion": "El esguince ocurre cuando una articulación se tuerce más allá de su rango normal."
+      },
+      {
+        "id": "s1ef-b4-02-v2",
+        "tema": "RICE",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa R.I.C.E.? ​",
+        "opciones": [
+          "Rest, Ice, Compression, Elevation",
+          "Run, Imagine, Create, Enjoy",
+          "Rapid Intense Continuous Exercise",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Rest, Ice, Compression, Elevation",
+        "explicacion": "RICE (Reposo, Hielo, Compresión, Elevación) es el tratamiento básico para lesiones leves."
+      },
+      {
+        "id": "s1ef-b4-03-v2",
+        "tema": "Prevención",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un buen calentamiento previene la mayoría de lesiones deportivas ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Músculos y articulaciones calientes son más elásticos y resistentes a lesiones."
+      },
+      {
+        "id": "s1ef-b4-04-v2",
+        "tema": "Primeros auxilios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Ante una persona inconsciente, ¿qué hacemos primero? ​",
+        "opciones": [
+          "Verificar si respira y llamar al 911",
+          "Moverla rápidamente",
+          "Darle agua",
+          "Abandonarla"
+        ],
+        "respuestaCorrecta": "Verificar si respira y llamar al 911",
+        "explicacion": "La prioridad: vía aérea, respiración y llamar a servicios de emergencia."
+      },
+      {
+        "id": "s1ef-b4-05-v2",
+        "tema": "Hielo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo actúa el hielo en una lesión? ​",
+        "opciones": [
+          "Reduce inflamación y dolor al disminuir el flujo sanguíneo local",
+          "Cura el hueso",
+          "Limpia heridas",
+          "Aumenta la inflamación"
+        ],
+        "respuestaCorrecta": "Reduce inflamación y dolor al disminuir el flujo sanguíneo local",
+        "explicacion": "El frío contrae los vasos sanguíneos, reduciendo la hinchazón y el dolor."
+      },
+      {
+        "id": "s1ef-b4-06-v2",
+        "tema": "Equipo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El equipo de protección adecuado previene lesiones graves ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Casco, rodilleras, espinilleras y calzado adecuado son fundamentales según el deporte."
+      },
+      {
+        "id": "s1ef-b4-07-v2",
+        "tema": "RCP",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas compresiones por minuto se hacen en RCP? ​",
+        "opciones": [
+          "100 a 120",
+          "10",
+          "50",
+          "200"
+        ],
+        "respuestaCorrecta": "100 a 120",
+        "explicacion": "El ritmo de 100-120 compresiones/minuto mantiene la circulación sanguínea básica."
+      },
+      {
+        "id": "s1ef-b4-08-v2",
+        "tema": "Lesiones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos hacer si sentimos dolor agudo durante el ejercicio? ​",
+        "opciones": [
+          "Parar inmediatamente y avisar al profesor",
+          "Seguir a pesar del dolor",
+          "Ignorarlo",
+          "Correr más rápido"
+        ],
+        "respuestaCorrecta": "Parar inmediatamente y avisar al profesor",
+        "explicacion": "El dolor agudo es señal de alarma. Continuar puede empeorar la lesión."
+      },
+      {
+        "id": "s1ef-b4-09-v2",
+        "tema": "Columna",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "No debemos mover a alguien con posible lesión en la columna ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Mover a alguien con lesión espinal puede causar parálisis. Esperar a los paramédicos."
+      },
+      {
+        "id": "s1ef-b4-10-v2",
+        "tema": "Prevención",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué previene las lesiones por sobreuso? ​",
+        "opciones": [
+          "Respetar días de descanso y variar ejercicios",
+          "Entrenar todos los días sin parar",
+          "Solo comer bien",
+          "Ignorar la fatiga"
+        ],
+        "respuestaCorrecta": "Respetar días de descanso y variar ejercicios",
+        "explicacion": "El descanso permite que los tejidos se recuperen y fortalezcan."
+      }
+    ],
     "preview": [
       {
         "id": "s1ef-b4-01",

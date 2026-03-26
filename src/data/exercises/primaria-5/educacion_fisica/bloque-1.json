@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Trotar, nadar o pedalear de forma continua mejora la resistencia aeróbica."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El descanso permite que los músculos se recuperen y se preparen para la siguiente serie."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Las lagartijas son uno de los mejores ejercicios de fuerza para la parte superior del cuerpo."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "La variedad trabaja todo el cuerpo y mantiene la motivación."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p5ef-b1-01-v2",
+        "tema": "Circuitos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un circuito de entrenamiento? ​",
+        "opciones": [
+          "Serie de estaciones con diferentes ejercicios que se hacen uno tras otro",
+          "Un camino para correr",
+          "Solo hacer abdominales",
+          "Un juego de mesa"
+        ],
+        "respuestaCorrecta": "Serie de estaciones con diferentes ejercicios que se hacen uno tras otro",
+        "explicacion": "En un circuito se rotan por estaciones: lagartijas, abdominales, saltos, etc."
+      },
+      {
+        "id": "p5ef-b1-02-v2",
+        "tema": "Fuerza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de fuerza usamos al empujar a un compañero en un juego? ​",
+        "opciones": [
+          "Fuerza de empuje",
+          "Fuerza de tracción",
+          "Fuerza de gravedad",
+          "Sin fuerza"
+        ],
+        "respuestaCorrecta": "Fuerza de empuje",
+        "explicacion": "Empujar = aplicar fuerza alejando algo de nosotros."
+      },
+      {
+        "id": "p5ef-b1-03-v2",
+        "tema": "Resistencia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La resistencia aeróbica se mejora con ejercicio continuo de baja-media intensidad ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Trotar, nadar o pedalear de forma continua mejora la resistencia aeróbica."
+      },
+      {
+        "id": "p5ef-b1-04-v2",
+        "tema": "Ejercicio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas veces por semana se recomienda hacer ejercicio? ​",
+        "opciones": [
+          "Al menos 5 días",
+          "Solo 1 día",
+          "Todos los días sin descanso",
+          "Solo fines de semana"
+        ],
+        "respuestaCorrecta": "Al menos 5 días",
+        "explicacion": "La OMS recomienda al menos 5 días de actividad física moderada para niños."
+      },
+      {
+        "id": "p5ef-b1-05-v2",
+        "tema": "Fuerza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Las sentadillas fortalecen principalmente: ​",
+        "opciones": [
+          "Piernas y glúteos",
+          "Solo brazos",
+          "Solo abdomen",
+          "Solo espalda"
+        ],
+        "respuestaCorrecta": "Piernas y glúteos",
+        "explicacion": "Las sentadillas trabajan cuádriceps, isquiotibiales, glúteos y pantorrillas."
+      },
+      {
+        "id": "p5ef-b1-06-v2",
+        "tema": "Ejercicio",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El descanso entre series de ejercicio es importante para la recuperación ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El descanso permite que los músculos se recuperen y se preparen para la siguiente serie."
+      },
+      {
+        "id": "p5ef-b1-07-v2",
+        "tema": "Resistencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la resistencia anaeróbica? ​",
+        "opciones": [
+          "Esfuerzos intensos y cortos sin oxígeno suficiente",
+          "Ejercicio suave y largo",
+          "Dormir mucho",
+          "No hacer nada"
+        ],
+        "respuestaCorrecta": "Esfuerzos intensos y cortos sin oxígeno suficiente",
+        "explicacion": "Sprints y levantamiento de pesas son anaeróbicos: intensos pero de corta duración."
+      },
+      {
+        "id": "p5ef-b1-08-v2",
+        "tema": "Circuitos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En un circuito, ¿cuánto tiempo se queda en cada estación normalmente? ​",
+        "opciones": [
+          "30 segundos a 1 minuto",
+          "10 minutos",
+          "1 hora",
+          "Todo el día"
+        ],
+        "respuestaCorrecta": "30 segundos a 1 minuto",
+        "explicacion": "Cada estación dura entre 30 segundos y 1 minuto, luego se rota a la siguiente."
+      },
+      {
+        "id": "p5ef-b1-09-v2",
+        "tema": "Fuerza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las lagartijas (push-ups) fortalecen pecho, brazos y hombros ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Las lagartijas son uno de los mejores ejercicios de fuerza para la parte superior del cuerpo."
+      },
+      {
+        "id": "p5ef-b1-10-v2",
+        "tema": "Ejercicio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué es importante variar los ejercicios? ​",
+        "opciones": [
+          "Para trabajar diferentes músculos y no aburrirse",
+          "Solo para perder tiempo",
+          "No es importante",
+          "Para cansarse más rápido"
+        ],
+        "respuestaCorrecta": "Para trabajar diferentes músculos y no aburrirse",
+        "explicacion": "La variedad trabaja todo el cuerpo y mantiene la motivación."
+      }
+    ],
     "preview": [
       {
         "id": "p5ef-b1-01",

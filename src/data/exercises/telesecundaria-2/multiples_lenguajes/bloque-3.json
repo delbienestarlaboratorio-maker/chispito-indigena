@@ -10,7 +10,7 @@
     "Creación de personajes",
     "Montaje de una escena corta"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,74 @@
         "tema": "Elementos del teatro",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Respecto a \"Elementos del teatro\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Elementos",
-          "Se relaciona con el estudio de Elementos del teatro",
-          "Es un proceso que involucra Elementos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Elementos del teatro",
-        "explicacion": "💡 Cuca te ayuda: Elementos del teatro es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "telesecundaria-2-multiples_lenguajes-b3-002",
         "tema": "Elementos del teatro",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Elementos del teatro\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Elementos del teatro\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "telesecundaria-2-multiples_lenguajes-b3-003",
         "tema": "Elementos del teatro",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Elementos del ___",
-        "respuestaCorrecta": "teatro",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Elementos del teatro\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-004",
-        "tema": "Elementos del teatro",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Elementos del teatro\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Elementos del teatro",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Elementos del teatro",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Elementos del teatro\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-005",
-        "tema": "Improvisación y juego dramático",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Improvisación y juego dramático\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Improvisación",
-          "Se relaciona con el estudio de Improvisación y juego dramático",
-          "Es un proceso que involucra Improvisación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Improvisación y juego dramático",
-        "explicacion": "💡 Neptuno te ayuda: Improvisación y juego dramático es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-006",
-        "tema": "Improvisación y juego dramático",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Improvisación y juego dramático\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Improvisación y juego dramático\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-007",
-        "tema": "Improvisación y juego dramático",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Improvisación y juego ___",
-        "respuestaCorrecta": "dramático",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Improvisación y juego dramático\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-008",
-        "tema": "Improvisación y juego dramático",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Improvisación y juego dramático\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Improvisación y juego dramático",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Improvisación y juego dramático",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Improvisación y juego dramático\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-009",
-        "tema": "Creación de personajes",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Creación de personajes\"?",
-        "opciones": [
-          "Es un concepto fundamental de Creación",
-          "Se relaciona con el estudio de Creación de personajes",
-          "Es un proceso que involucra Creación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Creación de personajes",
-        "explicacion": "💡 El Búho te ayuda: Creación de personajes es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-010",
-        "tema": "Creación de personajes",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Creación de personajes\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Creación de personajes\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-011",
-        "tema": "Creación de personajes",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Creación de ___",
-        "respuestaCorrecta": "personajes",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Creación de personajes\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-012",
-        "tema": "Creación de personajes",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Creación de personajes\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Creación de personajes",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Creación de personajes",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Creación de personajes\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-013",
-        "tema": "Montaje de una escena corta",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Montaje de una escena corta\"?",
-        "opciones": [
-          "Es un concepto fundamental de Montaje",
-          "Se relaciona con el estudio de Montaje de una escena corta",
-          "Es un proceso que involucra Montaje",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Montaje de una escena corta",
-        "explicacion": "💡 Cuca te ayuda: Montaje de una escena corta es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-014",
-        "tema": "Montaje de una escena corta",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Montaje de una escena corta\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Montaje de una escena corta\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-015",
-        "tema": "Montaje de una escena corta",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Montaje de una escena ___",
-        "respuestaCorrecta": "corta",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Montaje de una escena corta\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-016",
-        "tema": "Montaje de una escena corta",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Montaje de una escena corta\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Montaje de una escena corta",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Montaje de una escena corta",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Montaje de una escena corta\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-001",
-        "tema": "Elementos del teatro",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Elementos del teatro\"?",
-        "opciones": [
-          "Es un concepto fundamental de Elementos",
-          "Se relaciona con el estudio de Elementos del teatro",
-          "Es un proceso que involucra Elementos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Elementos del teatro",
-        "explicacion": "💡 Cuca te ayuda: Elementos del teatro es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-002",
-        "tema": "Elementos del teatro",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Elementos del teatro\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Elementos del teatro\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-003",
-        "tema": "Elementos del teatro",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Elementos del ___",
-        "respuestaCorrecta": "teatro",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Elementos del teatro\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-004",
-        "tema": "Improvisación y juego dramático",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Improvisación y juego dramático\"?",
-        "opciones": [
-          "Es un concepto fundamental de Improvisación",
-          "Se relaciona con el estudio de Improvisación y juego dramático",
-          "Es un proceso que involucra Improvisación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Improvisación y juego dramático",
-        "explicacion": "💡 Neptuno te ayuda: Improvisación y juego dramático es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-005",
-        "tema": "Improvisación y juego dramático",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Improvisación y juego dramático\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Improvisación y juego dramático\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-006",
-        "tema": "Improvisación y juego dramático",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Improvisación y juego ___",
-        "respuestaCorrecta": "dramático",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Improvisación y juego dramático\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-007",
-        "tema": "Creación de personajes",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Creación de personajes\"?",
-        "opciones": [
-          "Es un concepto fundamental de Creación",
-          "Se relaciona con el estudio de Creación de personajes",
-          "Es un proceso que involucra Creación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Creación de personajes",
-        "explicacion": "💡 Pipo te ayuda: Creación de personajes es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-008",
-        "tema": "Creación de personajes",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Creación de personajes\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Creación de personajes\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-009",
-        "tema": "Creación de personajes",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Creación de ___",
-        "respuestaCorrecta": "personajes",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Creación de personajes\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-010",
+        "id": "telesecundaria-2-multiples_lenguajes-b3-v2-001",
         "tema": "Montaje de una escena corta",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En el tema de \"Montaje de una escena corta\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Es un concepto fundamental de Montaje",
-          "Se relaciona con el estudio de Montaje de una escena corta",
-          "Es un proceso que involucra Montaje",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Montaje de una escena corta",
-        "explicacion": "💡 Pipo te ayuda: Montaje de una escena corta es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-011",
-        "tema": "Montaje de una escena corta",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Montaje de una escena corta\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Montaje de una escena corta\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-012",
+        "id": "telesecundaria-2-multiples_lenguajes-b3-v2-002",
         "tema": "Montaje de una escena corta",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Montaje de una escena ___",
-        "respuestaCorrecta": "corta",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Montaje de una escena corta\" según el programa de estudios."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+      },
+      {
+        "id": "telesecundaria-2-multiples_lenguajes-b3-v2-003",
+        "tema": "Montaje de una escena corta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "opciones": [
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +94,42 @@
         "tema": "Elementos del teatro",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Respecto a \"Elementos del teatro\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de Elementos",
-          "Se relaciona con el estudio de Elementos del teatro",
-          "Es un proceso que involucra Elementos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Elementos del teatro",
-        "explicacion": "💡 El Búho te ayuda: Elementos del teatro es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "telesecundaria-2-multiples_lenguajes-b3-v2-001",
+        "tema": "Montaje de una escena corta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "telesecundaria-2-multiples_lenguajes-b3-002",
         "tema": "Elementos del teatro",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Elementos del teatro\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Elementos del teatro\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-multiples_lenguajes-b3-p-001",
-        "tema": "Elementos del teatro",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Elementos del teatro\"?",
-        "opciones": [
-          "Es un concepto fundamental de Elementos",
-          "Se relaciona con el estudio de Elementos del teatro",
-          "Es un proceso que involucra Elementos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Elementos del teatro",
-        "explicacion": "💡 Cuca te ayuda: Elementos del teatro es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.336Z",
-  "version": "3.0",
-  "historiaChispito": "¡Alerta en Ciudad Chispito! Un portal del conocimiento se ha abierto. Para cruzarlo, debes demostrar tus habilidades en Teatro y expresión corporal."
+  "generado": "2026-03-26T03:11:48.192Z",
+  "version": "2.0"
 }

@@ -37,7 +37,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La supervisión del profesor evita accidentes y nos enseña la técnica correcta."
       },
       {
@@ -80,7 +80,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Cualquier persona puede practicar gimnasia básica para mejorar flexibilidad y coordinación."
       },
       {
@@ -123,7 +123,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La flexibilidad es fundamental en gimnasia. Los estiramientos la desarrollan."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "El dolor es señal de que algo no está bien. Siempre debemos avisar al profesor."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p3ef-b3-01-v2",
+        "tema": "Gimnasia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un rollo hacia adelante? ​",
+        "opciones": [
+          "Girar sobre la espalda rodando hacia enfrente",
+          "Saltar muy alto",
+          "Correr en círculos",
+          "Sentarse en el piso"
+        ],
+        "respuestaCorrecta": "Girar sobre la espalda rodando hacia enfrente",
+        "explicacion": "El rollo adelante se hace agachándose, metiendo la cabeza y rodando sobre la espalda."
+      },
+      {
+        "id": "p3ef-b3-02-v2",
+        "tema": "Seguridad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Debemos hacer acrobacias solo con supervisión del maestro ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La supervisión del profesor evita accidentes y nos enseña la técnica correcta."
+      },
+      {
+        "id": "p3ef-b3-03-v2",
+        "tema": "Equilibrio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es una viga de equilibrio? ​",
+        "opciones": [
+          "Una barra estrecha donde caminamos manteniendo el balance",
+          "Un balón",
+          "Una portería",
+          "Una red"
+        ],
+        "respuestaCorrecta": "Una barra estrecha donde caminamos manteniendo el balance",
+        "explicacion": "La viga de equilibrio mide 10 cm de ancho y prueba nuestra capacidad de balance."
+      },
+      {
+        "id": "p3ef-b3-04-v2",
+        "tema": "Coordinación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa coordinación en gimnasia? ​",
+        "opciones": [
+          "Mover el cuerpo de forma armoniosa y controlada",
+          "Correr muy rápido",
+          "Ser el más fuerte",
+          "Ganar la competencia"
+        ],
+        "respuestaCorrecta": "Mover el cuerpo de forma armoniosa y controlada",
+        "explicacion": "La coordinación permite movimientos fluidos, precisos y elegantes en gimnasia."
+      },
+      {
+        "id": "p3ef-b3-05-v2",
+        "tema": "Gimnasia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La gimnasia solo la practican los olímpicos ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Cualquier persona puede practicar gimnasia básica para mejorar flexibilidad y coordinación."
+      },
+      {
+        "id": "p3ef-b3-06-v2",
+        "tema": "Seguridad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Sobre qué superficie debemos practicar rodadas y rollos? ​",
+        "opciones": [
+          "Sobre colchonetas o pasto suave",
+          "Sobre concreto",
+          "Sobre piedras",
+          "Sobre el escritorio"
+        ],
+        "respuestaCorrecta": "Sobre colchonetas o pasto suave",
+        "explicacion": "Las colchonetas protegen el cuerpo al hacer rollos, caídas y acrobacias."
+      },
+      {
+        "id": "p3ef-b3-07-v2",
+        "tema": "Equilibrio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué ejercicio mejora el equilibrio estático? ​",
+        "opciones": [
+          "Pararse en un solo pie con los ojos cerrados",
+          "Correr a máxima velocidad",
+          "Levantar pesas",
+          "Nadar"
+        ],
+        "respuestaCorrecta": "Pararse en un solo pie con los ojos cerrados",
+        "explicacion": "El equilibrio estático es mantenerse estable sin moverse. Los ojos cerrados lo hace más difícil."
+      },
+      {
+        "id": "p3ef-b3-08-v2",
+        "tema": "Gimnasia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los estiramientos son parte importante de la gimnasia ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La flexibilidad es fundamental en gimnasia. Los estiramientos la desarrollan."
+      },
+      {
+        "id": "p3ef-b3-09-v2",
+        "tema": "Coordinación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Saltar la cuerda mejora: ​",
+        "opciones": [
+          "La coordinación y el ritmo",
+          "Solo la fuerza",
+          "Solo la velocidad",
+          "Solo la flexibilidad"
+        ],
+        "respuestaCorrecta": "La coordinación y el ritmo",
+        "explicacion": "Saltar la cuerda combina coordinación de piernas, brazos y ritmo visual."
+      },
+      {
+        "id": "p3ef-b3-10-v2",
+        "tema": "Gimnasia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos hacer si sentimos dolor al hacer un ejercicio? ​",
+        "opciones": [
+          "Parar y avisar al maestro",
+          "Seguir aunque duela",
+          "Ignorar el dolor",
+          "Hacerlo más fuerte"
+        ],
+        "respuestaCorrecta": "Parar y avisar al maestro",
+        "explicacion": "El dolor es señal de que algo no está bien. Siempre debemos avisar al profesor."
+      }
+    ],
     "preview": [
       {
         "id": "p3ef-b3-01",
@@ -184,7 +329,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La supervisión del profesor evita accidentes y nos enseña la técnica correcta."
       }
     ]

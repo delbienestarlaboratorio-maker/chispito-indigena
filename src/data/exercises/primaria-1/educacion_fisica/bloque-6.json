@@ -1,61 +1,104 @@
 {
-    "grado": "primaria-1",
-    "materia": "educacion_fisica",
-    "bloque": 6,
-    "nombre": "Juego y me comunico (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Instrucciones de juego en LSM",
-        "Deportes de equipo",
-        "Calentamiento completo",
-        "Expresión corporal"
+  "grado": "primaria-1",
+  "materia": "educacion_fisica",
+  "bloque": 6,
+  "nombre": "Juego y me comunico (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Instrucciones de juego en LSM",
+    "Deportes de equipo",
+    "Calentamiento completo",
+    "Expresión corporal"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-edf-b6-v1-001",
+        "tema": "Instrucciones de juego en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo decimos '¡ALTO!' o '¡PARA!' en Lengua de Señas Mexicana durante un juego?",
+        "opciones": [
+          "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
+          "Cerramos los puños y los sacudimos.",
+          "Cruzamos los brazos sobre la cabeza."
+        ],
+        "respuestaCorrecta": "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
+        "explicacion": "¡Exacto! La palma abierta hacia adelante es universalmente la seña para ALTO o PARA. Es clara, visible a distancia y fácil de entender para todos. ✋"
+      },
+      {
+        "id": "p1-edf-b6-v1-002",
+        "tema": "Deportes de equipo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para la seña de 'GOOL' en LSM, levantamos ambos brazos arriba con los puños cerrados, igual que celebra un jugador de fútbol cuando mete gol.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! La celebración de gol es prácticamente la misma en LSM que en la vida real: brazos arriba, puños al cielo, y una gran sonrisa. ¡Es un lenguaje que todos entienden! ⚽🎉"
+      },
+      {
+        "id": "p1-edf-b6-v1-003",
+        "tema": "Calentamiento completo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para decir 'SALTAR' en LSM, usamos los dedos ___ y medio de una mano como si fueran las piernas de una persona, y los hacemos brincar sobre la palma de la otra mano.",
+        "respuestaCorrecta": "índice",
+        "explicacion": "¡Muy bien! Los dedos índice y medio representan las piernas de una persona (como un muñeco). Los hacemos brincar sobre la otra palma para decir 'saltar'. ¡Como un mini-tú saltando! 🤸"
+      },
+      {
+        "id": "p1-edf-b6-v1-004",
+        "tema": "Expresión corporal",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En LSM, la seña para 'RÁPIDO' se hace agitando el puño cerrado de izquierda a derecha muy velozmente, como si fuera un cohete despegando.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! Para 'RÁPIDO' en LSM, se usa el pulgar levantado (como el 'like') y se mueve hacia adelante con velocidad. El movimiento brusco hacia adelante comunica la idea de velocidad. 💨"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "p1-edf-b6-v1-001",
-                "tema": "Instrucciones de juego en LSM",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo decimos '¡ALTO!' o '¡PARA!' en Lengua de Señas Mexicana durante un juego?",
-                "opciones": [
-                    "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
-                    "Cerramos los puños y los sacudimos.",
-                    "Cruzamos los brazos sobre la cabeza."
-                ],
-                "respuestaCorrecta": "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
-                "explicacion": "¡Exacto! La palma abierta hacia adelante es universalmente la seña para ALTO o PARA. Es clara, visible a distancia y fácil de entender para todos. ✋"
-            },
-            {
-                "id": "p1-edf-b6-v1-002",
-                "tema": "Deportes de equipo",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para la seña de 'GOOL' en LSM, levantamos ambos brazos arriba con los puños cerrados, igual que celebra un jugador de fútbol cuando mete gol.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! La celebración de gol es prácticamente la misma en LSM que en la vida real: brazos arriba, puños al cielo, y una gran sonrisa. ¡Es un lenguaje que todos entienden! ⚽🎉"
-            },
-            {
-                "id": "p1-edf-b6-v1-003",
-                "tema": "Calentamiento completo",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para decir 'SALTAR' en LSM, usamos los dedos ___ y medio de una mano como si fueran las piernas de una persona, y los hacemos brincar sobre la palma de la otra mano.",
-                "respuestaCorrecta": "índice",
-                "explicacion": "¡Muy bien! Los dedos índice y medio representan las piernas de una persona (como un muñeco). Los hacemos brincar sobre la otra palma para decir 'saltar'. ¡Como un mini-tú saltando! 🤸"
-            },
-            {
-                "id": "p1-edf-b6-v1-004",
-                "tema": "Expresión corporal",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "En LSM, la seña para 'RÁPIDO' se hace agitando el puño cerrado de izquierda a derecha muy velozmente, como si fuera un cohete despegando.",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Falso! Para 'RÁPIDO' en LSM, se usa el pulgar levantado (como el 'like') y se mueve hacia adelante con velocidad. El movimiento brusco hacia adelante comunica la idea de velocidad. 💨"
-            }
-        ]
-    },
-    "generado": "2026-03-10T13:40:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "p1-edf-b6-v1-001-v2",
+        "tema": "Instrucciones de juego en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo decimos '¡ALTO!' o '¡PARA!' en Lengua de Señas Mexicana durante un juego? ​",
+        "opciones": [
+          "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
+          "Cerramos los puños y los sacudimos.",
+          "Cruzamos los brazos sobre la cabeza."
+        ],
+        "respuestaCorrecta": "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
+        "explicacion": "¡Exacto! La palma abierta hacia adelante es universalmente la seña para ALTO o PARA. Es clara, visible a distancia y fácil de entender para todos. ✋"
+      },
+      {
+        "id": "p1-edf-b6-v1-002-v2",
+        "tema": "Deportes de equipo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para la seña de 'GOOL' en LSM, levantamos ambos brazos arriba con los puños cerrados, igual que celebra un jugador de fútbol cuando mete gol. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! La celebración de gol es prácticamente la misma en LSM que en la vida real: brazos arriba, puños al cielo, y una gran sonrisa. ¡Es un lenguaje que todos entienden! ⚽🎉"
+      },
+      {
+        "id": "p1-edf-b6-v1-003-v2",
+        "tema": "Calentamiento completo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para decir 'SALTAR' en LSM, usamos los dedos ___ y medio de una mano como si fueran las piernas de una persona, y los hacemos brincar sobre la palma de la otra mano. ​",
+        "respuestaCorrecta": "índice",
+        "explicacion": "¡Muy bien! Los dedos índice y medio representan las piernas de una persona (como un muñeco). Los hacemos brincar sobre la otra palma para decir 'saltar'. ¡Como un mini-tú saltando! 🤸"
+      },
+      {
+        "id": "p1-edf-b6-v1-004-v2",
+        "tema": "Expresión corporal",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En LSM, la seña para 'RÁPIDO' se hace agitando el puño cerrado de izquierda a derecha muy velozmente, como si fuera un cohete despegando. ​",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! Para 'RÁPIDO' en LSM, se usa el pulgar levantado (como el 'like') y se mueve hacia adelante con velocidad. El movimiento brusco hacia adelante comunica la idea de velocidad. 💨"
+      }
+    ]
+  },
+  "generado": "2026-03-10T13:40:00.000Z",
+  "version": "3.0"
 }

@@ -10,7 +10,7 @@
     "Prevención de adicciones",
     "Salud mental y bienestar emocional"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,68 @@
         "tema": "Alimentación saludable",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Alimentación saludable\"?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Alimentación",
-          "Se relaciona con el estudio de Alimentación saludable",
-          "Es un proceso que involucra Alimentación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Alimentación saludable",
-        "explicacion": "💡 Pipo te ayuda: Alimentación saludable es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
       },
       {
         "id": "telesecundaria-3-humano_comunitario-b3-002",
         "tema": "Alimentación saludable",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Alimentación saludable\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Alimentación saludable\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       },
       {
         "id": "telesecundaria-3-humano_comunitario-b3-003",
         "tema": "Alimentación saludable",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Alimentación ___",
-        "respuestaCorrecta": "saludable",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Alimentación saludable\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-004",
-        "tema": "Alimentación saludable",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Alimentación saludable\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Alimentación saludable",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Alimentación saludable",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Alimentación saludable\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-005",
-        "tema": "Actividad física",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Actividad física\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Actividad",
-          "Se relaciona con el estudio de Actividad física",
-          "Es un proceso que involucra Actividad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Actividad física",
-        "explicacion": "💡 Hada te ayuda: Actividad física es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-006",
-        "tema": "Actividad física",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Actividad física\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Actividad física\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-007",
-        "tema": "Actividad física",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Actividad ___",
-        "respuestaCorrecta": "física",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Actividad física\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-008",
-        "tema": "Actividad física",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Actividad física\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Actividad física",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Actividad física",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"Actividad física\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-009",
-        "tema": "Prevención de adicciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Prevención de adicciones\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Prevención",
-          "Se relaciona con el estudio de Prevención de adicciones",
-          "Es un proceso que involucra Prevención",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Prevención de adicciones",
-        "explicacion": "💡 Pipo te ayuda: Prevención de adicciones es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-010",
-        "tema": "Prevención de adicciones",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Prevención de adicciones\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Prevención de adicciones\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-011",
-        "tema": "Prevención de adicciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Prevención de ___",
-        "respuestaCorrecta": "adicciones",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Prevención de adicciones\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-012",
-        "tema": "Prevención de adicciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Prevención de adicciones\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Prevención de adicciones",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Prevención de adicciones",
-        "explicacion": "💡 Pipo te ayuda: Estudiar \"Prevención de adicciones\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-013",
-        "tema": "Salud mental y bienestar emocional",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Salud mental y bienestar emocional\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Salud",
-          "Se relaciona con el estudio de Salud mental y bienestar emocional",
-          "Es un proceso que involucra Salud",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Salud mental y bienestar emocional",
-        "explicacion": "💡 Cuca te ayuda: Salud mental y bienestar emocional es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-014",
-        "tema": "Salud mental y bienestar emocional",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Salud mental y bienestar emocional\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Salud mental y bienestar emocional\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-015",
-        "tema": "Salud mental y bienestar emocional",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Salud mental y bienestar ___",
-        "respuestaCorrecta": "emocional",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Salud mental y bienestar emocional\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-016",
-        "tema": "Salud mental y bienestar emocional",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Salud mental y bienestar emocional\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Salud mental y bienestar emocional",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Salud mental y bienestar emocional",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Salud mental y bienestar emocional\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La capacidad de ponerse en el lugar de los demás y comprender sus sentimientos se llama ___",
+        "respuestaCorrecta": "empatía",
+        "explicacion": "La empatía es fundamental para la convivencia social."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-001",
-        "tema": "Alimentación saludable",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Alimentación saludable\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Alimentación",
-          "Se relaciona con el estudio de Alimentación saludable",
-          "Es un proceso que involucra Alimentación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Alimentación saludable",
-        "explicacion": "💡 Cuca te ayuda: Alimentación saludable es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-002",
-        "tema": "Alimentación saludable",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Alimentación saludable\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Alimentación saludable\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-003",
-        "tema": "Alimentación saludable",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Alimentación ___",
-        "respuestaCorrecta": "saludable",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Alimentación saludable\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-004",
-        "tema": "Actividad física",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Actividad física\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Actividad",
-          "Se relaciona con el estudio de Actividad física",
-          "Es un proceso que involucra Actividad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Actividad física",
-        "explicacion": "💡 Hada te ayuda: Actividad física es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-005",
-        "tema": "Actividad física",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Actividad física\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Actividad física\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-006",
-        "tema": "Actividad física",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Actividad ___",
-        "respuestaCorrecta": "física",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Actividad física\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-007",
-        "tema": "Prevención de adicciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Prevención de adicciones\"?",
-        "opciones": [
-          "Es un concepto fundamental de Prevención",
-          "Se relaciona con el estudio de Prevención de adicciones",
-          "Es un proceso que involucra Prevención",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Prevención de adicciones",
-        "explicacion": "💡 Cuca te ayuda: Prevención de adicciones es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-008",
-        "tema": "Prevención de adicciones",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Prevención de adicciones\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Prevención de adicciones\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-009",
-        "tema": "Prevención de adicciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Prevención de ___",
-        "respuestaCorrecta": "adicciones",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Prevención de adicciones\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-010",
+        "id": "telesecundaria-3-humano_comunitario-b3-v2-001",
         "tema": "Salud mental y bienestar emocional",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Salud mental y bienestar emocional\"?",
+        "pregunta": "¿Qué es la \"separación de poderes\"?  ",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
         "opciones": [
-          "Es un concepto fundamental de Salud",
-          "Se relaciona con el estudio de Salud mental y bienestar emocional",
-          "Es un proceso que involucra Salud",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Salud mental y bienestar emocional",
-        "explicacion": "💡 Neptuno te ayuda: Salud mental y bienestar emocional es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-011",
+        "id": "telesecundaria-3-humano_comunitario-b3-v2-002",
         "tema": "Salud mental y bienestar emocional",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Salud mental y bienestar emocional\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Salud mental y bienestar emocional\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "La cultura de la legalidad promueve que la gente decida cuáles reglas cumplir y cuáles ignorar  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La cultura de la legalidad implica conocer, respetar y cumplir las leyes por convicción."
       },
       {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-012",
+        "id": "telesecundaria-3-humano_comunitario-b3-v2-003",
         "tema": "Salud mental y bienestar emocional",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Salud mental y bienestar ___",
-        "respuestaCorrecta": "emocional",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Salud mental y bienestar emocional\" según el programa de estudios."
+        "pregunta": "El sistema de gobierno en el cual los ciudadanos eligen a sus representantes es una ___  ",
+        "respuestaCorrecta": "democracia",
+        "explicacion": "Proviene del griego \"demos\" (pueblo) y \"kratos\" (poder)."
       }
     ],
     "preview": [
@@ -346,43 +88,42 @@
         "tema": "Alimentación saludable",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Alimentación saludable\"?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Alimentación",
-          "Se relaciona con el estudio de Alimentación saludable",
-          "Es un proceso que involucra Alimentación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Alimentación saludable",
-        "explicacion": "💡 Neptuno te ayuda: Alimentación saludable es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "telesecundaria-3-humano_comunitario-b3-v2-001",
+        "tema": "Salud mental y bienestar emocional",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
         "id": "telesecundaria-3-humano_comunitario-b3-002",
         "tema": "Alimentación saludable",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Alimentación saludable\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Alimentación saludable\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-humano_comunitario-b3-p-001",
-        "tema": "Alimentación saludable",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Alimentación saludable\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Alimentación",
-          "Se relaciona con el estudio de Alimentación saludable",
-          "Es un proceso que involucra Alimentación",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Alimentación saludable",
-        "explicacion": "💡 Neptuno te ayuda: Alimentación saludable es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.373Z",
-  "version": "3.0",
-  "historiaChispito": "Nico ha encontrado un mapa antiguo escondido en la biblioteca estelar. El mapa revela secretos sobre Salud integral. ¡Descubramos qué esconde!"
+  "generado": "2026-03-26T03:11:48.211Z",
+  "version": "2.0"
 }

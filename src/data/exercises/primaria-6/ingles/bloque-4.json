@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Spanish = español (idioma) y español/a (persona de España)."
       },
       {
@@ -110,7 +110,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Canadá está al norte de Estados Unidos e incluye dos idiomas oficiales: inglés y francés."
       },
       {
@@ -159,7 +159,154 @@
         "explicacion": "África es un continente enorme con 54 países diferentes."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p6en-b4-01-v2",
+        "tema": "Países",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Mexico\" in English is: ​",
+        "opciones": [
+          "Mexico",
+          "Mejico",
+          "Mexiko",
+          "Meksyk"
+        ],
+        "respuestaCorrecta": "Mexico",
+        "explicacion": "Mexico se escribe igual en inglés pero se pronuncia diferente: /ˈmeksɪkoʊ/."
+      },
+      {
+        "id": "p6en-b4-02-v2",
+        "tema": "Nacionalidades",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I am Mexican\" means: ​",
+        "opciones": [
+          "Soy mexicano/a",
+          "Soy americano/a",
+          "Soy español/a",
+          "Soy canadiense"
+        ],
+        "respuestaCorrecta": "Soy mexicano/a",
+        "explicacion": "Mexican = mexicano/a (nacionalidad de México)."
+      },
+      {
+        "id": "p6en-b4-03-v2",
+        "tema": "Idiomas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Spanish\" refers both to the language and nationality of Spain ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Spanish = español (idioma) y español/a (persona de España)."
+      },
+      {
+        "id": "p6en-b4-04-v2",
+        "tema": "Países",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"The United States\" in Spanish is: ​",
+        "opciones": [
+          "Estados Unidos",
+          "Reino Unido",
+          "Unión Europea",
+          "Naciones Unidas"
+        ],
+        "respuestaCorrecta": "Estados Unidos",
+        "explicacion": "United States = Estados Unidos. USA = EUA."
+      },
+      {
+        "id": "p6en-b4-05-v2",
+        "tema": "Nacionalidades",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "A person from Brazil is: ​",
+        "opciones": [
+          "Brazilian",
+          "Brazilan",
+          "Brasilian",
+          "Brezilian"
+        ],
+        "respuestaCorrecta": "Brazilian",
+        "explicacion": "Brazil → Brazilian = brasileño/a."
+      },
+      {
+        "id": "p6en-b4-06-v2",
+        "tema": "Idiomas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "In Japan, people speak: ​",
+        "opciones": [
+          "Japanese",
+          "Chinese",
+          "Korean",
+          "Thai"
+        ],
+        "respuestaCorrecta": "Japanese",
+        "explicacion": "En Japón se habla japonés = Japanese."
+      },
+      {
+        "id": "p6en-b4-07-v2",
+        "tema": "Países",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Canada\" is north of the United States ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Canadá está al norte de Estados Unidos e incluye dos idiomas oficiales: inglés y francés."
+      },
+      {
+        "id": "p6en-b4-08-v2",
+        "tema": "Nacionalidades",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"French\" means: ​",
+        "opciones": [
+          "Francés/francesa",
+          "Holandés",
+          "Alemán",
+          "Italiano"
+        ],
+        "respuestaCorrecta": "Francés/francesa",
+        "explicacion": "French = francés (de Francia). France = Francia."
+      },
+      {
+        "id": "p6en-b4-09-v2",
+        "tema": "Idiomas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "How many official languages does Mexico have? ​",
+        "opciones": [
+          "68 indigenous languages plus Spanish",
+          "Only Spanish",
+          "Only English",
+          "Two"
+        ],
+        "respuestaCorrecta": "68 indigenous languages plus Spanish",
+        "explicacion": "México reconoce 68 lenguas indígenas además del español como lenguas nacionales."
+      },
+      {
+        "id": "p6en-b4-10-v2",
+        "tema": "Países",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which continent is Africa? ​",
+        "opciones": [
+          "A continent with 54 countries",
+          "A country",
+          "A city",
+          "An island"
+        ],
+        "respuestaCorrecta": "A continent with 54 countries",
+        "explicacion": "África es un continente enorme con 54 países diferentes."
+      }
+    ],
     "preview": [
       {
         "id": "p6en-b4-01",

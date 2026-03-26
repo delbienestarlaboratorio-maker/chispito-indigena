@@ -10,7 +10,7 @@
     "Igualdad de género",
     "Resolución pacífica de conflictos"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,68 @@
         "tema": "Derechos humanos fundamentales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Derechos humanos fundamentales\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Derechos",
-          "Se relaciona con el estudio de Derechos humanos fundamentales",
-          "Es un proceso que involucra Derechos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Derechos humanos fundamentales",
-        "explicacion": "💡 Neptuno te ayuda: Derechos humanos fundamentales es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
       },
       {
         "id": "telesecundaria-2-etica_naturaleza-b2-002",
         "tema": "Derechos humanos fundamentales",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Derechos humanos fundamentales\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Derechos humanos fundamentales\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       },
       {
         "id": "telesecundaria-2-etica_naturaleza-b2-003",
         "tema": "Derechos humanos fundamentales",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Derechos humanos ___",
-        "respuestaCorrecta": "fundamentales",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Derechos humanos fundamentales\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-004",
-        "tema": "Derechos humanos fundamentales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Derechos humanos fundamentales\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Derechos humanos fundamentales",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Derechos humanos fundamentales",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Derechos humanos fundamentales\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-005",
-        "tema": "Derechos de niñas, niños y adolescentes",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Derechos de niñas, niños y adolescentes\"?",
-        "opciones": [
-          "Es un concepto fundamental de Derechos",
-          "Se relaciona con el estudio de Derechos de niñas, niños y adolescentes",
-          "Es un proceso que involucra Derechos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Derechos de niñas, niños y adolescentes",
-        "explicacion": "💡 El Búho te ayuda: Derechos de niñas, niños y adolescentes es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-006",
-        "tema": "Derechos de niñas, niños y adolescentes",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Derechos de niñas, niños y adolescentes\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Derechos de niñas, niños y adolescentes\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-007",
-        "tema": "Derechos de niñas, niños y adolescentes",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Derechos de niñas, niños y ___",
-        "respuestaCorrecta": "adolescentes",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Derechos de niñas, niños y adolescentes\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-008",
-        "tema": "Derechos de niñas, niños y adolescentes",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Derechos de niñas, niños y adolescentes\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Derechos de niñas, niños y adolescentes",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Derechos de niñas, niños y adolescentes",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Derechos de niñas, niños y adolescentes\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-009",
-        "tema": "Igualdad de género",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Igualdad de género\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Igualdad",
-          "Se relaciona con el estudio de Igualdad de género",
-          "Es un proceso que involucra Igualdad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Igualdad de género",
-        "explicacion": "💡 Cuca te ayuda: Igualdad de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-010",
-        "tema": "Igualdad de género",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Igualdad de género\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Igualdad de género\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-011",
-        "tema": "Igualdad de género",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Igualdad de ___",
-        "respuestaCorrecta": "género",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Igualdad de género\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-012",
-        "tema": "Igualdad de género",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Igualdad de género\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Igualdad de género",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Igualdad de género",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"Igualdad de género\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-013",
-        "tema": "Resolución pacífica de conflictos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Resolución pacífica de conflictos\"?",
-        "opciones": [
-          "Es un concepto fundamental de Resolución",
-          "Se relaciona con el estudio de Resolución pacífica de conflictos",
-          "Es un proceso que involucra Resolución",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Resolución pacífica de conflictos",
-        "explicacion": "💡 Neptuno te ayuda: Resolución pacífica de conflictos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-014",
-        "tema": "Resolución pacífica de conflictos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Resolución pacífica de conflictos\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Resolución pacífica de conflictos\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-015",
-        "tema": "Resolución pacífica de conflictos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Resolución pacífica de ___",
-        "respuestaCorrecta": "conflictos",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Resolución pacífica de conflictos\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-016",
-        "tema": "Resolución pacífica de conflictos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Resolución pacífica de conflictos\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Resolución pacífica de conflictos",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Resolución pacífica de conflictos",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Resolución pacífica de conflictos\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La capacidad de ponerse en el lugar de los demás y comprender sus sentimientos se llama ___",
+        "respuestaCorrecta": "empatía",
+        "explicacion": "La empatía es fundamental para la convivencia social."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-001",
-        "tema": "Derechos humanos fundamentales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Derechos humanos fundamentales\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Derechos",
-          "Se relaciona con el estudio de Derechos humanos fundamentales",
-          "Es un proceso que involucra Derechos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Derechos humanos fundamentales",
-        "explicacion": "💡 El Búho te ayuda: Derechos humanos fundamentales es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-002",
-        "tema": "Derechos humanos fundamentales",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Derechos humanos fundamentales\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Derechos humanos fundamentales\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-003",
-        "tema": "Derechos humanos fundamentales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Derechos humanos ___",
-        "respuestaCorrecta": "fundamentales",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Derechos humanos fundamentales\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-004",
-        "tema": "Derechos de niñas, niños y adolescentes",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Derechos de niñas, niños y adolescentes\"?",
-        "opciones": [
-          "Es un concepto fundamental de Derechos",
-          "Se relaciona con el estudio de Derechos de niñas, niños y adolescentes",
-          "Es un proceso que involucra Derechos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Derechos de niñas, niños y adolescentes",
-        "explicacion": "💡 Neptuno te ayuda: Derechos de niñas, niños y adolescentes es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-005",
-        "tema": "Derechos de niñas, niños y adolescentes",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Derechos de niñas, niños y adolescentes\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Derechos de niñas, niños y adolescentes\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-006",
-        "tema": "Derechos de niñas, niños y adolescentes",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Derechos de niñas, niños y ___",
-        "respuestaCorrecta": "adolescentes",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Derechos de niñas, niños y adolescentes\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-007",
-        "tema": "Igualdad de género",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Igualdad de género\"?",
-        "opciones": [
-          "Es un concepto fundamental de Igualdad",
-          "Se relaciona con el estudio de Igualdad de género",
-          "Es un proceso que involucra Igualdad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Igualdad de género",
-        "explicacion": "💡 Cuca te ayuda: Igualdad de género es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-008",
-        "tema": "Igualdad de género",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Igualdad de género\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Igualdad de género\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-009",
-        "tema": "Igualdad de género",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Igualdad de ___",
-        "respuestaCorrecta": "género",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Igualdad de género\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-010",
+        "id": "telesecundaria-2-etica_naturaleza-b2-v2-001",
         "tema": "Resolución pacífica de conflictos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Resolución pacífica de conflictos\"?",
+        "pregunta": "¿Qué es la \"separación de poderes\"?  ",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
         "opciones": [
-          "Es un concepto fundamental de Resolución",
-          "Se relaciona con el estudio de Resolución pacífica de conflictos",
-          "Es un proceso que involucra Resolución",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Resolución pacífica de conflictos",
-        "explicacion": "💡 Cuca te ayuda: Resolución pacífica de conflictos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-011",
+        "id": "telesecundaria-2-etica_naturaleza-b2-v2-002",
         "tema": "Resolución pacífica de conflictos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Resolución pacífica de conflictos\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Resolución pacífica de conflictos\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "La cultura de la legalidad promueve que la gente decida cuáles reglas cumplir y cuáles ignorar  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La cultura de la legalidad implica conocer, respetar y cumplir las leyes por convicción."
       },
       {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-012",
+        "id": "telesecundaria-2-etica_naturaleza-b2-v2-003",
         "tema": "Resolución pacífica de conflictos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Resolución pacífica de ___",
-        "respuestaCorrecta": "conflictos",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Resolución pacífica de conflictos\" según el programa de estudios."
+        "pregunta": "El sistema de gobierno en el cual los ciudadanos eligen a sus representantes es una ___  ",
+        "respuestaCorrecta": "democracia",
+        "explicacion": "Proviene del griego \"demos\" (pueblo) y \"kratos\" (poder)."
       }
     ],
     "preview": [
@@ -346,43 +88,42 @@
         "tema": "Derechos humanos fundamentales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"Derechos humanos fundamentales\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "Es un concepto fundamental de Derechos",
-          "Se relaciona con el estudio de Derechos humanos fundamentales",
-          "Es un proceso que involucra Derechos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Derechos humanos fundamentales",
-        "explicacion": "💡 El Búho te ayuda: Derechos humanos fundamentales es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "telesecundaria-2-etica_naturaleza-b2-v2-001",
+        "tema": "Resolución pacífica de conflictos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
         "id": "telesecundaria-2-etica_naturaleza-b2-002",
         "tema": "Derechos humanos fundamentales",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Derechos humanos fundamentales\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Derechos humanos fundamentales\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-2-etica_naturaleza-b2-p-001",
-        "tema": "Derechos humanos fundamentales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Derechos humanos fundamentales\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Derechos",
-          "Se relaciona con el estudio de Derechos humanos fundamentales",
-          "Es un proceso que involucra Derechos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Derechos humanos fundamentales",
-        "explicacion": "💡 El Búho te ayuda: Derechos humanos fundamentales es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.318Z",
-  "version": "3.0",
-  "historiaChispito": "Nico ha encontrado un mapa antiguo escondido en la biblioteca estelar. El mapa revela secretos sobre Convivencia y derechos. ¡Descubramos qué esconde!"
+  "generado": "2026-03-26T03:11:48.173Z",
+  "version": "2.0"
 }

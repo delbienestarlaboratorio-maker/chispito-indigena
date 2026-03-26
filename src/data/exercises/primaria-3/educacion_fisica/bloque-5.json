@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "En el salto de longitud se corre y se salta lo más lejos posible hacia un foso de arena."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "En las carreras de relevos, la velocidad individual Y la coordinación al pasar el testimonio son clave."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El atletismo es uno de los deportes principales de los Juegos Olímpicos desde la antigüedad."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "Más allá de ganar, lo valioso es el esfuerzo, la diversión y lo que aprendimos."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p3ef-b5-01-v2",
+        "tema": "Atletismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué incluye el atletismo? ​",
+        "opciones": [
+          "Carreras, saltos y lanzamientos",
+          "Solo natación",
+          "Solo futbol",
+          "Solo gimnasia"
+        ],
+        "respuestaCorrecta": "Carreras, saltos y lanzamientos",
+        "explicacion": "El atletismo es el deporte base que incluye correr, saltar y lanzar objetos."
+      },
+      {
+        "id": "p3ef-b5-02-v2",
+        "tema": "Carreras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se llama la posición para arrancar en una carrera? ​",
+        "opciones": [
+          "Posición de salida o arrancada",
+          "Posición de dormir",
+          "Posición de sentarse",
+          "Posición de comer"
+        ],
+        "respuestaCorrecta": "Posición de salida o arrancada",
+        "explicacion": "En las carreras, los corredores se colocan agachados listos para salir al dar la señal."
+      },
+      {
+        "id": "p3ef-b5-03-v2",
+        "tema": "Atletismo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El salto de longitud mide qué tan lejos podemos saltar ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "En el salto de longitud se corre y se salta lo más lejos posible hacia un foso de arena."
+      },
+      {
+        "id": "p3ef-b5-04-v2",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un juego predeportivo? ​",
+        "opciones": [
+          "Un juego que nos prepara para practicar un deporte real",
+          "Un videojuego",
+          "Un juego de mesa",
+          "Un juego sin reglas"
+        ],
+        "respuestaCorrecta": "Un juego que nos prepara para practicar un deporte real",
+        "explicacion": "Los juegos predeportivos enseñan habilidades que después se usan en deportes formales."
+      },
+      {
+        "id": "p3ef-b5-05-v2",
+        "tema": "Lanzamiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Con qué parte del cuerpo lanzamos una pelota en atletismo? ​",
+        "opciones": [
+          "Con el brazo y la mano",
+          "Con los pies",
+          "Con la cabeza",
+          "Con las rodillas"
+        ],
+        "respuestaCorrecta": "Con el brazo y la mano",
+        "explicacion": "En atletismo se lanza impulsando el brazo desde atrás hacia adelante con fuerza."
+      },
+      {
+        "id": "p3ef-b5-06-v2",
+        "tema": "Atletismo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En los relevos, el equipo que pasa más rápido el testimonio gana ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "En las carreras de relevos, la velocidad individual Y la coordinación al pasar el testimonio son clave."
+      },
+      {
+        "id": "p3ef-b5-07-v2",
+        "tema": "Carreras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de carrera es la de obstáculos? ​",
+        "opciones": [
+          "Correr saltando vallas o pasando obstáculos",
+          "Correr en línea recta solamente",
+          "Nadar",
+          "Andar en bicicleta"
+        ],
+        "respuestaCorrecta": "Correr saltando vallas o pasando obstáculos",
+        "explicacion": "La carrera de obstáculos combina velocidad con habilidad para saltar barreras."
+      },
+      {
+        "id": "p3ef-b5-08-v2",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué juego predeportivo nos prepara para el basquetbol? ​",
+        "opciones": [
+          "Juegos de pases y tiro a un aro",
+          "Juegos con los pies",
+          "Juegos de nadar",
+          "Juegos de ajedrez"
+        ],
+        "respuestaCorrecta": "Juegos de pases y tiro a un aro",
+        "explicacion": "Pasar la pelota con las manos y encestar en un aro son habilidades básicas del basquetbol."
+      },
+      {
+        "id": "p3ef-b5-09-v2",
+        "tema": "Atletismo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las Olimpiadas incluyen pruebas de atletismo ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El atletismo es uno de los deportes principales de los Juegos Olímpicos desde la antigüedad."
+      },
+      {
+        "id": "p3ef-b5-10-v2",
+        "tema": "Juegos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Al final de una competencia deportiva, ¿qué es lo más importante? ​",
+        "opciones": [
+          "Haber dado lo mejor de uno mismo y divertirse",
+          "Solo ganar",
+          "El premio",
+          "La medalla"
+        ],
+        "respuestaCorrecta": "Haber dado lo mejor de uno mismo y divertirse",
+        "explicacion": "Más allá de ganar, lo valioso es el esfuerzo, la diversión y lo que aprendimos."
+      }
+    ],
     "preview": [
       {
         "id": "p3ef-b5-01",

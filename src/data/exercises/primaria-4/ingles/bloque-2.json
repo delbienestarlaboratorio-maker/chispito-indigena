@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Bathroom = baño. Dining room = comedor."
       },
       {
@@ -109,7 +109,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Under = debajo de. The cat is under the bed = El gato está debajo de la cama."
       },
       {
@@ -158,7 +158,154 @@
         "explicacion": "Behind = detrás de."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p4en-b2-01-v2",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Kitchen\" means: ​",
+        "opciones": [
+          "Cocina",
+          "Sala",
+          "Baño",
+          "Recámara"
+        ],
+        "respuestaCorrecta": "Cocina",
+        "explicacion": "Kitchen = cocina, donde se preparan los alimentos."
+      },
+      {
+        "id": "p4en-b2-02-v2",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Bedroom\" means: ​",
+        "opciones": [
+          "Recámara",
+          "Sala",
+          "Cocina",
+          "Jardín"
+        ],
+        "respuestaCorrecta": "Recámara",
+        "explicacion": "Bedroom = recámara, habitación o cuarto para dormir."
+      },
+      {
+        "id": "p4en-b2-03-v2",
+        "tema": "Casa",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Bathroom\" means comedor ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Bathroom = baño. Dining room = comedor."
+      },
+      {
+        "id": "p4en-b2-04-v2",
+        "tema": "Preposiciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"The cat is ON the table\" — on means: ​",
+        "opciones": [
+          "Encima de",
+          "Debajo de",
+          "Dentro de",
+          "Junto a"
+        ],
+        "respuestaCorrecta": "Encima de",
+        "explicacion": "On = sobre, encima de."
+      },
+      {
+        "id": "p4en-b2-05-v2",
+        "tema": "Preposiciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"The ball is IN the box\" — in means: ​",
+        "opciones": [
+          "Dentro de",
+          "Encima de",
+          "Detrás de",
+          "Frente a"
+        ],
+        "respuestaCorrecta": "Dentro de",
+        "explicacion": "In = dentro de, en el interior."
+      },
+      {
+        "id": "p4en-b2-06-v2",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Living room\" means: ​",
+        "opciones": [
+          "Sala",
+          "Jardín",
+          "Garaje",
+          "Cuarto"
+        ],
+        "respuestaCorrecta": "Sala",
+        "explicacion": "Living room = sala de estar."
+      },
+      {
+        "id": "p4en-b2-07-v2",
+        "tema": "Preposiciones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Under\" means debajo de ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Under = debajo de. The cat is under the bed = El gato está debajo de la cama."
+      },
+      {
+        "id": "p4en-b2-08-v2",
+        "tema": "Casa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Garden\" means: ​",
+        "opciones": [
+          "Jardín",
+          "Cuarto",
+          "Cocina",
+          "Baño"
+        ],
+        "respuestaCorrecta": "Jardín",
+        "explicacion": "Garden = jardín."
+      },
+      {
+        "id": "p4en-b2-09-v2",
+        "tema": "Preposiciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Next to\" means: ​",
+        "opciones": [
+          "Al lado de",
+          "Encima de",
+          "Dentro de",
+          "Lejos de"
+        ],
+        "respuestaCorrecta": "Al lado de",
+        "explicacion": "Next to = al lado de, junto a."
+      },
+      {
+        "id": "p4en-b2-10-v2",
+        "tema": "Preposiciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Behind the door\" means: ​",
+        "opciones": [
+          "Detrás de la puerta",
+          "Frente a la puerta",
+          "Encima de la puerta",
+          "Dentro de la puerta"
+        ],
+        "respuestaCorrecta": "Detrás de la puerta",
+        "explicacion": "Behind = detrás de."
+      }
+    ],
     "preview": [
       {
         "id": "p4en-b2-01",

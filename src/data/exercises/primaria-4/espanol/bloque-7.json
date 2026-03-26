@@ -1,66 +1,114 @@
 {
-    "grado": "primaria-4",
-    "materia": "espanol",
-    "bloque": 7,
-    "nombre": "Mi lengua tiene forma (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Clasificadores de forma y tamaño",
-        "Narración de leyendas mexicanas",
-        "Sinónimos contextuales en LSM",
-        "El orden de la oración en LSM vs Español oral"
+  "grado": "primaria-4",
+  "materia": "espanol",
+  "bloque": 7,
+  "nombre": "Mi lengua tiene forma (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Clasificadores de forma y tamaño",
+    "Narración de leyendas mexicanas",
+    "Sinónimos contextuales en LSM",
+    "El orden de la oración en LSM vs Español oral"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p4-esp-b7-v1-001",
+        "tema": "Clasificadores de forma y tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En LSM, los 'clasificadores' son formas de la mano que representan categorías de objetos. ¿Qué clasificador usarías para hablar de un objeto PLANO como un libro o una mesa?",
+        "opciones": [
+          "La mano completamente abierta y extendida, con la palma hacia abajo.",
+          "El puño cerrado.",
+          "Solo el dedo meñique levantado."
+        ],
+        "respuestaCorrecta": "La mano completamente abierta y extendida, con la palma hacia abajo.",
+        "explicacion": "¡Exacto! En LSM, la mano plana representa cualquier superficie plana: un libro, una mesa, un papel, un teléfono. Es como una plantilla universal para objetos chatos. 📖"
+      },
+      {
+        "id": "p4-esp-b7-v1-002",
+        "tema": "Narración de leyendas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para contar una leyenda en LSM, el narrador puede usar el 'cambio de rol': girar ligeramente el cuerpo para hablar como si fuera cada personaje diferente de la historia.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! El 'cambio de rol' es una de las técnicas narrativas más poderosas de la LSM. Al girar el torso, el narrador 'se convierte' en el personaje. ¡Es como hacer teatro con todo el cuerpo! 🎭"
+      },
+      {
+        "id": "p4-esp-b7-v1-003",
+        "tema": "Sinónimos contextuales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En LSM, la palabra 'bonito' puede tener diferentes señas según el contexto. Si digo que un paisaje es bonito, uso una seña amplia y abierta. Si digo que una joya es bonita, uso una seña más pequeña y ___.",
+        "respuestaCorrecta": "delicada",
+        "explicacion": "¡Correcto! La LSM es increíblemente expresiva. El TAMAÑO y la DELICADEZA del movimiento de la seña se adapta al objeto que describes. Un volcán bonito ≠ un anillo bonito. 💎"
+      },
+      {
+        "id": "p4-esp-b7-v1-004",
+        "tema": "Orden de la oración",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En español oral decimos 'El gato negro duerme en la silla'. ¿Cuál sería el orden más natural en LSM?",
+        "opciones": [
+          "SILLA — GATO — NEGRO — DORMIR (primero el lugar, luego el sujeto con su descripción, y al final la acción).",
+          "EL — GATO — NEGRO — DUERME — EN — LA — SILLA (traducción palabra por palabra).",
+          "DORMIR — GATO — SILLA — NEGRO (la acción siempre va primero)."
+        ],
+        "respuestaCorrecta": "SILLA — GATO — NEGRO — DORMIR (primero el lugar, luego el sujeto con su descripción, y al final la acción).",
+        "explicacion": "¡Muy bien! La LSM sigue un orden Tema-Comentario: primero estableces el ESCENARIO (dónde), luego el SUJETO (quién) y al final la ACCIÓN (qué hace). ¡Es como dirigir una película! 🎬"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "p4-esp-b7-v1-001",
-                "tema": "Clasificadores de forma y tamaño",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "En LSM, los 'clasificadores' son formas de la mano que representan categorías de objetos. ¿Qué clasificador usarías para hablar de un objeto PLANO como un libro o una mesa?",
-                "opciones": [
-                    "La mano completamente abierta y extendida, con la palma hacia abajo.",
-                    "El puño cerrado.",
-                    "Solo el dedo meñique levantado."
-                ],
-                "respuestaCorrecta": "La mano completamente abierta y extendida, con la palma hacia abajo.",
-                "explicacion": "¡Exacto! En LSM, la mano plana representa cualquier superficie plana: un libro, una mesa, un papel, un teléfono. Es como una plantilla universal para objetos chatos. 📖"
-            },
-            {
-                "id": "p4-esp-b7-v1-002",
-                "tema": "Narración de leyendas",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para contar una leyenda en LSM, el narrador puede usar el 'cambio de rol': girar ligeramente el cuerpo para hablar como si fuera cada personaje diferente de la historia.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! El 'cambio de rol' es una de las técnicas narrativas más poderosas de la LSM. Al girar el torso, el narrador 'se convierte' en el personaje. ¡Es como hacer teatro con todo el cuerpo! 🎭"
-            },
-            {
-                "id": "p4-esp-b7-v1-003",
-                "tema": "Sinónimos contextuales",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "En LSM, la palabra 'bonito' puede tener diferentes señas según el contexto. Si digo que un paisaje es bonito, uso una seña amplia y abierta. Si digo que una joya es bonita, uso una seña más pequeña y ___.",
-                "respuestaCorrecta": "delicada",
-                "explicacion": "¡Correcto! La LSM es increíblemente expresiva. El TAMAÑO y la DELICADEZA del movimiento de la seña se adapta al objeto que describes. Un volcán bonito ≠ un anillo bonito. 💎"
-            },
-            {
-                "id": "p4-esp-b7-v1-004",
-                "tema": "Orden de la oración",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "En español oral decimos 'El gato negro duerme en la silla'. ¿Cuál sería el orden más natural en LSM?",
-                "opciones": [
-                    "SILLA — GATO — NEGRO — DORMIR (primero el lugar, luego el sujeto con su descripción, y al final la acción).",
-                    "EL — GATO — NEGRO — DUERME — EN — LA — SILLA (traducción palabra por palabra).",
-                    "DORMIR — GATO — SILLA — NEGRO (la acción siempre va primero)."
-                ],
-                "respuestaCorrecta": "SILLA — GATO — NEGRO — DORMIR (primero el lugar, luego el sujeto con su descripción, y al final la acción).",
-                "explicacion": "¡Muy bien! La LSM sigue un orden Tema-Comentario: primero estableces el ESCENARIO (dónde), luego el SUJETO (quién) y al final la ACCIÓN (qué hace). ¡Es como dirigir una película! 🎬"
-            }
-        ]
-    },
-    "generado": "2026-03-10T19:10:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "p4-esp-b7-v1-001-v2",
+        "tema": "Clasificadores de forma y tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En LSM, los 'clasificadores' son formas de la mano que representan categorías de objetos. ¿Qué clasificador usarías para hablar de un objeto PLANO como un libro o una mesa? ​",
+        "opciones": [
+          "La mano completamente abierta y extendida, con la palma hacia abajo.",
+          "El puño cerrado.",
+          "Solo el dedo meñique levantado."
+        ],
+        "respuestaCorrecta": "La mano completamente abierta y extendida, con la palma hacia abajo.",
+        "explicacion": "¡Exacto! En LSM, la mano plana representa cualquier superficie plana: un libro, una mesa, un papel, un teléfono. Es como una plantilla universal para objetos chatos. 📖"
+      },
+      {
+        "id": "p4-esp-b7-v1-002-v2",
+        "tema": "Narración de leyendas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para contar una leyenda en LSM, el narrador puede usar el 'cambio de rol': girar ligeramente el cuerpo para hablar como si fuera cada personaje diferente de la historia. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! El 'cambio de rol' es una de las técnicas narrativas más poderosas de la LSM. Al girar el torso, el narrador 'se convierte' en el personaje. ¡Es como hacer teatro con todo el cuerpo! 🎭"
+      },
+      {
+        "id": "p4-esp-b7-v1-003-v2",
+        "tema": "Sinónimos contextuales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En LSM, la palabra 'bonito' puede tener diferentes señas según el contexto. Si digo que un paisaje es bonito, uso una seña amplia y abierta. Si digo que una joya es bonita, uso una seña más pequeña y ___. ​",
+        "respuestaCorrecta": "delicada",
+        "explicacion": "¡Correcto! La LSM es increíblemente expresiva. El TAMAÑO y la DELICADEZA del movimiento de la seña se adapta al objeto que describes. Un volcán bonito ≠ un anillo bonito. 💎"
+      },
+      {
+        "id": "p4-esp-b7-v1-004-v2",
+        "tema": "Orden de la oración",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En español oral decimos 'El gato negro duerme en la silla'. ¿Cuál sería el orden más natural en LSM? ​",
+        "opciones": [
+          "SILLA — GATO — NEGRO — DORMIR (primero el lugar, luego el sujeto con su descripción, y al final la acción).",
+          "EL — GATO — NEGRO — DUERME — EN — LA — SILLA (traducción palabra por palabra).",
+          "DORMIR — GATO — SILLA — NEGRO (la acción siempre va primero)."
+        ],
+        "respuestaCorrecta": "SILLA — GATO — NEGRO — DORMIR (primero el lugar, luego el sujeto con su descripción, y al final la acción).",
+        "explicacion": "¡Muy bien! La LSM sigue un orden Tema-Comentario: primero estableces el ESCENARIO (dónde), luego el SUJETO (quién) y al final la ACCIÓN (qué hace). ¡Es como dirigir una película! 🎬"
+      }
+    ]
+  },
+  "generado": "2026-03-10T19:10:00.000Z",
+  "version": "3.0"
 }

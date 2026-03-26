@@ -1,61 +1,104 @@
 {
-    "grado": "preescolar-2",
-    "materia": "espanol",
-    "bloque": 6,
-    "nombre": "Mis manos expresan (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "El Abecedario II (F a J)",
-        "Mi nombre corto y largo",
-        "Palabras de cortesía avanzadas",
-        "Cómo me siento hoy"
+  "grado": "preescolar-2",
+  "materia": "espanol",
+  "bloque": 6,
+  "nombre": "Mis manos expresan (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "El Abecedario II (F a J)",
+    "Mi nombre corto y largo",
+    "Palabras de cortesía avanzadas",
+    "Cómo me siento hoy"
+  ],
+  "totalEjercicios": 20,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-esp-b6-v1-001",
+        "tema": "El Abecedario II",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para la letra 'F' en LSM, ¿cómo ponemos la mano?",
+        "opciones": [
+          "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
+          "Puño cerrado con el meñique estirado",
+          "Tocando la frente con todos los dedos"
+        ],
+        "respuestaCorrecta": "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
+        "explicacion": "¡La F de Foca! Unimos las yemas del índice y pulgar como si hiciéramos un 'OK', y los otros 3 dedos van hacia arriba rectos. 👌"
+      },
+      {
+        "id": "pre2-esp-b6-v1-002",
+        "tema": "Palabras de cortesía avanzadas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para decir 'BUENAS TARDES', hacemos la misma seña que para 'Buenas Noches'.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! Para 'Tardes' partimos el brazo por la mitad. Para 'Noches' cubrimos el puño como si el sol se estuviera ocultando. 🌆"
+      },
+      {
+        "id": "pre2-esp-b6-v1-003",
+        "tema": "El Abecedario II",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para hacer la letra 'G', nuestro dedo índice apunta como si fuera una ___ de fuego.",
+        "respuestaCorrecta": "pistola",
+        "explicacion": "¡La G! El índice apunta hacia el lado y el pulgar descansa sobre él, todos los demás dedos guardados. 🔫"
+      },
+      {
+        "id": "pre2-esp-b6-v1-004",
+        "tema": "Cómo me siento hoy",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para decir 'Feliz', rozamos nuestro corazón hacia arriba y sonreímos grande.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! La seña de feliz lleva mucho movimiento hacia el pecho y, lo más importante, ¡una súper sonrisa! 😁❤️"
+      }
     ],
-    "totalEjercicios": 20,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "pre2-esp-b6-v1-001",
-                "tema": "El Abecedario II",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "Para la letra 'F' en LSM, ¿cómo ponemos la mano?",
-                "opciones": [
-                    "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
-                    "Puño cerrado con el meñique estirado",
-                    "Tocando la frente con todos los dedos"
-                ],
-                "respuestaCorrecta": "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
-                "explicacion": "¡La F de Foca! Unimos las yemas del índice y pulgar como si hiciéramos un 'OK', y los otros 3 dedos van hacia arriba rectos. 👌"
-            },
-            {
-                "id": "pre2-esp-b6-v1-002",
-                "tema": "Palabras de cortesía avanzadas",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para decir 'BUENAS TARDES', hacemos la misma seña que para 'Buenas Noches'.",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Falso! Para 'Tardes' partimos el brazo por la mitad. Para 'Noches' cubrimos el puño como si el sol se estuviera ocultando. 🌆"
-            },
-            {
-                "id": "pre2-esp-b6-v1-003",
-                "tema": "El Abecedario II",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para hacer la letra 'G', nuestro dedo índice apunta como si fuera una ___ de fuego.",
-                "respuestaCorrecta": "pistola",
-                "explicacion": "¡La G! El índice apunta hacia el lado y el pulgar descansa sobre él, todos los demás dedos guardados. 🔫"
-            },
-            {
-                "id": "pre2-esp-b6-v1-004",
-                "tema": "Cómo me siento hoy",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para decir 'Feliz', rozamos nuestro corazón hacia arriba y sonreímos grande.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Exacto! La seña de feliz lleva mucho movimiento hacia el pecho y, lo más importante, ¡una súper sonrisa! 😁❤️"
-            }
-        ]
-    },
-    "generado": "2026-03-09T04:00:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "pre2-esp-b6-v1-001-v2",
+        "tema": "El Abecedario II",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Para la letra 'F' en LSM, ¿cómo ponemos la mano? ​",
+        "opciones": [
+          "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
+          "Puño cerrado con el meñique estirado",
+          "Tocando la frente con todos los dedos"
+        ],
+        "respuestaCorrecta": "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
+        "explicacion": "¡La F de Foca! Unimos las yemas del índice y pulgar como si hiciéramos un 'OK', y los otros 3 dedos van hacia arriba rectos. 👌"
+      },
+      {
+        "id": "pre2-esp-b6-v1-002-v2",
+        "tema": "Palabras de cortesía avanzadas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para decir 'BUENAS TARDES', hacemos la misma seña que para 'Buenas Noches'. ​",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! Para 'Tardes' partimos el brazo por la mitad. Para 'Noches' cubrimos el puño como si el sol se estuviera ocultando. 🌆"
+      },
+      {
+        "id": "pre2-esp-b6-v1-003-v2",
+        "tema": "El Abecedario II",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para hacer la letra 'G', nuestro dedo índice apunta como si fuera una ___ de fuego. ​",
+        "respuestaCorrecta": "pistola",
+        "explicacion": "¡La G! El índice apunta hacia el lado y el pulgar descansa sobre él, todos los demás dedos guardados. 🔫"
+      },
+      {
+        "id": "pre2-esp-b6-v1-004-v2",
+        "tema": "Cómo me siento hoy",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para decir 'Feliz', rozamos nuestro corazón hacia arriba y sonreímos grande. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! La seña de feliz lleva mucho movimiento hacia el pecho y, lo más importante, ¡una súper sonrisa! 😁❤️"
+      }
+    ]
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

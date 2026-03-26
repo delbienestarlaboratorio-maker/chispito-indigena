@@ -1,328 +1,328 @@
 {
-    "grado": "preescolar-1",
-    "materia": "lenguaje",
-    "bloque": 4,
-    "nombre": "Nubes, cangrejos y letras aventureras",
-    "libroSep": "Múltiples Lenguajes K1MLA",
-    "paginasLibro": "96-131",
-    "meses": "Febrero – Marzo",
-    "temas": [
-        "El peso de las nubes (p.96-101)",
-        "Manu el cangrejo ermitaño (p.102-105)",
-        "Soy (p.106-107)",
-        "El sueño de Paula (p.108-115)",
-        "La g busca a su familia (p.116-120)",
-        "Animales, arte prehispánico (p.121)",
-        "El terrestre más grande del mundo (p.122-123)",
-        "Mariquita (p.124-129)",
-        "Pelota mixteca (p.130-131)"
+  "grado": "preescolar-1",
+  "materia": "lenguaje",
+  "bloque": 4,
+  "nombre": "Nubes, cangrejos y letras aventureras",
+  "libroSep": "Múltiples Lenguajes K1MLA",
+  "paginasLibro": "96-131",
+  "meses": "Febrero – Marzo",
+  "temas": [
+    "El peso de las nubes (p.96-101)",
+    "Manu el cangrejo ermitaño (p.102-105)",
+    "Soy (p.106-107)",
+    "El sueño de Paula (p.108-115)",
+    "La g busca a su familia (p.116-120)",
+    "Animales, arte prehispánico (p.121)",
+    "El terrestre más grande del mundo (p.122-123)",
+    "Mariquita (p.124-129)",
+    "Pelota mixteca (p.130-131)"
+  ],
+  "totalEjercicios": 20,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "k1-len-b4-001",
+        "tema": "El peso de las nubes (p.96)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las nubes parecen de algodón y son muy ligeras.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! El libro dice: 'Las nubes parecen de algodón, muy ligeras y esponjosas cuando las vemos pasar flotando, pero en realidad, ¡son muy pesadas!'"
+      },
+      {
+        "id": "k1-len-b4-002",
+        "tema": "El peso de las nubes (p.96)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿A qué se parecen las nubes cuando las vemos en el cielo?",
+        "opciones": [
+          "A piedras",
+          "A algodón",
+          "A madera",
+          "A metal"
+        ],
+        "respuestaCorrecta": "A algodón",
+        "explicacion": "El libro dice que 'las nubes parecen de algodón, muy ligeras y esponjosas cuando las vemos pasar flotando'."
+      },
+      {
+        "id": "k1-len-b4-003",
+        "tema": "Manu el cangrejo ermitaño (p.102)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se llama el cangrejo del cuento?",
+        "opciones": [
+          "Carlos",
+          "Manu",
+          "Pedro",
+          "Pancho"
+        ],
+        "respuestaCorrecta": "Manu",
+        "explicacion": "El personaje dice: 'Hola, soy Manu, un cangrejo especial. Me llaman cangrejo ermitaño'."
+      },
+      {
+        "id": "k1-len-b4-004",
+        "tema": "Manu el cangrejo ermitaño (p.102)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El cangrejo ermitaño tiene un caparazón propio muy duro.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! Manu dice: 'Mi cuerpo es blando y no tengo un caparazón propio'. Por eso busca conchas vacías de otros animales para protegerse."
+      },
+      {
+        "id": "k1-len-b4-005",
+        "tema": "La g busca a su familia (p.116)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En el cuento, ¿qué letra es la protagonista que busca a su familia?",
+        "opciones": [
+          "La letra A",
+          "La letra g",
+          "La letra M",
+          "La letra S"
+        ],
+        "respuestaCorrecta": "La letra g",
+        "explicacion": "El cuento se llama 'La g busca a su familia'. La letra g (minúscula, rosa) despierta y sale a buscar a las otras letras."
+      },
+      {
+        "id": "k1-len-b4-006",
+        "tema": "Animales, arte prehispánico (p.121)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿De qué material están hechas las figuras de animales prehispánicos del libro?",
+        "opciones": [
+          "De plástico",
+          "De barro y piedra",
+          "De papel",
+          "De tela"
+        ],
+        "respuestaCorrecta": "De barro y piedra",
+        "explicacion": "Las figuras de animales prehispánicos son esculturas antiguas hechas de barro cocido y piedra tallada. Se ven perros, jaguares y otros animales."
+      },
+      {
+        "id": "k1-len-b4-007",
+        "tema": "Pelota mixteca (p.130)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué estados de México se juega la pelota mixteca?",
+        "opciones": [
+          "Sonora y Chihuahua",
+          "Oaxaca, Guerrero, Puebla y Ciudad de México",
+          "Yucatán y Quintana Roo",
+          "Nuevo León y Tamaulipas"
+        ],
+        "respuestaCorrecta": "Oaxaca, Guerrero, Puebla y Ciudad de México",
+        "explicacion": "La pelota mixteca se practica en Oaxaca, Guerrero, Puebla y Ciudad de México, y también en ciudades de Estados Unidos donde viven migrantes mixtecos."
+      },
+      {
+        "id": "k1-len-b4-008",
+        "tema": "Pelota mixteca (p.130)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En la pelota mixteca participan dos equipos de ___ personas cada uno.",
+        "respuestaCorrecta": "cinco",
+        "explicacion": "El libro dice: 'En cada encuentro participan dos equipos de cinco personas cada uno'."
+      },
+      {
+        "id": "k1-len-b4-009",
+        "tema": "Manu el cangrejo ermitaño (p.102)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Dónde vive Manu el cangrejo ermitaño?",
+        "opciones": [
+          "En el bosque",
+          "En la playa junto al mar",
+          "En la montaña",
+          "En la ciudad"
+        ],
+        "respuestaCorrecta": "En la playa junto al mar",
+        "explicacion": "Las ilustraciones muestran a Manu en la arena de una playa, con el mar azul de fondo."
+      },
+      {
+        "id": "k1-len-b4-010",
+        "tema": "La g busca a su familia (p.116)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué otras letras aparecen como personajes en el cuento de la g?",
+        "opciones": [
+          "X y Z",
+          "A y M",
+          "1 y 2",
+          "? y !"
+        ],
+        "respuestaCorrecta": "A y M",
+        "explicacion": "En la página 116 vemos a la letra A con corona morada y a la M amarilla en patineta junto a la g rosa."
+      }
     ],
-    "totalEjercicios": 20,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "k1-len-b4-001",
-                "tema": "El peso de las nubes (p.96)",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Las nubes parecen de algodón y son muy ligeras.",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Falso! El libro dice: 'Las nubes parecen de algodón, muy ligeras y esponjosas cuando las vemos pasar flotando, pero en realidad, ¡son muy pesadas!'"
-            },
-            {
-                "id": "k1-len-b4-002",
-                "tema": "El peso de las nubes (p.96)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿A qué se parecen las nubes cuando las vemos en el cielo?",
-                "opciones": [
-                    "A piedras",
-                    "A algodón",
-                    "A madera",
-                    "A metal"
-                ],
-                "respuestaCorrecta": "A algodón",
-                "explicacion": "El libro dice que 'las nubes parecen de algodón, muy ligeras y esponjosas cuando las vemos pasar flotando'."
-            },
-            {
-                "id": "k1-len-b4-003",
-                "tema": "Manu el cangrejo ermitaño (p.102)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se llama el cangrejo del cuento?",
-                "opciones": [
-                    "Carlos",
-                    "Manu",
-                    "Pedro",
-                    "Pancho"
-                ],
-                "respuestaCorrecta": "Manu",
-                "explicacion": "El personaje dice: 'Hola, soy Manu, un cangrejo especial. Me llaman cangrejo ermitaño'."
-            },
-            {
-                "id": "k1-len-b4-004",
-                "tema": "Manu el cangrejo ermitaño (p.102)",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "El cangrejo ermitaño tiene un caparazón propio muy duro.",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Falso! Manu dice: 'Mi cuerpo es blando y no tengo un caparazón propio'. Por eso busca conchas vacías de otros animales para protegerse."
-            },
-            {
-                "id": "k1-len-b4-005",
-                "tema": "La g busca a su familia (p.116)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "En el cuento, ¿qué letra es la protagonista que busca a su familia?",
-                "opciones": [
-                    "La letra A",
-                    "La letra g",
-                    "La letra M",
-                    "La letra S"
-                ],
-                "respuestaCorrecta": "La letra g",
-                "explicacion": "El cuento se llama 'La g busca a su familia'. La letra g (minúscula, rosa) despierta y sale a buscar a las otras letras."
-            },
-            {
-                "id": "k1-len-b4-006",
-                "tema": "Animales, arte prehispánico (p.121)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿De qué material están hechas las figuras de animales prehispánicos del libro?",
-                "opciones": [
-                    "De plástico",
-                    "De barro y piedra",
-                    "De papel",
-                    "De tela"
-                ],
-                "respuestaCorrecta": "De barro y piedra",
-                "explicacion": "Las figuras de animales prehispánicos son esculturas antiguas hechas de barro cocido y piedra tallada. Se ven perros, jaguares y otros animales."
-            },
-            {
-                "id": "k1-len-b4-007",
-                "tema": "Pelota mixteca (p.130)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿En qué estados de México se juega la pelota mixteca?",
-                "opciones": [
-                    "Sonora y Chihuahua",
-                    "Oaxaca, Guerrero, Puebla y Ciudad de México",
-                    "Yucatán y Quintana Roo",
-                    "Nuevo León y Tamaulipas"
-                ],
-                "respuestaCorrecta": "Oaxaca, Guerrero, Puebla y Ciudad de México",
-                "explicacion": "La pelota mixteca se practica en Oaxaca, Guerrero, Puebla y Ciudad de México, y también en ciudades de Estados Unidos donde viven migrantes mixtecos."
-            },
-            {
-                "id": "k1-len-b4-008",
-                "tema": "Pelota mixteca (p.130)",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "En la pelota mixteca participan dos equipos de ___ personas cada uno.",
-                "respuestaCorrecta": "cinco",
-                "explicacion": "El libro dice: 'En cada encuentro participan dos equipos de cinco personas cada uno'."
-            },
-            {
-                "id": "k1-len-b4-009",
-                "tema": "Manu el cangrejo ermitaño (p.102)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Dónde vive Manu el cangrejo ermitaño?",
-                "opciones": [
-                    "En el bosque",
-                    "En la playa junto al mar",
-                    "En la montaña",
-                    "En la ciudad"
-                ],
-                "respuestaCorrecta": "En la playa junto al mar",
-                "explicacion": "Las ilustraciones muestran a Manu en la arena de una playa, con el mar azul de fondo."
-            },
-            {
-                "id": "k1-len-b4-010",
-                "tema": "La g busca a su familia (p.116)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué otras letras aparecen como personajes en el cuento de la g?",
-                "opciones": [
-                    "X y Z",
-                    "A y M",
-                    "1 y 2",
-                    "? y !"
-                ],
-                "respuestaCorrecta": "A y M",
-                "explicacion": "En la página 116 vemos a la letra A con corona morada y a la M amarilla en patineta junto a la g rosa."
-            }
+    "v2": [
+      {
+        "id": "k1-len-b4-011",
+        "tema": "El peso de las nubes (p.96-101)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Las nubes del cuento tienen caritas. ¿Qué expresiones muestran?  ",
+        "opciones": [
+          "Todas están enojadas",
+          "Algunas sonríen y otras duermen",
+          "Todas lloran",
+          "No tienen expresión"
         ],
-        "v2": [
-            {
-                "id": "k1-len-b4-011",
-                "tema": "El peso de las nubes (p.96-101)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "Las nubes del cuento tienen caritas. ¿Qué expresiones muestran?",
-                "opciones": [
-                    "Todas están enojadas",
-                    "Algunas sonríen y otras duermen",
-                    "Todas lloran",
-                    "No tienen expresión"
-                ],
-                "respuestaCorrecta": "Algunas sonríen y otras duermen",
-                "explicacion": "Las nubes del libro son personajes con expresiones: algunas sonríen contentas, otras duermen tranquilamente flotando en el cielo."
-            },
-            {
-                "id": "k1-len-b4-012",
-                "tema": "Pelota mixteca (p.130)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿De qué está hecho el guante para jugar pelota mixteca?",
-                "opciones": [
-                    "De tela suave",
-                    "De capas de piel, cubierto de clavos aplanados",
-                    "De plástico",
-                    "De madera"
-                ],
-                "respuestaCorrecta": "De capas de piel, cubierto de clavos aplanados",
-                "explicacion": "El libro dice: 'El guante es muy pesado y está conformado por capas de piel y cubierto de clavos aplanados'."
-            },
-            {
-                "id": "k1-len-b4-013",
-                "tema": "Pelota mixteca (p.130)",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "La pelota mixteca es un juego nuevo que se inventó hace poco.",
-                "respuestaCorrecta": "false",
-                "explicacion": "Falso. El libro dice que 'sus orígenes se remontan a la época prehispánica', o sea de antes de la llegada de los españoles."
-            },
-            {
-                "id": "k1-len-b4-014",
-                "tema": "Animales, arte prehispánico (p.121)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Qué tipo de animales se ven en las esculturas prehispánicas?",
-                "opciones": [
-                    "Elefantes y jirafas",
-                    "Perros, jaguares y felinos",
-                    "Dinosaurios",
-                    "Caballos"
-                ],
-                "respuestaCorrecta": "Perros, jaguares y felinos",
-                "explicacion": "Las 6 esculturas muestran perros (tipo xoloitzcuintle), jaguares y felinos hechos de barro y piedra por culturas prehispánicas mexicanas."
-            },
-            {
-                "id": "k1-len-b4-015",
-                "tema": "La g busca a su familia (p.116)",
-                "tipo": "fill_blank",
-                "nivel": "v2",
-                "pregunta": "La autora del cuento 'La g busca a su familia' se llama Belén García ___.",
-                "respuestaCorrecta": "Monroy",
-                "explicacion": "En la ilustración se lee 'Belén García Monroy, Ciudad de México' como la autora/ilustradora del cuento."
-            },
-            {
-                "id": "k1-len-b4-016",
-                "tema": "El peso de las nubes (p.96)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Quién ilustró 'El peso de las nubes'?",
-                "opciones": [
-                    "Mario Núñez",
-                    "Ricardo Peláez",
-                    "Tania Edith Juárez Ceciliano",
-                    "Angélica Mendia"
-                ],
-                "respuestaCorrecta": "Tania Edith Juárez Ceciliano",
-                "explicacion": "En la ilustración de la página 96 se puede leer el crédito de Tania Edith Juárez Ceciliano, Ciudad de México."
-            },
-            {
-                "id": "k1-len-b4-017",
-                "tema": "Manu el cangrejo ermitaño (p.102)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Qué usa Manu el cangrejo ermitaño para proteger su cuerpo blando?",
-                "opciones": [
-                    "Una armadura de metal",
-                    "Conchas vacías de otros animales",
-                    "Hojas de árboles",
-                    "Arena del mar"
-                ],
-                "respuestaCorrecta": "Conchas vacías de otros animales",
-                "explicacion": "Como no tiene caparazón propio, el cangrejo ermitaño busca conchas vacías de caracoles u otros animales para meterse dentro y proteger su cuerpo blando."
-            },
-            {
-                "id": "k1-len-b4-018",
-                "tema": "Manu el cangrejo ermitaño (p.102)",
-                "tipo": "fill_blank",
-                "nivel": "v2",
-                "pregunta": "El ilustrador de Manu el cangrejo ermitaño es Carlos Javier Melgar Rincón, de ___.",
-                "respuestaCorrecta": "Michoacán",
-                "explicacion": "El crédito del ilustrador dice: Carlos Javier Melgar Rincón, Michoacán."
-            },
-            {
-                "id": "k1-len-b4-019",
-                "tema": "Pelota mixteca (p.130)",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿De qué está hecha la pelota de la pelota mixteca?",
-                "opciones": [
-                    "De plástico",
-                    "De hule",
-                    "De papel",
-                    "De madera"
-                ],
-                "respuestaCorrecta": "De hule",
-                "explicacion": "El libro dice que 'el guante con el que se golpea la pelota de hule se sujeta a la muñeca con correas'."
-            },
-            {
-                "id": "k1-len-b4-020",
-                "tema": "La g busca a su familia (p.116)",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "En el cuento, la letra g despierta en un lugar oscuro y busca a las demás letras.",
-                "respuestaCorrecta": "true",
-                "explicacion": "Correcto. El cuento dice: 'Reinaba la oscuridad y, a lo lejos, poco a poco, se comenzó a percibir un rayito de luz. Ella se preguntó si ya era hora de despertar'."
-            }
+        "respuestaCorrecta": "Algunas sonríen y otras duermen",
+        "explicacion": "Las nubes del libro son personajes con expresiones: algunas sonríen contentas, otras duermen tranquilamente flotando en el cielo."
+      },
+      {
+        "id": "k1-len-b4-012",
+        "tema": "Pelota mixteca (p.130)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿De qué está hecho el guante para jugar pelota mixteca?  ",
+        "opciones": [
+          "De tela suave",
+          "De capas de piel, cubierto de clavos aplanados",
+          "De plástico",
+          "De madera"
         ],
-        "preview": [
-            {
-                "id": "k1-len-b4-001",
-                "tema": "El peso de las nubes (p.96)",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Las nubes parecen de algodón y son muy ligeras.",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Falso! Las nubes parecen ligeras y esponjosas, pero en realidad ¡son muy pesadas!"
-            },
-            {
-                "id": "k1-len-b4-003",
-                "tema": "Manu el cangrejo ermitaño (p.102)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se llama el cangrejo del cuento?",
-                "opciones": [
-                    "Carlos",
-                    "Manu",
-                    "Pedro",
-                    "Pancho"
-                ],
-                "respuestaCorrecta": "Manu",
-                "explicacion": "El personaje dice: 'Hola, soy Manu, un cangrejo especial'."
-            },
-            {
-                "id": "k1-len-b4-007",
-                "tema": "Pelota mixteca (p.130)",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿En qué estados se juega la pelota mixteca?",
-                "opciones": [
-                    "Sonora y Chihuahua",
-                    "Oaxaca, Guerrero, Puebla y CDMX",
-                    "Yucatán y QR",
-                    "NL y Tamaulipas"
-                ],
-                "respuestaCorrecta": "Oaxaca, Guerrero, Puebla y CDMX",
-                "explicacion": "La pelota mixteca se juega en Oaxaca, Guerrero, Puebla y Ciudad de México."
-            }
-        ]
-    },
-    "generado": "2026-03-10T21:48:00.000Z",
-    "version": "3.0-libro-real"
+        "respuestaCorrecta": "De capas de piel, cubierto de clavos aplanados",
+        "explicacion": "El libro dice: 'El guante es muy pesado y está conformado por capas de piel y cubierto de clavos aplanados'."
+      },
+      {
+        "id": "k1-len-b4-013",
+        "tema": "Pelota mixteca (p.130)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La pelota mixteca es un juego nuevo que se inventó hace poco.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "Falso. El libro dice que 'sus orígenes se remontan a la época prehispánica', o sea de antes de la llegada de los españoles."
+      },
+      {
+        "id": "k1-len-b4-014",
+        "tema": "Animales, arte prehispánico (p.121)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de animales se ven en las esculturas prehispánicas?  ",
+        "opciones": [
+          "Elefantes y jirafas",
+          "Perros, jaguares y felinos",
+          "Dinosaurios",
+          "Caballos"
+        ],
+        "respuestaCorrecta": "Perros, jaguares y felinos",
+        "explicacion": "Las 6 esculturas muestran perros (tipo xoloitzcuintle), jaguares y felinos hechos de barro y piedra por culturas prehispánicas mexicanas."
+      },
+      {
+        "id": "k1-len-b4-015",
+        "tema": "La g busca a su familia (p.116)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La autora del cuento 'La g busca a su familia' se llama Belén García ___.  ",
+        "respuestaCorrecta": "Monroy",
+        "explicacion": "En la ilustración se lee 'Belén García Monroy, Ciudad de México' como la autora/ilustradora del cuento."
+      },
+      {
+        "id": "k1-len-b4-016",
+        "tema": "El peso de las nubes (p.96)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Quién ilustró 'El peso de las nubes'?  ",
+        "opciones": [
+          "Mario Núñez",
+          "Ricardo Peláez",
+          "Tania Edith Juárez Ceciliano",
+          "Angélica Mendia"
+        ],
+        "respuestaCorrecta": "Tania Edith Juárez Ceciliano",
+        "explicacion": "En la ilustración de la página 96 se puede leer el crédito de Tania Edith Juárez Ceciliano, Ciudad de México."
+      },
+      {
+        "id": "k1-len-b4-017",
+        "tema": "Manu el cangrejo ermitaño (p.102)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué usa Manu el cangrejo ermitaño para proteger su cuerpo blando?  ",
+        "opciones": [
+          "Una armadura de metal",
+          "Conchas vacías de otros animales",
+          "Hojas de árboles",
+          "Arena del mar"
+        ],
+        "respuestaCorrecta": "Conchas vacías de otros animales",
+        "explicacion": "Como no tiene caparazón propio, el cangrejo ermitaño busca conchas vacías de caracoles u otros animales para meterse dentro y proteger su cuerpo blando."
+      },
+      {
+        "id": "k1-len-b4-018",
+        "tema": "Manu el cangrejo ermitaño (p.102)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El ilustrador de Manu el cangrejo ermitaño es Carlos Javier Melgar Rincón, de ___.  ",
+        "respuestaCorrecta": "Michoacán",
+        "explicacion": "El crédito del ilustrador dice: Carlos Javier Melgar Rincón, Michoacán."
+      },
+      {
+        "id": "k1-len-b4-019",
+        "tema": "Pelota mixteca (p.130)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿De qué está hecha la pelota de la pelota mixteca?  ",
+        "opciones": [
+          "De plástico",
+          "De hule",
+          "De papel",
+          "De madera"
+        ],
+        "respuestaCorrecta": "De hule",
+        "explicacion": "El libro dice que 'el guante con el que se golpea la pelota de hule se sujeta a la muñeca con correas'."
+      },
+      {
+        "id": "k1-len-b4-020",
+        "tema": "La g busca a su familia (p.116)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En el cuento, la letra g despierta en un lugar oscuro y busca a las demás letras.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Correcto. El cuento dice: 'Reinaba la oscuridad y, a lo lejos, poco a poco, se comenzó a percibir un rayito de luz. Ella se preguntó si ya era hora de despertar'."
+      }
+    ],
+    "preview": [
+      {
+        "id": "k1-len-b4-001",
+        "tema": "El peso de las nubes (p.96)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las nubes parecen de algodón y son muy ligeras.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! Las nubes parecen ligeras y esponjosas, pero en realidad ¡son muy pesadas!"
+      },
+      {
+        "id": "k1-len-b4-003",
+        "tema": "Manu el cangrejo ermitaño (p.102)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se llama el cangrejo del cuento?",
+        "opciones": [
+          "Carlos",
+          "Manu",
+          "Pedro",
+          "Pancho"
+        ],
+        "respuestaCorrecta": "Manu",
+        "explicacion": "El personaje dice: 'Hola, soy Manu, un cangrejo especial'."
+      },
+      {
+        "id": "k1-len-b4-007",
+        "tema": "Pelota mixteca (p.130)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué estados se juega la pelota mixteca?",
+        "opciones": [
+          "Sonora y Chihuahua",
+          "Oaxaca, Guerrero, Puebla y CDMX",
+          "Yucatán y QR",
+          "NL y Tamaulipas"
+        ],
+        "respuestaCorrecta": "Oaxaca, Guerrero, Puebla y CDMX",
+        "explicacion": "La pelota mixteca se juega en Oaxaca, Guerrero, Puebla y Ciudad de México."
+      }
+    ]
+  },
+  "generado": "2026-03-10T21:48:00.000Z",
+  "version": "3.0-libro-real"
 }

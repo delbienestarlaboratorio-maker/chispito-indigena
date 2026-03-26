@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El corazón bombea más rápido para llevar más oxígeno a los músculos en movimiento."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Un buen calentamiento incluye movimientos articulares y ejercicio suave durante 5-10 minutos."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La falta de actividad física aumenta el riesgo de obesidad, diabetes y enfermedades del corazón."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "El ejercicio aeróbico usa oxígeno de forma continua: trotar, nadar, andar en bici."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p4ef-b1-01-v2",
+        "tema": "Calentamiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Para qué sirve el calentamiento antes del ejercicio? ​",
+        "opciones": [
+          "Preparar músculos y articulaciones para evitar lesiones",
+          "Para cansarnos antes",
+          "Para perder tiempo",
+          "No sirve de nada"
+        ],
+        "respuestaCorrecta": "Preparar músculos y articulaciones para evitar lesiones",
+        "explicacion": "El calentamiento aumenta la temperatura muscular y reduce el riesgo de lesiones."
+      },
+      {
+        "id": "p4ef-b1-02-v2",
+        "tema": "Frecuencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Dónde podemos sentir nuestro pulso? ​",
+        "opciones": [
+          "En el cuello o la muñeca",
+          "En la rodilla",
+          "En el codo",
+          "En el pie"
+        ],
+        "respuestaCorrecta": "En el cuello o la muñeca",
+        "explicacion": "El pulso se siente donde las arterias están cerca de la piel: cuello (carótida) y muñeca (radial)."
+      },
+      {
+        "id": "p4ef-b1-03-v2",
+        "tema": "Ejercicio",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Después de correr, nuestro corazón late más rápido ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El corazón bombea más rápido para llevar más oxígeno a los músculos en movimiento."
+      },
+      {
+        "id": "p4ef-b1-04-v2",
+        "tema": "Enfriamiento",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hacemos al terminar el ejercicio intenso? ​",
+        "opciones": [
+          "Estiramientos suaves y caminar lento",
+          "Parar de golpe",
+          "Comer inmediatamente",
+          "Dormir en el piso"
+        ],
+        "respuestaCorrecta": "Estiramientos suaves y caminar lento",
+        "explicacion": "La vuelta a la calma reduce gradualmente la frecuencia cardíaca y previene mareos."
+      },
+      {
+        "id": "p4ef-b1-05-v2",
+        "tema": "Ejercicio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos minutos de ejercicio diario recomienda la OMS para niños? ​",
+        "opciones": [
+          "60 minutos",
+          "10 minutos",
+          "5 minutos",
+          "120 minutos"
+        ],
+        "respuestaCorrecta": "60 minutos",
+        "explicacion": "La OMS recomienda al menos 60 minutos diarios de actividad moderada-vigorosa para niños."
+      },
+      {
+        "id": "p4ef-b1-06-v2",
+        "tema": "Calentamiento",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El calentamiento debe durar entre 5 y 10 minutos ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Un buen calentamiento incluye movimientos articulares y ejercicio suave durante 5-10 minutos."
+      },
+      {
+        "id": "p4ef-b1-07-v2",
+        "tema": "Ejercicio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de ejercicio mejora la resistencia cardiovascular? ​",
+        "opciones": [
+          "Correr distancias largas a ritmo moderado",
+          "Levantar pesas muy pesadas",
+          "Solo estirar",
+          "Solo sentadillas"
+        ],
+        "respuestaCorrecta": "Correr distancias largas a ritmo moderado",
+        "explicacion": "El ejercicio aeróbico continuo (correr, nadar, bicicleta) fortalece el corazón."
+      },
+      {
+        "id": "p4ef-b1-08-v2",
+        "tema": "Frecuencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué respiramos más rápido al hacer ejercicio? ​",
+        "opciones": [
+          "Porque el cuerpo necesita más oxígeno",
+          "Porque estamos enfermos",
+          "No hay razón",
+          "Porque hace calor"
+        ],
+        "respuestaCorrecta": "Porque el cuerpo necesita más oxígeno",
+        "explicacion": "Los músculos en movimiento requieren más oxígeno, así que respiramos más para conseguirlo."
+      },
+      {
+        "id": "p4ef-b1-09-v2",
+        "tema": "Ejercicio",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El sedentarismo (no hacer ejercicio) puede causar enfermedades ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La falta de actividad física aumenta el riesgo de obesidad, diabetes y enfermedades del corazón."
+      },
+      {
+        "id": "p4ef-b1-10-v2",
+        "tema": "Ejercicio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es un ejercicio aeróbico? ​",
+        "opciones": [
+          "Trotar",
+          "Levantar pesas",
+          "Solo estirar",
+          "Abdominales quietos"
+        ],
+        "respuestaCorrecta": "Trotar",
+        "explicacion": "El ejercicio aeróbico usa oxígeno de forma continua: trotar, nadar, andar en bici."
+      }
+    ],
     "preview": [
       {
         "id": "p4ef-b1-01",

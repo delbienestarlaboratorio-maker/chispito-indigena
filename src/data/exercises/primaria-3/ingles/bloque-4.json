@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Fish = pez. Los peces viven en el agua."
       },
       {
@@ -109,7 +109,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Sun = sol. Moon = luna."
       },
       {
@@ -158,7 +158,154 @@
         "explicacion": "Rain = lluvia. It rains = llueve."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p3en-b4-01-v2",
+        "tema": "Animales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Dog\" means: ​",
+        "opciones": [
+          "Perro",
+          "Gato",
+          "Pájaro",
+          "Pez"
+        ],
+        "respuestaCorrecta": "Perro",
+        "explicacion": "Dog = perro. Cat = gato."
+      },
+      {
+        "id": "p3en-b4-02-v2",
+        "tema": "Animales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Bird\" means: ​",
+        "opciones": [
+          "Pájaro",
+          "Pez",
+          "Caballo",
+          "Vaca"
+        ],
+        "respuestaCorrecta": "Pájaro",
+        "explicacion": "Bird = pájaro o ave."
+      },
+      {
+        "id": "p3en-b4-03-v2",
+        "tema": "Animales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "A \"fish\" lives in the water ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Fish = pez. Los peces viven en el agua."
+      },
+      {
+        "id": "p3en-b4-04-v2",
+        "tema": "Animales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Horse\" means: ​",
+        "opciones": [
+          "Caballo",
+          "Burro",
+          "Vaca",
+          "Cerdo"
+        ],
+        "respuestaCorrecta": "Caballo",
+        "explicacion": "Horse = caballo."
+      },
+      {
+        "id": "p3en-b4-05-v2",
+        "tema": "Naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Tree\" means: ​",
+        "opciones": [
+          "Árbol",
+          "Flor",
+          "Planta",
+          "Hoja"
+        ],
+        "respuestaCorrecta": "Árbol",
+        "explicacion": "Tree = árbol. Flower = flor."
+      },
+      {
+        "id": "p3en-b4-06-v2",
+        "tema": "Animales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which animal says \"meow\"? ​",
+        "opciones": [
+          "Cat",
+          "Dog",
+          "Cow",
+          "Bird"
+        ],
+        "respuestaCorrecta": "Cat",
+        "explicacion": "Cats say meow. Los gatos hacen miau."
+      },
+      {
+        "id": "p3en-b4-07-v2",
+        "tema": "Naturaleza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Sun\" means luna ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Sun = sol. Moon = luna."
+      },
+      {
+        "id": "p3en-b4-08-v2",
+        "tema": "Colores",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Green\" is the color of: ​",
+        "opciones": [
+          "Grass",
+          "The sky",
+          "The sun",
+          "A tomato"
+        ],
+        "respuestaCorrecta": "Grass",
+        "explicacion": "Green = verde. La hierba (grass) es verde."
+      },
+      {
+        "id": "p3en-b4-09-v2",
+        "tema": "Animales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Cow\" means: ​",
+        "opciones": [
+          "Vaca",
+          "Toro",
+          "Cerdo",
+          "Oveja"
+        ],
+        "respuestaCorrecta": "Vaca",
+        "explicacion": "Cow = vaca. Bull = toro."
+      },
+      {
+        "id": "p3en-b4-10-v2",
+        "tema": "Naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Rain\" means: ​",
+        "opciones": [
+          "Lluvia",
+          "Nieve",
+          "Sol",
+          "Viento"
+        ],
+        "respuestaCorrecta": "Lluvia",
+        "explicacion": "Rain = lluvia. It rains = llueve."
+      }
+    ],
     "preview": [
       {
         "id": "p3en-b4-01",

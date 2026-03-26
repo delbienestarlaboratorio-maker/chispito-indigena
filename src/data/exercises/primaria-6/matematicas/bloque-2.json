@@ -8,362 +8,76 @@
     "Variables y expresiones",
     "Ecuaciones lineales"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "primaria-6-matematicas-b2-001",
         "tema": "Variables y expresiones",
         "tipo": "multiple_choice",
-        "pregunta": "Problema de Variables y expresiones: ¿Cuál opción es correcta?",
-        "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Variables y expresiones.",
         "nivel": "v1",
-        "respuestaCorrecta": "Opción A"
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "opciones": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
       },
       {
         "id": "primaria-6-matematicas-b2-002",
         "tema": "Variables y expresiones",
-        "tipo": "fill_blank",
-        "pregunta": "Completa: ___ es la clave en Variables y expresiones",
-        "explicacion": "En Variables y expresiones siempre debemos aplicar el método correcto.",
+        "tipo": "true_false",
         "nivel": "v1",
-        "respuestaCorrecta": "Correcto"
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       },
       {
         "id": "primaria-6-matematicas-b2-003",
         "tema": "Variables y expresiones",
-        "tipo": "true_false",
-        "pregunta": "Variables y expresiones es parte de las matemáticas de 6° Primaria",
-        "explicacion": "Sí, Variables y expresiones es un tema central en este grado.",
-        "nivel": "v1",
-        "respuestaCorrecta": "true"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-extra-007",
-        "tema": "Variables y expresiones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si 3x + 7 = 22, ¿cuánto es x?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "3x = 22-7 = 15, x = 15÷3 = 5."
-      },
-      {
-        "id": "primaria-6-matematicas-b2-extra-009",
-        "tema": "Variables y expresiones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el MCD de 12 y 18?",
-        "opciones": [
-          "3",
-          "4",
-          "6",
-          "9"
-        ],
-        "respuestaCorrecta": "6",
-        "explicacion": "Los factores de 12: 1,2,3,4,6,12. Los de 18: 1,2,3,6,9,18. El máximo común es 6."
-      },
-      {
-        "id": "primaria-6-matematicas-b2-extra-011",
-        "tema": "Variables y expresiones",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "15% de 80 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "15% de 80 = 0.15 × 80 = 12.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-013",
-        "tema": "Variables y expresiones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-014",
-        "tema": "Ecuaciones lineales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-015",
-        "tema": "Variables y expresiones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000."
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-016",
-        "tema": "Ecuaciones lineales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-017",
-        "tema": "Variables y expresiones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6."
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-018",
-        "tema": "Ecuaciones lineales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-019",
-        "tema": "Variables y expresiones",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "datoClave": "Escala de pH: 0-6 ácido, 7 neutro, 8-14 básico. El pH del estómago es ~2 (ácido).",
-        "formula": "pH = -log[H⁺] · Agua pura = 7"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-020",
-        "tema": "Ecuaciones lineales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000.",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
+        "pregunta": "El resultado de una suma se llama ___",
+        "respuestaCorrecta": "total",
+        "explicacion": "También se le conoce como suma o adición."
       }
     ],
     "v2": [
       {
-        "id": "primaria-6-matematicas-b2-004",
+        "id": "primaria-6-matematicas-b2-v2-001",
         "tema": "Ecuaciones lineales",
         "tipo": "multiple_choice",
-        "pregunta": "Problema de Variables y expresiones: ¿Cuál opción es correcta?",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
         "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Variables y expresiones.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Opción A",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
-        "id": "primaria-6-matematicas-b2-005",
-        "tema": "Ecuaciones lineales",
-        "tipo": "fill_blank",
-        "pregunta": "Completa: ___ es la clave en Variables y expresiones",
-        "explicacion": "En Variables y expresiones siempre debemos aplicar el método correcto.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Correcto",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-006",
-        "tema": "Ecuaciones lineales",
-        "tipo": "true_false",
-        "pregunta": "Variables y expresiones es parte de las matemáticas de 6° Primaria",
-        "explicacion": "Sí, Variables y expresiones es un tema central en este grado.",
-        "nivel": "v2",
-        "respuestaCorrecta": "true",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-extra-008",
-        "tema": "Ecuaciones lineales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "√144 = ___",
-        "respuestaCorrecta": "12",
-        "explicacion": "La raíz cuadrada de 144 es 12, porque 12×12=144.",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-extra-010",
+        "id": "primaria-6-matematicas-b2-v2-002",
         "tema": "Ecuaciones lineales",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número pi (π) es aproximadamente 3.14",
+        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. π ≈ 3.14159... Se usa para calcular circunferencias y áreas de círculos.",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
+        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
       },
       {
-        "id": "primaria-6-matematicas-b2-extra-012",
-        "tema": "Ecuaciones lineales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "La media de 4, 6, 8, 10 es:",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "Media = (4+6+8+10)÷4 = 28÷4 = 7.",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-013",
-        "tema": "Variables y expresiones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-014",
+        "id": "primaria-6-matematicas-b2-v2-003",
         "tema": "Ecuaciones lineales",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-015",
-        "tema": "Variables y expresiones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar."
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-016",
-        "tema": "Ecuaciones lineales",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-017",
-        "tema": "Variables y expresiones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000."
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-018",
-        "tema": "Ecuaciones lineales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "datoClave": "Porcentaje: parte de 100. \"25% de 80\" = cuánto es 25 de cada 100 en 80.",
-        "formula": "% = (parte ÷ total) × 100"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-019",
-        "tema": "Variables y expresiones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6."
-      },
-      {
-        "id": "primaria-6-matematicas-b2-x-020",
-        "tema": "Ecuaciones lineales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
+        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
+        "respuestaCorrecta": "recto",
+        "explicacion": "Un ángulo recto forma una L perfecta."
       }
     ],
     "preview": [
@@ -371,45 +85,43 @@
         "id": "primaria-6-matematicas-b2-001",
         "tema": "Variables y expresiones",
         "tipo": "multiple_choice",
-        "pregunta": "Problema de Variables y expresiones: ¿Cuál opción es correcta?",
-        "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Variables y expresiones.",
         "nivel": "v1",
-        "respuestaCorrecta": "Opción A"
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "opciones": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
+      },
+      {
+        "id": "primaria-6-matematicas-b2-v2-001",
+        "tema": "Ecuaciones lineales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
         "id": "primaria-6-matematicas-b2-002",
         "tema": "Variables y expresiones",
-        "tipo": "fill_blank",
-        "pregunta": "Completa: ___ es la clave en Variables y expresiones",
-        "explicacion": "En Variables y expresiones siempre debemos aplicar el método correcto.",
+        "tipo": "true_false",
         "nivel": "v1",
-        "respuestaCorrecta": "Correcto"
-      },
-      {
-        "id": "primaria-6-matematicas-b2-004",
-        "tema": "Ecuaciones lineales",
-        "tipo": "multiple_choice",
-        "pregunta": "Problema de Variables y expresiones: ¿Cuál opción es correcta?",
-        "opciones": [
-          "Opción A",
-          "Opción B",
-          "Opción C",
-          "Opción D"
-        ],
-        "explicacion": "Esta es la respuesta correcta relacionada con Variables y expresiones.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Opción A",
-        "datoClave": "Ecuación: igualdad algebraica. Para resolver, aisla la variable haciendo lo mismo en ambos lados.",
-        "formula": "ax + b = c → x = (c-b)/a"
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       }
     ]
   },
-  "generado": "2026-02-27T16:06:30.460Z",
+  "generado": "2026-03-26T03:09:52.399Z",
   "version": "2.0"
 }

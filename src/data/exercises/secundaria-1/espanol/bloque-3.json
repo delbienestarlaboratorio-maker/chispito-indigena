@@ -8,7 +8,7 @@
     "Oraciones compuestas",
     "Conjunciones y preposiciones"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -16,326 +16,74 @@
         "tema": "Oraciones compuestas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Oraciones compuestas\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Oraciones compuestas es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "secundaria-1-espanol-b3-002",
         "tema": "Oraciones compuestas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Oraciones compuestas es parte del currículo oficial de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "secundaria-1-espanol-b3-003",
         "tema": "Oraciones compuestas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "En Oraciones compuestas, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-extra-007",
-        "tema": "Oraciones compuestas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El narrador omnisciente...",
-        "opciones": [
-          "Solo narra lo que ve",
-          "Conoce los pensamientos de todos",
-          "Es el protagonista",
-          "No existe"
-        ],
-        "respuestaCorrecta": "Conoce los pensamientos de todos",
-        "explicacion": "El narrador omnisciente sabe todo: pensamientos, sentimientos y eventos."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-extra-009",
-        "tema": "Oraciones compuestas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El ensayo es siempre un texto de opinión personal",
-        "respuestaCorrecta": "true",
-        "explicacion": "El ensayo expresa el punto de vista del autor sobre un tema, con argumentos."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-011",
-        "tema": "Oraciones compuestas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Un oximorón es...",
-        "opciones": [
-          "Sinónimos combinados",
-          "Palabras contrarias en unión",
-          "Una figura matemática",
-          "Un tipo de narrador"
-        ],
-        "respuestaCorrecta": "Palabras contrarias en unión",
-        "explicacion": "Oximorón: unir conceptos contrarios. Ej: \"silencio ensordecedor\", \"oscura claridad\"."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-012",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En \"habría comido\", el tiempo verbal es...",
-        "opciones": [
-          "Condicional perfecto",
-          "Subjuntivo imperfecto",
-          "Futuro perfecto",
-          "Indicativo"
-        ],
-        "respuestaCorrecta": "Condicional perfecto",
-        "explicacion": "Habría comido = condicional perfecto, indica acción hipotética en el pasado."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-013",
-        "tema": "Oraciones compuestas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Octavio Paz escribió el poemario \"___\" (1950)",
-        "respuestaCorrecta": "El laberinto de la soledad",
-        "explicacion": "Obra cumbre de Octavio Paz, Premio Nobel Mexicano."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-014",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El español es una lengua ___",
-        "respuestaCorrecta": "romance",
-        "explicacion": "Las lenguas romances derivan del latín: español, francés, italiano, portugués."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-015",
-        "tema": "Oraciones compuestas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El texto argumentativo busca convencer al lector",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Presenta tesis, argumentos y conclusión para persuadir."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-016",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Un oximorón es...",
-        "opciones": [
-          "Sinónimos combinados",
-          "Palabras contrarias en unión",
-          "Una figura matemática",
-          "Un tipo de narrador"
-        ],
-        "respuestaCorrecta": "Palabras contrarias en unión",
-        "explicacion": "Oximorón: unir conceptos contrarios. Ej: \"silencio ensordecedor\", \"oscura claridad\"."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-017",
-        "tema": "Oraciones compuestas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En \"habría comido\", el tiempo verbal es...",
-        "opciones": [
-          "Condicional perfecto",
-          "Subjuntivo imperfecto",
-          "Futuro perfecto",
-          "Indicativo"
-        ],
-        "respuestaCorrecta": "Condicional perfecto",
-        "explicacion": "Habría comido = condicional perfecto, indica acción hipotética en el pasado."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-018",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Octavio Paz escribió el poemario \"___\" (1950)",
-        "respuestaCorrecta": "El laberinto de la soledad",
-        "explicacion": "Obra cumbre de Octavio Paz, Premio Nobel Mexicano."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-019",
-        "tema": "Oraciones compuestas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El español es una lengua ___",
-        "respuestaCorrecta": "romance",
-        "explicacion": "Las lenguas romances derivan del latín: español, francés, italiano, portugués."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "secundaria-1-espanol-b3-004",
+        "id": "secundaria-1-espanol-b3-v2-001",
         "tema": "Conjunciones y preposiciones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Conjunciones y preposiciones\"?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Conjunciones y preposiciones es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "secundaria-1-espanol-b3-005",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Conjunciones y preposiciones es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-006",
+        "id": "secundaria-1-espanol-b3-v2-002",
         "tema": "Conjunciones y preposiciones",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En Conjunciones y preposiciones, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
       },
       {
-        "id": "secundaria-1-espanol-b3-extra-008",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La metáfora es una ___ que compara sin usar \"como\"",
-        "respuestaCorrecta": "figura retórica",
-        "explicacion": "La metáfora es una figura que afirma que algo ES otra cosa: \"Sus ojos son estrellas.\""
-      },
-      {
-        "id": "secundaria-1-espanol-b3-extra-010",
+        "id": "secundaria-1-espanol-b3-v2-003",
         "tema": "Conjunciones y preposiciones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En \"El perro del hortelano\": ¿es un texto...?",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
         "opciones": [
-          "Lírico",
-          "Dramático",
-          "Narrativo",
-          "Científico"
-        ],
-        "respuestaCorrecta": "Dramático",
-        "explicacion": "Es una obra de teatro de Lope de Vega — texto dramático escrito para representarse."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-011",
-        "tema": "Oraciones compuestas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El español es una lengua ___",
-        "respuestaCorrecta": "romance",
-        "explicacion": "Las lenguas romances derivan del latín: español, francés, italiano, portugués."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-012",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El texto argumentativo busca convencer al lector",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Presenta tesis, argumentos y conclusión para persuadir."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-013",
-        "tema": "Oraciones compuestas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un oximorón es...",
-        "opciones": [
-          "Sinónimos combinados",
-          "Palabras contrarias en unión",
-          "Una figura matemática",
-          "Un tipo de narrador"
-        ],
-        "respuestaCorrecta": "Palabras contrarias en unión",
-        "explicacion": "Oximorón: unir conceptos contrarios. Ej: \"silencio ensordecedor\", \"oscura claridad\"."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-014",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En \"habría comido\", el tiempo verbal es...",
-        "opciones": [
-          "Condicional perfecto",
-          "Subjuntivo imperfecto",
-          "Futuro perfecto",
-          "Indicativo"
-        ],
-        "respuestaCorrecta": "Condicional perfecto",
-        "explicacion": "Habría comido = condicional perfecto, indica acción hipotética en el pasado."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-015",
-        "tema": "Oraciones compuestas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Octavio Paz escribió el poemario \"___\" (1950)",
-        "respuestaCorrecta": "El laberinto de la soledad",
-        "explicacion": "Obra cumbre de Octavio Paz, Premio Nobel Mexicano."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-016",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El español es una lengua ___",
-        "respuestaCorrecta": "romance",
-        "explicacion": "Las lenguas romances derivan del latín: español, francés, italiano, portugués."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-017",
-        "tema": "Oraciones compuestas",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El texto argumentativo busca convencer al lector",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Presenta tesis, argumentos y conclusión para persuadir."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-018",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un oximorón es...",
-        "opciones": [
-          "Sinónimos combinados",
-          "Palabras contrarias en unión",
-          "Una figura matemática",
-          "Un tipo de narrador"
-        ],
-        "respuestaCorrecta": "Palabras contrarias en unión",
-        "explicacion": "Oximorón: unir conceptos contrarios. Ej: \"silencio ensordecedor\", \"oscura claridad\"."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-x-019",
-        "tema": "Oraciones compuestas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En \"habría comido\", el tiempo verbal es...",
-        "opciones": [
-          "Condicional perfecto",
-          "Subjuntivo imperfecto",
-          "Futuro perfecto",
-          "Indicativo"
-        ],
-        "respuestaCorrecta": "Condicional perfecto",
-        "explicacion": "Habría comido = condicional perfecto, indica acción hipotética en el pasado."
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -344,42 +92,42 @@
         "tema": "Oraciones compuestas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Oraciones compuestas\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Oraciones compuestas es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "secundaria-1-espanol-b3-v2-001",
+        "tema": "Conjunciones y preposiciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "secundaria-1-espanol-b3-002",
         "tema": "Oraciones compuestas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Oraciones compuestas es parte del currículo oficial de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
-      },
-      {
-        "id": "secundaria-1-espanol-b3-004",
-        "tema": "Conjunciones y preposiciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Conjunciones y preposiciones\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Conjunciones y preposiciones es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:24.023Z",
+  "generado": "2026-03-26T03:09:52.413Z",
   "version": "2.0"
 }

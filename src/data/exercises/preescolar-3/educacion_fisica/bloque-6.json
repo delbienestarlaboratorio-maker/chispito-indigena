@@ -1,61 +1,104 @@
 {
-    "grado": "preescolar-3",
-    "materia": "educacion_fisica",
-    "bloque": 6,
-    "nombre": "Mis deportes hablan (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Deportes olímpicos básicos",
-        "Partes del cuerpo avanzadas",
-        "Rutinas de estiramiento",
-        "Juego en equipo"
+  "grado": "preescolar-3",
+  "materia": "educacion_fisica",
+  "bloque": 6,
+  "nombre": "Mis deportes hablan (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Deportes olímpicos básicos",
+    "Partes del cuerpo avanzadas",
+    "Rutinas de estiramiento",
+    "Juego en equipo"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre3-edf-b6-v1-001",
+        "tema": "Deportes olímpicos básicos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo es la seña para el deporte del 'VÓLEIBOL' (Voleibol)?",
+        "opciones": [
+          "Levantamos las manos a la altura de la cara, mostrando las palmas y simulando el voleo con los dedos cerrándose y abriéndose.",
+          "Ponemos ambas manos en la cadera",
+          "Simulamos agarrar un bate invisible"
+        ],
+        "respuestaCorrecta": "Levantamos las manos a la altura de la cara, mostrando las palmas y simulando el voleo con los dedos cerrándose y abriéndose.",
+        "explicacion": "¡Vólei! Igual que cuando acomodas la pelota en la vida real, pones ambas manos encima de tu cabeza y sacudes los dedos hacia el frente acomodando el balón invisible. 🏐"
+      },
+      {
+        "id": "pre3-edf-b6-v1-002",
+        "tema": "Partes del cuerpo avanzadas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para señalar mi 'ESPALDA' en Lengua de Señas, uso mi mano abierta y le doy un par de golpecitos detrás del hombro por la espalda.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Literalmente palmeas con cuidado la parte superior de tu espalda por encima de un hombro dos veces. 🧍‍♂️"
+      },
+      {
+        "id": "pre3-edf-b6-v1-003",
+        "tema": "Rutinas de estiramiento",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para la seña de 'RELAJARSE' (o descanso), cruzo mis brazos frente al pecho soltando el cuerpo y la ___ profundamente.",
+        "respuestaCorrecta": "respiración",
+        "explicacion": "¡A relajarnos! Cruzar los brazos en X tocando los hombros contrarios mientras exhalas despacito es la postura del descanso pacífico en LSM. 😌"
+      },
+      {
+        "id": "pre3-edf-b6-v1-004",
+        "tema": "Deportes olímpicos básicos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La seña para la 'NATACIÓN' es hacer un círculo en la panza.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Totalmente falso! Para nadar estiras los brazos hacia enfrente y haces los movimientos de dorso empujando el agua a los lados. 🏊‍♀️"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "pre3-edf-b6-v1-001",
-                "tema": "Deportes olímpicos básicos",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo es la seña para el deporte del 'VÓLEIBOL' (Voleibol)?",
-                "opciones": [
-                    "Levantamos las manos a la altura de la cara, mostrando las palmas y simulando el voleo con los dedos cerrándose y abriéndose.",
-                    "Ponemos ambas manos en la cadera",
-                    "Simulamos agarrar un bate invisible"
-                ],
-                "respuestaCorrecta": "Levantamos las manos a la altura de la cara, mostrando las palmas y simulando el voleo con los dedos cerrándose y abriéndose.",
-                "explicacion": "¡Vólei! Igual que cuando acomodas la pelota en la vida real, pones ambas manos encima de tu cabeza y sacudes los dedos hacia el frente acomodando el balón invisible. 🏐"
-            },
-            {
-                "id": "pre3-edf-b6-v1-002",
-                "tema": "Partes del cuerpo avanzadas",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para señalar mi 'ESPALDA' en Lengua de Señas, uso mi mano abierta y le doy un par de golpecitos detrás del hombro por la espalda.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! Literalmente palmeas con cuidado la parte superior de tu espalda por encima de un hombro dos veces. 🧍‍♂️"
-            },
-            {
-                "id": "pre3-edf-b6-v1-003",
-                "tema": "Rutinas de estiramiento",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para la seña de 'RELAJARSE' (o descanso), cruzo mis brazos frente al pecho soltando el cuerpo y la ___ profundamente.",
-                "respuestaCorrecta": "respiración",
-                "explicacion": "¡A relajarnos! Cruzar los brazos en X tocando los hombros contrarios mientras exhalas despacito es la postura del descanso pacífico en LSM. 😌"
-            },
-            {
-                "id": "pre3-edf-b6-v1-004",
-                "tema": "Deportes olímpicos básicos",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "La seña para la 'NATACIÓN' es hacer un círculo en la panza.",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Totalmente falso! Para nadar estiras los brazos hacia enfrente y haces los movimientos de dorso empujando el agua a los lados. 🏊‍♀️"
-            }
-        ]
-    },
-    "generado": "2026-03-09T04:00:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "pre3-edf-b6-v1-001-v2",
+        "tema": "Deportes olímpicos básicos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo es la seña para el deporte del 'VÓLEIBOL' (Voleibol)? ​",
+        "opciones": [
+          "Levantamos las manos a la altura de la cara, mostrando las palmas y simulando el voleo con los dedos cerrándose y abriéndose.",
+          "Ponemos ambas manos en la cadera",
+          "Simulamos agarrar un bate invisible"
+        ],
+        "respuestaCorrecta": "Levantamos las manos a la altura de la cara, mostrando las palmas y simulando el voleo con los dedos cerrándose y abriéndose.",
+        "explicacion": "¡Vólei! Igual que cuando acomodas la pelota en la vida real, pones ambas manos encima de tu cabeza y sacudes los dedos hacia el frente acomodando el balón invisible. 🏐"
+      },
+      {
+        "id": "pre3-edf-b6-v1-002-v2",
+        "tema": "Partes del cuerpo avanzadas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para señalar mi 'ESPALDA' en Lengua de Señas, uso mi mano abierta y le doy un par de golpecitos detrás del hombro por la espalda. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Literalmente palmeas con cuidado la parte superior de tu espalda por encima de un hombro dos veces. 🧍‍♂️"
+      },
+      {
+        "id": "pre3-edf-b6-v1-003-v2",
+        "tema": "Rutinas de estiramiento",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para la seña de 'RELAJARSE' (o descanso), cruzo mis brazos frente al pecho soltando el cuerpo y la ___ profundamente. ​",
+        "respuestaCorrecta": "respiración",
+        "explicacion": "¡A relajarnos! Cruzar los brazos en X tocando los hombros contrarios mientras exhalas despacito es la postura del descanso pacífico en LSM. 😌"
+      },
+      {
+        "id": "pre3-edf-b6-v1-004-v2",
+        "tema": "Deportes olímpicos básicos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La seña para la 'NATACIÓN' es hacer un círculo en la panza. ​",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Totalmente falso! Para nadar estiras los brazos hacia enfrente y haces los movimientos de dorso empujando el agua a los lados. 🏊‍♀️"
+      }
+    ]
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

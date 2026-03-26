@@ -10,7 +10,7 @@
     "Exposición oral con apoyo visual",
     "Antología de textos propios"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,74 @@
         "tema": "El periódico mural",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"El periódico mural\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de periódico",
-          "Se relaciona con el estudio de El periódico mural",
-          "Es un proceso que involucra periódico",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El periódico mural",
-        "explicacion": "💡 El Búho te ayuda: El periódico mural es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "telesecundaria-1-lenguajes_nem-b5-002",
         "tema": "El periódico mural",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"El periódico mural\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"El periódico mural\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "telesecundaria-1-lenguajes_nem-b5-003",
         "tema": "El periódico mural",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El periódico ___",
-        "respuestaCorrecta": "mural",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"El periódico mural\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-004",
-        "tema": "El periódico mural",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"El periódico mural\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre El periódico mural",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre El periódico mural",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"El periódico mural\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-005",
-        "tema": "Textos publicitarios y propaganda",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Textos publicitarios y propaganda\"?",
-        "opciones": [
-          "Es un concepto fundamental de Textos",
-          "Se relaciona con el estudio de Textos publicitarios y propaganda",
-          "Es un proceso que involucra Textos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Textos publicitarios y propaganda",
-        "explicacion": "💡 Pipo te ayuda: Textos publicitarios y propaganda es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-006",
-        "tema": "Textos publicitarios y propaganda",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Textos publicitarios y propaganda\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Textos publicitarios y propaganda\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-007",
-        "tema": "Textos publicitarios y propaganda",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Textos publicitarios y ___",
-        "respuestaCorrecta": "propaganda",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Textos publicitarios y propaganda\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-008",
-        "tema": "Textos publicitarios y propaganda",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Textos publicitarios y propaganda\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Textos publicitarios y propaganda",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Textos publicitarios y propaganda",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Textos publicitarios y propaganda\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-009",
-        "tema": "Exposición oral con apoyo visual",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Exposición oral con apoyo visual\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Exposición",
-          "Se relaciona con el estudio de Exposición oral con apoyo visual",
-          "Es un proceso que involucra Exposición",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Exposición oral con apoyo visual",
-        "explicacion": "💡 Cuca te ayuda: Exposición oral con apoyo visual es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-010",
-        "tema": "Exposición oral con apoyo visual",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Exposición oral con apoyo visual\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Exposición oral con apoyo visual\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-011",
-        "tema": "Exposición oral con apoyo visual",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Exposición oral con apoyo ___",
-        "respuestaCorrecta": "visual",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Exposición oral con apoyo visual\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-012",
-        "tema": "Exposición oral con apoyo visual",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Exposición oral con apoyo visual\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Exposición oral con apoyo visual",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Exposición oral con apoyo visual",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Exposición oral con apoyo visual\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-013",
-        "tema": "Antología de textos propios",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Antología de textos propios\"?",
-        "opciones": [
-          "Es un concepto fundamental de Antología",
-          "Se relaciona con el estudio de Antología de textos propios",
-          "Es un proceso que involucra Antología",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Antología de textos propios",
-        "explicacion": "💡 Pipo te ayuda: Antología de textos propios es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-014",
-        "tema": "Antología de textos propios",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Antología de textos propios\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Antología de textos propios\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-015",
-        "tema": "Antología de textos propios",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Antología de textos ___",
-        "respuestaCorrecta": "propios",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Antología de textos propios\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-016",
-        "tema": "Antología de textos propios",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Antología de textos propios\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Antología de textos propios",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Antología de textos propios",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Antología de textos propios\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-001",
-        "tema": "El periódico mural",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"El periódico mural\"?",
-        "opciones": [
-          "Es un concepto fundamental de periódico",
-          "Se relaciona con el estudio de El periódico mural",
-          "Es un proceso que involucra periódico",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El periódico mural",
-        "explicacion": "💡 Pipo te ayuda: El periódico mural es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-002",
-        "tema": "El periódico mural",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"El periódico mural\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"El periódico mural\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-003",
-        "tema": "El periódico mural",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El periódico ___",
-        "respuestaCorrecta": "mural",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"El periódico mural\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-004",
-        "tema": "Textos publicitarios y propaganda",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Textos publicitarios y propaganda\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Textos",
-          "Se relaciona con el estudio de Textos publicitarios y propaganda",
-          "Es un proceso que involucra Textos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Textos publicitarios y propaganda",
-        "explicacion": "💡 Pipo te ayuda: Textos publicitarios y propaganda es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-005",
-        "tema": "Textos publicitarios y propaganda",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Textos publicitarios y propaganda\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Textos publicitarios y propaganda\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-006",
-        "tema": "Textos publicitarios y propaganda",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Textos publicitarios y ___",
-        "respuestaCorrecta": "propaganda",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Textos publicitarios y propaganda\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-007",
-        "tema": "Exposición oral con apoyo visual",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Exposición oral con apoyo visual\"?",
-        "opciones": [
-          "Es un concepto fundamental de Exposición",
-          "Se relaciona con el estudio de Exposición oral con apoyo visual",
-          "Es un proceso que involucra Exposición",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Exposición oral con apoyo visual",
-        "explicacion": "💡 El Búho te ayuda: Exposición oral con apoyo visual es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-008",
-        "tema": "Exposición oral con apoyo visual",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Exposición oral con apoyo visual\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Exposición oral con apoyo visual\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-009",
-        "tema": "Exposición oral con apoyo visual",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Exposición oral con apoyo ___",
-        "respuestaCorrecta": "visual",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Exposición oral con apoyo visual\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-010",
+        "id": "telesecundaria-1-lenguajes_nem-b5-v2-001",
         "tema": "Antología de textos propios",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Respecto a \"Antología de textos propios\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Es un concepto fundamental de Antología",
-          "Se relaciona con el estudio de Antología de textos propios",
-          "Es un proceso que involucra Antología",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Antología de textos propios",
-        "explicacion": "💡 Cuca te ayuda: Antología de textos propios es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-011",
-        "tema": "Antología de textos propios",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Antología de textos propios\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Antología de textos propios\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-012",
+        "id": "telesecundaria-1-lenguajes_nem-b5-v2-002",
         "tema": "Antología de textos propios",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Antología de textos ___",
-        "respuestaCorrecta": "propios",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Antología de textos propios\" según el programa de estudios."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+      },
+      {
+        "id": "telesecundaria-1-lenguajes_nem-b5-v2-003",
+        "tema": "Antología de textos propios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "opciones": [
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -346,43 +94,42 @@
         "tema": "El periódico mural",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"El periódico mural\"?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "Es un concepto fundamental de periódico",
-          "Se relaciona con el estudio de El periódico mural",
-          "Es un proceso que involucra periódico",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El periódico mural",
-        "explicacion": "💡 Pipo te ayuda: El periódico mural es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-lenguajes_nem-b5-v2-001",
+        "tema": "Antología de textos propios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "telesecundaria-1-lenguajes_nem-b5-002",
         "tema": "El periódico mural",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"El periódico mural\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
         "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"El periódico mural\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-lenguajes_nem-b5-p-001",
-        "tema": "El periódico mural",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"El periódico mural\"?",
-        "opciones": [
-          "Es un concepto fundamental de periódico",
-          "Se relaciona con el estudio de El periódico mural",
-          "Es un proceso que involucra periódico",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El periódico mural",
-        "explicacion": "💡 Neptuno te ayuda: El periódico mural es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.242Z",
-  "version": "3.0",
-  "historiaChispito": "La computadora central de la nave espacial de Chispito ha detectado anomalías en el sector de Comunicación comunitaria. ¡Nico necesita tu talento brillante para arreglarlo!"
+  "generado": "2026-03-26T03:11:48.156Z",
+  "version": "2.0"
 }

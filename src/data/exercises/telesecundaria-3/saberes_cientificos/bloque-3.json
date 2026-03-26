@@ -10,7 +10,7 @@
     "Prevención de enfermedades",
     "Salud comunitaria e higiene"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,68 @@
         "tema": "Sistema digestivo y nutrición",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Respecto a \"Sistema digestivo y nutrición\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "Es un concepto fundamental de Sistema",
-          "Se relaciona con el estudio de Sistema digestivo y nutrición",
-          "Es un proceso que involucra Sistema",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Sistema digestivo y nutrición",
-        "explicacion": "💡 Hada te ayuda: Sistema digestivo y nutrición es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
       },
       {
         "id": "telesecundaria-3-saberes_cientificos-b3-002",
         "tema": "Sistema digestivo y nutrición",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Sistema digestivo y nutrición\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Sistema digestivo y nutrición\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       },
       {
         "id": "telesecundaria-3-saberes_cientificos-b3-003",
         "tema": "Sistema digestivo y nutrición",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Sistema digestivo y ___",
-        "respuestaCorrecta": "nutrición",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Sistema digestivo y nutrición\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-004",
-        "tema": "Sistema digestivo y nutrición",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Sistema digestivo y nutrición\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Sistema digestivo y nutrición",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Sistema digestivo y nutrición",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Sistema digestivo y nutrición\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-005",
-        "tema": "Sistema respiratorio",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Sistema respiratorio\"?",
-        "opciones": [
-          "Es un concepto fundamental de Sistema",
-          "Se relaciona con el estudio de Sistema respiratorio",
-          "Es un proceso que involucra Sistema",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Sistema respiratorio",
-        "explicacion": "💡 Pipo te ayuda: Sistema respiratorio es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-006",
-        "tema": "Sistema respiratorio",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Sistema respiratorio\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Sistema respiratorio\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-007",
-        "tema": "Sistema respiratorio",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Sistema ___",
-        "respuestaCorrecta": "respiratorio",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Sistema respiratorio\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-008",
-        "tema": "Sistema respiratorio",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Sistema respiratorio\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Sistema respiratorio",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Sistema respiratorio",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Sistema respiratorio\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-009",
-        "tema": "Prevención de enfermedades",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Prevención de enfermedades\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Prevención",
-          "Se relaciona con el estudio de Prevención de enfermedades",
-          "Es un proceso que involucra Prevención",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Prevención de enfermedades",
-        "explicacion": "💡 Cuca te ayuda: Prevención de enfermedades es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-010",
-        "tema": "Prevención de enfermedades",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Prevención de enfermedades\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Prevención de enfermedades\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-011",
-        "tema": "Prevención de enfermedades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Prevención de ___",
-        "respuestaCorrecta": "enfermedades",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Prevención de enfermedades\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-012",
-        "tema": "Prevención de enfermedades",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Prevención de enfermedades\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Prevención de enfermedades",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Prevención de enfermedades",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Prevención de enfermedades\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-013",
-        "tema": "Salud comunitaria e higiene",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Salud comunitaria e higiene\"?",
-        "opciones": [
-          "Es un concepto fundamental de Salud",
-          "Se relaciona con el estudio de Salud comunitaria e higiene",
-          "Es un proceso que involucra Salud",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Salud comunitaria e higiene",
-        "explicacion": "💡 Hada te ayuda: Salud comunitaria e higiene es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-014",
-        "tema": "Salud comunitaria e higiene",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Salud comunitaria e higiene\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Salud comunitaria e higiene\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-015",
-        "tema": "Salud comunitaria e higiene",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Salud comunitaria e ___",
-        "respuestaCorrecta": "higiene",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Salud comunitaria e higiene\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-016",
-        "tema": "Salud comunitaria e higiene",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Salud comunitaria e higiene\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Salud comunitaria e higiene",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Salud comunitaria e higiene",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Salud comunitaria e higiene\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
+        "respuestaCorrecta": "fotosíntesis",
+        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-001",
-        "tema": "Sistema digestivo y nutrición",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Sistema digestivo y nutrición\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Sistema",
-          "Se relaciona con el estudio de Sistema digestivo y nutrición",
-          "Es un proceso que involucra Sistema",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Sistema digestivo y nutrición",
-        "explicacion": "💡 El Búho te ayuda: Sistema digestivo y nutrición es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-002",
-        "tema": "Sistema digestivo y nutrición",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Sistema digestivo y nutrición\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Sistema digestivo y nutrición\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-003",
-        "tema": "Sistema digestivo y nutrición",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Sistema digestivo y ___",
-        "respuestaCorrecta": "nutrición",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Sistema digestivo y nutrición\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-004",
-        "tema": "Sistema respiratorio",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Sistema respiratorio\"?",
-        "opciones": [
-          "Es un concepto fundamental de Sistema",
-          "Se relaciona con el estudio de Sistema respiratorio",
-          "Es un proceso que involucra Sistema",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Sistema respiratorio",
-        "explicacion": "💡 Neptuno te ayuda: Sistema respiratorio es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-005",
-        "tema": "Sistema respiratorio",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Sistema respiratorio\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Sistema respiratorio\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-006",
-        "tema": "Sistema respiratorio",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Sistema ___",
-        "respuestaCorrecta": "respiratorio",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Sistema respiratorio\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-007",
-        "tema": "Prevención de enfermedades",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Prevención de enfermedades\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Prevención",
-          "Se relaciona con el estudio de Prevención de enfermedades",
-          "Es un proceso que involucra Prevención",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Prevención de enfermedades",
-        "explicacion": "💡 Pipo te ayuda: Prevención de enfermedades es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-008",
-        "tema": "Prevención de enfermedades",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Prevención de enfermedades\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Prevención de enfermedades\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-009",
-        "tema": "Prevención de enfermedades",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Prevención de ___",
-        "respuestaCorrecta": "enfermedades",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Prevención de enfermedades\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-010",
+        "id": "telesecundaria-3-saberes_cientificos-b3-v2-001",
         "tema": "Salud comunitaria e higiene",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En el tema de \"Salud comunitaria e higiene\", ¿qué es lo más importante?",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
         "opciones": [
-          "Es un concepto fundamental de Salud",
-          "Se relaciona con el estudio de Salud comunitaria e higiene",
-          "Es un proceso que involucra Salud",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Salud comunitaria e higiene",
-        "explicacion": "💡 El Búho te ayuda: Salud comunitaria e higiene es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-011",
+        "id": "telesecundaria-3-saberes_cientificos-b3-v2-002",
         "tema": "Salud comunitaria e higiene",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Salud comunitaria e higiene\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Salud comunitaria e higiene\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
       },
       {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-012",
+        "id": "telesecundaria-3-saberes_cientificos-b3-v2-003",
         "tema": "Salud comunitaria e higiene",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Salud comunitaria e ___",
-        "respuestaCorrecta": "higiene",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Salud comunitaria e higiene\" según el programa de estudios."
+        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
       }
     ],
     "preview": [
@@ -346,43 +88,42 @@
         "tema": "Sistema digestivo y nutrición",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Respecto a \"Sistema digestivo y nutrición\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "Es un concepto fundamental de Sistema",
-          "Se relaciona con el estudio de Sistema digestivo y nutrición",
-          "Es un proceso que involucra Sistema",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Sistema digestivo y nutrición",
-        "explicacion": "💡 Pipo te ayuda: Sistema digestivo y nutrición es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
+      },
+      {
+        "id": "telesecundaria-3-saberes_cientificos-b3-v2-001",
+        "tema": "Salud comunitaria e higiene",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
+        "opciones": [
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
         "id": "telesecundaria-3-saberes_cientificos-b3-002",
         "tema": "Sistema digestivo y nutrición",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Sistema digestivo y nutrición\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Sistema digestivo y nutrición\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b3-p-001",
-        "tema": "Sistema digestivo y nutrición",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"Sistema digestivo y nutrición\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Sistema",
-          "Se relaciona con el estudio de Sistema digestivo y nutrición",
-          "Es un proceso que involucra Sistema",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Sistema digestivo y nutrición",
-        "explicacion": "💡 Hada te ayuda: Sistema digestivo y nutrición es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.360Z",
-  "version": "3.0",
-  "historiaChispito": "Nico ha encontrado un mapa antiguo escondido en la biblioteca estelar. El mapa revela secretos sobre Cuerpo humano y salud. ¡Descubramos qué esconde!"
+  "generado": "2026-03-26T03:11:48.231Z",
+  "version": "2.0"
 }

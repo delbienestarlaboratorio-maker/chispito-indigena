@@ -10,7 +10,7 @@
     "Experimentación: variables y control",
     "Proyectos de ciencia comunitaria"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,68 @@
         "tema": "El método científico",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"El método científico\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "Es un concepto fundamental de método",
-          "Se relaciona con el estudio de El método científico",
-          "Es un proceso que involucra método",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El método científico",
-        "explicacion": "💡 Hada te ayuda: El método científico es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
       },
       {
         "id": "telesecundaria-3-saberes_cientificos-b5-002",
         "tema": "El método científico",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"El método científico\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"El método científico\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       },
       {
         "id": "telesecundaria-3-saberes_cientificos-b5-003",
         "tema": "El método científico",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El método ___",
-        "respuestaCorrecta": "científico",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"El método científico\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-004",
-        "tema": "El método científico",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"El método científico\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre El método científico",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre El método científico",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"El método científico\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-005",
-        "tema": "Medición y unidades",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En el tema de \"Medición y unidades\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de Medición",
-          "Se relaciona con el estudio de Medición y unidades",
-          "Es un proceso que involucra Medición",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Medición y unidades",
-        "explicacion": "💡 El Búho te ayuda: Medición y unidades es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-006",
-        "tema": "Medición y unidades",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Medición y unidades\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Medición y unidades\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-007",
-        "tema": "Medición y unidades",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Medición y ___",
-        "respuestaCorrecta": "unidades",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Medición y unidades\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-008",
-        "tema": "Medición y unidades",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Medición y unidades\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Medición y unidades",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Medición y unidades",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Medición y unidades\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-009",
-        "tema": "Experimentación: variables y control",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Experimentación: variables y control\"?",
-        "opciones": [
-          "Es un concepto fundamental de Experimentación:",
-          "Se relaciona con el estudio de Experimentación: variables y control",
-          "Es un proceso que involucra Experimentación:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Experimentación: variables y control",
-        "explicacion": "💡 Hada te ayuda: Experimentación: variables y control es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-010",
-        "tema": "Experimentación: variables y control",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Experimentación: variables y control\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Experimentación: variables y control\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-011",
-        "tema": "Experimentación: variables y control",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Experimentación: variables y ___",
-        "respuestaCorrecta": "control",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Experimentación: variables y control\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-012",
-        "tema": "Experimentación: variables y control",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Experimentación: variables y control\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Experimentación: variables y control",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Experimentación: variables y control",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Experimentación: variables y control\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-013",
-        "tema": "Proyectos de ciencia comunitaria",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Respecto a \"Proyectos de ciencia comunitaria\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Proyectos",
-          "Se relaciona con el estudio de Proyectos de ciencia comunitaria",
-          "Es un proceso que involucra Proyectos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Proyectos de ciencia comunitaria",
-        "explicacion": "💡 Neptuno te ayuda: Proyectos de ciencia comunitaria es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-014",
-        "tema": "Proyectos de ciencia comunitaria",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Proyectos de ciencia comunitaria\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Proyectos de ciencia comunitaria\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-015",
-        "tema": "Proyectos de ciencia comunitaria",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Proyectos de ciencia ___",
-        "respuestaCorrecta": "comunitaria",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Proyectos de ciencia comunitaria\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-016",
-        "tema": "Proyectos de ciencia comunitaria",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Proyectos de ciencia comunitaria\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Proyectos de ciencia comunitaria",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Proyectos de ciencia comunitaria",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Proyectos de ciencia comunitaria\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
+        "respuestaCorrecta": "fotosíntesis",
+        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-001",
-        "tema": "El método científico",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"El método científico\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de método",
-          "Se relaciona con el estudio de El método científico",
-          "Es un proceso que involucra método",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El método científico",
-        "explicacion": "💡 Neptuno te ayuda: El método científico es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-002",
-        "tema": "El método científico",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"El método científico\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"El método científico\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-003",
-        "tema": "El método científico",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El método ___",
-        "respuestaCorrecta": "científico",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"El método científico\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-004",
-        "tema": "Medición y unidades",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Medición y unidades\"?",
-        "opciones": [
-          "Es un concepto fundamental de Medición",
-          "Se relaciona con el estudio de Medición y unidades",
-          "Es un proceso que involucra Medición",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Medición y unidades",
-        "explicacion": "💡 Neptuno te ayuda: Medición y unidades es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-005",
-        "tema": "Medición y unidades",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Medición y unidades\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Medición y unidades\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-006",
-        "tema": "Medición y unidades",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Medición y ___",
-        "respuestaCorrecta": "unidades",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Medición y unidades\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-007",
-        "tema": "Experimentación: variables y control",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Experimentación: variables y control\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Experimentación:",
-          "Se relaciona con el estudio de Experimentación: variables y control",
-          "Es un proceso que involucra Experimentación:",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Experimentación: variables y control",
-        "explicacion": "💡 Pipo te ayuda: Experimentación: variables y control es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-008",
-        "tema": "Experimentación: variables y control",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Experimentación: variables y control\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Experimentación: variables y control\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-009",
-        "tema": "Experimentación: variables y control",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Experimentación: variables y ___",
-        "respuestaCorrecta": "control",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Experimentación: variables y control\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-010",
+        "id": "telesecundaria-3-saberes_cientificos-b5-v2-001",
         "tema": "Proyectos de ciencia comunitaria",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En el tema de \"Proyectos de ciencia comunitaria\", ¿qué es lo más importante?",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
         "opciones": [
-          "Es un concepto fundamental de Proyectos",
-          "Se relaciona con el estudio de Proyectos de ciencia comunitaria",
-          "Es un proceso que involucra Proyectos",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Proyectos de ciencia comunitaria",
-        "explicacion": "💡 Pipo te ayuda: Proyectos de ciencia comunitaria es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-011",
+        "id": "telesecundaria-3-saberes_cientificos-b5-v2-002",
         "tema": "Proyectos de ciencia comunitaria",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Proyectos de ciencia comunitaria\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Proyectos de ciencia comunitaria\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
       },
       {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-012",
+        "id": "telesecundaria-3-saberes_cientificos-b5-v2-003",
         "tema": "Proyectos de ciencia comunitaria",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Proyectos de ciencia ___",
-        "respuestaCorrecta": "comunitaria",
-        "explicacion": "💡 Neptuno te ayuda: La respuesta correcta completa el concepto de \"Proyectos de ciencia comunitaria\" según el programa de estudios."
+        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
       }
     ],
     "preview": [
@@ -346,43 +88,42 @@
         "tema": "El método científico",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En el tema de \"El método científico\", ¿qué es lo más importante?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "Es un concepto fundamental de método",
-          "Se relaciona con el estudio de El método científico",
-          "Es un proceso que involucra método",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El método científico",
-        "explicacion": "💡 Hada te ayuda: El método científico es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
+      },
+      {
+        "id": "telesecundaria-3-saberes_cientificos-b5-v2-001",
+        "tema": "Proyectos de ciencia comunitaria",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
+        "opciones": [
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
         "id": "telesecundaria-3-saberes_cientificos-b5-002",
         "tema": "El método científico",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"El método científico\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"El método científico\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-3-saberes_cientificos-b5-p-001",
-        "tema": "El método científico",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el tema de \"El método científico\", ¿qué es lo más importante?",
-        "opciones": [
-          "Es un concepto fundamental de método",
-          "Se relaciona con el estudio de El método científico",
-          "Es un proceso que involucra método",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de El método científico",
-        "explicacion": "💡 El Búho te ayuda: El método científico es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.362Z",
-  "version": "3.0",
-  "historiaChispito": "Nico ha encontrado un mapa antiguo escondido en la biblioteca estelar. El mapa revela secretos sobre Pensamiento científico. ¡Descubramos qué esconde!"
+  "generado": "2026-03-26T03:11:48.233Z",
+  "version": "2.0"
 }

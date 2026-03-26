@@ -8,7 +8,7 @@
     "Numeros del 1 al 10",
     "Sumas basicas hasta 10"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -16,332 +16,68 @@
         "tema": "Numeros del 1 al 10",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuantas estrellas hay? (5 estrellas)",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "Contamos una por una: 1, 2, 3, 4, 5 = 5 estrellas."
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
       },
       {
         "id": "primaria-2-matematicas-b1-002",
         "tema": "Numeros del 1 al 10",
-        "tipo": "multiple_choice",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Que numero va despues del 7?",
-        "opciones": [
-          "6",
-          "7",
-          "8",
-          "9"
-        ],
-        "respuestaCorrecta": "8",
-        "explicacion": "Los numeros van en orden: ...6, 7, 8. Despues del 7 viene el 8."
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       },
       {
         "id": "primaria-2-matematicas-b1-003",
         "tema": "Numeros del 1 al 10",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Cual es el numero mas grande entre estos?",
-        "opciones": [
-          "3",
-          "7",
-          "5",
-          "9"
-        ],
-        "respuestaCorrecta": "9",
-        "explicacion": "El 9 es el numero mas grande entre 3, 5, 7 y 9."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-012",
-        "tema": "Numeros del 1 al 10",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "48 + 35 = ___",
-        "respuestaCorrecta": "83",
-        "explicacion": "8+5=13 (llevo 1), 4+3+1=8. Resultado: 83."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-013",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "7 × 8 = 56",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí, 7 × 8 = 56. Tablas del 7!"
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-014",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos cm tiene 1 km?",
-        "opciones": [
-          "100",
-          "1,000",
-          "10,000",
-          "100,000"
-        ],
-        "respuestaCorrecta": "100,000",
-        "explicacion": "1 km = 1,000 m = 100,000 cm."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-015",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es la mitad de 60?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "30",
-        "explicacion": "La mitad de 60 = 60÷2 = 30."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-016",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "100 ÷ 4 = ___",
-        "respuestaCorrecta": "25",
-        "explicacion": "100 ÷ 4 = 25. Verificamos: 4 × 25 = 100."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-017",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "48 + 35 = ___",
-        "respuestaCorrecta": "83",
-        "explicacion": "8+5=13 (llevo 1), 4+3+1=8. Resultado: 83."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-018",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "7 × 8 = 56",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí, 7 × 8 = 56. Tablas del 7!"
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-019",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuántos cm tiene 1 km?",
-        "opciones": [
-          "100",
-          "1,000",
-          "10,000",
-          "100,000"
-        ],
-        "respuestaCorrecta": "100,000",
-        "explicacion": "1 km = 1,000 m = 100,000 cm."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-020",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es la mitad de 60?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "30",
-        "explicacion": "La mitad de 60 = 60÷2 = 30."
+        "pregunta": "El resultado de una suma se llama ___",
+        "respuestaCorrecta": "total",
+        "explicacion": "También se le conoce como suma o adición."
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-matematicas-b1-004",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Completa la serie: 1, 2, 3, ___, 5, 6",
-        "respuestaCorrecta": "4",
-        "explicacion": "Los numeros van en orden. Despues del 3 viene el 4."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-005",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El numero 6 es mayor que el numero 8.",
-        "respuestaCorrecta": "false",
-        "explicacion": "El 6 es MENOR que el 8. En la recta numerica, el 8 esta mas a la derecha."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-007",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Que numero esta entre el 4 y el 6?",
-        "opciones": [
-          "3",
-          "5",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "En la secuencia 4, 5, 6 - el numero 5 esta en medio."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-008",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Escribe el numero anterior al 9: ___",
-        "respuestaCorrecta": "8",
-        "explicacion": "Antes del 9 esta el 8: ...7, 8, 9."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-013",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "5 + 4 = 10",
-        "respuestaCorrecta": "false",
-        "explicacion": "5 + 4 = 9, no 10. Cuenta: 6, 7, 8, 9."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-014",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "___ + 6 = 10",
-        "respuestaCorrecta": "4",
-        "explicacion": "Cuanto le falta al 6 para llegar a 10? Necesita 4 mas: 7, 8, 9, 10."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-015",
+        "id": "primaria-2-matematicas-b1-v2-001",
         "tema": "Sumas basicas hasta 10",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Cual suma da el resultado 9?",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
         "opciones": [
-          "4 + 4",
-          "5 + 4",
-          "3 + 5",
-          "6 + 4"
-        ],
-        "respuestaCorrecta": "5 + 4",
-        "explicacion": "5 + 4 = 9. Las demas: 4+4=8, 3+5=8, 6+4=10."
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
-        "id": "primaria-2-matematicas-b1-016",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "visual_count",
-        "nivel": "v2",
-        "pregunta": "4 estrellas + 6 estrellas = cuantas?",
-        "opciones": [
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "respuestaCorrecta": "10",
-        "explicacion": "4 estrellas + 6 estrellas = 10 estrellas."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-012",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuánto es la mitad de 60?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "30",
-        "explicacion": "La mitad de 60 = 60÷2 = 30."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-013",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "100 ÷ 4 = ___",
-        "respuestaCorrecta": "25",
-        "explicacion": "100 ÷ 4 = 25. Verificamos: 4 × 25 = 100."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-014",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "48 + 35 = ___",
-        "respuestaCorrecta": "83",
-        "explicacion": "8+5=13 (llevo 1), 4+3+1=8. Resultado: 83."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-015",
+        "id": "primaria-2-matematicas-b1-v2-002",
         "tema": "Sumas basicas hasta 10",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "7 × 8 = 56",
+        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Sí, 7 × 8 = 56. Tablas del 7!"
+        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
       },
       {
-        "id": "primaria-2-matematicas-b1-x-016",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántos cm tiene 1 km?",
-        "opciones": [
-          "100",
-          "1,000",
-          "10,000",
-          "100,000"
-        ],
-        "respuestaCorrecta": "100,000",
-        "explicacion": "1 km = 1,000 m = 100,000 cm."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-017",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuánto es la mitad de 60?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "30",
-        "explicacion": "La mitad de 60 = 60÷2 = 30."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-018",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "100 ÷ 4 = ___",
-        "respuestaCorrecta": "25",
-        "explicacion": "100 ÷ 4 = 25. Verificamos: 4 × 25 = 100."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-x-019",
+        "id": "primaria-2-matematicas-b1-v2-003",
         "tema": "Sumas basicas hasta 10",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "48 + 35 = ___",
-        "respuestaCorrecta": "83",
-        "explicacion": "8+5=13 (llevo 1), 4+3+1=8. Resultado: 83."
+        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
+        "respuestaCorrecta": "recto",
+        "explicacion": "Un ángulo recto forma una L perfecta."
       }
     ],
     "preview": [
@@ -350,42 +86,42 @@
         "tema": "Numeros del 1 al 10",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Cuantas estrellas hay? (5 estrellas)",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "5",
-        "explicacion": "Contamos una por una: 1, 2, 3, 4, 5 = 5 estrellas."
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
+      },
+      {
+        "id": "primaria-2-matematicas-b1-v2-001",
+        "tema": "Sumas basicas hasta 10",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
         "id": "primaria-2-matematicas-b1-002",
         "tema": "Numeros del 1 al 10",
-        "tipo": "multiple_choice",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Que numero va despues del 7?",
-        "opciones": [
-          "6",
-          "7",
-          "8",
-          "9"
-        ],
-        "respuestaCorrecta": "8",
-        "explicacion": "Los numeros van en orden: ...6, 7, 8. Despues del 7 viene el 8."
-      },
-      {
-        "id": "primaria-2-matematicas-b1-004",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Completa la serie: 1, 2, 3, ___, 5, 6",
-        "respuestaCorrecta": "4",
-        "explicacion": "Los numeros van en orden. Despues del 3 viene el 4."
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       }
     ]
   },
-  "generado": "2026-02-27T04:04:54.095Z",
+  "generado": "2026-03-26T03:09:52.268Z",
   "version": "2.0"
 }

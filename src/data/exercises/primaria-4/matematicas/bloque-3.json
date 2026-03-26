@@ -8,362 +8,76 @@
     "Fracciones equivalentes",
     "Decimales simples"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "primaria-4-matematicas-b3-001",
         "tema": "Fracciones equivalentes",
         "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es equivalente a 1/2?",
-        "opciones": [
-          "2/4",
-          "2/5",
-          "3/7",
-          "4/9"
-        ],
-        "explicacion": "1/2 = 2/4 porque multiplicamos numerador y denominador por 2.",
         "nivel": "v1",
-        "respuestaCorrecta": "2/4",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "opciones": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
       },
       {
         "id": "primaria-4-matematicas-b3-002",
         "tema": "Fracciones equivalentes",
         "tipo": "true_false",
-        "pregunta": "3/6 = 1/2 (son fracciones equivalentes)",
-        "explicacion": "3/6 simplificado = 1/2. Son la misma cantidad.",
         "nivel": "v1",
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
         "respuestaCorrecta": "true",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       },
       {
         "id": "primaria-4-matematicas-b3-003",
         "tema": "Fracciones equivalentes",
         "tipo": "fill_blank",
-        "pregunta": "2/3 = ___/9",
-        "explicacion": "Multiplicamos 2×3=6 y 3×3=9. Entonces 2/3 = 6/9.",
         "nivel": "v1",
-        "respuestaCorrecta": "6",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-extra-007",
-        "tema": "Fracciones equivalentes",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el resultado de 234 × 3?",
-        "opciones": [
-          "602",
-          "702",
-          "712",
-          "642"
-        ],
-        "respuestaCorrecta": "702",
-        "explicacion": "234×3: 4×3=12(llevo 1), 3×3+1=10(llevo 1), 2×3+1=7. Resultado: 702.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-extra-009",
-        "tema": "Fracciones equivalentes",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El perímetro de un cuadrado de lado 6cm es:",
-        "opciones": [
-          "12 cm",
-          "18 cm",
-          "24 cm",
-          "36 cm"
-        ],
-        "respuestaCorrecta": "24 cm",
-        "explicacion": "Perímetro = 4 × lado = 4 × 6 = 24 cm.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-extra-011",
-        "tema": "Fracciones equivalentes",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "25% de 200 = ___",
-        "respuestaCorrecta": "50",
-        "explicacion": "25% = 1/4. Un cuarto de 200 = 200÷4 = 50.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-extra-013",
-        "tema": "Fracciones equivalentes",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si un rectángulo mide 8 de base y 5 de altura, su área es:",
-        "opciones": [
-          "26 cm²",
-          "40 cm²",
-          "13 cm²",
-          "52 cm²"
-        ],
-        "respuestaCorrecta": "40 cm²",
-        "explicacion": "Área = base × altura = 8 × 5 = 40 cm².",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-014",
-        "tema": "Fracciones equivalentes",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-015",
-        "tema": "Decimales simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-016",
-        "tema": "Fracciones equivalentes",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-017",
-        "tema": "Decimales simples",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-018",
-        "tema": "Fracciones equivalentes",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-019",
-        "tema": "Decimales simples",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-020",
-        "tema": "Fracciones equivalentes",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-021",
-        "tema": "Decimales simples",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000.",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
+        "pregunta": "El resultado de una suma se llama ___",
+        "respuestaCorrecta": "total",
+        "explicacion": "También se le conoce como suma o adición."
       }
     ],
     "v2": [
       {
-        "id": "primaria-4-matematicas-b3-004",
+        "id": "primaria-4-matematicas-b3-v2-001",
         "tema": "Decimales simples",
         "tipo": "multiple_choice",
-        "pregunta": "¿Cuánto es 0.5 + 0.3?",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
         "opciones": [
-          "0.7",
-          "0.8",
-          "0.9",
-          "1.0"
-        ],
-        "explicacion": "0.5 + 0.3 = 0.8. Sumamos las décimas: 5+3=8.",
-        "nivel": "v2",
-        "respuestaCorrecta": "0.8",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
-        "id": "primaria-4-matematicas-b3-005",
-        "tema": "Decimales simples",
-        "tipo": "fill_blank",
-        "pregunta": "1.5 + ___ = 2.0",
-        "explicacion": "Para llegar de 1.5 a 2.0 necesitamos 0.5 más.",
-        "nivel": "v2",
-        "respuestaCorrecta": "0.5",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-006",
-        "tema": "Decimales simples",
-        "tipo": "true_false",
-        "pregunta": "0.25 es mayor que 0.3",
-        "explicacion": "0.25 < 0.30. En décimas: 0.25 tiene 2, 0.30 tiene 3.",
-        "nivel": "v2",
-        "respuestaCorrecta": "false",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-extra-008",
-        "tema": "Decimales simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "3/4 + 1/4 = ___",
-        "respuestaCorrecta": "1",
-        "explicacion": "3/4 + 1/4 = 4/4 = 1 entero.",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-extra-010",
+        "id": "primaria-4-matematicas-b3-v2-002",
         "tema": "Decimales simples",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "0.7 > 0.5",
+        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
         "respuestaCorrecta": "true",
-        "explicacion": "0.7 tiene 7 décimas y 0.5 tiene 5. 7 > 5, entonces 0.7 > 0.5.",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
+        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
       },
       {
-        "id": "primaria-4-matematicas-b3-extra-012",
-        "tema": "Decimales simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuánto es 12² (doce al cuadrado)?",
-        "opciones": [
-          "24",
-          "144",
-          "121",
-          "169"
-        ],
-        "respuestaCorrecta": "144",
-        "explicacion": "12² = 12 × 12 = 144.",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-014",
-        "tema": "Fracciones equivalentes",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-015",
+        "id": "primaria-4-matematicas-b3-v2-003",
         "tema": "Decimales simples",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-016",
-        "tema": "Fracciones equivalentes",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "1/2 + 1/4 = ___",
-        "respuestaCorrecta": "3/4",
-        "explicacion": "2/4 + 1/4 = 3/4. Convertimos 1/2 a 2/4 para poder sumar.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-017",
-        "tema": "Decimales simples",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El área de un triángulo es base×altura÷2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. A = (b × h) / 2.",
-        "ejemplo": "Ejemplo: Rectángulo 6 cm × 4 cm\nÁrea = 6 × 4 = 24 cm²\n(base × altura)"
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-018",
-        "tema": "Fracciones equivalentes",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "123² es aproximadamente...",
-        "opciones": [
-          "1000",
-          "5000",
-          "12000",
-          "15000"
-        ],
-        "respuestaCorrecta": "15000",
-        "explicacion": "123² = 15,129. ~15,000.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-019",
-        "tema": "Decimales simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el 50% de 80?",
-        "opciones": [
-          "20",
-          "30",
-          "40",
-          "50"
-        ],
-        "respuestaCorrecta": "40",
-        "explicacion": "50% = 1/2. La mitad de 80 = 40.",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-x-020",
-        "tema": "Fracciones equivalentes",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "√36 = ___",
-        "respuestaCorrecta": "6",
-        "explicacion": "6 × 6 = 36, entonces √36 = 6.",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
+        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
+        "respuestaCorrecta": "recto",
+        "explicacion": "Un ángulo recto forma una L perfecta."
       }
     ],
     "preview": [
@@ -371,46 +85,43 @@
         "id": "primaria-4-matematicas-b3-001",
         "tema": "Fracciones equivalentes",
         "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es equivalente a 1/2?",
-        "opciones": [
-          "2/4",
-          "2/5",
-          "3/7",
-          "4/9"
-        ],
-        "explicacion": "1/2 = 2/4 porque multiplicamos numerador y denominador por 2.",
         "nivel": "v1",
-        "respuestaCorrecta": "2/4",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "opciones": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
+      },
+      {
+        "id": "primaria-4-matematicas-b3-v2-001",
+        "tema": "Decimales simples",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
         "id": "primaria-4-matematicas-b3-002",
         "tema": "Fracciones equivalentes",
         "tipo": "true_false",
-        "pregunta": "3/6 = 1/2 (son fracciones equivalentes)",
-        "explicacion": "3/6 simplificado = 1/2. Son la misma cantidad.",
         "nivel": "v1",
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
         "respuestaCorrecta": "true",
-        "ejemplo": "Ejemplo: 1/2 de una pizza 🍕 = la mitad.\nSi la pizza tiene 8 rebanadas, 1/2 = 4 rebanadas."
-      },
-      {
-        "id": "primaria-4-matematicas-b3-004",
-        "tema": "Decimales simples",
-        "tipo": "multiple_choice",
-        "pregunta": "¿Cuánto es 0.5 + 0.3?",
-        "opciones": [
-          "0.7",
-          "0.8",
-          "0.9",
-          "1.0"
-        ],
-        "explicacion": "0.5 + 0.3 = 0.8. Sumamos las décimas: 5+3=8.",
-        "nivel": "v2",
-        "respuestaCorrecta": "0.8",
-        "ejemplo": "Ejemplo: 3.5 = 3 unidades y 5 décimas.\n3.5 > 3.2 porque 5 décimas > 2 décimas."
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       }
     ]
   },
-  "generado": "2026-02-27T16:06:30.389Z",
+  "generado": "2026-03-26T03:09:52.328Z",
   "version": "2.0"
 }

@@ -1,61 +1,104 @@
 {
-    "grado": "preescolar-3",
-    "materia": "matematicas",
-    "bloque": 6,
-    "nombre": "Mis manos cuentan (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Números del 11 al 20",
-        "Décenas completas",
-        "Formas geométricas",
-        "Días de la semana"
+  "grado": "preescolar-3",
+  "materia": "matematicas",
+  "bloque": 6,
+  "nombre": "Mis manos cuentan (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Números del 11 al 20",
+    "Décenas completas",
+    "Formas geométricas",
+    "Días de la semana"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre3-mat-b6-v1-001",
+        "tema": "Números del 11 al 20",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo hacemos el número '11' en Lengua de Señas Mexicana?",
+        "opciones": [
+          "Cerramos el puño y levantamos el dedo índice sacudiéndolo hacia arriba dos veces.",
+          "Hacemos un '1' con cada mano y los juntamos.",
+          "Aplaudiendo once veces rápido"
+        ],
+        "respuestaCorrecta": "Cerramos el puño y levantamos el dedo índice sacudiéndolo hacia arriba dos veces.",
+        "explicacion": "¡El once! Funciona parecido a la letra G, pero con tu palma viendo hacia ti, sacudes el dedo índice hacia arriba un par de veces como un resorte. ☝️"
+      },
+      {
+        "id": "pre3-mat-b6-v1-002",
+        "tema": "Días de la semana",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para la seña del día 'LUNES', dibujamos una letra 'L' en el aire mientras giramos la muñeca.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Hacemos la letra L de Lunes (Pulgar e índice estirados) y la giramos trazando pequeños círculos frente a nosotros. 📅"
+      },
+      {
+        "id": "pre3-mat-b6-v1-003",
+        "tema": "Formas geométricas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para señalar un 'CÍRCULO', uso mi dedo ___ de ambas manos y dibujo la forma redondita en el aire unitaria.",
+        "respuestaCorrecta": "índice",
+        "explicacion": "¡Círculo! Tomas ambas manos y con los índices dibujas cómo se traza la silueta redonda de un círculo frente a tus ojos. 🔵"
+      },
+      {
+        "id": "pre3-mat-b6-v1-004",
+        "tema": "Números del 11 al 20",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El número '15' se hace haciendo una garra (letra E) y bajándola tres veces.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Cerca pero No! Para el 15 es parecido, pero todos los dedos se deslizan y doblan al mismo tiempo sobre el pulgar apuntando hacia nosotros. 🖐️"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "pre3-mat-b6-v1-001",
-                "tema": "Números del 11 al 20",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo hacemos el número '11' en Lengua de Señas Mexicana?",
-                "opciones": [
-                    "Cerramos el puño y levantamos el dedo índice sacudiéndolo hacia arriba dos veces.",
-                    "Hacemos un '1' con cada mano y los juntamos.",
-                    "Aplaudiendo once veces rápido"
-                ],
-                "respuestaCorrecta": "Cerramos el puño y levantamos el dedo índice sacudiéndolo hacia arriba dos veces.",
-                "explicacion": "¡El once! Funciona parecido a la letra G, pero con tu palma viendo hacia ti, sacudes el dedo índice hacia arriba un par de veces como un resorte. ☝️"
-            },
-            {
-                "id": "pre3-mat-b6-v1-002",
-                "tema": "Días de la semana",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para la seña del día 'LUNES', dibujamos una letra 'L' en el aire mientras giramos la muñeca.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! Hacemos la letra L de Lunes (Pulgar e índice estirados) y la giramos trazando pequeños círculos frente a nosotros. 📅"
-            },
-            {
-                "id": "pre3-mat-b6-v1-003",
-                "tema": "Formas geométricas",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para señalar un 'CÍRCULO', uso mi dedo ___ de ambas manos y dibujo la forma redondita en el aire unitaria.",
-                "respuestaCorrecta": "índice",
-                "explicacion": "¡Círculo! Tomas ambas manos y con los índices dibujas cómo se traza la silueta redonda de un círculo frente a tus ojos. 🔵"
-            },
-            {
-                "id": "pre3-mat-b6-v1-004",
-                "tema": "Números del 11 al 20",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "El número '15' se hace haciendo una garra (letra E) y bajándola tres veces.",
-                "respuestaCorrecta": "false",
-                "explicacion": "¡Cerca pero No! Para el 15 es parecido, pero todos los dedos se deslizan y doblan al mismo tiempo sobre el pulgar apuntando hacia nosotros. 🖐️"
-            }
-        ]
-    },
-    "generado": "2026-03-09T04:00:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "pre3-mat-b6-v1-001-v2",
+        "tema": "Números del 11 al 20",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo hacemos el número '11' en Lengua de Señas Mexicana? ​",
+        "opciones": [
+          "Cerramos el puño y levantamos el dedo índice sacudiéndolo hacia arriba dos veces.",
+          "Hacemos un '1' con cada mano y los juntamos.",
+          "Aplaudiendo once veces rápido"
+        ],
+        "respuestaCorrecta": "Cerramos el puño y levantamos el dedo índice sacudiéndolo hacia arriba dos veces.",
+        "explicacion": "¡El once! Funciona parecido a la letra G, pero con tu palma viendo hacia ti, sacudes el dedo índice hacia arriba un par de veces como un resorte. ☝️"
+      },
+      {
+        "id": "pre3-mat-b6-v1-002-v2",
+        "tema": "Días de la semana",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para la seña del día 'LUNES', dibujamos una letra 'L' en el aire mientras giramos la muñeca. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! Hacemos la letra L de Lunes (Pulgar e índice estirados) y la giramos trazando pequeños círculos frente a nosotros. 📅"
+      },
+      {
+        "id": "pre3-mat-b6-v1-003-v2",
+        "tema": "Formas geométricas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para señalar un 'CÍRCULO', uso mi dedo ___ de ambas manos y dibujo la forma redondita en el aire unitaria. ​",
+        "respuestaCorrecta": "índice",
+        "explicacion": "¡Círculo! Tomas ambas manos y con los índices dibujas cómo se traza la silueta redonda de un círculo frente a tus ojos. 🔵"
+      },
+      {
+        "id": "pre3-mat-b6-v1-004-v2",
+        "tema": "Números del 11 al 20",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El número '15' se hace haciendo una garra (letra E) y bajándola tres veces. ​",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Cerca pero No! Para el 15 es parecido, pero todos los dedos se deslizan y doblan al mismo tiempo sobre el pulgar apuntando hacia nosotros. 🖐️"
+      }
+    ]
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

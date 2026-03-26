@@ -8,334 +8,82 @@
     "Subjuntivo",
     "Conectores lógicos"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "primaria-6-espanol-b5-001",
         "tema": "Subjuntivo",
         "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es la función principal de la subjuntivo?",
-        "opciones": [
-          "Informar",
-          "Entretener",
-          "Convencer",
-          "Describir"
-        ],
-        "explicacion": "En Subjuntivo el objetivo principal suele ser comunicar.",
         "nivel": "v1",
-        "respuestaCorrecta": "Informar"
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "opciones": [
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "primaria-6-espanol-b5-002",
         "tema": "Subjuntivo",
         "tipo": "true_false",
-        "pregunta": "Un texto de subjuntivo tiene introducción, desarrollo y conclusión",
-        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
         "nivel": "v1",
-        "respuestaCorrecta": "true"
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "primaria-6-espanol-b5-003",
         "tema": "Subjuntivo",
         "tipo": "fill_blank",
-        "pregunta": "El ___ de un texto es la idea que lo organiza",
-        "explicacion": "El tema principal es el hilo conductor de todo el texto.",
         "nivel": "v1",
-        "respuestaCorrecta": "tema principal"
-      },
-      {
-        "id": "primaria-6-espanol-b5-extra-007",
-        "tema": "Subjuntivo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un sustantivo?",
-        "opciones": [
-          "Una acción",
-          "Un nombre de persona, lugar o cosa",
-          "Una descripción",
-          "Una unión de palabras"
-        ],
-        "respuestaCorrecta": "Un nombre de persona, lugar o cosa",
-        "explicacion": "Los sustantivos nombran seres, cosas y lugares: \"niño\", \"ciudad\", \"libro\"."
-      },
-      {
-        "id": "primaria-6-espanol-b5-extra-009",
-        "tema": "Subjuntivo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los sinónimos tienen significados similares",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sinónimos: casa/hogar, grande/enorme, bonito/hermoso."
-      },
-      {
-        "id": "primaria-6-espanol-b5-extra-011",
-        "tema": "Subjuntivo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El opuesto de \"alegre\" es ___",
-        "respuestaCorrecta": "triste",
-        "explicacion": "Los antónimos son palabras de significado opuesto: alegre/triste, grande/pequeño."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-012",
-        "tema": "Subjuntivo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-013",
-        "tema": "Conectores lógicos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-014",
-        "tema": "Subjuntivo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-015",
-        "tema": "Conectores lógicos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-016",
-        "tema": "Subjuntivo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-017",
-        "tema": "Conectores lógicos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-018",
-        "tema": "Subjuntivo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener)."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-019",
-        "tema": "Conectores lógicos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-020",
-        "tema": "Subjuntivo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "primaria-6-espanol-b5-004",
+        "id": "primaria-6-espanol-b5-v2-001",
         "tema": "Conectores lógicos",
         "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es la función principal de la conectores lógicos?",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Informar",
-          "Entretener",
-          "Convencer",
-          "Describir"
-        ],
-        "explicacion": "En Conectores lógicos el objetivo principal suele ser comunicar.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Informar"
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "primaria-6-espanol-b5-005",
-        "tema": "Conectores lógicos",
-        "tipo": "true_false",
-        "pregunta": "Un texto de conectores lógicos tiene introducción, desarrollo y conclusión",
-        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
-        "nivel": "v2",
-        "respuestaCorrecta": "true"
-      },
-      {
-        "id": "primaria-6-espanol-b5-006",
-        "tema": "Conectores lógicos",
-        "tipo": "fill_blank",
-        "pregunta": "El ___ de un texto es la idea que lo organiza",
-        "explicacion": "El tema principal es el hilo conductor de todo el texto.",
-        "nivel": "v2",
-        "respuestaCorrecta": "tema principal"
-      },
-      {
-        "id": "primaria-6-espanol-b5-extra-008",
+        "id": "primaria-6-espanol-b5-v2-002",
         "tema": "Conectores lógicos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La palabra \"correr\" es un ___",
-        "respuestaCorrecta": "verbo",
-        "explicacion": "Los verbos expresan acciones: correr, saltar, estudiar, comer."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
       },
       {
-        "id": "primaria-6-espanol-b5-extra-010",
+        "id": "primaria-6-espanol-b5-v2-003",
         "tema": "Conectores lógicos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "\"Rápidamente\" es un...",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
         "opciones": [
-          "Sustantivo",
-          "Verbo",
-          "Adjetivo",
-          "Adverbio"
-        ],
-        "respuestaCorrecta": "Adverbio",
-        "explicacion": "Los adverbios modifican al verbo, adjetivo u otro adverbio. \"Rápidamente\" modifica cómo se hace algo."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-012",
-        "tema": "Subjuntivo",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-013",
-        "tema": "Conectores lógicos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-014",
-        "tema": "Subjuntivo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-015",
-        "tema": "Conectores lógicos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-016",
-        "tema": "Subjuntivo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-017",
-        "tema": "Conectores lógicos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-018",
-        "tema": "Subjuntivo",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
-      },
-      {
-        "id": "primaria-6-espanol-b5-x-019",
-        "tema": "Conectores lógicos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -343,43 +91,43 @@
         "id": "primaria-6-espanol-b5-001",
         "tema": "Subjuntivo",
         "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es la función principal de la subjuntivo?",
-        "opciones": [
-          "Informar",
-          "Entretener",
-          "Convencer",
-          "Describir"
-        ],
-        "explicacion": "En Subjuntivo el objetivo principal suele ser comunicar.",
         "nivel": "v1",
-        "respuestaCorrecta": "Informar"
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "opciones": [
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "primaria-6-espanol-b5-v2-001",
+        "tema": "Conectores lógicos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "primaria-6-espanol-b5-002",
         "tema": "Subjuntivo",
         "tipo": "true_false",
-        "pregunta": "Un texto de subjuntivo tiene introducción, desarrollo y conclusión",
-        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
         "nivel": "v1",
-        "respuestaCorrecta": "true"
-      },
-      {
-        "id": "primaria-6-espanol-b5-004",
-        "tema": "Conectores lógicos",
-        "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es la función principal de la conectores lógicos?",
-        "opciones": [
-          "Informar",
-          "Entretener",
-          "Convencer",
-          "Describir"
-        ],
-        "explicacion": "En Conectores lógicos el objetivo principal suele ser comunicar.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Informar"
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-02-27T16:06:30.470Z",
+  "generado": "2026-03-26T03:09:52.380Z",
   "version": "2.0"
 }

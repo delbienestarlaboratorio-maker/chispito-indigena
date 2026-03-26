@@ -10,7 +10,7 @@
     "Cadenas y redes alimentarias",
     "Especies endémicas de mi región"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -18,326 +18,68 @@
         "tema": "Biodiversidad en México",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Respecto a \"Biodiversidad en México\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "Es un concepto fundamental de Biodiversidad",
-          "Se relaciona con el estudio de Biodiversidad en México",
-          "Es un proceso que involucra Biodiversidad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Biodiversidad en México",
-        "explicacion": "💡 Cuca te ayuda: Biodiversidad en México es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
       },
       {
         "id": "telesecundaria-1-saberes_cientificos-b1-002",
         "tema": "Biodiversidad en México",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Biodiversidad en México\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Biodiversidad en México\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       },
       {
         "id": "telesecundaria-1-saberes_cientificos-b1-003",
         "tema": "Biodiversidad en México",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Biodiversidad en ___",
-        "respuestaCorrecta": "México",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Biodiversidad en México\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-004",
-        "tema": "Biodiversidad en México",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Biodiversidad en México\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Biodiversidad en México",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Biodiversidad en México",
-        "explicacion": "💡 Neptuno te ayuda: Estudiar \"Biodiversidad en México\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-005",
-        "tema": "Ecosistemas terrestres y acuáticos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Ecosistemas terrestres y acuáticos\"?",
-        "opciones": [
-          "Es un concepto fundamental de Ecosistemas",
-          "Se relaciona con el estudio de Ecosistemas terrestres y acuáticos",
-          "Es un proceso que involucra Ecosistemas",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Ecosistemas terrestres y acuáticos",
-        "explicacion": "💡 El Búho te ayuda: Ecosistemas terrestres y acuáticos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-006",
-        "tema": "Ecosistemas terrestres y acuáticos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Ecosistemas terrestres y acuáticos\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Ecosistemas terrestres y acuáticos\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-007",
-        "tema": "Ecosistemas terrestres y acuáticos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Ecosistemas terrestres y ___",
-        "respuestaCorrecta": "acuáticos",
-        "explicacion": "💡 Pipo te ayuda: La respuesta correcta completa el concepto de \"Ecosistemas terrestres y acuáticos\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-008",
-        "tema": "Ecosistemas terrestres y acuáticos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Ecosistemas terrestres y acuáticos\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Ecosistemas terrestres y acuáticos",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Ecosistemas terrestres y acuáticos",
-        "explicacion": "💡 El Búho te ayuda: Estudiar \"Ecosistemas terrestres y acuáticos\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-009",
-        "tema": "Cadenas y redes alimentarias",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Cadenas y redes alimentarias\"?",
-        "opciones": [
-          "Es un concepto fundamental de Cadenas",
-          "Se relaciona con el estudio de Cadenas y redes alimentarias",
-          "Es un proceso que involucra Cadenas",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Cadenas y redes alimentarias",
-        "explicacion": "💡 Neptuno te ayuda: Cadenas y redes alimentarias es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-010",
-        "tema": "Cadenas y redes alimentarias",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Cadenas y redes alimentarias\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Cuca te ayuda: Correcto. \"Cadenas y redes alimentarias\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-011",
-        "tema": "Cadenas y redes alimentarias",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Cadenas y redes ___",
-        "respuestaCorrecta": "alimentarias",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Cadenas y redes alimentarias\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-012",
-        "tema": "Cadenas y redes alimentarias",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Cadenas y redes alimentarias\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Cadenas y redes alimentarias",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Cadenas y redes alimentarias",
-        "explicacion": "💡 Hada te ayuda: Estudiar \"Cadenas y redes alimentarias\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-013",
-        "tema": "Especies endémicas de mi región",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué concepto está relacionado con \"Especies endémicas de mi región\"?",
-        "opciones": [
-          "Es un concepto fundamental de Especies",
-          "Se relaciona con el estudio de Especies endémicas de mi región",
-          "Es un proceso que involucra Especies",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Especies endémicas de mi región",
-        "explicacion": "💡 Hada te ayuda: Especies endémicas de mi región es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-014",
-        "tema": "Especies endémicas de mi región",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"Especies endémicas de mi región\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Pipo te ayuda: Correcto. \"Especies endémicas de mi región\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-015",
-        "tema": "Especies endémicas de mi región",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Especies endémicas de mi ___",
-        "respuestaCorrecta": "región",
-        "explicacion": "💡 Hada te ayuda: La respuesta correcta completa el concepto de \"Especies endémicas de mi región\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-016",
-        "tema": "Especies endémicas de mi región",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la importancia de estudiar \"Especies endémicas de mi región\" en Telesecundaria?",
-        "opciones": [
-          "Desarrollar pensamiento crítico sobre Especies endémicas de mi región",
-          "Memorizar datos sin comprenderlos",
-          "Solo es importante para el examen",
-          "No tiene importancia práctica"
-        ],
-        "respuestaCorrecta": "Desarrollar pensamiento crítico sobre Especies endémicas de mi región",
-        "explicacion": "💡 Cuca te ayuda: Estudiar \"Especies endémicas de mi región\" nos permite desarrollar pensamiento crítico y aplicar los conocimientos en nuestra vida diaria y comunidad."
+        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
+        "respuestaCorrecta": "fotosíntesis",
+        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
       }
     ],
     "v2": [
       {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-001",
-        "tema": "Biodiversidad en México",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Biodiversidad en México\"?",
-        "opciones": [
-          "Es un concepto fundamental de Biodiversidad",
-          "Se relaciona con el estudio de Biodiversidad en México",
-          "Es un proceso que involucra Biodiversidad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Biodiversidad en México",
-        "explicacion": "💡 Cuca te ayuda: Biodiversidad en México es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-002",
-        "tema": "Biodiversidad en México",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Biodiversidad en México\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 El Búho te ayuda: Correcto. \"Biodiversidad en México\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-003",
-        "tema": "Biodiversidad en México",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Biodiversidad en ___",
-        "respuestaCorrecta": "México",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Biodiversidad en México\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-004",
-        "tema": "Ecosistemas terrestres y acuáticos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Ecosistemas terrestres y acuáticos\"?",
-        "opciones": [
-          "Es un concepto fundamental de Ecosistemas",
-          "Se relaciona con el estudio de Ecosistemas terrestres y acuáticos",
-          "Es un proceso que involucra Ecosistemas",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Ecosistemas terrestres y acuáticos",
-        "explicacion": "💡 Pipo te ayuda: Ecosistemas terrestres y acuáticos es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-005",
-        "tema": "Ecosistemas terrestres y acuáticos",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Ecosistemas terrestres y acuáticos\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Ecosistemas terrestres y acuáticos\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-006",
-        "tema": "Ecosistemas terrestres y acuáticos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Ecosistemas terrestres y ___",
-        "respuestaCorrecta": "acuáticos",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Ecosistemas terrestres y acuáticos\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-007",
-        "tema": "Cadenas y redes alimentarias",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Respecto a \"Cadenas y redes alimentarias\", ¿cuál afirmación es correcta?",
-        "opciones": [
-          "Es un concepto fundamental de Cadenas",
-          "Se relaciona con el estudio de Cadenas y redes alimentarias",
-          "Es un proceso que involucra Cadenas",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Cadenas y redes alimentarias",
-        "explicacion": "💡 Pipo te ayuda: Cadenas y redes alimentarias es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-008",
-        "tema": "Cadenas y redes alimentarias",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "\"Cadenas y redes alimentarias\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Cadenas y redes alimentarias\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-009",
-        "tema": "Cadenas y redes alimentarias",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Cadenas y redes ___",
-        "respuestaCorrecta": "alimentarias",
-        "explicacion": "💡 El Búho te ayuda: La respuesta correcta completa el concepto de \"Cadenas y redes alimentarias\" según el programa de estudios."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-010",
+        "id": "telesecundaria-1-saberes_cientificos-b1-v2-001",
         "tema": "Especies endémicas de mi región",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué concepto está relacionado con \"Especies endémicas de mi región\"?",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
         "opciones": [
-          "Es un concepto fundamental de Especies",
-          "Se relaciona con el estudio de Especies endémicas de mi región",
-          "Es un proceso que involucra Especies",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Especies endémicas de mi región",
-        "explicacion": "💡 Hada te ayuda: Especies endémicas de mi región es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-011",
+        "id": "telesecundaria-1-saberes_cientificos-b1-v2-002",
         "tema": "Especies endémicas de mi región",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "\"Especies endémicas de mi región\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Neptuno te ayuda: Correcto. \"Especies endémicas de mi región\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
+        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
       },
       {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-012",
+        "id": "telesecundaria-1-saberes_cientificos-b1-v2-003",
         "tema": "Especies endémicas de mi región",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Especies endémicas de mi ___",
-        "respuestaCorrecta": "región",
-        "explicacion": "💡 Cuca te ayuda: La respuesta correcta completa el concepto de \"Especies endémicas de mi región\" según el programa de estudios."
+        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
       }
     ],
     "preview": [
@@ -346,43 +88,42 @@
         "tema": "Biodiversidad en México",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Respecto a \"Biodiversidad en México\", ¿cuál afirmación es correcta?",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
         "opciones": [
-          "Es un concepto fundamental de Biodiversidad",
-          "Se relaciona con el estudio de Biodiversidad en México",
-          "Es un proceso que involucra Biodiversidad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Biodiversidad en México",
-        "explicacion": "💡 Hada te ayuda: Biodiversidad en México es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-v2-001",
+        "tema": "Especies endémicas de mi región",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
+        "opciones": [
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
       },
       {
         "id": "telesecundaria-1-saberes_cientificos-b1-002",
         "tema": "Biodiversidad en México",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "\"Biodiversidad en México\" es un tema que se estudia en la Telesecundaria según el programa de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "💡 Hada te ayuda: Correcto. \"Biodiversidad en México\" forma parte del currículo oficial de Telesecundaria de la Nueva Escuela Mexicana."
-      },
-      {
-        "id": "telesecundaria-1-saberes_cientificos-b1-p-001",
-        "tema": "Biodiversidad en México",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál de las siguientes opciones describe mejor \"Biodiversidad en México\"?",
-        "opciones": [
-          "Es un concepto fundamental de Biodiversidad",
-          "Se relaciona con el estudio de Biodiversidad en México",
-          "Es un proceso que involucra Biodiversidad",
-          "No tiene relación con este tema"
-        ],
-        "respuestaCorrecta": "Se relaciona con el estudio de Biodiversidad en México",
-        "explicacion": "💡 El Búho te ayuda: Biodiversidad en México es un concepto importante en este bloque. Comprender sus fundamentos ayuda a entender mejor la materia."
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
       }
     ]
   },
-  "generado": "2026-03-13T05:24:46.244Z",
-  "version": "3.0",
-  "historiaChispito": "¡Alerta en Ciudad Chispito! Un portal del conocimiento se ha abierto. Para cruzarlo, debes demostrar tus habilidades en El mundo natural."
+  "generado": "2026-03-26T03:11:48.167Z",
+  "version": "2.0"
 }

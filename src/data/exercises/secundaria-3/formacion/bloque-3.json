@@ -4,7 +4,10 @@
   "bloque": 3,
   "nombre": "Economía personal",
   "meses": "Octubre-Noviembre",
-  "temas": ["Finanzas básicas", "Emprendimiento juvenil"],
+  "temas": [
+    "Finanzas básicas",
+    "Emprendimiento juvenil"
+  ],
   "totalEjercicios": 28,
   "ejercicios": {
     "v1": [
@@ -164,7 +167,12 @@
         "tipo": "multiple_choice",
         "nivel": "v1",
         "pregunta": "¿Qué institución en México apoya a emprendedores jóvenes con financiamiento y asesoría?",
-        "opciones": ["El IMSS", "El INADEM o el INAES", "La CNDH", "El INEGI"],
+        "opciones": [
+          "El IMSS",
+          "El INADEM o el INAES",
+          "La CNDH",
+          "El INEGI"
+        ],
         "respuestaCorrecta": "El INADEM o el INAES",
         "explicacion": "El INADEM (ahora reemplazado por el INAES) fue la institución gubernamental que apoyaba con fondos, capacitación y asesoría a emprendedores en México."
       },
@@ -184,7 +192,7 @@
         "tema": "Finanzas básicas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el historial crediticio?",
+        "pregunta": "¿Qué es el historial crediticio?  ",
         "opciones": [
           "El registro de tus calificaciones escolares",
           "El registro del comportamiento de pago de una persona ante créditos y deudas",
@@ -199,7 +207,7 @@
         "tema": "Finanzas básicas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El interés compuesto puede hacer que tus ahorros crezcan más rápido con el tiempo",
+        "pregunta": "El interés compuesto puede hacer que tus ahorros crezcan más rápido con el tiempo  ",
         "respuestaCorrecta": "true",
         "explicacion": "El interés compuesto se calcula sobre el capital más los intereses acumulados anteriormente, generando un efecto de crecimiento exponencial en el ahorro."
       },
@@ -208,7 +216,7 @@
         "tema": "Finanzas básicas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es diversificar las inversiones?",
+        "pregunta": "¿Qué es diversificar las inversiones?  ",
         "opciones": [
           "Poner todo el dinero en una sola acción",
           "Distribuir el dinero en distintos instrumentos para reducir el riesgo",
@@ -223,7 +231,7 @@
         "tema": "Finanzas básicas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El PIB (Producto Interno Bruto) mide:",
+        "pregunta": "El PIB (Producto Interno Bruto) mide:  ",
         "opciones": [
           "El número de personas empleadas en un país",
           "El valor total de bienes y servicios producidos en un país en un período",
@@ -238,7 +246,7 @@
         "tema": "Finanzas básicas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La educación financiera ayuda a tomar mejores decisiones sobre el uso del dinero",
+        "pregunta": "La educación financiera ayuda a tomar mejores decisiones sobre el uso del dinero  ",
         "respuestaCorrecta": "true",
         "explicacion": "La educación financiera es clave para entender conceptos como ahorro, crédito, inversión e impuestos, permitiendo tomar decisiones informadas."
       },
@@ -247,7 +255,7 @@
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el 'capital semilla' en el contexto del emprendimiento?",
+        "pregunta": "¿Qué es el 'capital semilla' en el contexto del emprendimiento?  ",
         "opciones": [
           "El dinero para comprar semillas en agricultura",
           "El financiamiento inicial para arrancar un negocio",
@@ -262,7 +270,7 @@
         "tema": "Emprendimiento juvenil",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El modelo Canvas ayuda a visualizar todos los elementos clave de un modelo de negocio en una sola página",
+        "pregunta": "El modelo Canvas ayuda a visualizar todos los elementos clave de un modelo de negocio en una sola página  ",
         "respuestaCorrecta": "true",
         "explicacion": "El Business Model Canvas es una herramienta visual que organiza los 9 bloques de un negocio: segmento de clientes, propuesta de valor, canales, relaciones, fuentes de ingreso, recursos, actividades, socios y costos."
       },
@@ -271,7 +279,7 @@
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué diferencia al emprendimiento del autoempleo?",
+        "pregunta": "¿Qué diferencia al emprendimiento del autoempleo?  ",
         "opciones": [
           "El autoempleo siempre genera más dinero",
           "El emprendimiento busca escalar y crear valor; el autoempleo se centra en el trabajo individual sostenido",
@@ -286,7 +294,7 @@
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un prototipo en el proceso de emprendimiento?",
+        "pregunta": "¿Qué es un prototipo en el proceso de emprendimiento?  ",
         "opciones": [
           "El producto final terminado",
           "Una versión preliminar del producto para probar y validar la idea",
@@ -301,7 +309,7 @@
         "tema": "Emprendimiento juvenil",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El análisis FODA ayuda a identificar las Fortalezas, Oportunidades, Debilidades y Amenazas de un negocio",
+        "pregunta": "El análisis FODA ayuda a identificar las Fortalezas, Oportunidades, Debilidades y Amenazas de un negocio  ",
         "respuestaCorrecta": "true",
         "explicacion": "El FODA (SWOT en inglés) es una herramienta estratégica que combina el análisis interno del negocio (F y D) con el externo del mercado (O y A)."
       },
@@ -310,7 +318,7 @@
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es una cooperativa?",
+        "pregunta": "¿Qué es una cooperativa?  ",
         "opciones": [
           "Una empresa multinacional",
           "Una organización formada y gestionada democráticamente por sus socios",
@@ -325,7 +333,7 @@
         "tema": "Emprendimiento juvenil",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El crowdfunding es una forma de obtener financiamiento colectivo a través de plataformas digitales",
+        "pregunta": "El crowdfunding es una forma de obtener financiamiento colectivo a través de plataformas digitales  ",
         "respuestaCorrecta": "true",
         "explicacion": "El crowdfunding permite a emprendedores presentar su proyecto en línea y recibir pequeñas aportaciones de muchas personas para financiarlo."
       },
@@ -334,7 +342,7 @@
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué se entiende por 'propuesta de valor' en un negocio?",
+        "pregunta": "¿Qué se entiende por 'propuesta de valor' en un negocio?  ",
         "opciones": [
           "El precio de venta del producto",
           "La razón específica por la que un cliente elegiría tu producto o servicio sobre otros",
@@ -349,7 +357,7 @@
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El término 'startup' se refiere a:",
+        "pregunta": "El término 'startup' se refiere a:  ",
         "opciones": [
           "Una empresa grande y consolidada",
           "Una empresa emergente con alto potencial de crecimiento, generalmente en tecnología",

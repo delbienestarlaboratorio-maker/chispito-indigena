@@ -8,338 +8,82 @@
     "Descripción de lugares",
     "Narración secuencial"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "primaria-4-espanol-b2-001",
         "tema": "Descripción de lugares",
         "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es la función principal de la descripción de lugares?",
-        "opciones": [
-          "Informar",
-          "Entretener",
-          "Convencer",
-          "Describir"
-        ],
-        "explicacion": "En Descripción de lugares el objetivo principal suele ser comunicar.",
         "nivel": "v1",
-        "respuestaCorrecta": "Informar"
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "opciones": [
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "primaria-4-espanol-b2-002",
         "tema": "Descripción de lugares",
         "tipo": "true_false",
-        "pregunta": "Un texto de descripción de lugares tiene introducción, desarrollo y conclusión",
-        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
         "nivel": "v1",
-        "respuestaCorrecta": "true"
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "primaria-4-espanol-b2-003",
         "tema": "Descripción de lugares",
         "tipo": "fill_blank",
-        "pregunta": "El ___ de un texto es la idea que lo organiza",
-        "explicacion": "El tema principal es el hilo conductor de todo el texto.",
         "nivel": "v1",
-        "respuestaCorrecta": "tema principal"
-      },
-      {
-        "id": "primaria-4-espanol-b2-extra-007",
-        "tema": "Descripción de lugares",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un sustantivo?",
-        "opciones": [
-          "Una acción",
-          "Un nombre de persona, lugar o cosa",
-          "Una descripción",
-          "Una unión de palabras"
-        ],
-        "respuestaCorrecta": "Un nombre de persona, lugar o cosa",
-        "explicacion": "Los sustantivos nombran seres, cosas y lugares: \"niño\", \"ciudad\", \"libro\".",
-        "ejemplo": "Sustantivos: personas, animales, lugares y cosas.\nEjemplo: niño 👦, perro 🐶, escuela 🏫, pelota ⚽."
-      },
-      {
-        "id": "primaria-4-espanol-b2-extra-009",
-        "tema": "Descripción de lugares",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los sinónimos tienen significados similares",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Sinónimos: casa/hogar, grande/enorme, bonito/hermoso."
-      },
-      {
-        "id": "primaria-4-espanol-b2-extra-011",
-        "tema": "Descripción de lugares",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El opuesto de \"alegre\" es ___",
-        "respuestaCorrecta": "triste",
-        "explicacion": "Los antónimos son palabras de significado opuesto: alegre/triste, grande/pequeño."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-012",
-        "tema": "Descripción de lugares",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener).",
-        "ejemplo": "Verbos = acciones o estados.\nEjemplo: correr, saltar, pensar, ser, estar.\nEn oración: \"El niño CORRE muy rápido.\""
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-013",
-        "tema": "Narración secuencial",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-014",
-        "tema": "Descripción de lugares",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-015",
-        "tema": "Narración secuencial",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener).",
-        "ejemplo": "Verbos = acciones o estados.\nEjemplo: correr, saltar, pensar, ser, estar.\nEn oración: \"El niño CORRE muy rápido.\""
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-016",
-        "tema": "Descripción de lugares",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-017",
-        "tema": "Narración secuencial",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-018",
-        "tema": "Descripción de lugares",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es un verbo?",
-        "opciones": [
-          "Una cosa",
-          "Una acción o estado",
-          "Un nombre",
-          "Una descripción"
-        ],
-        "respuestaCorrecta": "Una acción o estado",
-        "explicacion": "El verbo expresa acción (correr, saltar) o estado (ser, estar, tener).",
-        "ejemplo": "Verbos = acciones o estados.\nEjemplo: correr, saltar, pensar, ser, estar.\nEn oración: \"El niño CORRE muy rápido.\""
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-019",
-        "tema": "Narración secuencial",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La coma (,) se usa para separar ideas en una oración",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. La coma separa elementos en una lista o ideas relacionadas."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-020",
-        "tema": "Descripción de lugares",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La parte inicial de un cuento se llama ___",
-        "respuestaCorrecta": "introducción",
-        "explicacion": "Todo cuento tiene: introducción (inicio), desarrollo (nudo) y desenlace (final)."
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "primaria-4-espanol-b2-004",
+        "id": "primaria-4-espanol-b2-v2-001",
         "tema": "Narración secuencial",
         "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es la función principal de la narración secuencial?",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "Informar",
-          "Entretener",
-          "Convencer",
-          "Describir"
-        ],
-        "explicacion": "En Narración secuencial el objetivo principal suele ser comunicar.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Informar"
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "primaria-4-espanol-b2-005",
-        "tema": "Narración secuencial",
-        "tipo": "true_false",
-        "pregunta": "Un texto de narración secuencial tiene introducción, desarrollo y conclusión",
-        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
-        "nivel": "v2",
-        "respuestaCorrecta": "true"
-      },
-      {
-        "id": "primaria-4-espanol-b2-006",
-        "tema": "Narración secuencial",
-        "tipo": "fill_blank",
-        "pregunta": "El ___ de un texto es la idea que lo organiza",
-        "explicacion": "El tema principal es el hilo conductor de todo el texto.",
-        "nivel": "v2",
-        "respuestaCorrecta": "tema principal"
-      },
-      {
-        "id": "primaria-4-espanol-b2-extra-008",
+        "id": "primaria-4-espanol-b2-v2-002",
         "tema": "Narración secuencial",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La palabra \"correr\" es un ___",
-        "respuestaCorrecta": "verbo",
-        "explicacion": "Los verbos expresan acciones: correr, saltar, estudiar, comer."
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
       },
       {
-        "id": "primaria-4-espanol-b2-extra-010",
+        "id": "primaria-4-espanol-b2-v2-003",
         "tema": "Narración secuencial",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "\"Rápidamente\" es un...",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
         "opciones": [
-          "Sustantivo",
-          "Verbo",
-          "Adjetivo",
-          "Adverbio"
-        ],
-        "respuestaCorrecta": "Adverbio",
-        "explicacion": "Los adverbios modifican al verbo, adjetivo u otro adverbio. \"Rápidamente\" modifica cómo se hace algo."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-012",
-        "tema": "Descripción de lugares",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-013",
-        "tema": "Narración secuencial",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-014",
-        "tema": "Descripción de lugares",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-015",
-        "tema": "Narración secuencial",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-016",
-        "tema": "Descripción de lugares",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-017",
-        "tema": "Narración secuencial",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Un antónimo de \"alegre\" es...",
-        "opciones": [
-          "Feliz",
-          "Contento",
-          "Triste",
-          "Animado"
-        ],
-        "respuestaCorrecta": "Triste",
-        "explicacion": "Antónimos son palabras de significado contrario. Alegre ↔ Triste."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-018",
-        "tema": "Descripción de lugares",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras con significados similares son ___",
-        "respuestaCorrecta": "sinónimos",
-        "explicacion": "Sinónimos: bonito/hermoso, grande/enorme, rápido/veloz."
-      },
-      {
-        "id": "primaria-4-espanol-b2-x-019",
-        "tema": "Narración secuencial",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"¿Cómo estás?\" lleva signo de interrogación porque es...",
-        "opciones": [
-          "Una exclamación",
-          "Un enunciado",
-          "Una pregunta",
-          "Un mandato"
-        ],
-        "respuestaCorrecta": "Una pregunta",
-        "explicacion": "Los signos ¿? se usan al inicio y al final de preguntas en español."
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -347,43 +91,43 @@
         "id": "primaria-4-espanol-b2-001",
         "tema": "Descripción de lugares",
         "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es la función principal de la descripción de lugares?",
-        "opciones": [
-          "Informar",
-          "Entretener",
-          "Convencer",
-          "Describir"
-        ],
-        "explicacion": "En Descripción de lugares el objetivo principal suele ser comunicar.",
         "nivel": "v1",
-        "respuestaCorrecta": "Informar"
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "opciones": [
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "primaria-4-espanol-b2-v2-001",
+        "tema": "Narración secuencial",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "primaria-4-espanol-b2-002",
         "tema": "Descripción de lugares",
         "tipo": "true_false",
-        "pregunta": "Un texto de descripción de lugares tiene introducción, desarrollo y conclusión",
-        "explicacion": "La estructura básica de cualquier texto incluye estas tres partes.",
         "nivel": "v1",
-        "respuestaCorrecta": "true"
-      },
-      {
-        "id": "primaria-4-espanol-b2-004",
-        "tema": "Narración secuencial",
-        "tipo": "multiple_choice",
-        "pregunta": "¿Cuál es la función principal de la narración secuencial?",
-        "opciones": [
-          "Informar",
-          "Entretener",
-          "Convencer",
-          "Describir"
-        ],
-        "explicacion": "En Narración secuencial el objetivo principal suele ser comunicar.",
-        "nivel": "v2",
-        "respuestaCorrecta": "Informar"
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-02-27T16:06:30.396Z",
+  "generado": "2026-03-26T03:09:52.309Z",
   "version": "2.0"
 }

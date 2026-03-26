@@ -4,7 +4,10 @@
   "bloque": 5,
   "nombre": "Ciudadanía global",
   "meses": "Enero-Junio",
-  "temas": ["ONG y organizaciones", "Ser ciudadano del mundo"],
+  "temas": [
+    "ONG y organizaciones",
+    "Ser ciudadano del mundo"
+  ],
   "totalEjercicios": 28,
   "ejercicios": {
     "v1": [
@@ -189,7 +192,7 @@
         "tema": "ONG y organizaciones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es la diferencia entre una ONG y una fundación?",
+        "pregunta": "¿Cuál es la diferencia entre una ONG y una fundación?  ",
         "opciones": [
           "Las fundaciones son más grandes",
           "Una fundación generalmente tiene un patrimonio propio; una ONG depende principalmente de donaciones externas",
@@ -204,7 +207,7 @@
         "tema": "ONG y organizaciones",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Amnistía Internacional es una ONG que defiende los derechos humanos en todo el mundo",
+        "pregunta": "Amnistía Internacional es una ONG que defiende los derechos humanos en todo el mundo  ",
         "respuestaCorrecta": "true",
         "explicacion": "Amnistía Internacional es una ONG independiente que documenta y denuncia violaciones de derechos humanos en todo el mundo, abogando por los presos de conciencia."
       },
@@ -213,7 +216,7 @@
         "tema": "ONG y organizaciones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué rol tienen las ONG en el sistema de gobierno democrático?",
+        "pregunta": "¿Qué rol tienen las ONG en el sistema de gobierno democrático?  ",
         "opciones": [
           "Sustituir al gobierno en sus funciones",
           "Actuar como grupos de presión, vigilancia ciudadana y complemento de las políticas públicas",
@@ -228,7 +231,7 @@
         "tema": "ONG y organizaciones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es la diplomacia ciudadana?",
+        "pregunta": "¿Qué es la diplomacia ciudadana?  ",
         "opciones": [
           "El trabajo de los embajadores en países extranjeros",
           "Las acciones de ciudadanos y ONG para influir en relaciones internacionales y políticas globales",
@@ -243,7 +246,7 @@
         "tema": "ONG y organizaciones",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Médicos Sin Fronteras es una ONG que opera en zonas de conflicto y desastres para brindar atención médica",
+        "pregunta": "Médicos Sin Fronteras es una ONG que opera en zonas de conflicto y desastres para brindar atención médica  ",
         "respuestaCorrecta": "true",
         "explicacion": "MSF opera en más de 70 países proporcionando atención médica de emergencia a quienes más la necesitan, independientemente de su raza, religión o política."
       },
@@ -252,7 +255,7 @@
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el Acuerdo de París (2015)?",
+        "pregunta": "¿Qué es el Acuerdo de París (2015)?  ",
         "opciones": [
           "Un tratado comercial entre Europa y México",
           "Un acuerdo internacional para limitar el calentamiento global reduciendo emisiones de gases de efecto invernadero",
@@ -267,7 +270,7 @@
         "tema": "Ser ciudadano del mundo",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La soberanía nacional y la cooperación internacional no son necesariamente incompatibles",
+        "pregunta": "La soberanía nacional y la cooperación internacional no son necesariamente incompatibles  ",
         "respuestaCorrecta": "true",
         "explicacion": "Los países pueden cooperar en problemas transnacionales (crimen organizado, pandemias, cambio climático) mientras mantienen su autonomía en decisiones internas."
       },
@@ -276,7 +279,7 @@
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué son los refugiados?",
+        "pregunta": "¿Qué son los refugiados?  ",
         "opciones": [
           "Personas que viajan por placer",
           "Personas que huyen de su país por persecución, guerra o violencia grave y no pueden regresar",
@@ -291,7 +294,7 @@
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el desarrollo sostenible?",
+        "pregunta": "¿Qué es el desarrollo sostenible?  ",
         "opciones": [
           "El crecimiento económico sin ningún límite",
           "El desarrollo que satisface las necesidades presentes sin comprometer la capacidad de las generaciones futuras",
@@ -306,7 +309,7 @@
         "tema": "Ser ciudadano del mundo",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La brecha digital es una forma de desigualdad global entre quienes tienen acceso a internet y quienes no",
+        "pregunta": "La brecha digital es una forma de desigualdad global entre quienes tienen acceso a internet y quienes no  ",
         "respuestaCorrecta": "true",
         "explicacion": "La brecha digital profundiza desigualdades: el acceso a tecnología e internet es un recurso clave para la educación, el trabajo y la participación cívica en el siglo XXI."
       },
@@ -315,7 +318,7 @@
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el 'activismo digital'?",
+        "pregunta": "¿Qué es el 'activismo digital'?  ",
         "opciones": [
           "Pasar horas en redes sociales sin propósito",
           "Usar herramientas digitales para promover causas sociales, políticas o ambientales",
@@ -330,7 +333,7 @@
         "tema": "Ser ciudadano del mundo",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El consumo responsable implica considerar el impacto ambiental, social y ético de los productos que compramos",
+        "pregunta": "El consumo responsable implica considerar el impacto ambiental, social y ético de los productos que compramos  ",
         "respuestaCorrecta": "true",
         "explicacion": "El consumo responsable evalúa el origen de los productos, las condiciones laborales de quienes los fabrican y su impacto ambiental antes de comprarlos."
       },
@@ -339,7 +342,7 @@
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el etnocentrismo?",
+        "pregunta": "¿Qué es el etnocentrismo?  ",
         "opciones": [
           "El respeto por todas las culturas",
           "La tendencia a considerar la propia cultura como superior y juzgar otras culturas desde ese parámetro",
@@ -354,7 +357,7 @@
         "tema": "ONG y organizaciones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es la rendición de cuentas o accountability en el contexto de las ONG?",
+        "pregunta": "¿Qué es la rendición de cuentas o accountability en el contexto de las ONG?  ",
         "opciones": [
           "Presentar informes fiscales al gobierno",
           "La obligación de las ONG de informar transparentemente a sus donantes y a la sociedad sobre el uso de sus recursos",

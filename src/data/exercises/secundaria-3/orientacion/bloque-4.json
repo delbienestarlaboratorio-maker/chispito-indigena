@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La incertidumbre es natural. Lo importante es informarse y reflexionar antes de decidir."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Un proyecto de vida es flexible. Las circunstancias y nuestros intereses pueden evolucionar."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Muchos profesionistas exitosos cambiaron de carrera o la complementaron con otros estudios."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "El autoconocimiento es la brújula que guía todas las decisiones de vida."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s3ov-b4-01-v2",
+        "tema": "Decisiones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los pasos para tomar una buena decisión? ​",
+        "opciones": [
+          "Identificar opciones, evaluar pros/contras, decidir y actuar",
+          "Decidir al azar",
+          "Copiar lo que hacen los demás",
+          "No pensar"
+        ],
+        "respuestaCorrecta": "Identificar opciones, evaluar pros/contras, decidir y actuar",
+        "explicacion": "Un proceso estructurado de decisión reduce la incertidumbre y mejora los resultados."
+      },
+      {
+        "id": "s3ov-b4-02-v2",
+        "tema": "Proyecto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un proyecto de vida? ​",
+        "opciones": [
+          "Plan personalizado con metas a corto, mediano y largo plazo",
+          "Solo elegir carrera",
+          "Solo ganar dinero",
+          "Solo terminar la escuela"
+        ],
+        "respuestaCorrecta": "Plan personalizado con metas a corto, mediano y largo plazo",
+        "explicacion": "El proyecto de vida integra metas personales, académicas, profesionales y sociales."
+      },
+      {
+        "id": "s3ov-b4-03-v2",
+        "tema": "Decisiones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Es normal sentir incertidumbre al tomar decisiones sobre el futuro ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La incertidumbre es natural. Lo importante es informarse y reflexionar antes de decidir."
+      },
+      {
+        "id": "s3ov-b4-04-v2",
+        "tema": "Proyecto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son metas SMART? ​",
+        "opciones": [
+          "Específicas, Medibles, Alcanzables, Relevantes y con Tiempo definido",
+          "Solo metas grandes",
+          "Metas imposibles",
+          "Metas sin plazo"
+        ],
+        "respuestaCorrecta": "Específicas, Medibles, Alcanzables, Relevantes y con Tiempo definido",
+        "explicacion": "Las metas SMART son más fáciles de cumplir porque tienen claridad y estructura."
+      },
+      {
+        "id": "s3ov-b4-05-v2",
+        "tema": "Decisiones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿A quién podemos recurrir para orientación vocacional? ​",
+        "opciones": [
+          "Orientador escolar, padres, profesores y profesionistas en el campo",
+          "Solo a internet",
+          "A nadie",
+          "Solo al azar"
+        ],
+        "respuestaCorrecta": "Orientador escolar, padres, profesores y profesionistas en el campo",
+        "explicacion": "Múltiples fuentes de orientación nos ayudan a tomar decisiones más informadas."
+      },
+      {
+        "id": "s3ov-b4-06-v2",
+        "tema": "Proyecto",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Nuestro proyecto de vida puede cambiar y adaptarse con el tiempo ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Un proyecto de vida es flexible. Las circunstancias y nuestros intereses pueden evolucionar."
+      },
+      {
+        "id": "s3ov-b4-07-v2",
+        "tema": "Decisiones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un test vocacional? ​",
+        "opciones": [
+          "Herramienta que evalúa intereses y aptitudes para sugerir campos afines",
+          "Un examen de matemáticas",
+          "Una prueba de sangre",
+          "Solo un juego"
+        ],
+        "respuestaCorrecta": "Herramienta que evalúa intereses y aptitudes para sugerir campos afines",
+        "explicacion": "Los tests vocacionales son orientativos y ayudan a explorar opciones, no determinan."
+      },
+      {
+        "id": "s3ov-b4-08-v2",
+        "tema": "Proyecto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es más importante: vocación o estabilidad económica? ​",
+        "opciones": [
+          "Lo ideal es encontrar un equilibrio entre ambos",
+          "Solo el dinero",
+          "Solo la pasión",
+          "No importa ninguno"
+        ],
+        "respuestaCorrecta": "Lo ideal es encontrar un equilibrio entre ambos",
+        "explicacion": "La satisfacción profesional combina lo que disfrutas con lo que te permite vivir bien."
+      },
+      {
+        "id": "s3ov-b4-09-v2",
+        "tema": "Decisiones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Elegir una carrera a los 15 años no es definitivo; se puede cambiar después ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Muchos profesionistas exitosos cambiaron de carrera o la complementaron con otros estudios."
+      },
+      {
+        "id": "s3ov-b4-10-v2",
+        "tema": "Proyecto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el primer paso de tu proyecto de vida? ​",
+        "opciones": [
+          "Conocerte a ti mismo: tus valores, intereses, fortalezas y sueños",
+          "Ganar mucho dinero",
+          "Ser famoso",
+          "No hacer nada"
+        ],
+        "respuestaCorrecta": "Conocerte a ti mismo: tus valores, intereses, fortalezas y sueños",
+        "explicacion": "El autoconocimiento es la brújula que guía todas las decisiones de vida."
+      }
+    ],
     "preview": [
       {
         "id": "s3ov-b4-01",

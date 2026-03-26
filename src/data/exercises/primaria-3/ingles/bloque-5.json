@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Bread = pan. Rice = arroz."
       },
       {
@@ -109,7 +109,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Eyes = ojos. Usamos los ojos para ver."
       },
       {
@@ -158,7 +158,154 @@
         "explicacion": "Orange = naranja (fruta y color)."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p3en-b5-01-v2",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Apple\" means: ​",
+        "opciones": [
+          "Manzana",
+          "Naranja",
+          "Plátano",
+          "Uva"
+        ],
+        "respuestaCorrecta": "Manzana",
+        "explicacion": "Apple = manzana."
+      },
+      {
+        "id": "p3en-b5-02-v2",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Water\" means: ​",
+        "opciones": [
+          "Agua",
+          "Leche",
+          "Jugo",
+          "Refresco"
+        ],
+        "respuestaCorrecta": "Agua",
+        "explicacion": "Water = agua."
+      },
+      {
+        "id": "p3en-b5-03-v2",
+        "tema": "Comida",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Bread\" means arroz ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Bread = pan. Rice = arroz."
+      },
+      {
+        "id": "p3en-b5-04-v2",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Head\" means: ​",
+        "opciones": [
+          "Cabeza",
+          "Mano",
+          "Pie",
+          "Rodilla"
+        ],
+        "respuestaCorrecta": "Cabeza",
+        "explicacion": "Head = cabeza."
+      },
+      {
+        "id": "p3en-b5-05-v2",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Hand\" means: ​",
+        "opciones": [
+          "Mano",
+          "Pie",
+          "Brazo",
+          "Pierna"
+        ],
+        "respuestaCorrecta": "Mano",
+        "explicacion": "Hand = mano. Foot = pie."
+      },
+      {
+        "id": "p3en-b5-06-v2",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Milk\" means: ​",
+        "opciones": [
+          "Leche",
+          "Agua",
+          "Jugo",
+          "Té"
+        ],
+        "respuestaCorrecta": "Leche",
+        "explicacion": "Milk = leche."
+      },
+      {
+        "id": "p3en-b5-07-v2",
+        "tema": "Cuerpo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Eyes\" are used to see ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Eyes = ojos. Usamos los ojos para ver."
+      },
+      {
+        "id": "p3en-b5-08-v2",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I am hungry\" means: ​",
+        "opciones": [
+          "Tengo hambre",
+          "Tengo sed",
+          "Tengo sueño",
+          "Tengo frío"
+        ],
+        "respuestaCorrecta": "Tengo hambre",
+        "explicacion": "Hungry = hambriento. I am hungry = tengo hambre."
+      },
+      {
+        "id": "p3en-b5-09-v2",
+        "tema": "Cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Nose\" means: ​",
+        "opciones": [
+          "Nariz",
+          "Boca",
+          "Oído",
+          "Ojo"
+        ],
+        "respuestaCorrecta": "Nariz",
+        "explicacion": "Nose = nariz."
+      },
+      {
+        "id": "p3en-b5-10-v2",
+        "tema": "Comida",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Orange\" (fruit) in Spanish is: ​",
+        "opciones": [
+          "Naranja",
+          "Manzana",
+          "Pera",
+          "Limón"
+        ],
+        "respuestaCorrecta": "Naranja",
+        "explicacion": "Orange = naranja (fruta y color)."
+      }
+    ],
     "preview": [
       {
         "id": "p3en-b5-01",

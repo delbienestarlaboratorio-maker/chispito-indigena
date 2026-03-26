@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El escenario es el espacio designado para la representación teatral."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "La pantomima se hace en silencio, comunicando solo con gestos y movimientos corporales."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El vestuario comunica visualmente quién es el personaje y en qué época vive."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "El teatro enseña a comunicarse, a ponerse en el lugar de otros y a perder el miedo escénico."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s1art-b4-01-v2",
+        "tema": "Teatro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los elementos básicos del teatro? ​",
+        "opciones": [
+          "Actor, texto, espacio escénico y público",
+          "Solo el actor",
+          "Solo el texto",
+          "Solo el escenario"
+        ],
+        "respuestaCorrecta": "Actor, texto, espacio escénico y público",
+        "explicacion": "El teatro necesita alguien que actúe, algo que decir, un lugar y alguien que observe."
+      },
+      {
+        "id": "s1art-b4-02-v2",
+        "tema": "Géneros",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los dos géneros dramáticos principales? ​",
+        "opciones": [
+          "Tragedia y comedia",
+          "Romance y terror",
+          "Acción y drama",
+          "Musical y ópera"
+        ],
+        "respuestaCorrecta": "Tragedia y comedia",
+        "explicacion": "La tragedia termina en desgracia; la comedia busca la risa y tiene final feliz."
+      },
+      {
+        "id": "s1art-b4-03-v2",
+        "tema": "Teatro",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El escenario es donde actúan los actores ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El escenario es el espacio designado para la representación teatral."
+      },
+      {
+        "id": "s1art-b4-04-v2",
+        "tema": "Teatro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el guión teatral? ​",
+        "opciones": [
+          "El texto con diálogos y acotaciones de la obra",
+          "El vestuario",
+          "La música de fondo",
+          "Las luces del escenario"
+        ],
+        "respuestaCorrecta": "El texto con diálogos y acotaciones de la obra",
+        "explicacion": "El guión contiene todo lo que dicen los personajes y las instrucciones escénicas."
+      },
+      {
+        "id": "s1art-b4-05-v2",
+        "tema": "Teatro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la improvisación teatral? ​",
+        "opciones": [
+          "Crear escenas sin guión previo, en el momento",
+          "Memorizar todo perfectamente",
+          "Leer el guión en voz alta",
+          "No actuar"
+        ],
+        "respuestaCorrecta": "Crear escenas sin guión previo, en el momento",
+        "explicacion": "La improvisación desarrolla creatividad, espontaneidad y trabajo en equipo."
+      },
+      {
+        "id": "s1art-b4-06-v2",
+        "tema": "Teatro",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La pantomima usa palabras para comunicar ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "La pantomima se hace en silencio, comunicando solo con gestos y movimientos corporales."
+      },
+      {
+        "id": "s1art-b4-07-v2",
+        "tema": "Teatro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el origen del teatro occidental? ​",
+        "opciones": [
+          "La Antigua Grecia",
+          "El Antiguo Egipto",
+          "Roma",
+          "China"
+        ],
+        "respuestaCorrecta": "La Antigua Grecia",
+        "explicacion": "El teatro occidental nació en Atenas con dramaturgos como Sófocles y Eurípides."
+      },
+      {
+        "id": "s1art-b4-08-v2",
+        "tema": "Teatro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué función tiene el director de teatro? ​",
+        "opciones": [
+          "Coordinar todos los elementos de la puesta en escena",
+          "Solo memorizar textos",
+          "Solo vender boletos",
+          "Solo maquillarse"
+        ],
+        "respuestaCorrecta": "Coordinar todos los elementos de la puesta en escena",
+        "explicacion": "El director dirige actores, escenografía, luces, vestuario y música."
+      },
+      {
+        "id": "s1art-b4-09-v2",
+        "tema": "Teatro",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El vestuario ayuda a definir la época y personalidad del personaje ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El vestuario comunica visualmente quién es el personaje y en qué época vive."
+      },
+      {
+        "id": "s1art-b4-10-v2",
+        "tema": "Teatro",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué habilidad personal desarrolla más el teatro? ​",
+        "opciones": [
+          "Expresión oral, confianza y empatía",
+          "Solo memorización",
+          "Solo fuerza física",
+          "Solo matemáticas"
+        ],
+        "respuestaCorrecta": "Expresión oral, confianza y empatía",
+        "explicacion": "El teatro enseña a comunicarse, a ponerse en el lugar de otros y a perder el miedo escénico."
+      }
+    ],
     "preview": [
       {
         "id": "s1art-b4-01",

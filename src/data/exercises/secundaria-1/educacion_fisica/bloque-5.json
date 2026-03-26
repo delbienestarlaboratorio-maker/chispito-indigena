@@ -52,7 +52,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El deporte une personas de todas las culturas, capacidades y orígenes."
       },
       {
@@ -95,7 +95,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Los atletas paralímpicos demuestran que el deporte es para TODOS."
       },
       {
@@ -138,7 +138,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Siempre existe una actividad que se adapte a las capacidades e intereses de cada persona."
       },
       {
@@ -157,7 +157,152 @@
         "explicacion": "Estos valores deportivos son transferibles a todos los ámbitos de la vida."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s1ef-b5-01-v2",
+        "tema": "Valores",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué valor del deporte nos enseña a manejar la derrota? ​",
+        "opciones": [
+          "Resiliencia y autocontrol",
+          "Solo la fuerza",
+          "Solo la velocidad",
+          "El tamaño físico"
+        ],
+        "respuestaCorrecta": "Resiliencia y autocontrol",
+        "explicacion": "El deporte enseña a levantarse de las derrotas y controlar las emociones."
+      },
+      {
+        "id": "s1ef-b5-02-v2",
+        "tema": "Olimpismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cada cuántos años son los Juegos Olímpicos de verano? ​",
+        "opciones": [
+          "Cada 4 años",
+          "Cada año",
+          "Cada 2 años",
+          "Cada 10 años"
+        ],
+        "respuestaCorrecta": "Cada 4 años",
+        "explicacion": "Los JJOO de verano se celebran cada 4 años desde 1896."
+      },
+      {
+        "id": "s1ef-b5-03-v2",
+        "tema": "Inclusión",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El deporte puede ser herramienta de inclusión social ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El deporte une personas de todas las culturas, capacidades y orígenes."
+      },
+      {
+        "id": "s1ef-b5-04-v2",
+        "tema": "Salud",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos días por semana recomienda la OMS de ejercicio moderado para adolescentes? ​",
+        "opciones": [
+          "Todos los días (al menos 60 min diarios)",
+          "Solo 1 día",
+          "Solo fines de semana",
+          "2 días"
+        ],
+        "respuestaCorrecta": "Todos los días (al menos 60 min diarios)",
+        "explicacion": "La OMS recomienda que los jóvenes sean activos todos los días."
+      },
+      {
+        "id": "s1ef-b5-05-v2",
+        "tema": "Dopaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el dopaje? ​",
+        "opciones": [
+          "Uso de sustancias prohibidas para mejorar el rendimiento",
+          "Entrenamiento intenso",
+          "Dieta especial",
+          "Cambiar de equipo"
+        ],
+        "respuestaCorrecta": "Uso de sustancias prohibidas para mejorar el rendimiento",
+        "explicacion": "El dopaje es trampa, pone en riesgo la salud y destruye carreras deportivas."
+      },
+      {
+        "id": "s1ef-b5-06-v2",
+        "tema": "Paralímpicos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los atletas paralímpicos compiten con igual dedicación que los olímpicos ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Los atletas paralímpicos demuestran que el deporte es para TODOS."
+      },
+      {
+        "id": "s1ef-b5-07-v2",
+        "tema": "Inclusión",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el deporte adaptado? ​",
+        "opciones": [
+          "Actividad deportiva modificada para personas con discapacidad",
+          "Solo deporte para niños",
+          "Ejercicio sin reglas",
+          "Deporte sin esfuerzo"
+        ],
+        "respuestaCorrecta": "Actividad deportiva modificada para personas con discapacidad",
+        "explicacion": "El deporte adaptado modifica reglas y equipos para la participación de todos."
+      },
+      {
+        "id": "s1ef-b5-08-v2",
+        "tema": "Vida sana",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la clave de una vida saludable? ​",
+        "opciones": [
+          "Equilibrio entre ejercicio, nutrición y descanso",
+          "Solo hacer dieta",
+          "Solo hacer ejercicio",
+          "Solo dormir"
+        ],
+        "respuestaCorrecta": "Equilibrio entre ejercicio, nutrición y descanso",
+        "explicacion": "La salud integral requiere los tres pilares en equilibrio."
+      },
+      {
+        "id": "s1ef-b5-09-v2",
+        "tema": "Deporte",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cualquier persona puede encontrar una actividad física adecuada para ella ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Siempre existe una actividad que se adapte a las capacidades e intereses de cada persona."
+      },
+      {
+        "id": "s1ef-b5-10-v2",
+        "tema": "Valores",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El deporte nos enseña principalmente: ​",
+        "opciones": [
+          "Disciplina, trabajo en equipo, perseverancia y respeto",
+          "Solo a ganar",
+          "Solo a competir",
+          "A ser agresivos"
+        ],
+        "respuestaCorrecta": "Disciplina, trabajo en equipo, perseverancia y respeto",
+        "explicacion": "Estos valores deportivos son transferibles a todos los ámbitos de la vida."
+      }
+    ],
     "preview": [
       {
         "id": "s1ef-b5-01",

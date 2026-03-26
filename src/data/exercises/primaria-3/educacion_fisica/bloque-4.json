@@ -36,7 +36,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La sed aparece cuando ya estamos algo deshidratados. Es mejor tomar agua regularmente."
       },
       {
@@ -79,7 +79,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Las vitaminas (especialmente C y D) ayudan a las defensas del cuerpo contra enfermedades."
       },
       {
@@ -122,7 +122,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "El desayuno proporciona la energía necesaria para concentrarse y aprender durante la mañana."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "Los dulces no tienen los nutrientes que el cuerpo necesita para crecer sano."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p3ef-b4-01-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los 3 grupos del Plato del Bien Comer? ​",
+        "opciones": [
+          "Frutas/verduras, cereales/tubérculos, leguminosas/alimentos de origen animal",
+          "Solo carne",
+          "Solo frutas",
+          "Solo pan"
+        ],
+        "respuestaCorrecta": "Frutas/verduras, cereales/tubérculos, leguminosas/alimentos de origen animal",
+        "explicacion": "El Plato del Bien Comer mexicano organiza los alimentos en 3 grupos para una dieta balanceada."
+      },
+      {
+        "id": "p3ef-b4-02-v2",
+        "tema": "Hidratación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Debemos tomar agua aunque no tengamos sed durante el ejercicio ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La sed aparece cuando ya estamos algo deshidratados. Es mejor tomar agua regularmente."
+      },
+      {
+        "id": "p3ef-b4-03-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué nutriente nos da energía rápida para correr? ​",
+        "opciones": [
+          "Carbohidratos (pan, tortilla, fruta)",
+          "Solo proteína",
+          "Solo grasa",
+          "Solo agua"
+        ],
+        "respuestaCorrecta": "Carbohidratos (pan, tortilla, fruta)",
+        "explicacion": "Los carbohidratos son la fuente principal de energía para la actividad física."
+      },
+      {
+        "id": "p3ef-b4-04-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué alimento ayuda a construir músculos fuertes? ​",
+        "opciones": [
+          "Proteína (huevo, pollo, frijoles)",
+          "Dulces",
+          "Refrescos",
+          "Papas fritas"
+        ],
+        "respuestaCorrecta": "Proteína (huevo, pollo, frijoles)",
+        "explicacion": "Las proteínas son los \"ladrillos\" que construyen y reparan los músculos."
+      },
+      {
+        "id": "p3ef-b4-05-v2",
+        "tema": "Nutrición",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las vitaminas de las frutas fortalecen nuestro sistema inmune ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Las vitaminas (especialmente C y D) ayudan a las defensas del cuerpo contra enfermedades."
+      },
+      {
+        "id": "p3ef-b4-06-v2",
+        "tema": "Hidratación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántos vasos de agua debe tomar un niño al día aproximadamente? ​",
+        "opciones": [
+          "6 a 8 vasos",
+          "Solo 1 vaso",
+          "Ninguno",
+          "20 vasos"
+        ],
+        "respuestaCorrecta": "6 a 8 vasos",
+        "explicacion": "Los niños de 8-9 años necesitan aproximadamente 6-8 vasos de agua al día."
+      },
+      {
+        "id": "p3ef-b4-07-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué bebida es más recomendable para los niños? ​",
+        "opciones": [
+          "Agua natural",
+          "Refresco",
+          "Jugo industrializado",
+          "Café"
+        ],
+        "respuestaCorrecta": "Agua natural",
+        "explicacion": "El agua natural es la mejor opción de hidratación, sin azúcar ni aditivos."
+      },
+      {
+        "id": "p3ef-b4-08-v2",
+        "tema": "Nutrición",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Desayunar antes de ir a la escuela es muy importante ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "El desayuno proporciona la energía necesaria para concentrarse y aprender durante la mañana."
+      },
+      {
+        "id": "p3ef-b4-09-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuándo es el mejor momento para comer antes de hacer deporte? ​",
+        "opciones": [
+          "1 a 2 horas antes",
+          "Justo antes",
+          "Inmediatamente después",
+          "5 horas antes"
+        ],
+        "respuestaCorrecta": "1 a 2 horas antes",
+        "explicacion": "Comer 1-2 horas antes da tiempo para la digestión y proporciona energía disponible."
+      },
+      {
+        "id": "p3ef-b4-10-v2",
+        "tema": "Nutrición",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué pasa si solo comemos dulces y no frutas ni verduras? ​",
+        "opciones": [
+          "Nos faltarán vitaminas y nos enfermaremos más",
+          "Estaremos más fuertes",
+          "Correremos más rápido",
+          "No pasa nada"
+        ],
+        "respuestaCorrecta": "Nos faltarán vitaminas y nos enfermaremos más",
+        "explicacion": "Los dulces no tienen los nutrientes que el cuerpo necesita para crecer sano."
+      }
+    ],
     "preview": [
       {
         "id": "p3ef-b4-01",
@@ -183,7 +328,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La sed aparece cuando ya estamos algo deshidratados. Es mejor tomar agua regularmente."
       }
     ]

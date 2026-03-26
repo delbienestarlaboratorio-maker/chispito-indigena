@@ -1,66 +1,114 @@
 {
-    "grado": "preescolar-2",
-    "materia": "educacion_fisica",
-    "bloque": 6,
-    "nombre": "Mi cuerpo habla (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "Partes del cuerpo II (Brazos y Piernas)",
-        "Deportes con pelota en LSM",
-        "Saltos y carreras",
-        "Me siento cansado"
+  "grado": "preescolar-2",
+  "materia": "educacion_fisica",
+  "bloque": 6,
+  "nombre": "Mi cuerpo habla (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "Partes del cuerpo II (Brazos y Piernas)",
+    "Deportes con pelota en LSM",
+    "Saltos y carreras",
+    "Me siento cansado"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre2-edf-b6-v1-001",
+        "tema": "Partes del cuerpo II (Brazos y Piernas)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para referirnos a la 'Pierna', simplemente apuntamos o tocamos nuestra pierna plana con la mano.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Muchas partes grandes del cuerpo se señalan directamente tocándolas suavemente. 🦵"
+      },
+      {
+        "id": "pre2-edf-b6-v1-002",
+        "tema": "Deportes con pelota en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué deporte se dice empalmando las manos y haciendo un movimiento brusco desde el pecho como si aventáramos una bola pesada?",
+        "opciones": [
+          "Básquetbol",
+          "Fútbol",
+          "Tenis"
+        ],
+        "respuestaCorrecta": "Básquetbol",
+        "explicacion": "¡Básquetbol! Haces el movimiento exacto como si encestaras el balón desde tu pecho hacia arriba. 🏀"
+      },
+      {
+        "id": "pre2-edf-b6-v1-003",
+        "tema": "Saltos y carreras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo representamos 'Correr' en Lengua de Señas Mexicana?",
+        "opciones": [
+          "Juntamos y abrimos las manos rápido al frente como gallinas.",
+          "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
+          "Golpeamos nuestros puños"
+        ],
+        "respuestaCorrecta": "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
+        "explicacion": "¡Corriendo! Los dedos simulan a dos personitas enganchadas moviendo sus piecitos muy rápido por el aire. 🏃‍♂️"
+      },
+      {
+        "id": "pre2-edf-b6-v1-004",
+        "tema": "Me siento cansado",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Después de correr mucho, la seña para decir 'Estoy CANSADO' es dejar caer mis dos ___ tocando mis hombros hacia abajo exhalando.",
+        "respuestaCorrecta": "manos",
+        "explicacion": "¡Cansado! Pones las yemas de tus dedos en tus hombros y las dejas caer pesadamente hacia abajo mientras suspiras. 😓"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "pre2-edf-b6-v1-001",
-                "tema": "Partes del cuerpo II (Brazos y Piernas)",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para referirnos a la 'Pierna', simplemente apuntamos o tocamos nuestra pierna plana con la mano.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Exacto! Muchas partes grandes del cuerpo se señalan directamente tocándolas suavemente. 🦵"
-            },
-            {
-                "id": "pre2-edf-b6-v1-002",
-                "tema": "Deportes con pelota en LSM",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Qué deporte se dice empalmando las manos y haciendo un movimiento brusco desde el pecho como si aventáramos una bola pesada?",
-                "opciones": [
-                    "Básquetbol",
-                    "Fútbol",
-                    "Tenis"
-                ],
-                "respuestaCorrecta": "Básquetbol",
-                "explicacion": "¡Básquetbol! Haces el movimiento exacto como si encestaras el balón desde tu pecho hacia arriba. 🏀"
-            },
-            {
-                "id": "pre2-edf-b6-v1-003",
-                "tema": "Saltos y carreras",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo representamos 'Correr' en Lengua de Señas Mexicana?",
-                "opciones": [
-                    "Juntamos y abrimos las manos rápido al frente como gallinas.",
-                    "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
-                    "Golpeamos nuestros puños"
-                ],
-                "respuestaCorrecta": "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
-                "explicacion": "¡Corriendo! Los dedos simulan a dos personitas enganchadas moviendo sus piecitos muy rápido por el aire. 🏃‍♂️"
-            },
-            {
-                "id": "pre2-edf-b6-v1-004",
-                "tema": "Me siento cansado",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Después de correr mucho, la seña para decir 'Estoy CANSADO' es dejar caer mis dos ___ tocando mis hombros hacia abajo exhalando.",
-                "respuestaCorrecta": "manos",
-                "explicacion": "¡Cansado! Pones las yemas de tus dedos en tus hombros y las dejas caer pesadamente hacia abajo mientras suspiras. 😓"
-            }
-        ]
-    },
-    "generado": "2026-03-09T04:00:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "pre2-edf-b6-v1-001-v2",
+        "tema": "Partes del cuerpo II (Brazos y Piernas)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para referirnos a la 'Pierna', simplemente apuntamos o tocamos nuestra pierna plana con la mano. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Muchas partes grandes del cuerpo se señalan directamente tocándolas suavemente. 🦵"
+      },
+      {
+        "id": "pre2-edf-b6-v1-002-v2",
+        "tema": "Deportes con pelota en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué deporte se dice empalmando las manos y haciendo un movimiento brusco desde el pecho como si aventáramos una bola pesada? ​",
+        "opciones": [
+          "Básquetbol",
+          "Fútbol",
+          "Tenis"
+        ],
+        "respuestaCorrecta": "Básquetbol",
+        "explicacion": "¡Básquetbol! Haces el movimiento exacto como si encestaras el balón desde tu pecho hacia arriba. 🏀"
+      },
+      {
+        "id": "pre2-edf-b6-v1-003-v2",
+        "tema": "Saltos y carreras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo representamos 'Correr' en Lengua de Señas Mexicana? ​",
+        "opciones": [
+          "Juntamos y abrimos las manos rápido al frente como gallinas.",
+          "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
+          "Golpeamos nuestros puños"
+        ],
+        "respuestaCorrecta": "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
+        "explicacion": "¡Corriendo! Los dedos simulan a dos personitas enganchadas moviendo sus piecitos muy rápido por el aire. 🏃‍♂️"
+      },
+      {
+        "id": "pre2-edf-b6-v1-004-v2",
+        "tema": "Me siento cansado",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Después de correr mucho, la seña para decir 'Estoy CANSADO' es dejar caer mis dos ___ tocando mis hombros hacia abajo exhalando. ​",
+        "respuestaCorrecta": "manos",
+        "explicacion": "¡Cansado! Pones las yemas de tus dedos en tus hombros y las dejas caer pesadamente hacia abajo mientras suspiras. 😓"
+      }
+    ]
+  },
+  "generado": "2026-03-09T04:00:00.000Z",
+  "version": "3.0"
 }

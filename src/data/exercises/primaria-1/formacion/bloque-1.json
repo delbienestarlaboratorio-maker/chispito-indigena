@@ -54,7 +54,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "Cada persona es única y especial. Todos somos diferentes y eso es maravilloso."
       },
       {
@@ -90,7 +90,85 @@
         "visual": "❤️"
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p1fc-b1-01-v2",
+        "tema": "Mi identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la identidad? ​",
+        "opciones": [
+          "Lo que nos hace únicos",
+          "Un juego",
+          "Una materia",
+          "Un color"
+        ],
+        "respuestaCorrecta": "Lo que nos hace únicos",
+        "explicacion": "Tu identidad es todo lo que te hace ser TÚ: tu nombre, tu familia, tu forma de ser.",
+        "visual": "🪞"
+      },
+      {
+        "id": "p1fc-b1-02-v2",
+        "tema": "Mi identidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es una forma de cuidarte? ​",
+        "opciones": [
+          "Lavarse las manos",
+          "No dormir",
+          "Comer solo dulces",
+          "No bañarse"
+        ],
+        "respuestaCorrecta": "Lavarse las manos",
+        "explicacion": "Lavarse las manos nos protege de enfermedades. ¡Es muy importante!",
+        "visual": "🙌"
+      },
+      {
+        "id": "p1fc-b1-03-v2",
+        "tema": "Mi identidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Todos los niños son iguales ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "Cada persona es única y especial. Todos somos diferentes y eso es maravilloso."
+      },
+      {
+        "id": "p1fc-b1-04-v2",
+        "tema": "Mis características",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hace a cada persona especial? ​",
+        "opciones": [
+          "Sus características físicas y su personalidad",
+          "Solo su ropa",
+          "Su mochila",
+          "Su color favorito"
+        ],
+        "respuestaCorrecta": "Sus características físicas y su personalidad",
+        "explicacion": "Cada persona tiene rasgos únicos: su cara, su voz, sus gustos, sus talentos.",
+        "visual": "⭐"
+      },
+      {
+        "id": "p1fc-b1-05-v2",
+        "tema": "Me cuido y me quiero",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el autocuidado? ​",
+        "opciones": [
+          "Cuidar de uno mismo",
+          "Cuidar solo a los demás",
+          "Romper cosas",
+          "Dormir todo el día"
+        ],
+        "respuestaCorrecta": "Cuidar de uno mismo",
+        "explicacion": "El autocuidado incluye: comer bien, descansar, limpiar tu cuerpo y cuidar tus emociones.",
+        "visual": "❤️"
+      }
+    ],
     "preview": [
       {
         "id": "p1fc-b1-01",

@@ -8,396 +8,120 @@
     "Decir la verdad",
     "Valores en la amistad"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-formacion-b2-001",
+        "id": "primaria-2-civica-b2-001",
         "tema": "Decir la verdad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué son los símbolos patrios de México?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "La bandera, escudo e himno",
-          "El peso, el petróleo y el maíz",
-          "El chile, el nopal y la tortilla",
-          "El mariachi, la danza y el huipil"
-        ],
-        "respuestaCorrecta": "La bandera, escudo e himno",
-        "explicacion": "Los 3 símbolos patrios de México son: la Bandera Nacional, el Escudo Nacional y el Himno Nacional."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
       },
       {
-        "id": "primaria-2-formacion-b2-002",
+        "id": "primaria-2-civica-b2-002",
+        "tema": "Decir la verdad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
+      },
+      {
+        "id": "primaria-2-civica-b2-003",
         "tema": "Decir la verdad",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La bandera de México tiene 3 colores: verde, ___ y rojo",
-        "respuestaCorrecta": "blanco",
-        "explicacion": "Verde, blanco y rojo son los colores de la Bandera Nacional de México."
-      },
-      {
-        "id": "primaria-2-formacion-b2-003",
-        "tema": "Decir la verdad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Decir la verdad aunque sea difícil es ser honesto",
-        "respuestaCorrecta": "true",
-        "explicacion": "La honestidad es decir la verdad siempre, aunque nos cueste."
-      },
-      {
-        "id": "primaria-2-formacion-b2-004",
-        "tema": "Decir la verdad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Trabajar en equipo significa...",
-        "opciones": [
-          "Hacer todo solo",
-          "Colaborar y ayudarse mutuamente",
-          "Copiarle al compañero",
-          "Competir contra todos"
-        ],
-        "respuestaCorrecta": "Colaborar y ayudarse mutuamente",
-        "explicacion": "En equipo todos contribuyen, se apoyan y comparten responsabilidades."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-008",
-        "tema": "Decir la verdad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El respeto significa...",
-        "opciones": [
-          "Ser obediente siempre",
-          "Reconocer y valorar a los demás",
-          "Callarse siempre",
-          "Hacer lo que uno quiere"
-        ],
-        "respuestaCorrecta": "Reconocer y valorar a los demás",
-        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-009",
-        "tema": "Valores en la amistad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
-        "respuestaCorrecta": "true",
-        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-010",
-        "tema": "Decir la verdad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El respeto significa...",
-        "opciones": [
-          "Ser obediente siempre",
-          "Reconocer y valorar a los demás",
-          "Callarse siempre",
-          "Hacer lo que uno quiere"
-        ],
-        "respuestaCorrecta": "Reconocer y valorar a los demás",
-        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-011",
-        "tema": "Valores en la amistad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
-        "respuestaCorrecta": "true",
-        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-012",
-        "tema": "Decir la verdad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El respeto significa...",
-        "opciones": [
-          "Ser obediente siempre",
-          "Reconocer y valorar a los demás",
-          "Callarse siempre",
-          "Hacer lo que uno quiere"
-        ],
-        "respuestaCorrecta": "Reconocer y valorar a los demás",
-        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-013",
-        "tema": "Valores en la amistad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
-        "respuestaCorrecta": "true",
-        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-014",
-        "tema": "Decir la verdad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El respeto significa...",
-        "opciones": [
-          "Ser obediente siempre",
-          "Reconocer y valorar a los demás",
-          "Callarse siempre",
-          "Hacer lo que uno quiere"
-        ],
-        "respuestaCorrecta": "Reconocer y valorar a los demás",
-        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-015",
-        "tema": "Valores en la amistad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
-        "respuestaCorrecta": "true",
-        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-016",
-        "tema": "Decir la verdad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El respeto significa...",
-        "opciones": [
-          "Ser obediente siempre",
-          "Reconocer y valorar a los demás",
-          "Callarse siempre",
-          "Hacer lo que uno quiere"
-        ],
-        "respuestaCorrecta": "Reconocer y valorar a los demás",
-        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-017",
-        "tema": "Valores en la amistad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los niños tienen derecho a la educación, salud y protección",
-        "respuestaCorrecta": "true",
-        "explicacion": "La Convención de los Derechos del Niño (ONU, 1989) garantiza estos derechos."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-018",
-        "tema": "Decir la verdad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "El respeto significa...",
-        "opciones": [
-          "Ser obediente siempre",
-          "Reconocer y valorar a los demás",
-          "Callarse siempre",
-          "Hacer lo que uno quiere"
-        ],
-        "respuestaCorrecta": "Reconocer y valorar a los demás",
-        "explicacion": "Respetar es reconocer el valor y los derechos de otras personas."
+        "pregunta": "La capacidad de ponerse en el lugar de los demás y comprender sus sentimientos se llama ___",
+        "respuestaCorrecta": "empatía",
+        "explicacion": "La empatía es fundamental para la convivencia social."
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-formacion-b2-005",
-        "tema": "Decir la verdad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué son los símbolos patrios de México?",
-        "opciones": [
-          "La bandera, escudo e himno",
-          "El peso, el petróleo y el maíz",
-          "El chile, el nopal y la tortilla",
-          "El mariachi, la danza y el huipil"
-        ],
-        "respuestaCorrecta": "La bandera, escudo e himno",
-        "explicacion": "Los 3 símbolos patrios de México son: la Bandera Nacional, el Escudo Nacional y el Himno Nacional."
-      },
-      {
-        "id": "primaria-2-formacion-b2-006",
-        "tema": "Decir la verdad",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La bandera de México tiene 3 colores: verde, ___ y rojo",
-        "respuestaCorrecta": "blanco",
-        "explicacion": "Verde, blanco y rojo son los colores de la Bandera Nacional de México."
-      },
-      {
-        "id": "primaria-2-formacion-b2-007",
-        "tema": "Decir la verdad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Trabajar en equipo significa...",
-        "opciones": [
-          "Hacer todo solo",
-          "Colaborar y ayudarse mutuamente",
-          "Copiarle al compañero",
-          "Competir contra todos"
-        ],
-        "respuestaCorrecta": "Colaborar y ayudarse mutuamente",
-        "explicacion": "En equipo todos contribuyen, se apoyan y comparten responsabilidades."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-008",
-        "tema": "Decir la verdad",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
-        "respuestaCorrecta": "resolver",
-        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-009",
+        "id": "primaria-2-civica-b2-v2-001",
         "tema": "Valores en la amistad",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué hacemos al reciclar?",
+        "pregunta": "¿Qué es la \"separación de poderes\"?  ",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
         "opciones": [
-          "Contaminar más",
-          "Reutilizar materiales y reducir basura",
-          "Gastar más dinero",
-          "Usar más energía"
-        ],
-        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
-        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
       },
       {
-        "id": "primaria-2-civica-b2-x-010",
-        "tema": "Decir la verdad",
+        "id": "primaria-2-civica-b2-v2-002",
+        "tema": "Valores en la amistad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La cultura de la legalidad promueve que la gente decida cuáles reglas cumplir y cuáles ignorar  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La cultura de la legalidad implica conocer, respetar y cumplir las leyes por convicción."
+      },
+      {
+        "id": "primaria-2-civica-b2-v2-003",
+        "tema": "Valores en la amistad",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
-        "respuestaCorrecta": "resolver",
-        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-011",
-        "tema": "Valores en la amistad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hacemos al reciclar?",
-        "opciones": [
-          "Contaminar más",
-          "Reutilizar materiales y reducir basura",
-          "Gastar más dinero",
-          "Usar más energía"
-        ],
-        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
-        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-012",
-        "tema": "Decir la verdad",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
-        "respuestaCorrecta": "resolver",
-        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-013",
-        "tema": "Valores en la amistad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hacemos al reciclar?",
-        "opciones": [
-          "Contaminar más",
-          "Reutilizar materiales y reducir basura",
-          "Gastar más dinero",
-          "Usar más energía"
-        ],
-        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
-        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-014",
-        "tema": "Decir la verdad",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
-        "respuestaCorrecta": "resolver",
-        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-015",
-        "tema": "Valores en la amistad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hacemos al reciclar?",
-        "opciones": [
-          "Contaminar más",
-          "Reutilizar materiales y reducir basura",
-          "Gastar más dinero",
-          "Usar más energía"
-        ],
-        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
-        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-016",
-        "tema": "Decir la verdad",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El diálogo es la mejor forma de ___ un conflicto",
-        "respuestaCorrecta": "resolver",
-        "explicacion": "Dialogar permite escuchar diferentes puntos de vista y encontrar soluciones."
-      },
-      {
-        "id": "primaria-2-civica-b2-x-017",
-        "tema": "Valores en la amistad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hacemos al reciclar?",
-        "opciones": [
-          "Contaminar más",
-          "Reutilizar materiales y reducir basura",
-          "Gastar más dinero",
-          "Usar más energía"
-        ],
-        "respuestaCorrecta": "Reutilizar materiales y reducir basura",
-        "explicacion": "Reciclar reduce la basura y la extracción de recursos naturales."
+        "pregunta": "El sistema de gobierno en el cual los ciudadanos eligen a sus representantes es una ___  ",
+        "respuestaCorrecta": "democracia",
+        "explicacion": "Proviene del griego \"demos\" (pueblo) y \"kratos\" (poder)."
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-formacion-b2-001",
+        "id": "primaria-2-civica-b2-001",
         "tema": "Decir la verdad",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué son los símbolos patrios de México?",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
         "opciones": [
-          "La bandera, escudo e himno",
-          "El peso, el petróleo y el maíz",
-          "El chile, el nopal y la tortilla",
-          "El mariachi, la danza y el huipil"
-        ],
-        "respuestaCorrecta": "La bandera, escudo e himno",
-        "explicacion": "Los 3 símbolos patrios de México son: la Bandera Nacional, el Escudo Nacional y el Himno Nacional."
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
       },
       {
-        "id": "primaria-2-formacion-b2-002",
-        "tema": "Decir la verdad",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La bandera de México tiene 3 colores: verde, ___ y rojo",
-        "respuestaCorrecta": "blanco",
-        "explicacion": "Verde, blanco y rojo son los colores de la Bandera Nacional de México."
-      },
-      {
-        "id": "primaria-2-formacion-b2-005",
-        "tema": "Decir la verdad",
+        "id": "primaria-2-civica-b2-v2-001",
+        "tema": "Valores en la amistad",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué son los símbolos patrios de México?",
+        "pregunta": "¿Qué es la \"separación de poderes\"?",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
         "opciones": [
-          "La bandera, escudo e himno",
-          "El peso, el petróleo y el maíz",
-          "El chile, el nopal y la tortilla",
-          "El mariachi, la danza y el huipil"
-        ],
-        "respuestaCorrecta": "La bandera, escudo e himno",
-        "explicacion": "Los 3 símbolos patrios de México son: la Bandera Nacional, el Escudo Nacional y el Himno Nacional."
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
+      },
+      {
+        "id": "primaria-2-civica-b2-002",
+        "tema": "Decir la verdad",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
       }
     ]
   },
-  "generado": "2026-02-27T16:18:13.191Z",
+  "generado": "2026-03-26T03:11:48.012Z",
   "version": "2.0"
 }

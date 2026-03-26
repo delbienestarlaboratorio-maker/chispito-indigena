@@ -1,66 +1,114 @@
 {
-    "grado": "secundaria-2",
-    "materia": "historia",
-    "bloque": 6,
-    "nombre": "De Porfirio al presente (LSM)",
-    "meses": "Julio",
-    "temas": [
-        "El Porfiriato en LSM",
-        "Post-revolución y modernización",
-        "Movimiento estudiantil de 1968",
-        "México democrático y derechos de minorías"
+  "grado": "secundaria-2",
+  "materia": "historia",
+  "bloque": 6,
+  "nombre": "De Porfirio al presente (LSM)",
+  "meses": "Julio",
+  "temas": [
+    "El Porfiriato en LSM",
+    "Post-revolución y modernización",
+    "Movimiento estudiantil de 1968",
+    "México democrático y derechos de minorías"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "s2-his-b6-v1-001",
+        "tema": "El Porfiriato",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se expresa 'DICTADURA' en LSM?",
+        "opciones": [
+          "UNA-PERSONA (dedo índice firme) + MANDAR (mano que empuja hacia abajo a las demás) + SIEMPRE (movimiento circular continuo). Una persona mandando siempre sobre todos.",
+          "Se forma una corona con las manos.",
+          "Se deletrea D-I-C-T-A-D-U-R-A."
+        ],
+        "respuestaCorrecta": "UNA-PERSONA (dedo índice firme) + MANDAR (mano que empuja hacia abajo a las demás) + SIEMPRE (movimiento circular continuo). Una persona mandando siempre sobre todos.",
+        "explicacion": "¡Exacto! DICTADURA descompone el concepto: uno solo + manda + siempre. Contrástala con DEMOCRACIA (pueblo + decide). El Porfiriato (1876-1911) fue uno mandando siempre. La comparación visual es poderosa. 👊"
+      },
+      {
+        "id": "s2-his-b6-v1-002",
+        "tema": "Movimiento 1968",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La seña de 'PROTESTA' o 'MANIFESTACIÓN' en LSM se hace con el puño levantado (símbolo universal de resistencia) combinado con un movimiento de marcha (los dedos 'caminan' hacia adelante), representando a personas marchando por sus derechos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! PROTESTA = puño levantado + marcha con los dedos. El movimiento estudiantil de 1968 en Tlatelolco fue un momento crucial para los derechos civiles en México. Las comunidades marginadas, incluida la comunidad sorda, heredaron esa lucha. ✊"
+      },
+      {
+        "id": "s2-his-b6-v1-003",
+        "tema": "Modernización",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La seña de 'PROGRESO' o 'MODERNIZACIÓN' en LSM combina las manos moviéndose hacia adelante (avance) con los dedos abriéndose (expansión), similar a cómo un abanico se ___ revelando nuevas posibilidades.",
+        "respuestaCorrecta": "despliega",
+        "explicacion": "¡Correcto! PROGRESO = avance + expansión. Las manos avanzan y se abren simultáneamente. Es una imagen perfecta del concepto de modernización: ir hacia adelante y expandirse. 🚀"
+      },
+      {
+        "id": "s2-his-b6-v1-004",
+        "tema": "Derechos de minorías",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál fue un hito importante para la comunidad sorda mexicana en el siglo XX?",
+        "opciones": [
+          "La creación de la Federación Mexicana de Sordos en 1951, que unificó las asociaciones de personas sordas de todo el país y comenzó a luchar por el reconocimiento oficial de la LSM.",
+          "La prohibición de la LSM en las escuelas en 1920.",
+          "La primera transmisión televisiva con intérprete en 2010."
+        ],
+        "respuestaCorrecta": "La creación de la Federación Mexicana de Sordos en 1951, que unificó las asociaciones de personas sordas de todo el país y comenzó a luchar por el reconocimiento oficial de la LSM.",
+        "explicacion": "¡Correcto! 1866: primera escuela. 1951: Federación nacional. 2005: reconocimiento legal de la LSM. Son 140 años de lucha organizada. Conocer esta línea temporal es entender que los derechos no se regalan: se conquistan. 📜✊"
+      }
     ],
-    "totalEjercicios": 10,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "s2-his-b6-v1-001",
-                "tema": "El Porfiriato",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se expresa 'DICTADURA' en LSM?",
-                "opciones": [
-                    "UNA-PERSONA (dedo índice firme) + MANDAR (mano que empuja hacia abajo a las demás) + SIEMPRE (movimiento circular continuo). Una persona mandando siempre sobre todos.",
-                    "Se forma una corona con las manos.",
-                    "Se deletrea D-I-C-T-A-D-U-R-A."
-                ],
-                "respuestaCorrecta": "UNA-PERSONA (dedo índice firme) + MANDAR (mano que empuja hacia abajo a las demás) + SIEMPRE (movimiento circular continuo). Una persona mandando siempre sobre todos.",
-                "explicacion": "¡Exacto! DICTADURA descompone el concepto: uno solo + manda + siempre. Contrástala con DEMOCRACIA (pueblo + decide). El Porfiriato (1876-1911) fue uno mandando siempre. La comparación visual es poderosa. 👊"
-            },
-            {
-                "id": "s2-his-b6-v1-002",
-                "tema": "Movimiento 1968",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "La seña de 'PROTESTA' o 'MANIFESTACIÓN' en LSM se hace con el puño levantado (símbolo universal de resistencia) combinado con un movimiento de marcha (los dedos 'caminan' hacia adelante), representando a personas marchando por sus derechos.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Verdadero! PROTESTA = puño levantado + marcha con los dedos. El movimiento estudiantil de 1968 en Tlatelolco fue un momento crucial para los derechos civiles en México. Las comunidades marginadas, incluida la comunidad sorda, heredaron esa lucha. ✊"
-            },
-            {
-                "id": "s2-his-b6-v1-003",
-                "tema": "Modernización",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "La seña de 'PROGRESO' o 'MODERNIZACIÓN' en LSM combina las manos moviéndose hacia adelante (avance) con los dedos abriéndose (expansión), similar a cómo un abanico se ___ revelando nuevas posibilidades.",
-                "respuestaCorrecta": "despliega",
-                "explicacion": "¡Correcto! PROGRESO = avance + expansión. Las manos avanzan y se abren simultáneamente. Es una imagen perfecta del concepto de modernización: ir hacia adelante y expandirse. 🚀"
-            },
-            {
-                "id": "s2-his-b6-v1-004",
-                "tema": "Derechos de minorías",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cuál fue un hito importante para la comunidad sorda mexicana en el siglo XX?",
-                "opciones": [
-                    "La creación de la Federación Mexicana de Sordos en 1951, que unificó las asociaciones de personas sordas de todo el país y comenzó a luchar por el reconocimiento oficial de la LSM.",
-                    "La prohibición de la LSM en las escuelas en 1920.",
-                    "La primera transmisión televisiva con intérprete en 2010."
-                ],
-                "respuestaCorrecta": "La creación de la Federación Mexicana de Sordos en 1951, que unificó las asociaciones de personas sordas de todo el país y comenzó a luchar por el reconocimiento oficial de la LSM.",
-                "explicacion": "¡Correcto! 1866: primera escuela. 1951: Federación nacional. 2005: reconocimiento legal de la LSM. Son 140 años de lucha organizada. Conocer esta línea temporal es entender que los derechos no se regalan: se conquistan. 📜✊"
-            }
-        ]
-    },
-    "generado": "2026-03-10T20:05:00.000Z",
-    "version": "3.0"
+    "v2": [
+      {
+        "id": "s2-his-b6-v1-001-v2",
+        "tema": "El Porfiriato",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se expresa 'DICTADURA' en LSM? ​",
+        "opciones": [
+          "UNA-PERSONA (dedo índice firme) + MANDAR (mano que empuja hacia abajo a las demás) + SIEMPRE (movimiento circular continuo). Una persona mandando siempre sobre todos.",
+          "Se forma una corona con las manos.",
+          "Se deletrea D-I-C-T-A-D-U-R-A."
+        ],
+        "respuestaCorrecta": "UNA-PERSONA (dedo índice firme) + MANDAR (mano que empuja hacia abajo a las demás) + SIEMPRE (movimiento circular continuo). Una persona mandando siempre sobre todos.",
+        "explicacion": "¡Exacto! DICTADURA descompone el concepto: uno solo + manda + siempre. Contrástala con DEMOCRACIA (pueblo + decide). El Porfiriato (1876-1911) fue uno mandando siempre. La comparación visual es poderosa. 👊"
+      },
+      {
+        "id": "s2-his-b6-v1-002-v2",
+        "tema": "Movimiento 1968",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La seña de 'PROTESTA' o 'MANIFESTACIÓN' en LSM se hace con el puño levantado (símbolo universal de resistencia) combinado con un movimiento de marcha (los dedos 'caminan' hacia adelante), representando a personas marchando por sus derechos. ​",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Verdadero! PROTESTA = puño levantado + marcha con los dedos. El movimiento estudiantil de 1968 en Tlatelolco fue un momento crucial para los derechos civiles en México. Las comunidades marginadas, incluida la comunidad sorda, heredaron esa lucha. ✊"
+      },
+      {
+        "id": "s2-his-b6-v1-003-v2",
+        "tema": "Modernización",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La seña de 'PROGRESO' o 'MODERNIZACIÓN' en LSM combina las manos moviéndose hacia adelante (avance) con los dedos abriéndose (expansión), similar a cómo un abanico se ___ revelando nuevas posibilidades. ​",
+        "respuestaCorrecta": "despliega",
+        "explicacion": "¡Correcto! PROGRESO = avance + expansión. Las manos avanzan y se abren simultáneamente. Es una imagen perfecta del concepto de modernización: ir hacia adelante y expandirse. 🚀"
+      },
+      {
+        "id": "s2-his-b6-v1-004-v2",
+        "tema": "Derechos de minorías",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál fue un hito importante para la comunidad sorda mexicana en el siglo XX? ​",
+        "opciones": [
+          "La creación de la Federación Mexicana de Sordos en 1951, que unificó las asociaciones de personas sordas de todo el país y comenzó a luchar por el reconocimiento oficial de la LSM.",
+          "La prohibición de la LSM en las escuelas en 1920.",
+          "La primera transmisión televisiva con intérprete en 2010."
+        ],
+        "respuestaCorrecta": "La creación de la Federación Mexicana de Sordos en 1951, que unificó las asociaciones de personas sordas de todo el país y comenzó a luchar por el reconocimiento oficial de la LSM.",
+        "explicacion": "¡Correcto! 1866: primera escuela. 1951: Federación nacional. 2005: reconocimiento legal de la LSM. Son 140 años de lucha organizada. Conocer esta línea temporal es entender que los derechos no se regalan: se conquistan. 📜✊"
+      }
+    ]
+  },
+  "generado": "2026-03-10T20:05:00.000Z",
+  "version": "3.0"
 }

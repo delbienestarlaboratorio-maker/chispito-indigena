@@ -8,7 +8,7 @@
     "Números enteros negativos",
     "Fracciones y decimales"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -16,332 +16,68 @@
         "tema": "Números enteros negativos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es mayor: -3 o -7?",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "-7",
-          "-3",
-          "Son iguales",
-          "No se puede comparar"
-        ],
-        "respuestaCorrecta": "-3",
-        "explicacion": "En la recta numérica, -3 está más cerca del 0 que -7. ¡-3 > -7!"
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
       },
       {
         "id": "secundaria-1-matematicas-b1-002",
         "tema": "Números enteros negativos",
-        "tipo": "fill_blank",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "-5 + 8 = ___",
-        "respuestaCorrecta": "3",
-        "explicacion": "De -5 sumamos 8: pasamos por 0 y llegamos a 3."
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       },
       {
         "id": "secundaria-1-matematicas-b1-003",
         "tema": "Números enteros negativos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "-10 es menor que -2",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. En la recta numérica, -10 está más a la izquierda (más negativo) que -2."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-004",
-        "tema": "Números enteros negativos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "(-3) × (-4) = ?",
-        "opciones": [
-          "-12",
-          "12",
-          "-7",
-          "7"
-        ],
-        "respuestaCorrecta": "12",
-        "explicacion": "Negativo × Negativo = Positivo. (-3)×(-4) = +12."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-extra-008",
-        "tema": "Números enteros negativos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si f(x) = 2x + 3, ¿cuánto es f(5)?",
-        "opciones": [
-          "10",
-          "13",
-          "15",
-          "16"
-        ],
-        "respuestaCorrecta": "13",
-        "explicacion": "f(5) = 2(5) + 3 = 10 + 3 = 13."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-extra-010",
-        "tema": "Números enteros negativos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Seno de 30° = ?",
-        "opciones": [
-          "0.5",
-          "0.707",
-          "0.866",
-          "1"
-        ],
-        "respuestaCorrecta": "0.5",
-        "explicacion": "sen(30°) = 1/2 = 0.5. Es uno de los valores trigonométricos fundamentales."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-extra-012",
-        "tema": "Números enteros negativos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "x² - 9 = 0, entonces x = ___ o x = ___",
-        "respuestaCorrecta": "3 o -3",
-        "explicacion": "x² = 9, entonces x = ±√9 = ±3. Hay dos soluciones: 3 y -3."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-014",
-        "tema": "Números enteros negativos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la solución de 2x - 4 = 10?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "2x = 14, x = 7."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-015",
-        "tema": "Fracciones y decimales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el Teorema de Pitágoras?",
-        "opciones": [
-          "a + b = c",
-          "a² + b² = c²",
-          "a × b = c²",
-          "a/b = c"
-        ],
-        "respuestaCorrecta": "a² + b² = c²",
-        "explicacion": "En un triángulo rectángulo: la suma de los cuadrados de los catetos = cuadrado hipotenusa."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-016",
-        "tema": "Números enteros negativos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La pendiente de y=5x-3 es ___",
-        "respuestaCorrecta": "5",
-        "explicacion": "En y=mx+b, m es la pendiente. Aquí m=5."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-017",
-        "tema": "Fracciones y decimales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "P(cara en moneda) = ___",
-        "respuestaCorrecta": "0.5",
-        "explicacion": "Hay 1 cara de 2 posibles: P = 1/2 = 0.5 = 50%."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-018",
-        "tema": "Números enteros negativos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El volumen de un cubo de lado 3 es ___",
-        "respuestaCorrecta": "27",
-        "explicacion": "V = lado³ = 3³ = 27 unidades cúbicas."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-019",
-        "tema": "Fracciones y decimales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un número primo solo es divisible entre 1 y sí mismo",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Ejemplos de primos: 2, 3, 5, 7, 11, 13..."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-020",
-        "tema": "Números enteros negativos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es log₁₀(1000)?",
-        "opciones": [
-          "2",
-          "3",
-          "4",
-          "10"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "log₁₀(1000) = 3 porque 10³ = 1000."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-021",
-        "tema": "Fracciones y decimales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál es la solución de 2x - 4 = 10?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "2x = 14, x = 7."
+        "pregunta": "El resultado de una suma se llama ___",
+        "respuestaCorrecta": "total",
+        "explicacion": "También se le conoce como suma o adición."
       }
     ],
     "v2": [
       {
-        "id": "secundaria-1-matematicas-b1-005",
+        "id": "secundaria-1-matematicas-b1-v2-001",
         "tema": "Fracciones y decimales",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Fracciones y decimales\"?",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Fracciones y decimales es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
-        "id": "secundaria-1-matematicas-b1-006",
+        "id": "secundaria-1-matematicas-b1-v2-002",
         "tema": "Fracciones y decimales",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Fracciones y decimales es parte del currículo oficial de la SEP",
+        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
       },
       {
-        "id": "secundaria-1-matematicas-b1-007",
+        "id": "secundaria-1-matematicas-b1-v2-003",
         "tema": "Fracciones y decimales",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En Fracciones y decimales, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-extra-009",
-        "tema": "Fracciones y decimales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La pendiente de la recta y = 3x + 2 es ___",
-        "respuestaCorrecta": "3",
-        "explicacion": "En y = mx + b, m es la pendiente. Aquí m = 3."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-extra-011",
-        "tema": "Fracciones y decimales",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "En un triángulo rectángulo, la hipotenusa es el lado más largo",
-        "respuestaCorrecta": "true",
-        "explicacion": "La hipotenusa (lado opuesto al ángulo recto) siempre es el lado más largo."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-extra-013",
-        "tema": "Fracciones y decimales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "La probabilidad de sacar cara en una moneda es:",
-        "opciones": [
-          "1/4",
-          "1/3",
-          "1/2",
-          "2/3"
-        ],
-        "respuestaCorrecta": "1/2",
-        "explicacion": "Una moneda tiene 2 caras iguales. P(cara) = 1 caso favorable / 2 posibles = 1/2."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-014",
-        "tema": "Números enteros negativos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El volumen de un cubo de lado 3 es ___",
-        "respuestaCorrecta": "27",
-        "explicacion": "V = lado³ = 3³ = 27 unidades cúbicas."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-015",
-        "tema": "Fracciones y decimales",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Un número primo solo es divisible entre 1 y sí mismo",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Ejemplos de primos: 2, 3, 5, 7, 11, 13..."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-016",
-        "tema": "Números enteros negativos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuánto es log₁₀(1000)?",
-        "opciones": [
-          "2",
-          "3",
-          "4",
-          "10"
-        ],
-        "respuestaCorrecta": "3",
-        "explicacion": "log₁₀(1000) = 3 porque 10³ = 1000."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-017",
-        "tema": "Fracciones y decimales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la solución de 2x - 4 = 10?",
-        "opciones": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "respuestaCorrecta": "7",
-        "explicacion": "2x = 14, x = 7."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-018",
-        "tema": "Números enteros negativos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es el Teorema de Pitágoras?",
-        "opciones": [
-          "a + b = c",
-          "a² + b² = c²",
-          "a × b = c²",
-          "a/b = c"
-        ],
-        "respuestaCorrecta": "a² + b² = c²",
-        "explicacion": "En un triángulo rectángulo: la suma de los cuadrados de los catetos = cuadrado hipotenusa."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-019",
-        "tema": "Fracciones y decimales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La pendiente de y=5x-3 es ___",
-        "respuestaCorrecta": "5",
-        "explicacion": "En y=mx+b, m es la pendiente. Aquí m=5."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-x-020",
-        "tema": "Números enteros negativos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "P(cara en moneda) = ___",
-        "respuestaCorrecta": "0.5",
-        "explicacion": "Hay 1 cara de 2 posibles: P = 1/2 = 0.5 = 50%."
+        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
+        "respuestaCorrecta": "recto",
+        "explicacion": "Un ángulo recto forma una L perfecta."
       }
     ],
     "preview": [
@@ -350,42 +86,42 @@
         "tema": "Números enteros negativos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál número es mayor: -3 o -7?",
+        "pregunta": "¿Cuánto es 8 x 7?",
+        "respuestaCorrecta": "56",
+        "explicacion": "8 multiplicado por 7 es igual a 56.",
         "opciones": [
-          "-7",
-          "-3",
-          "Son iguales",
-          "No se puede comparar"
-        ],
-        "respuestaCorrecta": "-3",
-        "explicacion": "En la recta numérica, -3 está más cerca del 0 que -7. ¡-3 > -7!"
+          "48",
+          "54",
+          "56",
+          "64"
+        ]
+      },
+      {
+        "id": "secundaria-1-matematicas-b1-v2-001",
+        "tema": "Fracciones y decimales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
+        "respuestaCorrecta": "25 cm²",
+        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "opciones": [
+          "10 cm²",
+          "20 cm²",
+          "25 cm²",
+          "30 cm²"
+        ]
       },
       {
         "id": "secundaria-1-matematicas-b1-002",
         "tema": "Números enteros negativos",
-        "tipo": "fill_blank",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "-5 + 8 = ___",
-        "respuestaCorrecta": "3",
-        "explicacion": "De -5 sumamos 8: pasamos por 0 y llegamos a 3."
-      },
-      {
-        "id": "secundaria-1-matematicas-b1-005",
-        "tema": "Fracciones y decimales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Fracciones y decimales\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Fracciones y decimales es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:24.014Z",
+  "generado": "2026-03-26T03:09:52.427Z",
   "version": "2.0"
 }

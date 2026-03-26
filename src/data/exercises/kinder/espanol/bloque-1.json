@@ -8,7 +8,7 @@
     "Vocales A, E, I",
     "Vocal O y U"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
@@ -16,386 +16,74 @@
         "tema": "Vocales A, E, I",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es la primera vocal del abecedario?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "E",
-          "I",
-          "A",
-          "O"
-        ],
-        "respuestaCorrecta": "A",
-        "explicacion": "¡La A es la primera vocal! A de avión, árbol, abeja.",
-        "visual": "🔤",
-        "visualAnimado": true
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
       },
       {
         "id": "kinder-espanol-b1-002",
         "tema": "Vocales A, E, I",
-        "tipo": "multiple_choice",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Qué vocal suena en \"elefante\"?",
-        "opciones": [
-          "A",
-          "E",
-          "I",
-          "O"
-        ],
-        "respuestaCorrecta": "E",
-        "explicacion": "Eeee-lefante. La E es la vocal que escuchamos al inicio.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       },
       {
         "id": "kinder-espanol-b1-003",
         "tema": "Vocales A, E, I",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La palabra \"iguana\" empieza con la vocal ___",
-        "respuestaCorrecta": "I",
-        "explicacion": "I de iguana, imán, iglesia. La I es la tercera vocal.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-extra-007",
-        "tema": "Vocales A, E, I",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas es una vocal?",
-        "opciones": [
-          "B",
-          "S",
-          "E",
-          "T"
-        ],
-        "respuestaCorrecta": "E",
-        "explicacion": "Las vocales son: A, E, I, O, U. La B, S y T son consonantes.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-extra-009",
-        "tema": "Vocales A, E, I",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "\"PERRO\" empieza con la letra P",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! P-E-R-R-O. La primera letra es P.",
-        "visual": "🐶",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-extra-011",
-        "tema": "Vocales A, E, I",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Una oración termina con ___",
-        "respuestaCorrecta": "punto",
-        "explicacion": "Las oraciones terminan con punto (.) para indicar que la idea terminó."
-      },
-      {
-        "id": "kinder-espanol-b1-x-012",
-        "tema": "Vocales A, E, I",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué letra empieza \"MAMÁ\"?",
-        "opciones": [
-          "A",
-          "M",
-          "P",
-          "S"
-        ],
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es M de mamá, mariposa, mago.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-013",
-        "tema": "Vocal O y U",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La \"A\" es una vocal",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí! Las vocales son: A, E, I, O, U.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-014",
-        "tema": "Vocales A, E, I",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La vocal que suena en \"OSITO\" al inicio es ___",
-        "respuestaCorrecta": "O",
-        "explicacion": "O-SI-TO. La O es vocal y suena al principio.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-015",
-        "tema": "Vocal O y U",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué letra empieza \"MAMÁ\"?",
-        "opciones": [
-          "A",
-          "M",
-          "P",
-          "S"
-        ],
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es M de mamá, mariposa, mago.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-016",
-        "tema": "Vocales A, E, I",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La \"A\" es una vocal",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí! Las vocales son: A, E, I, O, U.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-017",
-        "tema": "Vocal O y U",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La vocal que suena en \"OSITO\" al inicio es ___",
-        "respuestaCorrecta": "O",
-        "explicacion": "O-SI-TO. La O es vocal y suena al principio.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-018",
-        "tema": "Vocales A, E, I",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué letra empieza \"MAMÁ\"?",
-        "opciones": [
-          "A",
-          "M",
-          "P",
-          "S"
-        ],
-        "respuestaCorrecta": "M",
-        "explicacion": "M-A-M-Á. La primera letra es M de mamá, mariposa, mago.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-019",
-        "tema": "Vocal O y U",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La \"A\" es una vocal",
-        "respuestaCorrecta": "true",
-        "explicacion": "Sí! Las vocales son: A, E, I, O, U.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-020",
-        "tema": "Vocales A, E, I",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La vocal que suena en \"OSITO\" al inicio es ___",
-        "respuestaCorrecta": "O",
-        "explicacion": "O-SI-TO. La O es vocal y suena al principio.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
       }
     ],
     "v2": [
       {
-        "id": "kinder-espanol-b1-004",
+        "id": "kinder-espanol-b1-v2-001",
         "tema": "Vocal O y U",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Vocal O y U\"?",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Vocal O y U es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
-        "visual": "🔤",
-        "visualAnimado": true
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
-        "id": "kinder-espanol-b1-005",
-        "tema": "Vocal O y U",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Vocal O y U es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-006",
+        "id": "kinder-espanol-b1-v2-002",
         "tema": "Vocal O y U",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "En Vocal O y U, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
       },
       {
-        "id": "kinder-espanol-b1-extra-008",
-        "tema": "Vocal O y U",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "MA-MA tiene ___ sílabas",
-        "respuestaCorrecta": "2",
-        "explicacion": "MA y MA son las dos sílabas de la palabra mamá.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-extra-010",
+        "id": "kinder-espanol-b1-v2-003",
         "tema": "Vocal O y U",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuántas sílabas tiene \"CASA\"?",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
         "opciones": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "respuestaCorrecta": "2",
-        "explicacion": "CA-SA tiene 2 sílabas.",
-        "visual": "🏠",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-012",
-        "tema": "Vocales A, E, I",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "PA-PÁ tiene ___ sílabas",
-        "respuestaCorrecta": "2",
-        "explicacion": "PA y PÁ son las 2 sílabas de la palabra PAPÁ.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-013",
-        "tema": "Vocal O y U",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"GATO\" empieza con la letra...",
-        "opciones": [
-          "C",
-          "G",
-          "J",
-          "K"
-        ],
-        "respuestaCorrecta": "G",
-        "explicacion": "G-A-T-O. Primera letra G, de gato, globo, guitarra.",
-        "visual": "🐱",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-014",
-        "tema": "Vocales A, E, I",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas letras tiene la palabra CASA?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "4",
-        "explicacion": "C-A-S-A = 4 letras.",
-        "visual": "🏠",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-015",
-        "tema": "Vocal O y U",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "PA-PÁ tiene ___ sílabas",
-        "respuestaCorrecta": "2",
-        "explicacion": "PA y PÁ son las 2 sílabas de la palabra PAPÁ.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-016",
-        "tema": "Vocales A, E, I",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"GATO\" empieza con la letra...",
-        "opciones": [
-          "C",
-          "G",
-          "J",
-          "K"
-        ],
-        "respuestaCorrecta": "G",
-        "explicacion": "G-A-T-O. Primera letra G, de gato, globo, guitarra.",
-        "visual": "🐱",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-017",
-        "tema": "Vocal O y U",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas letras tiene la palabra CASA?",
-        "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "respuestaCorrecta": "4",
-        "explicacion": "C-A-S-A = 4 letras.",
-        "visual": "🏠",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-018",
-        "tema": "Vocales A, E, I",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "PA-PÁ tiene ___ sílabas",
-        "respuestaCorrecta": "2",
-        "explicacion": "PA y PÁ son las 2 sílabas de la palabra PAPÁ.",
-        "visual": "➖",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-x-019",
-        "tema": "Vocal O y U",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "\"GATO\" empieza con la letra...",
-        "opciones": [
-          "C",
-          "G",
-          "J",
-          "K"
-        ],
-        "respuestaCorrecta": "G",
-        "explicacion": "G-A-T-O. Primera letra G, de gato, globo, guitarra.",
-        "visual": "🐱",
-        "visualAnimado": true
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
       }
     ],
     "preview": [
@@ -404,54 +92,42 @@
         "tema": "Vocales A, E, I",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál es la primera vocal del abecedario?",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
         "opciones": [
-          "E",
-          "I",
-          "A",
-          "O"
-        ],
-        "respuestaCorrecta": "A",
-        "explicacion": "¡La A es la primera vocal! A de avión, árbol, abeja.",
-        "visual": "🔤",
-        "visualAnimado": true
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "kinder-espanol-b1-v2-001",
+        "tema": "Vocal O y U",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
       },
       {
         "id": "kinder-espanol-b1-002",
         "tema": "Vocales A, E, I",
-        "tipo": "multiple_choice",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Qué vocal suena en \"elefante\"?",
-        "opciones": [
-          "A",
-          "E",
-          "I",
-          "O"
-        ],
-        "respuestaCorrecta": "E",
-        "explicacion": "Eeee-lefante. La E es la vocal que escuchamos al inicio.",
-        "visual": "🔤",
-        "visualAnimado": true
-      },
-      {
-        "id": "kinder-espanol-b1-004",
-        "tema": "Vocal O y U",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Vocal O y U\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Vocal O y U es un tema que nos ayuda a comprender el mundo con mayor profundidad.",
-        "visual": "🔤",
-        "visualAnimado": true
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:23.989Z",
+  "generado": "2026-03-26T03:09:52.184Z",
   "version": "2.0"
 }

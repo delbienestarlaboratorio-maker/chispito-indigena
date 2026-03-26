@@ -36,7 +36,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "La democracia es un sistema de participación continua: en la escuela, la comunidad y el país."
       },
       {
@@ -81,7 +81,78 @@
         "explicacion": "La Constitución Política de los Estados Unidos Mexicanos (1917) es la ley fundamental del país."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "primaria-5fc-b1-01-v2",
+        "tema": "Globalización y ciudadanía global",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son los derechos humanos? ​",
+        "opciones": [
+          "Garantías que tienen todas las personas",
+          "Privilegios de unos pocos",
+          "Reglas del juego",
+          "Solo para adultos"
+        ],
+        "respuestaCorrecta": "Garantías que tienen todas las personas",
+        "explicacion": "Los derechos humanos son universales, inalienables e indivisibles. Los tiene toda persona por el solo hecho de existir.",
+        "visual": "⚖️"
+      },
+      {
+        "id": "primaria-5fc-b1-02-v2",
+        "tema": "Justicia social",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La democracia es solo votar cada seis años ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "La democracia es un sistema de participación continua: en la escuela, la comunidad y el país."
+      },
+      {
+        "id": "primaria-5fc-b1-03-v2",
+        "tema": "Medio ambiente y derechos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo se puede participar en la comunidad? ​",
+        "opciones": [
+          "Asistiendo a asambleas y proyectos comunes",
+          "Solo votando",
+          "Pagando impuestos",
+          "Viendo televisión"
+        ],
+        "respuestaCorrecta": "Asistiendo a asambleas y proyectos comunes",
+        "explicacion": "La participación ciudadana incluye: votar, proponer proyectos, unirse a organizaciones sociales, asistir a cabildo.",
+        "visual": "🗳️"
+      },
+      {
+        "id": "primaria-5fc-b1-04-v2",
+        "tema": "Diversidad y no discriminación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el diálogo en la resolución de conflictos? ​",
+        "opciones": [
+          "Comunicar puntos de vista para llegar a acuerdos",
+          "Ignorar al otro",
+          "Gritar más fuerte",
+          "Ganar siempre"
+        ],
+        "respuestaCorrecta": "Comunicar puntos de vista para llegar a acuerdos",
+        "explicacion": "El diálogo pacífico busca acuerdos donde ambas partes se beneficien. Es la base de la convivencia democrática.",
+        "visual": "🕊️"
+      },
+      {
+        "id": "primaria-5fc-b1-05-v2",
+        "tema": "Cultura de paz",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ___ es la ley máxima de México ​",
+        "respuestaCorrecta": "Constitución",
+        "explicacion": "La Constitución Política de los Estados Unidos Mexicanos (1917) es la ley fundamental del país."
+      }
+    ],
     "preview": [
       {
         "id": "primaria-5fc-b1-01",
@@ -109,7 +180,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "La democracia es un sistema de participación continua: en la escuela, la comunidad y el país."
       }
     ]

@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "A mayor intensidad, más rápido late el corazón. Es una forma fácil de medir esfuerzo."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Falso",
+        "respuestaCorrecta": "false",
         "explicacion": "El cuerpo necesita días de descanso para recuperar los músculos y evitar lesiones por sobreuso."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Los planes se adaptan a la edad, condición física y objetivos de cada persona."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "El entrenamiento funcional combina ejercicios variados que trabajan todo el cuerpo."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p6ef-b1-01-v2",
+        "tema": "Planificación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un plan de entrenamiento personal? ​",
+        "opciones": [
+          "Programa organizado de ejercicios adaptado a nuestras capacidades",
+          "Hacer lo que sea sin orden",
+          "Solo correr todos los días",
+          "No hacer nada"
+        ],
+        "respuestaCorrecta": "Programa organizado de ejercicios adaptado a nuestras capacidades",
+        "explicacion": "Un buen plan de entrenamiento varía los ejercicios, la intensidad y los descansos."
+      },
+      {
+        "id": "p6ef-b1-02-v2",
+        "tema": "Frecuencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa la frecuencia del ejercicio? ​",
+        "opciones": [
+          "Cuántas veces por semana hacemos ejercicio",
+          "Qué tan rápido corremos",
+          "Cuánto peso levantamos",
+          "A qué hora entrenamos"
+        ],
+        "respuestaCorrecta": "Cuántas veces por semana hacemos ejercicio",
+        "explicacion": "La frecuencia ideal para niños es al menos 5 días por semana."
+      },
+      {
+        "id": "p6ef-b1-03-v2",
+        "tema": "Intensidad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La intensidad del ejercicio se puede medir por la frecuencia cardíaca ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "A mayor intensidad, más rápido late el corazón. Es una forma fácil de medir esfuerzo."
+      },
+      {
+        "id": "p6ef-b1-04-v2",
+        "tema": "Rutina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Una rutina de ejercicio completa incluye: ​",
+        "opciones": [
+          "Calentamiento, parte principal y vuelta a la calma",
+          "Solo correr",
+          "Solo estirar",
+          "Solo abdominales"
+        ],
+        "respuestaCorrecta": "Calentamiento, parte principal y vuelta a la calma",
+        "explicacion": "Las 3 fases son indispensables para un entrenamiento seguro y efectivo."
+      },
+      {
+        "id": "p6ef-b1-05-v2",
+        "tema": "Planificación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué es importante registrar nuestro progreso? ​",
+        "opciones": [
+          "Para ver mejoras y ajustar el plan",
+          "No es importante",
+          "Para presumir",
+          "Solo para el maestro"
+        ],
+        "respuestaCorrecta": "Para ver mejoras y ajustar el plan",
+        "explicacion": "El registro permite evaluar avances y modificar ejercicios según sea necesario."
+      },
+      {
+        "id": "p6ef-b1-06-v2",
+        "tema": "Ejercicio",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Es mejor hacer ejercicio todos los días sin descanso ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "false",
+        "explicacion": "El cuerpo necesita días de descanso para recuperar los músculos y evitar lesiones por sobreuso."
+      },
+      {
+        "id": "p6ef-b1-07-v2",
+        "tema": "Intensidad",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo sabemos si la intensidad del ejercicio es adecuada? ​",
+        "opciones": [
+          "Podemos hablar pero no cantar mientras lo hacemos",
+          "No podemos respirar",
+          "No sentimos nada",
+          "Podemos dormir mientras lo hacemos"
+        ],
+        "respuestaCorrecta": "Podemos hablar pero no cantar mientras lo hacemos",
+        "explicacion": "La \"prueba del habla\" indica intensidad moderada: puedes hablar pero no cantar cómodamente."
+      },
+      {
+        "id": "p6ef-b1-08-v2",
+        "tema": "Rutina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuánto debe durar mínimo la parte principal del ejercicio? ​",
+        "opciones": [
+          "20 a 40 minutos",
+          "2 minutos",
+          "Solo 5 minutos",
+          "3 horas"
+        ],
+        "respuestaCorrecta": "20 a 40 minutos",
+        "explicacion": "La parte principal es donde se obtienen los mayores beneficios del ejercicio."
+      },
+      {
+        "id": "p6ef-b1-09-v2",
+        "tema": "Planificación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cada persona puede tener un plan de ejercicio diferente según sus necesidades ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Los planes se adaptan a la edad, condición física y objetivos de cada persona."
+      },
+      {
+        "id": "p6ef-b1-10-v2",
+        "tema": "Ejercicio",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de ejercicio combina fuerza y resistencia? ​",
+        "opciones": [
+          "Entrenamiento funcional o CrossFit adaptado",
+          "Solo correr",
+          "Solo levantar pesas",
+          "Solo yoga"
+        ],
+        "respuestaCorrecta": "Entrenamiento funcional o CrossFit adaptado",
+        "explicacion": "El entrenamiento funcional combina ejercicios variados que trabajan todo el cuerpo."
+      }
+    ],
     "preview": [
       {
         "id": "p6ef-b1-01",

@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "La planificación incluye: idea, boceto, materiales, ejecución y presentación."
       },
       {
@@ -94,7 +94,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Los videoclips son productos artísticos interdisciplinarios muy populares."
       },
       {
@@ -137,7 +137,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "En el arte, el camino de creación enseña tanto o más que la obra terminada."
       },
       {
@@ -156,7 +156,152 @@
         "explicacion": "El arte es un lenguaje poderoso que puede cambiar percepciones y transformar sociedades."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "s2art-b5-01-v2",
+        "tema": "Proyecto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un proyecto artístico integrador? ​",
+        "opciones": [
+          "Obra que combina varios lenguajes artísticos",
+          "Solo un dibujo",
+          "Solo una canción",
+          "Solo un baile"
+        ],
+        "respuestaCorrecta": "Obra que combina varios lenguajes artísticos",
+        "explicacion": "Un proyecto integrador puede unir música, danza, teatro y artes visuales en una sola presentación."
+      },
+      {
+        "id": "s2art-b5-02-v2",
+        "tema": "Interdisciplina",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la interdisciplina en el arte? ​",
+        "opciones": [
+          "Combinar diferentes disciplinas artísticas en una obra",
+          "Solo una disciplina",
+          "No mezclar nada",
+          "Arte sin reglas"
+        ],
+        "respuestaCorrecta": "Combinar diferentes disciplinas artísticas en una obra",
+        "explicacion": "La interdisciplina enriquece la obra al integrar diversas formas de expresión."
+      },
+      {
+        "id": "s2art-b5-03-v2",
+        "tema": "Proyecto",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un proyecto artístico necesita planificación previa ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "La planificación incluye: idea, boceto, materiales, ejecución y presentación."
+      },
+      {
+        "id": "s2art-b5-04-v2",
+        "tema": "Crítica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la crítica constructiva en arte? ​",
+        "opciones": [
+          "Comentario que señala fortalezas y áreas de mejora con respeto",
+          "Solo insultar",
+          "Solo elogiar sin fundamento",
+          "Ignorar la obra"
+        ],
+        "respuestaCorrecta": "Comentario que señala fortalezas y áreas de mejora con respeto",
+        "explicacion": "La crítica constructiva ayuda al artista a crecer sin destruir su motivación."
+      },
+      {
+        "id": "s2art-b5-05-v2",
+        "tema": "Proyecto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué elementos debe tener la presentación de un proyecto artístico? ​",
+        "opciones": [
+          "Obra, ficha técnica, explicación del proceso y reflexión",
+          "Solo mostrar la obra",
+          "Solo hablar",
+          "Solo el título"
+        ],
+        "respuestaCorrecta": "Obra, ficha técnica, explicación del proceso y reflexión",
+        "explicacion": "Presentar el proceso creativo es tan importante como la obra misma."
+      },
+      {
+        "id": "s2art-b5-06-v2",
+        "tema": "Interdisciplina",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un videoclip musical combina artes visuales, música y a veces danza ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Los videoclips son productos artísticos interdisciplinarios muy populares."
+      },
+      {
+        "id": "s2art-b5-07-v2",
+        "tema": "Reflexión",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué es importante reflexionar sobre nuestra obra artística? ​",
+        "opciones": [
+          "Para aprender del proceso y mejorar en futuras creaciones",
+          "No es importante",
+          "Solo para el maestro",
+          "Para presumir"
+        ],
+        "respuestaCorrecta": "Para aprender del proceso y mejorar en futuras creaciones",
+        "explicacion": "La reflexión cierra el ciclo creativo y genera aprendizaje significativo."
+      },
+      {
+        "id": "s2art-b5-08-v2",
+        "tema": "Proyecto",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es una exposición artística? ​",
+        "opciones": [
+          "Presentación organizada de obras para el público",
+          "Guardar todo en cajas",
+          "Una clase normal",
+          "Un examen escrito"
+        ],
+        "respuestaCorrecta": "Presentación organizada de obras para el público",
+        "explicacion": "Las exposiciones permiten compartir el trabajo artístico y recibir retroalimentación."
+      },
+      {
+        "id": "s2art-b5-09-v2",
+        "tema": "Creatividad",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El proceso creativo es tan valioso como el resultado final ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "En el arte, el camino de creación enseña tanto o más que la obra terminada."
+      },
+      {
+        "id": "s2art-b5-10-v2",
+        "tema": "Arte",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es el propósito principal del arte? ​",
+        "opciones": [
+          "Expresar, comunicar y transformar la realidad",
+          "Solo decorar",
+          "Solo ganar dinero",
+          "Solo entretener"
+        ],
+        "respuestaCorrecta": "Expresar, comunicar y transformar la realidad",
+        "explicacion": "El arte es un lenguaje poderoso que puede cambiar percepciones y transformar sociedades."
+      }
+    ],
     "preview": [
       {
         "id": "s2art-b5-01",

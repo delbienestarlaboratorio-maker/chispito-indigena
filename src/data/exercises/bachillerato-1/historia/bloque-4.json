@@ -10,384 +10,120 @@
     "Economía colonial",
     "Sincretismo cultural"
   ],
-  "totalEjercicios": 28,
+  "totalEjercicios": 6,
   "ejercicios": {
     "v1": [
       {
         "id": "bachillerato-1-historia-b4-001",
-        "tema": "Economía colonial",
+        "tema": "Conquista de México",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿En qué año comenzó la Revolución Mexicana?",
+        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
+        "respuestaCorrecta": "1492",
+        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
         "opciones": [
-          "1900",
-          "1905",
-          "1910",
-          "1921"
-        ],
-        "respuestaCorrecta": "1910",
-        "explicacion": "La Revolución Mexicana inició el 20 de noviembre de 1910 con el Plan de San Luis."
+          "1492",
+          "1521",
+          "1810",
+          "1910"
+        ]
       },
       {
         "id": "bachillerato-1-historia-b4-002",
-        "tema": "Sincretismo cultural",
-        "tipo": "fill_blank",
+        "tema": "Conquista de México",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La Constitución Mexicana vigente data de ___",
-        "respuestaCorrecta": "1917",
-        "explicacion": "La Constitución de 1917 fue promulgada en Querétaro el 5 de febrero de 1917."
+        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
+        "respuestaCorrecta": "true",
+        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
       },
       {
         "id": "bachillerato-1-historia-b4-003",
         "tema": "Conquista de México",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La ONU fue fundada después de la Segunda Guerra Mundial",
-        "respuestaCorrecta": "true",
-        "explicacion": "La ONU se fundó el 24 de octubre de 1945 para mantener la paz internacional tras la WWII."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-006",
-        "tema": "Conquista de México",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
-        "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-007",
-        "tema": "Virreinato",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién fue el primer Presidente de México?",
-        "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Antonio López de Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-008",
-        "tema": "Economía colonial",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
-        "respuestaCorrecta": "476",
-        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-009",
-        "tema": "Sincretismo cultural",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
-        "respuestaCorrecta": "1945",
-        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-010",
-        "tema": "Conquista de México",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-011",
-        "tema": "Virreinato",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-012",
-        "tema": "Economía colonial",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién fue Simón Bolívar?",
-        "opciones": [
-          "Rey de España",
-          "Libertador de América del Sur",
-          "Presidente de México",
-          "Conquistador español"
-        ],
-        "respuestaCorrecta": "Libertador de América del Sur",
-        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-013",
-        "tema": "Sincretismo cultural",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
-        "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-014",
-        "tema": "Conquista de México",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Quién fue el primer Presidente de México?",
-        "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Antonio López de Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-015",
-        "tema": "Virreinato",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
-        "respuestaCorrecta": "476",
-        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-016",
-        "tema": "Economía colonial",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
-        "respuestaCorrecta": "1945",
-        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-017",
-        "tema": "Sincretismo cultural",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
+        "pregunta": "La gran ciudad construida por los aztecas sobre un lago se llamaba ___",
+        "respuestaCorrecta": "Tenochtitlán",
+        "explicacion": "Esta ciudad fue el corazón del imperio mexica hasta la conquista española."
       }
     ],
     "v2": [
       {
-        "id": "bachillerato-1-historia-b4-004",
-        "tema": "Virreinato",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién fue el primer presidente de México?",
-        "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria (1824-1829) fue el primer presidente de los Estados Unidos Mexicanos."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-005",
-        "tema": "Economía colonial",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento detonó la Primera Guerra Mundial?",
-        "opciones": [
-          "Caída del Muro de Berlín",
-          "Asesinato del Archiduque Francisco Fernando",
-          "Revolución Rusa",
-          "Tratado de Versalles"
-        ],
-        "respuestaCorrecta": "Asesinato del Archiduque Francisco Fernando",
-        "explicacion": "El asesinato en Sarajevo (28 junio 1914) detonó la Primera Guerra Mundial."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-006",
-        "tema": "Conquista de México",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-007",
-        "tema": "Virreinato",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-008",
-        "tema": "Economía colonial",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién fue Simón Bolívar?",
-        "opciones": [
-          "Rey de España",
-          "Libertador de América del Sur",
-          "Presidente de México",
-          "Conquistador español"
-        ],
-        "respuestaCorrecta": "Libertador de América del Sur",
-        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-009",
+        "id": "bachillerato-1-historia-b4-v2-001",
         "tema": "Sincretismo cultural",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
+        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?  ",
+        "respuestaCorrecta": "La Revolución Mexicana",
+        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
         "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+          "La Guerra de Reforma",
+          "La Independencia",
+          "La Revolución Mexicana",
+          "La Guerra Cristera"
+        ]
       },
       {
-        "id": "bachillerato-1-historia-b4-x-010",
-        "tema": "Conquista de México",
-        "tipo": "multiple_choice",
+        "id": "bachillerato-1-historia-b4-v2-002",
+        "tema": "Sincretismo cultural",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Quién fue el primer Presidente de México?",
-        "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Antonio López de Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria fue el primer presidente de México (1824-1829)."
+        "pregunta": "El Tratado de Guadalupe Hidalgo puso fin a la guerra de Reforma  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "Dicho tratado finalizó la guerra México-Estados Unidos, resultando en la pérdida de la mitad del territorio nacional."
       },
       {
-        "id": "bachillerato-1-historia-b4-x-011",
-        "tema": "Virreinato",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La caída del Imperio Romano de Occidente fue en el año ___",
-        "respuestaCorrecta": "476",
-        "explicacion": "En el año 476 d.C. cayó Roma, marcando el fin de la Edad Antigua."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-012",
-        "tema": "Economía colonial",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La ONU fue fundada en el año ___ tras la Segunda Guerra Mundial",
-        "respuestaCorrecta": "1945",
-        "explicacion": "La ONU nació en 1945 con el objetivo de mantener la paz mundial."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-013",
+        "id": "bachillerato-1-historia-b4-v2-003",
         "tema": "Sincretismo cultural",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "La Revolución Industrial comenzó en ___",
-        "respuestaCorrecta": "Inglaterra",
-        "explicacion": "La Revolución Industrial inició en Gran Bretaña (siglo XVIII) con el motor a vapor."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-014",
-        "tema": "Conquista de México",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Los mayas inventaron el concepto del cero en matemáticas",
-        "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Los mayas desarrollaron independientemente el concepto del cero."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-015",
-        "tema": "Virreinato",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién fue Simón Bolívar?",
-        "opciones": [
-          "Rey de España",
-          "Libertador de América del Sur",
-          "Presidente de México",
-          "Conquistador español"
-        ],
-        "respuestaCorrecta": "Libertador de América del Sur",
-        "explicacion": "Bolívar liberó Venezuela, Colombia, Bolivia, Ecuador, Perú y Panamá."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-x-016",
-        "tema": "Economía colonial",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuándo se firmó la Declaración de Independencia de EUA?",
-        "opciones": [
-          "1773",
-          "1776",
-          "1783",
-          "1800"
-        ],
-        "respuestaCorrecta": "1776",
-        "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia de Estados Unidos."
+        "pregunta": "Durante tres siglos, gran parte del territorio de Norteamérica y Centroamérica formó el Virreinato de la Nueva ___  ",
+        "respuestaCorrecta": "España",
+        "explicacion": "Se estableció en 1535 con Antonio de Mendoza como primer virrey."
       }
     ],
     "preview": [
       {
         "id": "bachillerato-1-historia-b4-001",
-        "tema": "Economía colonial",
+        "tema": "Conquista de México",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿En qué año comenzó la Revolución Mexicana?",
+        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
+        "respuestaCorrecta": "1492",
+        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
         "opciones": [
-          "1900",
-          "1905",
-          "1910",
-          "1921"
-        ],
-        "respuestaCorrecta": "1910",
-        "explicacion": "La Revolución Mexicana inició el 20 de noviembre de 1910 con el Plan de San Luis."
+          "1492",
+          "1521",
+          "1810",
+          "1910"
+        ]
+      },
+      {
+        "id": "bachillerato-1-historia-b4-v2-001",
+        "tema": "Sincretismo cultural",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?",
+        "respuestaCorrecta": "La Revolución Mexicana",
+        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
+        "opciones": [
+          "La Guerra de Reforma",
+          "La Independencia",
+          "La Revolución Mexicana",
+          "La Guerra Cristera"
+        ]
       },
       {
         "id": "bachillerato-1-historia-b4-002",
-        "tema": "Sincretismo cultural",
-        "tipo": "fill_blank",
+        "tema": "Conquista de México",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La Constitución Mexicana vigente data de ___",
-        "respuestaCorrecta": "1917",
-        "explicacion": "La Constitución de 1917 fue promulgada en Querétaro el 5 de febrero de 1917."
-      },
-      {
-        "id": "bachillerato-1-historia-b4-004",
-        "tema": "Virreinato",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Quién fue el primer presidente de México?",
-        "opciones": [
-          "Agustín de Iturbide",
-          "Guadalupe Victoria",
-          "Benito Juárez",
-          "Santa Anna"
-        ],
-        "respuestaCorrecta": "Guadalupe Victoria",
-        "explicacion": "Guadalupe Victoria (1824-1829) fue el primer presidente de los Estados Unidos Mexicanos."
+        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
+        "respuestaCorrecta": "true",
+        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
       }
     ]
   },
-  "generado": "2026-02-27T17:22:03.145Z",
-  "version": "3.0"
+  "generado": "2026-03-26T03:09:52.043Z",
+  "version": "2.0"
 }

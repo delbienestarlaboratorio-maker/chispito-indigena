@@ -1,329 +1,329 @@
 {
-    "grado": "preescolar-1",
-    "materia": "conocimiento",
-    "bloque": 6,
-    "nombre": "Mi mundo en señas (LSM)",
-    "meses": "Todo el ciclo escolar",
-    "temas": [
-        "Mi familia en señas",
-        "Colores en LSM",
-        "Animales básicos",
-        "La naturaleza en señas"
+  "grado": "preescolar-1",
+  "materia": "conocimiento",
+  "bloque": 6,
+  "nombre": "Mi mundo en señas (LSM)",
+  "meses": "Todo el ciclo escolar",
+  "temas": [
+    "Mi familia en señas",
+    "Colores en LSM",
+    "Animales básicos",
+    "La naturaleza en señas"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-con-b6-v1-001",
+        "tema": "Mi familia en señas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo decimos MAMÁ en LSM? 👩",
+        "opciones": [
+          "Tocamos la mejilla con la mano abierta",
+          "Cerramos los ojos",
+          "Aplaudimos",
+          "Saltamos"
+        ],
+        "respuestaCorrecta": "Tocamos la mejilla con la mano abierta",
+        "explicacion": "¡MAMÁ en LSM! Tocamos suavecito nuestra mejilla con la mano abierta, cerca de la boca. 👩❤️",
+        "visual": "👩",
+        "imagen": "/img/lsm/familia.png",
+        "imagenAlt": "Familia haciendo señas LSM"
+      },
+      {
+        "id": "pre1-con-b6-v1-002",
+        "tema": "Mi familia en señas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo decimos PAPÁ en LSM? 👨",
+        "opciones": [
+          "Tocamos la frente con la mano abierta",
+          "Movemos los brazos",
+          "Señalamos al suelo",
+          "Giramos la cabeza"
+        ],
+        "respuestaCorrecta": "Tocamos la frente con la mano abierta",
+        "explicacion": "¡PAPÁ en LSM! Tocamos la frente con la mano abierta. Mamá = mejilla, Papá = frente. 👨💙",
+        "visual": "👨"
+      },
+      {
+        "id": "pre1-con-b6-v1-003",
+        "tema": "Mi familia en señas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En LSM, MAMÁ se toca en la mejilla y PAPÁ se toca en la frente.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Mejilla = MAMÁ 👩, Frente = PAPÁ 👨. ¡Es fácil de recordar! 👨‍👩‍👧"
+      },
+      {
+        "id": "pre1-con-b6-v1-004",
+        "tema": "La naturaleza en señas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo representamos AGUA 💧 en LSM?",
+        "opciones": [
+          "Movemos los dedos como si cayera agua",
+          "Cerramos el puño",
+          "Aplaudimos",
+          "Señalamos arriba"
+        ],
+        "respuestaCorrecta": "Movemos los dedos como si cayera agua",
+        "explicacion": "¡AGUA! En LSM movemos los dedos hacia abajo como gotitas de lluvia. 💧🌧️",
+        "visual": "💧"
+      },
+      {
+        "id": "pre1-con-b6-v1-005",
+        "tema": "La naturaleza en señas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para decir SOL ☀️ en LSM, hacemos un círculo con las manos cerca de la ___.",
+        "respuestaCorrecta": "cara",
+        "explicacion": "¡SOL! Hacemos un círculo con las manos cerca de la cara, como el sol que brilla. ☀️😊"
+      },
+      {
+        "id": "pre1-con-b6-v1-006",
+        "tema": "Animales básicos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para decir MARIPOSA 🦋 en LSM, cruzamos los pulgares y...",
+        "opciones": [
+          "Movemos los dedos como alas 🦋",
+          "Cerramos los ojos",
+          "Gritamos",
+          "Corremos"
+        ],
+        "respuestaCorrecta": "Movemos los dedos como alas 🦋",
+        "explicacion": "¡MARIPOSA! Cruzamos los pulgares y movemos los dedos como alitas. ¡Qué bonito! 🦋✨",
+        "visual": "🦋"
+      },
+      {
+        "id": "pre1-con-b6-v1-007",
+        "tema": "Colores en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo decimos AMARILLO 🟡 en LSM?",
+        "opciones": [
+          "Agitamos la mano con la Y extendida",
+          "Señalamos los ojos",
+          "Aplaudimos",
+          "Tocamos la nariz"
+        ],
+        "respuestaCorrecta": "Agitamos la mano con la Y extendida",
+        "explicacion": "¡AMARILLO! En LSM usamos la letra Y del abecedario dactilológico, como el color del sol. 🟡☀️",
+        "visual": "🟡"
+      },
+      {
+        "id": "pre1-con-b6-v1-008",
+        "tema": "Mi familia en señas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Mi familia en señas: mamá = mejilla, papá = frente, bebé = brazos como si mecemos a un ___.",
+        "respuestaCorrecta": "bebé",
+        "explicacion": "¡BEBÉ! En LSM hacemos como si mecemos un bebé en los brazos. 👶🤱"
+      },
+      {
+        "id": "pre1-con-b6-v1-009",
+        "tema": "La naturaleza en señas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para decir FLOR 🌸 en LSM, juntamos los dedos como un capullo y los abrimos como pétalos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡FLOR! Los dedos juntos son el capullo, y al abrirlos son los pétalos. ¡Florece! 🌸🌺",
+        "visual": "🌸"
+      },
+      {
+        "id": "pre1-con-b6-v1-010",
+        "tema": "Animales básicos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo se hace PEZ 🐟 en LSM?",
+        "opciones": [
+          "Movemos la mano plana como pez nadando",
+          "Ponemos manos en la cabeza",
+          "Saltamos",
+          "Agitamos brazos"
+        ],
+        "respuestaCorrecta": "Movemos la mano plana como pez nadando",
+        "explicacion": "¡PEZ! Ponemos la mano plana y la movemos como un pececito nadando en el agua. 🐟🌊",
+        "visual": "🐟"
+      }
     ],
-    "totalEjercicios": 23,
-    "ejercicios": {
-        "v1": [
-            {
-                "id": "pre1-con-b6-v1-001",
-                "tema": "Mi familia en señas",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo decimos MAMÁ en LSM? 👩",
-                "opciones": [
-                    "Tocamos la mejilla con la mano abierta",
-                    "Cerramos los ojos",
-                    "Aplaudimos",
-                    "Saltamos"
-                ],
-                "respuestaCorrecta": "Tocamos la mejilla con la mano abierta",
-                "explicacion": "¡MAMÁ en LSM! Tocamos suavecito nuestra mejilla con la mano abierta, cerca de la boca. 👩❤️",
-                "visual": "👩",
-                "imagen": "/img/lsm/familia.png",
-                "imagenAlt": "Familia haciendo señas LSM"
-            },
-            {
-                "id": "pre1-con-b6-v1-002",
-                "tema": "Mi familia en señas",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo decimos PAPÁ en LSM? 👨",
-                "opciones": [
-                    "Tocamos la frente con la mano abierta",
-                    "Movemos los brazos",
-                    "Señalamos al suelo",
-                    "Giramos la cabeza"
-                ],
-                "respuestaCorrecta": "Tocamos la frente con la mano abierta",
-                "explicacion": "¡PAPÁ en LSM! Tocamos la frente con la mano abierta. Mamá = mejilla, Papá = frente. 👨💙",
-                "visual": "👨"
-            },
-            {
-                "id": "pre1-con-b6-v1-003",
-                "tema": "Mi familia en señas",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "En LSM, MAMÁ se toca en la mejilla y PAPÁ se toca en la frente.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Exacto! Mejilla = MAMÁ 👩, Frente = PAPÁ 👨. ¡Es fácil de recordar! 👨‍👩‍👧"
-            },
-            {
-                "id": "pre1-con-b6-v1-004",
-                "tema": "La naturaleza en señas",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo representamos AGUA 💧 en LSM?",
-                "opciones": [
-                    "Movemos los dedos como si cayera agua",
-                    "Cerramos el puño",
-                    "Aplaudimos",
-                    "Señalamos arriba"
-                ],
-                "respuestaCorrecta": "Movemos los dedos como si cayera agua",
-                "explicacion": "¡AGUA! En LSM movemos los dedos hacia abajo como gotitas de lluvia. 💧🌧️",
-                "visual": "💧"
-            },
-            {
-                "id": "pre1-con-b6-v1-005",
-                "tema": "La naturaleza en señas",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Para decir SOL ☀️ en LSM, hacemos un círculo con las manos cerca de la ___.",
-                "respuestaCorrecta": "cara",
-                "explicacion": "¡SOL! Hacemos un círculo con las manos cerca de la cara, como el sol que brilla. ☀️😊"
-            },
-            {
-                "id": "pre1-con-b6-v1-006",
-                "tema": "Animales básicos",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "Para decir MARIPOSA 🦋 en LSM, cruzamos los pulgares y...",
-                "opciones": [
-                    "Movemos los dedos como alas 🦋",
-                    "Cerramos los ojos",
-                    "Gritamos",
-                    "Corremos"
-                ],
-                "respuestaCorrecta": "Movemos los dedos como alas 🦋",
-                "explicacion": "¡MARIPOSA! Cruzamos los pulgares y movemos los dedos como alitas. ¡Qué bonito! 🦋✨",
-                "visual": "🦋"
-            },
-            {
-                "id": "pre1-con-b6-v1-007",
-                "tema": "Colores en LSM",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo decimos AMARILLO 🟡 en LSM?",
-                "opciones": [
-                    "Agitamos la mano con la Y extendida",
-                    "Señalamos los ojos",
-                    "Aplaudimos",
-                    "Tocamos la nariz"
-                ],
-                "respuestaCorrecta": "Agitamos la mano con la Y extendida",
-                "explicacion": "¡AMARILLO! En LSM usamos la letra Y del abecedario dactilológico, como el color del sol. 🟡☀️",
-                "visual": "🟡"
-            },
-            {
-                "id": "pre1-con-b6-v1-008",
-                "tema": "Mi familia en señas",
-                "tipo": "fill_blank",
-                "nivel": "v1",
-                "pregunta": "Mi familia en señas: mamá = mejilla, papá = frente, bebé = brazos como si mecemos a un ___.",
-                "respuestaCorrecta": "bebé",
-                "explicacion": "¡BEBÉ! En LSM hacemos como si mecemos un bebé en los brazos. 👶🤱"
-            },
-            {
-                "id": "pre1-con-b6-v1-009",
-                "tema": "La naturaleza en señas",
-                "tipo": "true_false",
-                "nivel": "v1",
-                "pregunta": "Para decir FLOR 🌸 en LSM, juntamos los dedos como un capullo y los abrimos como pétalos.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡FLOR! Los dedos juntos son el capullo, y al abrirlos son los pétalos. ¡Florece! 🌸🌺",
-                "visual": "🌸"
-            },
-            {
-                "id": "pre1-con-b6-v1-010",
-                "tema": "Animales básicos",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo se hace PEZ 🐟 en LSM?",
-                "opciones": [
-                    "Movemos la mano plana como pez nadando",
-                    "Ponemos manos en la cabeza",
-                    "Saltamos",
-                    "Agitamos brazos"
-                ],
-                "respuestaCorrecta": "Movemos la mano plana como pez nadando",
-                "explicacion": "¡PEZ! Ponemos la mano plana y la movemos como un pececito nadando en el agua. 🐟🌊",
-                "visual": "🐟"
-            }
+    "v2": [
+      {
+        "id": "pre1-con-b6-v2-001",
+        "tema": "La naturaleza en señas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo decimos ÁRBOL 🌳 en LSM?  ",
+        "opciones": [
+          "Antebrazo vertical (tronco) y mano abierta arriba (copa)",
+          "Cerramos puños",
+          "Aplaudimos",
+          "Señalamos atrás"
         ],
-        "v2": [
-            {
-                "id": "pre1-con-b6-v2-001",
-                "tema": "La naturaleza en señas",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Cómo decimos ÁRBOL 🌳 en LSM?",
-                "opciones": [
-                    "Antebrazo vertical (tronco) y mano abierta arriba (copa)",
-                    "Cerramos puños",
-                    "Aplaudimos",
-                    "Señalamos atrás"
-                ],
-                "respuestaCorrecta": "Antebrazo vertical (tronco) y mano abierta arriba (copa)",
-                "explicacion": "¡ÁRBOL! El antebrazo es el tronco y la mano abierta arriba es la copa con hojas. 🌳🌿",
-                "visual": "🌳"
-            },
-            {
-                "id": "pre1-con-b6-v2-002",
-                "tema": "Animales básicos",
-                "tipo": "fill_blank",
-                "nivel": "v2",
-                "pregunta": "Para PÁJARO 🐦 en LSM, el pulgar y el índice se abren y cierran como un ___.",
-                "respuestaCorrecta": "pico",
-                "explicacion": "¡PICO! Frente a la boca, abrimos y cerramos como piquito de pajarito. ¡Pío! 🐦🎵"
-            },
-            {
-                "id": "pre1-con-b6-v2-003",
-                "tema": "Mi familia en señas",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Cómo decimos HERMANO en LSM?",
-                "opciones": [
-                    "Juntamos los dedos índice de ambas manos",
-                    "Tocamos la frente",
-                    "Tocamos la mejilla",
-                    "Aplaudimos"
-                ],
-                "respuestaCorrecta": "Juntamos los dedos índice de ambas manos",
-                "explicacion": "¡HERMANO! Dos dedos índice juntos — como dos personas que están siempre juntas. 👦👦🤝"
-            },
-            {
-                "id": "pre1-con-b6-v2-004",
-                "tema": "Colores en LSM",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "El color VERDE 💚 en LSM se hace agitando la mano con la G extendida, como la naturaleza.",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡VERDE! Usa la letra G del abecedario dactilológico. Verde como las plantas y los árboles. 💚🌿"
-            },
-            {
-                "id": "pre1-con-b6-v2-005",
-                "tema": "La naturaleza en señas",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "Para decir LLUVIA 🌧️ en LSM, ¿qué hacemos?",
-                "opciones": [
-                    "Bajamos ambas manos con dedos abiertos como gotas cayendo",
-                    "Cerramos puños",
-                    "Gritamos",
-                    "Saltamos"
-                ],
-                "respuestaCorrecta": "Bajamos ambas manos con dedos abiertos como gotas cayendo",
-                "explicacion": "¡LLUVIA! Nuestros dedos son las gotitas que caen del cielo. 🌧️💧",
-                "visual": "🌧️"
-            },
-            {
-                "id": "pre1-con-b6-v2-006",
-                "tema": "Animales básicos",
-                "tipo": "fill_blank",
-                "nivel": "v2",
-                "pregunta": "Para decir ELEFANTE 🐘 en LSM, hacemos con la mano una ___ larga desde la nariz.",
-                "respuestaCorrecta": "trompa",
-                "explicacion": "¡TROMPA! Movemos la mano desde la nariz hacia abajo imitando la trompa del elefante. 🐘"
-            },
-            {
-                "id": "pre1-con-b6-v2-007",
-                "tema": "Mi familia en señas",
-                "tipo": "true_false",
-                "nivel": "v2",
-                "pregunta": "ABUELA en LSM se hace tocando la mejilla y moviendo la mano hacia abajo (como las arruguitas de la sabiduría).",
-                "respuestaCorrecta": "true",
-                "explicacion": "¡Sí! ABUELA combina MAMÁ (mejilla) con un movimiento que representa sabiduría y experiencia. 👵❤️"
-            },
-            {
-                "id": "pre1-con-b6-v2-008",
-                "tema": "Colores en LSM",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Cómo decimos BLANCO ⚪ en LSM?",
-                "opciones": [
-                    "Pasamos la mano abierta por el pecho",
-                    "Señalamos al cielo",
-                    "Cerramos los ojos",
-                    "Tocamos la nariz"
-                ],
-                "respuestaCorrecta": "Pasamos la mano abierta por el pecho",
-                "explicacion": "¡BLANCO! Pasamos la mano abierta por el pecho, como mostrando limpieza/pureza. ⚪✨"
-            },
-            {
-                "id": "pre1-con-b6-v2-009",
-                "tema": "La naturaleza en señas",
-                "tipo": "multiple_choice",
-                "nivel": "v2",
-                "pregunta": "¿Cómo representamos ESTRELLA ⭐ en LSM?",
-                "opciones": [
-                    "Dedos índice apuntándose y moviéndolos alternadamente hacia arriba",
-                    "Aplaudimos",
-                    "Señalamos al suelo",
-                    "Cerramos puños"
-                ],
-                "respuestaCorrecta": "Dedos índice apuntándose y moviéndolos alternadamente hacia arriba",
-                "explicacion": "¡ESTRELLA! Los dedos índice suben alternados al cielo, como las estrellitas que brillan. ⭐✨",
-                "visual": "⭐"
-            },
-            {
-                "id": "pre1-con-b6-v2-010",
-                "tema": "Mi familia en señas",
-                "tipo": "fill_blank",
-                "nivel": "v2",
-                "pregunta": "AMIGO en LSM: enganchamos los dedos ___ de cada mano como cadena de amistad.",
-                "respuestaCorrecta": "meñique",
-                "explicacion": "¡AMIGO! Enganchamos los meñiques como una promesa de amistad eterna. 🤝👫"
-            }
+        "respuestaCorrecta": "Antebrazo vertical (tronco) y mano abierta arriba (copa)",
+        "explicacion": "¡ÁRBOL! El antebrazo es el tronco y la mano abierta arriba es la copa con hojas. 🌳🌿",
+        "visual": "🌳"
+      },
+      {
+        "id": "pre1-con-b6-v2-002",
+        "tema": "Animales básicos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para PÁJARO 🐦 en LSM, el pulgar y el índice se abren y cierran como un ___.  ",
+        "respuestaCorrecta": "pico",
+        "explicacion": "¡PICO! Frente a la boca, abrimos y cerramos como piquito de pajarito. ¡Pío! 🐦🎵"
+      },
+      {
+        "id": "pre1-con-b6-v2-003",
+        "tema": "Mi familia en señas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo decimos HERMANO en LSM?  ",
+        "opciones": [
+          "Juntamos los dedos índice de ambas manos",
+          "Tocamos la frente",
+          "Tocamos la mejilla",
+          "Aplaudimos"
         ],
-        "preview": [
-            {
-                "id": "pre1-con-b6-v1-001",
-                "tema": "Familia en LSM",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿Cómo decimos MAMÁ? 👩",
-                "opciones": [
-                    "Tocamos la mejilla",
-                    "Cerramos ojos",
-                    "Aplaudimos",
-                    "Saltamos"
-                ],
-                "respuestaCorrecta": "Tocamos la mejilla",
-                "explicacion": "👩❤️",
-                "imagen": "/img/lsm/familia.png",
-                "imagenAlt": "Familia LSM"
-            },
-            {
-                "id": "pre1-con-b6-v1-004",
-                "tema": "Naturaleza",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿AGUA 💧 en LSM?",
-                "opciones": [
-                    "Dedos como gotas",
-                    "Puño cerrado",
-                    "Aplaudir",
-                    "Señalar arriba"
-                ],
-                "respuestaCorrecta": "Dedos como gotas",
-                "explicacion": "💧🌧️"
-            },
-            {
-                "id": "pre1-con-b6-v1-006",
-                "tema": "Animales",
-                "tipo": "multiple_choice",
-                "nivel": "v1",
-                "pregunta": "¿MARIPOSA 🦋 en LSM?",
-                "opciones": [
-                    "Dedos como alas",
-                    "Cerrar ojos",
-                    "Gritar",
-                    "Correr"
-                ],
-                "respuestaCorrecta": "Dedos como alas",
-                "explicacion": "🦋✨"
-            }
-        ]
-    },
-    "generado": "2026-03-11T14:05:00.000Z",
-    "version": "4.0-SEP"
+        "respuestaCorrecta": "Juntamos los dedos índice de ambas manos",
+        "explicacion": "¡HERMANO! Dos dedos índice juntos — como dos personas que están siempre juntas. 👦👦🤝"
+      },
+      {
+        "id": "pre1-con-b6-v2-004",
+        "tema": "Colores en LSM",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El color VERDE 💚 en LSM se hace agitando la mano con la G extendida, como la naturaleza.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡VERDE! Usa la letra G del abecedario dactilológico. Verde como las plantas y los árboles. 💚🌿"
+      },
+      {
+        "id": "pre1-con-b6-v2-005",
+        "tema": "La naturaleza en señas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Para decir LLUVIA 🌧️ en LSM, ¿qué hacemos?  ",
+        "opciones": [
+          "Bajamos ambas manos con dedos abiertos como gotas cayendo",
+          "Cerramos puños",
+          "Gritamos",
+          "Saltamos"
+        ],
+        "respuestaCorrecta": "Bajamos ambas manos con dedos abiertos como gotas cayendo",
+        "explicacion": "¡LLUVIA! Nuestros dedos son las gotitas que caen del cielo. 🌧️💧",
+        "visual": "🌧️"
+      },
+      {
+        "id": "pre1-con-b6-v2-006",
+        "tema": "Animales básicos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para decir ELEFANTE 🐘 en LSM, hacemos con la mano una ___ larga desde la nariz.  ",
+        "respuestaCorrecta": "trompa",
+        "explicacion": "¡TROMPA! Movemos la mano desde la nariz hacia abajo imitando la trompa del elefante. 🐘"
+      },
+      {
+        "id": "pre1-con-b6-v2-007",
+        "tema": "Mi familia en señas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "ABUELA en LSM se hace tocando la mejilla y moviendo la mano hacia abajo (como las arruguitas de la sabiduría).  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! ABUELA combina MAMÁ (mejilla) con un movimiento que representa sabiduría y experiencia. 👵❤️"
+      },
+      {
+        "id": "pre1-con-b6-v2-008",
+        "tema": "Colores en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo decimos BLANCO ⚪ en LSM?  ",
+        "opciones": [
+          "Pasamos la mano abierta por el pecho",
+          "Señalamos al cielo",
+          "Cerramos los ojos",
+          "Tocamos la nariz"
+        ],
+        "respuestaCorrecta": "Pasamos la mano abierta por el pecho",
+        "explicacion": "¡BLANCO! Pasamos la mano abierta por el pecho, como mostrando limpieza/pureza. ⚪✨"
+      },
+      {
+        "id": "pre1-con-b6-v2-009",
+        "tema": "La naturaleza en señas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cómo representamos ESTRELLA ⭐ en LSM?  ",
+        "opciones": [
+          "Dedos índice apuntándose y moviéndolos alternadamente hacia arriba",
+          "Aplaudimos",
+          "Señalamos al suelo",
+          "Cerramos puños"
+        ],
+        "respuestaCorrecta": "Dedos índice apuntándose y moviéndolos alternadamente hacia arriba",
+        "explicacion": "¡ESTRELLA! Los dedos índice suben alternados al cielo, como las estrellitas que brillan. ⭐✨",
+        "visual": "⭐"
+      },
+      {
+        "id": "pre1-con-b6-v2-010",
+        "tema": "Mi familia en señas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "AMIGO en LSM: enganchamos los dedos ___ de cada mano como cadena de amistad.  ",
+        "respuestaCorrecta": "meñique",
+        "explicacion": "¡AMIGO! Enganchamos los meñiques como una promesa de amistad eterna. 🤝👫"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-con-b6-v1-001",
+        "tema": "Familia en LSM",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo decimos MAMÁ? 👩",
+        "opciones": [
+          "Tocamos la mejilla",
+          "Cerramos ojos",
+          "Aplaudimos",
+          "Saltamos"
+        ],
+        "respuestaCorrecta": "Tocamos la mejilla",
+        "explicacion": "👩❤️",
+        "imagen": "/img/lsm/familia.png",
+        "imagenAlt": "Familia LSM"
+      },
+      {
+        "id": "pre1-con-b6-v1-004",
+        "tema": "Naturaleza",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿AGUA 💧 en LSM?",
+        "opciones": [
+          "Dedos como gotas",
+          "Puño cerrado",
+          "Aplaudir",
+          "Señalar arriba"
+        ],
+        "respuestaCorrecta": "Dedos como gotas",
+        "explicacion": "💧🌧️"
+      },
+      {
+        "id": "pre1-con-b6-v1-006",
+        "tema": "Animales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿MARIPOSA 🦋 en LSM?",
+        "opciones": [
+          "Dedos como alas",
+          "Cerrar ojos",
+          "Gritar",
+          "Correr"
+        ],
+        "respuestaCorrecta": "Dedos como alas",
+        "explicacion": "🦋✨"
+      }
+    ]
+  },
+  "generado": "2026-03-11T14:05:00.000Z",
+  "version": "4.0-SEP"
 }

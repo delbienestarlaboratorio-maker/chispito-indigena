@@ -51,7 +51,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Bicycle = bicicleta. Bike es la forma corta."
       },
       {
@@ -109,7 +109,7 @@
           "Verdadero",
           "Falso"
         ],
-        "respuestaCorrecta": "Verdadero",
+        "respuestaCorrecta": "true",
         "explicacion": "Train = tren. Train station = estación de tren."
       },
       {
@@ -158,7 +158,154 @@
         "explicacion": "Ticket = boleto (para viajar o entrar a un evento)."
       }
     ],
-    "v2": [],
+    "v2": [
+      {
+        "id": "p5en-b5-01-v2",
+        "tema": "Transporte",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Car\" means: ​",
+        "opciones": [
+          "Carro/Auto",
+          "Camión",
+          "Bicicleta",
+          "Avión"
+        ],
+        "respuestaCorrecta": "Carro/Auto",
+        "explicacion": "Car = carro, auto, coche."
+      },
+      {
+        "id": "p5en-b5-02-v2",
+        "tema": "Transporte",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Airplane\" means: ​",
+        "opciones": [
+          "Avión",
+          "Barco",
+          "Tren",
+          "Autobús"
+        ],
+        "respuestaCorrecta": "Avión",
+        "explicacion": "Airplane = avión. Plane es la forma corta."
+      },
+      {
+        "id": "p5en-b5-03-v2",
+        "tema": "Transporte",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Bicycle\" means bicicleta ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Bicycle = bicicleta. Bike es la forma corta."
+      },
+      {
+        "id": "p5en-b5-04-v2",
+        "tema": "Viaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Where are you going?\" means: ​",
+        "opciones": [
+          "¿A dónde vas?",
+          "¿De dónde vienes?",
+          "¿Cómo te llamas?",
+          "¿Qué hora es?"
+        ],
+        "respuestaCorrecta": "¿A dónde vas?",
+        "explicacion": "Where = dónde. Going = yendo. Where are you going = ¿a dónde vas?"
+      },
+      {
+        "id": "p5en-b5-05-v2",
+        "tema": "Transporte",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Ship\" means: ​",
+        "opciones": [
+          "Barco",
+          "Submarino",
+          "Helicóptero",
+          "Bicicleta"
+        ],
+        "respuestaCorrecta": "Barco",
+        "explicacion": "Ship = barco grande. Boat = bote o barco pequeño."
+      },
+      {
+        "id": "p5en-b5-06-v2",
+        "tema": "Direcciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Cross the street\" means: ​",
+        "opciones": [
+          "Cruza la calle",
+          "Sube las escaleras",
+          "Baja del autobús",
+          "Gira a la derecha"
+        ],
+        "respuestaCorrecta": "Cruza la calle",
+        "explicacion": "Cross = cruzar. Street = calle."
+      },
+      {
+        "id": "p5en-b5-07-v2",
+        "tema": "Transporte",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "\"Train\" means tren ​",
+        "opciones": [
+          "Verdadero",
+          "Falso"
+        ],
+        "respuestaCorrecta": "true",
+        "explicacion": "Train = tren. Train station = estación de tren."
+      },
+      {
+        "id": "p5en-b5-08-v2",
+        "tema": "Viaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"I travel by plane\" means: ​",
+        "opciones": [
+          "Yo viajo en avión",
+          "Yo viajo en tren",
+          "Yo viajo en carro",
+          "Yo viajo caminando"
+        ],
+        "respuestaCorrecta": "Yo viajo en avión",
+        "explicacion": "By plane = en avión. By car = en carro. By bus = en autobús."
+      },
+      {
+        "id": "p5en-b5-09-v2",
+        "tema": "Transporte",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Bus\" means: ​",
+        "opciones": [
+          "Autobús/Camión",
+          "Taxi",
+          "Tren",
+          "Metro"
+        ],
+        "respuestaCorrecta": "Autobús/Camión",
+        "explicacion": "Bus = autobús. En México coloquialmente se dice camión."
+      },
+      {
+        "id": "p5en-b5-10-v2",
+        "tema": "Viaje",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "\"Ticket\" means: ​",
+        "opciones": [
+          "Boleto",
+          "Mapa",
+          "Maleta",
+          "Pasaporte"
+        ],
+        "respuestaCorrecta": "Boleto",
+        "explicacion": "Ticket = boleto (para viajar o entrar a un evento)."
+      }
+    ],
     "preview": [
       {
         "id": "p5en-b5-01",
