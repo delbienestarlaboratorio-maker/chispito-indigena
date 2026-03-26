@@ -4,10 +4,7 @@
   "bloque": 2,
   "nombre": "Derechos avanzados",
   "meses": "Septiembre-Octubre",
-  "temas": [
-    "Derechos económicos y sociales",
-    "Defensa de derechos"
-  ],
+  "temas": ["Derechos económicos y sociales", "Defensa de derechos"],
   "totalEjercicios": 28,
   "ejercicios": {
     "v1": [
@@ -16,332 +13,336 @@
         "tema": "Derechos económicos y sociales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Derechos económicos y sociales\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Derechos económicos y sociales es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "pregunta": "¿Cuál es un derecho económico reconocido en la Constitución Mexicana?",
+        "opciones": ["Elegir el color de tu casa", "El trabajo digno y socialmente útil", "Tener una mascota", "Viajar al extranjero"],
+        "respuestaCorrecta": "El trabajo digno y socialmente útil",
+        "explicacion": "El artículo 123 constitucional establece el derecho al trabajo digno, incluyendo salario mínimo, jornada laboral máxima y seguridad social."
       },
       {
         "id": "secundaria-3-formacion-b2-002",
         "tema": "Derechos económicos y sociales",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Derechos económicos y sociales es parte del currículo oficial de la SEP",
+        "pregunta": "El derecho a la educación es un derecho social reconocido en el artículo 3° de la Constitución Mexicana",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "El artículo 3° establece el derecho a la educación de calidad, laica y gratuita en niveles básico y medio superior."
       },
       {
         "id": "secundaria-3-formacion-b2-003",
         "tema": "Derechos económicos y sociales",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En Derechos económicos y sociales, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-extra-007",
-        "tema": "Derechos económicos y sociales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué son los derechos humanos?",
-        "opciones": [
-          "Privilegios para ricos",
-          "Derechos de solo los adultos",
-          "Derechos de todas las personas por igual",
-          "Reglas del gobierno"
-        ],
-        "respuestaCorrecta": "Derechos de todas las personas por igual",
-        "explicacion": "Los derechos humanos son universales: aplican a todas las personas sin importar origen, género o edad."
+        "pregunta": "¿Qué artículo constitucional protege el derecho a la salud en México?",
+        "opciones": ["Artículo 1°", "Artículo 4°", "Artículo 27°", "Artículo 123°"],
+        "respuestaCorrecta": "Artículo 4°",
+        "explicacion": "El artículo 4° constitucional establece el derecho a la protección de la salud, a un medio ambiente sano y a la vivienda."
       },
       {
-        "id": "secundaria-3-formacion-b2-extra-009",
+        "id": "secundaria-3-formacion-b2-004",
         "tema": "Derechos económicos y sociales",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En México el voto es secreto y universal",
+        "pregunta": "El IMSS y el ISSSTE protegen el derecho a la salud y seguridad social de los trabajadores mexicanos",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Todos los ciudadanos mexicanos (+18 años) pueden votar en secreto."
+        "explicacion": "El IMSS atiende trabajadores del sector privado y el ISSSTE a los del gobierno. Ambos brindan atención médica, pensiones y prestaciones."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-011",
+        "id": "secundaria-3-formacion-b2-005",
         "tema": "Derechos económicos y sociales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "¿Qué significa el salario mínimo?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "El salario máximo permitido",
+          "La cantidad mínima que un empleador debe pagar por ley",
+          "El pago del gobierno a desempleados",
+          "El sueldo de funcionarios públicos"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "La cantidad mínima que un empleador debe pagar por ley",
+        "explicacion": "El salario mínimo es fijado por la CONASAMI y representa el piso salarial legal para proteger a los trabajadores."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-012",
+        "id": "secundaria-3-formacion-b2-006",
+        "tema": "Derechos económicos y sociales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los niños y adolescentes tienen derecho al juego y la recreación según la Convención sobre los Derechos del Niño",
+        "respuestaCorrecta": "true",
+        "explicacion": "El artículo 31 de la Convención sobre los Derechos del Niño reconoce el derecho al descanso, el juego y las actividades recreativas."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-007",
+        "tema": "Derechos económicos y sociales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Los derechos sociales garantizan principalmente:",
+        "opciones": [
+          "La propiedad privada ilimitada",
+          "El bienestar colectivo: salud, educación y vivienda",
+          "El derecho al voto",
+          "La libertad de expresión"
+        ],
+        "respuestaCorrecta": "El bienestar colectivo: salud, educación y vivienda",
+        "explicacion": "Los derechos sociales buscan garantizar condiciones mínimas de bienestar, especialmente para los grupos más vulnerables."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-008",
+        "tema": "Defensa de derechos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué institución defiende los derechos humanos ante abusos de autoridades en México?",
+        "opciones": ["El Banco de México", "La CNDH", "El IMSS", "La Cámara de Diputados"],
+        "respuestaCorrecta": "La CNDH",
+        "explicacion": "La Comisión Nacional de los Derechos Humanos (CNDH) recibe quejas, investiga violaciones y emite recomendaciones a las autoridades."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-009",
         "tema": "Defensa de derechos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "pregunta": "El juicio de amparo protege a los ciudadanos contra actos arbitrarios de las autoridades",
         "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+        "explicacion": "El amparo es una institución jurídica mexicana que permite a cualquier persona defenderse contra actos de gobierno que violen sus derechos constitucionales."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-013",
-        "tema": "Derechos económicos y sociales",
+        "id": "secundaria-3-formacion-b2-010",
+        "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "Si en tu escuela se vulnera tu derecho a una educación sin violencia, ¿qué debes hacer?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "No hacer nada",
+          "Denunciar ante la dirección, autoridades educativas o la CNDH",
+          "Abandonar la escuela",
+          "Responder con violencia"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "Denunciar ante la dirección, autoridades educativas o la CNDH",
+        "explicacion": "Existen mecanismos institucionales: la dirección, la SEP estatal y la CNDH para denunciar violaciones a tus derechos en la escuela."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-014",
+        "id": "secundaria-3-formacion-b2-011",
         "tema": "Defensa de derechos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "pregunta": "Los ciudadanos pueden organizarse en asociaciones civiles para defender sus derechos",
         "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+        "explicacion": "El artículo 9° constitucional protege el derecho de asociación. Los ciudadanos pueden formar ONGs y colectivos para defender causas sociales."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-015",
-        "tema": "Derechos económicos y sociales",
+        "id": "secundaria-3-formacion-b2-012",
+        "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "¿Qué significa la 'exigibilidad' de los derechos?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "Que los derechos son solo para algunas personas",
+          "Que los ciudadanos pueden reclamar su cumplimiento ante las autoridades",
+          "Que los derechos se obtienen pagando impuestos",
+          "Que los derechos no pueden reclamarse"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "Que los ciudadanos pueden reclamar su cumplimiento ante las autoridades",
+        "explicacion": "La exigibilidad implica que los derechos no son solo declaraciones: existen mecanismos jurídicos y sociales para hacerlos cumplir."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-016",
+        "id": "secundaria-3-formacion-b2-013",
         "tema": "Defensa de derechos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "pregunta": "Los adolescentes pueden denunciar violaciones a sus derechos aunque sean menores de edad",
         "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+        "explicacion": "Los adolescentes tienen plenos derechos humanos y pueden denunciar, con apoyo de padres o tutores, o directamente ante organismos especializados."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-017",
-        "tema": "Derechos económicos y sociales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-x-018",
+        "id": "secundaria-3-formacion-b2-014",
         "tema": "Defensa de derechos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
-        "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-x-019",
-        "tema": "Derechos económicos y sociales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "¿Qué es una queja ante la CNDH?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "Un reclamo sobre comida",
+          "Una demanda penal para encarcelar a alguien",
+          "Una denuncia por violación de derechos humanos por parte de una autoridad",
+          "Un contrato de trabajo"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "Una denuncia por violación de derechos humanos por parte de una autoridad",
+        "explicacion": "La queja ante la CNDH es el mecanismo para denunciar cuando una autoridad del Estado viola derechos fundamentales."
       }
     ],
     "v2": [
       {
-        "id": "secundaria-3-formacion-b2-004",
+        "id": "secundaria-3-formacion-b2-v2-001",
+        "tema": "Derechos económicos y sociales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Los derechos DESC se distinguen de los derechos civiles y políticos porque:",
+        "opciones": [
+          "Los DESC solo aplican a los ricos",
+          "Los DESC requieren mayor inversión del Estado para su cumplimiento",
+          "Los derechos civiles son más importantes",
+          "Los DESC no están en la Constitución"
+        ],
+        "respuestaCorrecta": "Los DESC requieren mayor inversión del Estado para su cumplimiento",
+        "explicacion": "Los Derechos Económicos, Sociales y Culturales implican obligaciones de hacer por parte del Estado, lo que requiere presupuesto y políticas públicas activas."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-v2-002",
+        "tema": "Derechos económicos y sociales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "México ratificó el Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC)",
+        "respuestaCorrecta": "true",
+        "explicacion": "México ratificó el PIDESC en 1981, comprometiéndose a garantizar progresivamente derechos como salud, trabajo y educación."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-v2-003",
+        "tema": "Derechos económicos y sociales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué significa el principio de 'progresividad' en los derechos sociales?",
+        "opciones": [
+          "Que los derechos pueden reducirse cada año",
+          "Que el Estado debe mejorar continuamente el nivel de cumplimiento de los derechos",
+          "Que los derechos solo aplican a personas progresistas",
+          "Que los derechos son más importantes que las leyes"
+        ],
+        "respuestaCorrecta": "Que el Estado debe mejorar continuamente el nivel de cumplimiento de los derechos",
+        "explicacion": "La progresividad obliga al Estado a avanzar en el cumplimiento de los derechos sociales y prohíbe el retroceso en el nivel ya alcanzado."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-v2-004",
+        "tema": "Derechos económicos y sociales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El trabajo infantil viola derechos reconocidos internacionalmente",
+        "respuestaCorrecta": "true",
+        "explicacion": "La Convención sobre los Derechos del Niño y convenios de la OIT prohíben el trabajo infantil que afecta la educación, salud y desarrollo de los menores."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-v2-005",
+        "tema": "Derechos económicos y sociales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la desigualdad social?",
+        "opciones": [
+          "La diferencia de estatura entre personas",
+          "La distribución inequitativa de recursos, oportunidades y poder en la sociedad",
+          "La diferencia entre hombres y mujeres en el deporte",
+          "Tener gustos diferentes a los demás"
+        ],
+        "respuestaCorrecta": "La distribución inequitativa de recursos, oportunidades y poder en la sociedad",
+        "explicacion": "La desigualdad social es uno de los principales obstáculos para el ejercicio pleno de los derechos económicos y sociales."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-v2-006",
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Defensa de derechos\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Defensa de derechos es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "pregunta": "¿Qué mecanismo internacional protege los derechos humanos en América cuando México los viola?",
+        "opciones": ["El Banco Mundial", "La Corte Interamericana de Derechos Humanos", "La ONU directamente", "El FMI"],
+        "respuestaCorrecta": "La Corte Interamericana de Derechos Humanos",
+        "explicacion": "La Corte IDH, con sede en Costa Rica, puede condenar a los Estados de la OEA —incluyendo México— cuando violan la Convención Americana."
       },
       {
-        "id": "secundaria-3-formacion-b2-005",
+        "id": "secundaria-3-formacion-b2-v2-007",
         "tema": "Defensa de derechos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Defensa de derechos es parte del currículo oficial de la SEP",
+        "pregunta": "Desde 2011, los tratados internacionales de derechos humanos tienen la misma jerarquía que la Constitución en México",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "La reforma constitucional de 2011 igualó la jerarquía de los tratados internacionales de derechos humanos con la Constitución, aplicando el principio pro persona."
       },
       {
-        "id": "secundaria-3-formacion-b2-006",
-        "tema": "Defensa de derechos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En Defensa de derechos, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-extra-008",
-        "tema": "Defensa de derechos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La democracia es el gobierno del ___, para el pueblo",
-        "respuestaCorrecta": "pueblo",
-        "explicacion": "Democracia viene del griego \"demos\" (pueblo) y \"kratos\" (poder). El pueblo gobierna."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-extra-010",
+        "id": "secundaria-3-formacion-b2-v2-008",
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es una forma de participación ciudadana?",
+        "pregunta": "¿Qué significa el principio 'pro persona' en derechos humanos?",
         "opciones": [
-          "No votar",
-          "Ignorar las leyes",
-          "Votar y participar en comunidad",
-          "Solo obedecer sin opinar"
+          "Siempre favorecer al acusado en juicio penal",
+          "Aplicar siempre la norma más favorable a la persona, sin importar su jerarquía",
+          "Dar prioridad a las leyes estatales sobre las federales",
+          "Proteger solo a las personas adultas"
         ],
-        "respuestaCorrecta": "Votar y participar en comunidad",
-        "explicacion": "Ser ciudadano activo significa votar, participar en organizaciones y defender derechos."
+        "respuestaCorrecta": "Aplicar siempre la norma más favorable a la persona, sin importar su jerarquía",
+        "explicacion": "El principio pro persona obliga a elegir, entre varias normas aplicables, la que otorgue mayor protección o beneficio a la persona."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-011",
-        "tema": "Derechos económicos y sociales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-x-012",
+        "id": "secundaria-3-formacion-b2-v2-009",
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Qué es la discriminación positiva o acción afirmativa?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "Favorecer a grupos históricamente privilegiados",
+          "Medidas para grupos históricamente discriminados para equilibrar oportunidades",
+          "Prohibir el acceso a escuelas privadas",
+          "Un tipo de castigo escolar"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+        "respuestaCorrecta": "Medidas para grupos históricamente discriminados para equilibrar oportunidades",
+        "explicacion": "Las acciones afirmativas —como cuotas de género o apoyos para grupos indígenas— buscan compensar desigualdades históricas y garantizar igualdad real."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-013",
-        "tema": "Derechos económicos y sociales",
-        "tipo": "fill_blank",
+        "id": "secundaria-3-formacion-b2-v2-010",
+        "tema": "Defensa de derechos",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+        "pregunta": "La acción colectiva ciudadana puede ser un mecanismo efectivo para defender derechos cuando las instituciones fallan",
+        "respuestaCorrecta": "true",
+        "explicacion": "Movimientos sociales y organizaciones ciudadanas han logrado cambios legislativos y políticas públicas a favor de los derechos humanos."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-014",
+        "id": "secundaria-3-formacion-b2-v2-011",
+        "tema": "Defensa de derechos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La libertad de expresión tiene límites cuando incita al odio, la discriminación o la violencia",
+        "respuestaCorrecta": "true",
+        "explicacion": "La libertad de expresión no es absoluta. El discurso de odio que promueve discriminación o violencia puede ser regulado legalmente."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-v2-012",
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Qué son los derechos de tercera generación?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "Los derechos de los abuelos",
+          "Derechos colectivos como la paz, el desarrollo sostenible y el medio ambiente",
+          "Los que se adquieren a los 30 años",
+          "Derechos económicos individuales"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+        "respuestaCorrecta": "Derechos colectivos como la paz, el desarrollo sostenible y el medio ambiente",
+        "explicacion": "Los derechos de tercera generación son colectivos: paz mundial, medio ambiente sano, desarrollo sostenible y autodeterminación de los pueblos."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-015",
-        "tema": "Derechos económicos y sociales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-x-016",
+        "id": "secundaria-3-formacion-b2-v2-013",
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "El movimiento #MeToo es un ejemplo de defensa de derechos mediante:",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "Una reforma constitucional",
+          "La acción colectiva en redes sociales para visibilizar violencia de género",
+          "Un proceso judicial internacional",
+          "Una ley aprobada por el Congreso"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+        "respuestaCorrecta": "La acción colectiva en redes sociales para visibilizar violencia de género",
+        "explicacion": "#MeToo usó plataformas digitales para denunciar el acoso sexual, generando presión social y cambios legales en varios países."
       },
       {
-        "id": "secundaria-3-formacion-b2-x-017",
-        "tema": "Derechos económicos y sociales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-x-018",
+        "id": "secundaria-3-formacion-b2-v2-014",
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Cuál es la función del Ombudsman (Defensor del Pueblo) en América Latina?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "Recaudar impuestos",
+          "Proteger los derechos de los ciudadanos ante abusos del Estado",
+          "Dirigir el ejército",
+          "Administrar hospitales"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-x-019",
-        "tema": "Derechos económicos y sociales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+        "respuestaCorrecta": "Proteger los derechos de los ciudadanos ante abusos del Estado",
+        "explicacion": "El Ombudsman —llamado CNDH en México— es un organismo autónomo que vigila y defiende los derechos frente al poder público."
       }
     ],
     "preview": [
@@ -350,42 +351,38 @@
         "tema": "Derechos económicos y sociales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Derechos económicos y sociales\"?",
-        "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
-        ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Derechos económicos y sociales es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "pregunta": "¿Cuál es un derecho económico reconocido en la Constitución Mexicana?",
+        "opciones": ["Elegir el color de tu casa", "El trabajo digno y socialmente útil", "Tener una mascota", "Viajar al extranjero"],
+        "respuestaCorrecta": "El trabajo digno y socialmente útil",
+        "explicacion": "El artículo 123 constitucional establece el derecho al trabajo digno, incluyendo salario mínimo y seguridad social."
       },
       {
-        "id": "secundaria-3-formacion-b2-002",
-        "tema": "Derechos económicos y sociales",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Derechos económicos y sociales es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
-      },
-      {
-        "id": "secundaria-3-formacion-b2-004",
+        "id": "secundaria-3-formacion-b2-008",
         "tema": "Defensa de derechos",
         "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué institución defiende los derechos humanos ante abusos de autoridades en México?",
+        "opciones": ["El Banco de México", "La CNDH", "El IMSS", "La Cámara de Diputados"],
+        "respuestaCorrecta": "La CNDH",
+        "explicacion": "La CNDH recibe quejas, investiga violaciones a derechos humanos y emite recomendaciones a las autoridades."
+      },
+      {
+        "id": "secundaria-3-formacion-b2-v2-001",
+        "tema": "Derechos económicos y sociales",
+        "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Defensa de derechos\"?",
+        "pregunta": "Los derechos DESC se distinguen de los derechos civiles y políticos porque:",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Los DESC solo aplican a los ricos",
+          "Los DESC requieren mayor inversión del Estado para su cumplimiento",
+          "Los derechos civiles son más importantes",
+          "Los DESC no están en la Constitución"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Defensa de derechos es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Los DESC requieren mayor inversión del Estado para su cumplimiento",
+        "explicacion": "Los DESC implican obligaciones de hacer por parte del Estado, lo que requiere presupuesto y políticas activas."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:24.097Z",
+  "generado": "2026-03-25T20:29:00.000Z",
   "version": "2.0"
 }

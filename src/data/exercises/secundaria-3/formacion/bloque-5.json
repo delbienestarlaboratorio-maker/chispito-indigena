@@ -4,10 +4,7 @@
   "bloque": 5,
   "nombre": "Ciudadanía global",
   "meses": "Enero-Junio",
-  "temas": [
-    "ONG y organizaciones",
-    "Ser ciudadano del mundo"
-  ],
+  "temas": ["ONG y organizaciones", "Ser ciudadano del mundo"],
   "totalEjercicios": 28,
   "ejercicios": {
     "v1": [
@@ -16,332 +13,356 @@
         "tema": "ONG y organizaciones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"ONG y organizaciones\"?",
+        "pregunta": "¿Qué es una ONG?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Una empresa multinacional con fines de lucro",
+          "Una organización sin fines de lucro que trabaja por causas sociales, humanitarias o ambientales",
+          "Una agencia del gobierno federal",
+          "Un partido político"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "ONG y organizaciones es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Una organización sin fines de lucro que trabaja por causas sociales, humanitarias o ambientales",
+        "explicacion": "Las Organizaciones No Gubernamentales (ONG) son independientes del Estado y del sector privado; se financian con donaciones y trabajan por el bien común."
       },
       {
         "id": "secundaria-3-formacion-b5-002",
         "tema": "ONG y organizaciones",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "ONG y organizaciones es parte del currículo oficial de la SEP",
+        "pregunta": "Cruz Roja es una de las ONG humanitarias más reconocidas a nivel mundial",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "El Comité Internacional de la Cruz Roja opera en más de 80 países proporcionando asistencia humanitaria en zonas de conflicto y desastres."
       },
       {
         "id": "secundaria-3-formacion-b5-003",
         "tema": "ONG y organizaciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En ONG y organizaciones, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-extra-007",
-        "tema": "ONG y organizaciones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué son los derechos humanos?",
+        "pregunta": "¿Cuál es el objetivo principal de una ONG ambiental como Greenpeace?",
         "opciones": [
-          "Privilegios para ricos",
-          "Derechos de solo los adultos",
-          "Derechos de todas las personas por igual",
-          "Reglas del gobierno"
+          "Vender productos ecológicos",
+          "Defender y proteger el medio ambiente mediante campañas y presión política",
+          "Construir parques nacionales",
+          "Estudiar el cambio climático para publicar libros"
         ],
-        "respuestaCorrecta": "Derechos de todas las personas por igual",
-        "explicacion": "Los derechos humanos son universales: aplican a todas las personas sin importar origen, género o edad."
+        "respuestaCorrecta": "Defender y proteger el medio ambiente mediante campañas y presión política",
+        "explicacion": "Greenpeace es una ONG que utiliza acciones directas, campañas y presión a gobiernos y empresas para detener la destrucción ambiental."
       },
       {
-        "id": "secundaria-3-formacion-b5-extra-009",
+        "id": "secundaria-3-formacion-b5-004",
         "tema": "ONG y organizaciones",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En México el voto es secreto y universal",
+        "pregunta": "Las ONG pueden recibir financiamiento de donaciones de particulares, empresas y organismos internacionales",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Todos los ciudadanos mexicanos (+18 años) pueden votar en secreto."
+        "explicacion": "Las ONG se sostienen principalmente de donaciones voluntarias, cuotas de socios, fondos de fundaciones privadas y en algunos casos subsidios gubernamentales."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-011",
+        "id": "secundaria-3-formacion-b5-005",
         "tema": "ONG y organizaciones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "¿Cómo puede un joven participar en una ONG?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "Solo cuando tenga más de 18 años y trabajo fijo",
+          "Como voluntario en campañas, eventos o programas que organiza la ONG",
+          "Únicamente donando dinero",
+          "No pueden participar porque son menores de edad"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "Como voluntario en campañas, eventos o programas que organiza la ONG",
+        "explicacion": "El voluntariado juvenil en ONG es una forma activa de ciudadanía: permite contribuir a causas sociales mientras se desarrollan habilidades y valores cívicos."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-012",
+        "id": "secundaria-3-formacion-b5-006",
+        "tema": "ONG y organizaciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "UNICEF es un organismo de la ONU dedicado a proteger los derechos de los niños en todo el mundo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El Fondo de las Naciones Unidas para la Infancia (UNICEF) trabaja en más de 190 países para garantizar los derechos de los niños a la salud, educación y protección."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-007",
+        "tema": "ONG y organizaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué diferencia a las organizaciones de la sociedad civil (OSC) del gobierno?",
+        "opciones": [
+          "Las OSC tienen más dinero",
+          "Las OSC son independientes del Estado y actúan sin fines de lucro por interés social",
+          "Las OSC son creadas por el presidente",
+          "Las OSC solo trabajan en asuntos económicos"
+        ],
+        "respuestaCorrecta": "Las OSC son independientes del Estado y actúan sin fines de lucro por interés social",
+        "explicacion": "Las Organizaciones de la Sociedad Civil (OSC) son parte de un tercer sector —ni gobierno ni empresa— que trabaja por el bien común de manera autónoma."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-008",
+        "tema": "Ser ciudadano del mundo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué significa ser 'ciudadano global'?",
+        "opciones": [
+          "Tener pasaportes de varios países",
+          "Reconocerse como parte de una comunidad mundial y actuar con responsabilidad ante problemas globales",
+          "Viajar por todo el mundo",
+          "Hablar varios idiomas"
+        ],
+        "respuestaCorrecta": "Reconocerse como parte de una comunidad mundial y actuar con responsabilidad ante problemas globales",
+        "explicacion": "El ciudadano global reconoce que sus acciones locales tienen impacto global y asume responsabilidad ante desafíos como el cambio climático, la pobreza y los derechos humanos."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-009",
         "tema": "Ser ciudadano del mundo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "pregunta": "Los Objetivos de Desarrollo Sostenible (ODS) de la ONU son una hoja de ruta global hacia un mundo más justo y sostenible para 2030",
         "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+        "explicacion": "Los 17 ODS aprobados en 2015 abarcan temas como fin de la pobreza, educación de calidad, igualdad de género y acción climática, entre otros."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-013",
-        "tema": "ONG y organizaciones",
+        "id": "secundaria-3-formacion-b5-010",
+        "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "¿Qué es la globalización?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "El proceso de que todos los países hablen el mismo idioma",
+          "La creciente interconexión económica, cultural y política entre países del mundo",
+          "La expansión de empresas mexicanas a otros países",
+          "Un tipo de gobierno mundial"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "La creciente interconexión económica, cultural y política entre países del mundo",
+        "explicacion": "La globalización ha acelerado el flujo de bienes, información, personas e ideas entre países, generando oportunidades y desafíos en todo el mundo."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-014",
+        "id": "secundaria-3-formacion-b5-011",
         "tema": "Ser ciudadano del mundo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "pregunta": "El cambio climático es un problema global que requiere la cooperación de todos los países",
         "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+        "explicacion": "El cambio climático no respeta fronteras. Acuerdos como el Acuerdo de París (2015) buscan la cooperación internacional para reducir emisiones y limitar el calentamiento global."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-015",
-        "tema": "ONG y organizaciones",
+        "id": "secundaria-3-formacion-b5-012",
+        "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "¿Cuál de las siguientes acciones refleja la ciudadanía global en la vida cotidiana?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "Consumir sin pensar en el impacto ambiental",
+          "Informarse sobre problemas mundiales y adoptar hábitos sostenibles",
+          "Ignorar las noticias internacionales",
+          "Solo interesarse en los problemas del propio barrio"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "Informarse sobre problemas mundiales y adoptar hábitos sostenibles",
+        "explicacion": "Ser ciudadano global implica acciones concretas: reciclar, reducir el consumo de plástico, informarse, participar en campañas sociales y apoyar causas globales."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-016",
+        "id": "secundaria-3-formacion-b5-013",
+        "tema": "Ser ciudadano del mundo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es la interculturalidad?",
+        "opciones": [
+          "La dominación de una cultura sobre otras",
+          "El diálogo, intercambio y convivencia respetuosa entre diferentes culturas",
+          "La mezcla de idiomas en un solo país",
+          "La eliminación de las diferencias culturales"
+        ],
+        "respuestaCorrecta": "El diálogo, intercambio y convivencia respetuosa entre diferentes culturas",
+        "explicacion": "La interculturalidad va más allá de la tolerancia: promueve el enriquecimiento mutuo a través del diálogo y el reconocimiento de las diferencias culturales."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-014",
         "tema": "Ser ciudadano del mundo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "pregunta": "La migración es un fenómeno global que forma parte de la historia de la humanidad",
         "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-x-017",
-        "tema": "ONG y organizaciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-x-018",
-        "tema": "Ser ciudadano del mundo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
-        "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-x-019",
-        "tema": "ONG y organizaciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "explicacion": "Las personas han migrado durante toda la historia humana en busca de mejores condiciones. La migración enriquece culturalmente las sociedades de destino."
       }
     ],
     "v2": [
       {
-        "id": "secundaria-3-formacion-b5-004",
+        "id": "secundaria-3-formacion-b5-v2-001",
+        "tema": "ONG y organizaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la diferencia entre una ONG y una fundación?",
+        "opciones": [
+          "Las fundaciones son más grandes",
+          "Una fundación generalmente tiene un patrimonio propio; una ONG depende principalmente de donaciones externas",
+          "Las ONG son gubernamentales; las fundaciones no",
+          "No existe diferencia legal entre ambas"
+        ],
+        "respuestaCorrecta": "Una fundación generalmente tiene un patrimonio propio; una ONG depende principalmente de donaciones externas",
+        "explicacion": "Una fundación nace con un capital o patrimonio fundacional (ej. Fundación Gates). Las ONG se sostienen más de donaciones, cuotas y proyectos financiados externamente."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-v2-002",
+        "tema": "ONG y organizaciones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Amnistía Internacional es una ONG que defiende los derechos humanos en todo el mundo",
+        "respuestaCorrecta": "true",
+        "explicacion": "Amnistía Internacional es una ONG independiente que documenta y denuncia violaciones de derechos humanos en todo el mundo, abogando por los presos de conciencia."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-v2-003",
+        "tema": "ONG y organizaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué rol tienen las ONG en el sistema de gobierno democrático?",
+        "opciones": [
+          "Sustituir al gobierno en sus funciones",
+          "Actuar como grupos de presión, vigilancia ciudadana y complemento de las políticas públicas",
+          "Cobrar impuestos a empresas",
+          "Designar funcionarios públicos"
+        ],
+        "respuestaCorrecta": "Actuar como grupos de presión, vigilancia ciudadana y complemento de las políticas públicas",
+        "explicacion": "Las ONG fortalecen la democracia al vigilar el poder, exigir rendición de cuentas, difundir información y complementar servicios donde el Estado no llega."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-v2-004",
+        "tema": "ONG y organizaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la diplomacia ciudadana?",
+        "opciones": [
+          "El trabajo de los embajadores en países extranjeros",
+          "Las acciones de ciudadanos y ONG para influir en relaciones internacionales y políticas globales",
+          "Un tipo de visa para viajeros",
+          "Una materia de relaciones exteriores"
+        ],
+        "respuestaCorrecta": "Las acciones de ciudadanos y ONG para influir en relaciones internacionales y políticas globales",
+        "explicacion": "La diplomacia ciudadana es la participación de actores no gubernamentales —ONG, redes sociales, movimientos— en la construcción de agendas globales."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-v2-005",
+        "tema": "ONG y organizaciones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Médicos Sin Fronteras es una ONG que opera en zonas de conflicto y desastres para brindar atención médica",
+        "respuestaCorrecta": "true",
+        "explicacion": "MSF opera en más de 70 países proporcionando atención médica de emergencia a quienes más la necesitan, independientemente de su raza, religión o política."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-v2-006",
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Ser ciudadano del mundo\"?",
+        "pregunta": "¿Qué es el Acuerdo de París (2015)?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Un tratado comercial entre Europa y México",
+          "Un acuerdo internacional para limitar el calentamiento global reduciendo emisiones de gases de efecto invernadero",
+          "Una alianza militar entre países europeos",
+          "Un convenio sobre migración"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Ser ciudadano del mundo es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Un acuerdo internacional para limitar el calentamiento global reduciendo emisiones de gases de efecto invernadero",
+        "explicacion": "El Acuerdo de París fue adoptado por 196 países para mantener el aumento de temperatura global por debajo de 2°C y ampliar la capacidad para adaptarse al cambio climático."
       },
       {
-        "id": "secundaria-3-formacion-b5-005",
+        "id": "secundaria-3-formacion-b5-v2-007",
         "tema": "Ser ciudadano del mundo",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Ser ciudadano del mundo es parte del currículo oficial de la SEP",
+        "pregunta": "La soberanía nacional y la cooperación internacional no son necesariamente incompatibles",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "Los países pueden cooperar en problemas transnacionales (crimen organizado, pandemias, cambio climático) mientras mantienen su autonomía en decisiones internas."
       },
       {
-        "id": "secundaria-3-formacion-b5-006",
-        "tema": "Ser ciudadano del mundo",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En Ser ciudadano del mundo, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-extra-008",
-        "tema": "Ser ciudadano del mundo",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La democracia es el gobierno del ___, para el pueblo",
-        "respuestaCorrecta": "pueblo",
-        "explicacion": "Democracia viene del griego \"demos\" (pueblo) y \"kratos\" (poder). El pueblo gobierna."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-extra-010",
+        "id": "secundaria-3-formacion-b5-v2-008",
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es una forma de participación ciudadana?",
+        "pregunta": "¿Qué son los refugiados?",
         "opciones": [
-          "No votar",
-          "Ignorar las leyes",
-          "Votar y participar en comunidad",
-          "Solo obedecer sin opinar"
+          "Personas que viajan por placer",
+          "Personas que huyen de su país por persecución, guerra o violencia grave y no pueden regresar",
+          "Turistas en busca de empleo",
+          "Inmigrantes con trabajo garantizado"
         ],
-        "respuestaCorrecta": "Votar y participar en comunidad",
-        "explicacion": "Ser ciudadano activo significa votar, participar en organizaciones y defender derechos."
+        "respuestaCorrecta": "Personas que huyen de su país por persecución, guerra o violencia grave y no pueden regresar",
+        "explicacion": "Según la Convención de Ginebra (1951), el refugiado tiene protección internacional. En 2023 había más de 100 millones de personas desplazadas en el mundo."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-011",
-        "tema": "ONG y organizaciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-x-012",
+        "id": "secundaria-3-formacion-b5-v2-009",
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Qué es el desarrollo sostenible?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "El crecimiento económico sin ningún límite",
+          "El desarrollo que satisface las necesidades presentes sin comprometer la capacidad de las generaciones futuras",
+          "La conservación de la naturaleza sin desarrollo económico",
+          "El desarrollo exclusivamente tecnológico"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+        "respuestaCorrecta": "El desarrollo que satisface las necesidades presentes sin comprometer la capacidad de las generaciones futuras",
+        "explicacion": "El concepto de sustentabilidad, definido por el informe Brundtland (1987), equilibra el crecimiento económico, la equidad social y la conservación ambiental."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-013",
-        "tema": "ONG y organizaciones",
-        "tipo": "fill_blank",
+        "id": "secundaria-3-formacion-b5-v2-010",
+        "tema": "Ser ciudadano del mundo",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+        "pregunta": "La brecha digital es una forma de desigualdad global entre quienes tienen acceso a internet y quienes no",
+        "respuestaCorrecta": "true",
+        "explicacion": "La brecha digital profundiza desigualdades: el acceso a tecnología e internet es un recurso clave para la educación, el trabajo y la participación cívica en el siglo XXI."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-014",
+        "id": "secundaria-3-formacion-b5-v2-011",
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Qué es el 'activismo digital'?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "Pasar horas en redes sociales sin propósito",
+          "Usar herramientas digitales para promover causas sociales, políticas o ambientales",
+          "Hackear sitios de gobierno",
+          "Crear videojuegos con temáticas políticas"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+        "respuestaCorrecta": "Usar herramientas digitales para promover causas sociales, políticas o ambientales",
+        "explicacion": "El activismo digital usa redes sociales, peticiones en línea y campañas digitales para visibilizar problemas y generar presión política o social."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-015",
-        "tema": "ONG y organizaciones",
-        "tipo": "fill_blank",
+        "id": "secundaria-3-formacion-b5-v2-012",
+        "tema": "Ser ciudadano del mundo",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+        "pregunta": "El consumo responsable implica considerar el impacto ambiental, social y ético de los productos que compramos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El consumo responsable evalúa el origen de los productos, las condiciones laborales de quienes los fabrican y su impacto ambiental antes de comprarlos."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-016",
+        "id": "secundaria-3-formacion-b5-v2-013",
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Qué es el etnocentrismo?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "El respeto por todas las culturas",
+          "La tendencia a considerar la propia cultura como superior y juzgar otras culturas desde ese parámetro",
+          "El estudio científico de las etnias",
+          "La mezcla de costumbres de distintas culturas"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+        "respuestaCorrecta": "La tendencia a considerar la propia cultura como superior y juzgar otras culturas desde ese parámetro",
+        "explicacion": "El etnocentrismo es un obstáculo para la ciudadanía global. La ciudadanía intercultural requiere relativismo cultural: entender las prácticas desde su propio contexto."
       },
       {
-        "id": "secundaria-3-formacion-b5-x-017",
+        "id": "secundaria-3-formacion-b5-v2-014",
         "tema": "ONG y organizaciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-x-018",
-        "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Qué es la rendición de cuentas o accountability en el contexto de las ONG?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "Presentar informes fiscales al gobierno",
+          "La obligación de las ONG de informar transparentemente a sus donantes y a la sociedad sobre el uso de sus recursos",
+          "Publicar sus actividades en redes sociales",
+          "Registrarse ante el SAT"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-x-019",
-        "tema": "ONG y organizaciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+        "respuestaCorrecta": "La obligación de las ONG de informar transparentemente a sus donantes y a la sociedad sobre el uso de sus recursos",
+        "explicacion": "La transparencia y rendición de cuentas son fundamentales para la credibilidad de las ONG y garantizan que los recursos se usen en los fines declarados."
       }
     ],
     "preview": [
@@ -350,42 +371,48 @@
         "tema": "ONG y organizaciones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"ONG y organizaciones\"?",
+        "pregunta": "¿Qué es una ONG?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Una empresa multinacional con fines de lucro",
+          "Una organización sin fines de lucro que trabaja por causas sociales o ambientales",
+          "Una agencia del gobierno federal",
+          "Un partido político"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "ONG y organizaciones es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Una organización sin fines de lucro que trabaja por causas sociales o ambientales",
+        "explicacion": "Las ONG son independientes del Estado y del sector privado; trabajan por el bien común financiadas con donaciones."
       },
       {
-        "id": "secundaria-3-formacion-b5-002",
-        "tema": "ONG y organizaciones",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "ONG y organizaciones es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
-      },
-      {
-        "id": "secundaria-3-formacion-b5-004",
+        "id": "secundaria-3-formacion-b5-008",
         "tema": "Ser ciudadano del mundo",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Ser ciudadano del mundo\"?",
+        "nivel": "v1",
+        "pregunta": "¿Qué significa ser 'ciudadano global'?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Tener pasaportes de varios países",
+          "Reconocerse parte de una comunidad mundial y actuar con responsabilidad ante problemas globales",
+          "Viajar por todo el mundo",
+          "Hablar varios idiomas"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Ser ciudadano del mundo es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Reconocerse parte de una comunidad mundial y actuar con responsabilidad ante problemas globales",
+        "explicacion": "El ciudadano global reconoce que sus acciones locales tienen impacto global y asume responsabilidad ante desafíos como el cambio climático y los derechos humanos."
+      },
+      {
+        "id": "secundaria-3-formacion-b5-v2-001",
+        "tema": "ONG y organizaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la diferencia entre una ONG y una fundación?",
+        "opciones": [
+          "Las fundaciones son más grandes",
+          "Una fundación tiene patrimonio propio; una ONG depende principalmente de donaciones externas",
+          "Las ONG son gubernamentales; las fundaciones no",
+          "No existe diferencia legal entre ambas"
+        ],
+        "respuestaCorrecta": "Una fundación tiene patrimonio propio; una ONG depende principalmente de donaciones externas",
+        "explicacion": "Una fundación nace con un capital propio. Las ONG se sostienen principalmente de donaciones, cuotas y proyectos financiados externamente."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:24.099Z",
+  "generado": "2026-03-25T20:29:00.000Z",
   "version": "2.0"
 }

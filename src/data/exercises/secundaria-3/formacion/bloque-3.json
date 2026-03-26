@@ -4,10 +4,7 @@
   "bloque": 3,
   "nombre": "Economía personal",
   "meses": "Octubre-Noviembre",
-  "temas": [
-    "Finanzas básicas",
-    "Emprendimiento juvenil"
-  ],
+  "temas": ["Finanzas básicas", "Emprendimiento juvenil"],
   "totalEjercicios": 28,
   "ejercicios": {
     "v1": [
@@ -16,332 +13,351 @@
         "tema": "Finanzas básicas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Finanzas básicas\"?",
+        "pregunta": "¿Qué es un presupuesto personal?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Una lista de deseos",
+          "Un plan que organiza cuánto dinero recibes y cuánto gastas",
+          "Un préstamo bancario",
+          "Un tipo de ahorros del gobierno"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Finanzas básicas es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Un plan que organiza cuánto dinero recibes y cuánto gastas",
+        "explicacion": "Un presupuesto personal es una herramienta financiera que ayuda a planificar los ingresos y gastos para tomar mejores decisiones económicas."
       },
       {
         "id": "secundaria-3-formacion-b3-002",
         "tema": "Finanzas básicas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Finanzas básicas es parte del currículo oficial de la SEP",
+        "pregunta": "Ahorrar dinero regularmente ayuda a enfrentar gastos inesperados en el futuro",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "El ahorro es la base de la salud financiera. Tener un colchón financiero permite enfrentar imprevistos sin endeudarse."
       },
       {
         "id": "secundaria-3-formacion-b3-003",
         "tema": "Finanzas básicas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "En Finanzas básicas, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-extra-007",
-        "tema": "Finanzas básicas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué son los derechos humanos?",
+        "pregunta": "¿Cuál es la diferencia entre un gasto necesario y un gasto hormiga?",
         "opciones": [
-          "Privilegios para ricos",
-          "Derechos de solo los adultos",
-          "Derechos de todas las personas por igual",
-          "Reglas del gobierno"
+          "Los necesarios son más caros que los hormigas",
+          "Los necesarios son indispensables; los hormigas son pequeños e innecesarios que acumulados restan mucho dinero",
+          "Los hormigas son los gastos de vivienda",
+          "No existe diferencia"
         ],
-        "respuestaCorrecta": "Derechos de todas las personas por igual",
-        "explicacion": "Los derechos humanos son universales: aplican a todas las personas sin importar origen, género o edad."
+        "respuestaCorrecta": "Los necesarios son indispensables; los hormigas son pequeños e innecesarios que acumulados restan mucho dinero",
+        "explicacion": "Los gastos hormiga son pequeños desembolsos cotidianos (café, dulces, apps) que individualmente parecen insignificantes pero juntos representan gran parte del dinero que se pierde."
       },
       {
-        "id": "secundaria-3-formacion-b3-extra-009",
+        "id": "secundaria-3-formacion-b3-004",
         "tema": "Finanzas básicas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "En México el voto es secreto y universal",
+        "pregunta": "El interés es el costo que se paga por pedir dinero prestado",
         "respuestaCorrecta": "true",
-        "explicacion": "Correcto. Todos los ciudadanos mexicanos (+18 años) pueden votar en secreto."
+        "explicacion": "El interés es el precio del dinero en préstamo. Al pedir un crédito se devuelve el capital más los intereses generados."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-011",
+        "id": "secundaria-3-formacion-b3-005",
         "tema": "Finanzas básicas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "¿Qué es la inflación?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "El aumento del ahorro de las personas",
+          "El alza generalizada de los precios que reduce el poder adquisitivo del dinero",
+          "Una forma de inversión bancaria",
+          "El descuento en productos de primera necesidad"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "El alza generalizada de los precios que reduce el poder adquisitivo del dinero",
+        "explicacion": "La inflación es el incremento sostenido en los precios. Cuando sube, con el mismo dinero puedes comprar menos productos o servicios."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-012",
+        "id": "secundaria-3-formacion-b3-006",
+        "tema": "Finanzas básicas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Tener deudas con tarjetas de crédito sin pagarlas a tiempo genera intereses y puede afectar tu historial crediticio",
+        "respuestaCorrecta": "true",
+        "explicacion": "El uso irresponsable del crédito genera deudas con altos intereses y puede dañar el historial crediticio, limitando el acceso a préstamos futuros."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-007",
+        "tema": "Finanzas básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es la recomendación del modelo de ahorro 50/30/20?",
+        "opciones": [
+          "Gastar el 100% del ingreso en lo que quieras",
+          "Destinar 50% a necesidades, 30% a deseos y 20% a ahorro/deudas",
+          "Ahorrar el 70% y gastar solo el 30%",
+          "Invertir todo en acciones de bolsa"
+        ],
+        "respuestaCorrecta": "Destinar 50% a necesidades, 30% a deseos y 20% a ahorro/deudas",
+        "explicacion": "El modelo 50/30/20 es una guía práctica de presupuesto: mitad para gastos esenciales, un tercio para gustos y un quinto para ahorro o pago de deudas."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-008",
+        "tema": "Emprendimiento juvenil",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un emprendedor?",
+        "opciones": [
+          "Una persona que trabaja para el gobierno",
+          "Alguien que crea un negocio propio asumiendo riesgos para obtener beneficios",
+          "Un contador de empresas grandes",
+          "Una persona que estudia economía"
+        ],
+        "respuestaCorrecta": "Alguien que crea un negocio propio asumiendo riesgos para obtener beneficios",
+        "explicacion": "El emprendedor identifica oportunidades, asume riesgos y crea proyectos o empresas para generar valor económico o social."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-009",
         "tema": "Emprendimiento juvenil",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "pregunta": "Una idea de negocio debe resolver un problema real o satisfacer una necesidad del mercado",
         "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+        "explicacion": "Los negocios exitosos nacen de identificar un problema o necesidad insatisfecha. La propuesta de valor debe ser clara y útil para el cliente."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-013",
-        "tema": "Finanzas básicas",
+        "id": "secundaria-3-formacion-b3-010",
+        "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "¿Qué es un plan de negocios?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "Un contrato de trabajo con una empresa",
+          "Un documento que describe la idea, el mercado, el plan financiero y las estrategias del negocio",
+          "Un registro de empleados",
+          "Un logo para la empresa"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "Un documento que describe la idea, el mercado, el plan financiero y las estrategias del negocio",
+        "explicacion": "El plan de negocios es la guía de un emprendimiento: define qué se va a vender, a quién, cómo y con qué recursos financieros."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-014",
+        "id": "secundaria-3-formacion-b3-011",
         "tema": "Emprendimiento juvenil",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "pregunta": "El fracaso en un primer intento de negocio puede ser una experiencia de aprendizaje valiosa",
         "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
+        "explicacion": "Muchos emprendedores exitosos fracasaron antes de triunfar. Los errores enseñan a mejorar el producto, la estrategia y la administración."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-015",
-        "tema": "Finanzas básicas",
+        "id": "secundaria-3-formacion-b3-012",
+        "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
+        "pregunta": "¿Cuál es la característica principal del emprendimiento social?",
         "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
+          "Ganar la mayor cantidad de dinero posible",
+          "Crear negocios que generen impacto positivo en la comunidad o el medio ambiente",
+          "Trabajar solo en empresas internacionales",
+          "Vender productos de lujo"
         ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "respuestaCorrecta": "Crear negocios que generen impacto positivo en la comunidad o el medio ambiente",
+        "explicacion": "El emprendimiento social busca equilibrar la generación de ingresos con un propósito social o ambiental, beneficiando a la comunidad."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-016",
+        "id": "secundaria-3-formacion-b3-013",
+        "tema": "Emprendimiento juvenil",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué institución en México apoya a emprendedores jóvenes con financiamiento y asesoría?",
+        "opciones": ["El IMSS", "El INADEM o el INAES", "La CNDH", "El INEGI"],
+        "respuestaCorrecta": "El INADEM o el INAES",
+        "explicacion": "El INADEM (ahora reemplazado por el INAES) fue la institución gubernamental que apoyaba con fondos, capacitación y asesoría a emprendedores en México."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-014",
         "tema": "Emprendimiento juvenil",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
+        "pregunta": "Las redes sociales pueden ser una herramienta efectiva para promover un negocio juvenil",
         "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-x-017",
-        "tema": "Finanzas básicas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-x-018",
-        "tema": "Emprendimiento juvenil",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las ONG son organizaciones sin fines de lucro",
-        "respuestaCorrecta": "true",
-        "explicacion": "Las ONG (Organizaciones No Gubernamentales) trabajan por causas sociales sin lucro."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-x-019",
-        "tema": "Finanzas básicas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es el bullying?",
-        "opciones": [
-          "Un juego entre amigos",
-          "Acoso reiterado hacia alguien",
-          "Una forma de convivir",
-          "Una materia escolar"
-        ],
-        "respuestaCorrecta": "Acoso reiterado hacia alguien",
-        "explicacion": "El bullying es el acoso sistemático hacia alguien más débil. Es un problema serio."
+        "explicacion": "Plataformas como Instagram, Facebook o TikTok permiten a emprendedores jóvenes dar a conocer sus productos con bajo costo y alcance masivo."
       }
     ],
     "v2": [
       {
-        "id": "secundaria-3-formacion-b3-004",
+        "id": "secundaria-3-formacion-b3-v2-001",
+        "tema": "Finanzas básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el historial crediticio?",
+        "opciones": [
+          "El registro de tus calificaciones escolares",
+          "El registro del comportamiento de pago de una persona ante créditos y deudas",
+          "El saldo de tu cuenta bancaria",
+          "La lista de tus gastos mensuales"
+        ],
+        "respuestaCorrecta": "El registro del comportamiento de pago de una persona ante créditos y deudas",
+        "explicacion": "El historial crediticio (buró de crédito) refleja si pagas a tiempo tus deudas; un buen historial facilita el acceso a créditos con tasas más bajas."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-v2-002",
+        "tema": "Finanzas básicas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El interés compuesto puede hacer que tus ahorros crezcan más rápido con el tiempo",
+        "respuestaCorrecta": "true",
+        "explicacion": "El interés compuesto se calcula sobre el capital más los intereses acumulados anteriormente, generando un efecto de crecimiento exponencial en el ahorro."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-v2-003",
+        "tema": "Finanzas básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es diversificar las inversiones?",
+        "opciones": [
+          "Poner todo el dinero en una sola acción",
+          "Distribuir el dinero en distintos instrumentos para reducir el riesgo",
+          "Gastar en muchos productos diferentes",
+          "Abrir cuentas en varios bancos"
+        ],
+        "respuestaCorrecta": "Distribuir el dinero en distintos instrumentos para reducir el riesgo",
+        "explicacion": "'No poner todos los huevos en una sola canasta'. Diversificar reduce el impacto si una inversión pierde valor."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-v2-004",
+        "tema": "Finanzas básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El PIB (Producto Interno Bruto) mide:",
+        "opciones": [
+          "El número de personas empleadas en un país",
+          "El valor total de bienes y servicios producidos en un país en un período",
+          "El monto de las deudas externas de un país",
+          "El precio promedio de la canasta básica"
+        ],
+        "respuestaCorrecta": "El valor total de bienes y servicios producidos en un país en un período",
+        "explicacion": "El PIB es el principal indicador de la actividad económica de una nación; se usa para comparar el tamaño y crecimiento de las economías."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-v2-005",
+        "tema": "Finanzas básicas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La educación financiera ayuda a tomar mejores decisiones sobre el uso del dinero",
+        "respuestaCorrecta": "true",
+        "explicacion": "La educación financiera es clave para entender conceptos como ahorro, crédito, inversión e impuestos, permitiendo tomar decisiones informadas."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-v2-006",
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Emprendimiento juvenil\"?",
+        "pregunta": "¿Qué es el 'capital semilla' en el contexto del emprendimiento?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "El dinero para comprar semillas en agricultura",
+          "El financiamiento inicial para arrancar un negocio",
+          "El salario del primer empleado",
+          "El dinero que se ahorra para el retiro"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Emprendimiento juvenil es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "El financiamiento inicial para arrancar un negocio",
+        "explicacion": "El capital semilla es la inversión inicial que un emprendedor necesita para desarrollar su idea: comprar materiales, pagar renta, crear el primer prototipo, etc."
       },
       {
-        "id": "secundaria-3-formacion-b3-005",
+        "id": "secundaria-3-formacion-b3-v2-007",
         "tema": "Emprendimiento juvenil",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Emprendimiento juvenil es parte del currículo oficial de la SEP",
+        "pregunta": "El modelo Canvas ayuda a visualizar todos los elementos clave de un modelo de negocio en una sola página",
         "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
+        "explicacion": "El Business Model Canvas es una herramienta visual que organiza los 9 bloques de un negocio: segmento de clientes, propuesta de valor, canales, relaciones, fuentes de ingreso, recursos, actividades, socios y costos."
       },
       {
-        "id": "secundaria-3-formacion-b3-006",
-        "tema": "Emprendimiento juvenil",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "En Emprendimiento juvenil, la práctica constante nos lleva al ___",
-        "respuestaCorrecta": "aprendizaje",
-        "explicacion": "La práctica y la reflexión son claves para aprender cualquier materia."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-extra-008",
-        "tema": "Emprendimiento juvenil",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "La democracia es el gobierno del ___, para el pueblo",
-        "respuestaCorrecta": "pueblo",
-        "explicacion": "Democracia viene del griego \"demos\" (pueblo) y \"kratos\" (poder). El pueblo gobierna."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-extra-010",
+        "id": "secundaria-3-formacion-b3-v2-008",
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es una forma de participación ciudadana?",
+        "pregunta": "¿Qué diferencia al emprendimiento del autoempleo?",
         "opciones": [
-          "No votar",
-          "Ignorar las leyes",
-          "Votar y participar en comunidad",
-          "Solo obedecer sin opinar"
+          "El autoempleo siempre genera más dinero",
+          "El emprendimiento busca escalar y crear valor; el autoempleo se centra en el trabajo individual sostenido",
+          "Son exactamente lo mismo",
+          "El emprendimiento solo existe en empresas grandes"
         ],
-        "respuestaCorrecta": "Votar y participar en comunidad",
-        "explicacion": "Ser ciudadano activo significa votar, participar en organizaciones y defender derechos."
+        "respuestaCorrecta": "El emprendimiento busca escalar y crear valor; el autoempleo se centra en el trabajo individual sostenido",
+        "explicacion": "El autoempleo es trabajar por cuenta propia (plomero, diseñador freelance); el emprendimiento implica crear un modelo replicable y escalable que puede crecer."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-011",
-        "tema": "Finanzas básicas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-x-012",
+        "id": "secundaria-3-formacion-b3-v2-009",
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Qué es un prototipo en el proceso de emprendimiento?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "El producto final terminado",
+          "Una versión preliminar del producto para probar y validar la idea",
+          "El logo de la empresa",
+          "El contrato con los proveedores"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+        "respuestaCorrecta": "Una versión preliminar del producto para probar y validar la idea",
+        "explicacion": "El prototipo permite validar si la idea funciona antes de invertir en producción masiva. Es clave en metodologías ágiles como Lean Startup."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-013",
-        "tema": "Finanzas básicas",
-        "tipo": "fill_blank",
+        "id": "secundaria-3-formacion-b3-v2-010",
+        "tema": "Emprendimiento juvenil",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+        "pregunta": "El análisis FODA ayuda a identificar las Fortalezas, Oportunidades, Debilidades y Amenazas de un negocio",
+        "respuestaCorrecta": "true",
+        "explicacion": "El FODA (SWOT en inglés) es una herramienta estratégica que combina el análisis interno del negocio (F y D) con el externo del mercado (O y A)."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-014",
+        "id": "secundaria-3-formacion-b3-v2-011",
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Qué es una cooperativa?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "Una empresa multinacional",
+          "Una organización formada y gestionada democráticamente por sus socios",
+          "Un banco de inversión",
+          "Una tienda de gobierno"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+        "respuestaCorrecta": "Una organización formada y gestionada democráticamente por sus socios",
+        "explicacion": "Las cooperativas son empresas colectivas donde los mismos trabajadores o usuarios son dueños y toman decisiones de manera democrática."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-015",
-        "tema": "Finanzas básicas",
-        "tipo": "fill_blank",
+        "id": "secundaria-3-formacion-b3-v2-012",
+        "tema": "Emprendimiento juvenil",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+        "pregunta": "El crowdfunding es una forma de obtener financiamiento colectivo a través de plataformas digitales",
+        "respuestaCorrecta": "true",
+        "explicacion": "El crowdfunding permite a emprendedores presentar su proyecto en línea y recibir pequeñas aportaciones de muchas personas para financiarlo."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-016",
+        "id": "secundaria-3-formacion-b3-v2-013",
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "¿Qué se entiende por 'propuesta de valor' en un negocio?",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "El precio de venta del producto",
+          "La razón específica por la que un cliente elegiría tu producto o servicio sobre otros",
+          "El nombre comercial del negocio",
+          "El número de empleados de la empresa"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
+        "respuestaCorrecta": "La razón específica por la que un cliente elegiría tu producto o servicio sobre otros",
+        "explicacion": "La propuesta de valor responde: ¿qué problema resuelves? ¿qué beneficio único ofreces? Es el corazón de cualquier modelo de negocio."
       },
       {
-        "id": "secundaria-3-formacion-b3-x-017",
-        "tema": "Finanzas básicas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-x-018",
+        "id": "secundaria-3-formacion-b3-v2-014",
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué significa \"sufragio efectivo\"?",
+        "pregunta": "El término 'startup' se refiere a:",
         "opciones": [
-          "Votar muchas veces",
-          "Que el voto tenga valor real",
-          "Voto forzado",
-          "No reelección"
+          "Una empresa grande y consolidada",
+          "Una empresa emergente con alto potencial de crecimiento, generalmente en tecnología",
+          "Una tienda de barrio",
+          "Una empresa del gobierno"
         ],
-        "respuestaCorrecta": "Que el voto tenga valor real",
-        "explicacion": "Madero en 1910: \"Sufragio efectivo, no reelección\" = que cada voto cuente y sin dictadores."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-x-019",
-        "tema": "Finanzas básicas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El artículo 1° constitucional prohíbe toda ___",
-        "respuestaCorrecta": "discriminación",
-        "explicacion": "La Constitución prohíbe discriminar a personas por raza, género, orientación u origen."
+        "respuestaCorrecta": "Una empresa emergente con alto potencial de crecimiento, generalmente en tecnología",
+        "explicacion": "Una startup es una empresa nueva que busca escalar rápidamente con un modelo de negocio innovador y escalable, frecuentemente apoyada en tecnología."
       }
     ],
     "preview": [
@@ -350,42 +366,48 @@
         "tema": "Finanzas básicas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué estudia el tema \"Finanzas básicas\"?",
+        "pregunta": "¿Qué es un presupuesto personal?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Una lista de deseos",
+          "Un plan que organiza cuánto dinero recibes y cuánto gastas",
+          "Un préstamo bancario",
+          "Un tipo de ahorros del gobierno"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Finanzas básicas es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Un plan que organiza cuánto dinero recibes y cuánto gastas",
+        "explicacion": "El presupuesto personal es una herramienta financiera que ayuda a planificar ingresos y gastos."
       },
       {
-        "id": "secundaria-3-formacion-b3-002",
-        "tema": "Finanzas básicas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Finanzas básicas es parte del currículo oficial de la SEP",
-        "respuestaCorrecta": "true",
-        "explicacion": "Este tema está incluido en los planes y programas de estudio oficiales de México."
-      },
-      {
-        "id": "secundaria-3-formacion-b3-004",
+        "id": "secundaria-3-formacion-b3-008",
         "tema": "Emprendimiento juvenil",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué estudia el tema \"Emprendimiento juvenil\"?",
+        "nivel": "v1",
+        "pregunta": "¿Qué es un emprendedor?",
         "opciones": [
-          "El desarrollo humano",
-          "Conocimiento especializado",
-          "Historia básica",
-          "Arte y cultura"
+          "Una persona que trabaja para el gobierno",
+          "Alguien que crea un negocio propio asumiendo riesgos para obtener beneficios",
+          "Un contador de empresas grandes",
+          "Una persona que estudia economía"
         ],
-        "respuestaCorrecta": "Conocimiento especializado",
-        "explicacion": "Emprendimiento juvenil es un tema que nos ayuda a comprender el mundo con mayor profundidad."
+        "respuestaCorrecta": "Alguien que crea un negocio propio asumiendo riesgos para obtener beneficios",
+        "explicacion": "El emprendedor identifica oportunidades, asume riesgos y crea proyectos para generar valor económico o social."
+      },
+      {
+        "id": "secundaria-3-formacion-b3-v2-001",
+        "tema": "Finanzas básicas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es el historial crediticio?",
+        "opciones": [
+          "El registro de tus calificaciones escolares",
+          "El registro del comportamiento de pago ante créditos y deudas",
+          "El saldo de tu cuenta bancaria",
+          "La lista de tus gastos mensuales"
+        ],
+        "respuestaCorrecta": "El registro del comportamiento de pago ante créditos y deudas",
+        "explicacion": "El historial crediticio refleja si pagas a tiempo. Un buen historial facilita el acceso a créditos con mejores tasas."
       }
     ]
   },
-  "generado": "2026-02-27T16:11:24.098Z",
+  "generado": "2026-03-25T20:29:00.000Z",
   "version": "2.0"
 }
