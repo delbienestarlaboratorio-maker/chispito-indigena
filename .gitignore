@@ -37,3 +37,7 @@ Thumbs.db
 .vscode/
 
 wrangler_config.toml
+
+.env.*
+.wrangler/
+deployments_list.*
