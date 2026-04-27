@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "uci",
+    "bloque": 4,
+    "nombre": "Cuidados Intensivos (UCI) Nivel 4",
+    "meses": "Evaluación Clínica 4",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🧪 Terapias de Reemplazo Renal Continuo (CRRT)\nEn UCI, un riñón que claudica agudamente por Sepsis o isquemia no puede someterse a la diálisis estándar de un paciente crónico; moriría en el proceso por la sustracción enérgica de su volemia inestable.\n\n### 1. Terapias Continuas (Prismaflex y Similares)\nEl CRRT (Continuous Renal Replacement Therapy) actúa como un riñón biónico lento, sustrayendo y devolviendo la sangre, lavándola milímetro a milímetro **24 horas al día** ininterrumpidamente.\nDada su delicadeza, no somete al paciente a caídas graves de PAM, siendo la única salvación para el Riñón del paciente chocado y sobrecargado con catecolaminas.\n\n### 2. Anticoagulación Regional con Citrato\nAl pasar la sangre fuera del cuerpo para limpiar la urea, se coagula inmediatamente debido a la membrana plástica del tubo. La Heparina clásica suele matar pacientes inestables por sangrados retroperitoneales profundos.\n> [!IMPORTANTE]\n> La hemodiálisis élite moderna inyecta **Citrato** justo en el tubo de entrada de la sangre a la máquina. El Citrato apaga por completo las membranas plaquetarias y precipita el Calcio iónico, pero ÚNICAMENTE funciona en el circuito acrílico. Antes de ingresar la sangre al cuerpo, la enfermera inscribe goteos cruzados de Cloruro de Calcio, restituyendo mágicamente la coagulación antes de regresar la sangre. Este protocolo prohíbe que el paciente sangre, confinando la anticoagulación exclusivamente al equipo externo.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_uci_4_0",
+                "tipo": "selección",
+                "vineta": "Adulto en UTI en choque mixto con Lesión Renal Aguda KDIGO-3 oligúrica. Ingresa a terapia de PRISMAFLEX mediada por Anticoagulación Regional con Citrato de Sodio. Horas más tarde, laboratorios revelan que la relación Calcio Total Sistémico vs Calcio Iónico está severamente disparada hacia valores de toxicidad no quelados (Calcio Gapp >2.5).",
+                "pregunta": "Bajo este contexto de secuestro patológico de electrolitos, ¿qué intoxicación de UCI clásica está ocurriendo silenciosamente?",
+                "opciones": [
+                    "Intoxicación Sistémica por Citrato - El hígado dañado no logra metabolizar el citrato basal regresándolo como bicarbonato.",
+                    "Síndrome de Lisis Tumoral exacerbado por la filtración.",
+                    "Intoxicación exógena accidental por la heparina residual del kit de vías centrales.",
+                    "Calcifilaxis sistémica por infusión excesiva de Cloruro de Calcio base."
+                ],
+                "respuestaCorrecta": "Intoxicación Sistémica por Citrato - El hígado dañado no logra metabolizar el citrato basal regresándolo como bicarbonato.",
+                "retroalimentacion": "Respuesta Correcta. En CRRT, el citrato no debe llegar vivo a la sangre sistémica. Una vez que vuelve al paciente, el hígado humano sano oxida ese citrato y lo destruye de maravilla en unos pocos minutos (Convirtiéndolo en bicarbonato). Si este paciente tenía falla hepática oculta grave, la sangre se atasca de citrato sin metabolizar (marcado por brechas altas entre Calcio Iónico vital y Calcio total 'envuelto en el tóxico'). Puede ocasionar depresión miocárdica refractaria que obliga a detener el protocolo de inmediato."
+            },
+            {
+                "id": "enf_uci_4_1",
+                "tipo": "selección",
+                "vineta": "Monitoreas el cableado de un paciente hipotenso.",
+                "pregunta": "Parámetro normal de la Presión Venosa Central (PVC):",
+                "opciones": [
+                    "0 a -5 mmHg",
+                    "15 a 20 mmHg",
+                    "2 a 8 mmHg",
+                    "20 a 30 mmHg"
+                ],
+                "respuestaCorrecta": "2 a 8 mmHg",
+                "retroalimentacion": "Si está baja (ej. 1 mmHg) el paciente está deshidratado o sangrando. Si está alta (ej. 15 mmHg) el corazón tiene sobrecarga de líquidos o bloqueo obstructivo pulmonar."
+            },
+            {
+                "id": "enf_uci_4_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Bradicardia profunda",
+                    "Fiebre",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_uci_4_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "160 / min",
+                    "140 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_uci_4_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Sublingual",
+                    "Oral",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

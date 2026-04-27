@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "bioquimica",
+    "bloque": 4,
+    "nombre": "Bioquímica Nivel 4",
+    "meses": "Evaluación Clínica 4",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## ⚡ Isoenzimas Clínicas e Isquemia Celular\nLas enzimas funcionales jamás deben encontrarse en concentraciones séricas elevadas. Las lecturas enzimáticas (Cinética) traducen lisis o falla en la membrana celular local de un órgano diana.\n### 1. Cinética de las Troponinas (I / T) vs CK-MB\nEn un Síndrome Coronario Agudo (SCA), la oclusión arterial de la placa ateromatosa provoca necrosis transmural. Las troponinas, componentes puros del sarcómero cardíaco, rompen la membrana y cruzan al torrente capilar a partir de la 4ª hora post-infarto, haciendo picos a las 24 horas y permaneciendo elevadas hasta 10-14 días.\n> [!IMPORTANTE]\n> La elevación persistente de la Troponina durante 14 días dictamina que, ante una sospecha de \"Re-infarto\" al 5to día de cama de piso, cuantificar troponinas es un error diagnóstico. En esos escenarios, se utiliza fisiológicamente la isoenzima CK-MB, que retorna a la normalidad en 48 horas tras el evento agudo inicial.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_bioquimica_4_0",
+                "tipo": "selección",
+                "vineta": "Paciente masculino de 60 años, en su 4to día post-infarto agudo al miocardio (IAM) cara anteroseptal, ya revascularizado. Presenta nuevamente dolor opresivo precordial de diferente patrón neurológico. El equipo cardiológico exige saber qué marcador enzimático determinará si hay un segundo infarto instaurado hoy.",
+                "pregunta": "¿Qué marcador enzimático resulta fisiológicamente preciso para detectar re-infartos tardíos intrahospitalarios?",
+                "opciones": [
+                    "Creatina Cinasa Muscular/Brain (CK-MB)",
+                    "Troponina I Ultrasensible",
+                    "Mioglobina Glicada",
+                    "Deshidrogenasa Láctica (LDH) Isotipo 1"
+                ],
+                "respuestaCorrecta": "Creatina Cinasa Muscular/Brain (CK-MB)",
+                "retroalimentacion": "Respuesta Correcta. Las troponinas, por su lentísima degradación linfática (permanecen 10-14 días circulantes en sangre post IAM), darían un falso positivo de daño continuo irreversible. La enzima CK-MB disminuye vertiginosamente entre las 48-72 hrs posterior al IAM inicial. Si en el 4to día hace un pico sorpresivo, corrobora necrosis de nuevo tejido miocárdico sano (Re-Infarto Agudo)."
+            },
+            {
+                "id": "enf_bioquimica_4_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre",
+                    "Cianosis central",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_bioquimica_4_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "140 / min",
+                    "100 a 120 / min",
+                    "80 a 100 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_bioquimica_4_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Intramuscular",
+                    "Sublingual",
+                    "Intravenosa"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

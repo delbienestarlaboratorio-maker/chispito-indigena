@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "materno",
+    "bloque": 1,
+    "nombre": "Materno-Infantil y Pediatría Nivel 1",
+    "meses": "Evaluación Clínica 1",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🤰 Trastornos Hipertensivos del Embarazo: Preeclampsia Severa\nLa preeclampsia no es solo hipertensión; es una endoteliopatía multisistémica placentaria que avisa con semanas de antelación que va a matar a la madre con derrame cerebral asimétrico convulsivo (Eclampsia).\n\n### 1. Vasoespasmo y Edema Neuro-Visceral\nLa placenta mal adherida de base libera agentes antiangiogénicos. El cuerpo entra en un espasmo vascular gigantesco que hace que los riñones boten Proteínas, y que el hígado llore muriendo necrótico con isquemia (Elevación AST/ALT y dolor en fosa hepática cruzado trans derecho superior).\n> [!IMPORTANTE]\n> ¡El Sulfato de Magnesio (MgSO4) NO SE DA PARA BAJAR LA PRESIÓN ARTERIAL! Es uno de los errores intrahospitalarios de pasantes más generalizados basales. El Sulfato de Magnesio intravenoso es un **Neutro-Estabilizador Iónico Cerebral**. Se impregna estático profiláctico pre neuro convulsiva letal (Apaga descargas epilépticas) de Eclampsia. Si necesitas bajar la TA letal (160/110 mmHg), administras Labetalol endovenoso, Hidralazina hiper vaso activa o Nifedipina orofaríngea.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_materno_1_0",
+                "tipo": "selección",
+                "vineta": "Gestante primigesta 35 SDG, llega Triage Obstétrico con TA 170/115 mmHg, Escotomas Centelleantes visuales y Cefalea en trueno global. Presenta hiperreflexia patelar en camilla cruzada patológica. Indicas protocolo Eclampsia pre infusional y ordenas purga Sulfato Mg base.",
+                "pregunta": "¿Qué intervención endovenosa separada es biológicamente mandatoria si la presión TA no cede a los límites de rescate materno feto y qué objetivo busca evitar puramente biótico estático?",
+                "opciones": [
+                    "Titular el Sulfato de Magnesio letargico a doble dosis de ataque pre neuro inhibiendo toda la función cardiogénica materna en su totalidad de pulso basal trans simpático puro masivo letal pre uterino generalizado de bloqueo neuromédico masivo.",
+                    "Iniciar inmediatamente Hipotensores venosos agresivos reales (ej. Bolo Labetalol o Hidralazina estatuta) para impedir Eventos Vasculares Cerebrales Hemorrágicos Eclámpticos Maternos intra rotura pura trans craneal general biológica.",
+                    "Terminación abrupta en Triage de cesárea con bisturí local hiper demente sin sedoanalgesia profunda en paro masivo generalizado biótico inmerso purificado crónico de red materna basificada terminal estática hiper infusional pura cruzada.",
+                    "Diuréticos de Asa Furosemida estricta hiper para lavar el líquido pericárdico edema tónico general letal base pulmonar asimétrica renal anúrica severa de nefrona biótica."
+                ],
+                "respuestaCorrecta": "Iniciar inmediatamente Hipotensores venosos agresivos reales (ej. Bolo Labetalol o Hidralazina estatuta) para impedir Eventos Vasculares Cerebrales Hemorrágicos Eclámpticos Maternos intra rotura pura trans craneal general biológica.",
+                "retroalimentacion": "Respuesta Correcta. El magnesio protege el cerebro de convulsionar hiper eléctricamente pero no impide que las arterias del estalle neurológico pre capilar exploten como globo a 200 mmhg de presión pura sistémica. Tienes la obligación de derribar urgente la TA inminente antes que la paciente se desangre por el tallo cerebral trans hemorragia biótica masiva."
+            },
+            {
+                "id": "enf_materno_1_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intramuscular",
+                    "Sublingual",
+                    "Intravenosa",
+                    "Oral"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_materno_1_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "140 / min",
+                    "80 a 100 / min",
+                    "100 a 120 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_materno_1_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

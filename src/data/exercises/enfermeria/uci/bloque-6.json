@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "uci",
+    "bloque": 6,
+    "nombre": "Cuidados Intensivos (UCI) Nivel 6",
+    "meses": "Evaluación Clínica 6",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🌐 Terapia de Oxigenación por Membrana Extracorpórea (ECMO) I: Conceptos V-V\nEl ECMO ha pasado de rarezas de primer mundo a intervenciones mandatorias en hospitales de tercer nivel. **ECMO Veno-Venoso (V-V)** sustituye enteramente las funciones neumáticas mortificadas del SRAS gravísimo que el Ventilador es incapaz de revertir.\n\n### 1. Oxigenador de PoliMetilPenteno y Circulación Extracorpórea\nEn ECMO V-V, el corazón funciona a la perfección. El equipo inserta una gigantesca cánula 25Fr en Vena Yugular que \"se traga\" 5-7 Litros de sangre por minuto de la zona sucia torácica. La sangre atraviesa un rotor magnético centrifugador que empuja al flujo crudo hacia el Filtro de Membrana. \nAquí ocurre la química magia artificial (PoliMetilPenteno) donde Gas de Barredora (Sweep Gas) extrae todo el CO2 letal y le injerta pasivamente 100% O2 a gran fuerza, regresando la sangre al cuerpo roja y viva por la Vena Femoral para que el propio corazón la irrigue como si nada, sin usar jamás los pulmones para un solo aliento biológico.\n\n> [!IMPORTANTE]\n>  El Manejo Ventilatorio cambia en un instante al conectar a un paciente a ECMO V-V. Una vez que ECMO toma control total de los gases de sangre... se impone un Modo de Descaso Pulmonar Extremo (Ventilación Ultra-Protectora): Volumen Tidal mímico entre 200 y 300 ml, PIP limitadas, FR bajas y PEEP basal. Esto se hizo para que los alvéolos inflamados sanen a oscuras, hibernando meses si es necesario, mientras la tecnología nos hace vivir en frío.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_uci_6_0",
+                "tipo": "selección",
+                "vineta": "Adulto masculino obeso, con Influenza H1N1 refractaria. Actualmente transita el día 2 con su soporte respiratorio totalmente delegado al ECMO V-V conectado por vía fémoro-yugular con membrana PMP con un ECMO Blood Flow (Qb) a 4L/m y Sweep Gas a 3 L/m. Gasometría pre-membrana revela pCO2 basal en 80 mmHg. Médicos desean bajar el PCO2 a normalidad post-membrana rápidamente.",
+                "pregunta": "¿Qué perilla de la torre del equipo mecánico rige el control estricto de la ventilación (vaciado del CO2 sérico) dentro del consorcio de extracorpóreo?",
+                "opciones": [
+                    "Oxígeno FiO2 Blender de la Membrana PMP a nivel del panel central.",
+                    "Las Revoluciones por Minuto (RPM) del Rotor Magnético Centrifugador para crear presión subatmosférica.",
+                    "La configuración de PEEP superior comandada por el Ventilador Asistencial acoplado a la vía aérea de pared.",
+                    "El Sweep Gas (Flujo de gas barredor administrado directo al oxigenador artificial). A mayor flujo constante, menor será el CO2 del paciente."
+                ],
+                "respuestaCorrecta": "El Sweep Gas (Flujo de gas barredor administrado directo al oxigenador artificial). A mayor flujo constante, menor será el CO2 del paciente.",
+                "retroalimentacion": "Respuesta Correcta. En ECMO, el volumen y las RPM del rotor no impactan grandemente la limpieza del CO2; impactan sólo en el O2 y la perfusión neta. Para borrar la Acidosis Mixta provocada por enormes PCO2 retenidos, el médico le girará al flujo principal del Sweep Gas (El huracán aéreo de barrido purgado) dentro de la membrana. Más aire fresco corriendo como torrente transversal, lava mejor y saca por gradiente molecular el Carbónico en un cerrar de ojos, devolviendo sangre alcalina óptima."
+            },
+            {
+                "id": "enf_uci_6_1",
+                "tipo": "selección",
+                "vineta": "Monitoreas el cableado de un paciente hipotenso.",
+                "pregunta": "Parámetro normal de la Presión Venosa Central (PVC):",
+                "opciones": [
+                    "20 a 30 mmHg",
+                    "2 a 8 mmHg",
+                    "15 a 20 mmHg",
+                    "0 a -5 mmHg"
+                ],
+                "respuestaCorrecta": "2 a 8 mmHg",
+                "retroalimentacion": "Si está baja (ej. 1 mmHg) el paciente está deshidratado o sangrando. Si está alta (ej. 15 mmHg) el corazón tiene sobrecarga de líquidos o bloqueo obstructivo pulmonar."
+            },
+            {
+                "id": "enf_uci_6_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Bradicardia profunda",
+                    "Cianosis central",
+                    "Fiebre",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_uci_6_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "140 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_uci_6_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Sublingual",
+                    "Oral",
+                    "Intravenosa",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

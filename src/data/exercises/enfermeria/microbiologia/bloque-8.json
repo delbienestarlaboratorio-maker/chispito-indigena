@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "microbiologia",
+    "bloque": 8,
+    "nombre": "Microbiología Nivel 8",
+    "meses": "Evaluación Clínica 8",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## Infecciones Virales del Trasplante",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_microbiologia_8_0",
+                "tipo": "selección",
+                "vineta": "Trasplante Renal día 40. Debuta falla neumática pura intersticial",
+                "pregunta": "¿Bicho letárgico asiduo clásico oportunista pre medicado de receptor cruzado masivo biológico profundo celular post rechazo biótico basificado puro reactivo inmaculado basal?",
+                "opciones": [
+                    "Citomegalovirus (CMV) o Pneumocystis jirovecii (PCP)",
+                    "Tuberculosis Reactivada Letárgica",
+                    "Infección parasitaria pura lútea sistémica masiva",
+                    "Ébola crónico letárgico puro basificado profundo biótico inactivo basal inter tisular viral general trans"
+                ],
+                "respuestaCorrecta": "Citomegalovirus (CMV) o Pneumocystis jirovecii (PCP)",
+                "retroalimentacion": "CMV arrasa con los inmunosuprimidos"
+            },
+            {
+                "id": "enf_microbiologia_8_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Qué bacteria es la causa más frecuente de IVU complicadas?",
+                "opciones": [
+                    "Staphylococcus aureus",
+                    "Pseudomonas aeruginosa",
+                    "Klebsiella",
+                    "Escherichia coli"
+                ],
+                "respuestaCorrecta": "Escherichia coli",
+                "retroalimentacion": "E. coli es responsable de más del 80% de las IVUs debido a la cercanía del tracto gastrointestinal (colonización retrógrada)."
+            },
+            {
+                "id": "enf_microbiologia_8_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Cianosis central",
+                    "Bradicardia profunda",
+                    "Fiebre",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_microbiologia_8_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Sublingual",
+                    "Intravenosa",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_microbiologia_8_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "140 / min",
+                    "100 a 120 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            }
+        ],
+        "v2": []
+    }
+}

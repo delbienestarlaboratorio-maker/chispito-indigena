@@ -1,0 +1,92 @@
+{
+    "grado": "enfermeria",
+    "materia": "anatomia",
+    "bloque": 10,
+    "nombre": "Anatomía y Fisiología Nivel 10",
+    "meses": "Evaluación Clínica 10",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_anatomia_10_0",
+                "tipo": "selección"
+            },
+            {
+                "id": "enf_anatomia_10_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "La filtración glomerular ocurre específicamente en:",
+                "opciones": [
+                    "Módulo de Malpighi / Corpúsculo Renal",
+                    "Uréter",
+                    "Asa de Henle",
+                    "Túbulo contorneado distal"
+                ],
+                "respuestaCorrecta": "Módulo de Malpighi / Corpúsculo Renal",
+                "retroalimentacion": "Es aquí donde la cápsula de Bowman rodea al glomérulo y filtra el plasma. El Asa de Henle solo concentra orina reabsorbiendo agua y sodio."
+            },
+            {
+                "id": "enf_anatomia_10_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Cuál es la válvula que separa la aurícula izquierda del ventrículo izquierdo?",
+                "opciones": [
+                    "Aórtica",
+                    "Tricúspide",
+                    "Pulmonar",
+                    "Mitral o Bicúspide"
+                ],
+                "respuestaCorrecta": "Mitral o Bicúspide",
+                "retroalimentacion": "La válvula mitral se llama así por su parecido anatómico a una mitra. A diferencia de la tricúspide (en el lado derecho), su falla provoca insuficiencia hacia las venas pulmonares."
+            },
+            {
+                "id": "enf_anatomia_10_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Sublingual",
+                    "Oral",
+                    "Intravenosa",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_anatomia_10_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "140 / min",
+                    "160 / min",
+                    "100 a 120 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_anatomia_10_5",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Cianosis central",
+                    "Fiebre",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

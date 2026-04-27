@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "bioquimica",
+    "bloque": 1,
+    "nombre": "Bioquímica Nivel 1",
+    "meses": "Evaluación Clínica 1",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🧪 Dinámica Mitocondrial y Glucólisis en Estados de Choque\nEn la práctica de Cuidados Críticos, el metabolismo de carbohidratos pierde su encuadre fisiológico ideal y se convierte en una carrera contra la disoxia celular. \n### 1. Desvío Anaeróbico y la Brecha Aniónica (Anion Gap)\nBajo hipoperfusión severa (Choque Hemorrágico o Cardiogénico), la entrega de oxígeno (DO2) cae por debajo del consumo crítico (VO2). La cadena transportadora de electrones mitocondrial se frena abruptamente por ausencia del aceptor final (Oxígeno). La célula acude a la glucólisis anaerobia rápida, donde el Piruvato es reducido por la enzima **Lactato Deshidrogenasa (LDH)** hacia Ácido Láctico, regenerando NAD+ para mantener viva la glucólisis.\n> [!IMPORTANTE]\n> La Hiperlactatemia Tisular tipo A (por hipoxia) agota rápidamente el buffer de Bicarbonato (HCO3). Al reducirse el bicarbonato, la **Brecha Aniónica (Na+ - (Cl- + HCO3-))** se dispara por encima de 12 mEq/L, marcando el inicio del paro metabólico.\n\n### 2. Disfunción Endotelial y Glucocálix\nEn cuadros sépticos o traumatismos masivos, el estado hiperglucémico por resistencia periférica a la insulina (tormenta adrenérgica y liberación de cortisol) daña las cargas negativas del glucocálix endotelial, induciendo una \"fuga de fluidos\" al tercer espacio sistémico. El manejo estricto de glucemia en UCI (140-180 mg/dL) previene la parálisis inmunológica (disfunción de neutrófilos).",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_bioquimica_1_0",
+                "tipo": "selección",
+                "vineta": "Ingresa a Reanimación masculino de 22 años posterior a colisión vehicular de alto impacto. Palidez generalizada, llenado capilar > 5 segundos, PAM de 45 mmHg. Se extrae gasometría arterial revelando: pH 7.15, pCO2 30 mmHg, HCO3 10 mEq/L, Lactato 8.4 mmol/L, Na+ 140 mEq/L, Cl- 105 mEq/L.",
+                "pregunta": "Con base en la evaluación de los marcadores perfusionales y el entorno metabólico, ¿cuál es el cálculo del Anion Gap y la interpretación fisiopatológica del cuadro?",
+                "opciones": [
+                    "Anion Gap 25 mEq/L - Acidosis Láctica secundaria a Disoxia Celular (Hiperlactatemia Tipo A)",
+                    "Anion Gap 10 mEq/L - Acidosis Respiratoria por retención de CO2",
+                    "Anion Gap 25 mEq/L - Acidosis Láctica por Falla Hepática (Hiperlactatemia Tipo B)",
+                    "Anion Gap 12 mEq/L - Cetoacidosis Traumática Aguda"
+                ],
+                "respuestaCorrecta": "Anion Gap 25 mEq/L - Acidosis Láctica secundaria a Disoxia Celular (Hiperlactatemia Tipo A)",
+                "retroalimentacion": "Respuesta Correcta. Fórmula: Na (140) - [Cl (105) + HCO3 (10)] = 25 mEq/L. Un Anion Gap elevado asociado a un Lactato > 2 mmol/L con PAM de 45 mmHg confirma inequívocamente una hipoperfusión global severa (Desvío Anaeróbico o Tipo A). Administrar cristaloides / sangre de emergencia es el abordaje de primera línea."
+            },
+            {
+                "id": "enf_bioquimica_1_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Cianosis central",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_bioquimica_1_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Sublingual",
+                    "Oral",
+                    "Intravenosa",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_bioquimica_1_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "140 / min",
+                    "100 a 120 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            }
+        ],
+        "v2": []
+    }
+}

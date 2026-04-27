@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "uci",
+    "bloque": 3,
+    "nombre": "Cuidados Intensivos (UCI) Nivel 3",
+    "meses": "Evaluación Clínica 3",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🧠 Neurocríticos: Manejo del Trauma Craneoencefálico y PIC\nEl cráneo es una caja de bóveda sellada. Su interior alberga tres volúmenes: Cerebro (80%), Sangre (10%) y LCR (10%). La Ley de Monro-Kellie dicta que si entra un cuarto componente (ej. Hematoma Epidural), los otros tres deben salir, o el cerebro morirá aplastado contra el foramen magno (Herniación).\n\n### 1. Monitorización de la Presión Intracraneal (PIC)\nLa PIC normal de un adulto es de 5 a 15 mmHg. Un valor > 20 mmHg es HIC (Hipertensión Intracraneal) y requiere intervención crítica.\n> [!IMPORTANTE]\n> La vida del cerebro depende de la Tensión Arterial (PAM). La **Presión de Perfusión Cerebral (PPC)** se calcula como **PAM - PIC**. Si tu paciente tiene 30 mmHg de PIC secundaria a un trauma, su Tensión Arterial Media DEBE permanecer por encima de 90 mmHg. ¡Bajarle la presión arterial en este escenario provocará un paro isquémico cerebral casi de manera letal!\n\n### 2. Terapia Hiperosmolar Táctica\nEl edema neuro-celular sólo retrocede sacando agresivamente agua con solutos de alta capacidad osmótica:\n* **Manitol al 20%:** Funciona jalando líquido al torrente. Pero se inactiva si los riñones fallan.\n* **Solución Salina Hipertónica (3% - 17%):** Superior hemodinámicamente porque aumenta la presión sistémica a la vez que encoge el cerebro. Ideal para pacientes neurocríticos chocados.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_uci_3_0",
+                "tipo": "selección",
+                "vineta": "Masculino 30 años, TEC Severo por caída de 4 metros. Glasgow de 6, intubado y conectado a un sensor de presión intraparenquimatoso craneal. Los monitores revelan PIC en 32 mmHg y PAM en 70 mmHg (Dando una Presión de Perfusión de apenas 38 mmHg). Una de las pupilas, de pronto, presenta anisocoria (midriasis unilateral arreactiva).",
+                "pregunta": "¿Qué triada o constelación neurológica estamos atestiguando y cuál es la maniobra hiperosmolar recomendada por guías?",
+                "opciones": [
+                    "Triada de Cushing con Herniación inminente / Infundir manitol o Salina Hipertónica (bolo STAT) y avisar a Neurocirugía",
+                    "Daño axonal difuso / Administrar Metilprednisolona y bajar la presión arterial rápidamente a menos de 100",
+                    "Muerte Cerebral confirmada / Iniciar trámite legal ante INCUCAI / CENATRA",
+                    "Status epiléptico no convulsivo / Cargar con Tiopental o Midazolam de impregnación"
+                ],
+                "respuestaCorrecta": "Triada de Cushing con Herniación inminente / Infundir manitol o Salina Hipertónica (bolo STAT) y avisar a Neurocirugía",
+                "retroalimentacion": "Respuesta Correcta. La combinación de una PIC masiva que oblitera la perfusión, combinada con un III Par Craneal aplastado (provocando la pupila dilatada arreactiva) es un diagnóstico absoluto de Herniación Uncal. Es un Código de Craniectomía. Se le debe regalar unos preciosos 30 minutos al cirujano enviando dosis letales de Soluciones Hipertónicas o Manitol en bolo STAT, acompañados de hiperventilación transitoria."
+            },
+            {
+                "id": "enf_uci_3_1",
+                "tipo": "selección",
+                "vineta": "Monitoreas el cableado de un paciente hipotenso.",
+                "pregunta": "Parámetro normal de la Presión Venosa Central (PVC):",
+                "opciones": [
+                    "0 a -5 mmHg",
+                    "2 a 8 mmHg",
+                    "15 a 20 mmHg",
+                    "20 a 30 mmHg"
+                ],
+                "respuestaCorrecta": "2 a 8 mmHg",
+                "retroalimentacion": "Si está baja (ej. 1 mmHg) el paciente está deshidratado o sangrando. Si está alta (ej. 15 mmHg) el corazón tiene sobrecarga de líquidos o bloqueo obstructivo pulmonar."
+            },
+            {
+                "id": "enf_uci_3_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "140 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_uci_3_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_uci_3_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intramuscular",
+                    "Oral",
+                    "Intravenosa",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

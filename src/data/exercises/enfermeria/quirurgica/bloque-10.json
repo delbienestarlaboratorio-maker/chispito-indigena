@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "quirurgica",
+    "bloque": 10,
+    "nombre": "Enfermería Quirúrgica Nivel 10",
+    "meses": "Evaluación Clínica 10",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## Quirófano Posiciones y Lesiones de Nervio",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_quirurgica_10_0",
+                "tipo": "selección",
+                "vineta": "Posición Trendelenburg por 8 horas con brazos a 120 grados abducidos.",
+                "pregunta": "¿Lesión asintótica secundaria esperada post anestesia?",
+                "opciones": [
+                    "Hombro luxado",
+                    "Lesión de Plexo Braquial Isquémica Quirúrgica (Neurapraxia)",
+                    "Fractura de escafoides purificada asimétrica",
+                    "Lesión del nervio obturador general asimétrica"
+                ],
+                "respuestaCorrecta": "Lesión de Plexo Braquial Isquémica Quirúrgica (Neurapraxia)",
+                "retroalimentacion": "Brazos a más de 90 grados abducidos lastiman e isquemian plexo braquial en parálisis temporal irreversible o permanente iatrogénica."
+            },
+            {
+                "id": "enf_quirurgica_10_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "140 / min",
+                    "160 / min",
+                    "100 a 120 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_quirurgica_10_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Cianosis central",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_quirurgica_10_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Oral",
+                    "Intramuscular",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

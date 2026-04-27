@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "uci",
+    "bloque": 12,
+    "nombre": "Cuidados Intensivos (UCI) Nivel 12",
+    "meses": "Evaluación Clínica 12",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🏆 El Fin del Manejo Intensivo - Liberación Protocolizada (Weaning O3)\nQuitar el soporte y \"De-escalar\" es donde mueren el 60% de los extubados inmaduros en pisos no críticos.\n### 1. La Vía Rápida vs Parálisis Diafragmática Critica Iatrogénica.\nUn destete extubal requiere Prueba de Respiración Espontánea T-Tube / PSV y el cálculo del RSBI (Rapid Shallow Breathing Index - Índice de Tobin-Yang). \n### 2. El Temido Fracaso Extubatorio Post-Destete Extendido.\nA veces fallan estrepitosamente no por que el pulmón esté mal... sino por el Corazón Cansado oculto al desinflar los robóticos y herméticos sacos torácicos. Al apagar al Asistente Ventricular Presurizante de Alvéolo Biomecánico, le regresas un estrés diastólico de peso basal a un corazón mermado e infartado base desestabilizado y de la nada el paciente entra en un terrorífico Edema Agudo de Pulmón (EPA) Cardiogénico Reactivo Inminente ahogándose literal en espuma roja intrahospitalaria sin aviso base en el pabellón de recuperaciones tardías agónicas a medianoche post-Weaning prematuro.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_uci_12_0",
+                "tipo": "selección",
+                "vineta": "Adulto obeso masculino fumador diabético isquémico extubado por orden médica satisfactoria sin uso de VMNI suplementario transitorio (CPAP). A los 50 minutos de ser liberado de la máquina, y a pesar de no poseer ningún daño laringotráqueo, el individuo debuta con desaturación radical a 75%, taquicardia mortal superior a 150lpm, respiración agónica y estertores burbujeantes audibles bilaterales intensos generalizados en las áreas bases espaldar expectorando esputo espumoso salmonel asalmonado rosado crónico fatal.",
+                "pregunta": "¿Cuál fue el fundamento biomecánico ignorado al extubar asumiendo sólo una competencia pulmonar general aislada de este desastre reactivo?",
+                "opciones": [
+                    "Extubación accidental de un trombo purulento central endotraqueal dislocado residual taponante de carinas principal en extubación torpe sin succión traqueal aspiradora.",
+                    "Fracaso de destete extubatorio inducido por Cardiopatía Aguda (Weaning-Induced Pulmonary Edema): El PEEP sostenía al corazón averiado del paciente. Al quitárselo, regresó el retorno venoso, engrosó el ventrículo y provocó fallo y choque hipoxémico secundario retrogrado inminente letal.",
+                    "Neuro-intoxicación residual del gas fluorado intraóseo / Uso de naloxona interpuesta base de rescate inmediato intermitente.",
+                    "Trauma Laringoespasmo con estenosis obstructiva base / Re-intubación estatuto."
+                ],
+                "respuestaCorrecta": "Fracaso de destete extubatorio inducido por Cardiopatía Aguda (Weaning-Induced Pulmonary Edema): El PEEP sostenía al corazón averiado del paciente. Al quitárselo, regresó el retorno venoso, engrosó el ventrículo y provocó fallo y choque hipoxémico secundario retrogrado inminente letal.",
+                "retroalimentacion": "Respuesta Correcta. El Ventilador no solo ayuda a los pulmones, sino que 'comprime' o estabiliza hemodinámicamente un corazón ahogado con su PEEP intrapleural neumático positivo. Al arrancarlo y dejar al paciente respirar puramente por presiones negativas propias inspiratoria profunda aspiracional... succionó como Jeringa Negra letal cientos de mililitros de venosa sanguínea desde su abdomen hacía un corazón enfermo de base fallido, destruyéndole sus precargas, reventándolo instantáneamente en un encharcamiento agudo de espuma roja general asfíctica terminal. Obliga reconexión, VMNI de rescate hiperagudo STAT y diurético agresivo de asfixia en el pabellón crítico de extubaciones fallidas."
+            },
+            {
+                "id": "enf_uci_12_1",
+                "tipo": "selección",
+                "vineta": "Monitoreas el cableado de un paciente hipotenso.",
+                "pregunta": "Parámetro normal de la Presión Venosa Central (PVC):",
+                "opciones": [
+                    "0 a -5 mmHg",
+                    "2 a 8 mmHg",
+                    "15 a 20 mmHg",
+                    "20 a 30 mmHg"
+                ],
+                "respuestaCorrecta": "2 a 8 mmHg",
+                "retroalimentacion": "Si está baja (ej. 1 mmHg) el paciente está deshidratado o sangrando. Si está alta (ej. 15 mmHg) el corazón tiene sobrecarga de líquidos o bloqueo obstructivo pulmonar."
+            },
+            {
+                "id": "enf_uci_12_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "100 a 120 / min",
+                    "140 / min",
+                    "80 a 100 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_uci_12_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Cianosis central",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_uci_12_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Intramuscular",
+                    "Sublingual",
+                    "Oral"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

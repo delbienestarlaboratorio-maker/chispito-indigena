@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "fundamentos",
+    "bloque": 1,
+    "nombre": "Fundamentos de Enfermería Nivel 1",
+    "meses": "Evaluación Clínica 1",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🌡️ Monitorización Hemodinámica No Invasiva vs Invasiva\nLa presión arterial no es un simple número de '120/80'. En choque, la PANI (Presión Arterial No Invasiva del brazalete) MIENTE.\n### 1. El Fraude del Brazalete Oscilométrico\nEn un adulto sano, el brazalete es perfecto. En un paciente hipovolémico masivo o con vasopresores a tope (Noradrenalina pura), sus arterias periféricas están tan constreñidas que el sensor del brazalete oscilométrico 'lee en vacío' creyendo que el paciente está en paro y arrojando 50/20 mmHg, cuando la Aorta central puede estar a 90/60 mmHg (Viva).\n> [!IMPORTANTE]\n> La única verdad en Cuidado Crítico es la **Línea Arterial Invasiva Radial o Femoral**. Un catéter dentro del lumen arterial dictando la Tensión Intra-Arterial Directa (A-Line) a un transductor piezoeléctrico en la pared cardiaca (Eje Flebostático).",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_fundamentos_1_0",
+                "tipo": "selección",
+                "vineta": "Paciente chocado a causa de Sepsis Urinaria, en goteo masivo de Norepinefrina 0.5 gammas. El brazalete estándar de NIBP (Presión No Invasiva) marca 45/20 mmHg, no detectable al pulso. Alerta general sonando en rojo. Sin embargo, su Línea Arterial Radial (Invasiva recién calibrada nivel Cero al Atrio Derecho) muestra una curva hermosa de 75/40 mmHg constante rítmica al pulso de la onda dicrota.",
+                "pregunta": "¿Qué presión dictamina la resucitación real biótica y cuál ignorarás de facto absoluto?",
+                "opciones": [
+                    "Creer ciegamente al brazalete oscilométrico; la línea invasiva Radial miente basal de periférica.",
+                    "Terapéutica Guiada por la Línea Arterial Invasiva. La PANI miente subestimando o asumiendo colapsos en alta vasoconstricción periférica.",
+                    "Hacer un promedio de ambas.",
+                    "Detener noradrenalina por intoxicación."
+                ],
+                "respuestaCorrecta": "Terapéutica Guiada por la Línea Arterial Invasiva. La PANI miente subestimando o asumiendo colapsos en alta vasoconstricción periférica.",
+                "retroalimentacion": "Respuesta Correcta. El brazalete es para piso, la arteria canalizada invasiva es tu única biblia en choque severo. Cuando el vaso arterial periférico se estrangula al máximo por el medicamento, apaga la 'vibración' de la carne, engañando al monitor estándar."
+            },
+            {
+                "id": "enf_fundamentos_1_1",
+                "tipo": "selección",
+                "vineta": "Requieres colocar a un paciente en cama que presenta disnea aguda y reflujo severo.",
+                "pregunta": "Posición corporal indicada:",
+                "opciones": [
+                    "Sims",
+                    "Trendelenburg",
+                    "Decúbito supino",
+                    "Fowler o Semi-Fowler"
+                ],
+                "respuestaCorrecta": "Fowler o Semi-Fowler",
+                "retroalimentacion": "Elevar la cama entre 30 y 45 grados quita presión abdominal sobre el diafragma, facilitando la ventilación y evitando que el ácido gástrico regrese por gravedad."
+            },
+            {
+                "id": "enf_fundamentos_1_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "100 a 120 / min",
+                    "140 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_fundamentos_1_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Intravenosa",
+                    "Intramuscular",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_fundamentos_1_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

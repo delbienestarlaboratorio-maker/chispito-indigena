@@ -1,0 +1,103 @@
+{
+    "grado": "enfermeria",
+    "materia": "farmacologia",
+    "bloque": 4,
+    "nombre": "Farmacología Básica Nivel 4",
+    "meses": "Evaluación Clínica 4",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🦠 Antibióticos II: Polimixinas, Vanco y Síndrome de Hombre Rojo\nAntibióticos de amplio margen extremo de UCI tienen ventanas terapéuticas estrechas; cruzar un miligramo extra resulta letal, y darlos rápido genera anafilaxias simuladas fatales.\n\n### 1. El Glucopéptido Clásico y las Red-Man Syndrome\nVancomicina es de oro para matar MRSA, pero causa 'De-granulación Idiopática Inmunológica Masiva' si entra al torrente venoso rápidamente. La infusión veloz rompe a los mastocitos y basófilos forzándolos a vaciar Histamina de golpe a la sangre sin que exista IgG alérgica real mediadora. Al infundirse rápido se desata el terror.\n> [!IMPORTANTE]\n> Esto NO ES ANAFILAXIA real cruzada base genética, no está contraindicada base de por vida por este simple síndrome histamínico. Se corrige puramente ralentizando la infusión y administrar el polvo liofilizado en no menos de 1 hora o dos base pesada y agregando un antagónico antihistamínico adjunto (Difenhidramina previa pre-carga).\n\n### 2. Colistina (Polimixina E) \nLa neuro y nefrotoxicidad por excelencia. Es un detergente literal endovenoso que penetra la bacteria gram negativa in vitro haciéndole hoyos iónicos directos a las pseudomonas resistentes hiper-endémicas puras de hospitales en terapia pre-tumba y fallos renales seguros a monitorizar KDIGO directo día a día.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_farmacologia_4_0",
+                "tipo": "selección",
+                "vineta": "Inicias la impregnación tardía urgencial de Vancomicina por bomba volumétrica a 1500 mg en la mitad de tiempo programada prescrita. Al minuto humano número 10 de iniciada esta purga endovenosa del fármaco blanco diluido, el cuello del usuario y parte de los omoplatos estallan en eritema rojo brillante incandescente general pruriginoso severo rascándose en choque rojo. Presión arterial inicia desplome general sutil 90/50 y él reporta disociación caliente espasmoide en base purita de piso.",
+                "pregunta": "¿Qué aberración del pase fisiológico presenciaste visualmente y cuál es la directriz absoluta enfermera prescriptora pre-hospital internista en piso general?",
+                "opciones": [
+                    "Anafilaxia Inminente Tipo I Mediada por Inmunoglobulina IgE a la Vancomicina base/ Reanimar Epinefina Adrenérgica IM al instante vasto lateral y tachar en rojo 'Alergia Fatal Vanco' en historial base frontal definitivo permanente.",
+                    "Síndrome de Infusión Rápida Histamínico Directo No-Mediado (Hombre Rojo) / Detener infundidor basal, inyectar dosis antihistamínicas directas (solicitar), y re-iniciar en minutos y horas posteriores un goteo lento mitigado basal absoluto sin temor cruzado de shock asfíctica por IgE letal genético.",
+                    "Rash Viral Sincitial reactivado simulador por base / Retirar sonda vesical masiva cruzada intraureteral basiforme.",
+                    "Arritmia Polimórfica encubierta Torsades hiper-dinámica de puntas por shock exantemático atópico general / Bolo de Sulfato hiper dinámico iónico central."
+                ],
+                "respuestaCorrecta": "Síndrome de Infusión Rápida Histamínico Directo No-Mediado (Hombre Rojo) / Detener infundidor basal, inyectar dosis antihistamínicas directas (solicitar), y re-iniciar en minutos y horas posteriores un goteo lento mitigado basal absoluto sin temor cruzado de shock asfíctica por IgE letal genético.",
+                "retroalimentacion": "Respuesta Correcta. El clásico Red-Man Syndrome. Confundido diario por las residencias jóvenes con anafilaxia y suspendiendo el fabuloso Fármaco Blanco oro cruzado (vanco). Esta toxicidad puramente osmolar de mastocitos estalla cuando lo pides y lo pasas directo de boluso masivo a vena fuerte rápida. Solo baja la dosis de volumen goteo a media o un cuarto constante... pasa histamínico en ampolleta H1 difenhidramínica y continúa. ¡Jamás asumas choque Tipo I ni cruzes de rojo al expediente del paciente prohibiendo de por vida una de las balas mas fuertes del arsenal!"
+            },
+            {
+                "id": "enf_farmacologia_4_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Antídoto primario para la intoxicación por Benzodiacepinas:",
+                "opciones": [
+                    "Atropina",
+                    "Flumazenilo",
+                    "Carbón activado",
+                    "Naloxona"
+                ],
+                "respuestaCorrecta": "Flumazenilo",
+                "retroalimentacion": "El Flumazenilo compite por los receptores GABA revertiendo el coma inducido por benzodiacepinas (Clonazepam, Diazepam). Ojo: puede inducir convulsiones si hay dependencia crónica."
+            },
+            {
+                "id": "enf_farmacologia_4_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Fármaco inotrópico positivo y cronotrópico negativo usado en Falla Cardíaca:",
+                "opciones": [
+                    "Epinefrina",
+                    "Lidocaína",
+                    "Digoxina",
+                    "Amiodarona"
+                ],
+                "respuestaCorrecta": "Digoxina",
+                "retroalimentacion": "Aumenta la fuerza de contracción del corazón (inotrópico positivo) pero lo frena para que se relaje mejor (cronotrópico negativo). Es de margen terapéutico muy estrecho (toxicidad fácil)."
+            },
+            {
+                "id": "enf_farmacologia_4_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre",
+                    "Cianosis central",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_farmacologia_4_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intramuscular",
+                    "Oral",
+                    "Intravenosa",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_farmacologia_4_5",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "140 / min",
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            }
+        ],
+        "v2": []
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "bioquimica",
+    "bloque": 6,
+    "nombre": "Bioquímica Nivel 6",
+    "meses": "Evaluación Clínica 6",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🌪️ Análisis Avanzado de Reanimación Ácido-Base \nLa Gasometría Arterial (BGA) y la Ecuación H-H (Henderson-Hasselbalch) son el estándar de oro para el cálculo fisiológico de vida de UTI (Unidad Cuidado Intensivo).\n### 1. El Índice de P/F u Oxigenación de Horowitz\nPara dictaminar Síndrome de Estrés Respiratorio Agudo Severo (ARDS/SDRA), se divide la Presión Parcial de Oxígeno arterial (pO2) entre la Fracción Inspirada de O2 enviada por el ventilador (FiO2). \n`Ejemplo: pO2 de 60 mmHg con FiO2 de 0.60 (60%). P/F = 100.`\n> [!IMPORTANTE]\n> Un índice P/F (Radio pO2/FiO2) menor a 150 milímetros de mercurio representa un pulmón altamente encharcado y colapsado por edema alveolar proteináceo requiriendo titulación estricta de presiones PEEP.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_bioquimica_6_0",
+                "tipo": "selección",
+                "vineta": "Ingresa choque séptico por neumonía bilateral adquirida en ventilador. La enfermera intensivista extrae gasometría que refleja: pH 7.20, PCO2 65 mmHg, PO2 55 mmHg. Actualmente se asiste por BVM (Ambú) con oxígeno a 15 Litros/Minuto (FiO2 al 100% / 1.0).",
+                "pregunta": "¿Cuál es la interpretación gasométrica principal y el cálculo del Índice de Oxigenación de Horowitz?",
+                "opciones": [
+                    "Acidosis Respiratoria descompensada severa / PAFI de 55",
+                    "Acidosis Mixta y disarmonía renal / PAFI de 150",
+                    "Acidosis Respiratoria compensada / PAFI de 65",
+                    "Alcalosis Mixta con derivación derecha-izquierda / PAFI de 55"
+                ],
+                "respuestaCorrecta": "Acidosis Respiratoria descompensada severa / PAFI de 55",
+                "retroalimentacion": "Respuesta Correcta. El CO2 retenido (65) jala al pH en sentido contrario por la fórmula logarítmica produciendo alta acidez (Acidosis Respiratoria) típica del alvéolo ocluido. La división del PAFI es exacta: PaO2 (55) / FiO2 (1.0) = 55 mmHg. Este es un índice mortal. Un PAFI menor a 150 declara SDRA grave con inminencia de fallecimiento y requerimiento de Intubación PEEP/PRVC inmediata."
+            },
+            {
+                "id": "enf_bioquimica_6_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "140 / min",
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_bioquimica_6_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Sublingual",
+                    "Intramuscular",
+                    "Oral"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_bioquimica_6_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

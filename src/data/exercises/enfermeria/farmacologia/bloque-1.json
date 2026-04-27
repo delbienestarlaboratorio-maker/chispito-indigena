@@ -1,0 +1,103 @@
+{
+    "grado": "enfermeria",
+    "materia": "farmacologia",
+    "bloque": 1,
+    "nombre": "Farmacología Básica Nivel 1",
+    "meses": "Evaluación Clínica 1",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 💊 Farmacocinética Clínica: Vd y Vida Media en UCI\nLa farmacocinética no es solo \"lo que el cuerpo le hace al fármaco\". En el estado crítico, el cuerpo está destruido, y las reglas clásicas de absorción y excreción se desmoronan volviendo las dosis de libro un peligro mortal.\n\n### 1. El Volumen de Distribución (Vd)\nEl Vd es un volumen teórico donde el fármaco se diluye. Un Vd bajo (<15 Litros) indica que el fármaco no puede salir de la sangre (ej. Heparina). Un Vd enorme (>500 Litros) indica que el fármaco ama la grasa corporal humana (ej. Amiodarona, Fentanilo) y se escapa de los vasos sanguíneos para esconderse en el tejido blando.\n> [!IMPORTANTE]\n> Cuando un paciente entra en Sepsis o Quemadura Mayor, hay **Fuga Capilar**. Su cuerpo se edematiza ganando hasta 20 litros de \"tercer espacio\". El Vd de los antibióticos hidrosolubles (Aminoglucósidos, Betalactámicos) aumenta brutalmente provocando que la dosis habitual se diluya en la nada. La dosis de carga en un paciente edematizado séptico DEBE SER MAYOR para alcanzar el objetivo plasmático, sin importar su falla renal inicial.\n\n### 2. Cinética de Orden Cero vs Primer Orden\nEl 95% de los fármacos siguen una cinética de primer orden: una fracción constante se elimina por unidad de tiempo.\nLa Fenitoína, Etanol y la Aspirina siguen **Orden Cero**. Las enzimas hepáticas que los procesan se saturan súper rápido. Aumentar 10 mg la dosis no hace que suban 10 mg en sangre; hará que escalen hiperbólicamente al triple causando intoxicación convulsiva severa impredecible.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_farmacologia_1_0",
+                "tipo": "selección",
+                "vineta": "Ingresa paciente hiper-obeso (IMC 50) y anasárquico cursando con Choque Séptico abdominal. Inician Vancomicina empírica. El médico base prescribe 1 gramo IV cada 12 hrs basado en el peso magro ideal por temor a la falla renal (Creatinina 1.5). A las 24 horas, el paciente se deteriora y el cultivo revela S. Aureus MRSA, pero el nivel de Vancomicina en valle sérico es de apenas 4 mcg/mL (Sub-terapéutico grave, lo ideal es 15-20).",
+                "pregunta": "¿Qué principio puramente farmacocinético falló y fue ignorado durante la prescripción original que matará al paciente de la infección por no combatirla?",
+                "opciones": [
+                    "Fallo en interpretar el Clearance Hepático de Vancomicina.",
+                    "Subestimar el masivo Aumento en el Volumen de Distribución (Vd) provocado por el estado de Sepsis-Edema general induciendo que la dosis única base no alcance concentración letal en tejido profundo.",
+                    "El peso excesivo de la grasa alteró el metabolismo de fase 2 por conjugación del antibiótico hidrosoluble.",
+                    "Infundir con Solución Glucosada provocó la quelación molecular de la Vancomicina impidiendo su vida media bactericida."
+                ],
+                "respuestaCorrecta": "Subestimar el masivo Aumento en el Volumen de Distribución (Vd) provocado por el estado de Sepsis-Edema general induciendo que la dosis única base no alcance concentración letal en tejido profundo.",
+                "retroalimentacion": "Respuesta Correcta. El paciente anasárquico séptico tiene un 'Tercer Espacio' repleto de lagos de líquido tóxico corporal de fuga. Al inyectar un fármaco hidrofílico puro (Vancomicina o Beta-Lactámicos), la droga se fugará a todo ese líquido perdiéndose dentro y la sangre jamás alcanzará la dosis de matar. En choques agudos siempre debe incrementarse radicalmente LA DOSIS DE IMPEGNA (Primer dosis agresiva de impacto al peso máximo estimado real) inclusive asumiendo riesgo renal agudo; de lo contrario matará primero la bacteria antes que el daño tubular agudo asintomático posterior."
+            },
+            {
+                "id": "enf_farmacologia_1_1",
+                "tipo": "selección",
+                "vineta": "Paciente traído por paramédicos con depresión respiratoria (FR: 6), pupilas puntiformes (miosis) y estupor.",
+                "pregunta": "Antídoto primario vital:",
+                "opciones": [
+                    "Naloxona",
+                    "Vitamina K",
+                    "Flumazenilo",
+                    "Acetilcisteína"
+                ],
+                "respuestaCorrecta": "Naloxona",
+                "retroalimentacion": "La tríada (Depresión respiratoria + Miosis + Estupor) es clásica de intoxicación por opiáceos. La Naloxona debe administrarse inmediatamente IV para evitar paro respiratorio."
+            },
+            {
+                "id": "enf_farmacologia_1_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "El mecanismo de acción de los betalactámicos consiste en:",
+                "opciones": [
+                    "Inhibición de la síntesis de pared celular bacteriana",
+                    "Inhibición de subunidad 50S ribosomal",
+                    "Inhibición de ADN girasa",
+                    "Bloqueo de canales de calcio"
+                ],
+                "respuestaCorrecta": "Inhibición de la síntesis de pared celular bacteriana",
+                "retroalimentacion": "Fármacos como las penicilinas y cefalosporinas rompen la pared biológica, provocando lisis bacteriana. No atacan a las células humanas porque no tenemos pared celular, solo membrana."
+            },
+            {
+                "id": "enf_farmacologia_1_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "140 / min",
+                    "100 a 120 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_farmacologia_1_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Cianosis central",
+                    "Fiebre",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_farmacologia_1_5",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intramuscular",
+                    "Intravenosa",
+                    "Sublingual",
+                    "Oral"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

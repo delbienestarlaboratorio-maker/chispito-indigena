@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "uci",
+    "bloque": 7,
+    "nombre": "Cuidados Intensivos (UCI) Nivel 7",
+    "meses": "Evaluación Clínica 7",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🌍 ECMO V-A e Inserciones Extraordinarias Cardiopulmonares\nEl ECMO Veno-Arterial (V-A) es la intervención última para el Paro Cardiorrespiratorio refractario asistolia crónico. Se impone cuando no basta salvar el pulmón: **Hay que detener y suplantar el Corazón dañado entero**.\n\n### 1. Cortocircuito Sistémico Retrogrado\nEn la modalidad **V-A (Veno-Arterial)**, extraes la sangre venosa muerta y se la regresas ya completamente oxigenada **directamente a una arteria sistémica base bajo hiper-presión mecánica**. El ventrículo Izquierdo queda casi vacío pero latiendo, o totalmente suspendido debido a drogas y descargas de lidocaína masiva. Esto suprime la precarga del derecho y quita el estrés diastólico izquierdo; lo que llamamos el descanso de Miocarditis Fulminantes.\nSin embargo, el retorno al infundirse 'a contra corriente' por la Femoral para empujar sangre nueva contra la aorta descendente de la vida... suele formar microtrombos gigantescos o crear un síndrome de isquemia retrógrada distal, donde el pie y los fémures distales de donde salen y entran las cánulas terminan en muerte amputada de extremidad total (Harlequín invertido parcial si es veno-arterial distal pobre).\n> [!IMPORTANTE]\n> La Posesión de una perfusión distal con un introductor paralelo (Shunt Re-perfusor a Pedia Arterial) es estrictoria técnica a la mitad de la vida celular para detener que el pie quede gangrenado negro carbón post-canulación. Nunca se inicia ECMO VA sin él en fémoral periférica gruesa.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_uci_7_0",
+                "tipo": "selección",
+                "vineta": "Masculino de 55 post-IAM cardiogénico masivo letal. Colocado en Choque profundo sobre puente a destino con ECMO V-A Periférico (Cánula de extracción Venosa Yugular - y Arterial Femoral Izquda en retorno de 5 L/Min). A las 8 horas post intervención se descubre que el color de la piel del paciente y saturación se divide anatómicamente: De la cintura para abajo un tono rosado (SatO2 99%), mientras el labio superior, coronarias y cerebro lucen azulados (cianóticos severos con SatO2 75% extraída Radial Dcha).",
+                "pregunta": "¿Qué demonio hemodinámico del ECMO Periférico desencadenó este choque divisorio letal superior de oxigenación hipóxica neurogénica?",
+                "opciones": [
+                    "Falla por coágulo inminente formándose en el rotor estático del equipo Pulsion.",
+                    "Síndrome de Harlequín (North-South Syndrome) originado por competencia y rechazo de la propia función miocárdica remanente del paciente con pulmones sin vida.",
+                    "Necrosis avascular generalizada del pie ipsilateral dislocado hacia el ventrículo en síncope asimétrico.",
+                    "Shunt intrapulmonar residual al no conectar correctamente la heparina regional asincrónica al panel de control de gases."
+                ],
+                "respuestaCorrecta": "Síndrome de Harlequín (North-South Syndrome) originado por competencia y rechazo de la propia función miocárdica remanente del paciente con pulmones sin vida.",
+                "retroalimentacion": "Respuesta Correcta. Fascinante fenómeno vascular del Alto Mando. El Corazón 'Dañoso o Muerto' del paciente de hecho emitió ligeras señales de vida (mejoría) por fármacos... comenzó a empujar de nuevo y lanzar latidos hacia arriba irrigando su propia Aorta torácica, PERO los pulmones biológicos seguían podridos por Neumonía (Sin ECMO pulmonar real), así que el corazón enviaba Sangre Azul no oxigenada directo al polígono craneal y coronarias. Mientas tanto, en el ombligo y piernas, la cascada perfecta del ECMO fémoral chocaba contra esa ola natural en el centro del tórax creando un escudo de presión letal donde la sangre nueva no cruza el Arco aórtico provocando muerte cerebral cianótica por competencia fisiológica residual."
+            },
+            {
+                "id": "enf_uci_7_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Ritmo de paro cardíaco DESFIBRILABLE:",
+                "opciones": [
+                    "Fibrilación Ventricular (FV)",
+                    "Bradicardia Sinusal",
+                    "Asistolia",
+                    "AESP"
+                ],
+                "respuestaCorrecta": "Fibrilación Ventricular (FV)",
+                "retroalimentacion": "La descarga eléctrica sirve para 'resetear' un corazón en caos fibrilante. Dispararle a un corazón liso (asistolia) no sirve de nada, ahí solo se da masaje y adrenalina."
+            },
+            {
+                "id": "enf_uci_7_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intramuscular",
+                    "Intravenosa",
+                    "Oral",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_uci_7_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "140 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_uci_7_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Bradicardia profunda",
+                    "Cianosis central",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

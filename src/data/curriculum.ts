@@ -388,3 +388,24 @@ export type Ejercicio = {
     nivel: "v1" | "v2" | "v3"; // v1=gratis, v2=premium, v3=suscripcion
     imagenUrl?: string;
 };
+
+// === UNIVERSIDAD (Chispito Pro) ===
+export type Carrera = {
+    nombre: string;
+    slug: string;
+    emoji: string;
+    color: string;
+    gradient: string;
+    descripcion: string;
+};
+
+export const CARRERAS_UNIVERSITARIAS: Carrera[] = [
+    {
+        nombre: "Licenciatura en Enfermería",
+        slug: "enfermeria",
+        emoji: "⚕️",
+        color: "#0F766E",
+        gradient: "from-teal-700 to-cyan-900",
+        descripcion: "Programa clínico avanzado, simuladores UCI, herramientas PAE y cálculo intravenoso."
+    }
+];

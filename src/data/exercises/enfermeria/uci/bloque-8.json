@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "uci",
+    "bloque": 8,
+    "nombre": "Cuidados Intensivos (UCI) Nivel 8",
+    "meses": "Evaluación Clínica 8",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🧪 Desequilibrio Ácido-Base del Anión Gap Negativo Intratable\nExisten terrenos ocultos en gasometría donde el problema yace no en moléculas exógenas como salicilatos, sino en moléculas endógenas y en las proteínas puras actuando de polímeros fantasma en el agua plasmática. \n\n### 1. Albúmina y Acidosis Oculta\nLa base del modelo de Stewart nos enseña a corregir el Anion Gap de acuerdo a la presión oncótica proteínica. La Hipoalbuminemia profunda (pacientes asoleados quemados crónicos, desnutridos extremos con falla marásmica) disminuyan brutalmente a los aniones débiles estables originando fallas falsas de gasometría en lectura de rutina. Las guías indican que hay que restarle al Anion Gap un valor de aproximado 2.5 mEq/L extra de Gap Ficticio por cada Gramo de Hipoproteinemia pura caída en las analiticas de urgencias.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_uci_8_0",
+                "tipo": "selección",
+                "vineta": "Mujer geriátrica de 80 años en UCI con Sepsis Grave Urinaria y marasmo nutricional hospitalario agudo severo basal. Sus laboratorios del día extraen una Albúmina Sérica trágica de 1.8 Vol% (Rango Normal >3.5). Le sacamos gasometría en choque séptico con Anion Gap reportado base de Urgencias en '11 miliequivalentes teóricos normofisiológicos aparentes ocultando falla'.",
+                "pregunta": "Aplicando el entendimiento intensivo real de Figge-Stewart, ¿qué sucede con este paciente mal valorado clínicamente?",
+                "opciones": [
+                    "Dado que se reportó a 11 de Gap, se excluye intoxicaciones y se maneja como acidosis hiperclorémica por infusión cristaloide base pura en reanimación errática.",
+                    "Al poseer hipoalbuminemia tan extrema, tiene una Acidosis Láctica encubierta enorme. Su Anion Gap real corregido andará por los 16+ mEq/L indicando altísimo peligro.",
+                    "El Lactato es inofensivo porque las proteínas rotas de la albúmina se encargan de metabolizarse en Acetoacetato y suplantan la deficiencia pirúvica central de base.",
+                    "Debe iniciarse una infusión en bolo STAT de Plasma Fresco Congelado exógeno empírico y evaluar Gap a la hora en un escenario mixto de hemodilución controlada."
+                ],
+                "respuestaCorrecta": "Al poseer hipoalbuminemia tan extrema, tiene una Acidosis Láctica encubierta enorme. Su Anion Gap real corregido andará por los 16+ mEq/L indicando altísimo peligro.",
+                "retroalimentacion": "Respuesta Correcta. El 11 mEq/L que te grita Urgencias es una MENTIRA. ¡La albúmina está en 1.8! (Ha perdido 2 puntos enteros desde los 4.0 vitales de reserva). Sumar 2.5 mEq/L por cada gramo faltante al cálculo del Gap original dictan que su Brecha Aniónica real es cercana a letales 16 mEq/L... escondía lactato, shock hipóxico por disoxia microcirculatoria. Te confiaste por leer la papeleta impresa, la medicina intensiva te dice que la proteína caída apedrea y modifica todos e ignoto cada parámetro de Stewart que le apliquen los médicos junior asumiendo bases."
+            },
+            {
+                "id": "enf_uci_8_1",
+                "tipo": "selección",
+                "vineta": "Monitoreas el cableado de un paciente hipotenso.",
+                "pregunta": "Parámetro normal de la Presión Venosa Central (PVC):",
+                "opciones": [
+                    "0 a -5 mmHg",
+                    "20 a 30 mmHg",
+                    "15 a 20 mmHg",
+                    "2 a 8 mmHg"
+                ],
+                "respuestaCorrecta": "2 a 8 mmHg",
+                "retroalimentacion": "Si está baja (ej. 1 mmHg) el paciente está deshidratado o sangrando. Si está alta (ej. 15 mmHg) el corazón tiene sobrecarga de líquidos o bloqueo obstructivo pulmonar."
+            },
+            {
+                "id": "enf_uci_8_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intramuscular",
+                    "Intravenosa",
+                    "Sublingual",
+                    "Oral"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_uci_8_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "140 / min",
+                    "100 a 120 / min",
+                    "80 a 100 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_uci_8_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Cianosis central",
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

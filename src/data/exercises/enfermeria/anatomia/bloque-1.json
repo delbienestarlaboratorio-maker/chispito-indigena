@@ -1,0 +1,103 @@
+{
+    "grado": "enfermeria",
+    "materia": "anatomia",
+    "bloque": 1,
+    "nombre": "Anatomía y Fisiología Nivel 1",
+    "meses": "Evaluación Clínica 1",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🧠 Polígono de Willis y Circulación Anterior Cerebral\nEl cerebro consume 20% de nuestro O2 siendo solo el 2% del volumen magro.\n### 1. El Circuito Colateral Salvavidas\nSi la Carótida Interna derecha se ocluye masivamente... por qué el paciente no se masifica o infarta todo un hemisferio? Por la maravilla anatómica llamada **Arteria Comunicante Anterior**. Esta pequeña arteria en la base del cerebro puentea (crea un Shunt de emergencia) y desvía la sangre de la Carótida Izquierda para que irrigue el lado derecho cruzado de manera lateral in situ. \n> [!IMPORTANTE]\n> La arteria Cerebelosa Postero-Inferior (PICA) nace de la Vertebral inferior. Si esta se infarta o rasga, ocurre el **Síndrome Medular Lateral (Wallenberg)**; perdiendo tacto de un lado de la cara y el otro lado del cuerpo. Pura decusación anatómica.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_anatomia_1_0",
+                "tipo": "selección",
+                "vineta": "Adulto debuta con Ictus Agudo. Al examen neurológico profundo trans, no puede hablar (Afasia Motora) ni mover el brazo derecho (Plejia). Sin embargo, las piernas en estado sensitivo y de motor se sienten totalmente puras sanas funcionales inter bilaterales.",
+                "pregunta": "¿Qué vaso arterial anatómico sufrió embolismo vascular asimétrico agudo por especificidad topográfica biótica trans neuronal pura motora?",
+                "opciones": [
+                    "Arteria Cerebral Posterior (ACP).",
+                    "Arteria Cerebral Media (ACM) Izquierda masiva central biótica letal (M1-M2).",
+                    "Arteria Cerebral Anterior (ACA).",
+                    "Polígono anterior Comunicante letárgico asiduo central."
+                ],
+                "respuestaCorrecta": "Arteria Cerebral Media (ACM) Izquierda masiva central biótica letal (M1-M2).",
+                "retroalimentacion": "Respuesta Correcta. El tronco de la Arterial Cerebral Media (ACM) irriga toda la corteza lateral lateral. Ahí se encuentra el brazo y el área del habla humana principal de Broca-Wernicke cruzada pura en el hemisferio dominante. La Pierna está escondida en la línea media irrigada salva vida por la Cerebral Anterior cruzada biótica."
+            },
+            {
+                "id": "enf_anatomia_1_1",
+                "tipo": "selección",
+                "vineta": "Ingresa paciente ansioso, con pupilas dilatadas y taquicardia sostenida.",
+                "pregunta": "¿Cuál es el neurotransmisor principal del sistema parasimpático encargado de REVERTIR este cuadro (rest and digest)?",
+                "opciones": [
+                    "Noradrenalina",
+                    "Acetilcolina",
+                    "Dopamina",
+                    "Serotonina"
+                ],
+                "respuestaCorrecta": "Acetilcolina",
+                "retroalimentacion": "La acetilcolina disminuirá la frecuencia cardíaca, promoverá la digestión y producirá miosis. Las aminas (Noradrenalina/Dopamina) son simpáticas y empeorarían la taquicardia."
+            },
+            {
+                "id": "enf_anatomia_1_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "La filtración glomerular ocurre específicamente en:",
+                "opciones": [
+                    "Uréter",
+                    "Túbulo contorneado distal",
+                    "Asa de Henle",
+                    "Módulo de Malpighi / Corpúsculo Renal"
+                ],
+                "respuestaCorrecta": "Módulo de Malpighi / Corpúsculo Renal",
+                "retroalimentacion": "Es aquí donde la cápsula de Bowman rodea al glomérulo y filtra el plasma. El Asa de Henle solo concentra orina reabsorbiendo agua y sodio."
+            },
+            {
+                "id": "enf_anatomia_1_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Intramuscular",
+                    "Intravenosa",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_anatomia_1_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "140 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_anatomia_1_5",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Bradicardia profunda",
+                    "Cianosis central",
+                    "Fiebre"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

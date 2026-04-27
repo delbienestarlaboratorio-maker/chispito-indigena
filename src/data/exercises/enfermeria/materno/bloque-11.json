@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "materno",
+    "bloque": 11,
+    "nombre": "Materno-Infantil y Pediatría Nivel 11",
+    "meses": "Evaluación Clínica 11",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## Isoinmunización Rh",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_materno_11_0",
+                "tipo": "selección",
+                "vineta": "Madre Rh negativo Pareja Rh Positivo en segunda gesta pura biótica hidrops fetal hidrops asimétrico general.",
+                "pregunta": "¿Fármaco de rescate no aplicado tras primer evento?",
+                "opciones": [
+                    "Gammaglobulina Anti-D o Inmunoglobulina Rhogam pre y post abortos basal letales.",
+                    "Penicilina",
+                    "Oxido nítrico basal",
+                    "Magnesio sulfato"
+                ],
+                "respuestaCorrecta": "Gammaglobulina Anti-D o Inmunoglobulina Rhogam pre y post abortos basal letales.",
+                "retroalimentacion": "Oculta y asesina antígenos fetales cruzados evitando senbilización de red inmune hiper masiva materna viva."
+            },
+            {
+                "id": "enf_materno_11_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "140 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_materno_11_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intramuscular",
+                    "Intravenosa",
+                    "Oral",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_materno_11_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

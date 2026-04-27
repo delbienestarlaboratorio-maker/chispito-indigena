@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "uci",
+    "bloque": 5,
+    "nombre": "Cuidados Intensivos (UCI) Nivel 5",
+    "meses": "Evaluación Clínica 5",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🫀 Shock Cardiogénico Práctico y Asistencia Ventricular \nCuando la isquemia coronaria destruye más del 40% del Ventrículo Izquierdo o una Miocarditis viral deshace todo el tejido del sincitio electro-mecánico de la noche a la mañana, las inyecciones inotrópicas no tienen \"músculo\" dónde trabajar. \n\n### 1. Balón de Contrapulsación Intraaórtica (BCIAo)\nEste es el decano de los dispositivos mecánicos en la terapia vascular. Un globo inflable posicionado post-arterias subclavias directamente adentro de la aorta torácica. \nEl robot observa el Ritmo Electrocardíaco y actúa con una asincronía letal sincronizada con la válvula Ao:\n* **Inflado Agresivo en Diástole:** Aumenta exponencialmente la presión retrograda hacia las coronarias que recién se oxigenan durante la diástole (Regando de sangre al tejido infartado).\n* **Desinflado Abrupto antes de la Sístole:** Crea una aspiración aólica que \"chupa\" la sangre del ventrículo para quitarle casi todo el peso base y el estrés de pared a ese corazón destruido (Reduce Afterload).\n\n### 2. Monitorización PAOP / Catéter de Termodilución\n> [!IMPORTANTE]\n> Si logramos bajar la *Presión Pulmonar en Cuña (PAOP)* por debajo de 18 mmHg logramos secar el Edema Agudo Cardiógeno pero, si exageramos, secaríamos las cavidades de diástole cayendo en Choque Hipovolémico. Un corazón fallido necesita algo de precarga estresante (Frank-Starling basal) situada artificialmente entre 14-16 mmHg para funcionar por puro rebote coloidal. Un BCIA debe estar empatado a este arte sutil.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_uci_5_0",
+                "tipo": "selección",
+                "vineta": "Adulto con choque cardiogénico profundo tras Infarto Cara Anterior. Porta actualmente Balón Intraaórtico de Contrapulsación (BCIAo) ajustado en onda de Ratio 1:1. Repentinamente, el monitor dibuja ondas de inflado sincronizadas en Sístole Activa y tú notas cianosis de cabeza y cuello casi simultánea antes de la alarma.",
+                "pregunta": "¿Qué fatalidad en la temporización asincrónica ocurrió sobre el aparato de salvataje que provocó esta falla valvular forzada e hipoperfusión brutal?",
+                "opciones": [
+                    "Inflado Pre-Sistólico Tardío - Ocluyendo la propia expulsión anterógrada del corazón moribundo y reventándolo contra las valvas cerradas.",
+                    "Desinflado Diastólico Precoz que indujo Taponamiento Pericárdico por el helio purgado del robot.",
+                    "Desconexión del sensor EKG que apagó el módulo y dejó desangrar la vía femoral in situ.",
+                    "Falla por infarto transitorio del ventrículo derecho, desvinculado de la mecánica del BCIAo."
+                ],
+                "respuestaCorrecta": "Inflado Pre-Sistólico Tardío - Ocluyendo la propia expulsión anterógrada del corazón moribundo y reventándolo contra las valvas cerradas.",
+                "retroalimentacion": "Respuesta Correcta. El Balón TIENE QUE desinflarse antes de entrar a Sistole (La ola del ventrículo en contracción). Si el robot se cruza y se desregula inflando SU BALÓN estando dentro de la Aorta EXACTAMENTE mientras el Corazón trata de eyectar... el Ventrículo se abolla y destruye mecánicamente tratando de chocar contra un bloque de goma presurizada inflada con helio en media Aorta magna."
+            },
+            {
+                "id": "enf_uci_5_1",
+                "tipo": "selección",
+                "vineta": "Monitoreas el cableado de un paciente hipotenso.",
+                "pregunta": "Parámetro normal de la Presión Venosa Central (PVC):",
+                "opciones": [
+                    "20 a 30 mmHg",
+                    "2 a 8 mmHg",
+                    "15 a 20 mmHg",
+                    "0 a -5 mmHg"
+                ],
+                "respuestaCorrecta": "2 a 8 mmHg",
+                "retroalimentacion": "Si está baja (ej. 1 mmHg) el paciente está deshidratado o sangrando. Si está alta (ej. 15 mmHg) el corazón tiene sobrecarga de líquidos o bloqueo obstructivo pulmonar."
+            },
+            {
+                "id": "enf_uci_5_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Cianosis central",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_uci_5_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Sublingual",
+                    "Intramuscular",
+                    "Oral"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_uci_5_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "140 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            }
+        ],
+        "v2": []
+    }
+}

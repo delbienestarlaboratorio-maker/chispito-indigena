@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "bioquimica",
+    "bloque": 3,
+    "nombre": "Bioquímica Nivel 3",
+    "meses": "Evaluación Clínica 3",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🥩 Balance Nitrogenado y la Fisiopatología del Amoníaco\nEl metabolismo de aminoácidos genera toxicidad extrema si su principal metabolito (Nitrógeno/Amoníaco) no se desecha.\n### 1. El Ciclo de la Urea y Depuración\nEl amoníaco libre (NH3) es neurotóxico ya que atraviesa fácilmente la barrera hemoencefálica y disminuye la capacidad de producir glutamato. El hígado, mediante la enzima Carba-moil-fosfato-sintetasa I, lo convierte a la molécula inocua **Urea**, excretada en riñón.\n### 2. Síndrome Hepatorrenal y Encefalopatía\nCuando una cirrosis hepática descompensada presenta Encefalopatía grados III-IV, el paciente está ahogándose bioquímicamente en su propio nitrógeno catabólico.\nEl uso de **Lactulosa** provoca un ambiente ácido focal en el colon atrapando NH3 hacia NH4+ (ión amonio), el cual no puede absorberse por la mucosa capilar intestinal, erradicando el tóxico por vía fecal.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_bioquimica_3_0",
+                "tipo": "selección",
+                "vineta": "Masculino de 55 años, con cirrosis etílica Child-Pugh C. Tras episodio de hemorragia de tubo digestivo alto hace 48 h, debuta con desorientación, letargia profunda y aleteo hepático (Asterixis). UREA sérica 110 mg/dL, Creatinina 1.1 mg/dL.",
+                "pregunta": "¿Cuál fue el detonante bioquímico de la crisis encefalopática y qué principio farmacológico rige su abordaje inmediato?",
+                "opciones": [
+                    "Absorción masiva de nitrógeno de la sangre digerida; tratar con disacáridos no absorbibles (Lactulosa) para atrapamiento iónico en colon.",
+                    "Deshidratación por varices esofágicas no ligadas; tratar con albúmina purificada intravenosa.",
+                    "Aumento en el catabolismo del glóbulo rojo; tratar con transfusión de hemoderivados lavados.",
+                    "Infección cruzada por traslocación bacteriana; iniciar Ceftriaxona endovenosa forzosa."
+                ],
+                "respuestaCorrecta": "Absorción masiva de nitrógeno de la sangre digerida; tratar con disacáridos no absorbibles (Lactulosa) para atrapamiento iónico en colon.",
+                "retroalimentacion": "Respuesta Correcta. La sangre almacenada en las vísceras rotas del estómago rico en proteínas (hemoglobina). El metabolismo bacteriano intestinal descompuso estas proteínas en amoníaco. El hígado cirrótico, incapaz de procesarlo en su Ciclo de Urea, permitió el paso al cerebro causando asterixis. La lactulosa previene la disociación química intestinal del NH4+."
+            },
+            {
+                "id": "enf_bioquimica_3_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Intramuscular",
+                    "Intravenosa",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_bioquimica_3_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "140 / min",
+                    "100 a 120 / min",
+                    "80 a 100 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_bioquimica_3_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Bradicardia profunda",
+                    "Cianosis central",
+                    "Fiebre",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

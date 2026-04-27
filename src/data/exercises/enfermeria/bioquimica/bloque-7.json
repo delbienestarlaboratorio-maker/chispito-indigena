@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "bioquimica",
+    "bloque": 7,
+    "nombre": "Bioquímica Nivel 7",
+    "meses": "Evaluación Clínica 7",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🔌 Hemodinámica Molecular y Falla Orgánica Multisistémica (SOFA)\nEn la antesala de la muerte, la Bioquímica Celular deja de responder al volumen, pasando al reino de las resistencias periféricas totales dictadas por la presión de perfusión de los esfínteres pre-capilares.\n### 1. Adrenorreceptores y las Aminas Vasoactivas\nLa **Norepinefrina (Noradrenalina)** actúa mayoritariamente como agonista fuerte Alfa-1 y beta-1. A nivel fisiológico, inyecta su señal directo en los receptores lisos del diámetro vascular y del nodo SA. Contrae de golpe todos los vasos arteriales, obligando al sistema a enviar sangre \"a la fuerza\" al polígono de Willis en el cerebro cerebral y las arterias coronarias.\nLa **Vasopresina (Hormona Antidiurética sintética)** evita por competo los receptores Beta. Ataca directamente a los receptores V1 en el músculo liso para vasocontraer cuando hay una terrible taquicardia que nos impide dar más Noradrenalina de riesgo.\n\n### 2. SVR, Gasto y Catéter de Flotación (Swan-Ganz)\nLa monitorización mediante un catéter transpulmonar que mide la Presión en Cuña Capilar Pulmonar (PAOP) revelará exactamente la 'Precarga final' del Ventrículo Izquierdo. Un PAOP > 18 mmHg dicta sobrecarga hídrica destructiva con edema de pulmón cardiógeno. Administrar agua ahí mata.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_bioquimica_7_0",
+                "tipo": "selección",
+                "vineta": "Cateterismo Swan-Ganz implantado en UCI a paciente cursando choque mixto y SDRA grave. Parámetros medidos por la máquina Pulsion PiCCo arrojan PVC de 16 mmHg, PAOP de 20 mmHg e Índice Cardíaco de 1.8 L/min/m2 con SVR (Resistencias Sistémicas) en 1800 dinas. Paciente con diuresis caída a 10 mL/H.",
+                "pregunta": "Con base en la traducción hemodinámica de un PAOP ultra-elevado asociado a bajo gasto, ¿cuál es el movimiento intravenoso que rige la medicina de shock aquí?",
+                "opciones": [
+                    "Titulación de Inotrópico puro (Dobutamina/Levosimendán) guiado + Diurético de asa agresivo IV",
+                    "Carga libre o reto masivo con Ringer Lactato a destajo a las arterias yugulares",
+                    "Subir titulación de Noradrenalina y retener toda la orina para mejorar la PAM al cuádruple",
+                    "Infusión de Bicarbonato concentrado al 8.4% y desuso absoluto de diuréticos."
+                ],
+                "respuestaCorrecta": "Titulación de Inotrópico puro (Dobutamina/Levosimendán) guiado + Diurético de asa agresivo IV",
+                "retroalimentacion": "Respuesta Correcta. ¡Lectura Magistral! PAOP elevado (>18) significa que el Corazón Izquierdo está fallando totalmente en disparar sangre al cuerpo (falla de bomba, índice cardíaco 1.8 crítico). La precarga está ahogando los pulmones con líquido. Una carga de agua aquí asfixia el pulmón. La solución inminente es usar inotrópicos para obligar la contracción miocárdica a revivir bombeando y diurético Lasix (furosemida) para vaciar y drenar ese encharcamiento mortal de la tubería retrógrada pulmón-yugular."
+            },
+            {
+                "id": "enf_bioquimica_7_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intramuscular",
+                    "Oral",
+                    "Sublingual",
+                    "Intravenosa"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_bioquimica_7_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "100 a 120 / min",
+                    "140 / min",
+                    "80 a 100 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_bioquimica_7_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Cianosis central",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Bradicardia profunda",
+                    "Fiebre"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

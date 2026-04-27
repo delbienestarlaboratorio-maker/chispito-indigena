@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "quirurgica",
+    "bloque": 1,
+    "nombre": "Enfermería Quirúrgica Nivel 1",
+    "meses": "Evaluación Clínica 1",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## ✂️ Asepsia vs Antisepsia y Zonas Grises\nEl Quirófano no es una habitación, es una cápsula biológicamente trazada donde el aire dicta la mortalidad. Perder la esterilidad espacial es firmar una Peritonitis postoperatoria.\n### 1. Presión Positiva Absoluta\nEl sistema de ventilación HEPA quirúrgico mantiene una presión positiva contra los pasillos grises del hospital. Al abrir la puerta, el aire **solo debe salir**. Si un ventilador falla y hay presión negativa, las esporas de Aspergillus del pasillo entran volando a la cavidad mesentérica expuesta del paciente de laparotomía.\n> [!IMPORTANTE]\n> La esterilidad \"Técnica Domiciliaria o de Piso\" NO SIRVE AQUÍ. Una enfermera instrumentista NO BAJA los brazos por debajo de la cintura ni los sube arriba de los hombros. Al cruzarse en frente del paciente, lo hacen espalda con espalda para evitar roce frontal de bata.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_quirurgica_1_0",
+                "tipo": "selección",
+                "vineta": "Durante una cirugía a corazón abierto (Revascularización CABG), una enfermera circulante externa al equipo estéril se inclina por encima de la mesa de instrumental mayo (cubierta aséptica) para conectar un cable de electrocauterio directamente en el mango del bisturí estéril que sostiene el cirujano cardiovascular.",
+                "pregunta": "¿Qué aberración del protocolo estéril universal acaba de suceder in vivo que amerita cambio instrumental masivo inmediato de todo el set de mesa fría?",
+                "opciones": [
+                    "Nada, si la circulante portaba cubrebocas N95 y filipina quirúrgica.",
+                    "Contaminación cruzada por 'Caída de Fómites y Ruptura de Campo Horizontal y Vertical'. Nunca nadie no-estéril puede inclinarse sobre o cruzar por arriba de un campo estéril.",
+                    "Estallido del bisturí mono-polar por carga de derivación falsa por los guantes no estériles húmedos de la circulante externa.",
+                    "Ruptura de la regla de flujo reverso laminar; debió hacerlo caminando desde el fondo por arriba."
+                ],
+                "respuestaCorrecta": "Contaminación cruzada por 'Caída de Fómites y Ruptura de Campo Horizontal y Vertical'. Nunca nadie no-estéril puede inclinarse sobre o cruzar por arriba de un campo estéril.",
+                "retroalimentacion": "Respuesta Correcta. El espacio que rodea un campo estéril se proyecta hacia ARRIBA. Inclinarse, respirar o extender el brazo por encima de esa mesa de instrumental (incluso sin tocarla) permite que descamación natural muerta, cabello, sudor y aerosoles de la ropa no-estéril caigan directamente a las tijeras Metzenbaum o clamps vasculares que irán a las coronarias del paciente induciendo Mediastinitis aguda postoperatoria obligatoria letal innegable hospitalaria."
+            },
+            {
+                "id": "enf_quirurgica_1_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Intravenosa",
+                    "Intramuscular",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_quirurgica_1_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_quirurgica_1_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "140 / min",
+                    "160 / min",
+                    "100 a 120 / min",
+                    "80 a 100 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            }
+        ],
+        "v2": []
+    }
+}

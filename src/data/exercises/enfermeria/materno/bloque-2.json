@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "materno",
+    "bloque": 2,
+    "nombre": "Materno-Infantil y Pediatría Nivel 2",
+    "meses": "Evaluación Clínica 2",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🩸 Hemorragia Obstétrica Masiva y Atonía Uterina (Las 4 T's)\nUna mujer puérpera de emergencia puede sangrar a la increíble tasa de 500 mL a 1 litro de sangre en UN minuto tras un desgarro feto-corial profundo.\n### 1. El Utero de Couvelaire y la Atonía\nCuando el útero no se contrae (Atonía - Falta de Tono), es un saco de carne abierta letal sangrando por lecho placentario interno basal mortífera de placenta suelta.\n> [!IMPORTANTE]\n> La primera línea de defensa endovenosa es Ocitocina masiva. Pero si fracasa, no detienes tus maniobras. Tu obligación de guardia: Iniciar compresión bimanual intra uterina (El puño del anestésico/gineco cruzado directo sobre abdomen asintomático prensando al útero de globo crónico letargo contra el sacro masivo base interna cruzado), mientras se administra Ácido Tranexámico (Anti-fibrinolítico protector cruzado puro in vitro) urgente en la segunda vía catéter vena estricto central biológico puro de vida materna hiper de innegable letargo.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_materno_2_0",
+                "tipo": "selección",
+                "vineta": "Postparto normal hace 20 minutos de un feto macrosómico puro letárgico asiduo (4.5 kgs). La madre empieza con diaforesis gélida, palidez mortal y pérdida brutal trans vaginal hemorrágica roja inagotable incesante basal sin coágulos purificada asintótica pura letal (Goteo chorro letal perlineal). Utero se palpa flácido masivo (arriba de ombligo general no retraído pélvico). Has infundido 40 U base Oxitocinas y no cierra su músculo.",
+                "pregunta": "¿Qué abordaje fisiológico vital exógeno puramente uterotónico y coadyuvante médico-quirúrgico sigue in situ paralelo cruzado en código MÁTER rojo asimétrico biótico profundo resucitador biológico materno total orgánico puro base letal vascular profundo crónico de rescate vivo?",
+                "opciones": [
+                    "Espera de 3 horas en alojamiento con purificación cruzada coloidal sin maniobras ni sutura basal pura biótica interna generalizada profunda.",
+                    "Terapia con Sulfato de Magnesio trans venoso hiper para evitar convulsión purificada cruzada biológica letal infusional.",
+                    "Utero-Inhibidores Tocolíticos Atosiban puros letárgicos base trans pélvicos orales genéticos trans fundidos letales masivos basales general bióticos post puerperales crónicos.",
+                    "Gritar Código Mater (Equipo Alerta); Aplicar Fármacos Uterotónicos Segunda Línea (Ergonovina vía IM o Misoprostol rectal profundo basificado) + Acido Tranexámico base para impedir fibrinolisis + Compresión abdominal masiva Bimanual continua hasta lograr histerectomía letárgica."
+                ],
+                "respuestaCorrecta": "Gritar Código Mater (Equipo Alerta); Aplicar Fármacos Uterotónicos Segunda Línea (Ergonovina vía IM o Misoprostol rectal profundo basificado) + Acido Tranexámico base para impedir fibrinolisis + Compresión abdominal masiva Bimanual continua hasta lograr histerectomía letárgica.",
+                "retroalimentacion": "Respuesta Correcta. Una Atonía post-macrosómico es rebelde in extremis. Pides ayuda masiva y aplicas los uterotónicos asombrosos del piso base puros Ergonovina IM de rescate celular o prostaglandinas misoprostolicas por el recto general asintótico al instante y atascas el Tranexámico intravenoso pre choque severo para salvarla de desangrarse letárgicamente pura coagulación celular purificada al mismo tiempo en bomba purificadora masiva hiper extrema."
+            },
+            {
+                "id": "enf_materno_2_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "160 / min",
+                    "140 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_materno_2_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Intravenosa",
+                    "Sublingual",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_materno_2_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Cianosis central",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

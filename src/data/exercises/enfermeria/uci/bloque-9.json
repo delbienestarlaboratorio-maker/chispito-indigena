@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "uci",
+    "bloque": 9,
+    "nombre": "Cuidados Intensivos (UCI) Nivel 9",
+    "meses": "Evaluación Clínica 9",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## ⚡ Intoxicación Farmacéutica Critica I: B-Bloqueo Masivo\nLos suicidios o accidentes medicamentosos donde están inmiscuidas pildoritas prescriptivas psiquiátricas y toxicológicas son el pan fuerte del Servicio de Resucitación Intensivo Terapéutica Generalizada.\n### 1. Sobredosis por Metoprolol / Propranolol Extremo\nUn bloqueador beta es el asesino silencioso de la contractilidad inotrópica miocelular. Abatir a los beta-receptores apaga al corazón directamente desde las cascadas de fosforilación proteincinasa de la Proteína-G. Todo lo cual colapsa en Paro Bradi-Asistólico Atópico.\n\n> [!IMPORTANTE]\n> ¡Dar atropina es inútil! Porque los latidos no cayeron por inhibición vagal, sino por apagado intrínseco. ¡Dar Adrenalina u otras inotrópicos aminados choca contra una muralla sellada porque el Metoprolol atascó los receptores herméticamente desensibilizados de la membrana de modo reversible!\n> La terapia absoluta se basa en el GLUCAGÓN ENDOVENOSO EN BOLO MEGA. El glucagón no necesita y evade completamente al Receptor Beta. Es una hormona peptídica con su propio receptor acoplado y mágico anexo a puerta del corazón. Forzará la entrada del Calcio a la célula salvando transitoriamente el Paro.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_uci_9_0",
+                "tipo": "selección",
+                "vineta": "Ingresa joven de 24 años posterior a una toma suicida documentada por más de 50 tabletas de labetalol hipertensivo paterno. El electrocardiograma basal grita latidos a un PR elongado infinito desvaneciéndose en Bradicardia a 25 latidos por minuto. PAM en 35 inactiva y piel marmoleada reticular hipóxica terminal. RCP básica a punto de ser ejecutada por guardia, pero los atropínicos y epinefrínicos IV dados periféricamente fallan absolutamente de arrancar un ritmo por encima de los 30lpm con shock mortal.",
+                "pregunta": "¿Qué intervención endovenosa inmediata re-direccionará el inotropismo directo a nivel de AMPc evadiendo la cascada letal adrenérgica amordazada del corazón?",
+                "opciones": [
+                    "Infundir Noradrenalina pesada por bomba continua superior a los 1.5 gammas para forzar los alfadrenérgicos vasculares",
+                    "Cloruro de Calcio gluconado junto a hiperinfusión de Magnesio de rescate fibrilante",
+                    "Bolo endovenoso de Glucagón e iniciar marcapasos transcutáneo simultáneo puente de contención inminente",
+                    "Hemodiálisis extendida con Carbón Activado Hemoperfuso in situ."
+                ],
+                "respuestaCorrecta": "Bolo endovenoso de Glucagón e iniciar marcapasos transcutáneo simultáneo puente de contención inminente",
+                "retroalimentacion": "Respuesta Correcta. El antídoto principal es el Glucagón y requiere un marcapasos por puente debido a la corta vida de los isótopos del fármaco (15 minutos aprox de rebote hormonal inotrópico). No puedes usar Adrenalina/Dobutamina y demás porque literalmente es como gritar delante de una persona que trae tapones de oído de concreto y titanio (los receptores beta están super bloqueados masivos irreversibles farmacológicamente a esas concentraciones altísimas). El glucagón usa otra cerradura a nivel del Sarcolema permitiendo al calcio fluir e iniciando latidos a fuerza."
+            },
+            {
+                "id": "enf_uci_9_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Ritmo de paro cardíaco DESFIBRILABLE:",
+                "opciones": [
+                    "Bradicardia Sinusal",
+                    "Asistolia",
+                    "AESP",
+                    "Fibrilación Ventricular (FV)"
+                ],
+                "respuestaCorrecta": "Fibrilación Ventricular (FV)",
+                "retroalimentacion": "La descarga eléctrica sirve para 'resetear' un corazón en caos fibrilante. Dispararle a un corazón liso (asistolia) no sirve de nada, ahí solo se da masaje y adrenalina."
+            },
+            {
+                "id": "enf_uci_9_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intramuscular",
+                    "Intravenosa",
+                    "Sublingual",
+                    "Oral"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_uci_9_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "100 a 120 / min",
+                    "140 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_uci_9_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Cianosis central",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

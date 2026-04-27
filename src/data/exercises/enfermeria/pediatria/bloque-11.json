@@ -1,0 +1,115 @@
+{
+    "grado": "enfermeria",
+    "materia": "pediatria",
+    "bloque": 11,
+    "nombre": "Materno-Infantil y Pediatría Nivel 11",
+    "meses": "Evaluación Clínica 11",
+    "temas": [
+        "Fisiopatología",
+        "Abordaje Clínico",
+        "Farmacodinámica"
+    ],
+    "totalEjercicios": 8,
+    "historiaChispito": "Hoy rotaremos por medicina interna. Pon a prueba tus conocimientos en Materno-Infantil y Pediatría.",
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_pediatria_11_0",
+                "tipo": "selección",
+                "pregunta": "¿En qué semana de gestación se considera a un recién nacido 'A término' por la OMS?",
+                "opciones": [
+                    "34 a 36 semanas",
+                    "40 a 44 semanas",
+                    "37 a 42 semanas",
+                    "Menos de 37 semanas"
+                ],
+                "respuestaCorrecta": "37 a 42 semanas"
+            },
+            {
+                "id": "enf_pediatria_11_1",
+                "tipo": "selección",
+                "pregunta": "Reflejo primario neonatal donde el infante abre los brazos simulando un abrazo tras un estímulo súbito:",
+                "opciones": [
+                    "Babinski",
+                    "Búsqueda",
+                    "Reflejo de Moro",
+                    "Prensión palmar"
+                ],
+                "respuestaCorrecta": "Reflejo de Moro"
+            },
+            {
+                "id": "enf_pediatria_11_2",
+                "tipo": "selección",
+                "pregunta": "Valor APGAR considerado 'Normal o Sin depresión' al primer y quinto minuto:",
+                "opciones": [
+                    "Más de 15 puntos",
+                    "4 a 6 puntos",
+                    "7 a 10 puntos",
+                    "0 a 3 puntos"
+                ],
+                "respuestaCorrecta": "7 a 10 puntos"
+            },
+            {
+                "id": "enf_pediatria_11_3",
+                "tipo": "selección",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Letargo/Ansiedad)",
+                    "Fiebre resistente",
+                    "Cianosis central extrema",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Letargo/Ansiedad)"
+            },
+            {
+                "id": "enf_pediatria_11_4",
+                "tipo": "selección",
+                "pregunta": "¿Catéter intravenoso ideal en calibre para politraumatismo y transfusión rápida (adulto)?",
+                "opciones": [
+                    "22G o 24G (Azul / Amarillo)",
+                    "18G o 20G (Verde / Rosa)",
+                    "14G o 16G (Naranja / Gris)",
+                    "20G exclusive"
+                ],
+                "respuestaCorrecta": "14G o 16G (Naranja / Gris)"
+            },
+            {
+                "id": "enf_pediatria_11_5",
+                "tipo": "selección",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP de alta calidad según AHA:",
+                "opciones": [
+                    "100 a 120 por minuto",
+                    "80 a 100 por minuto",
+                    "Más de 140 por minuto",
+                    "120 a 140 por minuto"
+                ],
+                "respuestaCorrecta": "100 a 120 por minuto"
+            },
+            {
+                "id": "enf_pediatria_11_6",
+                "tipo": "selección",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Sublingual",
+                    "Oral",
+                    "Intravenosa",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa"
+            },
+            {
+                "id": "enf_pediatria_11_7",
+                "tipo": "selección",
+                "pregunta": "Tipo de aislamiento requerido para paciente con tuberculosis pulmonar activa:",
+                "opciones": [
+                    "Aislamiento protector (neutropénico)",
+                    "Aislamiento entérico stricto",
+                    "Precauciones estándar de contacto",
+                    "Aislamiento por gotas/Aéreo (Presión negativa recomendada)"
+                ],
+                "respuestaCorrecta": "Aislamiento por gotas/Aéreo (Presión negativa recomendada)"
+            }
+        ],
+        "v2": []
+    }
+}

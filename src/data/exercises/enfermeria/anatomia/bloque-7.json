@@ -1,0 +1,92 @@
+{
+    "grado": "enfermeria",
+    "materia": "anatomia",
+    "bloque": 7,
+    "nombre": "Anatomía y Fisiología Nivel 7",
+    "meses": "Evaluación Clínica 7",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_anatomia_7_0",
+                "tipo": "selección"
+            },
+            {
+                "id": "enf_anatomia_7_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "La filtración glomerular ocurre específicamente en:",
+                "opciones": [
+                    "Asa de Henle",
+                    "Módulo de Malpighi / Corpúsculo Renal",
+                    "Uréter",
+                    "Túbulo contorneado distal"
+                ],
+                "respuestaCorrecta": "Módulo de Malpighi / Corpúsculo Renal",
+                "retroalimentacion": "Es aquí donde la cápsula de Bowman rodea al glomérulo y filtra el plasma. El Asa de Henle solo concentra orina reabsorbiendo agua y sodio."
+            },
+            {
+                "id": "enf_anatomia_7_2",
+                "tipo": "selección",
+                "vineta": "Ingresa paciente ansioso, con pupilas dilatadas y taquicardia sostenida.",
+                "pregunta": "¿Cuál es el neurotransmisor principal del sistema parasimpático encargado de REVERTIR este cuadro (rest and digest)?",
+                "opciones": [
+                    "Acetilcolina",
+                    "Noradrenalina",
+                    "Serotonina",
+                    "Dopamina"
+                ],
+                "respuestaCorrecta": "Acetilcolina",
+                "retroalimentacion": "La acetilcolina disminuirá la frecuencia cardíaca, promoverá la digestión y producirá miosis. Las aminas (Noradrenalina/Dopamina) son simpáticas y empeorarían la taquicardia."
+            },
+            {
+                "id": "enf_anatomia_7_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_anatomia_7_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "100 a 120 / min",
+                    "140 / min",
+                    "160 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_anatomia_7_5",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Intravenosa",
+                    "Intramuscular",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

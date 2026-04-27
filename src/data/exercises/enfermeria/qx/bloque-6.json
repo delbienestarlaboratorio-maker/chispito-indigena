@@ -1,0 +1,115 @@
+{
+    "grado": "enfermeria",
+    "materia": "qx",
+    "bloque": 6,
+    "nombre": "Enfermería Médico-Quirúrgica Nivel 6",
+    "meses": "Evaluación Clínica 6",
+    "temas": [
+        "Fisiopatología",
+        "Abordaje Clínico",
+        "Farmacodinámica"
+    ],
+    "totalEjercicios": 8,
+    "historiaChispito": "Hoy rotaremos por medicina interna. Pon a prueba tus conocimientos en Enfermería Médico-Quirúrgica.",
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_qx_6_0",
+                "tipo": "selección",
+                "pregunta": "Posición quirúrgica utilizada idealmente para cirugías ginecológicas y urológicas transvaginales:",
+                "opciones": [
+                    "Trendelenburg invertida",
+                    "Litotomía",
+                    "Fowler",
+                    "Decúbito prono"
+                ],
+                "respuestaCorrecta": "Litotomía"
+            },
+            {
+                "id": "enf_qx_6_1",
+                "tipo": "selección",
+                "pregunta": "Solución antiséptica de acción residual recomendada universalmente para preparación prequirúrgica de piel:",
+                "opciones": [
+                    "Agua oxigenada",
+                    "Alcohol etílico 70%",
+                    "Iodopovidona 10%",
+                    "Clorhexidina al 2%"
+                ],
+                "respuestaCorrecta": "Clorhexidina al 2%"
+            },
+            {
+                "id": "enf_qx_6_2",
+                "tipo": "selección",
+                "pregunta": "Fase de cicatrización que ocurre entre el día 1 al 4, dominada por macrófagos y neutrófilos:",
+                "opciones": [
+                    "Proliferativa",
+                    "Inflamatoria/Exudativa",
+                    "Maduración",
+                    "Remodelación"
+                ],
+                "respuestaCorrecta": "Inflamatoria/Exudativa"
+            },
+            {
+                "id": "enf_qx_6_3",
+                "tipo": "selección",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Letargo/Ansiedad)",
+                    "Fiebre resistente",
+                    "Cianosis central extrema"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Letargo/Ansiedad)"
+            },
+            {
+                "id": "enf_qx_6_4",
+                "tipo": "selección",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Oral",
+                    "Intramuscular",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa"
+            },
+            {
+                "id": "enf_qx_6_5",
+                "tipo": "selección",
+                "pregunta": "¿Qué estudio laboratorial es indicador agudo sensible de Infarto Agudo al Miocardio?",
+                "opciones": [
+                    "Troponinas I / T",
+                    "Bilirrubina total",
+                    "Dimero D",
+                    "Creatinina sérica"
+                ],
+                "respuestaCorrecta": "Troponinas I / T"
+            },
+            {
+                "id": "enf_qx_6_6",
+                "tipo": "selección",
+                "pregunta": "¿Catéter intravenoso ideal en calibre para politraumatismo y transfusión rápida (adulto)?",
+                "opciones": [
+                    "20G exclusive",
+                    "22G o 24G (Azul / Amarillo)",
+                    "14G o 16G (Naranja / Gris)",
+                    "18G o 20G (Verde / Rosa)"
+                ],
+                "respuestaCorrecta": "14G o 16G (Naranja / Gris)"
+            },
+            {
+                "id": "enf_qx_6_7",
+                "tipo": "selección",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP de alta calidad según AHA:",
+                "opciones": [
+                    "Más de 140 por minuto",
+                    "80 a 100 por minuto",
+                    "120 a 140 por minuto",
+                    "100 a 120 por minuto"
+                ],
+                "respuestaCorrecta": "100 a 120 por minuto"
+            }
+        ],
+        "v2": []
+    }
+}

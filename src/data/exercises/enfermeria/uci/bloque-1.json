@@ -1,0 +1,89 @@
+{
+    "grado": "enfermeria",
+    "materia": "uci",
+    "bloque": 1,
+    "nombre": "Cuidados Intensivos (UCI) Nivel 1",
+    "meses": "Evaluación Clínica 1",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🌬️ Soporte Ventilatorio Invasivo I: Modos Controlados y Volumétricos\nLa Ventilación Mecánica no es inyectar aire; es comprar tiempo para los pulmones fustigados por la inflamación o la disoxia mientras manipulamos presiones mortales dentro del tórax.\n\n### 1. Variables de Fase y Modos Controlados por Volumen (VCV)\nEn VCV, el operador fija el **Volumen Tidal (Vt)** y la máquina modula la presión necesaria para meter ese aire. En pulmones sanos (ej. postquirúrgico) esto es seguro. En pulmones rígidos (SDRA), forzar el volumen tidal provocará picos de *Presión Inspiratoria Máxima (PIP)* devastadores que romperán el alvéolo (Barotrauma).\n> [!IMPORTANTE]\n> La regla de oro internacional actual (Ventilación Protectora) exige un Volumen Tidal de **6 a 8 mL por kilogramo de Peso Predicho** (no de peso real). Ventilar a un paciente obeso calculando su peso real de 120 kg con 8 mL (1,000 mL de volumen) destruirá sus pulmones. El pulmón del paciente obeso es del mismo tamaño que el de una persona delgada de su misma altura.\n\n### 2. PEEP (Presión Positiva al Final de la Espiración)\nEl PEEP evita que los alvéolos colapsen al espirar (Atelectrauma). Al aumentar el PEEP en SDRA, \"reclutamos\" alvéolos cerrados y mejoramos la oxigenación sin requerir FiO2 tóxico. El peligro del PEEP alto (>15 cmH2O) es que comprime el corazón derecho, derrumbando el gasto cardíaco y la tensión arterial.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_uci_1_0",
+                "tipo": "selección",
+                "vineta": "Ingresa paciente femenino de 160 cm de altura y 125 kg (IMC 48) cursando SDRA severo por Neumonía. El residente configura el ventilador en VCV, ordenando un Volumen Tidal de 800 mL basado en los 125 kg que marca la báscula.",
+                "pregunta": "Bajo la óptica de la Ventilación Mecánica Protectora, ¿cuál es tu intervención clínica inmediata al visualizar este parámetro?",
+                "opciones": [
+                    "Aceptar la indicación, ya que la grasa torácica restringe el flujo base.",
+                    "Detener la maniobra y recalcular el Vol Tidal a 6 mL/kg sobre su PESO IDEAL calculado por altura, bajando a ~350 mL.",
+                    "Aumentar el PEEP a 20 cmH2O para vencer la coraza abdominal.",
+                    "Cambiar a modo Presión Soporte y retirar inmediatamente toda la sedación."
+                ],
+                "respuestaCorrecta": "Detener la maniobra y recalcular el Vol Tidal a 6 mL/kg sobre su PESO IDEAL calculado por altura, bajando a ~350 mL.",
+                "retroalimentacion": "Respuesta Correcta. El Volutrauma ocurre por obviar la física torácica. La obesidad añade grasa externa, pero la caja pleural y el tejido pulmonar no crecen. Ventilarla con 800 mL generará un desgarro alveolar masivo y un neumotórax hipertensivo inmediato. El cálculo siempre es sobre el Peso Predicho (Ideal) por Altura."
+            },
+            {
+                "id": "enf_uci_1_1",
+                "tipo": "selección",
+                "vineta": "Monitoreas el cableado de un paciente hipotenso.",
+                "pregunta": "Parámetro normal de la Presión Venosa Central (PVC):",
+                "opciones": [
+                    "20 a 30 mmHg",
+                    "0 a -5 mmHg",
+                    "15 a 20 mmHg",
+                    "2 a 8 mmHg"
+                ],
+                "respuestaCorrecta": "2 a 8 mmHg",
+                "retroalimentacion": "Si está baja (ej. 1 mmHg) el paciente está deshidratado o sangrando. Si está alta (ej. 15 mmHg) el corazón tiene sobrecarga de líquidos o bloqueo obstructivo pulmonar."
+            },
+            {
+                "id": "enf_uci_1_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Sublingual",
+                    "Oral",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_uci_1_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Cianosis central",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_uci_1_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "80 a 100 / min",
+                    "140 / min",
+                    "100 a 120 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            }
+        ],
+        "v2": []
+    }
+}

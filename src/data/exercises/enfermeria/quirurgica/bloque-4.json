@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "quirurgica",
+    "bloque": 4,
+    "nombre": "Enfermería Quirúrgica Nivel 4",
+    "meses": "Evaluación Clínica 4",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🎭 Anestesia Neuroaxial: Punciones Lumbares Críticas\nEl epidural no es un piquete mágico, produce simpatectomía vascular inducida fatal si inyectas anestesia subaracnoidea letal extrema base a dosis epidurales grandes accidentadas cruzadas.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_quirurgica_4_0",
+                "tipo": "selección",
+                "vineta": "Infiltración epidural L3-L4 para anestesia lumbar cesárea. Anestesiólogo purga dosis hiperbárica completa de Bupivacaina intratecal errada (cayendo al saco dural profundo en vez del plano epidural periférico). El Nivel de bloqueo subió rápidamente tocando Dermatoma C5 (Tetrápodo Alto cruzado clavicular sensitiva paralela biótica cervical).",
+                "pregunta": "¿Qué síntoma letal es premonitorio inmediato de un 'Espinal Total' letal asintótico cardiovascular paralítico y qué intervención mecánica es requerida de choque in vivo?",
+                "opciones": [
+                    "Hipoalgesia del pie plantar pura / Tocar campana y re inyectar volumen anestésico",
+                    "Parálisis Diafragmática (Freno en respiración y voz) a la vez de Desplome Hipotensivo Masivo por Simpatectomía profunda Central asimétrica (Corte químico total espinal) requiriendo Intubación Orotraqueal STAT y Adrenalina infusoria in extremis para contrarrestar fuga vasodilatada choque basificada asintótica medular general letárgica pura cardíaca fatal inerte.",
+                    "Priapismo reactivo o espasmo escleral pupilar in situ / Nada, esperar sedación total",
+                    "Choque Vagotónico inducido puro biliar incesante con fiebre biótica de rebote trans medular basal cruzada y bradicardia masiva refleja inter asfíctica pura vagal asimétrica sin bloqueo ventilatorio asfíctico de cúpula frénica cruzada tóraco nerviosa central celular extrema letal."
+                ],
+                "respuestaCorrecta": "Parálisis Diafragmática (Freno en respiración y voz) a la vez de Desplome Hipotensivo Masivo por Simpatectomía profunda Central asimétrica (Corte químico total espinal) requiriendo Intubación Orotraqueal STAT y Adrenalina infusoria in extremis para contrarrestar fuga vasodilatada choque basificada asintótica medular general letárgica pura cardíaca fatal inerte.",
+                "retroalimentacion": "Respuesta Correcta. La anestesia total espinal (Spinal Total) es un desastre anestésico. En general sube demasiado rápido, apaga y baña las raíces nerviosas medulares del cuello bloqueando el NERVIó FRÉNICO (Dermatomas C3,C4,C5... \"Three, Four, Five, Keep the Diaphragm alive\"). Si apagas la C4 inyectando Mercaína a nivel medular, el sujeto deja de poder mover el diafragma e instantáneamente se asfixia consiente, seguido de hipotensión masiva a los 60/30 en segundos."
+            },
+            {
+                "id": "enf_quirurgica_4_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Cianosis central",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_quirurgica_4_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "80 a 100 / min",
+                    "140 / min",
+                    "100 a 120 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_quirurgica_4_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Sublingual",
+                    "Oral",
+                    "Intravenosa",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

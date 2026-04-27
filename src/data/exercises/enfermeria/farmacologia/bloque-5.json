@@ -1,0 +1,103 @@
+{
+    "grado": "enfermeria",
+    "materia": "farmacologia",
+    "bloque": 5,
+    "nombre": "Farmacología Básica Nivel 5",
+    "meses": "Evaluación Clínica 5",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 💤 Farmacología de los Opioides Intravenosos\nLas Ucis demandan anestesia disociativa no de anestesiólogo; sedo-intubar masivamente la consciencia basal torácico.\n### 1. Fentanilo vs Morfina\n* **Morfina:** De vida media pesada base y liberadora inminente histamínica pura del mastocito periférico basal. Causa hipotensión venodilatadora estricta de base. En un trauma isquémico miocárdico o chocado hipotenso, inyectarle Morfina lo asesinará derrumbando precargas.\n* **Fentanilo:** 100 veces hiper-potente más que su abuelo sintético puro letal... NO libera histamina intrínseca endovenosa, es hiper-cardioestable fenomenal; la presión de sangre jamás sufre (perfecto si tienes trauma encéfalo y necesitas conservar PIC basal y PAM estable sistémica).\n> [!IMPORTANTE]\n> Bolo Rápido Asesinato del Tórax Leñoso... El Fentanilo en súper dosis directas inyectadas sin difuminación a menos de un minuto in vivo, traga en choque el neuroeje causando Terapia de TÓRAX RÍGIDO LINGUAL; un espasmo torácico ventilatorio tan violento de las pleuras periféricas puras... que NO PODRÁS VENTILAR MANUALMENTE con el Ambú a pesar de tratar ni asfixias mortales del RCP hiper-activo, terminando en el uso obligatorio de relajantes tipo Succinilcolina para des-trabar y soltar la estatua corporal paralítica que acabas de formar por no saber empujar sintéticos mu puros.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_farmacologia_5_0",
+                "tipo": "selección",
+                "vineta": "Resucitación Urgencia Base Traumática con inminente asfixia neumática de emergencia pura y control del dolor. Internista indica carga 500 microgramos hiper Fentanilo basal Stat Bolo al segundo para proceder a Laringoscopía pre-dormicum basal central en secuencia retardada. Una vez purgado directo periférica, inicias asistencia baso-Ambú mascarilla-balón. Repentinamente, el ambú se siente 'Como si intentaras inflar un muro de Ladrillos estático de cemento de 30 kgs pre-fragüe'. Te es imposible comprimir aire hacia adentró del sujeto mientras la cara de él se asfixia cianótica púrpura irreversible sin cuerdas visibles basales y el capnógrafo no detectaba curvas puras espiratorias cruzadas en el previo de inducción de intubación rápida RSII.",
+                "pregunta": "¿Qué catástrofe sintética inyectable farmacológica desataste por tu técnica infusional intravenosa brutal stat y cómo rompes la trampa mortífera pre-asfíctica general paralizada en tus propios ojos en urgencias piso rojo?",
+                "opciones": [
+                    "Crisis Torsades Inversa Vagal Espástica Laringea Típica pre-anestésica. Purgar con anti-muscarínico central pesado basal.",
+                    "Tórax Leñoso Opioide Intoxicado (Rigidez Torácica Músculo esquelética masiva inducida puramente por inyección flash stat extrema Fentanílica cruzada). Quiebre inminente cruzado estatuto general químico exigiendo miorrelajante periférico ultra-rápido hiper (Succinilcolina o Rocuronio masivo parálisis general relajante del torso) + proceder intubatorio definitivo.",
+                    "Asma Agudo Reagudizada Inmune Alérgica Total por el Opioide puramente de granulación; infundir Epinefrina estático IM de emergencia basal pre-paro asfíctic general en cuerdas anafilaxia.",
+                    "Taponamiento Pericárdico post traumático no documentado pre anestesia que enclava flujos; toracostomía de aguja cruzada y drene pericárdico intercostal base estatuto vivo."
+                ],
+                "respuestaCorrecta": "Tórax Leñoso Opioide Intoxicado (Rigidez Torácica Músculo esquelética masiva inducida puramente por inyección flash stat extrema Fentanílica cruzada). Quiebre inminente cruzado estatuto general químico exigiendo miorrelajante periférico ultra-rápido hiper (Succinilcolina o Rocuronio masivo parálisis general relajante del torso) + proceder intubatorio definitivo.",
+                "retroalimentacion": "Respuesta Correcta. El Efecto 'Tórax Leñoso' u Opioid-Induced Chest Wall Rigidity es el pesadillo mas grande de la sala roja de urgencias y choque anestésico novato. Aventar el fentanilo así de golpe traba masivamente los músculos y cuerdas glóticas respiratorias torácicas dejando al pobre paciente como roca firme sellada hermética invencible para el Ambú pre-ventilador y sin poder intubarlo puramente por cuerdas trancadas letales asfícticas totales. No hay Reversal Naloxona veloz vivo para esto a pesar de ser opiode... Solo lo afloja paralizar todos esos músculos de golpe metiendo al instante Bloqueador Neuromuscular Despolarizante y metiendo tubo endotraqueal salvífico a la cañería intubatoria profunda."
+            },
+            {
+                "id": "enf_farmacologia_5_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Fármaco inotrópico positivo y cronotrópico negativo usado en Falla Cardíaca:",
+                "opciones": [
+                    "Epinefrina",
+                    "Lidocaína",
+                    "Digoxina",
+                    "Amiodarona"
+                ],
+                "respuestaCorrecta": "Digoxina",
+                "retroalimentacion": "Aumenta la fuerza de contracción del corazón (inotrópico positivo) pero lo frena para que se relaje mejor (cronotrópico negativo). Es de margen terapéutico muy estrecho (toxicidad fácil)."
+            },
+            {
+                "id": "enf_farmacologia_5_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Antídoto primario para la intoxicación por Benzodiacepinas:",
+                "opciones": [
+                    "Flumazenilo",
+                    "Naloxona",
+                    "Carbón activado",
+                    "Atropina"
+                ],
+                "respuestaCorrecta": "Flumazenilo",
+                "retroalimentacion": "El Flumazenilo compite por los receptores GABA revertiendo el coma inducido por benzodiacepinas (Clonazepam, Diazepam). Ojo: puede inducir convulsiones si hay dependencia crónica."
+            },
+            {
+                "id": "enf_farmacologia_5_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre",
+                    "Cianosis central",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_farmacologia_5_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Sublingual",
+                    "Intravenosa",
+                    "Oral",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_farmacologia_5_5",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "140 / min",
+                    "160 / min",
+                    "100 a 120 / min",
+                    "80 a 100 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            }
+        ],
+        "v2": []
+    }
+}

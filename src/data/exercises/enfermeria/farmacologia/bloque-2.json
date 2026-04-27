@@ -1,0 +1,103 @@
+{
+    "grado": "enfermeria",
+    "materia": "farmacologia",
+    "bloque": 2,
+    "nombre": "Farmacología Básica Nivel 2",
+    "meses": "Evaluación Clínica 2",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🧬 Farmacodinamia Nivel Receptor: Agonistas y Curvas de Dosis\nSi la cinética es el transporte logístico temporal, la Farmacodinamia es la Guerra Termo-mecánica librada en las corazas de la membrana celular humana. Todo es Afinidad, Eficacia y Competencia por el sitio del receptor activo endógeno.\n\n### 1. El Antagonismo Competitivo Reversible (La Competencia Base)\nCientos de resucitaciones se basan en este principio. Cuando una droga (Fentanilo) estimula el Receptor Mu masivamente bloqueando el impulso parasimpático fatal de respirar (Eficacia Tóxica Alta)... administras un Antagonista Competitivo Puro (Naloxona, Afinidad absoluta altísima pero Eficacia CERO nula).\nLa naloxona desplazará por fuerza bruta y afinidad física superior al Opioide, se 'sentará' en el receptor y no le hará nada (bloqueo puro sin activar vía), regresando la respiración milagrosamente a los 15 segundos en el piso de Urgencias.\n> [!IMPORTANTE]\n> La Regla de Oro Toxi-cinética dicta que la Vida Media del Antídoto puede ser más corta que la Vida del Veneno. La Naloxona vive 45 minutos. Si el suicida consumió Metadona (vida 24 h)... a los 45 minutos volverá a caer en paro respiratorio súbito de nuevo si no inicias la infusión goteo adyuvante protectora continua pos-rescate inicial a bomba continua de resguardo intrahospitalario cerrado intermitente.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_farmacologia_2_0",
+                "tipo": "selección",
+                "vineta": "Paciente adicto en presunta intoxicación por opioides pesados de vida larga. Acude en Glasgow 3, ventilando 4 respiraciones por minuto con pupilas puntiformes absolutas bilaterales (Miosis). La enfermera de Urgencias administra 0.4 mg de Naloxona IV STAT. En 10 segundos el paciente abre los ojos y respira violentamente (FR 30). Sin embargo, 60 minutos después, la alarma base enfermería suena de regreso. Encuentras al paciente en azul cianosis y apnea terminal en la camilla secundaria pre-alta hospitalaria asustada.",
+                "pregunta": "¿Qué ignorancia sobre el patrón de Interacción Receptor-Cinética mató a este individuo pre-visto como código superado falso positivo?",
+                "opciones": [
+                    "Tolerancia inversa al metabolito secundario hiperactivo acumulante y tardío hepatobiliar.",
+                    "La falta de Antagonismo Irreversible; el fármaco Naloxona no quemó el receptor endógeno y se soltó provocando convulsión reactiva.",
+                    "Diferencia dramática de Vidas Medias (Renal clearance T1/2); la Naloxona se depuró cruzada antes que el opiáceo sintético de matriz pesada, quien volvió y retomó libremente los receptores vitales MU dejados sueltos.",
+                    "Síndrome Neuroléptico Maligno oculto exógeno detonado puramente por rescates de antagonismo rápido iónico."
+                ],
+                "respuestaCorrecta": "Diferencia dramática de Vidas Medias (Renal clearance T1/2); la Naloxona se depuró cruzada antes que el opiáceo sintético de matriz pesada, quien volvió y retomó libremente los receptores vitales MU dejados sueltos.",
+                "retroalimentacion": "Respuesta Correcta. Esta es una trampa asesina famosa de la urgencia del R1. Naloxona compite maravillosamente, pero dura menos de 1 hr circulando en cuerpo humano. Si tu paciente ingirió Buprenorfina, Fentanilo parches hiperlépticos o Metadona pesada (vivirán todo el día dando guerra celular)... cuando la dosis stat de Naloxona baje de concentración en plasma a la hora 2 de base temporal en urgencias, el veneno opioide endémico seguirá en exceso ahí rondando su sangre masivamente... regresará al receptor vacío recién liberado y recaerá brutalmente en su paro original matando al paciente."
+            },
+            {
+                "id": "enf_farmacologia_2_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Fármaco inotrópico positivo y cronotrópico negativo usado en Falla Cardíaca:",
+                "opciones": [
+                    "Amiodarona",
+                    "Lidocaína",
+                    "Epinefrina",
+                    "Digoxina"
+                ],
+                "respuestaCorrecta": "Digoxina",
+                "retroalimentacion": "Aumenta la fuerza de contracción del corazón (inotrópico positivo) pero lo frena para que se relaje mejor (cronotrópico negativo). Es de margen terapéutico muy estrecho (toxicidad fácil)."
+            },
+            {
+                "id": "enf_farmacologia_2_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Antídoto primario para la intoxicación por Benzodiacepinas:",
+                "opciones": [
+                    "Flumazenilo",
+                    "Carbón activado",
+                    "Naloxona",
+                    "Atropina"
+                ],
+                "respuestaCorrecta": "Flumazenilo",
+                "retroalimentacion": "El Flumazenilo compite por los receptores GABA revertiendo el coma inducido por benzodiacepinas (Clonazepam, Diazepam). Ojo: puede inducir convulsiones si hay dependencia crónica."
+            },
+            {
+                "id": "enf_farmacologia_2_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "100 a 120 / min",
+                    "140 / min",
+                    "80 a 100 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_farmacologia_2_4",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Cianosis central",
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_farmacologia_2_5",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Intramuscular",
+                    "Sublingual",
+                    "Oral"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            }
+        ],
+        "v2": []
+    }
+}

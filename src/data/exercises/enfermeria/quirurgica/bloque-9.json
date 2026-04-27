@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "quirurgica",
+    "bloque": 9,
+    "nombre": "Enfermería Quirúrgica Nivel 9",
+    "meses": "Evaluación Clínica 9",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## Bloqueos Neuromusculares Reversión Quirúrgica",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_quirurgica_9_0",
+                "tipo": "selección",
+                "vineta": "Fin de cirugía y bloqueo no cede, el paciente no ventila.",
+                "pregunta": "¿Antídoto de Rocuronio Masivo?",
+                "opciones": [
+                    "Naloxona intra muscular profunda rápida",
+                    "Flumazenil letárgico",
+                    "Sugammadex en dosis de Rescate In extremis mg/kg dependiente absoluto asimétrico profundo",
+                    "Atropina combinada con sulfato"
+                ],
+                "respuestaCorrecta": "Sugammadex en dosis de Rescate In extremis mg/kg dependiente absoluto asimétrico profundo",
+                "retroalimentacion": "Sugammadex ciclodextrina encapsula a la base del no despolarizante en 60 segundos puros revirtiendo el freno neuromuscular."
+            },
+            {
+                "id": "enf_quirurgica_9_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Cianosis central",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_quirurgica_9_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Oral",
+                    "Intramuscular",
+                    "Sublingual"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_quirurgica_9_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "140 / min",
+                    "160 / min",
+                    "100 a 120 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            }
+        ],
+        "v2": []
+    }
+}

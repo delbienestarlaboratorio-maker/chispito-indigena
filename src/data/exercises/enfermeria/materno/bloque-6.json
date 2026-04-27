@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "materno",
+    "bloque": 6,
+    "nombre": "Materno-Infantil y Pediatría Nivel 6",
+    "meses": "Evaluación Clínica 6",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## Taquipnea Transitoria y SURFACTANTE",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_materno_6_0",
+                "tipo": "selección",
+                "vineta": "Prematuro 32 SDG letargo Dificultad Respiratoria y Silverman 8 puro.",
+                "pregunta": "¿Déficit in situ neonatal intra bronquial hiper profundo biótico asintótico cruzado alveolar base purificada de choque hipóxico?",
+                "opciones": [
+                    "Sangre pura",
+                    "Surfactante Pulmonar base Neumocito Tipo 2 de sostén alveolar",
+                    "Glucagón pancretítico letal cruzado asimétrico biótico",
+                    "Amonio puro letárgico trans barrera."
+                ],
+                "respuestaCorrecta": "Surfactante Pulmonar base Neumocito Tipo 2 de sostén alveolar",
+                "retroalimentacion": "Prematuridad = Falta surfactante pulmonar que evita el colapso alvéolo letárgico induciendo Enfermad de Membrana Hialina (SDR)."
+            },
+            {
+                "id": "enf_materno_6_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Sublingual",
+                    "Intramuscular",
+                    "Oral",
+                    "Intravenosa"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_materno_6_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            },
+            {
+                "id": "enf_materno_6_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "80 a 100 / min",
+                    "160 / min",
+                    "140 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            }
+        ],
+        "v2": []
+    }
+}

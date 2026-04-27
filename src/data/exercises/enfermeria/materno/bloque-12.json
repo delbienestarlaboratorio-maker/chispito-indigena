@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "materno",
+    "bloque": 12,
+    "nombre": "Materno-Infantil y Pediatría Nivel 12",
+    "meses": "Evaluación Clínica 12",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## Embolia de Líquido Amniótico",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_materno_12_0",
+                "tipo": "selección",
+                "vineta": "Puerpera en cesárea profunda de base con paro agudo abrupto cianosis pura mortal al retraer la placenta general despegue intra uterino agudo masivo y choque cardiovascular pulmonar mortal in situ general.",
+                "pregunta": "Entidad asintotica anafiláctica respiratoria mortal súbita de embarazo finalización post incisión y base lecho placentario roto celular letárgico vascular?",
+                "opciones": [
+                    "Choque Láctico biótico de insulina",
+                    "Embolia o Síndrome Anafiláctico Respiratorio de Líquido Amniótico Cruzado venoso torrente vaso espasmo biótico asimétrico trans total celular mortal base sistémica pura.",
+                    "Paro neuroléptico masivo",
+                    "Desmayo hiper tónico vagal base cruzada"
+                ],
+                "respuestaCorrecta": "Embolia o Síndrome Anafiláctico Respiratorio de Líquido Amniótico Cruzado venoso torrente vaso espasmo biótico asimétrico trans total celular mortal base sistémica pura.",
+                "retroalimentacion": "Líquido Amniótico lleno de meconio/pelo entra venulas rotas uterinas atascando el pulmón en paro."
+            },
+            {
+                "id": "enf_materno_12_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "160 / min",
+                    "80 a 100 / min",
+                    "140 / min",
+                    "100 a 120 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_materno_12_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Sublingual",
+                    "Intramuscular",
+                    "Oral"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_materno_12_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Cianosis central",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Fiebre",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

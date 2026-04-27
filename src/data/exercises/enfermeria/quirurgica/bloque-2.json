@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "quirurgica",
+    "bloque": 2,
+    "nombre": "Enfermería Quirúrgica Nivel 2",
+    "meses": "Evaluación Clínica 2",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 🌡️ Hipertermia Maligna Anatómica (El Pánico de Inducción)\nLa HM no es fiebre. Es una tormenta celular termodinámica genética.\n### 1. Receptores de Rianodina (RYR1) Mutantes\nCiertos pacientes heredan un receptor de calcio muscular defectuoso. Cuando tú administras anestesia inhalada (Halotano, Sevoflurano) o Succinilcolina para intubarlos, estos receptores se vuelven locos soltando cascadas de Calcio infinitas dentro del sarcómero del brazo o piernas.\nTodos sus músculos se contraen al 100% de fuerza, consumen todo el oxígeno arterial del cuerpo, y generan tanto calor de fricción microscópica que su temperatura escala un grado Celsius cada 5 minutos!\n> [!IMPORTANTE]\n> ¡La fiebre es el ÚLTIMO SIGNO! El primer signo real en el monitor es que el Capnógrafo (ETCO2) estalla marcando de 35 a mas de 80 mmHg. La cantidad letal de carbónico vomitado por los músculos que se están calcinando nos ahoga el circuito del ventilador sin razón alguna. Ese es el aviso fidedigno y terminal de paro.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_quirurgica_2_0",
+                "tipo": "selección",
+                "vineta": "Inicia apendicectomía a niño de 10 años, bajo anestesia general balanceada (Sevoflurano gas + Rocuronio). Tras la incisión en McBurney, notas estéticamente que su masetero (Mandíbula) está rígido de piedra (Impidiendo ventilación fácil) y la pantalla del Ventilador muestra ETCO2 de 90 mmHg (disparado), taquicardia sostenida a 170 y una temperatura axilar marcando que ha subido a 39.5 C en 15 minutos exactos del cuchillo incisión.",
+                "pregunta": "Bajo tu destreza inminente anestésica... ¿Qué síndrome genofarmacológico ataca, cuál será el gas asfixiante inmediato a suspender y qué antídoto vital exigen inyectores?",
+                "opciones": [
+                    "Sepsis Abdominal Diseminada Purulenta por apéndice rota base - Inyectar Piperacilina base masiva STAT profunda intraoperatoria.",
+                    "Hipertermia Maligna letal celular genética detonada por Halogenados (Sevoflurano) / Suspender gas in vitro in situ base, hiperventilar 100% Oxígeno y solicitar Dantroleno Sódico en bolo urgente purificado profundo en menos de 5 min.",
+                    "Convulsiones febriles atópicas pediátricas basales / Sedar general profundo in situ con Diazepam intratecal cruzado.",
+                    "Falso infundido de epinefrina en lugar de bupivacaína cruzada basificada (Error local) / Iniciar Beta-bloqueador."
+                ],
+                "respuestaCorrecta": "Hipertermia Maligna letal celular genética detonada por Halogenados (Sevoflurano) / Suspender gas in vitro in situ base, hiperventilar 100% Oxígeno y solicitar Dantroleno Sódico en bolo urgente purificado profundo en menos de 5 min.",
+                "retroalimentacion": "Respuesta Correcta. El gas volátil halogenado reventó los candados de calcio del músculo. Es una emergencia de Nivel Rojo. Cortar el sevoflurano (poner Cero gases puros), ventilar con aire cien por ciento oxígeno (Flush de O2 para lavar el circuito que absorbe tóxicos) e ir corriendo al refrigerador por Dantroleno. El Dantroleno bloquea físicamente la liberación estricta de Calcio intra-muscular evitando que el paciente muera fundido de calor a los 42 grados por quemadura mitocondrial celular aguda asimétrica interna generalizada total pre UCI viva."
+            },
+            {
+                "id": "enf_quirurgica_2_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Intravenosa",
+                    "Oral",
+                    "Sublingual",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_quirurgica_2_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "160 / min",
+                    "80 a 100 / min",
+                    "140 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_quirurgica_2_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Bradicardia profunda",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Cianosis central"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

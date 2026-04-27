@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "quirurgica",
+    "bloque": 7,
+    "nombre": "Enfermería Quirúrgica Nivel 7",
+    "meses": "Evaluación Clínica 7",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## Coagulación Extracorpórea Quirúrgica",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_quirurgica_7_0",
+                "tipo": "selección",
+                "vineta": "Hemorragia Quirúrgica mayor de 1 litro intra operatorio.",
+                "pregunta": "¿Solución?",
+                "opciones": [
+                    "Cristaloides frios",
+                    "Coloides + Paquetes globulares en Cell Saver",
+                    "Glucosas puras al 5% estáticas IV",
+                    "Furosemida de diuresis agresiva pre central"
+                ],
+                "respuestaCorrecta": "Coloides + Paquetes globulares en Cell Saver",
+                "retroalimentacion": "Manejo quirúrgico masivo."
+            },
+            {
+                "id": "enf_quirurgica_7_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Intravenosa",
+                    "Sublingual",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_quirurgica_7_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "80 a 100 / min",
+                    "160 / min",
+                    "140 / min",
+                    "100 a 120 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_quirurgica_7_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Fiebre",
+                    "Cianosis central",
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Bradicardia profunda"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}

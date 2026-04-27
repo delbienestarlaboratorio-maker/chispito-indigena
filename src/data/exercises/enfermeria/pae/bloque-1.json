@@ -1,0 +1,75 @@
+{
+    "grado": "enfermeria",
+    "materia": "pae",
+    "bloque": 1,
+    "nombre": "Proceso de Atención (PAE) Nivel 1",
+    "meses": "Evaluación Clínica 1",
+    "temas": [
+        "Fisiopatología",
+        "Normatividad",
+        "Casos Clínicos"
+    ],
+    "teoria": "## 📋 Planes de Cuidados de Enfermería: Diagnóstico por Alteración Hemodinámica (NANDA NIC NOC Avanzado)\nEl PAE hospitalario se transformó de una herramienta de pase a directrices ECMO/Hemo de piso cerrado.\n### 1. Etiqueta Diagnóstica 00029: Disminución del Gasto Cardíaco\nUn Gasto caido frena la diuresis a minutos (< 0.5 ml/kg/hr anuria aguda). Cuando ves un NOC de \"Efectividad de la Bomba Cardíaca Revertida\", la intervención NIC de primer uso será la Titulación Cautelosa Vasoactiva.",
+    "totalEjercicios": 8,
+    "ejercicios": {
+        "v1": [
+            {
+                "id": "enf_pae_1_0",
+                "tipo": "selección",
+                "vineta": "Diagnostico de PAE 'Disminución del Gasto Cardíaco R/C alteración de precarga pos IAM E/P anuria, lactato elevado y piel marmórea plet atroz'.",
+                "pregunta": "¿Actividad de Intervención NIC protocolaria in situ de UCI biológica pura reanimativa pre basal cruzada trans venosa arterial profunda purificada base sistólica?",
+                "opciones": [
+                    "Vigilar llenado capilar sin tocar la unidad letal y documentar.",
+                    "Titular Inotrópico cruzado (Dobutamina endovenosa) monitorizando Índice Cardiaco (IC > 2.2 l/min) vía Termodilución Pura Invasiva Central Catéter Arterial y Swan.",
+                    "Terapia oral hídrica",
+                    "Traslado inminente general asimétrico."
+                ],
+                "respuestaCorrecta": "Titular Inotrópico cruzado (Dobutamina endovenosa) monitorizando Índice Cardiaco (IC > 2.2 l/min) vía Termodilución Pura Invasiva Central Catéter Arterial y Swan.",
+                "retroalimentacion": "Respuesta Correcta. Enfermería Especialista modula la Dobutamina leyendo el Vynk o Swan Ganz dictaminador, midiendo de manera matemática el Indice biótico por metro cuadrado anatómico."
+            },
+            {
+                "id": "enf_pae_1_1",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Vía de administración con biodisponibilidad del 100% inmediata?",
+                "opciones": [
+                    "Oral",
+                    "Sublingual",
+                    "Intravenosa",
+                    "Intramuscular"
+                ],
+                "respuestaCorrecta": "Intravenosa",
+                "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
+            },
+            {
+                "id": "enf_pae_1_2",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "Frecuencia de compresiones torácicas en RCP AHA:",
+                "opciones": [
+                    "100 a 120 / min",
+                    "160 / min",
+                    "140 / min",
+                    "80 a 100 / min"
+                ],
+                "respuestaCorrecta": "100 a 120 / min",
+                "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
+            },
+            {
+                "id": "enf_pae_1_3",
+                "tipo": "selección",
+                "vineta": "",
+                "pregunta": "¿Signo clínico universal temprano de la hipoxia cerebral?",
+                "opciones": [
+                    "Alteración del estado de alerta (Ansiedad)",
+                    "Cianosis central",
+                    "Bradicardia profunda",
+                    "Fiebre"
+                ],
+                "respuestaCorrecta": "Alteración del estado de alerta (Ansiedad)",
+                "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
+            }
+        ],
+        "v2": []
+    }
+}
