@@ -70,6 +70,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_6_0-v2",
+                "tipo": "selección",
+                "vineta": "No vemos pilar anterior ni amigdalas al intubar.",
+                "pregunta": "[Análisis Profundo] ¿Malampatti?",
+                "opciones": [
+                    "I",
+                    "II",
+                    "III",
+                    "IV"
+                ],
+                "respuestaCorrecta": "IV",
+                "retroalimentacion": "Clase IV es vía aérea muy difícil.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

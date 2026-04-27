@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_2_0-v2",
+                "tipo": "selección",
+                "vineta": "Inicia apendicectomía a niño de 10 años, bajo anestesia general balanceada (Sevoflurano gas + Rocuronio). Tras la incisión en McBurney, notas estéticamente que su masetero (Mandíbula) está rígido de piedra (Impidiendo ventilación fácil) y la pantalla del Ventilador muestra ETCO2 de 90 mmHg (disparado), taquicardia sostenida a 170 y una temperatura axilar marcando que ha subido a 39.5 C en 15 minutos exactos del cuchillo incisión.",
+                "pregunta": "[Análisis Profundo] Bajo tu destreza inminente anestésica... ¿Qué síndrome genofarmacológico ataca, cuál será el gas asfixiante inmediato a suspender y qué antídoto vital exigen inyectores?",
+                "opciones": [
+                    "Sepsis Abdominal Diseminada Purulenta por apéndice rota base - Inyectar Piperacilina base masiva STAT profunda intraoperatoria.",
+                    "Hipertermia Maligna letal celular genética detonada por Halogenados (Sevoflurano) / Suspender gas in vitro in situ base, hiperventilar 100% Oxígeno y solicitar Dantroleno Sódico en bolo urgente purificado profundo en menos de 5 min.",
+                    "Convulsiones febriles atópicas pediátricas basales / Sedar general profundo in situ con Diazepam intratecal cruzado.",
+                    "Falso infundido de epinefrina en lugar de bupivacaína cruzada basificada (Error local) / Iniciar Beta-bloqueador."
+                ],
+                "respuestaCorrecta": "Hipertermia Maligna letal celular genética detonada por Halogenados (Sevoflurano) / Suspender gas in vitro in situ base, hiperventilar 100% Oxígeno y solicitar Dantroleno Sódico en bolo urgente purificado profundo en menos de 5 min.",
+                "retroalimentacion": "Respuesta Correcta. El gas volátil halogenado reventó los candados de calcio del músculo. Es una emergencia de Nivel Rojo. Cortar el sevoflurano (poner Cero gases puros), ventilar con aire cien por ciento oxígeno (Flush de O2 para lavar el circuito que absorbe tóxicos) e ir corriendo al refrigerador por Dantroleno. El Dantroleno bloquea físicamente la liberación estricta de Calcio intra-muscular evitando que el paciente muera fundido de calor a los 42 grados por quemadura mitocondrial celular aguda asimétrica interna generalizada total pre UCI viva.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

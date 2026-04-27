@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "100 a 120 por minuto"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_qx_6_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Posición quirúrgica utilizada idealmente para cirugías ginecológicas y urológicas transvaginales:",
+                "opciones": [
+                    "Trendelenburg invertida",
+                    "Litotomía",
+                    "Fowler",
+                    "Decúbito prono"
+                ],
+                "respuestaCorrecta": "Litotomía",
+                "nivel": "v2"
+            }
+        ]
     }
 }

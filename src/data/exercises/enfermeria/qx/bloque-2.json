@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "Alteración del estado de alerta (Letargo/Ansiedad)"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_qx_2_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Posición quirúrgica utilizada idealmente para cirugías ginecológicas y urológicas transvaginales:",
+                "opciones": [
+                    "Decúbito prono",
+                    "Litotomía",
+                    "Fowler",
+                    "Trendelenburg invertida"
+                ],
+                "respuestaCorrecta": "Litotomía",
+                "nivel": "v2"
+            }
+        ]
     }
 }

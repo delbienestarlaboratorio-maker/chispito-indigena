@@ -84,6 +84,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_3_0-v2",
+                "tipo": "selección",
+                "vineta": "Masculino 30 años, TEC Severo por caída de 4 metros. Glasgow de 6, intubado y conectado a un sensor de presión intraparenquimatoso craneal. Los monitores revelan PIC en 32 mmHg y PAM en 70 mmHg (Dando una Presión de Perfusión de apenas 38 mmHg). Una de las pupilas, de pronto, presenta anisocoria (midriasis unilateral arreactiva).",
+                "pregunta": "[Análisis Profundo] ¿Qué triada o constelación neurológica estamos atestiguando y cuál es la maniobra hiperosmolar recomendada por guías?",
+                "opciones": [
+                    "Triada de Cushing con Herniación inminente / Infundir manitol o Salina Hipertónica (bolo STAT) y avisar a Neurocirugía",
+                    "Daño axonal difuso / Administrar Metilprednisolona y bajar la presión arterial rápidamente a menos de 100",
+                    "Muerte Cerebral confirmada / Iniciar trámite legal ante INCUCAI / CENATRA",
+                    "Status epiléptico no convulsivo / Cargar con Tiopental o Midazolam de impregnación"
+                ],
+                "respuestaCorrecta": "Triada de Cushing con Herniación inminente / Infundir manitol o Salina Hipertónica (bolo STAT) y avisar a Neurocirugía",
+                "retroalimentacion": "Respuesta Correcta. La combinación de una PIC masiva que oblitera la perfusión, combinada con un III Par Craneal aplastado (provocando la pupila dilatada arreactiva) es un diagnóstico absoluto de Herniación Uncal. Es un Código de Craniectomía. Se le debe regalar unos preciosos 30 minutos al cirujano enviando dosis letales de Soluciones Hipertónicas o Manitol en bolo STAT, acompañados de hiperventilación transitoria.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

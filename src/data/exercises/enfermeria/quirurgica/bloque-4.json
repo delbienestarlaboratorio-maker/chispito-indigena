@@ -70,6 +70,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_4_0-v2",
+                "tipo": "selección",
+                "vineta": "Infiltración epidural L3-L4 para anestesia lumbar cesárea. Anestesiólogo purga dosis hiperbárica completa de Bupivacaina intratecal errada (cayendo al saco dural profundo en vez del plano epidural periférico). El Nivel de bloqueo subió rápidamente tocando Dermatoma C5 (Tetrápodo Alto cruzado clavicular sensitiva paralela biótica cervical).",
+                "pregunta": "[Análisis Profundo] ¿Qué síntoma letal es premonitorio inmediato de un 'Espinal Total' letal asintótico cardiovascular paralítico y qué intervención mecánica es requerida de choque in vivo?",
+                "opciones": [
+                    "Hipoalgesia del pie plantar pura / Tocar campana y re inyectar volumen anestésico",
+                    "Parálisis Diafragmática (Freno en respiración y voz) a la vez de Desplome Hipotensivo Masivo por Simpatectomía profunda Central asimétrica (Corte químico total espinal) requiriendo Intubación Orotraqueal STAT y Adrenalina infusoria in extremis para contrarrestar fuga vasodilatada choque basificada asintótica medular general letárgica pura cardíaca fatal inerte.",
+                    "Priapismo reactivo o espasmo escleral pupilar in situ / Nada, esperar sedación total",
+                    "Choque Vagotónico inducido puro biliar incesante con fiebre biótica de rebote trans medular basal cruzada y bradicardia masiva refleja inter asfíctica pura vagal asimétrica sin bloqueo ventilatorio asfíctico de cúpula frénica cruzada tóraco nerviosa central celular extrema letal."
+                ],
+                "respuestaCorrecta": "Parálisis Diafragmática (Freno en respiración y voz) a la vez de Desplome Hipotensivo Masivo por Simpatectomía profunda Central asimétrica (Corte químico total espinal) requiriendo Intubación Orotraqueal STAT y Adrenalina infusoria in extremis para contrarrestar fuga vasodilatada choque basificada asintótica medular general letárgica pura cardíaca fatal inerte.",
+                "retroalimentacion": "Respuesta Correcta. La anestesia total espinal (Spinal Total) es un desastre anestésico. En general sube demasiado rápido, apaga y baña las raíces nerviosas medulares del cuello bloqueando el NERVIó FRÉNICO (Dermatomas C3,C4,C5... \"Three, Four, Five, Keep the Diaphragm alive\"). Si apagas la C4 inyectando Mercaína a nivel medular, el sujeto deja de poder mover el diafragma e instantáneamente se asfixia consiente, seguido de hipotensión masiva a los 60/30 en segundos.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

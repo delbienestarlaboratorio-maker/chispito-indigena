@@ -98,6 +98,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_farmacologia_2_0-v2",
+                "tipo": "selección",
+                "vineta": "Paciente adicto en presunta intoxicación por opioides pesados de vida larga. Acude en Glasgow 3, ventilando 4 respiraciones por minuto con pupilas puntiformes absolutas bilaterales (Miosis). La enfermera de Urgencias administra 0.4 mg de Naloxona IV STAT. En 10 segundos el paciente abre los ojos y respira violentamente (FR 30). Sin embargo, 60 minutos después, la alarma base enfermería suena de regreso. Encuentras al paciente en azul cianosis y apnea terminal en la camilla secundaria pre-alta hospitalaria asustada.",
+                "pregunta": "[Análisis Profundo] ¿Qué ignorancia sobre el patrón de Interacción Receptor-Cinética mató a este individuo pre-visto como código superado falso positivo?",
+                "opciones": [
+                    "Tolerancia inversa al metabolito secundario hiperactivo acumulante y tardío hepatobiliar.",
+                    "La falta de Antagonismo Irreversible; el fármaco Naloxona no quemó el receptor endógeno y se soltó provocando convulsión reactiva.",
+                    "Diferencia dramática de Vidas Medias (Renal clearance T1/2); la Naloxona se depuró cruzada antes que el opiáceo sintético de matriz pesada, quien volvió y retomó libremente los receptores vitales MU dejados sueltos.",
+                    "Síndrome Neuroléptico Maligno oculto exógeno detonado puramente por rescates de antagonismo rápido iónico."
+                ],
+                "respuestaCorrecta": "Diferencia dramática de Vidas Medias (Renal clearance T1/2); la Naloxona se depuró cruzada antes que el opiáceo sintético de matriz pesada, quien volvió y retomó libremente los receptores vitales MU dejados sueltos.",
+                "retroalimentacion": "Respuesta Correcta. Esta es una trampa asesina famosa de la urgencia del R1. Naloxona compite maravillosamente, pero dura menos de 1 hr circulando en cuerpo humano. Si tu paciente ingirió Buprenorfina, Fentanilo parches hiperlépticos o Metadona pesada (vivirán todo el día dando guerra celular)... cuando la dosis stat de Naloxona baje de concentración en plasma a la hora 2 de base temporal en urgencias, el veneno opioide endémico seguirá en exceso ahí rondando su sangre masivamente... regresará al receptor vacío recién liberado y recaerá brutalmente en su paro original matando al paciente.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

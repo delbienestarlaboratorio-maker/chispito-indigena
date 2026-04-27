@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_bioquimica_6_0-v2",
+                "tipo": "selección",
+                "vineta": "Ingresa choque séptico por neumonía bilateral adquirida en ventilador. La enfermera intensivista extrae gasometría que refleja: pH 7.20, PCO2 65 mmHg, PO2 55 mmHg. Actualmente se asiste por BVM (Ambú) con oxígeno a 15 Litros/Minuto (FiO2 al 100% / 1.0).",
+                "pregunta": "[Análisis Profundo] ¿Cuál es la interpretación gasométrica principal y el cálculo del Índice de Oxigenación de Horowitz?",
+                "opciones": [
+                    "Acidosis Respiratoria descompensada severa / PAFI de 55",
+                    "Acidosis Mixta y disarmonía renal / PAFI de 150",
+                    "Acidosis Respiratoria compensada / PAFI de 65",
+                    "Alcalosis Mixta con derivación derecha-izquierda / PAFI de 55"
+                ],
+                "respuestaCorrecta": "Acidosis Respiratoria descompensada severa / PAFI de 55",
+                "retroalimentacion": "Respuesta Correcta. El CO2 retenido (65) jala al pH en sentido contrario por la fórmula logarítmica produciendo alta acidez (Acidosis Respiratoria) típica del alvéolo ocluido. La división del PAFI es exacta: PaO2 (55) / FiO2 (1.0) = 55 mmHg. Este es un índice mortal. Un PAFI menor a 150 declara SDRA grave con inminencia de fallecimiento y requerimiento de Intubación PEEP/PRVC inmediata.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

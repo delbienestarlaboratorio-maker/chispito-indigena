@@ -84,6 +84,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_4_0-v2",
+                "tipo": "selección",
+                "vineta": "Adulto en UTI en choque mixto con Lesión Renal Aguda KDIGO-3 oligúrica. Ingresa a terapia de PRISMAFLEX mediada por Anticoagulación Regional con Citrato de Sodio. Horas más tarde, laboratorios revelan que la relación Calcio Total Sistémico vs Calcio Iónico está severamente disparada hacia valores de toxicidad no quelados (Calcio Gapp >2.5).",
+                "pregunta": "[Análisis Profundo] Bajo este contexto de secuestro patológico de electrolitos, ¿qué intoxicación de UCI clásica está ocurriendo silenciosamente?",
+                "opciones": [
+                    "Intoxicación Sistémica por Citrato - El hígado dañado no logra metabolizar el citrato basal regresándolo como bicarbonato.",
+                    "Síndrome de Lisis Tumoral exacerbado por la filtración.",
+                    "Intoxicación exógena accidental por la heparina residual del kit de vías centrales.",
+                    "Calcifilaxis sistémica por infusión excesiva de Cloruro de Calcio base."
+                ],
+                "respuestaCorrecta": "Intoxicación Sistémica por Citrato - El hígado dañado no logra metabolizar el citrato basal regresándolo como bicarbonato.",
+                "retroalimentacion": "Respuesta Correcta. En CRRT, el citrato no debe llegar vivo a la sangre sistémica. Una vez que vuelve al paciente, el hígado humano sano oxida ese citrato y lo destruye de maravilla en unos pocos minutos (Convirtiéndolo en bicarbonato). Si este paciente tenía falla hepática oculta grave, la sangre se atasca de citrato sin metabolizar (marcado por brechas altas entre Calcio Iónico vital y Calcio total 'envuelto en el tóxico'). Puede ocasionar depresión miocárdica refractaria que obliga a detener el protocolo de inmediato.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

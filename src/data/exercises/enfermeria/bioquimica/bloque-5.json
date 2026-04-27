@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_bioquimica_5_0-v2",
+                "tipo": "selección",
+                "vineta": "Paciente femenino internada en post-quirúrgico de resección de tumor en fosa posterior cerebral. Presenta convulsiones severas, habiendo estado bajo infusión protocolar estabilizada de Fenitoína 15 mg/kg dosis total impregnada. La enfermera intensivista sospecha que la paciente podría ser una 'Metabolizadora Extensiva' mediada por genética de CYP2C9.",
+                "pregunta": "[Análisis Profundo] Desde el raciocinio patológico metabólico, ¿qué parámetro se cruza críticamente para demostrar la teoría del Metabolismo Ultra-Rápido?",
+                "opciones": [
+                    "La medición plasmática infraterapéutica (ej. < 10 mcg/mL) de la droga a pesar de cumplir el poso de impregnación miligramo-perfecto.",
+                    "Infiltrado masivo de Leucocitos eosinofilos en orina dictando alergia al fármaco.",
+                    "Una hiper-reacción tónico-clónica generalizada sin focalidad cruzada.",
+                    "Depuración Renal reducida en sedimento de orina de 24 hrs."
+                ],
+                "respuestaCorrecta": "La medición plasmática infraterapéutica (ej. < 10 mcg/mL) de la droga a pesar de cumplir el poso de impregnación miligramo-perfecto.",
+                "retroalimentacion": "Respuesta Correcta. Si el hígado fenotípico de la paciente es un 'Metabolizador Ultrarrápido' o 'Extensivo', sus citocromos destruirán el anticonvulsivante de impregnación antes de que llegue siquiera a la fase terapéutica neuronal. Esto se confirma observando valores de valle infraterapéuticos en sangre, confirmando por qué no ceden las crisis.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

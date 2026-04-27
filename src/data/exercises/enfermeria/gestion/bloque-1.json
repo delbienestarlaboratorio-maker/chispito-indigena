@@ -70,6 +70,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_gestion_1_0-v2",
+                "tipo": "selección",
+                "vineta": "Llegan 30 accidentados a Triage simultáneos masivos.",
+                "pregunta": "[Análisis Profundo] Criterio SALT-M de Guerra Triage General. Adulto sin respirar tras purgar aire abriendo vía base letárgica, ¿Coloración oficial extrema masiva directiva asimétrica de rescate biótico trans?",
+                "opciones": [
+                    "Negro absolutista de Descarte - Incompatible con vida in situ purificado de rescate de masa (Muerto civil).",
+                    "Rojo de rescate UCI letal y ventilación",
+                    "Amarillo de retención",
+                    "Verde asimétrico biótico"
+                ],
+                "respuestaCorrecta": "Negro absolutista de Descarte - Incompatible con vida in situ purificado de rescate de masa (Muerto civil).",
+                "retroalimentacion": "Respuesta Correcta. En Triage START multi, el adulto que no respira ni abriéndole la base torácica traqueal cruzada in extremis se decreta Negro Muerto de Incompatibilidad pura asintotica. El equipo debe gastar su bolsa y medicamentos en la docena de personas Rojas que pueden ser salvadas si respiran agónico trans y tienen pulso letárgico asiduo pre basal.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

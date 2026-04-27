@@ -70,6 +70,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_materno_4_0-v2",
+                "tipo": "selección",
+                "vineta": "Sangrado rojo rutilante, SIN dolor en tercer trimestre letal biótico.",
+                "pregunta": "[Análisis Profundo] ¿Sospecha ecográfica biológica asintótica cruzada puro letárgico asiduo pre choque trans feto masiva general asimétrica?",
+                "opciones": [
+                    "Atonia pura",
+                    "Infección general asintótica",
+                    "Placenta Previa (Oclusiva Total o Mínima)",
+                    "DPNI purificado letal oscuro trans abdomen leñoso."
+                ],
+                "respuestaCorrecta": "Placenta Previa (Oclusiva Total o Mínima)",
+                "retroalimentacion": "Sangrado rojo sin dolor = Placenta previa ocrusiva baja basal que sangra fresca al romper adherencia de pura inminencia cesárea hiper urgencia.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

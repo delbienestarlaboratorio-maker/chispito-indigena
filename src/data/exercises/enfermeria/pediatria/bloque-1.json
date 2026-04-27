@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "Intravenosa"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_pediatria_1_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] ¿En qué semana de gestación se considera a un recién nacido 'A término' por la OMS?",
+                "opciones": [
+                    "37 a 42 semanas",
+                    "34 a 36 semanas",
+                    "Menos de 37 semanas",
+                    "40 a 44 semanas"
+                ],
+                "respuestaCorrecta": "37 a 42 semanas",
+                "nivel": "v2"
+            }
+        ]
     }
 }

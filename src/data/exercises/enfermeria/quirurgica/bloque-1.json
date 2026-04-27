@@ -70,6 +70,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_1_0-v2",
+                "tipo": "selección",
+                "vineta": "Durante una cirugía a corazón abierto (Revascularización CABG), una enfermera circulante externa al equipo estéril se inclina por encima de la mesa de instrumental mayo (cubierta aséptica) para conectar un cable de electrocauterio directamente en el mango del bisturí estéril que sostiene el cirujano cardiovascular.",
+                "pregunta": "[Análisis Profundo] ¿Qué aberración del protocolo estéril universal acaba de suceder in vivo que amerita cambio instrumental masivo inmediato de todo el set de mesa fría?",
+                "opciones": [
+                    "Nada, si la circulante portaba cubrebocas N95 y filipina quirúrgica.",
+                    "Contaminación cruzada por 'Caída de Fómites y Ruptura de Campo Horizontal y Vertical'. Nunca nadie no-estéril puede inclinarse sobre o cruzar por arriba de un campo estéril.",
+                    "Estallido del bisturí mono-polar por carga de derivación falsa por los guantes no estériles húmedos de la circulante externa.",
+                    "Ruptura de la regla de flujo reverso laminar; debió hacerlo caminando desde el fondo por arriba."
+                ],
+                "respuestaCorrecta": "Contaminación cruzada por 'Caída de Fómites y Ruptura de Campo Horizontal y Vertical'. Nunca nadie no-estéril puede inclinarse sobre o cruzar por arriba de un campo estéril.",
+                "retroalimentacion": "Respuesta Correcta. El espacio que rodea un campo estéril se proyecta hacia ARRIBA. Inclinarse, respirar o extender el brazo por encima de esa mesa de instrumental (incluso sin tocarla) permite que descamación natural muerta, cabello, sudor y aerosoles de la ropa no-estéril caigan directamente a las tijeras Metzenbaum o clamps vasculares que irán a las coronarias del paciente induciendo Mediastinitis aguda postoperatoria obligatoria letal innegable hospitalaria.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

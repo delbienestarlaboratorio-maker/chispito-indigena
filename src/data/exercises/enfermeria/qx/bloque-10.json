@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "Troponinas I / T"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_qx_10_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Fase de cicatrización que ocurre entre el día 1 al 4, dominada por macrófagos y neutrófilos:",
+                "opciones": [
+                    "Proliferativa",
+                    "Remodelación",
+                    "Inflamatoria/Exudativa",
+                    "Maduración"
+                ],
+                "respuestaCorrecta": "Inflamatoria/Exudativa",
+                "nivel": "v2"
+            }
+        ]
     }
 }

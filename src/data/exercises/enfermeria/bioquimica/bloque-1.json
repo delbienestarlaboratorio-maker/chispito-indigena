@@ -70,6 +70,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_bioquimica_1_0-v2",
+                "tipo": "selección",
+                "vineta": "Ingresa a Reanimación masculino de 22 años posterior a colisión vehicular de alto impacto. Palidez generalizada, llenado capilar > 5 segundos, PAM de 45 mmHg. Se extrae gasometría arterial revelando: pH 7.15, pCO2 30 mmHg, HCO3 10 mEq/L, Lactato 8.4 mmol/L, Na+ 140 mEq/L, Cl- 105 mEq/L.",
+                "pregunta": "[Análisis Profundo] Con base en la evaluación de los marcadores perfusionales y el entorno metabólico, ¿cuál es el cálculo del Anion Gap y la interpretación fisiopatológica del cuadro?",
+                "opciones": [
+                    "Anion Gap 25 mEq/L - Acidosis Láctica secundaria a Disoxia Celular (Hiperlactatemia Tipo A)",
+                    "Anion Gap 10 mEq/L - Acidosis Respiratoria por retención de CO2",
+                    "Anion Gap 25 mEq/L - Acidosis Láctica por Falla Hepática (Hiperlactatemia Tipo B)",
+                    "Anion Gap 12 mEq/L - Cetoacidosis Traumática Aguda"
+                ],
+                "respuestaCorrecta": "Anion Gap 25 mEq/L - Acidosis Láctica secundaria a Disoxia Celular (Hiperlactatemia Tipo A)",
+                "retroalimentacion": "Respuesta Correcta. Fórmula: Na (140) - [Cl (105) + HCO3 (10)] = 25 mEq/L. Un Anion Gap elevado asociado a un Lactato > 2 mmol/L con PAM de 45 mmHg confirma inequívocamente una hipoperfusión global severa (Desvío Anaeróbico o Tipo A). Administrar cristaloides / sangre de emergencia es el abordaje de primera línea.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

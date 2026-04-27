@@ -70,6 +70,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_11_0-v2",
+                "tipo": "selección",
+                "vineta": "Insuflan a 15 mmHg abdomen de Px sano y la FC baja de 80 a 35 letales en rítmica.",
+                "pregunta": "[Análisis Profundo] ¿Reflejo instaurado cruzado letárgico inducido pre neumático asimétrico agudo por CO2 hiper tensión?",
+                "opciones": [
+                    "Reflejo Vagotónico Vagal Bradicárdico Purificado",
+                    "Taquicardia de punta letárgica",
+                    "Muerte por sangrado",
+                    "Hipotensión inducida medicamentosa"
+                ],
+                "respuestaCorrecta": "Reflejo Vagotónico Vagal Bradicárdico Purificado",
+                "retroalimentacion": "La presión interna abdominal presiona receptores parasimpáticos vagales detonando choque bradicardico que amerita atrofina pre Quirurgica.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

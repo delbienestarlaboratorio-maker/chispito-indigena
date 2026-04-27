@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_fundamentos_1_0-v2",
+                "tipo": "selección",
+                "vineta": "Paciente chocado a causa de Sepsis Urinaria, en goteo masivo de Norepinefrina 0.5 gammas. El brazalete estándar de NIBP (Presión No Invasiva) marca 45/20 mmHg, no detectable al pulso. Alerta general sonando en rojo. Sin embargo, su Línea Arterial Radial (Invasiva recién calibrada nivel Cero al Atrio Derecho) muestra una curva hermosa de 75/40 mmHg constante rítmica al pulso de la onda dicrota.",
+                "pregunta": "[Análisis Profundo] ¿Qué presión dictamina la resucitación real biótica y cuál ignorarás de facto absoluto?",
+                "opciones": [
+                    "Creer ciegamente al brazalete oscilométrico; la línea invasiva Radial miente basal de periférica.",
+                    "Terapéutica Guiada por la Línea Arterial Invasiva. La PANI miente subestimando o asumiendo colapsos en alta vasoconstricción periférica.",
+                    "Hacer un promedio de ambas.",
+                    "Detener noradrenalina por intoxicación."
+                ],
+                "respuestaCorrecta": "Terapéutica Guiada por la Línea Arterial Invasiva. La PANI miente subestimando o asumiendo colapsos en alta vasoconstricción periférica.",
+                "retroalimentacion": "Respuesta Correcta. El brazalete es para piso, la arteria canalizada invasiva es tu única biblia en choque severo. Cuando el vaso arterial periférico se estrangula al máximo por el medicamento, apaga la 'vibración' de la carne, engañando al monitor estándar.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_fundamentos_2_0-v2",
+                "tipo": "selección",
+                "vineta": "Gasometría: pH 7.15, PCO2 60, HCO3 28.",
+                "pregunta": "[Análisis Profundo] Diagóstico base de gasometría simple sin compensación crónico biótica trans:",
+                "opciones": [
+                    "Acidosis Metabólica Pura letal",
+                    "Acidosis Respiratoria Aguda purificada de retención",
+                    "Alcalosis Hiper ventilatoria compensada",
+                    "Error de equipo de gases general"
+                ],
+                "respuestaCorrecta": "Acidosis Respiratoria Aguda purificada de retención",
+                "retroalimentacion": "Retiene C02= Acido respiratorio agudo asintomático biótico.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_microbiologia_5_0-v2",
+                "tipo": "selección",
+                "vineta": "TB MDR (Multidrogoresistente).",
+                "pregunta": "[Análisis Profundo] ¿Resistencia combinada en asilado a cuáles bacilos fármacos?",
+                "opciones": [
+                    "Isoniazida y Rifampicina",
+                    "Etambutol cruzado",
+                    "Pirazinamida pura letárgica asidua",
+                    "Estreptomicina base inerte cruzada sistémica celular biológica asimétrica"
+                ],
+                "respuestaCorrecta": "Isoniazida y Rifampicina",
+                "retroalimentacion": "Resistencia a HR dicta esquema DOTES de segunda línea.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

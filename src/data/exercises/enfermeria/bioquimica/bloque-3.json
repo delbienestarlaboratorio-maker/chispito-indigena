@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_bioquimica_3_0-v2",
+                "tipo": "selección",
+                "vineta": "Masculino de 55 años, con cirrosis etílica Child-Pugh C. Tras episodio de hemorragia de tubo digestivo alto hace 48 h, debuta con desorientación, letargia profunda y aleteo hepático (Asterixis). UREA sérica 110 mg/dL, Creatinina 1.1 mg/dL.",
+                "pregunta": "[Análisis Profundo] ¿Cuál fue el detonante bioquímico de la crisis encefalopática y qué principio farmacológico rige su abordaje inmediato?",
+                "opciones": [
+                    "Absorción masiva de nitrógeno de la sangre digerida; tratar con disacáridos no absorbibles (Lactulosa) para atrapamiento iónico en colon.",
+                    "Deshidratación por varices esofágicas no ligadas; tratar con albúmina purificada intravenosa.",
+                    "Aumento en el catabolismo del glóbulo rojo; tratar con transfusión de hemoderivados lavados.",
+                    "Infección cruzada por traslocación bacteriana; iniciar Ceftriaxona endovenosa forzosa."
+                ],
+                "respuestaCorrecta": "Absorción masiva de nitrógeno de la sangre digerida; tratar con disacáridos no absorbibles (Lactulosa) para atrapamiento iónico en colon.",
+                "retroalimentacion": "Respuesta Correcta. La sangre almacenada en las vísceras rotas del estómago rico en proteínas (hemoglobina). El metabolismo bacteriano intestinal descompuso estas proteínas en amoníaco. El hígado cirrótico, incapaz de procesarlo en su Ciclo de Urea, permitió el paso al cerebro causando asterixis. La lactulosa previene la disociación química intestinal del NH4+.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

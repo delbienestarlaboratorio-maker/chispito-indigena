@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_fundamentos_5_0-v2",
+                "tipo": "selección",
+                "vineta": "Muerte Cerebral oficial documentada pura sin donador activo.",
+                "pregunta": "[Análisis Profundo] Retiro basal ético bio vivo de terapias?",
+                "opciones": [
+                    "Asesinato",
+                    "Adecuación del Esfuerzo Terapéutico y Retiro de soporte (Ortotanasia compasiva base letal)",
+                    "Congelar letárgico",
+                    "Vivir en bomba 10 años puro legal"
+                ],
+                "respuestaCorrecta": "Adecuación del Esfuerzo Terapéutico y Retiro de soporte (Ortotanasia compasiva base letal)",
+                "retroalimentacion": "Dejar morir en paz.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

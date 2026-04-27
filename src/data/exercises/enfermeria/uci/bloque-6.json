@@ -84,6 +84,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_6_0-v2",
+                "tipo": "selección",
+                "vineta": "Adulto masculino obeso, con Influenza H1N1 refractaria. Actualmente transita el día 2 con su soporte respiratorio totalmente delegado al ECMO V-V conectado por vía fémoro-yugular con membrana PMP con un ECMO Blood Flow (Qb) a 4L/m y Sweep Gas a 3 L/m. Gasometría pre-membrana revela pCO2 basal en 80 mmHg. Médicos desean bajar el PCO2 a normalidad post-membrana rápidamente.",
+                "pregunta": "[Análisis Profundo] ¿Qué perilla de la torre del equipo mecánico rige el control estricto de la ventilación (vaciado del CO2 sérico) dentro del consorcio de extracorpóreo?",
+                "opciones": [
+                    "Oxígeno FiO2 Blender de la Membrana PMP a nivel del panel central.",
+                    "Las Revoluciones por Minuto (RPM) del Rotor Magnético Centrifugador para crear presión subatmosférica.",
+                    "La configuración de PEEP superior comandada por el Ventilador Asistencial acoplado a la vía aérea de pared.",
+                    "El Sweep Gas (Flujo de gas barredor administrado directo al oxigenador artificial). A mayor flujo constante, menor será el CO2 del paciente."
+                ],
+                "respuestaCorrecta": "El Sweep Gas (Flujo de gas barredor administrado directo al oxigenador artificial). A mayor flujo constante, menor será el CO2 del paciente.",
+                "retroalimentacion": "Respuesta Correcta. En ECMO, el volumen y las RPM del rotor no impactan grandemente la limpieza del CO2; impactan sólo en el O2 y la perfusión neta. Para borrar la Acidosis Mixta provocada por enormes PCO2 retenidos, el médico le girará al flujo principal del Sweep Gas (El huracán aéreo de barrido purgado) dentro de la membrana. Más aire fresco corriendo como torrente transversal, lava mejor y saca por gradiente molecular el Carbónico en un cerrar de ojos, devolviendo sangre alcalina óptima.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

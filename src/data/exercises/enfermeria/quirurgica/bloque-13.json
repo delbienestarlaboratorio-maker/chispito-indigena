@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_13_0-v2",
+                "tipo": "selección",
+                "vineta": "Placenta accreta histerectomía.",
+                "pregunta": "[Análisis Profundo] ¿Manejo inicial?",
+                "opciones": [
+                    "Sangre cruzada O negativa",
+                    "Clonidina stat",
+                    "Gluconato letárgico trans asimétrico",
+                    "Ceftriaxona stat"
+                ],
+                "respuestaCorrecta": "Sangre cruzada O negativa",
+                "retroalimentacion": "En hemorracia sin frenos vas por O- que es universal.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

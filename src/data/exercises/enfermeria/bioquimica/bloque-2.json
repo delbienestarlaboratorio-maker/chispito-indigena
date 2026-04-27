@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_bioquimica_2_0-v2",
+                "tipo": "selección",
+                "vineta": "Femenina de 68 años con antecedente de DM2. Acude con alteración severa de consciencia (Estupor). Laboratorios: Glucosa 850 mg/dL, pH 7.35, Bicarnobato 22 mEq/L, Sodio Serico 155 mEq/L, Cetonas en orina ausentes. Piel turgente y deshidratación de mucosas +++.",
+                "pregunta": "[Análisis Profundo] ¿Qué mecanismo bioquímico explica la presentación clínica sin desencadenar acidosis cetósica?",
+                "opciones": [
+                    "La presencia de concentraciones residuales de insulina frena la Beta-Oxidación y cetogénesis",
+                    "La paciente sufre una variante genética que le impide sintetizar acetoacetato",
+                    "La edad avanzada promueve el almacenamiento lipídico resistente a catecolaminas",
+                    "Los riñones barrieron las cetonas a tiempo antes de alterar el pH"
+                ],
+                "respuestaCorrecta": "La presencia de concentraciones residuales de insulina frena la Beta-Oxidación y cetogénesis",
+                "retroalimentacion": "Respuesta Correcta. El Estado Hiperosmolar Hiperglucémico (EHH) no debuta con acidosis severa porque el páncreas aún secreta mínimas cantidades de insulina (aprox. 1/10 de lo normal), dosis mínima que inhibe la enzima Lipasa Sensible a Hormonas en los adipocitos, evitando la cascada de cuerpos cetónicos pero causando hiperosmolaridad devastadora (>320 mOsm/kg).",
+                "nivel": "v2"
+            }
+        ]
     }
 }

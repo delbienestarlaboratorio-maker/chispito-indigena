@@ -98,6 +98,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_farmacologia_3_0-v2",
+                "tipo": "selección",
+                "vineta": "Infectología del hospital indica un esquema especial en el paciente de UCI 5 con Choque de Neumonía Nosocomial (Cultivo a Acinetobacter Baumanni en ventilador): Meropenem 2 gramos diluidos en 500 mL, a infundirse en goteo exacto riguroso de no menos de 3 a 4 horas por dosis (Terapia de Infusión Extendida de rescate). Una enfermera junior acelera en el piso la bomba infusora creyendo que un paso boluso corto en 10 minutos 'mata mejor al bicho' y ahorra labor logística del tripié de la UCI base.",
+                "pregunta": "[Análisis Profundo] ¿Por qué biológicamente esta práctica hospitalaria obsoleta condena en absoluto al paciente en fracaso terapéutico masivo letal garantizado por farmacocinética poblacional pura?",
+                "opciones": [
+                    "Porque el fármaco sufre disolución iso-osmolar irreversible con el oxígeno base.",
+                    "Debido al principio Concentración Dependiente absoluto (Cmax/MIC) de las penicilinas donde los picos puros y cráteres no existen in vivo.",
+                    "El Betalactámico destruye la pared bacteriana en síntesis continua celular de división replicativa. Requiere un parámetro (Tiempo > MIC) hiperlargo rodeándola. Un paso ultra rapido decaerá del torrente por riñón en pura diuresis base horas antes de poder ahogar erradicar el inóculo biológico patológico final general resistente.",
+                    "Porque irrita la vena base infundiendo endotelitis pura central que anula los receptores arteriosos macrófagos fagosomales circundantes."
+                ],
+                "respuestaCorrecta": "El Betalactámico destruye la pared bacteriana en síntesis continua celular de división replicativa. Requiere un parámetro (Tiempo > MIC) hiperlargo rodeándola. Un paso ultra rapido decaerá del torrente por riñón en pura diuresis base horas antes de poder ahogar erradicar el inóculo biológico patológico final general resistente.",
+                "retroalimentacion": "Respuesta Correcta. Penicilinas y Carbapenémicos (la mayoría de beta-lactámicos) no matan a lo 'Bruto' ni por pico dosis de choque. Requieres ahogar asediando a las bacterias manteniendo la droga circulante alta durante TODO el espacio vital entre-dosis constante y perpetuo constante base de la media farmacodinamia (60-100% del rango entero entre dosis). En un choque multi-drogo-resistente, esa es la única forma de que su cepa muera por no poder armar membranas nuevas. Pasar el mero en ráfaga (boluso 10 minutos) hace un pico rápido que se irá por orina de inmediato dejando una panacea subterapéutica aséptica mortífera estéril la bacteria remanente las siguientes 7 horas reírse impune generalizada pura total.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

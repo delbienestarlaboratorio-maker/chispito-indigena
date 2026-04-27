@@ -84,6 +84,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_microbiologia_1_0-v2",
+                "tipo": "selección",
+                "vineta": "Urocultivo de sonda vesical arroja 'Bacilos Gram Negativos no fermentadores oxidasa positivos' en paciente de UCI, que transita con fiebre de 40C.",
+                "pregunta": "[Análisis Profundo] Asumiendo un cuadro aséptico puro y su resultado microbiológico, ¿qué patógeno ultra-resistente inferimos letal intrahospitalario y qué cobertura iniciamos base empírica STAT?",
+                "opciones": [
+                    "Staphylococcus Aureus Meticilino Resistente (MRSA) / Cobertura inicial Vancomicina IV o Linezolid.",
+                    "Pseudomonas aeruginosa hiperendémica / Impregnar Terapia Dual Antipseudomónica (Ej. Cefepime + Amikacina o Meropenem).",
+                    "Clostridium Difficile asimétrico profundo base / Iniciar inminente Metronidazol o Vanco oral letárgica base.",
+                    "Escherichia Coli BLEE comunitaria pura cruzada / Dosis bajas ceftriaxona endovenosa cruzada pre alta."
+                ],
+                "respuestaCorrecta": "Pseudomonas aeruginosa hiperendémica / Impregnar Terapia Dual Antipseudomónica (Ej. Cefepime + Amikacina o Meropenem).",
+                "retroalimentacion": "Respuesta Correcta. 'Bacilo Gram Negativo no fermentador' es el apodo de bar de las Pseudomonas en el Triage Microbiológico. Es un asaltante de catéteres hospitalarios y tubos de ventilador que asesina destruyendo por sepsis. Su cobertura obliga iniciar drogas hiper agresivas como Carbapenémicos (Meropenem) y un coadyuvante quinolónico o amínico, de lo contrario la orina del paciente en sepsis no se esterilizará jamás matándolo en 48 hrs.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

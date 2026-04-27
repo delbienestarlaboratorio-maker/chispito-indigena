@@ -84,6 +84,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_5_0-v2",
+                "tipo": "selección",
+                "vineta": "Adulto con choque cardiogénico profundo tras Infarto Cara Anterior. Porta actualmente Balón Intraaórtico de Contrapulsación (BCIAo) ajustado en onda de Ratio 1:1. Repentinamente, el monitor dibuja ondas de inflado sincronizadas en Sístole Activa y tú notas cianosis de cabeza y cuello casi simultánea antes de la alarma.",
+                "pregunta": "[Análisis Profundo] ¿Qué fatalidad en la temporización asincrónica ocurrió sobre el aparato de salvataje que provocó esta falla valvular forzada e hipoperfusión brutal?",
+                "opciones": [
+                    "Inflado Pre-Sistólico Tardío - Ocluyendo la propia expulsión anterógrada del corazón moribundo y reventándolo contra las valvas cerradas.",
+                    "Desinflado Diastólico Precoz que indujo Taponamiento Pericárdico por el helio purgado del robot.",
+                    "Desconexión del sensor EKG que apagó el módulo y dejó desangrar la vía femoral in situ.",
+                    "Falla por infarto transitorio del ventrículo derecho, desvinculado de la mecánica del BCIAo."
+                ],
+                "respuestaCorrecta": "Inflado Pre-Sistólico Tardío - Ocluyendo la propia expulsión anterógrada del corazón moribundo y reventándolo contra las valvas cerradas.",
+                "retroalimentacion": "Respuesta Correcta. El Balón TIENE QUE desinflarse antes de entrar a Sistole (La ola del ventrículo en contracción). Si el robot se cruza y se desregula inflando SU BALÓN estando dentro de la Aorta EXACTAMENTE mientras el Corazón trata de eyectar... el Ventrículo se abolla y destruye mecánicamente tratando de chocar contra un bloque de goma presurizada inflada con helio en media Aorta magna.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

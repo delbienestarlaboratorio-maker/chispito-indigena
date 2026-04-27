@@ -70,6 +70,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_10_0-v2",
+                "tipo": "selección",
+                "vineta": "Posición Trendelenburg por 8 horas con brazos a 120 grados abducidos.",
+                "pregunta": "[Análisis Profundo] ¿Lesión asintótica secundaria esperada post anestesia?",
+                "opciones": [
+                    "Hombro luxado",
+                    "Lesión de Plexo Braquial Isquémica Quirúrgica (Neurapraxia)",
+                    "Fractura de escafoides purificada asimétrica",
+                    "Lesión del nervio obturador general asimétrica"
+                ],
+                "respuestaCorrecta": "Lesión de Plexo Braquial Isquémica Quirúrgica (Neurapraxia)",
+                "retroalimentacion": "Brazos a más de 90 grados abducidos lastiman e isquemian plexo braquial en parálisis temporal irreversible o permanente iatrogénica.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

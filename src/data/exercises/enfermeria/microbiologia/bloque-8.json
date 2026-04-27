@@ -84,6 +84,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_microbiologia_8_0-v2",
+                "tipo": "selección",
+                "vineta": "Trasplante Renal día 40. Debuta falla neumática pura intersticial",
+                "pregunta": "[Análisis Profundo] ¿Bicho letárgico asiduo clásico oportunista pre medicado de receptor cruzado masivo biológico profundo celular post rechazo biótico basificado puro reactivo inmaculado basal?",
+                "opciones": [
+                    "Citomegalovirus (CMV) o Pneumocystis jirovecii (PCP)",
+                    "Tuberculosis Reactivada Letárgica",
+                    "Infección parasitaria pura lútea sistémica masiva",
+                    "Ébola crónico letárgico puro basificado profundo biótico inactivo basal inter tisular viral general trans"
+                ],
+                "respuestaCorrecta": "Citomegalovirus (CMV) o Pneumocystis jirovecii (PCP)",
+                "retroalimentacion": "CMV arrasa con los inmunosuprimidos",
+                "nivel": "v2"
+            }
+        ]
     }
 }

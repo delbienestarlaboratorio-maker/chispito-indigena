@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_12_0-v2",
+                "tipo": "selección",
+                "vineta": "Acidosis hiper clórica secundaria a Sol Salina en Quirófano masivo trans perfusional cruzado asimétrico general.",
+                "pregunta": "[Análisis Profundo] ¿Qué cristaloide dio está acidosis hiper iatrogénica?",
+                "opciones": [
+                    "Solución Salina 0.9 % Normal isótónica en volúmenes gigantescos masivos basales mayores a 5 litros estáticos intravasculares crónicos intraquirófano inducidos masivos de cloro puros mortales pre acidosis",
+                    "Glucosinada 5%",
+                    "Hartmann (Lactato Ringer) puro lactoso asimétrico general",
+                    "Dextranes letales biológicos cruzados de expansión basal puro crónico vascular inter in situ pre hiper osmolar"
+                ],
+                "respuestaCorrecta": "Solución Salina 0.9 % Normal isótónica en volúmenes gigantescos masivos basales mayores a 5 litros estáticos intravasculares crónicos intraquirófano inducidos masivos de cloro puros mortales pre acidosis",
+                "retroalimentacion": "La Salina tiene Cloro a 154 mEq, superando los 100 de la sangre humana. Infundir litros de salina intoxica al paciente de Cloro ocasionando Acidosis Hiperclorémica Iatrógena sin falta por hiper cloro tóxico base intrahospitalario basal.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

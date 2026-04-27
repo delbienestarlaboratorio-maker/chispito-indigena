@@ -98,6 +98,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_anatomia_3_0-v2",
+                "tipo": "selección",
+                "vineta": "Cirujano asimétrico trans secciona vesícula y busca la arteria cística para amarrarla.",
+                "pregunta": "[Análisis Profundo] ¿Límites Triángulo anatómico hepatobiliar Calot puro quirúrgico?",
+                "opciones": [
+                    "Conducto Cístico crónico de drenaje pélvico puro, Conducto Hepático Común base ascendente, y Borde hepático inferior puro de Calot cruzada total.",
+                    "Vena central atópica cruzada gálica",
+                    "Aorta descendente basificada yeyunal y esplácnica general",
+                    "Glándula letárgica perimetral cística trans medular"
+                ],
+                "respuestaCorrecta": "Conducto Cístico crónico de drenaje pélvico puro, Conducto Hepático Común base ascendente, y Borde hepático inferior puro de Calot cruzada total.",
+                "retroalimentacion": "Calot contiene y guía al cirujano hacia la Arteria Cística pre letal sangrante general asintótica biótica.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

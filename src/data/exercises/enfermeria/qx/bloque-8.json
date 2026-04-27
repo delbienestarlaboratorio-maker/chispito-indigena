@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "Intravenosa"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_qx_8_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Solución antiséptica de acción residual recomendada universalmente para preparación prequirúrgica de piel:",
+                "opciones": [
+                    "Agua oxigenada",
+                    "Alcohol etílico 70%",
+                    "Iodopovidona 10%",
+                    "Clorhexidina al 2%"
+                ],
+                "respuestaCorrecta": "Clorhexidina al 2%",
+                "nivel": "v2"
+            }
+        ]
     }
 }

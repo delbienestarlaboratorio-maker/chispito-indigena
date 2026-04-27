@@ -70,6 +70,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_materno_5_0-v2",
+                "tipo": "selección",
+                "vineta": "Fiebre 39C a los 3 días de cesárea dolor en fond uterino y loquios fetidos purulenta",
+                "pregunta": "[Análisis Profundo] Diagnostico?",
+                "opciones": [
+                    "Endometritis puerperal base sepsis pura masiva biótica",
+                    "Hipertensión pura",
+                    "Lactancia retenida letal general",
+                    "Pielonefritis aguda renal"
+                ],
+                "respuestaCorrecta": "Endometritis puerperal base sepsis pura masiva biótica",
+                "retroalimentacion": "Infección ascendente uterina post manipulación fétida.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

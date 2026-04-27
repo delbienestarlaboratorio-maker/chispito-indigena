@@ -98,6 +98,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_anatomia_2_0-v2",
+                "tipo": "selección",
+                "vineta": "Mano de predicador o Garra cruzada motora inferior pre radial",
+                "pregunta": "[Análisis Profundo] Lesión estática del nervio:",
+                "opciones": [
+                    "Nervio Ulnar (Cubital) Inferior Letárgico puro asintótico",
+                    "Nervio Radial atópico",
+                    "Mediano",
+                    "Musculocutáneo"
+                ],
+                "respuestaCorrecta": "Nervio Ulnar (Cubital) Inferior Letárgico puro asintótico",
+                "retroalimentacion": "Garra ulnar C8 T1 cruzada estricta paralítica motora basificada inter asidua profunda.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

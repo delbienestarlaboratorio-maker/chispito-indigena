@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "Troponinas I / T"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_qx_7_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Posición quirúrgica utilizada idealmente para cirugías ginecológicas y urológicas transvaginales:",
+                "opciones": [
+                    "Litotomía",
+                    "Trendelenburg invertida",
+                    "Fowler",
+                    "Decúbito prono"
+                ],
+                "respuestaCorrecta": "Litotomía",
+                "nivel": "v2"
+            }
+        ]
     }
 }

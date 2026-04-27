@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_11_0-v2",
+                "tipo": "selección",
+                "vineta": "Adulto geriátrico con antecedente EPOC intubado en anestesia general por laparoscopía aguda biliar urgente. Usamos Propofol TCI de modelo paramétrico Schnider. Repentineamente en media hora tres, el neuro-monitor frontal cerebral del BIS arroja picos súbitos salientes subiendo de base 45 a letales 85 con EMG (electromiografía frente facial del paciente) registrando temblor contráctil masivo por onda residual rítmica sin movimiento macroscópico porque el paciente tiene un bloqueo neuromuscular periférico químico completo instaurado activo inamovible (Rocuronio estricto).",
+                "pregunta": "[Análisis Profundo] ¿Qué aberración anestésico-técnica indica la pantalla monitor y la intervención médica inmediata para este caos crítico oculto?",
+                "opciones": [
+                    "El paciente está sufriendo muerte cerebral y los picos son de isquemia global basal irreversible. Se debe reanimar inotrópicamente sin alterar la sedoanalgesia.",
+                    "Awareness Intraoperatorio Paralizado (Despertar bajo química): El paciente está total y absolutamente consciente pero congelado y atrapado físicamente; administrar de rescate un incremento TCI urgente concentrado al Cerebro de 2.0 mcg/L target plasma propofol.",
+                    "Ataque epiléptico no convulsivo enclavado en médula / Infundios anticonvulsivante Valproico de fondo incesante.",
+                    "Falso corte instrumental de interferencia de escalpelo eléctrico radio-frecuencia electroquirúrgico / No hacer modificación porque es ruido de la consola del bisturí."
+                ],
+                "respuestaCorrecta": "Awareness Intraoperatorio Paralizado (Despertar bajo química): El paciente está total y absolutamente consciente pero congelado y atrapado físicamente; administrar de rescate un incremento TCI urgente concentrado al Cerebro de 2.0 mcg/L target plasma propofol.",
+                "retroalimentacion": "Respuesta Correcta. El escenario más terrible y penalizado humanamente en la psique del paciente moderno. Ocurrió un Despertar Intraoperatorio ocultado porque el Bloqueante de los músculos periférico estaba durando más que el Dormicum Cefálico central, atrapándolo en la inmovilidad consiente. Los sensores cerebrales (BIS a 85 es corteza despierta o pre alerta analítica) capturaron sutilmente la contracción microscópica pura de angustia del músculo corrugador de las cejas frontales intentando quejarse del estrés de incisión abdominal.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

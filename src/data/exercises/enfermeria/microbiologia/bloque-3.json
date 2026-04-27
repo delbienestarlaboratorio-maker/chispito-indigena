@@ -84,6 +84,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_microbiologia_3_0-v2",
+                "tipo": "selección",
+                "vineta": "Candidiasis invasiva candidemia purificada.",
+                "pregunta": "[Análisis Profundo] ¿Terapia candidemia asimilada pura cruzada?",
+                "opciones": [
+                    "Eradicación cruzada asimétrica inter biótica",
+                    "Fluconazol masivo o Equinocandinas caspofunginas endovenosas puros base infundido",
+                    "Amoxicilina",
+                    "Meropenem cruzado"
+                ],
+                "respuestaCorrecta": "Fluconazol masivo o Equinocandinas caspofunginas endovenosas puros base infundido",
+                "retroalimentacion": "Equinocandinas rompen pared fúngica.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

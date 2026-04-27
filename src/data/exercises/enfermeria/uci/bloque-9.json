@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_9_0-v2",
+                "tipo": "selección",
+                "vineta": "Ingresa joven de 24 años posterior a una toma suicida documentada por más de 50 tabletas de labetalol hipertensivo paterno. El electrocardiograma basal grita latidos a un PR elongado infinito desvaneciéndose en Bradicardia a 25 latidos por minuto. PAM en 35 inactiva y piel marmoleada reticular hipóxica terminal. RCP básica a punto de ser ejecutada por guardia, pero los atropínicos y epinefrínicos IV dados periféricamente fallan absolutamente de arrancar un ritmo por encima de los 30lpm con shock mortal.",
+                "pregunta": "[Análisis Profundo] ¿Qué intervención endovenosa inmediata re-direccionará el inotropismo directo a nivel de AMPc evadiendo la cascada letal adrenérgica amordazada del corazón?",
+                "opciones": [
+                    "Infundir Noradrenalina pesada por bomba continua superior a los 1.5 gammas para forzar los alfadrenérgicos vasculares",
+                    "Cloruro de Calcio gluconado junto a hiperinfusión de Magnesio de rescate fibrilante",
+                    "Bolo endovenoso de Glucagón e iniciar marcapasos transcutáneo simultáneo puente de contención inminente",
+                    "Hemodiálisis extendida con Carbón Activado Hemoperfuso in situ."
+                ],
+                "respuestaCorrecta": "Bolo endovenoso de Glucagón e iniciar marcapasos transcutáneo simultáneo puente de contención inminente",
+                "retroalimentacion": "Respuesta Correcta. El antídoto principal es el Glucagón y requiere un marcapasos por puente debido a la corta vida de los isótopos del fármaco (15 minutos aprox de rebote hormonal inotrópico). No puedes usar Adrenalina/Dobutamina y demás porque literalmente es como gritar delante de una persona que trae tapones de oído de concreto y titanio (los receptores beta están super bloqueados masivos irreversibles farmacológicamente a esas concentraciones altísimas). El glucagón usa otra cerradura a nivel del Sarcolema permitiendo al calcio fluir e iniciando latidos a fuerza.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

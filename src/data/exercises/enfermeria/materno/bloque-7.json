@@ -70,6 +70,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_materno_7_0-v2",
+                "tipo": "selección",
+                "vineta": "Prematuro puro 30 sdg chocado ventilado que expande fontanelas cefálicas.",
+                "pregunta": "[Análisis Profundo] Peligro cerebral prematuro?",
+                "opciones": [
+                    "Hemorragia de Matriz Germinal Intraventricular Pediátrica masiva.",
+                    "Atresia base estática",
+                    "Muerte cardíaca cruzada asimétrica",
+                    "Onfalocele letárgico general asidua extrema viva."
+                ],
+                "respuestaCorrecta": "Hemorragia de Matriz Germinal Intraventricular Pediátrica masiva.",
+                "retroalimentacion": "Vasos cerebrales frágiles prematuros revientan por cambios de presión ventilatoria letales UCI NEO.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

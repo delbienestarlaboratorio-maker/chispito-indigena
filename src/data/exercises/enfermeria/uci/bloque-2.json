@@ -84,6 +84,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_2_0-v2",
+                "tipo": "selección",
+                "vineta": "Paciente masculino con EPOC severo en ventilación mecánica invasiva. La gráfica de Flujo-Tiempo no llega a la línea cero ('0') basal al concluir la espiración antes de iniciar el siguiente ciclo. Minutos después debuta con hipotensión severa súbita (60/30) y distensión yugular masiva sin sangrado visible.",
+                "pregunta": "[Análisis Profundo] ¿Qué patología obstructiva-mecánica desencadenó este choque cardiogénico secundario y cómo se resuelve de forma ultra-rápida?",
+                "opciones": [
+                    "Tromboembolia Pulmonar central - Administrar Trombólisis de rescate (Alteplasa)",
+                    "Auto-PEEP masivo que ocluye la Vena Cava - Desconectar del circuito ventilatorio y presionar el tórax",
+                    "Falso choque por falla de sensor invasivo - Lavar línea arterial con heparina",
+                    "Neumotórax a tensión puro - Aguja de descompresión en segundo espacio."
+                ],
+                "respuestaCorrecta": "Auto-PEEP masivo que ocluye la Vena Cava - Desconectar del circuito ventilatorio y presionar el tórax",
+                "retroalimentacion": "Respuesta Correcta. Esta es una complicación mecánica mortal clásica del EPOC intubado. Al no completarse el vaciado del pulmón (Flujo que no vuelve a cero en la gráfica de espiración), el aire se apila por minutos creando presiones intrapleurales gigantescas (>40 cmH2O). Esto comprime la Vena Cava Inferior y apaga el retorno de sangre al corazón causando el desplome hemodinámico. Desconectar el ventilador resuelve la sobrepresión casi mágicamente en segundos.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

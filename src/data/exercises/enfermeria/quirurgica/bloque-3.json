@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_3_0-v2",
+                "tipo": "selección",
+                "vineta": "Finalizando Cirugía Abierta de Trauma (Damage Control), el cirujano inicia cierre rápido de pared. Al terminar el cierre, te percatas que faltan 2 compresas grandes en tu recuento final base sucio manchado.",
+                "pregunta": "[Análisis Profundo] ¿Qué protocolo médico-administrativo de asilo letal debe interrogar e imponer una circulante firme al equipo base de Cierre intraoperatorio agudo?",
+                "opciones": [
+                    "Reportar la falta en notas pero firmar cierre y mandar al paciente a fluoroscopía radiológica piso UCI cruzando el puente pre hospitalario general aséptico.",
+                    "Informar inminente: 'Recuento Incorrecto'. Detener e Invalidar el cierre; ordenar abrir el peritoneo, buscar y extraer compresa textil retenida antes del abandono del área quirúrgica y notificar legal de incidente si no se halla requiriendo Placa portatil 'STAT' incisión abierta en cama.",
+                    "Buscar en la bata del doctor y esperar unas horas post extubado sin decirle pre-ansiedad.",
+                    "Tirar y falsificar la hoja para evitar la nota punitiva administrativa de jefe de quirúrgicas in situ."
+                ],
+                "respuestaCorrecta": "Informar inminente: 'Recuento Incorrecto'. Detener e Invalidar el cierre; ordenar abrir el peritoneo, buscar y extraer compresa textil retenida antes del abandono del área quirúrgica y notificar legal de incidente si no se halla requiriendo Placa portatil 'STAT' incisión abierta en cama.",
+                "retroalimentacion": "Respuesta Correcta. El Textiloma o Compresa olvidada mata al sujeto al mes por fístulas intestinales o adherencias fibróticas purulentas. Tu voz en el Quirófano es MANDATO legal. Gritas cuenta incorrecta y se abre el paciente o se solicita Fluoroscopía Rayos X portátil AHÍ EN LA CAMA con el campo semiabierto (Las compresas quirúrgicas tienen un filamento de BARIO radio opaco de Seguridad que brilla blanco en radiología extrema para buscarlas escondidas detrás de los hígados y colon asintóticos rebotados de trauma abdominal duro y masivo general).",
+                "nivel": "v2"
+            }
+        ]
     }
 }

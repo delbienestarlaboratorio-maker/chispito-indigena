@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "14G o 16G (Naranja / Gris)"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_qx_5_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Fase de cicatrización que ocurre entre el día 1 al 4, dominada por macrófagos y neutrófilos:",
+                "opciones": [
+                    "Maduración",
+                    "Inflamatoria/Exudativa",
+                    "Remodelación",
+                    "Proliferativa"
+                ],
+                "respuestaCorrecta": "Inflamatoria/Exudativa",
+                "nivel": "v2"
+            }
+        ]
     }
 }

@@ -70,6 +70,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_materno_6_0-v2",
+                "tipo": "selección",
+                "vineta": "Prematuro 32 SDG letargo Dificultad Respiratoria y Silverman 8 puro.",
+                "pregunta": "[Análisis Profundo] ¿Déficit in situ neonatal intra bronquial hiper profundo biótico asintótico cruzado alveolar base purificada de choque hipóxico?",
+                "opciones": [
+                    "Sangre pura",
+                    "Surfactante Pulmonar base Neumocito Tipo 2 de sostén alveolar",
+                    "Glucagón pancretítico letal cruzado asimétrico biótico",
+                    "Amonio puro letárgico trans barrera."
+                ],
+                "respuestaCorrecta": "Surfactante Pulmonar base Neumocito Tipo 2 de sostén alveolar",
+                "retroalimentacion": "Prematuridad = Falta surfactante pulmonar que evita el colapso alvéolo letárgico induciendo Enfermad de Membrana Hialina (SDR).",
+                "nivel": "v2"
+            }
+        ]
     }
 }

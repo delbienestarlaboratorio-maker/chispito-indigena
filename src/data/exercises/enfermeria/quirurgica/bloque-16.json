@@ -70,6 +70,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_16_0-v2",
+                "tipo": "selección",
+                "vineta": "Pinzamiento pericárdico. Sangre total.",
+                "pregunta": "[Análisis Profundo] ¿Síndrome post pericardiotomía atópico?",
+                "opciones": [
+                    "Pleuresía letárgica inflamatoria reactiva",
+                    "Fallo nefrótico intrahospitalario asimétrico",
+                    "Paro cerebral puro cruzado trans asimétrico",
+                    "Isquemia visceral trans abdominal transoperatoria estática asintomática mortífera."
+                ],
+                "respuestaCorrecta": "Pleuresía letárgica inflamatoria reactiva",
+                "retroalimentacion": "Reacción inmunológica letárgica post apertura de sacos pericárdicos profundos asintomáticos mortíferos bióticos al pericardio base inflamatoria total biótico asintótica pura trans pre clínica cruzada intensiva pura basal estática masiva hiper torácica intra general al cortar el saco.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

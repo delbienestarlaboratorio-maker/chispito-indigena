@@ -98,6 +98,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_farmacologia_1_0-v2",
+                "tipo": "selección",
+                "vineta": "Ingresa paciente hiper-obeso (IMC 50) y anasárquico cursando con Choque Séptico abdominal. Inician Vancomicina empírica. El médico base prescribe 1 gramo IV cada 12 hrs basado en el peso magro ideal por temor a la falla renal (Creatinina 1.5). A las 24 horas, el paciente se deteriora y el cultivo revela S. Aureus MRSA, pero el nivel de Vancomicina en valle sérico es de apenas 4 mcg/mL (Sub-terapéutico grave, lo ideal es 15-20).",
+                "pregunta": "[Análisis Profundo] ¿Qué principio puramente farmacocinético falló y fue ignorado durante la prescripción original que matará al paciente de la infección por no combatirla?",
+                "opciones": [
+                    "Fallo en interpretar el Clearance Hepático de Vancomicina.",
+                    "Subestimar el masivo Aumento en el Volumen de Distribución (Vd) provocado por el estado de Sepsis-Edema general induciendo que la dosis única base no alcance concentración letal en tejido profundo.",
+                    "El peso excesivo de la grasa alteró el metabolismo de fase 2 por conjugación del antibiótico hidrosoluble.",
+                    "Infundir con Solución Glucosada provocó la quelación molecular de la Vancomicina impidiendo su vida media bactericida."
+                ],
+                "respuestaCorrecta": "Subestimar el masivo Aumento en el Volumen de Distribución (Vd) provocado por el estado de Sepsis-Edema general induciendo que la dosis única base no alcance concentración letal en tejido profundo.",
+                "retroalimentacion": "Respuesta Correcta. El paciente anasárquico séptico tiene un 'Tercer Espacio' repleto de lagos de líquido tóxico corporal de fuga. Al inyectar un fármaco hidrofílico puro (Vancomicina o Beta-Lactámicos), la droga se fugará a todo ese líquido perdiéndose dentro y la sangre jamás alcanzará la dosis de matar. En choques agudos siempre debe incrementarse radicalmente LA DOSIS DE IMPEGNA (Primer dosis agresiva de impacto al peso máximo estimado real) inclusive asumiendo riesgo renal agudo; de lo contrario matará primero la bacteria antes que el daño tubular agudo asintomático posterior.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

@@ -70,6 +70,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_5_0-v2",
+                "tipo": "selección",
+                "vineta": "Paciente en UCPA con Aldrete de 5.",
+                "pregunta": "[Análisis Profundo] ¿Cuál es la escala principal de alta anestésica?",
+                "opciones": [
+                    "Glasgow",
+                    "Aldrete",
+                    "Ramsay",
+                    "SOFA"
+                ],
+                "respuestaCorrecta": "Aldrete",
+                "retroalimentacion": "Aldrete evalúa consciencia, color, circulación, respiración y O2.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

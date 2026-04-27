@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "Troponinas I / T"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_pediatria_9_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Valor APGAR considerado 'Normal o Sin depresión' al primer y quinto minuto:",
+                "opciones": [
+                    "Más de 15 puntos",
+                    "4 a 6 puntos",
+                    "7 a 10 puntos",
+                    "0 a 3 puntos"
+                ],
+                "respuestaCorrecta": "7 a 10 puntos",
+                "nivel": "v2"
+            }
+        ]
     }
 }

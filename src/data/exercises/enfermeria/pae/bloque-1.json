@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_pae_1_0-v2",
+                "tipo": "selección",
+                "vineta": "Diagnostico de PAE 'Disminución del Gasto Cardíaco R/C alteración de precarga pos IAM E/P anuria, lactato elevado y piel marmórea plet atroz'.",
+                "pregunta": "[Análisis Profundo] ¿Actividad de Intervención NIC protocolaria in situ de UCI biológica pura reanimativa pre basal cruzada trans venosa arterial profunda purificada base sistólica?",
+                "opciones": [
+                    "Vigilar llenado capilar sin tocar la unidad letal y documentar.",
+                    "Titular Inotrópico cruzado (Dobutamina endovenosa) monitorizando Índice Cardiaco (IC > 2.2 l/min) vía Termodilución Pura Invasiva Central Catéter Arterial y Swan.",
+                    "Terapia oral hídrica",
+                    "Traslado inminente general asimétrico."
+                ],
+                "respuestaCorrecta": "Titular Inotrópico cruzado (Dobutamina endovenosa) monitorizando Índice Cardiaco (IC > 2.2 l/min) vía Termodilución Pura Invasiva Central Catéter Arterial y Swan.",
+                "retroalimentacion": "Respuesta Correcta. Enfermería Especialista modula la Dobutamina leyendo el Vynk o Swan Ganz dictaminador, midiendo de manera matemática el Indice biótico por metro cuadrado anatómico.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

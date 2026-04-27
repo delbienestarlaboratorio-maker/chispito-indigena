@@ -84,6 +84,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_fundamentos_3_0-v2",
+                "tipo": "selección",
+                "vineta": "Trauma choque",
+                "pregunta": "[Análisis Profundo] ¿Qué líquido reanima per se?",
+                "opciones": [
+                    "Dextrosa",
+                    "Salina o Hartmann lactosuero puro atópico",
+                    "Coloides albúmina exclusiva",
+                    "Agua inyectable"
+                ],
+                "respuestaCorrecta": "Salina o Hartmann lactosuero puro atópico",
+                "retroalimentacion": "Líquidos isotónicos reponen intravasculares agudos.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

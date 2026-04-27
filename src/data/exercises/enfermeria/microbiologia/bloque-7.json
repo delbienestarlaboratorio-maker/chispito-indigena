@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_microbiologia_7_0-v2",
+                "tipo": "selección",
+                "vineta": "Diarrea incesante en piso 2 tras 20 días de Imipenem estático cruzado biótico.",
+                "pregunta": "[Análisis Profundo] ¿Toxina cruzada base intestinal pura mortífera aislada endocolítica?",
+                "opciones": [
+                    "Megacolon viral",
+                    "Toxina A y B de Clostridium Difficile Pseudomembranoso",
+                    "Entamoeba letal pura cruzada hemo",
+                    "Rotavirus atópico deshidratante hiper"
+                ],
+                "respuestaCorrecta": "Toxina A y B de Clostridium Difficile Pseudomembranoso",
+                "retroalimentacion": "Antibiótico barre con microflora permitiendo proliferación mortal biológica cruzada in vivo C. Diff",
+                "nivel": "v2"
+            }
+        ]
     }
 }

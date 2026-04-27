@@ -70,6 +70,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_materno_3_0-v2",
+                "tipo": "selección",
+                "vineta": "Triada de hemolisis enzimas y plaquetas",
+                "pregunta": "[Análisis Profundo] Marcadores HELLP?",
+                "opciones": [
+                    "Hemolysis, Elevated Liver, Low Platelets",
+                    "Hypertension Eclampsia Letal",
+                    "Trombosis pura",
+                    "Derrame masivo"
+                ],
+                "respuestaCorrecta": "Hemolysis, Elevated Liver, Low Platelets",
+                "retroalimentacion": "HELLP es catastrofe endotelial.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

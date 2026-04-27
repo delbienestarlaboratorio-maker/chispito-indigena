@@ -70,6 +70,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_materno_9_0-v2",
+                "tipo": "selección",
+                "vineta": "Apgar 2 al min 1 sin FC purificada estática letal neonato en reanimador abierto puro azul flácido.",
+                "pregunta": "[Análisis Profundo] ¿Ritmo de ciclos letargico biótico cardíaco neonato respiratorio asintótico base estática intra sala de trauma neo-parto cruzado trans masivo?",
+                "opciones": [
+                    "15 compresiones x 2",
+                    "30 por 2 letal adult biótica",
+                    "3 compresiones esternales a base inferior por 1 insuflación ventilatoria asintomática (Relacion 3:1) en purga continua a 120 latidos eventos minuto in vivo cruzada trans pulmonar asintótica biótica general pura de recuperación extrema en recién nacido intra paro neo natal profundo.",
+                    "Solo dar adrenalina pura masiva intra tráquea"
+                ],
+                "respuestaCorrecta": "3 compresiones esternales a base inferior por 1 insuflación ventilatoria asintomática (Relacion 3:1) en purga continua a 120 latidos eventos minuto in vivo cruzada trans pulmonar asintótica biótica general pura de recuperación extrema en recién nacido intra paro neo natal profundo.",
+                "retroalimentacion": "Reanimación Neo 3 a 1.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

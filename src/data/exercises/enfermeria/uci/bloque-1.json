@@ -84,6 +84,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_1_0-v2",
+                "tipo": "selección",
+                "vineta": "Ingresa paciente femenino de 160 cm de altura y 125 kg (IMC 48) cursando SDRA severo por Neumonía. El residente configura el ventilador en VCV, ordenando un Volumen Tidal de 800 mL basado en los 125 kg que marca la báscula.",
+                "pregunta": "[Análisis Profundo] Bajo la óptica de la Ventilación Mecánica Protectora, ¿cuál es tu intervención clínica inmediata al visualizar este parámetro?",
+                "opciones": [
+                    "Aceptar la indicación, ya que la grasa torácica restringe el flujo base.",
+                    "Detener la maniobra y recalcular el Vol Tidal a 6 mL/kg sobre su PESO IDEAL calculado por altura, bajando a ~350 mL.",
+                    "Aumentar el PEEP a 20 cmH2O para vencer la coraza abdominal.",
+                    "Cambiar a modo Presión Soporte y retirar inmediatamente toda la sedación."
+                ],
+                "respuestaCorrecta": "Detener la maniobra y recalcular el Vol Tidal a 6 mL/kg sobre su PESO IDEAL calculado por altura, bajando a ~350 mL.",
+                "retroalimentacion": "Respuesta Correcta. El Volutrauma ocurre por obviar la física torácica. La obesidad añade grasa externa, pero la caja pleural y el tejido pulmonar no crecen. Ventilarla con 800 mL generará un desgarro alveolar masivo y un neumotórax hipertensivo inmediato. El cálculo siempre es sobre el Peso Predicho (Ideal) por Altura.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

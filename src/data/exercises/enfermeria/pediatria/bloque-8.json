@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "Alteración del estado de alerta (Letargo/Ansiedad)"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_pediatria_8_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Reflejo primario neonatal donde el infante abre los brazos simulando un abrazo tras un estímulo súbito:",
+                "opciones": [
+                    "Prensión palmar",
+                    "Reflejo de Moro",
+                    "Búsqueda",
+                    "Babinski"
+                ],
+                "respuestaCorrecta": "Reflejo de Moro",
+                "nivel": "v2"
+            }
+        ]
     }
 }

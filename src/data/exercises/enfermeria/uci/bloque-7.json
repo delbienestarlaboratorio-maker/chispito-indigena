@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_7_0-v2",
+                "tipo": "selección",
+                "vineta": "Masculino de 55 post-IAM cardiogénico masivo letal. Colocado en Choque profundo sobre puente a destino con ECMO V-A Periférico (Cánula de extracción Venosa Yugular - y Arterial Femoral Izquda en retorno de 5 L/Min). A las 8 horas post intervención se descubre que el color de la piel del paciente y saturación se divide anatómicamente: De la cintura para abajo un tono rosado (SatO2 99%), mientras el labio superior, coronarias y cerebro lucen azulados (cianóticos severos con SatO2 75% extraída Radial Dcha).",
+                "pregunta": "[Análisis Profundo] ¿Qué demonio hemodinámico del ECMO Periférico desencadenó este choque divisorio letal superior de oxigenación hipóxica neurogénica?",
+                "opciones": [
+                    "Falla por coágulo inminente formándose en el rotor estático del equipo Pulsion.",
+                    "Síndrome de Harlequín (North-South Syndrome) originado por competencia y rechazo de la propia función miocárdica remanente del paciente con pulmones sin vida.",
+                    "Necrosis avascular generalizada del pie ipsilateral dislocado hacia el ventrículo en síncope asimétrico.",
+                    "Shunt intrapulmonar residual al no conectar correctamente la heparina regional asincrónica al panel de control de gases."
+                ],
+                "respuestaCorrecta": "Síndrome de Harlequín (North-South Syndrome) originado por competencia y rechazo de la propia función miocárdica remanente del paciente con pulmones sin vida.",
+                "retroalimentacion": "Respuesta Correcta. Fascinante fenómeno vascular del Alto Mando. El Corazón 'Dañoso o Muerto' del paciente de hecho emitió ligeras señales de vida (mejoría) por fármacos... comenzó a empujar de nuevo y lanzar latidos hacia arriba irrigando su propia Aorta torácica, PERO los pulmones biológicos seguían podridos por Neumonía (Sin ECMO pulmonar real), así que el corazón enviaba Sangre Azul no oxigenada directo al polígono craneal y coronarias. Mientas tanto, en el ombligo y piernas, la cascada perfecta del ECMO fémoral chocaba contra esa ola natural en el centro del tórax creando un escudo de presión letal donde la sangre nueva no cruza el Arco aórtico provocando muerte cerebral cianótica por competencia fisiológica residual.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

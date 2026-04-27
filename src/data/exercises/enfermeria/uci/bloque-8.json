@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_uci_8_0-v2",
+                "tipo": "selección",
+                "vineta": "Mujer geriátrica de 80 años en UCI con Sepsis Grave Urinaria y marasmo nutricional hospitalario agudo severo basal. Sus laboratorios del día extraen una Albúmina Sérica trágica de 1.8 Vol% (Rango Normal >3.5). Le sacamos gasometría en choque séptico con Anion Gap reportado base de Urgencias en '11 miliequivalentes teóricos normofisiológicos aparentes ocultando falla'.",
+                "pregunta": "[Análisis Profundo] Aplicando el entendimiento intensivo real de Figge-Stewart, ¿qué sucede con este paciente mal valorado clínicamente?",
+                "opciones": [
+                    "Dado que se reportó a 11 de Gap, se excluye intoxicaciones y se maneja como acidosis hiperclorémica por infusión cristaloide base pura en reanimación errática.",
+                    "Al poseer hipoalbuminemia tan extrema, tiene una Acidosis Láctica encubierta enorme. Su Anion Gap real corregido andará por los 16+ mEq/L indicando altísimo peligro.",
+                    "El Lactato es inofensivo porque las proteínas rotas de la albúmina se encargan de metabolizarse en Acetoacetato y suplantan la deficiencia pirúvica central de base.",
+                    "Debe iniciarse una infusión en bolo STAT de Plasma Fresco Congelado exógeno empírico y evaluar Gap a la hora en un escenario mixto de hemodilución controlada."
+                ],
+                "respuestaCorrecta": "Al poseer hipoalbuminemia tan extrema, tiene una Acidosis Láctica encubierta enorme. Su Anion Gap real corregido andará por los 16+ mEq/L indicando altísimo peligro.",
+                "retroalimentacion": "Respuesta Correcta. El 11 mEq/L que te grita Urgencias es una MENTIRA. ¡La albúmina está en 1.8! (Ha perdido 2 puntos enteros desde los 4.0 vitales de reserva). Sumar 2.5 mEq/L por cada gramo faltante al cálculo del Gap original dictan que su Brecha Aniónica real es cercana a letales 16 mEq/L... escondía lactato, shock hipóxico por disoxia microcirculatoria. Te confiaste por leer la papeleta impresa, la medicina intensiva te dice que la proteína caída apedrea y modifica todos e ignoto cada parámetro de Stewart que le apliquen los médicos junior asumiendo bases.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

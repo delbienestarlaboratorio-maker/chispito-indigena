@@ -70,6 +70,22 @@
                 "retroalimentacion": "Al entrar directo al torrente sanguíneo central, evita el efecto de primer paso hepático por completo."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_bioquimica_4_0-v2",
+                "tipo": "selección",
+                "vineta": "Paciente masculino de 60 años, en su 4to día post-infarto agudo al miocardio (IAM) cara anteroseptal, ya revascularizado. Presenta nuevamente dolor opresivo precordial de diferente patrón neurológico. El equipo cardiológico exige saber qué marcador enzimático determinará si hay un segundo infarto instaurado hoy.",
+                "pregunta": "[Análisis Profundo] ¿Qué marcador enzimático resulta fisiológicamente preciso para detectar re-infartos tardíos intrahospitalarios?",
+                "opciones": [
+                    "Creatina Cinasa Muscular/Brain (CK-MB)",
+                    "Troponina I Ultrasensible",
+                    "Mioglobina Glicada",
+                    "Deshidrogenasa Láctica (LDH) Isotipo 1"
+                ],
+                "respuestaCorrecta": "Creatina Cinasa Muscular/Brain (CK-MB)",
+                "retroalimentacion": "Respuesta Correcta. Las troponinas, por su lentísima degradación linfática (permanecen 10-14 días circulantes en sangre post IAM), darían un falso positivo de daño continuo irreversible. La enzima CK-MB disminuye vertiginosamente entre las 48-72 hrs posterior al IAM inicial. Si en el 4to día hace un pico sorpresivo, corrobora necrosis de nuevo tejido miocárdico sano (Re-Infarto Agudo).",
+                "nivel": "v2"
+            }
+        ]
     }
 }

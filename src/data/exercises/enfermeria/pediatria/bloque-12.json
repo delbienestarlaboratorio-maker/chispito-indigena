@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "14G o 16G (Naranja / Gris)"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_pediatria_12_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Reflejo primario neonatal donde el infante abre los brazos simulando un abrazo tras un estímulo súbito:",
+                "opciones": [
+                    "Babinski",
+                    "Búsqueda",
+                    "Reflejo de Moro",
+                    "Prensión palmar"
+                ],
+                "respuestaCorrecta": "Reflejo de Moro",
+                "nivel": "v2"
+            }
+        ]
     }
 }

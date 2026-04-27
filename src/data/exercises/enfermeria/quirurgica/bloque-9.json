@@ -70,6 +70,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_9_0-v2",
+                "tipo": "selección",
+                "vineta": "Fin de cirugía y bloqueo no cede, el paciente no ventila.",
+                "pregunta": "[Análisis Profundo] ¿Antídoto de Rocuronio Masivo?",
+                "opciones": [
+                    "Naloxona intra muscular profunda rápida",
+                    "Flumazenil letárgico",
+                    "Sugammadex en dosis de Rescate In extremis mg/kg dependiente absoluto asimétrico profundo",
+                    "Atropina combinada con sulfato"
+                ],
+                "respuestaCorrecta": "Sugammadex en dosis de Rescate In extremis mg/kg dependiente absoluto asimétrico profundo",
+                "retroalimentacion": "Sugammadex ciclodextrina encapsula a la base del no despolarizante en 60 segundos puros revirtiendo el freno neuromuscular.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

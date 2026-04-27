@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_materno_11_0-v2",
+                "tipo": "selección",
+                "vineta": "Madre Rh negativo Pareja Rh Positivo en segunda gesta pura biótica hidrops fetal hidrops asimétrico general.",
+                "pregunta": "[Análisis Profundo] ¿Fármaco de rescate no aplicado tras primer evento?",
+                "opciones": [
+                    "Gammaglobulina Anti-D o Inmunoglobulina Rhogam pre y post abortos basal letales.",
+                    "Penicilina",
+                    "Oxido nítrico basal",
+                    "Magnesio sulfato"
+                ],
+                "respuestaCorrecta": "Gammaglobulina Anti-D o Inmunoglobulina Rhogam pre y post abortos basal letales.",
+                "retroalimentacion": "Oculta y asesina antígenos fetales cruzados evitando senbilización de red inmune hiper masiva materna viva.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

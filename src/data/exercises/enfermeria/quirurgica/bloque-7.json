@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_quirurgica_7_0-v2",
+                "tipo": "selección",
+                "vineta": "Hemorragia Quirúrgica mayor de 1 litro intra operatorio.",
+                "pregunta": "[Análisis Profundo] ¿Solución?",
+                "opciones": [
+                    "Cristaloides frios",
+                    "Coloides + Paquetes globulares en Cell Saver",
+                    "Glucosas puras al 5% estáticas IV",
+                    "Furosemida de diuresis agresiva pre central"
+                ],
+                "respuestaCorrecta": "Coloides + Paquetes globulares en Cell Saver",
+                "retroalimentacion": "Manejo quirúrgico masivo.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

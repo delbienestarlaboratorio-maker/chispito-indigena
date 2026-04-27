@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "14G o 16G (Naranja / Gris)"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_qx_1_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Posición quirúrgica utilizada idealmente para cirugías ginecológicas y urológicas transvaginales:",
+                "opciones": [
+                    "Litotomía",
+                    "Trendelenburg invertida",
+                    "Decúbito prono",
+                    "Fowler"
+                ],
+                "respuestaCorrecta": "Litotomía",
+                "nivel": "v2"
+            }
+        ]
     }
 }

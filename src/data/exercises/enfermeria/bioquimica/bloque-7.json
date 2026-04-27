@@ -70,6 +70,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_bioquimica_7_0-v2",
+                "tipo": "selección",
+                "vineta": "Cateterismo Swan-Ganz implantado en UCI a paciente cursando choque mixto y SDRA grave. Parámetros medidos por la máquina Pulsion PiCCo arrojan PVC de 16 mmHg, PAOP de 20 mmHg e Índice Cardíaco de 1.8 L/min/m2 con SVR (Resistencias Sistémicas) en 1800 dinas. Paciente con diuresis caída a 10 mL/H.",
+                "pregunta": "[Análisis Profundo] Con base en la traducción hemodinámica de un PAOP ultra-elevado asociado a bajo gasto, ¿cuál es el movimiento intravenoso que rige la medicina de shock aquí?",
+                "opciones": [
+                    "Titulación de Inotrópico puro (Dobutamina/Levosimendán) guiado + Diurético de asa agresivo IV",
+                    "Carga libre o reto masivo con Ringer Lactato a destajo a las arterias yugulares",
+                    "Subir titulación de Noradrenalina y retener toda la orina para mejorar la PAM al cuádruple",
+                    "Infusión de Bicarbonato concentrado al 8.4% y desuso absoluto de diuréticos."
+                ],
+                "respuestaCorrecta": "Titulación de Inotrópico puro (Dobutamina/Levosimendán) guiado + Diurético de asa agresivo IV",
+                "retroalimentacion": "Respuesta Correcta. ¡Lectura Magistral! PAOP elevado (>18) significa que el Corazón Izquierdo está fallando totalmente en disparar sangre al cuerpo (falla de bomba, índice cardíaco 1.8 crítico). La precarga está ahogando los pulmones con líquido. Una carga de agua aquí asfixia el pulmón. La solución inminente es usar inotrópicos para obligar la contracción miocárdica a revivir bombeando y diurético Lasix (furosemida) para vaciar y drenar ese encharcamiento mortal de la tubería retrógrada pulmón-yugular.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

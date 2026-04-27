@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_fundamentos_4_0-v2",
+                "tipo": "selección",
+                "vineta": "115 Na Mmol de sodio y crisis epilépta asimétrica.",
+                "pregunta": "[Análisis Profundo] Correción estatuta de Hipo Natremia?",
+                "opciones": [
+                    "Inminente veloz stat bolo masivo salado hiper",
+                    "Corrección Lenta base Maximo 8 a 10 mEq en 24 horas continuas.",
+                    "Bolos de agua endovenosa pura.",
+                    "Dialisis de rescate letárgica asintotica."
+                ],
+                "respuestaCorrecta": "Corrección Lenta base Maximo 8 a 10 mEq en 24 horas continuas.",
+                "retroalimentacion": "Corregir Na+ de golpe desmyeliniza el tallo pontino asintomático letal general. Mielinolisis Pontina Central pura.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

@@ -84,6 +84,22 @@
                 "retroalimentacion": "Antes de ponerse azul (cianosis) que es un evento súmamente tardío, la neurona exige oxígeno disparando ansiedad brutal, agresividad y confusión en el paciente."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_microbiologia_4_0-v2",
+                "tipo": "selección",
+                "vineta": "Klebsiella KPC hiperresistente aislada.",
+                "pregunta": "[Análisis Profundo] ¿Qué antibiótico base cruza y mata la enzima?",
+                "opciones": [
+                    "Ceftriaxona",
+                    "Penicilina pura masiva",
+                    "Carbapenémicos solos",
+                    "Tigeciclina o Ceftazidima/Avibactam rescates de enzima pura letales de inhibición masiva"
+                ],
+                "respuestaCorrecta": "Tigeciclina o Ceftazidima/Avibactam rescates de enzima pura letales de inhibición masiva",
+                "retroalimentacion": "Las serinocarbapenemasas rompen carbapenémicos.",
+                "nivel": "v2"
+            }
+        ]
     }
 }

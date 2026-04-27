@@ -110,6 +110,20 @@
                 "respuestaCorrecta": "Intravenosa"
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_qx_9_0-v2",
+                "tipo": "selección",
+                "pregunta": "[Análisis Profundo] Posición quirúrgica utilizada idealmente para cirugías ginecológicas y urológicas transvaginales:",
+                "opciones": [
+                    "Decúbito prono",
+                    "Litotomía",
+                    "Trendelenburg invertida",
+                    "Fowler"
+                ],
+                "respuestaCorrecta": "Litotomía",
+                "nivel": "v2"
+            }
+        ]
     }
 }

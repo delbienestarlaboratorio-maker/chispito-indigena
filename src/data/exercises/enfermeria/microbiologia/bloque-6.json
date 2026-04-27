@@ -84,6 +84,22 @@
                 "retroalimentacion": "Más rápido que eso no deja que el corazón se llene de sangre antes de la siguiente compresión. Más bajo que eso no genera perfusión coronaria mínima (15 mmHg)."
             }
         ],
-        "v2": []
+        "v2": [
+            {
+                "id": "enf_microbiologia_6_0-v2",
+                "tipo": "selección",
+                "vineta": "Neumonía Asociada a Ventialdor (NAV) tardía en día 8 UCI.",
+                "pregunta": "[Análisis Profundo] ¿Bichos esperados letales in situ biogenéticos purificados en secreción purulenta endotraqueal intra hospitalaria base general resistente asimétricos cruzados letales?",
+                "opciones": [
+                    "Haemophilus basales infantiles",
+                    "Acinetobacter, Pseudomonas y MRSA",
+                    "Mycoplasma pneumoniae atípico biótico basal general",
+                    "Legionella estacional"
+                ],
+                "respuestaCorrecta": "Acinetobacter, Pseudomonas y MRSA",
+                "retroalimentacion": "Tardía = flora del hospital pura masiva endémica KPC MRSA cruzada.",
+                "nivel": "v2"
+            }
+        ]
     }
 }
