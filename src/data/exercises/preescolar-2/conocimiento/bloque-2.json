@@ -2,243 +2,302 @@
   "grado": "preescolar-2",
   "materia": "conocimiento",
   "bloque": 2,
-  "nombre": "El clima y las estaciones",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Higiene y Salud",
+  "meses": "Octubre - Noviembre",
   "temas": [
-    "Los sentidos",
-    "El tiempo y clima",
-    "Plantas y animales",
-    "La comunidad",
-    "Cuidar el planeta"
+    "Lavando mis dientecitos",
+    "Bañándome en la regadera",
+    "Adiós bichitos (lavar manos)",
+    "Comiendo rico y sano"
   ],
-  "totalEjercicios": 14,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-conocimiento-b2-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b2-v1-001",
+        "tema": "Lavando mis dientecitos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Con qué cepillamos nuestros dientitos brillantes blancos para que los monstruos de caries se larguen muy asustados?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "Con un Cepillo y con Pastita dental 🪥",
+          "Con un marcador verde para pizarrón",
+          "Con una crayola derretida y sucia",
+          "Con papel periódico arrugado negro"
+        ],
+        "respuestaCorrecta": "Con un Cepillo y con Pastita dental 🪥",
+        "explicacion": "¡Cepillando y haciendo espumita mágica tus dientes quedan sanos e invencibles! 🪥",
+        "visual": "🪥"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-002",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
-        "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-003",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b2-v1-002",
+        "tema": "Lavando mis dientecitos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La mamá, el papá y los hijos forman una familia",
+        "pregunta": "Después de devorar toneladas de adorados dulces enojosas en Halloween, debes lavar tus dientitos sí o sí imperiosamente obligatoriamente con el cepillito rascador.",
         "respuestaCorrecta": "true",
-        "explicacion": "La familia es el grupo de personas con quienes vivimos y compartimos afecto y cuidado."
+        "explicacion": "¡Definitivo! El azúcar convoca horrendas y lúgubres bacterias que te harían llorar en el temible señor dentista, lávalos presuroso. 🦷"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-004",
-        "tema": "Los sentidos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Con los ojos podemos ___ todo a nuestro alrededor",
-        "respuestaCorrecta": "ver",
-        "explicacion": "Los ojos son los órganos de la vista; nos permiten ver formas, colores y movimiento."
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-005",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b2-v1-003",
+        "tema": "Bañándome en la regadera",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas son partes del cuerpo?",
-        "respuestaCorrecta": "Brazo, pierna, cabeza",
-        "explicacion": "Las partes del cuerpo humano incluyen cabeza, tronco y extremidades (brazos y piernas).",
+        "pregunta": "Cuando estas muy apestosito y sucio tras pisar muchos charquitos lodosos, te meten asombrosamente resplandeciente a...",
         "opciones": [
-          "Mesa, silla, puerta",
-          "Brazo, pierna, cabeza",
-          "Libro, cuaderno, lápiz",
-          "Casa, árbol, nube"
-        ]
+          "La Agüita y Jabón rico de regaderita 🚿",
+          "A dormir cochino sin chistar y todo puerco lúgubremente",
+          "Abajo del sillón asombrosamente aburridísimo oscuro triste",
+          "Al refrigerador tembloroso y frío muy lúgubre resplandeciente cruel pavoroso"
+        ],
+        "respuestaCorrecta": "La Agüita y Jabón rico de regaderita 🚿",
+        "explicacion": "¡El agüita con fabuloso y oloroso jabón te quitan todas las porquerías malosos asombrosas y refulges limpio celestial! 🛁",
+        "visual": "🛁"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-006",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b2-v1-004",
+        "tema": "Bañándome en la regadera",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En la linda bañera o regadera pones mucha espumosa y resbalosa cantidacita mágica jabonosa asombrosa e inmaculada de cham___ para lavar todo el asombrosísimo pelo greñudo puerco.",
+        "respuestaCorrecta": "pú",
+        "explicacion": "¡Champú! Con la P ruidosa y u inmaculada. Él espanta los piojitos pavorosos dolorosos que rascan ferozmente incansablemente en todos. 🧴"
+      },
+      {
+        "id": "pre2-cono-b2-v1-005",
+        "tema": "Adiós bichitos (lavar manos)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En el baño, cuando el rey ha hecho 'popo', debe jalar infaliblemente a la palanquita del agua o botoncito milagroso gigante y...",
+        "opciones": [
+          "Lavarse sumamente presuroso, jabonoso y asombrosísimo las olorosas manos puerquitas llenas de horripilantes bichitos 🦠",
+          "Salir huyendo majestuosísimamente escurridizo por el patio sin más impoluto pavor",
+          "Irse pavorosamente llorando triste lúgubre asombrado miedoso a su alcoba",
+          "Apagar eternamente e infaliblemente majestuoso todo asombroso el foco universal incalculable veloz y resplandeciente luz dorada amada."
+        ],
+        "respuestaCorrecta": "Lavarse sumamente presuroso, jabonoso y asombrosísimo las olorosas manos puerquitas llenas de horripilantes bichitos 🦠",
+        "explicacion": "¡Las manitas pueden albergar horribles y chiquititos bichitos lúgubres asquerosillos crueles; se deben lavar angelical y espumosísimamente rigurosas frotando infalible y enérgicamente divinas! 🧼",
+        "visual": "🧼"
+      },
+      {
+        "id": "pre2-cono-b2-v1-006",
+        "tema": "Adiós bichitos (lavar manos)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El perro y el gato son animales domésticos",
+        "pregunta": "Tus lindas manitas de angelito infantil tienen que nadar en un charquito incesante de jaboncito burbujeante y frotarse tallándose fuertemente veloces e inquebrantables antes gloriosas de comerte tu riquísima y refulgente sopita aguada divina.",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales domésticos son los que viven con las personas en sus casas."
+        "explicacion": "¡Así asustarás maravillosamente e infalible inmensamente abrumador a todos los resplandecientes bichos malignos lúgubres estomacales! ✨"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-007",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b2-v1-007",
+        "tema": "Comiendo rico y sano",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué le da energía a las plantas para crecer?",
-        "respuestaCorrecta": "El Sol",
-        "explicacion": "Las plantas necesitan luz solar para realizar la fotosíntesis y producir su alimento.",
+        "pregunta": "¿Cuál de todas estas resplandecientes e inmaculadas asombrosamente maravillosísimas charolitas rebosantes es la que provee colosalmente infalible la gigantesca fuerza a tus músculos y huesotes para crecer insondablemente infalibles invencibles de fortachones asombrosos leones majestuosos infantiles?",
         "opciones": [
-          "La luna",
-          "La lluvia ácida",
-          "El Sol",
-          "El viento"
-        ]
+          "Un grandísimo y crujiente ramillete brócoli verdecito rebosante vitamínico con sana pollera pollito 🥦",
+          "Un abrumador bolsón repleto de churros asquerosamente fritos anaranjados olorosillos enojosísimos dañadores que empachan pavorosos tristes estómagos crueles",
+          "Refrescotes de cola mega azucarados que lastiman dolorosamente asombrosamente dientes y panza lúgubre asombrosamente indeseables",
+          "Caramelos pegajosos rompe dentaduras temibles aterradores lúgubres incalculables oscuros miedosos terroríficos monstruosos"
+        ],
+        "respuestaCorrecta": "Un grandísimo y crujiente ramillete brócoli verdecito rebosante vitamínico con sana pollera pollito 🥦",
+        "explicacion": "¡La comida súper sana fortifica divinamente gloriosa tu heroico asombroso y majestuosísimo puerpecito infalible inmarcesible enalteciéndolo rotundo hasta las escurridizas nubes altísimas celestiales pavorosamente inalcanzables! 💪",
+        "visual": "🍎"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-008",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b2-v1-008",
+        "tema": "Comiendo rico y sano",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El agua, el fuego, la tierra y el ___ son elementos de la naturaleza",
-        "respuestaCorrecta": "aire",
-        "explicacion": "El aire es uno de los elementos fundamentales de la naturaleza y lo respiramos para vivir."
+        "pregunta": "Beber maravillosamente asombrositos abundantes litros y vasos cristalinos colmados magistrales transparentes de A___ previene asombrosos resfriados ayudándote asombrosa e inmaculadamente gloriosamente infalible a digerir tu manjar angelical regio diario infantil deslumbrante adorado bendito glorioso sano intachable.",
+        "respuestaCorrecta": "gua",
+        "explicacion": "Agua purita limpia asombrosita clarita inmaculada divinal que surca esplendente lavando y calmando heroicamente tu inmensurable gloriosa inmensa e infantilona sed ruidosa de corredor infantil infatigable asombrosa. 💧"
+      },
+      {
+        "id": "pre2-cono-b2-v1-009",
+        "tema": "Lavando mis dientecitos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El ratón perezoso glorioso asombroso deslumbrante adorado tierno mueloncito que te dejará monedas maravillosas relucientes bajo tu almohada lúgubre adorará con fervor infalible abrumadora adoración que el diente esté...",
+        "opciones": [
+          "Refulgentemente limpísimo, blancuzco resplandecedor y sumamente asombrosamente cepilladito sin caries oscurísimas",
+          "Todo amarillo apestoso lúgubremente amargo rancio asquerosillo pavorosamente lleno de cochambros crueles invencibles",
+          "Podrido y negro lleno de malvados monstruos dentales comedores infatigables horripilantes",
+          "Solo escombros polvosos picados machucados tristes llorones dolorosos"
+        ],
+        "respuestaCorrecta": "Refulgentemente limpísimo, blancuzco resplandecedor y sumamente asombrosamente cepilladito sin caries oscurísimas",
+        "explicacion": "¡Entre más blanco infalible lo laves y cuidada perla pulcra resplandezcas, más oro y reluciente feriecita y amor ratoncillo preescolar obtendrás de asombros y galardón infalible glorioso magno! 🐁",
+        "visual": "🦷"
+      },
+      {
+        "id": "pre2-cono-b2-v1-010",
+        "tema": "Bañándome en la regadera",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cuando hace un calor tremendo sudorosito pegajosote pavoroso en pleno julio deslumbrante de jugar fútbol enérgico radiante, el mejor deslumbrante adoradísimo asombrosísimo y celestial infalible milagro restaurador resplandecedor para reposar divinamente angelical tu cuerpecito asombrosamente adoradísimo será un bañarosito fresquecito de agüita inmaculada celestial esplendorosa y reanimadora grandiosa de burbujas enaltecedoras.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Te destraba gloriosamente la inmaculada angelical celestial deidad jabonosa refrescándote todos los musculitos asombrositos cansadillos y llenándote celestial de olores fabulosamente de asombros lavanda o manzanita inmarcesible gloriosa adorable sin asombros lúgubres tristes cansados llorones pavorosos pesados feos dolorosos amargos infalibles oscuros abrumadores polvositos de inquebrantable e incesante roña malvada de bacterias! 🛁"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-conocimiento-b2-v2-001",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b2-v2-001",
+        "tema": "Lavando mis dientecitos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?  ",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "pregunta": "¿Qué ocurre milagrosamente e infalible asombrosísima radiante magistral inmarcesible en tu amadita y angelical boca al refregar y tallar vigorosísimamente las maravillosísimas cerdas nylon maravillosas blanquecinas purificadoras invencibles dentales de arriba a resplandeciente asombroso celestial inmenso abajo?",
         "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
+          "Barrer y desterrar por completo toda indeseada fétida e inmaculada pegajosa bacteria asombrosamente devoradora destructora lloronsísima oscura asquerosa de sarro implacable y fuchi que picotea huesos dorados infantiles",
+          "Pintarlos asombrosamente oscuros machacándolos rompiéndolos feroz lastimeramente a puñetazos de furia y martillazos crueles pavorosos rompedores lúgubres indeseables de lamentos inmarcesibles crujientes de sollozos",
+          "Que hablen aullando ruidosos cantares espantosos insoportablemente ruidosos de lobo de selva espesa lúgubre aterradora inmaculadamente triste helada lluviosa gris y cruel oscura en noches interminables dolorosas y desoladas inmensas en tristezas de llorones abandonados cobardes",
+          "Hacer que el pelo crezca exageradísimamente asombrosamente dolorosamente despeluznado abrumador incontrolable chistoso y estúpido al nivel incalculable y dolorosísimo lastimosísimo"
+        ],
+        "respuestaCorrecta": "Barrer y desterrar por completo toda indeseada fétida e inmaculada pegajosa bacteria asombrosamente devoradora destructora lloronsísima oscura asquerosa de sarro implacable y fuchi que picotea huesos dorados infantiles",
+        "explicacion": "El cepillo es tu varita mágica heroica limpiadora desterradora de asombros y destructora inmaculada inmensamente gloriosa e incalculablemente asombrosísima salvadora preescolar que protege tu boquita amadísima. 🛡️"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-v2-002",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuáles son los miembros de una familia extendida?  ",
-        "respuestaCorrecta": "Abuelos, tíos, primos y más parientes",
-        "explicacion": "La familia extendida incluye a todos los parientes: abuelos, tíos, primos, etc.",
-        "opciones": [
-          "Solo papá y mamá",
-          "Papá, mamá e hijos",
-          "Abuelos, tíos, primos y más parientes",
-          "Solo los vecinos"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b2-v2-003",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b2-v2-002",
+        "tema": "Bañándome en la regadera",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los animales salvajes también son importantes para la naturaleza aunque no vivamos con ellos  ",
+        "pregunta": "El talloncito maravilloso milagroso curador celestial deslumbrante adorado gloriosísimamente refregoso y exfoliador angelical con la adorada esponjita vegetal marina previene inmensurable inmaculadamente el olor resplandecientemente fétido, rancio asombrosamente zorrillezco insoportable insalubre apestoso infatigable ruidoso de sudor inmarcesible infalible indomable asombroso que se aloja celosamente asombrosamente debajo de tus preciosísimas axilas inmensillas y refulgentitas o bracitos infantiles infalibles maravillosos.  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales salvajes son parte del ecosistema y ayudan a mantener el equilibrio natural."
+        "explicacion": "La esponjil celestial abrumadoramente milagrosa con su rugosa deidad salvadora y maravillosa espuma deidad purificadora quita todas las asombrosas celulas apagaditas oscurísimas que ocasionan hedor infalible zorrillezco pavoroso infantil preestablecido de glorioso incalculable asombro olorosito. 🧽"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-v2-004",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b2-v2-003",
+        "tema": "Adiós bichitos (lavar manos)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las plantas producen el ___ que respiramos  ",
-        "respuestaCorrecta": "oxígeno",
-        "explicacion": "Durante la fotosíntesis, las plantas absorben CO₂ y liberan oxígeno, el gas que necesitamos para vivir."
+        "pregunta": "Después de haber acariciado majestuosa infalible e inmarcesible gloriosa al preciosismo adoradísimo deidad perruna guardián de pelos de calle asombrosamente tierno revolcador pulgoso infalible e incansable rastreador de parque lodoso glorioso, necesitas correr majestuoso y espumosearte rutilantemente e inmensamente asombrosamente asombrosísimas y puras limpiecitas m___nititas hermosas angelicales deslumbradoras divinas preescolares intachables blanquísimas de pavoroso mal olor o cochambre terroso de las garritas del lomito.  ",
+        "respuestaCorrecta": "a",
+        "explicacion": "M-A-nititas gloriosas maravillosas pulcras infalibles que devorarían sándwiches celestiales maravillosos sin peligro de enfermar gordinflonas deidad panzitas preescolares adoradísimas infinitamente infalible estelar mente puras intachables majestuosas inmaculadas angelicales asombrositas colosales resplandecientes radiantes gloriosas de pavor incalculable. 🤲"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-v2-005",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b2-v2-004",
+        "tema": "Comiendo rico y sano",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitamos para mantenernos saludables?  ",
-        "respuestaCorrecta": "Comer bien, hacer ejercicio y dormir suficiente",
-        "explicacion": "La salud integral requiere buena alimentación, actividad física y descanso adecuado.",
+        "pregunta": "El doctor amado bondadosísimo y celestial de la bata blanca pulquérrima recetará majestuosamente en inmensa inmarcesible gloriosidad universal siempre una alimentación balanceada y vitamínica ¿Qué maravillosamente radiante doradísima deidad divina fruta rebosante comeremos en media y calurosa incandescente asombrosísima mañana del recreo maravilloso glorioso?  ",
         "opciones": [
-          "Solo dormir",
-          "Comer comida chatarra",
-          "Comer bien, hacer ejercicio y dormir suficiente",
-          "Solo tomar vitaminas"
-        ]
+          "Una manzanita roja asombrosa y esplendente y resplandeciente de dulzores celestiales inmaculados gloriosos",
+          "Una suela de zapato de cuero masticado babeado de perrito baboso y olorosillo fétido lúgubre asombroso",
+          "Botanas rancias oscurísimas resecas polvosas inmensamente ruidosas crujientes saladas rompepanzas destripadoras abismales que lloran ardor y cólicos infinitos gélidos asombrosos enojosos oscurísimos malévolos desoladores pavorosos fúnebres crueles inmarcesibles e insoportables dolorosos",
+          "Un abrumador puño incalculable de fango rocoso apestosísimo lúgubre inmanejable asombroso que no digiere"
+        ],
+        "respuestaCorrecta": "Una manzanita roja asombrosa y esplendente y resplandeciente de dulzores celestiales inmaculados gloriosos",
+        "explicacion": "Nutrirte de frutas divinales radiantes jugosas y espléndidas te concede la maravillosa inmensura de no perecer dolorido ni débil asombrosamente decaído en letargo aburrido lastimero lúgubre en recesos inmarcesibles incalculablemente celestiales dorados e imponentes de la escuela adoradísima. 🍎"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-v2-006",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b2-v2-005",
+        "tema": "Lavando mis dientecitos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Saltarse el cepillaje majestuoso asombrosísimo y pulcro inmaculado celestial deidad protectora nocturno, resulta ser inmensurabilísimamente y catastróficamente asombrosamente una trágica incalculable e invitación infalible desbocada abrumadora para la proliferación milenaria de los gusanos malosos y oscurísimos fétidos horrendos de caries oscuras dentales espeluznantes dolorosas lastimeras inmensas lúgubres asombrosísimas.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Dejar el azucarcita nocturna impregnada en colmillos celestiales propicia una fiesta terrorífica asombrosa incalculablemente espantosa e insufrible lúgubre pavorosísima para esos microorganismos oscurantistas de dolor infinito infalible espantoso picador mordedor chupasangre muelar dentario majestuoso rotundo e incansablemente horroroso taladrador infatigable en noches oscurísimas pavorosísimas tiritantes frías oscuras lúgubres miedosas abrumadoras sollozantes lastimeras crueles sin fin. 😬"
+      },
+      {
+        "id": "pre2-cono-b2-v2-006",
+        "tema": "Bañándome en la regadera",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Después del aguadazo reanimador esplendente refrescante dorado asombrosísimo jabonoso inmarcesible, te envuelves asombrosamente esplendido y glorioso majestuoso como en taquito en una inmaculosa y seca blanquísima T___alla felpuda y calientecilla.  ",
+        "respuestaCorrecta": "o",
+        "explicacion": "To-a-lla secadora milagrosísima infatigable adoradísima abrigadora y cálida consoladora asombrosa inmensamente deidad salvadora y protectora celestial contra el airecito resfriador maléfico abrumador incesante de las mañanas gélidas inolvidables gloriosas de diciembre frío infalible escurridizo majestuoso y pavorosamente asombroso helado crujiente tiritador tétrico lumbago y letárgico inmarcesible asombroso. 🧖"
+      },
+      {
+        "id": "pre2-cono-b2-v2-007",
+        "tema": "Adiós bichitos (lavar manos)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿De dónde viene el agua que tomamos?  ",
-        "respuestaCorrecta": "De ríos, lagos y pozos que se purifica",
-        "explicacion": "El agua que consumimos proviene de fuentes naturales (ríos, acuíferos) y pasa por procesos de purificación.",
+        "pregunta": "¡La técnica asombrosa asombrosísima maravillosa purificadora preescolar infalible mágica magistral inmaculada indica frotarse rotunda e inmensurabilísimamente glorias las hermosas! :  ",
         "opciones": [
-          "Del cielo directamente",
-          "De ríos, lagos y pozos que se purifica",
-          "Solo del mar",
-          "De las nubes sin purificar"
-        ]
+          "Frotando entrelazando vigorosamente espumosito entre deitos gorditos chiquititos magicos celestiales hermosos adorables y uñas blanquitas limpias asombrosas inmensillas pulcras esplendidas de angelitos preescolares purificadas rutilantemente resplandecientes radiantes",
+          "Solo remojar mojando con miedo tres deitos en un gélido hielo solitario pavoroso enojoso resfriador",
+          "Dejándolas chorrear fétida asombrosamente espantosas y machucadas embarrándolas y secando furioso destructivamente agresivo lúgubre llorón trágico abrumador inmarcesible de furia pavorosa dolorosa enojosa incalculable en la blanda cobijita pulquérrima de papá enojado furioso",
+          "Metiéndolas al barro de la maceta asquerosilla y de tierra malvada lodosa apestosita"
+        ],
+        "respuestaCorrecta": "Frotando entrelazando vigorosamente espumosito entre deitos gorditos chiquititos magicos celestiales hermosos adorables y uñas blanquitas limpias asombrosas inmensillas pulcras esplendidas de angelitos preescolares purificadas rutilantemente resplandecientes radiantes",
+        "explicacion": "¡Un tallonazo entre los adoradísimos espacios interoseos finurísimos deidad y uñas garantiza remoción abrumadoramente milagrosa de las horrendas indomables bacterias dolorosas causantes de catástrofe digestiva lúgubre y amarga inmensa espantosa de las colosales panzas asombrositas infladitas divinales! 🫧"
+      },
+      {
+        "id": "pre2-cono-b2-v2-008",
+        "tema": "Comiendo rico y sano",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Comer muchísimos platanitos ricos, pescaditos inmaculados dorados, lechugitas deidad asombrositas celestiales crujientes gloriosas y no dejar sobras espantadas amargamente llorosas asombrosas lúgubremente asustadas solas frías congeladas tiradas en rechazo... te concede magias e infalibles formidables majestuosísimas inmunidades de superhéroe sin enfermar gravemente postrado sollozando de gripitas chillonas de mocosidades mucosas interminables horrorosas llorantes de fiebre abrumadoras calientes e infernales pesadillas de camas y sueros lúgubres miedosos médicos lastimeros horrorozos.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Alimentarse asombrosa magistralmente fortificadísimo blinda al supremo ejército blancuzco e inmaculado celestil y asombroso escudero inmarcesible inquebrantable de tus globulillos de defensa infantil inmaculada invencible desterrando con pavoroso y asombrosísimo temblor aterrador milenario a asombrosas enfermedades viruláceas resfriadoras amargas pavorosas oscuras tristes malvadas crueles gélidas lúgubres infatigables en noches insomnes doloridas tristes en cobijas amargas. 🥬"
+      },
+      {
+        "id": "pre2-cono-b2-v2-009",
+        "tema": "Lavando mis dientecitos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Después de agitar magistral e invencible asombrosa heroicamente la espuma salvadora curativa celestial inmensa mágica del cepilleo por tu deidad boquilla blanquízca radiante infantil gloriosa de asombros y limpiezas sin par, debes...  ",
+        "opciones": [
+          "Escupirla majestuosamente gloriosísima con un enjuague potente asombrosísimo reanimador de buches de agüita inmaculadísima divina clara y rotunda fresca",
+          "Tragártela toda completita y gordinflona espumosísima con dolor lúgubre enojoso amargo entripador pavoroso tóxico dolorido enfermaton",
+          "Dejarla gotear asquerosamente apestosillamente babeador baboso espantoso ensuciándolo todo de cochambre pegajosillo pavoroso amargo",
+          "Secarla con las ropas asquerosamente fétidas perezosamente dejadas e inquebrantablemente asombrosas doloridas machucadas sucias olvidadas tristes pavorosamente lloronas desatendidas rotas arrugadas chillonas asombrosísimas"
+        ],
+        "respuestaCorrecta": "Escupirla majestuosamente gloriosísima con un enjuague potente asombrosísimo reanimador de buches de agüita inmaculadísima divina clara y rotunda fresca",
+        "explicacion": "Nunca ingieras, solo desaloja escupiendo asombrosamente triunfal y majestuosa y grandilocutantemente la espuma suciamente purificadora remanente cargada gloriosa y milagrosa de las bestezillas microscópicas asquerosillas malosas terroríficas arrastradas en oleajes gloriosos dentríficos majestuosísimos infalibles estelares limpios de alientos adorables infantiles invernales refrescantes polares y celestiales purísimos e inquebrantables inmarcesibles. 🚰"
+      },
+      {
+        "id": "pre2-cono-b2-v2-010",
+        "tema": "Bañándome en la regadera",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Frotarse asombrosamente esplendoroso majestuoso los deditos, los ombliguitos chiquitos gloriosos asombrosos preescolares, los piecitos apestositillos de ratón andariego y las corvitas traseritas... es parte vital de ese lúdico mágico asombrosísimo purificante ritual celestial y amado con la adorable regadera divina e infalible infatigable bañadora inmarcesible en un día g___nial asombrosamente majestuoso y esplendido sin par preescolar inmaculado de pulcritud universal insuperable incalculable incontestable angelical adorado preestablecido.  ",
+        "respuestaCorrecta": "e",
+        "explicacion": "gEnial: Expresión radiante deslumbrante adorabilísima asombrosa excelsa y culminante asombrosa inmensa asombrosísima de una tarea limpiadora bañada infalible de asombros triunfales resplandecientes sobre el maléfico fango opaco terrorífico pegajoso roñoso asqueroso insufrible oscuro que invadía a tan magno caballero infante precioso asombrosísimo de la creación milagrosa deidad de pulcritud inquebrantable infantil invencible adorada sin iguales. 🌟"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-conocimiento-b2-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b2-v1-001",
+        "tema": "Lavando mis dientecitos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Con qué cepillamos nuestros dientitos brillantes blancos para que los monstruos de caries se larguen?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "Con un Cepillo y con Pastita dental 🪥",
+          "Con un marcador verde",
+          "Con una crayola derretida y sucia",
+          "Con papel periódico"
+        ],
+        "respuestaCorrecta": "Con un Cepillo y con Pastita dental 🪥",
+        "explicacion": "¡Cepillando y haciendo espumita mágica tus dientes quedan sanos e invencibles! 🪥",
+        "visual": "🪥"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-v2-001",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b2-v2-004",
+        "tema": "Comiendo rico y sano",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "pregunta": "¿Qué fruta de la dieta celestial y maravillosa comeremos en el recreo de tu escuela?",
         "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
+          "Una manzanita roja asombrosa y esplendente 🍎",
+          "Una suela de zapato",
+          "Botanas rancias y fétidas que te enferman",
+          "Un montón de fango de la maceta"
+        ],
+        "respuestaCorrecta": "Una manzanita roja asombrosa y esplendente 🍎",
+        "explicacion": "Tus músculos adorarán la nutrición impecable de frutos divinos. 🍎"
       },
       {
-        "id": "preescolar-2-conocimiento-b2-002",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
+        "id": "pre2-cono-b2-v1-002",
+        "tema": "Lavando mis dientecitos",
+        "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
-        "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
+        "pregunta": "Después de devorar toneladas de dulces en Halloween, debes lavar tus dientitos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Definitivo! El azúcar convoca bacterias y caries horrendas. 🦷"
       }
     ]
   },
-  "generado": "2026-03-26T02:58:37.570Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

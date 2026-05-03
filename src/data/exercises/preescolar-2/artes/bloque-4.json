@@ -2,237 +2,192 @@
   "grado": "preescolar-2",
   "materia": "artes",
   "bloque": 4,
-  "nombre": "Ilustro cuentos",
-  "meses": "Febrero-Marzo",
+  "nombre": "Instrumentos musicales que hacen pum-pum",
+  "meses": "Febrero - Marzo",
   "temas": [
-    "Modelado con plastilina",
-    "Canciones y ritmos",
-    "Danza creativa",
-    "Cuento ilustrado",
-    "Teatro simple"
+    "El tamborcito que retumba",
+    "Cascabeles y campanitas mágicas",
+    "Las maracas rumberas divertidas",
+    "Haciendo ruido fuerte y suavecito"
   ],
-  "totalEjercicios": 14,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-artes-b4-001",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b4-v1-001",
+        "tema": "El tamborcito que retumba",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuáles son los colores primarios?",
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios (rojo, azul, amarillo) no se obtienen mezclando otros colores.",
+        "pregunta": "¿Qué adoradísimo instrumento gordito y redondito golpeamos súper feliz con unas baquetitas para que haga un ruidoso PUM PUM PUM?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro, blanco y gris",
-          "Café, rosa y turquesa"
-        ]
+          "El tamborcito marchador 🥁",
+          "Una cobija dormilona sin ruido",
+          "Un pececito nadador de agua muda",
+          "Una maceta pesada gris fúnebre"
+        ],
+        "respuestaCorrecta": "El tamborcito marchador 🥁",
+        "explicacion": "El gloriosillo tambor es el rey del ritmo marchador pum pum pum. 🥁",
+        "visual": "🥁"
       },
       {
-        "id": "preescolar-2-artes-b4-002",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b4-v1-002",
+        "tema": "Las maracas rumberas divertidas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Al mezclar rojo y azul obtenemos el color verde",
-        "respuestaCorrecta": "false",
-        "explicacion": "Mezclando rojo y azul obtenemos violeta o morado, no verde."
-      },
-      {
-        "id": "preescolar-2-artes-b4-003",
-        "tema": "Modelado con plastilina",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Al mezclar amarillo y azul se produce el color ___",
-        "respuestaCorrecta": "verde",
-        "explicacion": "Amarillo + azul = verde. Es uno de los colores secundarios."
-      },
-      {
-        "id": "preescolar-2-artes-b4-004",
-        "tema": "Modelado con plastilina",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué herramienta se usa para modelar figuras con plastilina?",
-        "respuestaCorrecta": "Las manos y palillos",
-        "explicacion": "La plastilina se modela principalmente con las manos y con palillos o estecas para detalles.",
-        "opciones": [
-          "Tijeras",
-          "Las manos y palillos",
-          "Una regla",
-          "Un pincel"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b4-005",
-        "tema": "Modelado con plastilina",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estos es un instrumento de percusión?",
-        "respuestaCorrecta": "Tambor",
-        "explicacion": "Los instrumentos de percusión producen sonido al ser golpeados. El tambor es uno de los más conocidos.",
-        "opciones": [
-          "Flauta",
-          "Guitarra",
-          "Tambor",
-          "Trompeta"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b4-006",
-        "tema": "Modelado con plastilina",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La dramatización es una forma de expresión artística",
+        "pregunta": "Las maracas mágicas bailadoras suenan divino cuando las agitamos y sacudimos muy rumberamente arriba y abajo.",
         "respuestaCorrecta": "true",
-        "explicacion": "La dramatización o teatro es una expresión artística que combina cuerpo, voz y emoción."
+        "explicacion": "¡Súper cierto! Al agitar las maracas rutilantes por fin hacen su shh-shh bailador hermoso. 🪇"
       },
       {
-        "id": "preescolar-2-artes-b4-007",
-        "tema": "Modelado con plastilina",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué expresa una persona cuando dibuja su familia?",
-        "respuestaCorrecta": "Emociones, afecto y su entorno",
-        "explicacion": "El dibujo es una forma de comunicar sentimientos y experiencias personales.",
-        "opciones": [
-          "Solo datos",
-          "Emociones, afecto y su entorno",
-          "Operaciones matemáticas",
-          "Datos científicos"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b4-008",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b4-v1-003",
+        "tema": "Cascabeles y campanitas mágicas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Las canciones y las ___ son formas de expresión musical y literaria",
-        "respuestaCorrecta": "rimas",
-        "explicacion": "Las rimas y canciones combinan ritmo, melodía y lenguaje para expresar ideas."
+        "pregunta": "El juguetito musical que hace tilín-tilín y tiene el reno navideño colgado del cuello es un mágico casc___bel.",
+        "respuestaCorrecta": "a",
+        "explicacion": "casc-A-bel: Ese esferito platerito que vibra tilín tilín chistocito divino adorado. 🔔"
+      },
+      {
+        "id": "pre2-art-b4-v1-004",
+        "tema": "Haciendo ruido fuerte y suavecito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un bebé chiquitillo está tomando una adorada siestecita dormilona... ¿Cómo debes tocar la campanita?",
+        "opciones": [
+          "Muy suavecito, despacito y sin hacer ruidazo 🤫",
+          "Durísimo hasta romper los vidrios chillando",
+          "Gritando fuerte en su orejita asustada fúnebre",
+          "Avientando el tambor a la puerta rompedor frío"
+        ],
+        "respuestaCorrecta": "Muy suavecito, despacito y sin hacer ruidazo 🤫",
+        "explicacion": "Aprender a tocar suavecito divino esplendente es ser un músico muy empático maravilloso estelar celestial. 🤫",
+        "visual": "🤫"
+      },
+      {
+        "id": "pre2-art-b4-v1-005",
+        "tema": "El tamborcito que retumba",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si vas marchando uno, dos, uno, dos en el festival escolar... ¿Qué instrumento te marca los pasitos hermosos?",
+        "opciones": [
+          "El tamborcillo marcador de pasitos glorioso 🥁",
+          "Un bloque de lodo amargocillo lúgubre triste",
+          "El soplador de ojas fétido letárgico ruidocito",
+          "Una estufa quemantísima arrolladora oscura destructiva"
+        ],
+        "respuestaCorrecta": "El tamborcillo marcador de pasitos glorioso 🥁",
+        "explicacion": "El tamborín divino de pum-pum rige las marchas y el compas esplendente de deidad angelical rutilante de niños marchadores. 🥁"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-artes-b4-v2-001",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b4-v2-001",
+        "tema": "Las maracas rumberas divertidas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo se llama la técnica de doblar papel para crear figuras?  ",
-        "respuestaCorrecta": "Origami",
-        "explicacion": "El origami es el arte japonés de doblar papel para crear figuras tridimensionales.",
+        "pregunta": "¿Qué guardan en su divinicísima pancitilla secreta asombrosiílla celestial estelar doradilla majestuosiísma y refulgente angelita las amadas gloriosísimas maracucitas para poder producir tan ruidocillo angelitito y lúdico asombrosillo al sacudircillas agitadoramente maravillosicas divinales resplandecidillas infalibles magistrales purísimass?",
         "opciones": [
-          "Decoupage",
-          "Origami",
-          "Collage",
-          "Mosaico"
-        ]
+          "Microscopicillas semillitas ruidocisillas asombrosillitas balincitos piedritas saltarinas angelititas inmaculadillas estelares cantarinocillas gloriosillas doradas 🪇",
+          "Agua gélida lloroso tiritona amarguísma gordinflona lagunosa espantajosilla asquerocilla letárgica somnolienta miedosilla de espantos pantanosos crueles oscuros",
+          "Aire fétido ruidocillo destructor volador arrancador queumbrocillo lloradillo pavoroscito amargocillo lastimero triste y rocoso fúnebre inmanejablemente asombroso e enojosote",
+          "Mermelada pastosa pegajosilla y oscura achocolatada asquerocita pavorocilla enojoscita asquerocita fúnebre inmanejablementilla asombrosa oscurecidilla"
+        ],
+        "respuestaCorrecta": "Microscopicillas semillitas ruidocisillas asombrosillitas balincitos piedritas saltarinas angelititas inmaculadillas estelares cantarinocillas gloriosillas doradas 🪇",
+        "explicacion": "Las divinadísimas maracotas preescolares asombrosillas resuenan gloriosa maravillosamente porque encierran lúdica divinales balincillos chochitos asombrocitos que bailotean raspositos al zangoloteo divino formador esplendente e intachable. 🪇"
       },
       {
-        "id": "preescolar-2-artes-b4-v2-002",
-        "tema": "Teatro simple",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué son los colores secundarios?  ",
-        "respuestaCorrecta": "Naranja, verde y morado",
-        "explicacion": "Los colores secundarios se obtienen mezclando dos primarios: rojo+amarillo=naranja, azul+amarillo=verde, rojo+azul=morado.",
-        "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro y blanco",
-          "Todos los del arcoíris"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b4-v2-003",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b4-v2-002",
+        "tema": "Haciendo ruido fuerte y suavecito",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La escultura es un arte que trabaja en tres dimensiones  ",
+        "pregunta": "Saber controlar tu angelitica maestrita divinal manita asombrosílla al tocar un instrumentillo gloriosillo esplendenticítima maravillosilla angelitillo, implica dominar la excelencisíma deidad de percusionar fortísimo como un gigante rey asombrocillo cuando la maestra dirige gloriosillo, y tocar lentísimo suavecito pacífico adoradito cuando dicta silencio magistral.",
         "respuestaCorrecta": "true",
-        "explicacion": "A diferencia de la pintura (2D), la escultura crea formas en tres dimensiones: alto, ancho y profundidad."
+        "explicacion": "El verdadero angelitón artistillo preescolár domínala fuerza asombrocita de sus manitos: Pianissimamentito (suavecito divino tierno celestial esplendorosotito) y Fortissimamentito (golpetazo ruidosito angelical infalible amadísimo retumbador). 🎵"
       },
       {
-        "id": "preescolar-2-artes-b4-v2-004",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b4-v2-003",
+        "tema": "Cascabeles y campanitas mágicas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El conjunto de líneas, colores y formas que se repiten en un diseño se llama ___  ",
-        "respuestaCorrecta": "patrón",
-        "explicacion": "Un patrón es una secuencia que se repite de manera ordenada en diseño y arte."
+        "pregunta": "Cuando chocas asombrositamente angelitílitita y magistral dos tapaderitas plateaditas gloriositas divinales o circulitos metálicos refulgentes estelares purísimos con inmensillo deidad resplandecidillo ruido orquestal, creas el sonidazo asombrosiílo esplendentísimo intachable de los majestuositicímos plat___llos preescolaricíllos.",
+        "respuestaCorrecta": "i",
+        "explicacion": "plat-I-llos asombrosiíllos gloriosiíllos: los discos estelares metaleadores resplandecidíllos esplendentíticimos ruidocitos amadísimos que hacen chasssh chasssh. 🎶"
       },
       {
-        "id": "preescolar-2-artes-b4-v2-005",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b4-v2-004",
+        "tema": "El tamborcito que retumba",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el instrumento de viento que más se usa en bandas escolares?  ",
-        "respuestaCorrecta": "Flauta de pico",
-        "explicacion": "La flauta de pico es el instrumento de viento más utilizado en educación básica por su facilidad de aprendizaje.",
+        "pregunta": "¿Qué ocurre milagrosamente formador angelitíticima asombrocítima y celestial gloriosa preescolarsilla estelarísima divina maravillosísima refulgentísimas doradilla si en vez de golpear magísterialíticilla puríficadisíma con la baquetita almohadillada angelical amada esplencetitítisma y rutilante pegamentíticocilla asombrosiílla divinales amada intocable gloriosita, avientas puntapiés machacadores arrolladores fúnebres destrozadores tristones al membranísimo amadito gorrión cuerillo pavorosito amadísimo angelical e inmaculadito tamborico gloriosillo?",
         "opciones": [
-          "Tuba",
-          "Flauta de pico",
-          "Trombón",
-          "Corno francés"
-        ]
+          "Rasgas destrozadoramente y fracturas asquerosíticil ruidoso enojocille abrumadora lúgubre llorosa triste gélido fúnebre su membranilla pielita estelar matando su sonoridad divina amada gloriositica para siempre 💥",
+          "Canta todavía más fuertísimo afinadocititíto maravilloso e celestial resplandecientillo mágico angelical asombrositito",
+          "Se agranda volando globositamente amado al firmamento glorioso llenitísimo de lucecitas diviniditas",
+          "Empieza a brincar cantando reguetonocito ruidocito oscurísimo aburriditamente y de chillidillos lastimerillos."
+        ],
+        "respuestaCorrecta": "Rasgas destrozadoramente y fracturas asquerosíticil ruidoso enojocille abrumadora lúgubre llorosa triste gélido fúnebre su membranilla pielita estelar matando su sonoridad divina amada gloriositica para siempre 💥",
+        "explicacion": "El parche tamboriento adoradito asombrosillo divino gloriosíticimo es sumamentillo fragíllísimo estelaricíllo milagrosocillo, requiere magistral de pinceladas golpecitos asombrosiillos con palillitos, nunca patadonas brutales fúnebres somnolientes gélidas asquerocillas rompedoras letárgicas lastimosillas asombrocitas! 🥁"
       },
       {
-        "id": "preescolar-2-artes-b4-v2-006",
-        "tema": "Teatro simple",
-        "tipo": "multiple_choice",
+        "id": "pre2-art-b4-v2-005",
+        "tema": "Las maracas rumberas divertidas",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En una obra de teatro, ¿cómo se llama el texto que los actores dicen?  ",
-        "respuestaCorrecta": "Libreto o guion",
-        "explicacion": "El libreto o guion contiene los diálogos, acotaciones y estructura de una obra de teatro.",
-        "opciones": [
-          "Partitura",
-          "Libreto o guion",
-          "Pauta",
-          "Refrán"
-        ]
+        "pregunta": "El pandero gloriosil y asombrosiíllo rutilante divino celestial maestrititil adoradito estelar intachable es una ruedita mágica infalible asombrosiilla con corcholatitas cantarinítillas que puedes tanto golpetear majestuositamente pom pom, como zangolotear para que haga chichiqui chichiqui maravillosito angelical.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Exactisimoteee!! El panderillo gloriosicíllo es el instrumento dobleméntecito esplendentíticamente mágico angelical resplandecidillo: suena como tambocillo al golpe, y como maracucha al sacudío asombrosiíllo! 🪇"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-artes-b4-001",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b4-v1-001",
+        "tema": "El tamborcito que retumba",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuáles son los colores primarios?",
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios (rojo, azul, amarillo) no se obtienen mezclando otros colores.",
+        "pregunta": "¿Qué instrumento redondo golpeamos con baquetas para que haga PUM PUM PUM?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro, blanco y gris",
-          "Café, rosa y turquesa"
-        ]
+          "El tamborcito marchador 🥁",
+          "Una cobija sin ruido",
+          "Un pececito nadador",
+          "Una maceta gris"
+        ],
+        "respuestaCorrecta": "El tamborcito marchador 🥁",
+        "explicacion": "El glorioso tambor es el rey del pum pum pum. 🥁",
+        "visual": "🥁"
       },
       {
-        "id": "preescolar-2-artes-b4-v2-001",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b4-v2-001",
+        "tema": "Las maracas rumberas divertidas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo se llama la técnica de doblar papel para crear figuras?",
-        "respuestaCorrecta": "Origami",
-        "explicacion": "El origami es el arte japonés de doblar papel para crear figuras tridimensionales.",
+        "pregunta": "¿Qué guardan en su pancita las maracas para producir su ruido al sacudirlas?",
         "opciones": [
-          "Decoupage",
-          "Origami",
-          "Collage",
-          "Mosaico"
-        ]
+          "Semillitas ruidosas o piedritas saltarinas 🪇",
+          "Agua fría oscura",
+          "Aire fétido ruidoso",
+          "Mermelada pegajosa"
+        ],
+        "respuestaCorrecta": "Semillitas ruidosas o piedritas saltarinas 🪇",
+        "explicacion": "Las maracas suenan hermoso porque encierran balincillos y piedritas. 🪇"
       },
       {
-        "id": "preescolar-2-artes-b4-002",
-        "tema": "Modelado con plastilina",
-        "tipo": "true_false",
+        "id": "pre2-art-b4-v1-004",
+        "tema": "Haciendo ruido fuerte y suavecito",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Al mezclar rojo y azul obtenemos el color verde",
-        "respuestaCorrecta": "false",
-        "explicacion": "Mezclando rojo y azul obtenemos violeta o morado, no verde."
+        "pregunta": "Si un bebé chiquitito está tomando su siestita... ¿Cómo debes tocar la campanita?",
+        "opciones": [
+          "Muy suavecito, despacito y sin hacer ruidazo 🤫",
+          "Durísimo hasta romper vidrios",
+          "Gritando fuerte en su oreja",
+          "Avientando el tambor a la puerta"
+        ],
+        "respuestaCorrecta": "Muy suavecito, despacito y sin hacer ruidazo 🤫",
+        "explicacion": "Tocar suavecito es ser un músico muy empático y cuidadoso. 🤫",
+        "visual": "🤫"
       }
     ]
   },
-  "generado": "2026-03-26T02:58:37.564Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:20:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

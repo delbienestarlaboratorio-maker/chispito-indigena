@@ -2,237 +2,186 @@
   "grado": "preescolar-2",
   "materia": "artes",
   "bloque": 1,
-  "nombre": "Modelado y escultura",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Magia con los colores y crayolas",
+  "meses": "Agosto - Septiembre",
   "temas": [
-    "Modelado con plastilina",
-    "Canciones y ritmos",
-    "Danza creativa",
-    "Cuento ilustrado",
-    "Teatro simple"
+    "Los colores primarios",
+    "Pintando formas",
+    "Mezclas mágicas de pintura",
+    "Mi crayola"
   ],
-  "totalEjercicios": 14,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-artes-b1-001",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b1-v1-001",
+        "tema": "Los colores primarios",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuáles son los colores primarios?",
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios (rojo, azul, amarillo) no se obtienen mezclando otros colores.",
+        "pregunta": "¿De qué color es la manzana riquísima y el corazón del amor?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro, blanco y gris",
-          "Café, rosa y turquesa"
-        ]
+          "Color Rojo ❤️",
+          "Color Gris oscuro",
+          "Color Café triste",
+          "Transparente sin color"
+        ],
+        "respuestaCorrecta": "Color Rojo ❤️",
+        "explicacion": "El Rojo es el color divino de la fresita rica y el amor. 🍎",
+        "visual": "🍎"
       },
       {
-        "id": "preescolar-2-artes-b1-002",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b1-v1-002",
+        "tema": "Los colores primarios",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué brillante color tiene el solecito que nos calienta en el día?",
+        "opciones": [
+          "Amarillo ☀️",
+          "Negro asustador",
+          "Gris lluvia",
+          "Morado oscuro"
+        ],
+        "respuestaCorrecta": "Amarillo ☀️",
+        "explicacion": "El Amarillo es el color de la luz estrellada y del solecito hermoso. 🌟",
+        "visual": "🌟"
+      },
+      {
+        "id": "pre2-art-b1-v1-003",
+        "tema": "Mezclas mágicas de pintura",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Si unimos la pintura roja con la pintura amarilla, aparecerá el mágico color Anaranj___odo.",
+        "respuestaCorrecta": "ad",
+        "explicacion": "Anaranj-AD-o! El rojo y amarillo crean la bella mandarina. 🍊"
+      },
+      {
+        "id": "pre2-art-b1-v1-004",
+        "tema": "Pintando formas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Al mezclar rojo y azul obtenemos el color verde",
+        "pregunta": "Un artista genial pinta rayando los muebles y la pared de su mamá.",
         "respuestaCorrecta": "false",
-        "explicacion": "Mezclando rojo y azul obtenemos violeta o morado, no verde."
+        "explicacion": "¡Jamás! Los niños artistas pintan hermoso en sus hojitas de papel. 🖌️"
       },
       {
-        "id": "preescolar-2-artes-b1-003",
-        "tema": "Modelado con plastilina",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Al mezclar amarillo y azul se produce el color ___",
-        "respuestaCorrecta": "verde",
-        "explicacion": "Amarillo + azul = verde. Es uno de los colores secundarios."
-      },
-      {
-        "id": "preescolar-2-artes-b1-004",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b1-v1-005",
+        "tema": "Mi crayola",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué herramienta se usa para modelar figuras con plastilina?",
-        "respuestaCorrecta": "Las manos y palillos",
-        "explicacion": "La plastilina se modela principalmente con las manos y con palillos o estecas para detalles.",
+        "pregunta": "¿Con qué barrita de cera gordita y mágica coloreamos sin ensuciarnos las manitas?",
         "opciones": [
-          "Tijeras",
-          "Las manos y palillos",
-          "Una regla",
-          "Un pincel"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b1-005",
-        "tema": "Modelado con plastilina",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estos es un instrumento de percusión?",
-        "respuestaCorrecta": "Tambor",
-        "explicacion": "Los instrumentos de percusión producen sonido al ser golpeados. El tambor es uno de los más conocidos.",
-        "opciones": [
-          "Flauta",
-          "Guitarra",
-          "Tambor",
-          "Trompeta"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b1-006",
-        "tema": "Modelado con plastilina",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La dramatización es una forma de expresión artística",
-        "respuestaCorrecta": "true",
-        "explicacion": "La dramatización o teatro es una expresión artística que combina cuerpo, voz y emoción."
-      },
-      {
-        "id": "preescolar-2-artes-b1-007",
-        "tema": "Modelado con plastilina",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué expresa una persona cuando dibuja su familia?",
-        "respuestaCorrecta": "Emociones, afecto y su entorno",
-        "explicacion": "El dibujo es una forma de comunicar sentimientos y experiencias personales.",
-        "opciones": [
-          "Solo datos",
-          "Emociones, afecto y su entorno",
-          "Operaciones matemáticas",
-          "Datos científicos"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b1-008",
-        "tema": "Modelado con plastilina",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Las canciones y las ___ son formas de expresión musical y literaria",
-        "respuestaCorrecta": "rimas",
-        "explicacion": "Las rimas y canciones combinan ritmo, melodía y lenguaje para expresar ideas."
+          "Con mi mágica Crayola 🖍️",
+          "Con una estufa caliente",
+          "Con una piedra mojada",
+          "Con lodo del patio"
+        ],
+        "respuestaCorrecta": "Con mi mágica Crayola 🖍️",
+        "explicacion": "¡La crayola de cera es tu varita mágica preescolar para hacer dibujos hermosos! 🖍️",
+        "visual": "🖍️"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-artes-b1-v2-001",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b1-v2-001",
+        "tema": "Los colores primarios",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo se llama la técnica de doblar papel para crear figuras?  ",
-        "respuestaCorrecta": "Origami",
-        "explicacion": "El origami es el arte japonés de doblar papel para crear figuras tridimensionales.",
+        "pregunta": "¿Cuáles son los 3 colores papás (Colores Primarios) que al mezclarse crean a todos los demás?",
         "opciones": [
-          "Decoupage",
-          "Origami",
-          "Collage",
-          "Mosaico"
-        ]
+          "Rojo, Azul y Amarillo 🎨",
+          "Negro, Blanco y Gris",
+          "Lodo, Café y Tierra",
+          "Misterioso, Transparente y Agua"
+        ],
+        "respuestaCorrecta": "Rojo, Azul y Amarillo 🎨",
+        "explicacion": "¡Estos 3 colores mágicos son los invencibles colores que pintan el mundo amado! 🌈"
       },
       {
-        "id": "preescolar-2-artes-b1-v2-002",
-        "tema": "Teatro simple",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué son los colores secundarios?  ",
-        "respuestaCorrecta": "Naranja, verde y morado",
-        "explicacion": "Los colores secundarios se obtienen mezclando dos primarios: rojo+amarillo=naranja, azul+amarillo=verde, rojo+azul=morado.",
-        "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro y blanco",
-          "Todos los del arcoíris"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b1-v2-003",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b1-v2-002",
+        "tema": "Mezclas mágicas de pintura",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La escultura es un arte que trabaja en tres dimensiones  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "A diferencia de la pintura (2D), la escultura crea formas en tres dimensiones: alto, ancho y profundidad."
+        "pregunta": "La técnica angelical para pintar bonito es meter toda la mano al bote de pintura derramada y salpicar la mesa.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Súper Falso! Derramar y ensuciar gasta tu pintura rutilante. Se usa un dedito o tu pincel con mucho cuidado precioso. 🧼"
       },
       {
-        "id": "preescolar-2-artes-b1-v2-004",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b1-v2-003",
+        "tema": "Pintando formas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El conjunto de líneas, colores y formas que se repiten en un diseño se llama ___  ",
-        "respuestaCorrecta": "patrón",
-        "explicacion": "Un patrón es una secuencia que se repite de manera ordenada en diseño y arte."
+        "pregunta": "Tener cuidado de no salirte ni rayar chueco fuera de la rayita del dibujo es hacerlo respetando el c___ntornillo.",
+        "respuestaCorrecta": "o",
+        "explicacion": "cO-ntornillo: El marco mágico que encierra el colorin divino para no manchar el exterior y dejarlo impoluto. 🦁"
       },
       {
-        "id": "preescolar-2-artes-b1-v2-005",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b1-v2-004",
+        "tema": "Mi crayola",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el instrumento de viento que más se usa en bandas escolares?  ",
-        "respuestaCorrecta": "Flauta de pico",
-        "explicacion": "La flauta de pico es el instrumento de viento más utilizado en educación básica por su facilidad de aprendizaje.",
+        "pregunta": "Después de colorear y ser un maestro del dibujo... ¿qué se hace heroicamente con las botellitas de pintura y crayolas?",
         "opciones": [
-          "Tuba",
-          "Flauta de pico",
-          "Trombón",
-          "Corno francés"
-        ]
+          "Se limpian y acomodan gloriosamente en su cajita y repisa adorada 🧽",
+          "Se tiran rotas al suelo furiosamente con patas de león",
+          "Se guardan destapadas goteando todo oscuro y sucio el tapete mágico",
+          "Se apilan tristes abandonadas y pisadas arrugadas"
+        ],
+        "respuestaCorrecta": "Se limpian y acomodan gloriosamente en su cajita y repisa adorada 🧽",
+        "explicacion": "Ordenarcito pulcro del campito creador preescolar te hace el rey y la reina de las artes divinas estelares bondadosas! 🧹"
       },
       {
-        "id": "preescolar-2-artes-b1-v2-006",
-        "tema": "Teatro simple",
-        "tipo": "multiple_choice",
+        "id": "pre2-art-b1-v2-005",
+        "tema": "Mezclas mágicas de pintura",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En una obra de teatro, ¿cómo se llama el texto que los actores dicen?  ",
-        "respuestaCorrecta": "Libreto o guion",
-        "explicacion": "El libreto o guion contiene los diálogos, acotaciones y estructura de una obra de teatro.",
-        "opciones": [
-          "Partitura",
-          "Libreto o guion",
-          "Pauta",
-          "Refrán"
-        ]
+        "pregunta": "Si mezclas un poquito de rojo amoroso y mucho blanco nevado, creas el mágico color Rosa.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡El angelito color rosa de un tierno cerdito!! 🐷"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-artes-b1-001",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b1-v1-001",
+        "tema": "Los colores primarios",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuáles son los colores primarios?",
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios (rojo, azul, amarillo) no se obtienen mezclando otros colores.",
+        "pregunta": "¿De qué color es el tomate o la capa voladora de los superhéroes?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro, blanco y gris",
-          "Café, rosa y turquesa"
-        ]
+          "Color Rojito brillante ❤️",
+          "Azul marino",
+          "Amarillo machacado",
+          "Transparente que no brilla"
+        ],
+        "respuestaCorrecta": "Color Rojito brillante ❤️",
+        "explicacion": "El Rojo es el color de la fresita rica y los corazoncitos! 🍎",
+        "visual": "🍎"
       },
       {
-        "id": "preescolar-2-artes-b1-v2-001",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b1-v2-001",
+        "tema": "Los colores primarios",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo se llama la técnica de doblar papel para crear figuras?",
-        "respuestaCorrecta": "Origami",
-        "explicacion": "El origami es el arte japonés de doblar papel para crear figuras tridimensionales.",
+        "pregunta": "¿Cuáles son los colores primarios o colores papás?",
         "opciones": [
-          "Decoupage",
-          "Origami",
-          "Collage",
-          "Mosaico"
-        ]
+          "Rojo, Amarillo y Azul 🎨",
+          "Café, gris oscuro",
+          "Transparente",
+          "Blancuzco y pálido"
+        ],
+        "respuestaCorrecta": "Rojo, Amarillo y Azul 🎨",
+        "explicacion": "Rojo, azul y amarillo son los colores mágicos reyes. 🌈"
       },
       {
-        "id": "preescolar-2-artes-b1-002",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b1-v1-004",
+        "tema": "Pintando formas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Al mezclar rojo y azul obtenemos el color verde",
+        "pregunta": "Un artista genial pinta rayando la pared de su mamá.",
         "respuestaCorrecta": "false",
-        "explicacion": "Mezclando rojo y azul obtenemos violeta o morado, no verde."
+        "explicacion": "¡¡Jamás!! Los verdaderos artistas pintan en sus hojitas. 🖌️"
       }
     ]
   },
-  "generado": "2026-03-26T02:58:37.560Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:15:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

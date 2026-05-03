@@ -2,243 +2,303 @@
   "grado": "preescolar-2",
   "materia": "conocimiento",
   "bloque": 1,
-  "nombre": "Mis 5 sentidos",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Mis 5 Sentidos",
+  "meses": "Agosto - Septiembre",
   "temas": [
-    "Los sentidos",
-    "El tiempo y clima",
-    "Plantas y animales",
-    "La comunidad",
-    "Cuidar el planeta"
+    "Mis ojitos para ver (Vista)",
+    "Mi naricita para oler (Olfato)",
+    "Mi boca para saborear (Gusto)",
+    "Mis orejitas y mis manitas (Oído y Tacto)"
   ],
-  "totalEjercicios": 14,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-conocimiento-b1-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b1-v1-001",
+        "tema": "Mis ojitos para ver (Vista)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Qué usamos en nuestra carita para poder ver los colores del arcoíris y las caricaturas?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "Nuestros dos Ojitos 👀",
+          "Nuestra panza",
+          "Los codos",
+          "Las rodillas"
+        ],
+        "respuestaCorrecta": "Nuestros dos Ojitos 👀",
+        "explicacion": "¡Con los hermosos ojitos vemos todo lo colorido y asombroso de la vida! 👀",
+        "visual": "👀"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-002",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
-        "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b1-003",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b1-v1-002",
+        "tema": "Mis ojitos para ver (Vista)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La mamá, el papá y los hijos forman una familia",
+        "pregunta": "Cuando cerramos los ojitos muy fuerte todo se vuelve oscuro y parece que es de noche.",
         "respuestaCorrecta": "true",
-        "explicacion": "La familia es el grupo de personas con quienes vivimos y compartimos afecto y cuidado."
+        "explicacion": "¡Verdad! Los párpados son como persianas, si las cierras no entra la luz. 🙈"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-004",
-        "tema": "Los sentidos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Con los ojos podemos ___ todo a nuestro alrededor",
-        "respuestaCorrecta": "ver",
-        "explicacion": "Los ojos son los órganos de la vista; nos permiten ver formas, colores y movimiento."
-      },
-      {
-        "id": "preescolar-2-conocimiento-b1-005",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b1-v1-003",
+        "tema": "Mi naricita para oler (Olfato)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas son partes del cuerpo?",
-        "respuestaCorrecta": "Brazo, pierna, cabeza",
-        "explicacion": "Las partes del cuerpo humano incluyen cabeza, tronco y extremidades (brazos y piernas).",
+        "pregunta": "¿Con qué parte maravillosa podemos oler cuando mamá hornea galletitas riquísimas?",
         "opciones": [
-          "Mesa, silla, puerta",
-          "Brazo, pierna, cabeza",
-          "Libro, cuaderno, lápiz",
-          "Casa, árbol, nube"
-        ]
+          "Con la Naricita 👃",
+          "Con la rodilla",
+          "Con el pelo",
+          "Con la espalda"
+        ],
+        "respuestaCorrecta": "Con la Naricita 👃",
+        "explicacion": "¡Tu naricita respira el aire y siente si algo huele delicioso o muy fuchi! 👃",
+        "visual": "👃"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-006",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b1-v1-004",
+        "tema": "Mi naricita para oler (Olfato)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El zorrillito pestilente produce un olor que nuestra nariz capta muy ___chi.",
+        "respuestaCorrecta": "fu",
+        "explicacion": "¡Fuchi! La nariz diferencia los olores agradables de las pestilencias. 🦨"
+      },
+      {
+        "id": "pre2-cono-b1-v1-005",
+        "tema": "Mi boca para saborear (Gusto)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si le das una mordida a un limón verdecito, ¿qué sabor siente tu boquita y lengua?",
+        "opciones": [
+          "Muuuuuy Ácido o Agrio 🍋",
+          "Sabe a chicle dulce",
+          "Sabe a pastel caliente",
+          "No sabe a nada"
+        ],
+        "respuestaCorrecta": "Muuuuuy Ácido o Agrio 🍋",
+        "explicacion": "¡Ácido! Y te hace arrugar tu carita chistosamente gracias al Sentido del Gusto. 👅",
+        "visual": "🍋"
+      },
+      {
+        "id": "pre2-cono-b1-v1-006",
+        "tema": "Mi boca para saborear (Gusto)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El perro y el gato son animales domésticos",
-        "respuestaCorrecta": "true",
-        "explicacion": "Los animales domésticos son los que viven con las personas en sus casas."
+        "pregunta": "El helado favorito de fresa que te comes en domingo lo saboreas usando tus rodillas.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! El saborcito se siente en la lengüita y en tu bella boquita. 🍦"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-007",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b1-v1-007",
+        "tema": "Mis orejitas y mis manitas (Oído y Tacto)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué le da energía a las plantas para crecer?",
-        "respuestaCorrecta": "El Sol",
-        "explicacion": "Las plantas necesitan luz solar para realizar la fotosíntesis y producir su alimento.",
+        "pregunta": "¿Qué parte de tu cuerpo es súper buenísima para atrapar y escuchar el canto de un pajarito?",
         "opciones": [
-          "La luna",
-          "La lluvia ácida",
-          "El Sol",
-          "El viento"
-        ]
+          "Mis Orejitas (El Oído) 👂",
+          "Mis rodillas",
+          "Mi ombligo",
+          "Mi barbilla"
+        ],
+        "respuestaCorrecta": "Mis Orejitas (El Oído) 👂",
+        "explicacion": "¡Tus orejitas adoradas escuchan música, trinos y los cuentos que narra tu tía en la noche! 🐦",
+        "visual": "👂"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-008",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b1-v1-008",
+        "tema": "Mis orejitas y mis manitas (Oído y Tacto)",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El agua, el fuego, la tierra y el ___ son elementos de la naturaleza",
-        "respuestaCorrecta": "aire",
-        "explicacion": "El aire es uno de los elementos fundamentales de la naturaleza y lo respiramos para vivir."
+        "pregunta": "Si tocas a un lindo y gordo gatito ronroneador, sentirás que su pelito con tus manos es muy suavec___. ",
+        "respuestaCorrecta": "ito",
+        "explicacion": "Suavecito asombrosamente esponjoso. Ese es el poder espectacular de tus deditos en el Tacto. 🐱"
+      },
+      {
+        "id": "pre2-cono-b1-v1-009",
+        "tema": "Mis 5 ojitos, manitas, oído, olfato y gusto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Juntando la vista, olfato, gusto, oído y tacto, resultan ser los fabulosos ¡CINCO...!",
+        "opciones": [
+          "5 Sentidos mágicos 🖐️",
+          "5 perritos ladradores",
+          "5 sombrerudos",
+          "5 gigantes de roca"
+        ],
+        "respuestaCorrecta": "5 Sentidos mágicos 🖐️",
+        "explicacion": "Tus 5 Sentidos que son tus ayudantes incondicionales para jugar, comer y explorar todo. ✨",
+        "visual": "🖐️"
+      },
+      {
+        "id": "pre2-cono-b1-v1-010",
+        "tema": "Mi naricita para oler (Olfato)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El olorcito de una flor color rojo (rosa) en la primavera, es muy hermoso y rico para nuestra nariz.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Agradable y estupendo aroma primaveral el cual capta tu naricilla infalible! 🌹"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-conocimiento-b1-v2-001",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b1-v2-001",
+        "tema": "Mis ojitos para ver (Vista)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?  ",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "pregunta": "Imagina asombrosamente esconderte abajo de tu cobija en una noche súper tenebrosa y apagar veloz la luz. ¿Qué capta tu visión asombrosa a falta de luminarias?  ",
         "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
+          "La oscuridad negra lúgubre que no deja distinguir majestuosamente ningún glorioso juguete tirado",
+          "Apreciar inmarcesiblemente brillantes destellos cegadores que te ciegan asombrosamente",
+          "Todo el abecedario refulgente resplandeciente volador brillante majestuosamente coloreado",
+          "Los soles calentitos inmaculados que hornean nítidamente pasteles gloriosos dorados maravillosos"
+        ],
+        "respuestaCorrecta": "La oscuridad negra lúgubre que no deja distinguir majestuosamente ningún glorioso juguete tirado",
+        "explicacion": "Sin luz rebotante radiante dorada sobre las paredes de la recamara majestuosa, nuestros divinos ojitos caen bajo la inescrutable y lúgubre oscuridad asombrosa. 🌚"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-v2-002",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuáles son los miembros de una familia extendida?  ",
-        "respuestaCorrecta": "Abuelos, tíos, primos y más parientes",
-        "explicacion": "La familia extendida incluye a todos los parientes: abuelos, tíos, primos, etc.",
-        "opciones": [
-          "Solo papá y mamá",
-          "Papá, mamá e hijos",
-          "Abuelos, tíos, primos y más parientes",
-          "Solo los vecinos"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b1-v2-003",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b1-v2-002",
+        "tema": "Mis ojitos para ver (Vista)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los animales salvajes también son importantes para la naturaleza aunque no vivamos con ellos  ",
+        "pregunta": "A las personas gigantes (ancianitos o papás) que ya no alcanzan espléndidamente a ver las letras lejanas chiquitas formidables se les recetan unos poderosos 'Lentes' salvadores formidables inmarcesibles.  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales salvajes son parte del ecosistema y ayudan a mantener el equilibrio natural."
+        "explicacion": "Los Lentezuelos preciosos majestuosos otorgan al órgano visual humano la grandiosa magnificación correctiva insuperable invencible que requiere asombrosamente a tan amada edad venerable incontable. 👓"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-v2-004",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b1-v2-003",
+        "tema": "Mi boca para saborear (Gusto)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las plantas producen el ___ que respiramos  ",
-        "respuestaCorrecta": "oxígeno",
-        "explicacion": "Durante la fotosíntesis, las plantas absorben CO₂ y liberan oxígeno, el gas que necesitamos para vivir."
+        "pregunta": "Un chilito rojo asombroso chiquitito picosísimo e inmarcesiblemente picudo ardiente, engaña asombrosísimamente lastimosamente y dolorosamente con ardor nuestra valiente len___.  ",
+        "respuestaCorrecta": "gua",
+        "explicacion": "Su fuego abrasador feroz e incalculablemente incontrolable estalla indomable e inalcanzable justo arribita de la asombrosa asombrosísima roja lenguota tuya o en papilas quemantes inolvidables. 🌶️"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-v2-005",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b1-v2-004",
+        "tema": "Mis orejitas y mis manitas (Oído y Tacto)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitamos para mantenernos saludables?  ",
-        "respuestaCorrecta": "Comer bien, hacer ejercicio y dormir suficiente",
-        "explicacion": "La salud integral requiere buena alimentación, actividad física y descanso adecuado.",
+        "pregunta": "De reprente, suena potentemente PUMM y una alarma sirena relampagueante chillonsísima de bomberos, ¿qué parte corporísima angelical de inmensa receptividad sufre escuchando con pavor asustadísimo este retumbar incesante lúgubre ruidoso e incontrolable inmarcesible?  ",
         "opciones": [
-          "Solo dormir",
-          "Comer comida chatarra",
-          "Comer bien, hacer ejercicio y dormir suficiente",
-          "Solo tomar vitaminas"
-        ]
+          "Nuestros formidables Oídos (orejas auditivas inmarcesibles)",
+          "Nuestra panza ronroneadora dolorosa amarga de hambre feroz lastimera",
+          "Nuestros piecitos cansados inmaculados asombrosísimos indomables",
+          "Nuestra frente lisa despejada resplandeciente pulcra intachable celestial"
+        ],
+        "respuestaCorrecta": "Nuestros formidables Oídos (orejas auditivas inmarcesibles)",
+        "explicacion": "Son tus trompetillas auditivas inmaculadas angelicalmente perfectas que escuchan los espeluznantes ruidos ruidosos majestuosos asombrosos del callejón bullicioso ruidoso. 🚒"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-v2-006",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b1-v2-005",
+        "tema": "Mi naricita para oler (Olfato)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Aroma inconfundible asombroso inmarcesible universal es el olor apestosito doloroso incalculablemente fétido sulfúrico del temido y glorioso pedito ruidoso y vergonzoso tirado con estruendo asombroso incalculablemente chistoso divertido y maloso por los vecinos crueles e invencibles del salón preestablecido infantil incontestable.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Un humor purísimo infantil! La nariz divina inmarcesible y gloriosa de inmediato emite una alarma inmensa tapándola y dictaminando la asombrosa fetidez inmaculada sin precedentes vergonzosos risibles innegables asombrosos rotundos. 💨"
+      },
+      {
+        "id": "pre2-cono-b1-v2-006",
+        "tema": "Mis orejitas y mis manitas (Oído y Tacto)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Cuando tocas la asombrosa inmaculosa rocosa cubierta picosita e irregular rasposa de una piña inmensa gloriosa tropical colosal, empleas tu divino sentido del Tac___.  ",
+        "respuestaCorrecta": "to",
+        "explicacion": "Tacto: El infalible explorador dactilar manual asombrosísimo protector de texturas indomables raspadoras punzantes e insuperables invencibles adoradísimas infinitamente por milagros palpables universales. 🍍"
+      },
+      {
+        "id": "pre2-cono-b1-v2-007",
+        "tema": "Mi boca para saborear (Gusto)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿De dónde viene el agua que tomamos?  ",
-        "respuestaCorrecta": "De ríos, lagos y pozos que se purifica",
-        "explicacion": "El agua que consumimos proviene de fuentes naturales (ríos, acuíferos) y pasa por procesos de purificación.",
+        "pregunta": "Identificamos como 'Dulce' celestial inmaculado glorioso asombrosamente sabroso a aquel bocado azucarado inmarcesible inquebrantable inolvidable como lo es...  ",
         "opciones": [
-          "Del cielo directamente",
-          "De ríos, lagos y pozos que se purifica",
-          "Solo del mar",
-          "De las nubes sin purificar"
-        ]
+          "Un abrumador caramelo envuelto reluciente majestuoso inmarcesible esplendente goloso asombroso invencible",
+          "Una cebolla morada abrumadoramente amarga agria de doloroso pavor lacrimoso indomable incalculable lagrimal asombroso cruel aterrador",
+          "Una piedra del jardín incontrolablemente asombrosa dura cruel rocosa inmarcesible polvosa horrenda terrosa amarga sucia",
+          "El jugo amargo incalculablemente insufrible espantoso lúgubre verde resplandeciente inmarcesible de espinacas crudas aburridas asombrosas y crueles"
+        ],
+        "respuestaCorrecta": "Un abrumador caramelo envuelto reluciente majestuoso inmarcesible esplendente goloso asombroso invencible",
+        "explicacion": "A través de tus divinizadas valientes inmarcesibles adoradas asombrosamente potentes papilas, el asombroso dulce dictamina ser un inmenso manjar supremo innegable incalculable de azúcar inmedible rotunda infantil. 🍬"
+      },
+      {
+        "id": "pre2-cono-b1-v2-008",
+        "tema": "Mis orejitas y mis manitas (Oído y Tacto)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El hielito cubero inmenso gélido polar extraído presurosamente majestuoso asombrosísimo infalible inmarcesible del tremendo congelador supremo duele congeladoramente lastimosamente inmaculadamente al posarlo frío dolorosamente por la panza asombrosa infantil inmarcesible cálida asombrosa.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Tus incalculables y asombrosas terminaciones térmicas pielares del tacto te rescatan dictaminando el gélido gélido inmarcesible poder del frío de los polos congelados incalculablemente cristalinos majestuosos abrumadores divinos crueles de escarcha. 🧊"
+      },
+      {
+        "id": "pre2-cono-b1-v2-009",
+        "tema": "Mi naricita para oler (Olfato)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Antes de deborar y morder con voracidad asombrosa celestial tu almuerzo escolar, lo acercas inminentemente invencible inmarcesible olfateándolo ruidosamente y asegurándote asombrosa y espléndidamente majestuoso de que...  ",
+        "opciones": [
+          "Que no espante con un huelar terrible a podrido asombrosamente rancio lúgubre y echado cruelísimamente inmarcesiblemente a la putrefacta perdición eterna",
+          "Que brille como antorcha radiante fulgurante cegadora majestuosa",
+          "Que chille gloriosamente piando inmarcesible pollito pío pío majestuoso volador indomable incalculable e incansable",
+          "Las nubes oscuras bajen a asustarte pavorosa abrumadoramente crueles tristes heladas"
+        ],
+        "respuestaCorrecta": "Que no espante con un huelar terrible a podrido asombrosamente rancio lúgubre y echado cruelísimamente inmarcesiblemente a la putrefacta perdición eterna",
+        "explicacion": "La naricita protege angelical infalible maravillosamente al gordinflón e imparable estómago rechazando cualquier asombrosa carne maloliente o pavoroso abrumador alimento añejo indeseable inolvidablemente fétido. 🥪"
+      },
+      {
+        "id": "pre2-cono-b1-v2-010",
+        "tema": "Mis ojitos para ver (Vista)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Sin el regalo divino asombrosísimo majestuoso de la infalible resplandeciente vista, tendríamos que leer usando maravillosamente la mano por la lectura braille acaricia___ texturas majestuosísimas.  ",
+        "respuestaCorrecta": "ndo",
+        "explicacion": "AcariciaNDO: Los grandiosos infalibles invencibles héroes ciegos paladean las maravillas literarias asombrosas del mundo valiéndose asombrosamente del glorioso invencible majestuosísimo y salvador Tacto con manos angelicales maravillosas. 📖"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-conocimiento-b1-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b1-v1-001",
+        "tema": "Mis ojitos para ver (Vista)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Qué usamos en nuestra carita para poder ver los colores del arcoíris?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "Nuestros dos Ojitos 👀",
+          "Nuestra panza",
+          "Los codos",
+          "Las rodillas"
+        ],
+        "respuestaCorrecta": "Nuestros dos Ojitos 👀",
+        "explicacion": "¡Con los hermosos ojitos vemos todo lo colorido! 👀",
+        "visual": "👀"
       },
       {
-        "id": "preescolar-2-conocimiento-b1-v2-001",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b1-v1-003",
+        "tema": "Mi naricita para oler (Olfato)",
         "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué parte maravillosa podemos oler cuando mamá hornea galletitas riquísimas?",
+        "opciones": [
+          "Con la Naricita 👃",
+          "Con la rodilla",
+          "Con el pelo",
+          "Con la espalda"
+        ],
+        "respuestaCorrecta": "Con la Naricita 👃",
+        "explicacion": "¡Tu naricita siente si algo huele delicioso! 👃",
+        "visual": "👃"
+      },
+      {
+        "id": "pre2-cono-b1-v2-005",
+        "tema": "Mi naricita para oler (Olfato)",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
-        "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b1-002",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
-        "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
+        "pregunta": "Aroma inconfundible asombroso es el olor apestosito del temido y chistoso pedito ruidoso tirado en el salón por algún amigo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Un humor purísimo infantil! La nariz de inmediato emite una alarma inmensa de asombrosa fetidez. 💨"
       }
     ]
   },
-  "generado": "2026-03-26T02:58:37.568Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

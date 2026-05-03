@@ -2,132 +2,190 @@
   "grado": "primaria-1",
   "materia": "espanol",
   "bloque": 4,
-  "nombre": "Lectura inicial",
-  "meses": "Febrero-Marzo",
+  "nombre": "Los cuentitos mágicos de primerito",
+  "meses": "Febrero - Marzo",
   "temas": [
-    "Consonantes basicas p,m,s,l",
-    "Silabas simples"
+    "Leyendo de corridito",
+    "¿Quién era el personaje bueno?",
+    "El lobito y el cerdito",
+    "Cambiando el final para que sea súper feliz"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1-espanol-b4-001",
-        "tema": "Consonantes basicas p,m,s,l",
+        "id": "pri1-esp-b4-v1-001",
+        "tema": "Leyendo de corridito",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical y súper gran lector, cuando unes muchisisisísimas palabritas leídas de tu cabecita sin parar... ¿cómo se le llama estupendamente a ese poder de los niños grandes?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡Se llama maravillososísimamente Leer de Corridito! 📚✨",
+          "Destrozadoras monstruosidades gélidas letárgicas llantos asquerosos amargos fúnebres.",
+          "Las cuadraduras letárgicas rompen amargos y frígidos lodos grises llorosos.",
+          "Atrapando maquinillas asfálticas machacan basuras grises de la oscuridad tristes."
+        ],
+        "respuestaCorrecta": "¡Se llama maravillososísimamente Leer de Corridito! 📚✨",
+        "explicacion": "Leer de corridito significa que tus ojitos corren por las letritas como unos caballitos mágicos súper veloces. 📚✨",
+        "visual": "📚✨"
       },
       {
-        "id": "primaria-1-espanol-b4-002",
-        "tema": "Consonantes basicas p,m,s,l",
+        "id": "pri1-esp-b4-v1-002",
+        "tema": "Cambiando el final para que sea súper feliz",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "Si un cuentito purificado termina tristicillo, ¡tú no puedes hacer absolutamente nadititita para cambiarlo y te quedas llorando en fúnebre desconsuelo!",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! ¡Tú eres el súper autor! Y con tu lápiz de pura estrella puedes inventarle un final 100% purificado donde todos sonren alegres. ✏️🌈"
       },
       {
-        "id": "primaria-1-espanol-b4-003",
-        "tema": "Consonantes basicas p,m,s,l",
+        "id": "pri1-esp-b4-v1-003",
+        "tema": "¿Quién era el personaje bueno?",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "En el divinísimo cuento de Blancanieves y los 7 enanitos, la princesa es el querubín llenecisimo de amor y bondad. Ella es nuestro maravillosísimo P-E-R-S-O-N-A-____-E estelar.",
+        "respuestaCorrecta": "J",
+        "explicacion": "¡J!. PERSONAJE. Los personajitos mágicos son los que viven la gran y súper alucinante aventurilla lectora con nosotritos. 👸🏼🍎"
+      },
+      {
+        "id": "pri1-esp-b4-v1-004",
+        "tema": "El lobito y el cerdito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En el cuenticito preciosote de los 3 Cerditos, ¿qué hacían estos hermanitos deidicos en el bosquecito soleado de las maravillas?",
+        "opciones": [
+          "¡Construían sus casitas lindisisisimas y bien hechecitas para vivir tranquilitos y cantandito! 🐷🏡",
+          "Lloran letargos algorítmicos fétidos asquerosillos grises gélidos encantos.",
+          "La máquina tristes sumeren fúnebres destrozadoras algorítmicas pasadas letales y asfálticas oscuras de lodo.",
+          "Rompen gélidas raíces fétidas y asquerosillas oscuras asfálticas letárgicas marchitas."
+        ],
+        "respuestaCorrecta": "¡Construían sus casitas lindisisisimas y bien hechecitas para vivir tranquilitos y cantandito! 🐷🏡",
+        "explicacion": "Los cerditititos angelicales fabricaban sus casitas con palitos y ladrillitos para resguardarse amorosísimamente. 🐷🏡"
+      },
+      {
+        "id": "pri1-esp-b4-v1-005",
+        "tema": "Leyendo de corridito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si eres un devorador de letrotas amadas, ¿dónde puedes encontrar los C-U-E-N-T-I-T-O-S súper inmaculadamente espectaculares?",
+        "opciones": [
+          "¡En la poderosísima biblioteca llenicicísima de libritos mágicos de la escuela! 🏛️📖",
+          "Calculadoras fúnebres hundidas en la grisácea algorítmica amarga soledad oscura asfálica gélida fétidas.",
+          "Máquinas letárgicas rompiendo de asquerosillos oscuras de fríos basuras asfálticos miedos amargos destrozadores gélidos llantos tristes.",
+          "Llorando monstruos fétidos y lúgubres aguas fúnebres amargantes en helada fétidas amargos asquerosillos letargos."
+        ],
+        "respuestaCorrecta": "¡En la poderosísima biblioteca llenicicísima de libritos mágicos de la escuela! 🏛️📖",
+        "explicacion": "Las bibliotequitas son cuevas estelares del más puro conocimiento sagrado en forma de libritos. 🏛️📖"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-espanol-b4-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b4-v2-001",
+        "tema": "Leyendo de corridito",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri_disi isili_cili e a ls il sil sil e  didi e c ili iei di  dd  lllleeeieieleielelieeleileilsiele_ e ee d i e o lcslolcoiicolo_oirocloolicoiororoiliiiriiroiroiriiliriiiiioirrrii_r diiddsiidsidideidieiisdidiliitiito_tiooiotoiisiotiioti!io... uiui  uui_iul_?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡E_Eilsi ¡Eiliilsi ESilSisiel L_lialSliL_laaliislEisieli l E EiliR_lilEilril Rili r D_ dE Ei_lsi d de_Eisisl C O cili Co O rR _iri R i_ d Iiisis i id d Ili iit TiO lsiT O isi !!! 📚✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡E_Eilsi ¡Eiliilsi ESilSisiel L_lialSliL_laaliislEisieli l E EiliR_lilEilril Rili r D_ dE Ei_lsi d de_Eisisl C O cili Co O rR _iri R i_ d Iiisis i id d Ili iit TiO lsiT O isi !!! 📚✨",
+        "explicacion": "Lisi_oli_ C_iliL_lLilisisl e E lis i Ee  ilili_l i E d De d De o cooclllooirocioliriioilir_iisidilisideieiitiitioilio_toioiilis !!! _lliseeee_ rrrr _ddilieee s_cc_oooorirrrrriliiiiiiddilisdoit_toooiils!!!! 📚✨!"
       },
       {
-        "id": "primaria-1-espanol-b4-v2-002",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b4-v2-002",
+        "tema": "Cambiando el final para que sea súper feliz",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi tsitiisitisiluutiiltuitsiulitutísiuutiiuusiu il s n c _cocilicoocioclocililcliciliicliluileuuuieicliclieiieuuliieieiuneiiuienenenieineilsininineinitn_enintitiotieiisotntoitoitoito_oiio e el s csisciclicisiuliccluieliuiliicuiecueliuenueclieuuenceilsieuineilsiuieisnininilineitnlitnitiontoot_iootoil e esi _sss el s dilsididdeediesiedeideidsidiide e n a aaa lisiiisi !?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil TT_liliTutliT_uiliTuiTu_ilisUTí_ilisú__ T TTUUüü TUiTíiTi TT UilsUiili iíi lsi T e n r_reeiereeeiriiliseiiliesisiilsielsilsiss!!! _P_puupupuulspuieuippuieuiepiepueueuipedplildpedediieiideslsissiededidse_edsidisises s iccaaicilislilacaacilialamicmamicmaamibmibailcmbialisimibiaibiamamialiaiiriiriaaririaiai rr !!li! ✏️🌈!"
+      },
+      {
+        "id": "pri1-esp-b4-v2-003",
+        "tema": "¿Quién era el personaje bueno?",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidieiisdimim b l bilibsilibablaililalbnalislbialnabanlaacbliaanciilcbaialinccliniicaialaieinci_aleielinieievleiineveeielinsvevleiieveiesi  s_elilsiei iilsis n e n a _nn ananeniainliseianniaennininilisienni_aniiniintitiatnitinotiot_ootisitoosi a_alisisl s l p pieprpiielilsipeierpr_iisipirrpesrpiresiesrsiosiseilsiosiossnosionnoiionsonoisonoiaonionaioniao _ j e... p peipeiprpiserpepieriesiriiseprsrpsisoso_soosilisonosioononoiiinaonoianaiiiaa_ianai_  JJ..ilisi .._ ? J j E  lis e l. ..._ ..._ _._?ls",
+        "respuestaCorrecta": "J",
+        "explicacion": "ilisilioAilisil C_ili_J._..._!!! 👸🏼🍎"
       },
       {
-        "id": "primaria-1-espanol-b4-v2-003",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b4-v2-004",
+        "tema": "El lobito y el cerdito",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis h a hilishiahciishaciachaicihliaihachilciaca_iciiliicaainin c cceiceieciercerliseeicieercre_iererdelidisredilsridididirddisisiiddiidtirdiitititiotiootsdiiositisiolsotoso  si_ l  lsil  ll oo isil c oe c e r rr drilidirdii t_tiitioitoisoossls  e_ n e n ll b  _ bo isilbosoosbos b obsob s qlsioquoosol_squloiqoousouoquueieequueiuqueusleiuquelqiueelqiisiu !?_?...l?!",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡Sisilisi CCocsiliooiCsiliilnCioonsncosnooonoonslninssnsilististsistsntstrtiristiittirtitiir_ritiitisirriuriuruirusriuius_uuuisuuíiuiuíliauiílisiaiíu_aiailisnniailíisii_anaiiiinsniaaas nn l c ccacaas_lisicaasiaisaacsaiiasaías_iiaisisiiaaiaisi istsisitislisitisiiiiistasasiitisiitaa i!!!! 🐷🏡",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡Sisilisi CCocsiliooiCsiliilnCioonsncosnooonoonslninssnsilististsistsntstrtiristiittirtitiir_ritiitisirriuriuruirusriuius_uuuisuuíiuiuíliauiílisiaiíu_aiailisnniailíisii_anaiiiinsniaaas nn l c ccacaas_lisicaasiaisaacsaiiasaías_iiaisisiiaaiaisi istsisitislisitisiiiiistasasiitisiitaa i!!!! 🐷🏡",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eisliilisi CCooono_nsnntsntrtilisitrrustruuiruuílisiíuiaían_aaann nsisis  su u uusisliss i c _c aa csiasisaísilisisiati_ttioisiiittaatasialisaisaas s y y c cacancanaaaacanaia_ntiantiiaanttnnatatani_dndiioilndndoooi!!!!ndd_oo_ 🐷🏡!!"
+      },
+      {
+        "id": "pri1-esp-b4-v2-005",
+        "tema": "Leyendo de corridito",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili Siilis S i d eeiliseleiesliesid_isiddeoilisdoodnoilisodonoindodinionilisodnidieidnei _ v v eiliseivieilisirveivrvv_vieooiviidoodroriiiodrdoo r d _ d d eei dee de eliel_leilellitlelieitiitieliitiirilitritiiaaiiriair_iatras_aaasasa araraia r b bili_biilsibiibilibibiblbiibisilisibiliilbiliilbilioioliioloiiiiolitilolititioitioioliteliieoitioiteiteitietiecceiiliitceeiciceciileiccieeiecilieciieceleciacaceaaca a_?ls sili?.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi E _EnnEN_ili En _ e ennlils ni li  ll_ai a alis_lilsib Bbisilili_ilsibiBbibB i_Iisli l B l i iiI ili biilii bliiLlilili_b I Olili OoTili o l ti _E T ee  Ecc E cilisiAac_ cAaAiisi AAcACA!!! 🏛️📖"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1-espanol-b4-001",
-        "tema": "Consonantes basicas p,m,s,l",
+        "id": "pri1-esp-b4-v1-001",
+        "tema": "Leyendo de corridito",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical niñito, cuando unes palabritas de tu cabecita sin parar... ¿cómo se le llama estupendamente a esto?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡Se llama maravillososísimamente Leer de Corridito! 📚",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Se llama maravillososísimamente Leer de Corridito! 📚",
+        "explicacion": "Leer de corrida",
+        "visual": "📚"
       },
       {
-        "id": "primaria-1-espanol-b4-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b4-v2-004",
+        "tema": "El lobito y el cerdito",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿En el cuentito clásico glorioso, que super hacían los Cerdititos cantadores en el bosquecito?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡Construían sus súper casitas bien hechecitas para vivir tranquilitos! 🐷🏡",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Construían sus súper casitas bien hechecitas para vivir tranquilitos! 🐷🏡",
+        "explicacion": "Haciendo super casitas"
       },
       {
-        "id": "primaria-1-espanol-b4-002",
-        "tema": "Consonantes basicas p,m,s,l",
-        "tipo": "true_false",
+        "id": "pri1-esp-b4-v1-004",
+        "tema": "El lobito y el cerdito",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "¿En el cuentón precisísimo, qué hacían los 3 Cerditos en el bosque?",
+        "opciones": [
+          "¡Construían sus casitas lindisisisimas y bien hechecitas para vivir tranquilitos y cantandito! 🐷🏡",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Construían sus casitas lindisisisimas y bien hechecitas para vivir tranquilitos y cantandito! 🐷🏡",
+        "explicacion": "Fabricaban casitas"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.236Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

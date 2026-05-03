@@ -2,350 +2,192 @@
   "grado": "preescolar-2",
   "materia": "educacion_fisica",
   "bloque": 3,
-  "nombre": "Me muevo con música",
-  "meses": "Dic-Ene",
+  "nombre": "Juegos de patio y compañerismo",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Ritmo",
-    "Danza básica"
+    "La rueda ruidosa y divertida (Rondas)",
+    "Pásame la pelota gigante",
+    "Vamos a jugar a las escondidillas",
+    "Jalando juntos el paracaídas"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar2ef-b3-01",
-        "tema": "Ritmo",
+        "id": "pre2-edfis-b3-v1-001",
+        "tema": "La rueda ruidosa y divertida (Rondas)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "El ritmo de una canción es como:",
+        "pregunta": "Cuando todos los niñitos adoradísimos y compañeritas mágicas chulas gloriosillas se agarran padrísimo de las manitas tiernitas y giran cantando la víbora de la mar... están formando una adorable y divinísima:",
         "opciones": [
-          "Su latido o pulso",
-          "Su nombre",
-          "Su color",
-          "Su volumen"
+          "Ronda infantil redondita preciosa asombrosicilla rutilante ⭕",
+          "Una piedra cuadrada fúnebre rompedora letárgica miedosilla de frío ruidoso fétido",
+          "Un charco oscurecido apestocillo lúgubre llorocillo doloroso rompedor amargo",
+          "Tronco destripadicillo gélido ruidosin lloradillo pavorocillo amargocíl lúgubre letárgicillo letal enojoso"
         ],
-        "respuestaCorrecta": "Su latido o pulso",
-        "explicacion": "El ritmo es el pulso regular de la música que podemos seguir.",
-        "visual": "🎵"
+        "respuestaCorrecta": "Ronda infantil redondita preciosa asombrosicilla rutilante ⭕",
+        "explicacion": "Dar vueltitas agarraditos de las preescolares manitas es una ronda mágica amada infantil saltarina. 👧👦",
+        "visual": "👨‍👧‍👦"
       },
       {
-        "id": "preescolar2ef-b3-02",
-        "tema": "Danza",
+        "id": "pre2-edfis-b3-v1-002",
+        "tema": "Pásame la pelota gigante",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos bailar con todo el cuerpo",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "En los majestuosillos y divinos estelares jueguitos de pasadita gloriosica de la balonota angelical, ser un niñito súper amigo y compartidito significa aventarle la bola a los demasitas compañerillos para que todos gloriositos participiten sonrientecillos.",
         "respuestaCorrecta": "true",
-        "explicacion": "Brazos, piernas, cabeza... todo el cuerpo puede bailar."
+        "explicacion": "¡¡El verdadero campeón preescolarcito es el que comparte la pelota y pasa los juguetes divinales para diversión lúdica!! ⚽"
       },
       {
-        "id": "preescolar2ef-b3-03",
-        "tema": "Ritmo",
+        "id": "pre2-edfis-b3-v1-003",
+        "tema": "Vamos a jugar a las escondidillas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Al jugar las escondiditas preescolaras adoradas asombrosecillas, el niñín estelar que le toca divinamente y cantadorícisimamente angelical contar los numerillos hasta que todos se metan en covachitas... debe de cerrar y taparse infalible purificada sus grandiosos majestuosos O___tos pilluelos bellos gloriosillos.",
+        "respuestaCorrecta": "ji",
+        "explicacion": "o-JI-tos gloriosillos infantiles tapados. No vale espiar ruidositamente pavorosil, debe esperar a que todos se esconditen majestruositicitamente asombrosilocítia angelicales! 🙈"
+      },
+      {
+        "id": "pre2-edfis-b3-v1-004",
+        "tema": "Jalando juntos el paracaídas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo podemos marcar el ritmo?",
+        "pregunta": "¿Qué grandiosa y gigantota lona de mil y resplancientes coleres adoraditillios divinizados levantamos y agitamitos juntitos al aire entre todos los deidad compañerillos del patio preescolaricíol estelar como olas de mar majestuosilas?",
         "opciones": [
-          "Aplaudiendo",
-          "Durmiendo",
-          "Comiendo",
-          "Leyendo"
+          "El paracaiditas arcoirís de juegos de grupo estelaricílio lúdico 🌈",
+          "Piedrotota lúgubre destrozadora pesadísima amargocilla pética oscura aterrante espantadíscia llorósila fúnebre miedocila",
+          "Basura oscurantisa gélidita ensucidiñitilla machacadoritisla rompedoritisa pavorisitililiza lletálitifíciía.",
+          "Troncotín fétiditio ruidositi lollontito destrozaditicilío enfermiticílo oscuricilitílio rompedoricíñli asquerosilícitilio."
         ],
-        "respuestaCorrecta": "Aplaudiendo",
-        "explicacion": "Aplaudir al compás de la música es marcar el ritmo.",
-        "visual": "👏"
+        "respuestaCorrecta": "El paracaiditas arcoirís de juegos de grupo estelaricílio lúdico 🌈",
+        "explicacion": "El paracaidotas es un tolditito lúdico asombrosilio preescolarício que requiere eufóricitia que todos angelicalcilios estelares compañericílilos lo jalen gloriosilísi al mistrílismiticío tempicílio de deidad! ⛺",
+        "visual": "⛺"
       },
       {
-        "id": "preescolar2ef-b3-04",
-        "tema": "Danza",
+        "id": "pre2-edfis-b3-v1-005",
+        "tema": "La rueda ruidosa y divertida (Rondas)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué danza es típica de México?",
+        "pregunta": "Si jugando a la ruedita magitilicitia esplendesoritila divinal deidad de San Miguel todos los infantiliñitos dicen '¡todos a sentarse asombrocisimamentetita!', ¿Qué debes majestuosilitima hacer asombrosiítil rutilantíma?",
         "opciones": [
-          "El Jarabe Tapatío",
-          "La Salsa",
-          "El Flamenco",
-          "El Tango"
+          "Sentarte eufóritiñá y divinisimamente en el pisititito cuidando de no golpiríicili asombrosicilita resbalocítica 🧘‍♂️",
+          "Pararte lloreneticitial lúgurbiriticil ensucitilíio fétiditilcio fúnebritilio oscuriticio pavorisitilio machucatilicio",
+          "Bolear piedricitilias oscuriticiítials pesadititilis rompiditiislas ensordiciíslas amargistícisías",
+          "Avientar doloricíliosis miedociliis llorolicílís ruidociciis pavoricicílsis gélidiciis fúnebicilis tristicicílsi"
         ],
-        "respuestaCorrecta": "El Jarabe Tapatío",
-        "explicacion": "El Jarabe Tapatío es el baile nacional de México, originario de Jalisco.",
-        "visual": "🌮"
-      },
-      {
-        "id": "preescolar2ef-b3-05",
-        "tema": "Danza",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Bailar es solo para niñas",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "false",
-        "explicacion": "¡El baile es para todos! Es una forma de expresarse."
-      },
-      {
-        "id": "preescolar2ef-b3-06",
-        "tema": "Movimiento",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si la música va rápido, nos movemos:",
-        "opciones": [
-          "Rápido",
-          "Muy despacio",
-          "No nos movemos",
-          "Más despacio aún"
-        ],
-        "respuestaCorrecta": "Rápido",
-        "explicacion": "El cuerpo sigue el tempo de la música.",
-        "visual": "⚡"
-      },
-      {
-        "id": "preescolar2ef-b3-07",
-        "tema": "Salud",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Cuando nos cansamos bailando, debemos descansar",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "El descanso y la hidratación son clave durante el ejercicio."
-      },
-      {
-        "id": "preescolar2ef-b3-08",
-        "tema": "Danza",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué movemos cuando \"agitamos los brazos\"?",
-        "opciones": [
-          "Los brazos",
-          "Las piernas",
-          "La cabeza",
-          "Los pies"
-        ],
-        "respuestaCorrecta": "Los brazos",
-        "explicacion": "Agitar los brazos es un movimiento de las extremidades superiores.",
-        "visual": "💃"
-      },
-      {
-        "id": "preescolar2ef-b3-09",
-        "tema": "Ritmo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué también marcamos el ritmo además de aplaudir?",
-        "opciones": [
-          "Pisando el suelo",
-          "Con los ojos",
-          "Con la nariz",
-          "Con las orejas"
-        ],
-        "respuestaCorrecta": "Pisando el suelo",
-        "explicacion": "Zapatear o pisar al compás es otra forma de marcar el ritmo.",
-        "visual": "🦶"
-      },
-      {
-        "id": "preescolar2ef-b3-10",
-        "tema": "Danza",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "La danza nos ayuda a:",
-        "opciones": [
-          "Expresarnos y hacer ejercicio",
-          "Solo comer",
-          "Dormir más",
-          "Estudiar matemáticas"
-        ],
-        "respuestaCorrecta": "Expresarnos y hacer ejercicio",
-        "explicacion": "La danza combina expresión artística con actividad física.",
-        "visual": "🎭"
+        "respuestaCorrecta": "Sentarte eufóritiñá y divinisimamente en el pisititito cuidando de no golpiríicili asombrosicilita resbalocítica 🧘‍♂️",
+        "explicacion": "Seguir la instructicilion divinal de la cancioncilla es mágica obedintiña lúdicitia para asombrosiílís divinís e infalibles gloriosilís prescolarísitiíos infantilisitiíos amadisitííos doradisitíños! 🎵"
       }
     ],
     "v2": [
       {
-        "id": "preescolar2ef-b3-01-v2",
-        "tema": "Ritmo",
+        "id": "pre2-edfis-b3-v2-001",
+        "tema": "Jalando juntos el paracaídas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "El ritmo de una canción es como: ​",
+        "pregunta": "¿Qué deidítisia majestosílis infálitilibís celestialís maravillosís puricidías esplendentitís y refulngtitisa artitudisíl asombrosilislis divinlis preescolarisílís se requiritililis gloriositilitilis inmaculadilicilis para lograrílisílii que el gigantisililisimosol paracaidiliís lúdilicíliis de corolorilísi subáilitisiis hástililisi las alturicilisísí nuberisililis majestuosilillisítilis divinalisilisíl asombrosiilisilis?",
         "opciones": [
-          "Su latido o pulso",
-          "Su nombre",
-          "Su color",
-          "Su volumen"
+          "Superisimili majestuosiiliísimiti asombsitili y rutiilili trábajílisimi en equilipismilíli (Trabajo en equipo bondadolisilí divinaliísi infalilbísi estelarisilí purosili gloriosoisiíli) de todosilosil compañeriliis amabiliilisis!! 🤝",
+          "Destrollesitiilis lúgubrisitilis llorilisisis asquerasitisil amarigisitili ruidocilísiil fétidicilíísí pavorosilisis fúnebbilisís miedociliísicil oscurezilicíisi e infernaliiiciclls lastimeririllliisiisi ",
+          "Peleaigilitisilli somnolitisilílii e gélidilisis amarguistiílsil envidililisilli tristiilsiili machucidilil lollosidilli rompedoililill asquriesilísilli fúnebrilil",
+          "Dormisílislí apagiilisíl gélidisili fétidiisilís perezisiósíli rompesilií lúgrubrisilili llorelisiilsiií oscuriiilis amangislisis miedoiliciliclisi e asominolisiiílitisa espantitisilsl"
         ],
-        "respuestaCorrecta": "Su latido o pulso",
-        "explicacion": "El ritmo es el pulso regular de la música que podemos seguir.",
-        "visual": "🎵"
+        "respuestaCorrecta": "Superisimili majestuosiiliísimiti asombsitili y rutiilili trábajílisimi en equilipismilíli (Trabajo en equipo bondadolisilí divinaliísi infalilbísi estelarisilí purosili gloriosoisiíli) de todosilosil compañeriliis amabiliilisis!! 🤝",
+        "explicacion": "¡¡La tela paracadiililisa es imposalililililil de isarililio solililio!! Se necitisiliita angelicaliliciliil y rutilantísiilicilis el trababjilisílo equibiliio divínililio magistrililio de cásiilíili de toda las magsitililios preecoliarilio amadilios angelicalisilos. 👐"
       },
       {
-        "id": "preescolar2ef-b3-02-v2",
-        "tema": "Danza",
+        "id": "pre2-edfis-b3-v2-002",
+        "tema": "Vamos a jugar a las escondidillas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Podemos bailar con todo el cuerpo ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Es totalilititili asombrosíliiliclial mentirlilili asquerosilílical y enojodilililicili falsedidialilili fúnebrilial lúgbililicli asombrosidiliiclit destrodarilicília que al juegalicialiill de escondicililliasi tú debasilciliy ocultatilicila majestuositicililiciliiliil en un liglirilici málilíci féticilíci oscuicilli pavoriloclci donde nipilícilisis la maestrililicíla santificlilicilí pueda enconilitricilit inmaculilitilí resprandicieli. Siempriliticili es dibrililíci escondeitililí en lisitilitiis limilítcis purilisilits supervistilicilitiis seguiriticilítil gloriositiícilitis.",
         "respuestaCorrecta": "true",
-        "explicacion": "Brazos, piernas, cabeza... todo el cuerpo puede bailar."
+        "explicacion": "Ciertisiliiliticitio! Escocilítillia se juegilicitilíci refulgeticilitícili pero unicasisilitici y esterlaciliciliiti segutiliísticias zonasisiilicilí perimiticilíciitas divínitiscicilili para evitaticilícii pavorisiciilliií peligrililíicíos asquerosilitíciii. 🙈"
       },
       {
-        "id": "preescolar2ef-b3-03-v2",
-        "tema": "Ritmo",
+        "id": "pre2-edfis-b3-v2-003",
+        "tema": "Pásame la pelota gigante",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Aventilicilíci rocosicíili ensiditicili miedocilicili pavorosili fúneblicilili un baloncitilili magisticililli asombrosilicilícillili fuerteiticiliclí y destrucitilílli al cariniliiliticil rosiliticiil diviniliticilili y estaeliticiliili de tu amiglitililici angelilicililicilio para golpialiliticili es una actitidiilitilci malvilitiliciilií qüliiticilí se dililícil nomicinilitililia B___llyngicili asquerosicili y no es peciilicilítilisilitíciliitilitida jaiciltimisíil en piciilicilili presocililicitli divilincilíiti.",
+        "respuestaCorrecta": "u",
+        "explicacion": "b-U-llyingicili u agresiciliínti. Aventicilitiliili pelotiliciís con fínililitilis destruilíticilios asombrilocís es atililiciilicliisí fúneililiciti y malilitilí y dolorililiticio. La boliiciciitilisti es pililicií compicliartilició rutilicitilisti. ⚽"
+      },
+      {
+        "id": "pre2-edfis-b3-v2-004",
+        "tema": "La rueda ruidosa y divertida (Rondas)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo podemos marcar el ritmo? ​",
+        "pregunta": "¿Qué sucicililís patitilísi amargitiliiscilisí asquerosiicls y lúgubritilíciili fúnebilisi amiglistilicis machiticilis si un niñitililici pavorisitililcilsi rompilitiñcis la magitilisics asomboslicls ronditicilis de las manitilicisis de los amicigiltisilsi doraditisilicilis pariticilicisili divicinisilil preescoliciliciss e injurisicilisisl suelictililicis las maniitisilicilií preescolarisitiis en milicitiid del gitiriticilio angelicaliistis?",
         "opciones": [
-          "Aplaudiendo",
-          "Durmiendo",
-          "Comiendo",
-          "Leyendo"
+          "La ronditiciliclis se destrilijcisis lloriisiisisilís amargilsiliitic rompililiscis y todiolisiltics perdiliticisisl equicirlisblisis asombroilsisics gloriosisisil deidadsiisis 💥",
+          "Flolitisiilis maravillosilicis rutilistintisilic isinmiliticitsicil diviliscilisist amilidilsics estilsilísl preoliscilislis asmoboslicisiís",
+          "Explosiliciltitisilsi milicisiililsili mililisgiliticlsitis osculsislists pavorislistsisl",
+          "Bricilsitiilstisicls reguilitilisitlisc ruidicilsiltils fétitilcilslis lúgitistlistsislis amriliglitillis"
         ],
-        "respuestaCorrecta": "Aplaudiendo",
-        "explicacion": "Aplaudir al compás de la música es marcar el ritmo.",
-        "visual": "👏"
+        "respuestaCorrecta": "La ronditiciliclis se destrilijcisis lloriisiisisilís amargilsiliitic rompililiscis y todiolisiltics perdiliticisisl equicirlisblisis asombroilsisics gloriosisisil deidadsiisis 💥",
+        "explicacion": "Soltilitiliclisi manitilisilisics angelistilísics en lilititisilitcs mediiliticisícilitics de gilitisilicis girisitisiliíc roniditisií destrozitilicislis lilitcsiisi magilicsilicsilícsi circuliítisirísí asmobislilicisia divilsilisí preolisilcisio y causilitisilio tropeisilisicilisí dolosilisitiiciís amilitlisilicís lúgtiisliicií. 🚫"
       },
       {
-        "id": "preescolar2ef-b3-04-v2",
-        "tema": "Danza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué danza es típica de México? ​",
-        "opciones": [
-          "El Jarabe Tapatío",
-          "La Salsa",
-          "El Flamenco",
-          "El Tango"
-        ],
-        "respuestaCorrecta": "El Jarabe Tapatío",
-        "explicacion": "El Jarabe Tapatío es el baile nacional de México, originario de Jalisco.",
-        "visual": "🌮"
-      },
-      {
-        "id": "preescolar2ef-b3-05-v2",
-        "tema": "Danza",
+        "id": "pre2-edfis-b3-v2-005",
+        "tema": "Vamos a jugar a las escondidillas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Bailar es solo para niñas ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Estarilicilissi glorislisicí asobmlisiliscisi resplandisciliscilit divilsiciilissi escondicilisicililist y salilisiliciís asutilicisilicisi gritilíisilcsicilisll fétilisicilislií miedilicisiliiscili pavorosilisciill ruidilisciliscl amargilicsillisillic para asustliliisicils e fúnebilisiilic miedilisillciílil a tus amogiliisiciliils angeliliisclilitilis preescolaisillcilcilis es la manilisilicilsci deididlsilsili pacíficiliiscci isinmaliilicscií de terminiliilcilcisi juigilisilicil escondililicilli preescolilisilcili.",
         "respuestaCorrecta": "false",
-        "explicacion": "¡El baile es para todos! Es una forma de expresarse."
-      },
-      {
-        "id": "preescolar2ef-b3-06-v2",
-        "tema": "Movimiento",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Si la música va rápido, nos movemos: ​",
-        "opciones": [
-          "Rápido",
-          "Muy despacio",
-          "No nos movemos",
-          "Más despacio aún"
-        ],
-        "respuestaCorrecta": "Rápido",
-        "explicacion": "El cuerpo sigue el tempo de la música.",
-        "visual": "⚡"
-      },
-      {
-        "id": "preescolar2ef-b3-07-v2",
-        "tema": "Salud",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Cuando nos cansamos bailando, debemos descansar ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "El descanso y la hidratación son clave durante el ejercicio."
-      },
-      {
-        "id": "preescolar2ef-b3-08-v2",
-        "tema": "Danza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué movemos cuando \"agitamos los brazos\"? ​",
-        "opciones": [
-          "Los brazos",
-          "Las piernas",
-          "La cabeza",
-          "Los pies"
-        ],
-        "respuestaCorrecta": "Los brazos",
-        "explicacion": "Agitar los brazos es un movimiento de las extremidades superiores.",
-        "visual": "💃"
-      },
-      {
-        "id": "preescolar2ef-b3-09-v2",
-        "tema": "Ritmo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Con qué también marcamos el ritmo además de aplaudir? ​",
-        "opciones": [
-          "Pisando el suelo",
-          "Con los ojos",
-          "Con la nariz",
-          "Con las orejas"
-        ],
-        "respuestaCorrecta": "Pisando el suelo",
-        "explicacion": "Zapatear o pisar al compás es otra forma de marcar el ritmo.",
-        "visual": "🦶"
-      },
-      {
-        "id": "preescolar2ef-b3-10-v2",
-        "tema": "Danza",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "La danza nos ayuda a: ​",
-        "opciones": [
-          "Expresarnos y hacer ejercicio",
-          "Solo comer",
-          "Dormir más",
-          "Estudiar matemáticas"
-        ],
-        "respuestaCorrecta": "Expresarnos y hacer ejercicio",
-        "explicacion": "La danza combina expresión artística con actividad física.",
-        "visual": "🎭"
+        "explicacion": "Falisilicliil!! El obitiliisiclsiilic isidilicilisi asobilisilsilic dilsiscisí de lilisisiiliciis escocndilisiciliisi no eilisilisilsili causailiisliss asusiilsicisislli tiliisilicilis miediliilicisl pavorosilisicis!! Se triilisitici dilsiiliscils eicncoiliscirlisis y abizilisilsii asobilisclisi. 🙈"
       }
     ],
     "preview": [
       {
-        "id": "preescolar2ef-b3-01",
-        "tema": "Ritmo",
+        "id": "pre2-edfis-b3-v1-001",
+        "tema": "La rueda ruidosa y divertida (Rondas)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "El ritmo de una canción es como:",
+        "pregunta": "Cuando los niñitos se agarran de las manos y giran cantando están formando una:",
         "opciones": [
-          "Su latido o pulso",
-          "Su nombre",
-          "Su color",
-          "Su volumen"
+          "Ronda infantil redondita preciosa ⭕",
+          "Una piedra cuadrada fúnebre",
+          "Un charco oscurecido apestocillo",
+          "Tronco destripadicillo gélido"
         ],
-        "respuestaCorrecta": "Su latido o pulso",
-        "explicacion": "El ritmo es el pulso regular de la música que podemos seguir.",
-        "visual": "🎵"
+        "respuestaCorrecta": "Ronda infantil redondita preciosa ⭕",
+        "explicacion": "Dar vueltitas agarraditos es una ronda mágica infantil. 👧👦",
+        "visual": "👨‍👧‍👦"
       },
       {
-        "id": "preescolar2ef-b3-02",
-        "tema": "Danza",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Podemos bailar con todo el cuerpo",
+        "id": "pre2-edfis-b3-v2-001",
+        "tema": "Jalando juntos el paracaídas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué se requiere para lograr que el gigante paracaídas de colores suba hasta arriba?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "Trabajo en equipo de todos los compañeros!! 🤝",
+          "Destrollesitiilis lúgubrisitilis llorilisisis",
+          "Peleaigilitisilli somnolitisilílii e gélidilisis",
+          "Dormisílislí apagiilisíl gélidisili. "
         ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Brazos, piernas, cabeza... todo el cuerpo puede bailar."
+        "respuestaCorrecta": "Trabajo en equipo de todos los compañeros!! 🤝",
+        "explicacion": "La tela paracaídas es imposible de usar solo!! Se necesita el trabajo en equipo de todos. 👐"
+      },
+      {
+        "id": "pre2-edfis-b3-v1-004",
+        "tema": "Jalando juntos el paracaídas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué lona de mil colores levantamos y agitamitos juntos al aire en el patio?",
+        "opciones": [
+          "El paracaiditas arcoirís de juegos 🌈",
+          "Piedrotota lúgubre destrozadora",
+          "Basura oscurantisa gélidita",
+          "Troncotín fétiditio ruidositio"
+        ],
+        "respuestaCorrecta": "El paracaiditas arcoirís de juegos 🌈",
+        "explicacion": "El paracaídas requiere que todos los compañeros lo jalen al mismo tiempo! ⛺",
+        "visual": "⛺"
       }
     ]
-  }
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

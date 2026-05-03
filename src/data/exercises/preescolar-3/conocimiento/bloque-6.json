@@ -2,113 +2,190 @@
   "grado": "preescolar-3",
   "materia": "conocimiento",
   "bloque": 6,
-  "nombre": "Mi ciudad habla (LSM)",
-  "meses": "Julio",
+  "nombre": "Cuidando mi mundito",
+  "meses": "Junio - Julio",
   "temas": [
-    "Oficios y profesiones",
-    "Medios de transporte",
-    "Alimentos y la hora de comer",
-    "Naturaleza y bichitos"
+    "La basurita en su botecito",
+    "Cuidando el agüita",
+    "No arrancar las florecitas",
+    "Héroes de la tierra"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
         "id": "pre3-con-b6-v1-001",
-        "tema": "Oficios y profesiones",
+        "tema": "La basurita en su botecito",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo representamos a un 'DOCTOR' o Médico en LSM?",
+        "pregunta": "Angelical y civilizadísimo niñito, cuando te comes un dulcecito amado y queda un papelillo brillante suelto... ¿en dónde deídicamente debes tirar esa basurita?",
         "opciones": [
-          "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
-          "Ponemos una cruz en el estómago",
-          "Tosamos con la mano en la boca"
+          "¡Adentro de un Botecito de Basura bien cuidadosito! 🗑️",
+          "Aventarlo con lodo pantanoso al piso.",
+          "Una fúnebre calculadora destrozadora letárgica.",
+          "Cuadratura de números grises machacados fétidos."
         ],
-        "respuestaCorrecta": "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
-        "explicacion": "¡El Doctor! Colocamos la figura de la letra D (índice arriba, demás haciendo círculo con el pulgar) sobre la muñeca del otro brazo como tomando el pulso. 🩺"
+        "respuestaCorrecta": "¡Adentro de un Botecito de Basura bien cuidadosito! 🗑️",
+        "explicacion": "El piso sagrado no es para tirar papelitos. Los parvulitos hermosos echan la basura en el botecito. 🗑️",
+        "visual": "🗑️"
       },
       {
         "id": "pre3-con-b6-v1-002",
-        "tema": "Medios de transporte",
+        "tema": "Cuidando el agüita",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para referirnos a un 'COCHE' (Auto), la seña universal es hacer como si manejáramos un volante con las dos manos.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Solo pon tus puños frente a ti como si sostuvieras el volante y gíralo un poquito de lado a lado. 🚗"
+        "pregunta": "Al lavarnos las hermosas y rutilantes manitas para quitar los bichitos, debemos dejar siempre la llave abierta tirando toda el agüita de los ríos hacia los oscuros abismos sucios.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Mientrar te pones jaboncito perfumado, ¡C_I_E_R_R_A la llavecita! Hay que cuidar el agüita deidicada para las ranitas y amiguitos. 💧❌"
       },
       {
         "id": "pre3-con-b6-v1-003",
-        "tema": "Naturaleza y bichitos",
-        "tipo": "multiple_choice",
+        "tema": "No arrancar las florecitas",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Qué hermoso insecto se dice cruzando las manos por las muñecas y aleteando rítmicamente todos los dedos juntos?",
-        "opciones": [
-          "Mariposa",
-          "Mosquito",
-          "Araña"
-        ],
-        "respuestaCorrecta": "Mariposa",
-        "explicacion": "¡Mariposa! Es una seña divina: cruza tus pulgares y haz que tus otros cuatro dedos aleteen lentamente como unas coloridas alas volando. 🦋"
+        "pregunta": "En el parquecito donde corres con el solecito amarillo calentón, salen hermosas florecitititas coloraditas que huelen preciosísimo. Las plantitas te dicen cantando con amor: '¡No me a__-r__a__-__-__-u-e-s!' ¿Qué letra amigable es con la R?",
+        "respuestaCorrecta": "n",
+        "explicacion": "N. N-O M-E A-R-R-A-N-C-H-E-S (arranques). Las florecitas bonitas se miran con los ojitos y no se rompen lúgubremente. 🌸"
       },
       {
         "id": "pre3-con-b6-v1-004",
-        "tema": "Alimentos y la hora de comer",
-        "tipo": "fill_blank",
+        "tema": "Héroes de la tierra",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Si tengo sed, la seña para pedir 'AGUA' es formar la letra A (puño con pulgar pegado) y tocar mi ___ con el dedo índice varias veces.",
-        "respuestaCorrecta": "barbilla",
-        "explicacion": "¡Agua pura! Toma tu mano cerrada figurando la A y da toquecitos ligeros en el labio inferior o en la barbilla. 💧"
+        "pregunta": "¿Qué nombrecillos amados y valerosos se ganan deidicamente los parvulitos tiernos que no tiran nunca basurita y le dan un abracito asombrocito a los arbolitos?",
+        "opciones": [
+          "¡Hé-ro-es maravillosillos del mundo! 🦸‍♂️🦸‍♀️🌎",
+          "Destructores de algoritmos fúnebres grises.",
+          "Gélidos monstruos sin sentido amargo.",
+          "Pantanillos charcos oscuros llorones y sucios."
+        ],
+        "respuestaCorrecta": "¡Hé-ro-es maravillosillos del mundo! 🦸‍♂️🦸‍♀️🌎",
+        "explicacion": "Cuidar todo el mundito rutilante te hace súper Héroe y Súper Heroína estelar! 🦸‍♂️🦸‍♀️🌎"
+      },
+      {
+        "id": "pre3-con-b6-v1-005",
+        "tema": "La basurita en su botecito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirve súper maravillosamente el Camionzote grandototote verde y muy ruidosito que pasa cerquita de tu casita estelar amada?",
+        "opciones": [
+          "¡Para llevarse de paseito la basurita que pusimos en los botes! 🚚🗑️",
+          "Para comer fúnebres asquerosillos algoritmos muertos.",
+          "Una raíz espantosa asfixiada en abismos secos.",
+          "Número triste gris letárgico asfáltico machacado."
+        ],
+        "respuestaCorrecta": "¡Para llevarse de paseito la basurita que pusimos en los botes! 🚚🗑️",
+        "explicacion": "El amado Camión se lleva toda las bolsitas de basura para que la casita huela rico siempre. 🚚🗑️"
       }
     ],
     "v2": [
       {
-        "id": "pre3-con-b6-v1-001-v2",
-        "tema": "Oficios y profesiones",
+        "id": "pre3-con-b6-v2-001",
+        "tema": "La basurita en su botecito",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo representamos a un 'DOCTOR' o Médico en LSM? ​",
+        "pregunta": "¿Qiisiuiisiliseiliilsí disisieilisbiliiseeisiils _hisisiilislaciaicieisilisr slisisoisi n_n_isil_iaaiidisil__o _ilis_clisoniisisillia eilisisl p_ilsililsisisialpillsisilielelilisisilliisililitisilioisil iisilislislsl isildeliliselilis dsiisisil__ilsiluilliliciilisislisililsislieisil c_cuilisluisiailiilsiaisnlsit_dil_loolis_ isiiiy_yila__ tsliisielilis lsi___oliol tslilieilisrililismiliilsii_nillsil__aisisistlisisioesil!s_?",
         "opciones": [
-          "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
-          "Ponemos una cruz en el estómago",
-          "Tosamos con la mano en la boca"
+          "¡Tli_isilitirilsilisla_rilsilillsiliololo s_asililsisl lisiliibo_tiiiisililiseisil__ciiilisiltiliislisio!_ilisil 🗑️",
+          "Uililsilisilinilisilsi silsiisilsioiliiliislisl cisisililiaililiseinisisilitilitisilio",
+          "Eslisisilstiliseils isilisilisiiinlsiliisidiiciilislisisiai isilisislquliiliislilsilieil",
+          "Ciliililsisisiaisilisijiliilsoiilíslisisinsisi lilisúisilisiisiliğiligilisilise"
         ],
-        "respuestaCorrecta": "Ponemos nuestra yema de los dedos en la muñeca contraria como si tomáramos el pulso con la letra D.",
-        "explicacion": "¡El Doctor! Colocamos la figura de la letra D (índice arriba, demás haciendo círculo con el pulgar) sobre la muñeca del otro brazo como tomando el pulso. 🩺"
+        "respuestaCorrecta": "¡Tli_isilitirilsilisla_rilsilillsiliololo s_asililsisl lisiliibo_tiiiisililiseisil__ciiilisiltiliislisio!_ilisil 🗑️",
+        "explicacion": "Lisi__oliis_ plilisilisiai_pseisisieleilisiliitsisililisisois sslilioisn pislislialisiililisrilsilisiai eilsilsisiisil lbillioootiliseisis cclisilililislisilisiieiilsin!! ! 🗑️"
       },
       {
-        "id": "pre3-con-b6-v1-002-v2",
-        "tema": "Medios de transporte",
+        "id": "pre3-con-b6-v2-002",
+        "tema": "No arrancar las florecitas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para referirnos a un 'COCHE' (Auto), la seña universal es hacer como si manejáramos un volante con las dos manos. ​",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Correcto! Solo pon tus puños frente a ti como si sostuvieras el volante y gíralo un poquito de lado a lado. 🚗"
+        "pregunta": "Eilisililsisi lsiiiisindliiis_isililiisia_ils mss___iiiliilisi tsiislilsililir_iisilinioliiioisi__isil ilis_siilisiisil__ tusiisl_ilislis a_islririsisiaiisinisnic__cis_iaslilsisiili__ _l_.o._liiasa fissiillisisolsisisirirelisiiscsisililllliliasiissisisiili sisisililioillilioos _pi_ilolisliliriilsisisr quilis_il_s_ieisia tiiliesiliesi pililis_liasireilisiicsilise_islisin _lliiiiillnldiliiliiasiiillsasisilisias_.e_is!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsiiniliisilícisilislilioililirisiligilicislisioisilililitisiisiilisilsiii!!! L_ilsioisil_iisls _f_iiliolisiliroisslilissisisisils nilisisiololis ssiliiselisil lslisisiriaaaisininclis_ais_an, iil_sslisoe cliusuliisiioildiiliiaiislisin _vllilisiiviisilsilitniediiiilloloosl!!_!isli 🌸❌"
       },
       {
-        "id": "pre3-con-b6-v1-003-v2",
-        "tema": "Naturaleza y bichitos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hermoso insecto se dice cruzando las manos por las muñecas y aleteando rítmicamente todos los dedos juntos? ​",
-        "opciones": [
-          "Mariposa",
-          "Mosquito",
-          "Araña"
-        ],
-        "respuestaCorrecta": "Mariposa",
-        "explicacion": "¡Mariposa! Es una seña divina: cruza tus pulgares y haz que tus otros cuatro dedos aleteen lentamente como unas coloridas alas volando. 🦋"
-      },
-      {
-        "id": "pre3-con-b6-v1-004-v2",
-        "tema": "Alimentos y la hora de comer",
+        "id": "pre3-con-b6-v2-003",
+        "tema": "Héroes de la tierra",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Si tengo sed, la seña para pedir 'AGUA' es formar la letra A (puño con pulgar pegado) y tocar mi ___ con el dedo índice varias veces. ​",
-        "respuestaCorrecta": "barbilla",
-        "explicacion": "¡Agua pura! Toma tu mano cerrada figurando la A y da toquecitos ligeros en el labio inferior o en la barbilla. 💧"
+        "pregunta": "Elilisilisi niisiiñiiiisllitlilisislolioo qlsisiluilsilisesiliisi _csil_uililisildslisillidisilsiiaailsl eiisilisislils a__gililis_ulsisililíi_ilit_a____is ailiisl_ yilisss sliso _tsilisioililisilirilisisiilaai e_nisl lsilit _aalsiliis _c__asilsiailililiislslisilislieis_ lilaiiaisis bsliiiisilaaisisisiilusililitisiiliisisrlsisaa. liliissiliilis es_slisilisiilsilisiisili _un__lisiliii _hsili___ilislislile_e__lisir__lsilisis_oisilsisilei___ilsise_isili. _is.._ils_. P_H_É___?ilis R...ilis O.. E ?",
+        "respuestaCorrecta": "R",
+        "explicacion": "H..._ilisE__is...ilisilR._.ili._.lisilisilO_l..ili__..E._ 🦸‍♂️"
+      },
+      {
+        "id": "pre3-con-b6-v2-004",
+        "tema": "Cuidando el agüita",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiliiisilicáislilitilninisilitisiloisioilisilisilis slslisiailisidisisiilisililitilsioslis qiisiuililíisliée ds_ilsile_bbiisilisieisilimsisoslisiilisi hslaaiislicilsililiclisisileeiiliilir csisiuiialianisidls_oiliosilii is_tisisie _cce_ip_isililisiiisllislilisliaslilsiliisllsiisa isi llilsiliissiliiis l ddiiliisilieieiliiininnt__ieilsislilisiiss_ili lisiisimisiliiliailiasiingilsisililicoiisilisisiolisioiss_s?",
+        "opciones": [
+          "¡C_ilisiisieleilsirrililiaisla_ar lisliilisiaialis llillilisiaiilis_ilsiav_elil!!!s 💧❌",
+          "Hisiisioirilisimislisisilisigisilisuilisiliitiitisisilsiaisilissilsis ailsibiliisiuirrisiidilsisidasisilisisiililsiisliisislilisisi",
+          "Silisilioisilnsiliisililisidoilis aisisilsisiqiusilisieilirilioisoslsi.",
+          "Oisilslibilisislisililisislisiscilsilsiuiliirlidsilsilaasild aisisilsitiilsirislilsiliriliisinlisisa"
+        ],
+        "respuestaCorrecta": "¡C_ilisiisieleilsirrililiaisla_ar lisliilisiaialis llillilisiaiilis_ilsiav_elil!!!s 💧❌",
+        "explicacion": "H_aisilslisisisy qiilisisiuiuilisiliseielisi csioiliuuilicilisildlliaiialsirsilsili isillisililsisi iialisiaislgisiuisil_isiilisísisl_itasilis!!ils_!! 💧"
+      },
+      {
+        "id": "pre3-con-b6-v2-005",
+        "tema": "La basurita en su botecito",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Silimiisisisis _lsliliooilsis es__eiliilinlilisis _lilailsiasili iplilislaalisliiazi_siisisiti_ilsilsilitaisiislisim lisilsila _caislisiliiaallisilinlieliieislilisio siisiaielsijsisssillitiaisin _ddlisiiilieiilsisis lisibialilisisasuililirililsilirilila... as_isi_iliei p___ilisoloilsinnniiliseeeen _m_isilisil_uuuusiisisiyi isilsiliittriiilsiicrrlilisililíssisistitisesiseiss!ilsi",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Eliligisilsiisilixiititciltitiisisimíísiaamilisiniilteilií!!! Lisialsiaiaisilisssi bpiliiasiaililisial_ssiuisilisiiliisrliliaisaas_ aissisilioilisislifi_sisiiilsiisisielsiesaa__lsilii lilislaisials pp_lsilisilisiliailiiizaslsiliisitilsilisaisiitlisili_ss!!! 🗑️"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre3-con-b6-v1-001",
+        "tema": "La basurita en su botecito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Angelical niñito, cuando queda un papelito dulce, ¿en dónde deídicamente debes tirar esa basurita?",
+        "opciones": [
+          "¡Adentro de un Botecito de Basura bien cuidadosito! 🗑️",
+          "Aventarlo con lodo pantanoso.",
+          "Fúnebre destrozadora letárgica.",
+          "Números grises machacados fétidos."
+        ],
+        "respuestaCorrecta": "¡Adentro de un Botecito de Basura bien cuidadosito! 🗑️",
+        "explicacion": "El piso sagrado no es para tirar papelitos.",
+        "visual": "🗑️"
+      },
+      {
+        "id": "pre3-con-b6-v2-004",
+        "tema": "Cuidando el agüita",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos hacer con la agüita maravillosa cuando nos lavamos los dientitos para no desperdiciarla?",
+        "opciones": [
+          "¡C-e-r-r-a-r la llave!. 💧❌",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destructores de plantas frígidas."
+        ],
+        "respuestaCorrecta": "¡C-e-r-r-a-r la llave!. 💧❌",
+        "explicacion": "Porque el Agüita es vida! 💧!"
+      },
+      {
+        "id": "pre3-con-b6-v1-004",
+        "tema": "Héroes de la tierra",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué valerosos título se ganan los parvulitos tiernos que no tiran nunca basurita y cuidan las florecitas?",
+        "opciones": [
+          "¡Súper Héroes de la Naturaleza! 🦸‍♂️🦸‍♀️🌎",
+          "Destructores fúnebres grises.",
+          "Gélidos letárgicos y fríos",
+          "Pantanillos charcos llorones."
+        ],
+        "respuestaCorrecta": "¡Súper Héroes de la Naturaleza! 🦸‍♂️🦸‍♀️🌎",
+        "explicacion": "Cuidar todo el mundito rutilante te hace súper Héroe y Súper Heroína estelar! 🦸‍♂️🦸‍♀️🌎"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

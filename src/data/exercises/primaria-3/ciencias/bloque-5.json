@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "ciencias",
-  "bloque": 5,
-  "nombre": "Ser humano y medio ambiente",
-  "meses": "Abril-Junio",
-  "temas": [
-    "El ser humano y el medio ambiente"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-ciencias-b5-001",
-        "tema": "El ser humano y el medio ambiente",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b5-002",
-        "tema": "El ser humano y el medio ambiente",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      },
-      {
-        "id": "primaria-3-ciencias-b5-003",
-        "tema": "El ser humano y el medio ambiente",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
-        "respuestaCorrecta": "fotosíntesis",
-        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
-      }
+  "grado":"primaria-3","materia":"ciencias","bloque":5,"nombre":"Fuerza, movimiento y energía","meses":"Abril - Mayo",
+  "temas":["¿Qué es la fuerza?","Imanes y magnetismo","Luz y sombras","Fuentes de energía renovable y no renovable"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-cie-b5-v1-001","tema":"¿Qué es la fuerza?","tipo":"multiple_choice","nivel":"v1","pregunta":"Cuando empujas o jalas un objeto para moverlo, ¿qué estás aplicando?","opciones":["¡Una F-U-E-R-Z-A, que es empujar o jalar algo para cambiar su movimiento! 💪➡️","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡Una F-U-E-R-Z-A, que es empujar o jalar algo para cambiar su movimiento! 💪➡️","explicacion":"Fuerza = empujar, jalar, levantar. Sin fuerza nada se mueve ni se detiene. 💪➡️","visual":"💪➡️"},
+      {"id":"pri3-cie-b5-v1-002","tema":"Imanes y magnetismo","tipo":"true_false","nivel":"v1","pregunta":"Los imanes atraen objetos de hierro y acero, pero NO atraen madera ni plástico.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Los imanes solo atraen metales ferrosos (hierro, acero, níquel). 🧲✅"},
+      {"id":"pri3-cie-b5-v1-003","tema":"Luz y sombras","tipo":"fill_blank","nivel":"v1","pregunta":"La sombra se forma cuando un objeto O-P-A-C-____ bloquea el paso de la luz.","respuestaCorrecta":"O","explicacion":"¡O!. ¡OPACO! Opaco = no deja pasar la luz → produce sombra. Transparente = sí deja pasar. 🌓"},
+      {"id":"pri3-cie-b5-v1-004","tema":"Fuentes de energía renovable y no renovable","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál de estas es una fuente de energía RENOVABLE que no se acaba?","opciones":["¡La energía S-O-L-A-R del sol, porque el sol no se apaga y nos da energía infinita! ☀️🔋","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡La energía S-O-L-A-R del sol, porque el sol no se apaga y nos da energía infinita! ☀️🔋","explicacion":"Renovable = no se acaba (sol, viento, agua). No renovable = se acaba (petróleo, gas). ☀️🔋"},
+      {"id":"pri3-cie-b5-v1-005","tema":"Imanes y magnetismo","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué tiene un imán que le permite atraer o repeler otros imanes?","opciones":["¡Dos P-O-L-O-S: el polo norte y el polo sur, iguales se repelen, diferentes se atraen! 🧲🔴🔵","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Dos P-O-L-O-S: el polo norte y el polo sur, iguales se repelen, diferentes se atraen! 🧲🔴🔵","explicacion":"Norte+Sur = se atraen. Norte+Norte o Sur+Sur = se repelen. ¡Opuestos se atraen! 🧲🔴🔵"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-ciencias-b5-v2-001",
-        "tema": "El ser humano y el medio ambiente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b5-v2-002",
-        "tema": "El ser humano y el medio ambiente",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
-      },
-      {
-        "id": "primaria-3-ciencias-b5-v2-003",
-        "tema": "El ser humano y el medio ambiente",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
-        "respuestaCorrecta": "Mercurio",
-        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
-      }
+    "v2":[
+      {"id":"pri3-cie-b5-v2-001","tema":"¿Qué es la fuerza?","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí e em mp pu uj ja ar r_ o o_ j ja al la ar r_ = =_ ? ??","opciones":["¡F FU UE ER RZ ZA A ! !! 💪➡️","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡F FU UE ER RZ ZA A ! !! 💪➡️","explicacion":"F Fu ue er rz za a !! 💪➡️!"},
+      {"id":"pri3-cie-b5-v2-002","tema":"Imanes y magnetismo","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi i im ma an ne es s_ a at tr ra ae en n_ h hi ie er rr ro o_ p pe er ro o_ N NO O_ m ma ad de er ra a ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"M Ma ag gn ne et ti is sm mo o !! 🧲✅!"},
+      {"id":"pri3-cie-b5-v2-003","tema":"Luz y sombras","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil o ob bj je et to o_ b bl lo oq qu ue ea a_ l lu uz z_ = =_ O OP PA AC C_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"O","explicacion":"O OP PA AC CO O !! 🌓"},
+      {"id":"pri3-cie-b5-v2-004","tema":"Fuentes de energía","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil e en ne er rg gí ía a_ d de el l_ s so ol l_ = =_ r re en no ov va ab bl le e ? ?? ?! a?_?...l?!","opciones":["¡S SO OL LA AR R ! !! ☀️🔋","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡S SO OL LA AR R ! !! ☀️🔋","explicacion":"S So ol la ar r !! ☀️🔋!!"},
+      {"id":"pri3-cie-b5-v2-005","tema":"Imanes y magnetismo","tipo":"true_false","nivel":"v2","pregunta":"SiisEili p po ol lo o_ n no or rt te e_ + +_ s su ur r_ = =_ s se e_ a at tr ra ae en n ? ?? !","respuestaCorrecta":"true","explicacion":"O Op pu ue es st to os s_ = =_ a at tr ra ac cc ci ió ón n !! 🧲🔴🔵"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-ciencias-b5-001",
-        "tema": "El ser humano y el medio ambiente",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b5-v2-001",
-        "tema": "El ser humano y el medio ambiente",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b5-002",
-        "tema": "El ser humano y el medio ambiente",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      }
+    "preview":[
+      {"id":"pri3-cie-b5-v1-001","tema":"Fuerza","tipo":"multiple_choice","nivel":"v1","pregunta":"Empujar o jalar = ¿?","opciones":["¡FUERZA! 💪","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡FUERZA! 💪","explicacion":"Fuerza","visual":"💪"},
+      {"id":"pri3-cie-b5-v1-004","tema":"Energía renovable","tipo":"multiple_choice","nivel":"v1","pregunta":"Energía del sol que no se acaba = ¿?","opciones":["¡SOLAR! ☀️","Triste","Gris.","Feo."],"respuestaCorrecta":"¡SOLAR! ☀️","explicacion":"Solar"},
+      {"id":"pri3-cie-b5-v2-002","tema":"Imanes","tipo":"true_false","nivel":"v2","pregunta":"Imanes atraen hierro pero NO madera. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Magnetismo"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.277Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

@@ -1,0 +1,191 @@
+{
+  "grado": "primaria-1",
+  "materia": "conocimiento",
+  "bloque": 5,
+  "nombre": "El sol, la luna y las súper estrellas",
+  "meses": "Abril - Mayo",
+  "temas": [
+    "Día glorioso y noche dormilona",
+    "El rey sol amarillito",
+    "La luna y las chispitas de estrella",
+    "Dime qué hago en la tarde amada"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pri1-con-b5-v1-001",
+        "tema": "El rey sol amarillito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Angelical y doradísimo querubín, ¿quién es el grandote y fogueante amigazo que sale por la mañanita para darnos puritito calorcito y luz mágica a nuestras plantitas?",
+        "opciones": [
+          "¡El súper amado, tibiecito y doradísimo REY SOL! ☀️✨",
+          "Las espantosas máquinas letárgicas asquerosillas gélidas sombras.",
+          "Destrozadores monstruosos fúnebres destrozan frígidos encantos asfálticos letales.",
+          "Cálculos dolorosos amargos destrozados de algorítmicas fétidas soledades gélidas lodos de tristeza."
+        ],
+        "respuestaCorrecta": "¡El súper amado, tibiecito y doradísimo REY SOL! ☀️✨",
+        "explicacion": "El Rey Sol es la pilita estelar de toda nuestra tierrita maravillosilla. ☀️✨",
+        "visual": "☀️✨"
+      },
+      {
+        "id": "pri1-con-b5-v1-002",
+        "tema": "Día glorioso y noche dormilona",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cuando llega gloriosamente la Noche obscurita, las querubiniñas se ponen sus zapatitos estelares y se van al colegio mientras los búhos destrozan todo letárgico asquerosil...",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! En la Noche purificada nos ponemos la más suevecita pijama y abrazamos nuestro osito para irnos majestuosamente a mimir. 🌙💤"
+      },
+      {
+        "id": "pri1-con-b5-v1-003",
+        "tema": "La luna y las chispitas de estrella",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Si levantas amorosamente tu carita cuando todo está obscuritin, vas a ver un pedacito de queso blanco celestial brillando... ¡La espléndidísima señorititita L-U-____-A!.",
+        "respuestaCorrecta": "N",
+        "explicacion": "¡N!. ¡LUNA plateadita! Nos protege de idílica forma mientras dormimimos contentitos. 🧀🌕"
+      },
+      {
+        "id": "pri1-con-b5-v1-004",
+        "tema": "Dime qué hago en la tarde amada",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Al salir purificaditas de la escuela y comer rica sopita en casita dorada, llega el periodo de la Tardecita... ¿Qué magia querubín toca hacer allí?",
+        "opciones": [
+          "¡Jugar padrísimamente con mis amiguitos adorados en el parquecillo estelar soleado! 🛝🏃‍♂️",
+          "Hundan las dolorosas espinas fúnebres de monstruosidades lodosas asfálticas grises miedos destrozados letárgicos asquerosillos.",
+          "Romper los números gélidos amargos tristes de las machacadas frígidas llantos.",
+          "Llorándonos charcos letárgicos destrozadores sombras fétidas gélido máquinas calculadoras dolorosas fétidos amarguras."
+        ],
+        "respuestaCorrecta": "¡Jugar padrísimamente con mis amiguitos adorados en el parquecillo estelar soleado! 🛝🏃‍♂️",
+        "explicacion": "La tardecita es el reino encantado de los resbaladillas limpiecitas. 🛝🏃‍♂️"
+      },
+      {
+        "id": "pri1-con-b5-v1-005",
+        "tema": "La luna y las chispitas de estrella",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Acompañando siempre a doña Lunita, ¿qué son esos ojitos de luz blanca maravilllosamente parpadeando allaaaaá arribotota?",
+        "opciones": [
+          "¡Son las maravillosísimamente inalcanzables E-S-T-R-E-L-L-I-T-A-S del firmamento deídico! 🌟🌌",
+          "Calculadoras fúnebres de monstruosos gélidas fétidos lodos dolorosas máquinas asquerosillas amargas destructivo llanto oscuro.",
+          "Las fétidas máquinas dolorosas tristes grises sombras asfáltico marchita gélidas amarguras.",
+          "Gélida oscuridad de letales miedos letárgicos destrozadores basureras tristes fúnebres amargos fétidas llorosos encantos calculadoras."
+        ],
+        "respuestaCorrecta": "¡Son las maravillosísimamente inalcanzables E-S-T-R-E-L-L-I-T-A-S del firmamento deídico! 🌟🌌",
+        "explicacion": "1, 2, 3... mil estrellas estelarísimas que forman dibujitos preciosos para que soñemos muy muy en grande angelicalmente. 🌟🌌"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pri1-con-b5-v2-001",
+        "tema": "El rey sol amarillito",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri ccoiliisioosiilisisiittitisitiaiai i d deieiisiieslpislpeuei isq eu q uu e e p_e a pp pe l po po l is o ro oo co l oa co or e b be l eo b ie ei d sd i e rd_ er c u cc n ou cn o is no e ls e _ a ss d at so a l sl ls  es l il io eo di no v ia s_ s _v is av a as ?_? v a s ...",
+        "opciones": [
+          "¡L_Lu_ is L ls_l e _s li  EE L l SE O SO _ L O ls S SOOL i S_ l Si  SO L EE SS O L SOO S l OO Ss! S!! ☀️✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡L_Lu_ is L ls_l e _s li  EE L l SE O SO _ L O ls S SOOL i S_ l Si  SO L EE SS O L SOO S l OO Ss! S!! ☀️✨",
+        "explicacion": "Lisi_oli_ C_ilD DD Di E E L li l _ isS L SO a LO S SOLS SO s s OLS l Si SSO SOL _ ! O _ S i S__ l !! ☀️✨!"
+      },
+      {
+        "id": "pri1-con-b5-v2-002",
+        "tema": "Día glorioso y noche dormilona",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi tsitiisitisiluutiiltuitsiulitutísiuutiiuusiu ee esle_eesiliese c ca cn i ci oc an e sa as na sn in n o o on m b mm as ma b so l sb i al os ii io n on in aa m _ na_ m au d ma u o d du is o  il_ o_ ni io sn an ñ ni a si is id sd a is ai p _po ro _ e_ o oo il a ni u ii nu o t l ut  ! !?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil Cciilili LLlsl l ils LL i O OS OS O S SOO OS  E EN E ENs _ENNN_L LL A LL AA Li _AN AN N n NOOC O C H CO O O N_ON n O s E OE E !!! 🌙💤!"
+      },
+      {
+        "id": "pri1-con-b5-v2-003",
+        "tema": "La luna y las chispitas de estrella",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidieiisdimim p peiplipilipeielepei e rl is c cl oi isic lo ci eo lc ai ss lc on ilis ns as _o il so a _t ta d lt a si di tl _r dr oa_ or al c e cl ea _ac ne as sn a es si il si i e dl  n u u_ud u do di od io il is di m io di m l_ do io s i A L..._ u L _il L - _ .U -N -- u U --- ..N-_ _. - s. .U _ - _ a A s A A A NA .. A .A ..A?ilisilis.. _S.. _",
+        "respuestaCorrecta": "N",
+        "explicacion": "ilisilioAilisil C_ili_N._..._!!! 🧀🌕"
+      },
+      {
+        "id": "pri1-con-b5-v2-004",
+        "tema": "Dime qué hago en la tarde amada",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis d dl ilid il di o d il s t et eei l t  eo in on a m b em ai ob e id ei ls is ir is ri ls a as  as n ss ni an si i u cu q m l uu cm qa a l uc is ca on an u so am on no mo so id ei di i n ui v iu in u ia av a_ s ai ls _t il at ts l ls ee in oe tn ae a a s n es no ii n oi s n is!s!?",
+        "opciones": [
+          "¡EisEjijijE_El slil is_ JU UG J U GA JU AG AA G i l UU_ A i J UG GA UG A AR J A UR GA u UU AR A _J R R ! l ils l ls_ 🛝🏃‍♂️",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡EisEjijijE_El slil is_ JU UG J U GA JU AG AA G i l UU_ A i J UG GA UG A AR J A UR GA u UU AR A _J R R ! l ils l ls_ 🛝🏃‍♂️",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eilsilie_l J JU GU G u UU G U U UGUA i A J a JU G U U l GU GA RU l UA JG J _U !! GU AR R AR U JR !! 🛝🏃‍♂️!!"
+      },
+      {
+        "id": "pri1-con-b5-v2-005",
+        "tema": "La luna y las chispitas de estrella",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili e_ellsilsil M A AM IM is am ni u m ui mu nu ii a g na gl g ii is i r_ ri rl iri_ m e em de n es ls ie_ c l eo e ls is il so ro e ir ri rs_ er as c ee es ie _p p el i p os si np s in ni v o iv  s os  v a in ov s oo b ro oi nb id ii ls is d s_ l_ ds e  l r de i o ri oi no s !! ?_? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi c l iis ilsil e ES S s T_ ER T TE R TE LE ESST  SR T ilsiR ES LS TS EL EL LL RE  RR EE IL  L _s  S ! SS s LE  l  il s ! !! 🌟🌌"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pri1-con-b5-v1-001",
+        "tema": "El rey sol amarillito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Angelical niñito, ¿quién es el grandote amigazo que sale por la mañanita para darnos luz mágica?",
+        "opciones": [
+          "¡El súper amado, tibiecito y doradísimo REY SOL! ☀️",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡El súper amado, tibiecito y doradísimo REY SOL! ☀️",
+        "explicacion": "Rey del Sol amante.",
+        "visual": "☀️"
+      },
+      {
+        "id": "pri1-con-b5-v2-004",
+        "tema": "Dime qué hago en la tarde amada",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué podemos gloriosamente desatar de energía en las tardes al salir de la escuela purificada?",
+        "opciones": [
+          "¡Jugar padrísimamente con mis amiguitos adorados en el parquecillo estelar soleado! 🛝🏃‍♂️",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Jugar padrísimamente con mis amiguitos adorados en el parquecillo estelar soleado! 🛝🏃‍♂️",
+        "explicacion": "A jugar magico"
+      },
+      {
+        "id": "pri1-con-b5-v1-004",
+        "tema": "Dime qué hago en la tarde amada",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Al salir purificaditas de la escuela y comer rica sopita en casita, ¿Qué magia querubín toca hacer allí?",
+        "opciones": [
+          "¡Jugar padrísimamente con mis amiguitos adorados en el parquecillo estelar soleado! 🛝🏃‍♂️",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Jugar padrísimamente con mis amiguitos adorados en el parquecillo estelar soleado! 🛝🏃‍♂️",
+        "explicacion": "La tardecita magica"
+      }
+    ]
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}

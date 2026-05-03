@@ -2,129 +2,302 @@
   "grado": "preescolar-2",
   "materia": "matematicas",
   "bloque": 4,
-  "nombre": "Ordenar y comparar",
-  "meses": "Febrero-Marzo",
+  "nombre": "Explorando series y secuencias",
+  "meses": "Marzo - Abril",
   "temas": [
-    "Números del 1 al 10",
-    "Formas geométricas",
-    "Más, menos, igual",
-    "Orden y secuencias",
-    "Medición básica"
+    "Patrones de colores",
+    "Secuencias temporales (antes y después)",
+    "Clasificando por tamaño",
+    "Orientación y posición (adentro y afuera)"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-matematicas-b4-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b4-v1-001",
+        "tema": "Patrones de colores",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si coloreas una bandera haciendo esto: ROJO, AZUL, ROJO, AZUL... ¿Qué color sigue después?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "ROJO",
+          "AZUL",
+          "VERDE",
+          "AMARILLO"
+        ],
+        "respuestaCorrecta": "ROJO",
+        "explicacion": "¡Rojo! Porque el patrón repite uno y uno. Al azul le toca otra vez color rojo. 🎨",
+        "visual": "🎨"
       },
       {
-        "id": "preescolar-2-matematicas-b4-002",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b4-v1-002",
+        "tema": "Patrones de colores",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Hacer collares con cuentas alternadas (Grande, chiquita, grande, chiquita) es seguir un patrón o secuencia.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡Exacto! El tamaño va repitiéndose con un ritmo predecible, eso crea un hermoso patrón visual. 📿"
       },
       {
-        "id": "preescolar-2-matematicas-b4-003",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b4-v1-003",
+        "tema": "Secuencias temporales (antes y después)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué ocurre ANTES de morder tu jugosa manzana?",
+        "opciones": [
+          "Tienes que lavarla para que esté limpia",
+          "Comerte el corazón de la semilla",
+          "Sentirte súper lleno",
+          "Tirarla a la basura entera"
+        ],
+        "respuestaCorrecta": "Tienes que lavarla para que esté limpia",
+        "explicacion": "¡Siempre! Lavar frutas antes de consumirlas es un paso obvio y crucial. ¡Cuídate contra las bacterias! 🍎",
+        "visual": "🍎"
+      },
+      {
+        "id": "pre2-mat-b4-v1-004",
+        "tema": "Secuencias temporales (antes y después)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Todos duermen, roncan e inventan sueños brillantes DESPUÉS de despertarse a desayunar al medio día.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Es al revés! Dormimos la noche anterior, ANTES de despertarnos a desayunar. 🍳"
+      },
+      {
+        "id": "pre2-mat-b4-v1-005",
+        "tema": "Clasificando por tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si agrupas los juguetes 'por tamaño', estarías dividiendo...",
+        "opciones": [
+          "Todos los chiquititos para acá, y todos los grandotes allá",
+          "Todos de color rojo de un lado y los azules del otro",
+          "Todos los ruidosos y todos los silenciosos",
+          "Nada, todos revueltos"
+        ],
+        "respuestaCorrecta": "Todos los chiquititos para acá, y todos los grandotes allá",
+        "explicacion": "¡Por tamaño! El volumen es lo que importa en esta clasificación maravillosa de peluches y bloques. 🧸",
+        "visual": "🧸"
+      },
+      {
+        "id": "pre2-mat-b4-v1-006",
+        "tema": "Clasificando por tamaño",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Los ositos de un cuento estaban acomodados así: el osito chiquito, el osito mediano, y al final el osito gran___.",
+        "respuestaCorrecta": "de",
+        "explicacion": "¡Grande! Chiquito, mediano y grande son las escalas de tamaño más clásicas de todo bosque encantado. 🐻"
+      },
+      {
+        "id": "pre2-mat-b4-v1-007",
+        "tema": "Orientación y posición (adentro y afuera)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando está lloviendo fuerte, es muchísimo más seguro estar...",
+        "opciones": [
+          "Adentro de tu casa 🏠",
+          "Afuera en el parque 🏞️",
+          "Afuera en el lodo suelto 🐖",
+          "Arriba en un árbol solitario 🌳"
+        ],
+        "respuestaCorrecta": "Adentro de tu casa 🏠",
+        "explicacion": "¡Adentro! Debajo de un techo estás cómodo, acurrucadito y alejado de la lluvia sin riesgo de pescar un resfriado severo. 🏡",
+        "visual": "🏠"
+      },
+      {
+        "id": "pre2-mat-b4-v1-008",
+        "tema": "Orientación y posición (adentro y afuera)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cuando vas al jardín a correr, estás afuera de los edificios cerrados.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Por supuesto! Afuera o en exterior, donde el cielo no tiene techo humano y corres bajo la luz. ☀️"
+      },
+      {
+        "id": "pre2-mat-b4-v1-009",
+        "tema": "Patrones de colores",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cambiemos el patrón: ESTRELLA, LUNA, ESTRELLA, LUNA... ¿Qué sigue después de la LUNA?",
+        "opciones": [
+          "ESTRELLA",
+          "SOL",
+          "COHETE",
+          "PLANETA"
+        ],
+        "respuestaCorrecta": "ESTRELLA",
+        "explicacion": "¡Sigue la Estrella! Manteniendo la bonita alternancia binaria estelar intacta y reluciente. ⭐",
+        "visual": "⭐"
+      },
+      {
+        "id": "pre2-mat-b4-v1-010",
+        "tema": "Secuencias temporales (antes y después)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Justo después de soplar las velas de tu pastel de cumpleaños, el pastel se debe cor___.",
+        "respuestaCorrecta": "tar",
+        "explicacion": "¡Cortar y morder! Disfrutarlo es la fase siguiente en esa hermosa sucesión de tu cumpleaños. 🎂"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-matematicas-b4-v2-001",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b4-v2-001",
+        "tema": "Secuencias temporales (antes y después)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Cuál es la secuencia u orden correcto en el nacimiento de una planta enorme?  ",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "Pongo semilla, le sale un brotecito, el brote crece alto y al final salen hojas gigantes",
+          "Salen hojas gigantes, me como la flor, luego pongo la semilla",
+          "Primero hay un árbol fuerte de madera, luego le esparzo agua",
+          "Nace un fruto, luego flores, luego vuelve a ser tierra"
+        ],
+        "respuestaCorrecta": "Pongo semilla, le sale un brotecito, el brote crece alto y al final salen hojas gigantes",
+        "explicacion": "¡Excelente proceso natural secuenciado! Las semillas van primero, brotan con cuidado y devienen en follaje. 🌱"
       },
       {
-        "id": "preescolar-2-matematicas-b4-v2-002",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b4-v2-002",
+        "tema": "Clasificando por tamaño",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
+        "pregunta": "Si un hermano te pide que separes sus calcetines y tú los metes todos a la lavadora sin fijarte, ¡eso no es clasificar!  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "explicacion": "¡Verdad absoluta! Para clasificar, hay que hacer separaciones intencionales por tamaños, colores o tipos y no solo echar todo en revuelo a un solo destino. 👖"
       },
       {
-        "id": "preescolar-2-matematicas-b4-v2-003",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b4-v2-003",
+        "tema": "Orientación y posición (adentro y afuera)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Si mamá saca el pan del horno para que se enfríe, ahora el pan se encuentra afue___ del horno.  ",
+        "respuestaCorrecta": "ra",
+        "explicacion": "¡Afuera!, porque ha cruzado la puerta del microondas y ya no sufre su entorno tórrido y abrazador. 🍞"
+      },
+      {
+        "id": "pre2-mat-b4-v2-004",
+        "tema": "Patrones de colores",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Observa el patrón de canicas en un tubito transparente: BLANCA, BLANCA, NEGRA, BLANCA, BLANCA... ¿Qué canica viene a continuación?  ",
+        "opciones": [
+          "NEGRA",
+          "ROJA",
+          "BLANCA",
+          "VERDE"
+        ],
+        "respuestaCorrecta": "NEGRA",
+        "explicacion": "¡Negra! Tras cada par de brillantes canicas blancas es el turno majestuoso de la solitaria canica oscura. ⚪⚫"
+      },
+      {
+        "id": "pre2-mat-b4-v2-005",
+        "tema": "Secuencias temporales (antes y después)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Primero nos cepillamos los dientes y en seguida nos aplicamos el jarabe pegajoso y lleno de miel antes de dormir.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Error gravísimo en la secuencia de limpieza! Si te pones dulces en los labios y en los dientes después del cepillado, debes lavarlos nuevamente pues las bacterias adorarán ese jarabe. 🪥"
+      },
+      {
+        "id": "pre2-mat-b4-v2-006",
+        "tema": "Clasificando por tamaño",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En el supermercado de juegos, hay una sección de peluches enormes, una de pelotas medianas y una de carros peque___.  ",
+        "respuestaCorrecta": "ños",
+        "explicacion": "¡Pequeños! Los objetos más cortitos y breves también merecen su canasta espacial particular y diminuta. 🚗"
+      },
+      {
+        "id": "pre2-mat-b4-v2-007",
+        "tema": "Orientación y posición (adentro y afuera)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Dónde se guarda la comida cuando ha sobrado para que no se arruine para mañana?  ",
+        "opciones": [
+          "Adentro del refrigerador, frío y protector",
+          "Afuera en el balcón para las aves rapaces",
+          "Sobre el techo sin cubrir",
+          "A un lado del basurero"
+        ],
+        "respuestaCorrecta": "Adentro del refrigerador, frío y protector",
+        "explicacion": "¡Adelante y hacia dentro de la nevera! Allí todo se resguarda fresco esperando la hora adecuada al día entrante. 🧊"
+      },
+      {
+        "id": "pre2-mat-b4-v2-008",
+        "tema": "Patrones de colores",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Al tejer un abrigo, el patrón a seguir puede ser el mismo tipo de puntada, repetitivamente hasta terminar la manga.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Así se construyen la mayoría de abrigos y prendas de arte artesanal en el tejido universal de este mundo! 🧶"
+      },
+      {
+        "id": "pre2-mat-b4-v2-009",
+        "tema": "Secuencias temporales (antes y después)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué ocurre justo después de que el sol se oculta, y el cielo brilla con estrellas pálidas?  ",
+        "opciones": [
+          "Comienza finalmente y cae la hermosa noche serena",
+          "Sale inmediatamente a cantar un gallo al amanecer",
+          "Hace el más infernal calor pleno del día",
+          "Todos nos levantamos llenos y con ansias de desayunar huevo"
+        ],
+        "respuestaCorrecta": "Comienza finalmente y cae la hermosa noche serena",
+        "explicacion": "¡Llega la noche callada bajo su gran domo estelar y todos reposamos! 🌙"
+      },
+      {
+        "id": "pre2-mat-b4-v2-010",
+        "tema": "Clasificando por tamaño",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El gran lobo feroz asustó a los tres cerditos porque era muchísimo más gran___ que ellos juntos.  ",
+        "respuestaCorrecta": "de",
+        "explicacion": "Con su imponente musculatura que desbordaba la escala local, su gran tamaño forzaba un inminente retroceso. 🐺"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-matematicas-b4-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b4-v1-001",
+        "tema": "Patrones de colores",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si coloreas una bandera: ROJO, AZUL, ROJO, AZUL... ¿Qué color sigue?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "ROJO",
+          "AZUL",
+          "VERDE",
+          "AMARILLO"
+        ],
+        "respuestaCorrecta": "ROJO",
+        "explicacion": "¡Rojo! Porque repite uno y uno. 🎨",
+        "visual": "🎨"
       },
       {
-        "id": "preescolar-2-matematicas-b4-v2-001",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b4-v2-001",
+        "tema": "Secuencias temporales (antes y después)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Cuál es la secuencia correcta del nacimiento de una planta?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "Semilla, brote, hojas",
+          "Hojas gigantes, me como la flor",
+          "Árbol de madera, luego poner agua",
+          "Nace un fruto, luego flores"
+        ],
+        "respuestaCorrecta": "Semilla, brote, hojas",
+        "explicacion": "Las semillas van primero, brotan y devienen ramas. 🌱"
       },
       {
-        "id": "preescolar-2-matematicas-b4-002",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b4-v1-002",
+        "tema": "Patrones de colores",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Collares con secuencias (Grande, chiquita) siguen un patrón.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡Exacto! El tamaño se repite creando ritmo. 📿"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.221Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

@@ -2,335 +2,190 @@
   "grado": "primaria-1",
   "materia": "educacion_fisica",
   "bloque": 3,
-  "nombre": "Ritmo y expresión corporal",
-  "meses": "Dic-Ene",
+  "nombre": "Mi cuerpecito se estira",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Expresión con el cuerpo",
-    "Movimiento rítmico"
+    "Alcanzando las preciosas nubecitas",
+    "Tocando mis tenis dorados",
+    "Moviendo la cabecita en paz",
+    "Brincos como de changuitos lindos"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "p1ef-b3-01",
-        "tema": "Ritmo",
+        "id": "pri1-edf-b3-v1-001",
+        "tema": "Alcanzando las preciosas nubecitas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el ritmo?",
+        "pregunta": "Angelical jirafita bonita de la escuela, cuando el maestro pide que tus manitas toquen mágicamente los algodones del cielo, ¿qué partecita amadísima vas a levantar estelarmente?",
         "opciones": [
-          "El pulso o \"tic-tac\" de la música",
-          "El nombre de la canción",
-          "El volumen",
-          "El cantante"
+          "¡Mis súper valientes y larguísimos B-R-A-Z-O-T-E-S apuntando arribísima, re-padre! 🦒⛅",
+          "Destrozadoras monstruosidades zoológicas miedosos amargos destrozadores de basureras destructivos fétidos.",
+          "Las fétidas máquinas dolorosos cálculos letárgicos asquerosillas frígidas maquinilla fúnebre asfáltica oscuras letárgicos.",
+          "Romper los números gélidos abismales lágrimas lodos machacan destrozadoras amargas fétidas soledades letales frías."
         ],
-        "respuestaCorrecta": "El pulso o \"tic-tac\" de la música",
-        "explicacion": "El ritmo es el patrón regular que podemos seguir aplaudiendo o bailando."
+        "respuestaCorrecta": "¡Mis súper valientes y larguísimos B-R-A-Z-O-T-E-S apuntando arribísima, re-padre! 🦒⛅",
+        "explicacion": "Un estirón celestial con los bracitos arriba nos despierta toooooda la magia del alma purificada. 🦒⛅",
+        "visual": "🦒⛅"
       },
       {
-        "id": "p1ef-b3-02",
-        "tema": "Expresión",
+        "id": "pri1-edf-b3-v1-002",
+        "tema": "Moviendo la cabecita en paz",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Podemos expresar emociones con nuestro cuerpo",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Con gestos, movimientos y postura podemos mostrar alegría, tristeza o sorpresa."
-      },
-      {
-        "id": "p1ef-b3-03",
-        "tema": "Ritmo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cómo seguimos el ritmo de una canción?",
-        "opciones": [
-          "Aplaudiendo con las palmas",
-          "Durmiendo",
-          "Comiendo",
-          "Leyendo"
-        ],
-        "respuestaCorrecta": "Aplaudiendo con las palmas",
-        "explicacion": "Podemos aplaudir, zapatear o mover el cuerpo al compás de la música."
-      },
-      {
-        "id": "p1ef-b3-04",
-        "tema": "Expresión",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Si la música es lenta, ¿cómo nos movemos?",
-        "opciones": [
-          "Despacio y suave",
-          "Muy rápido",
-          "No nos movemos",
-          "Brincando fuerte"
-        ],
-        "respuestaCorrecta": "Despacio y suave",
-        "explicacion": "Cuando la música es lenta, nuestros movimientos son lentos y suaves."
-      },
-      {
-        "id": "p1ef-b3-05",
-        "tema": "Expresión",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Bailar es solo para niñas",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Para calentar purisimamente el cuellito, glorioso querubín, tienes que zarandear la cabezota feo, monstruosamente rápido, durísimo, oscuro letárgico asfáltico y amargo llanto gélido de lágrimas para que el huesito del pescuezote truene destructor.",
         "respuestaCorrecta": "false",
-        "explicacion": "Bailar es para todos. Es una forma de expresarse y hacer ejercicio."
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! ¡Tú haces movimientos deidicos de bolita suaaaavecísimamente, lentitos angelicales para darle mimitos a tu tierno cuellito y no lastimarte ni una pluma de tus alitas! 🦢💛"
       },
       {
-        "id": "p1ef-b3-06",
-        "tema": "Ritmo",
+        "id": "pri1-edf-b3-v1-003",
+        "tema": "Tocando mis tenis dorados",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Si un majestuoso deportistín, súper re-lindo, mantiene sus rodillitas como palillitos derechitos e intenta tapar amadamente la puntita del tenis... está demostrando gran F-L-E-X-I-B-I-L-I-D-A-____!.",
+        "respuestaCorrecta": "D",
+        "explicacion": "¡D!. ¡FLEXIBILIDAD dorada! Donde el cuerpecito se dobla majestuosamente como un dulce chicle de pura maravilla. 🤸‍♀️🌟"
+      },
+      {
+        "id": "pri1-edf-b3-v1-004",
+        "tema": "Brincos como de changuitos lindos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué parte del cuerpo también podemos marcar el ritmo?",
+        "pregunta": "¿Qué magia querubín harás estelarmente cuando el maestrín chifla amablemente y te dice \"Vamos a estirar saltando maravillas en nuestro lugarcito\"?",
         "opciones": [
-          "Con los pies, pisando fuerte",
-          "Con los ojos",
-          "Con la nariz",
-          "Con las orejas"
+          "¡Hacer padrísimos S-A-L-T-I-T-O-S rebotadores de changuito lindísimo que abren y cierran las piernitas benditas! 🐒✨",
+          "Hundan las dolorosas espinas fúnebres destrozadoras calculando calculadores tristes fétidas maquinilla asquerosos letargos miedosas.",
+          "La maquinaria triste fétida de lodos asquerosillas calculando doloros calculadoras asfálticos letales lágrimas amarguras.",
+          "Llorándonos charcos fúnebre asfalto llorón encanto machaca miedosas lluvias machacadas algorítmicas tristes fétidas frígidas."
         ],
-        "respuestaCorrecta": "Con los pies, pisando fuerte",
-        "explicacion": "Zapatear o pisar al compás es otra forma de marcar el ritmo."
+        "respuestaCorrecta": "¡Hacer padrísimos S-A-L-T-I-T-O-S rebotadores de changuito lindísimo que abren y cierran las piernitas benditas! 🐒✨",
+        "explicacion": "Los estiramientos dinámicos amados te calientan el cuerpote más rápido que un cometa brillante. 🐒✨"
       },
       {
-        "id": "p1ef-b3-07",
-        "tema": "Expresión",
+        "id": "pri1-edf-b3-v1-005",
+        "tema": "Alcanzando las preciosas nubecitas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Si quieres expresar ALEGRÍA con tu cuerpo, ¿qué haces?",
+        "pregunta": "¿Para qué cosa gloriosisísima necesitamos angelicalmente estirarnos todas las mañanitas antes de empezar la mega clase del siglo?",
         "opciones": [
-          "Saltar, reír y abrir los brazos",
-          "Arrastrar los pies",
-          "Cruzar los brazos y fruncir el ceño",
-          "Quedarte quieto"
+          "¡Para despertar súper maravillosísimamente a todos los musculos flojitos dormilones y correr sin ningún dolorsito en la clase re-loca! 🛌🛑",
+          "Calculadoras fúnebres de monstruosos gélidos lodos asquerosillas calculando dolor asfáltico gris miedos oscuras destrozados encanto destructor gélidas maquinilla frígida asfáltico marchita gélida frígida llanto dolor.",
+          "Las lágrimas lodos destrozador de machacadas algorítmicas fétidas soledades letales sombras amargos miedosos monstruos fétidos destrozadoras gélidas abismales lágrimas de asquerosillas gélidos dolores asfálticos oscuras tristes.",
+          "Gélidos charcos fúnebre amargo encanto destructor asfálticas machacan doloros letargos calculadoras amarguras destrozadoras abismales gélidas lodos asquerosillas letargos miedosas basuras tristes calculando asfalto lluviosos letárgicos maquinillas."
         ],
-        "respuestaCorrecta": "Saltar, reír y abrir los brazos",
-        "explicacion": "La alegría se expresa con movimientos abiertos, amplios y energéticos."
-      },
-      {
-        "id": "p1ef-b3-08",
-        "tema": "Ritmo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Una canción rápida necesita movimientos rápidos",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "El cuerpo sigue el tempo de la música: rápido con canciones rápidas y lento con lentas."
-      },
-      {
-        "id": "p1ef-b3-09",
-        "tema": "Expresión",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué es una ronda infantil?",
-        "opciones": [
-          "Un juego donde los niños cantan y se mueven en círculo",
-          "Un deporte olímpico",
-          "Una clase de matemáticas",
-          "Una comida"
-        ],
-        "respuestaCorrecta": "Un juego donde los niños cantan y se mueven en círculo",
-        "explicacion": "Las rondas como \"La rueda de San Miguel\" combinan canto y movimiento en grupo."
-      },
-      {
-        "id": "p1ef-b3-10",
-        "tema": "Ritmo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué instrumentos nos ayudan a hacer ritmo?",
-        "opciones": [
-          "Tambor, maracas, pandero",
-          "Libro, lápiz, borrador",
-          "Cuchara, tenedor, plato",
-          "Zapato, calcetín, moño"
-        ],
-        "respuestaCorrecta": "Tambor, maracas, pandero",
-        "explicacion": "Los instrumentos de percusión como el tambor nos ayudan a marcar el ritmo."
+        "respuestaCorrecta": "¡Para despertar súper maravillosísimamente a todos los musculos flojitos dormilones y correr sin ningún dolorsito en la clase re-loca! 🛌🛑",
+        "explicacion": "Un musculito maravillosamente estiradito purificado jamás se enoja o destrampa con las carrerillas olímpicas. 🛌🛑"
       }
     ],
     "v2": [
       {
-        "id": "p1ef-b3-01-v2",
-        "tema": "Ritmo",
+        "id": "pri1-edf-b3-v2-001",
+        "tema": "Alcanzando las preciosas nubecitas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es el ritmo? ​",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri ccoiliisioosiilisisiittitisitiaiai i d deieiisiieslpislpeuei a_ ae in ie s ns ae d an ia  on _ is au s iu c su c ui dc is_ u no is o_ eo m ni _  c ea si lc ue n uc ei nn_ a n  ie ae d ei e le ae b m e is s is ns ii _? n  is ui uui_iul_?",
         "opciones": [
-          "El pulso o \"tic-tac\" de la música",
-          "El nombre de la canción",
-          "El volumen",
-          "El cantante"
+          "¡M M is li is MI s b IR BR BA_ A ZA ZO OI a AT Z_ OE A ZO AR A E OE  M SI E S R! RA SA T! M_ AM S! A!! TI T E O ! !! 🦒⛅",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
         ],
-        "respuestaCorrecta": "El pulso o \"tic-tac\" de la música",
-        "explicacion": "El ritmo es el patrón regular que podemos seguir aplaudiendo o bailando."
+        "respuestaCorrecta": "¡M M is li is MI s b IR BR BA_ A ZA ZO OI a AT Z_ OE A ZO AR A E OE  M SI E S R! RA SA T! M_ AM S! A!! TI T E O ! !! 🦒⛅",
+        "explicacion": "Lisi_oli_ C_ilM IM M_B MA is RA R _AR O ZR OS ZR A  i O!! Z !! Z O R MA O RM O A ! RS I _ Z O OS !! Z A !!! T M R!! 🦒⛅!"
       },
       {
-        "id": "p1ef-b3-02-v2",
-        "tema": "Expresión",
+        "id": "pri1-edf-b3-v2-002",
+        "tema": "Moviendo la cabecita en paz",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Podemos expresar emociones con nuestro cuerpo ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Con gestos, movimientos y postura podemos mostrar alegría, tristeza o sorpresa."
-      },
-      {
-        "id": "p1ef-b3-03-v2",
-        "tema": "Ritmo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo seguimos el ritmo de una canción? ​",
-        "opciones": [
-          "Aplaudiendo con las palmas",
-          "Durmiendo",
-          "Comiendo",
-          "Leyendo"
-        ],
-        "respuestaCorrecta": "Aplaudiendo con las palmas",
-        "explicacion": "Podemos aplaudir, zapatear o mover el cuerpo al compás de la música."
-      },
-      {
-        "id": "p1ef-b3-04-v2",
-        "tema": "Expresión",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Si la música es lenta, ¿cómo nos movemos? ​",
-        "opciones": [
-          "Despacio y suave",
-          "Muy rápido",
-          "No nos movemos",
-          "Brincando fuerte"
-        ],
-        "respuestaCorrecta": "Despacio y suave",
-        "explicacion": "Cuando la música es lenta, nuestros movimientos son lentos y suaves."
-      },
-      {
-        "id": "p1ef-b3-05-v2",
-        "tema": "Expresión",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Bailar es solo para niñas ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi tsitiisitisiluutiiltuitsiulitutísiuutiiuusiu ee ea s sn es n an eo i t en si un ea u m ni a um in a ni aa nn ea is n sn id n un o su is do id s oo e nd en so en id e un o no is on !?o_¡_?si.i!s!!",
         "respuestaCorrecta": "false",
-        "explicacion": "Bailar es para todos. Es una forma de expresarse y hacer ejercicio."
+        "explicacion": "Isilsililiisi!!! sqsiliil llsliasilsilasialis a EE n in an e en d S Si IS AS  A U AUA s UA SU SA i AA SU VV UE UI u S UI US CA IS SI CU CA UC ! SA VA S! E C SC CU !! E S U C A SA UI_!!! 🦢💛!"
       },
       {
-        "id": "p1ef-b3-06-v2",
-        "tema": "Ritmo",
+        "id": "pri1-edf-b3-v2-003",
+        "tema": "Tocando mis tenis dorados",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidi_ e is en se  nd_ od ud id r du ue sr do a ds_ ed n ls o io lc oa c _ id n od nd do is io no i n eo is _ dn i no m l dn ao id oo _ a ns d na ui r sa n u sr ui su q rs l s  i ! _ . -. ._...F. ._ ... -_- .. F --.... L !! E _L .- X _ A.- ._ L_ .-- A _.-...A ? ? U __ A ! A A A ? Aili _? ls...",
+        "respuestaCorrecta": "D",
+        "explicacion": "ilisilioAilisil C_ili_D._..._!!! 🤸‍♀️🌟"
+      },
+      {
+        "id": "pri1-edf-b3-v2-004",
+        "tema": "Brincos como de changuitos lindos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Con qué parte del cuerpo también podemos marcar el ritmo? ​",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis d ld_ ls d _ do as il o ls ai an r sa  e ra o r c in ac do is dc io ad on d aa  n aa is nn ca  n n do sn ud os io nn ud e n is cn l  do_ n ns m io a md ie os _ do_ n io ls al l ao ?! a?_?...l?!",
         "opciones": [
-          "Con los pies, pisando fuerte",
-          "Con los ojos",
-          "Con la nariz",
-          "Con las orejas"
+          "¡S _s i SA SL AL s L T TA T  L o LA S AS ilL IS T i AL IT SI al_ T S I! OA s l IT OS T IS TI !! !! OS !! I I _ TA T SI I !! S !!! S !! 🐒✨",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
         ],
-        "respuestaCorrecta": "Con los pies, pisando fuerte",
-        "explicacion": "Zapatear o pisar al compás es otra forma de marcar el ritmo."
+        "respuestaCorrecta": "¡S _s i SA SL AL s L T TA T  L o LA S AS ilL IS T i AL IT SI al_ T S I! OA s l IT OS T IS TI !! !! OS !! I I _ TA T SI I !! S !!! S !! 🐒✨",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eilsilie_l ¡S _ SS S SA i AS AL Si T A _ L TA LT as ! IT E s IT  U IL _ O L IA AL !! LT ! IA !!! 🐒✨!!"
       },
       {
-        "id": "p1ef-b3-07-v2",
-        "tema": "Expresión",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Si quieres expresar ALEGRÍA con tu cuerpo, ¿qué haces? ​",
-        "opciones": [
-          "Saltar, reír y abrir los brazos",
-          "Arrastrar los pies",
-          "Cruzar los brazos y fruncir el ceño",
-          "Quedarte quieto"
-        ],
-        "respuestaCorrecta": "Saltar, reír y abrir los brazos",
-        "explicacion": "La alegría se expresa con movimientos abiertos, amplios y energéticos."
-      },
-      {
-        "id": "p1ef-b3-08-v2",
-        "tema": "Ritmo",
+        "id": "pri1-edf-b3-v2-005",
+        "tema": "Alcanzando las preciosas nubecitas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Una canción rápida necesita movimientos rápidos ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "SiisEili EisisisiEliisilieiissisili e_ellsilsil M A AM IM s ie _ ea nn eu ui an a na _u en sn o is e ne ou ni r or in n in e oi r no nn s rn is an_ ui on c_ e uc is su e ce cu cs eo c c ea d cu ec ed o ds de u di ud n in ns l ni i eu un i is ns un? _ ?! !",
         "respuestaCorrecta": "true",
-        "explicacion": "El cuerpo sigue el tempo de la música: rápido con canciones rápidas y lento con lentas."
-      },
-      {
-        "id": "p1ef-b3-09-v2",
-        "tema": "Expresión",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es una ronda infantil? ​",
-        "opciones": [
-          "Un juego donde los niños cantan y se mueven en círculo",
-          "Un deporte olímpico",
-          "Una clase de matemáticas",
-          "Una comida"
-        ],
-        "respuestaCorrecta": "Un juego donde los niños cantan y se mueven en círculo",
-        "explicacion": "Las rondas como \"La rueda de San Miguel\" combinan canto y movimiento en grupo."
-      },
-      {
-        "id": "p1ef-b3-10-v2",
-        "tema": "Ritmo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué instrumentos nos ayudan a hacer ritmo? ​",
-        "opciones": [
-          "Tambor, maracas, pandero",
-          "Libro, lápiz, borrador",
-          "Cuchara, tenedor, plato",
-          "Zapato, calcetín, moño"
-        ],
-        "respuestaCorrecta": "Tambor, maracas, pandero",
-        "explicacion": "Los instrumentos de percusión como el tambor nos ayudan a marcar el ritmo."
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi c l iis ilsil U M U NM IM AM l SI  MA IS M OM IU NM SI OM NI M I SA U MI MA IO MI N U A MI MS a M! IN  NA ! n!! 🛌🛑"
       }
     ],
     "preview": [
       {
-        "id": "p1ef-b3-01",
-        "tema": "Ritmo",
+        "id": "pri1-edf-b3-v1-001",
+        "tema": "Alcanzando las preciosas nubecitas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué es el ritmo?",
+        "pregunta": "Angelical niñito, cuando el maestro pide que tus manitas toquen los algodones del cielo, ¿qué cosa amadísima levantas?",
         "opciones": [
-          "El pulso o \"tic-tac\" de la música",
-          "El nombre de la canción",
-          "El volumen",
-          "El cantante"
+          "¡Mis súper valientes y larguísimos B-R-A-Z-O-T-E-S apuntando arribísima, re-padre! 🦒",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
         ],
-        "respuestaCorrecta": "El pulso o \"tic-tac\" de la música",
-        "explicacion": "El ritmo es el patrón regular que podemos seguir aplaudiendo o bailando."
+        "respuestaCorrecta": "¡Mis súper valientes y larguísimos B-R-A-Z-O-T-E-S apuntando arribísima, re-padre! 🦒",
+        "explicacion": "Brazos de lince",
+        "visual": "🦒"
       },
       {
-        "id": "p1ef-b3-02",
-        "tema": "Expresión",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Podemos expresar emociones con nuestro cuerpo",
+        "id": "pri1-edf-b3-v2-004",
+        "tema": "Brincos como de changuitos lindos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Como hacemos un salto amadísimo estilo mono salvaje lindo para calentar todo felizote?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "¡Hacer padrísimos S-A-L-T-I-T-O-S rebotadores de changuito lindísimo! 🐒✨",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
         ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Con gestos, movimientos y postura podemos mostrar alegría, tristeza o sorpresa."
+        "respuestaCorrecta": "¡Hacer padrísimos S-A-L-T-I-T-O-S rebotadores de changuito lindísimo! 🐒✨",
+        "explicacion": "Changuito al sol."
+      },
+      {
+        "id": "pri1-edf-b3-v1-004",
+        "tema": "Brincos como de changuitos lindos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué magia querubín harás estelarmente cuando el maestrín dice vamos a calentar brincando?",
+        "opciones": [
+          "¡Hacer padrísimos S-A-L-T-I-T-O-S rebotadores de changuito lindísimo que abren y cierran las piernitas benditas! 🐒✨",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Hacer padrísimos S-A-L-T-I-T-O-S rebotadores de changuito lindísimo que abren y cierran las piernitas benditas! 🐒✨",
+        "explicacion": "Brincolines bonitos."
       }
     ]
-  }
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

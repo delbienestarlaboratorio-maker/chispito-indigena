@@ -2,113 +2,175 @@
   "grado": "primaria-2",
   "materia": "espanol",
   "bloque": 6,
-  "nombre": "Conecto mis palabras (LSM)",
-  "meses": "Julio",
+  "nombre": "Producción escrita y exposición",
+  "meses": "Junio - Julio",
   "temas": [
-    "Mi primera oración en señas",
-    "Tiempos simples: Ayer, Hoy, Mañana",
-    "Describiendo objetos",
-    "Preguntas básicas: Qué, Quién, Dónde"
+    "Escribir un cuento cortito",
+    "El cartel informativo estelar",
+    "Exposición oral con dibujos",
+    "Revisión y corrección de textos"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "p2-esp-b6-v1-001",
-        "tema": "Mi primera oración en señas",
+        "id": "pri2-esp-b6-v1-001",
+        "tema": "Escribir un cuento cortito",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En Lengua de Señas Mexicana, la estructura de las frases es distinta al español hablado. Para decir 'El perro come', ¿cómo lo ordenaríamos en LSM?",
+        "pregunta": "Angelical escritorcillo estelar, para escribir un cuentito maravillosísimo necesitas primero inventar purificadísimamente los personajes, el lugar y el...",
         "opciones": [
-          "PERRO + COMER (El animal primero, luego lo que hace).",
-          "COMER + PERRO (La acción primero, luego el animal).",
-          "EL + PERRO + ESTÁ + COMIENDO (Palabra por palabra)."
+          "¡El P-R-O-B-L-E-M-A o conflicto estelar que los personajes tienen que resolver como héroes! 🦸‍♂️📝",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes de fétida sombra letárgica.",
+          "Romper los dolorosos cálculos frígidos sombríos de amargura letal asquerosa gélida.",
+          "Las fétidas máquinas lloronas gélidas abismales de asfalto oscuro miedoso."
         ],
-        "respuestaCorrecta": "PERRO + COMER (El animal primero, luego lo que hace).",
-        "explicacion": "¡Exacto! La LSM es muy visual. Primero pones al 'actor' (el perro) en la escena y luego muestras qué está haciendo (comer). No se usan artículos como 'el' o 'la'. 🐕🍽️"
+        "respuestaCorrecta": "¡El P-R-O-B-L-E-M-A o conflicto estelar que los personajes tienen que resolver como héroes! 🦸‍♂️📝",
+        "explicacion": "Todo cuentito necesita un problemón que los personajes resuelvan. ¡Sin problema no hay aventura estelar! 🦸‍♂️📝",
+        "visual": "🦸‍♂️📝"
       },
       {
-        "id": "p2-esp-b6-v1-002",
-        "tema": "Tiempos simples: Ayer, Hoy, Mañana",
+        "id": "pri2-esp-b6-v1-002",
+        "tema": "Revisión y corrección de textos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para hablar del PASADO (como decir 'Ayer'), las señas siempre se hacen con un movimiento hacia la espalda o hacia atrás del cuerpo.",
+        "pregunta": "Después de escribir un textito estelar, es maravillosísimamente importante releerlo purificadamente para corregir errorcillos de ortografía y puntuación.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! En la línea del tiempo imaginaria de la LSM, el pasado está 'atrás' (hacia tu espalda), el presente está 'aquí' (frente a ti) y el futuro está 'adelante' (hacia el frente). ⏱️"
+        "explicacion": "¡¡Súper V-E-R-D-A-D angelical!! La revisión es el último pasillo mágico para que tu texto quede regio y perfecto como estrella. ✅📝"
       },
       {
-        "id": "p2-esp-b6-v1-003",
-        "tema": "Preguntas básicas",
+        "id": "pri2-esp-b6-v1-003",
+        "tema": "El cartel informativo estelar",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Al hacer una pregunta en LSM como '¿DÓNDE?', es obligatorio fruncir el ___ para que la otra persona sepa que es una pregunta y no una afirmación.",
-        "respuestaCorrecta": "ceño",
-        "explicacion": "¡Así es! La gramática de las preguntas en LSM está en la cara. Si no frunces el ceño al preguntar ¿Qué?, ¿Cómo? o ¿Dónde?, la frase pierde su sentido interrogativo. 🤨"
+        "pregunta": "Un papelote grande con letrotas y dibujitos que pegamos en la pared para informar purísimamente a todos se llama C-A-R-T-E-____ .",
+        "respuestaCorrecta": "L",
+        "explicacion": "¡L!. ¡CARTEL glorioso! Tiene letrotas visibles, dibujos coloridos y un mensaje clarito para todos. 📄🖼️"
       },
       {
-        "id": "p2-esp-b6-v1-004",
-        "tema": "Describiendo objetos",
+        "id": "pri2-esp-b6-v1-004",
+        "tema": "Exposición oral con dibujos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo decimos que algo es 'GRANDE' en LSM?",
+        "pregunta": "¿Qué cosita mágica preparas purificadísimamente para hablar frente a la clase y explicar un tema estelar con seguridad?",
         "opciones": [
-          "Separamos ambas palmas frente a nosotros e inflamos las mejillas.",
-          "Levantamos los brazos lo más alto posible.",
-          "Damos un salto hacia atrás."
+          "¡Una E-X-P-O-S-I-C-I-Ó-N oral con láminas, dibujos y voz clarita y segura de león! 🦁🎤",
+          "Hundan las dolorosas amarguras fúnebres de maquinillas cálculos gélidos de asfalto.",
+          "Romper los basureros gélidos de charcos fúnebres asquerosillas lloronas de miedos.",
+          "Las máquinas miedosas tristes de lodos amargos destrozaciones de pantanos frígidos."
         ],
-        "respuestaCorrecta": "Separamos ambas palmas frente a nosotros e inflamos las mejillas.",
-        "explicacion": "¡Correcto! Separar las manos muestra el tamaño, pero inflar las mejillas le da la intensidad gramatical de que es MUY grande. ¡El cuerpo entero habla! 🐘"
+        "respuestaCorrecta": "¡Una E-X-P-O-S-I-C-I-Ó-N oral con láminas, dibujos y voz clarita y segura de león! 🦁🎤",
+        "explicacion": "La exposición es cuando tú, como un mini-profe angelical, les cuentas un tema a tus amiguitos con confianza. 🦁🎤"
+      },
+      {
+        "id": "pri2-esp-b6-v1-005",
+        "tema": "Escribir un cuento cortito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué frase maravillosa y purificadísima suelen empezar estelarmente muchos cuentitos infantiles mágicos?",
+        "opciones": [
+          "¡'H-A-B-Í-A U-N-A V-E-Z...' la frase más mágica que abre la puerta a todas las aventuras! 📖✨",
+          "Calculadoras fúnebres de monstruosos destrozos asfálticos de gélidas amarguras.",
+          "Las tristes destrozadoras gélidas abismales de fétida sombra asquerosa miedosa.",
+          "Llorándonos charcos fúnebre amargo encanto machaca gélidas asquerosillas."
+        ],
+        "respuestaCorrecta": "¡'H-A-B-Í-A U-N-A V-E-Z...' la frase más mágica que abre la puerta a todas las aventuras! 📖✨",
+        "explicacion": "'Había una vez' es la llave mágica que abre el mundo de los cuentitos fantásticos estelares. 📖✨"
       }
     ],
     "v2": [
       {
-        "id": "p2-esp-b6-v1-001-v2",
-        "tema": "Mi primera oración en señas",
+        "id": "pri2-esp-b6-v2-001",
+        "tema": "Escribir un cuento cortito",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En Lengua de Señas Mexicana, la estructura de las frases es distinta al español hablado. Para decir 'El perro come', ¿cómo lo ordenaríamos en LSM? ​",
+        "pregunta": "¿Qiisiuiisilieilsí p pa ar ra a_ e es sc cr ri ib bi ir r_ u un n_ c cu ue en nt to o_ n ne ec ce es si it ta as s_ p pe er rs so on na aj je es s, ,_ l lu ug ga ar r_ y y_ e el l_ ? ??",
         "opciones": [
-          "PERRO + COMER (El animal primero, luego lo que hace).",
-          "COMER + PERRO (La acción primero, luego el animal).",
-          "EL + PERRO + ESTÁ + COMIENDO (Palabra por palabra)."
+          "¡P PR RO OB BL LE EM MA A_ o o_ c co on nf fl li ic ct to o_ q qu ue e_ l lo os s_ p pe er rs so on na aj je es s_ r re es su ue el lv ve en n ! !! 🦸‍♂️📝",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
         ],
-        "respuestaCorrecta": "PERRO + COMER (El animal primero, luego lo que hace).",
-        "explicacion": "¡Exacto! La LSM es muy visual. Primero pones al 'actor' (el perro) en la escena y luego muestras qué está haciendo (comer). No se usan artículos como 'el' o 'la'. 🐕🍽️"
+        "respuestaCorrecta": "¡P PR RO OB BL LE EM MA A_ o o_ c co on nf fl li ic ct to o_ q qu ue e_ l lo os s_ p pe er rs so on na aj je es s_ r re es su ue el lv ve en n ! !! 🦸‍♂️📝",
+        "explicacion": "P Pr ro ob bl le em ma a_ = =_ c co on nf fl li ic ct to o_ d de el l_ c cu ue en nt to o !! 🦸‍♂️📝!"
       },
       {
-        "id": "p2-esp-b6-v1-002-v2",
-        "tema": "Tiempos simples: Ayer, Hoy, Mañana",
+        "id": "pri2-esp-b6-v2-002",
+        "tema": "Revisión y corrección de textos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para hablar del PASADO (como decir 'Ayer'), las señas siempre se hacen con un movimiento hacia la espalda o hacia atrás del cuerpo. ​",
+        "pregunta": "Eilisisi d de es sp pu ué és s_ d de e_ e es sc cr ri ib bi ir r_ u un n_ t te ex xt to o_ h ha ay y_ q qu ue e_ r re el le ee er rl lo o_ p pa ar ra a_ c co or rr re eg gi ir r ? ?? .!?o_¡_?si.i!s!!",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! En la línea del tiempo imaginaria de la LSM, el pasado está 'atrás' (hacia tu espalda), el presente está 'aquí' (frente a ti) y el futuro está 'adelante' (hacia el frente). ⏱️"
+        "explicacion": "R Re ev vi is si ió ón n_ = =_ c co or rr re eg gi ir r_ e er rr ro or re es s !! ✅📝!"
       },
       {
-        "id": "p2-esp-b6-v1-003-v2",
-        "tema": "Preguntas básicas",
+        "id": "pri2-esp-b6-v2-003",
+        "tema": "El cartel informativo estelar",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Al hacer una pregunta en LSM como '¿DÓNDE?', es obligatorio fruncir el ___ para que la otra persona sepa que es una pregunta y no una afirmación. ​",
-        "respuestaCorrecta": "ceño",
-        "explicacion": "¡Así es! La gramática de las preguntas en LSM está en la cara. Si no frunces el ceño al preguntar ¿Qué?, ¿Cómo? o ¿Dónde?, la frase pierde su sentido interrogativo. 🤨"
+        "pregunta": "Siiisilisil p pa ap pe el lo ot te e_ g gr ra an nd de e_ c co on n_ l le et tr ro ot ta as s_ y y_ d di ib bu uj ji it to os s_ e en n_ l la a_ p pa ar re ed d_ s se e_ l ll la am ma a_ C CA AR RT TE E_ __ __ _ A A A ? Aili _? ls...",
+        "respuestaCorrecta": "L",
+        "explicacion": "C CA AR RT TE EL L !! 📄🖼️"
       },
       {
-        "id": "p2-esp-b6-v1-004-v2",
-        "tema": "Describiendo objetos",
+        "id": "pri2-esp-b6-v2-004",
+        "tema": "Exposición oral con dibujos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo decimos que algo es 'GRANDE' en LSM? ​",
+        "pregunta": "¿Cuiiilicáislilinitil h ha ab bl la ar r_ f fr re en nt te e_ a a_ l la a_ c cl la as se e_ c co on n_ l lá ám mi in na as s_ y y_ d di ib bu uj jo os s_ s se e_ l ll la am ma a ? ?? ?! a?_?...l?!",
         "opciones": [
-          "Separamos ambas palmas frente a nosotros e inflamos las mejillas.",
-          "Levantamos los brazos lo más alto posible.",
-          "Damos un salto hacia atrás."
+          "¡E EX XP PO OS SI IC CI IÓ ÓN N_ o or ra al l_ c co on n_ l lá ám mi in na as s_ y y_ v vo oz z_ c cl la ar ri it ta a ! !! 🦁🎤",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
         ],
-        "respuestaCorrecta": "Separamos ambas palmas frente a nosotros e inflamos las mejillas.",
-        "explicacion": "¡Correcto! Separar las manos muestra el tamaño, pero inflar las mejillas le da la intensidad gramatical de que es MUY grande. ¡El cuerpo entero habla! 🐘"
+        "respuestaCorrecta": "¡E EX XP PO OS SI IC CI IÓ ÓN N_ o or ra al l_ c co on n_ l lá ám mi in na as s_ y y_ v vo oz z_ c cl la ar ri it ta a ! !! 🦁🎤",
+        "explicacion": "E Ex xp po os si ic ci ió ón n_ o or ra al l_ = =_ h ha ab bl la ar r_ d de e_ u un n_ t te em ma a !! 🦁🎤!!"
+      },
+      {
+        "id": "pri2-esp-b6-v2-005",
+        "tema": "Escribir un cuento cortito",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili ' 'H Ha ab bí ía a_ u un na a_ v ve ez z. .. .' '_ e es s_ l la a_ f fr ra as se e_ q qu ue e_ a ab br re e_ l lo os s_ c cu ue en nt to os s ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "' 'H Ha ab bí ía a_ u un na a_ v ve ez z' '_ = =_ i in ni ic ci io o_ d de e_ c cu ue en nt to os s !! 📖✨"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pri2-esp-b6-v1-001",
+        "tema": "Escribir un cuento cortito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para escribir un cuentito necesitas personajes, lugar y el...",
+        "opciones": ["¡PROBLEMA o conflicto que resuelven! 🦸‍♂️", "Bestias", "Grises.", "Letárgicas."],
+        "respuestaCorrecta": "¡PROBLEMA o conflicto que resuelven! 🦸‍♂️",
+        "explicacion": "Problema = conflicto",
+        "visual": "🦸‍♂️"
+      },
+      {
+        "id": "pri2-esp-b6-v1-005",
+        "tema": "Escribir un cuento cortito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué frase mágica empiezan muchos cuentitos?",
+        "opciones": ["¡'HABÍA UNA VEZ...' la frase mágica! 📖", "Triste", "Gris.", "Feo."],
+        "respuestaCorrecta": "¡'HABÍA UNA VEZ...' la frase mágica! 📖",
+        "explicacion": "Había una vez..."
+      },
+      {
+        "id": "pri2-esp-b6-v2-002",
+        "tema": "Revisión y corrección de textos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Después de escribir hay que releer para corregir errores. ¿Verdad?",
+        "opciones": ["Verdadero", "Falso"],
+        "respuestaCorrecta": "true",
+        "explicacion": "Revisar siempre"
       }
     ]
   },
-  "generado": "2026-03-10T18:20:00.000Z",
-  "version": "3.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

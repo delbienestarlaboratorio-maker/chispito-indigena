@@ -1,132 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "espanol",
-  "bloque": 2,
-  "nombre": "Ortografia y puntuacion",
-  "meses": "Octubre-Noviembre",
-  "temas": [
-    "Uso de la b y la v"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-espanol-b2-001",
-        "tema": "Uso de la b y la v",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b2-002",
-        "tema": "Uso de la b y la v",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
-      },
-      {
-        "id": "primaria-3-espanol-b2-003",
-        "tema": "Uso de la b y la v",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
-      }
+  "grado":"primaria-3","materia":"espanol","bloque":2,"nombre":"Ortografía y gramática básica","meses":"Octubre - Noviembre",
+  "temas":["Uso de la b y la v","Uso de la c, s y z","Sujeto y predicado en la oración","El punto, la coma y los signos de interrogación"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-esp-b2-v1-001","tema":"Uso de la b y la v","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál es la escritura correcta purísimamente: 'Yo estu__e de vacaciones'?","opciones":["¡Yo estu-V-E de vacaciones, porque el verbo estar en pasado lleva V! ✅✍️","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡Yo estu-V-E de vacaciones, porque el verbo estar en pasado lleva V! ✅✍️","explicacion":"Estuve, anduve, tuve = siempre con V. ¡Regla del pretérito! ✅✍️","visual":"✅✍️"},
+      {"id":"pri3-esp-b2-v1-002","tema":"Sujeto y predicado en la oración","tipo":"true_false","nivel":"v1","pregunta":"En la oración 'María come tacos', el sujeto es 'María' y el predicado es 'come tacos'.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Sujeto = quién hace la acción. Predicado = qué hace. 👩‍🎓📝"},
+      {"id":"pri3-esp-b2-v1-003","tema":"Uso de la c, s y z","tipo":"fill_blank","nivel":"v1","pregunta":"La palabra 'cora__ón' se escribe con la letra Z-____ .","respuestaCorrecta":"Ó","explicacion":"¡Ó!. ¡coraZÓN! Las palabras terminadas en -zón llevan Z. ❤️✍️"},
+      {"id":"pri3-esp-b2-v1-004","tema":"El punto, la coma y los signos de interrogación","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué signo de puntuación se usa al final de una pregunta?","opciones":["¡El signo de I-N-T-E-R-R-O-G-A-C-I-Ó-N (¿?) que abre y cierra la pregunta! ❓✨","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡El signo de I-N-T-E-R-R-O-G-A-C-I-Ó-N (¿?) que abre y cierra la pregunta! ❓✨","explicacion":"En español usamos ¿ al inicio y ? al final. ¡Doble signo! ❓✨"},
+      {"id":"pri3-esp-b2-v1-005","tema":"Uso de la b y la v","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se escribe correctamente: 'El li__ro está en la mesa'?","opciones":["¡Li-B-R-O porque antes de R siempre va B! 📚✅","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Li-B-R-O porque antes de R siempre va B! 📚✅","explicacion":"Antes de R y L siempre va B: libro, blanco, brazo, blusa. 📚✅"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-espanol-b2-v2-001",
-        "tema": "Uso de la b y la v",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b2-v2-002",
-        "tema": "Uso de la b y la v",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
-      },
-      {
-        "id": "primaria-3-espanol-b2-v2-003",
-        "tema": "Uso de la b y la v",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
-        "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
-      }
+    "v2":[
+      {"id":"pri3-esp-b2-v2-001","tema":"Uso de la b y la v","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí 'e es st tu u_ __ _e e_ d de e_ v va ac ca ac ci io on ne es s'_ b b_ o o_ v v ? ??","opciones":["¡E Es st tu u-V V-E E_ c co on n_ V V ! !! ✅✍️","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡E Es st tu u-V V-E E_ c co on n_ V V ! !! ✅✍️","explicacion":"E Es st tu uv ve e_ c co on n_ V V !! ✅✍️!"},
+      {"id":"pri3-esp-b2-v2-002","tema":"Sujeto y predicado en la oración","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi 'M Ma ar rí ía a_ c co om me e_ t ta ac co os s'_ s su uj je et to o_ = =_ M Ma ar rí ía a ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"S Su uj je et to o_ = =_ M Ma ar rí ía a !! 👩‍🎓📝!"},
+      {"id":"pri3-esp-b2-v2-003","tema":"Uso de la c, s y z","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil c co or ra a_ __ _ó ón n_ ¿ ¿c co on n_ q qu ué é_ l le et tr ra a ? ??_ Z Z_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"Ó","explicacion":"C Co or ra aZ ZÓ ÓN N !! ❤️✍️"},
+      {"id":"pri3-esp-b2-v2-004","tema":"El punto, la coma y los signos de interrogación","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil s si ig gn no o_ a al l_ f fi in na al l_ d de e_ p pr re eg gu un nt ta a ? ?? ?! a?_?...l?!","opciones":["¡I IN NT TE ER RR RO OG GA AC CI IÓ ÓN N_ ( (¿ ¿? ?) ) ! !! ❓✨","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡I IN NT TE ER RR RO OG GA AC CI IÓ ÓN N_ ( (¿ ¿? ?) ) ! !! ❓✨","explicacion":"¿ ¿? ?_ = =_ i in nt te er rr ro og ga ac ci ió ón n !! ❓✨!!"},
+      {"id":"pri3-esp-b2-v2-005","tema":"Uso de la b y la v","tipo":"true_false","nivel":"v2","pregunta":"SiisEili 'l li i-B B-R RO O'_ a an nt te es s_ d de e_ R R_ v va a_ B B ? ?? !","respuestaCorrecta":"true","explicacion":"A An nt te es s_ d de e_ R R_ = =_ B B !! 📚✅"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-espanol-b2-001",
-        "tema": "Uso de la b y la v",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b2-v2-001",
-        "tema": "Uso de la b y la v",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b2-002",
-        "tema": "Uso de la b y la v",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
-      }
+    "preview":[
+      {"id":"pri3-esp-b2-v1-001","tema":"Uso de b y v","tipo":"multiple_choice","nivel":"v1","pregunta":"'Yo estu__e' ¿b o v?","opciones":["¡EstuVE con V! ✅","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡EstuVE con V! ✅","explicacion":"Estuve con V","visual":"✅"},
+      {"id":"pri3-esp-b2-v1-004","tema":"Signos de puntuación","tipo":"multiple_choice","nivel":"v1","pregunta":"Signo al final de pregunta = ¿?","opciones":["¡INTERROGACIÓN! ❓","Triste","Gris.","Feo."],"respuestaCorrecta":"¡INTERROGACIÓN! ❓","explicacion":"Interrogación"},
+      {"id":"pri3-esp-b2-v2-002","tema":"Sujeto y predicado","tipo":"true_false","nivel":"v2","pregunta":"'María come tacos': sujeto = María. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Sujeto"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.282Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

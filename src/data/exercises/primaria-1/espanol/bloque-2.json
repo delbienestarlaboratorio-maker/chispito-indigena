@@ -2,131 +2,190 @@
   "grado": "primaria-1",
   "materia": "espanol",
   "bloque": 2,
-  "nombre": "Silabas y palabras",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Sílabas ma me mi mo mu... y fa fe fi fo fu",
+  "meses": "Octubre - Noviembre",
   "temas": [
-    "Silabas simples"
+    "Las traviesas sílabas con M",
+    "Juntando la M y la UUU",
+    "Las preciosas sílabas con F",
+    "La foquita juguetona"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1-espanol-b2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b2-v1-001",
+        "tema": "Las traviesas sílabas con M",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical y sabrosísimo niñito, si tú abrazas amorosisimamente la deliciosa 'M' con la pequeña y delgadita 'I', (M+I), ¡¿qué silabita hacen maravillosamente junta?!",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡Hacen juntitas la gloriosa sílaba MI! Como Míoooo. 🍓✨",
+          "Destrozadoras de letárgicos monstruos fétidos y lodos grises asquerosillos amargos.",
+          "Las espantosas raíces amargas machacan frío charco asfixiante destrozadoras amargas.",
+          "Abismos tristes fúnebres de las gélidas pesadillas de gélidas calculadoras machacadas."
+        ],
+        "respuestaCorrecta": "¡Hacen juntitas la gloriosa sílaba MI! Como Míoooo. 🍓✨",
+        "explicacion": "La sabrosa M y la paradita I juntas decen MI purificadamente, como en el amadísimo MIO. 🍓✨",
+        "visual": "🍓✨"
       },
       {
-        "id": "primaria-1-espanol-b2-002",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b2-v1-002",
+        "tema": "Juntando la M y la UUU",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "Si tú, hermoso y angelical ser, escuchas a una ovejita purificada hacer su ruidicito, ¡la ovejita hace gloriosamente M-U, como las silabitas mágicas!",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! La ovejita hace 'beee', ¡las que cantan 'M-U-U-U' maravillosillamente son las adoradas vaquitas del campo! 🐄💖"
       },
       {
-        "id": "primaria-1-espanol-b2-003",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b2-v1-003",
+        "tema": "Las preciosas sílabas con F",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Si frotas divinamente tus labiecitos tirando airecito, suena la hermosa letrita 'F'. Si la juntas mágicisismo con la gordita 'E', ¡hacemos la sílaba F-____!.",
+        "respuestaCorrecta": "E",
+        "explicacion": "¡E!. ¡F-E! El amadísimo sonido Fe nos trae palabritas como las preciosísias Felicidades y Fiestas purificadas. 🎈"
+      },
+      {
+        "id": "pri1-esp-b2-v1-004",
+        "tema": "La foquita juguetona",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animalitito gloriosisísimo y nadador empieza a escribirse con la silabita gordotota F-O purificable?",
+        "opciones": [
+          "¡La maravillosilla y súper equilibidistra F-O-C-A, foquita deídica! 🦭✨",
+          "Atrapando monstruos asfálticos fúnebres de charcos machacados y letárgicos oscuros.",
+          "Romper números fétidos de lodo amargo y gélidas tristes algorítmicas amargas.",
+          "Los llantos mortales oscuros machacan sombras tristes en el fúnebre asquerosillo letargo gris."
+        ],
+        "respuestaCorrecta": "¡La maravillosilla y súper equilibidistra F-O-C-A, foquita deídica! 🦭✨",
+        "explicacion": "Fo-ca es una palabrilla mágica que se baña de sol en el hielito estelar. 🦭✨"
+      },
+      {
+        "id": "pri1-esp-b2-v1-005",
+        "tema": "Las traviesas sílabas con M",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si deídicamente escribes dos vecítas la lindísima sílaba M-A juntitas (MA-MA)... oh, cielo santo, ¿qué palabrísima maravillosilla se formará de tu manita querubín?",
+        "opciones": [
+          "¡Se foma la palabrita más bendita del universo: M-A-M-Á! 👩‍👦❤️",
+          "Calculadoras fúnebres hundidas en helada soledad machacan lodos oscuros grises amargos.",
+          "Máquinas espantosas rompiendo charcos tristes de letárgicos algoritmos asfálticos y muertos gélidos.",
+          "Gélidos abismos letárgicos amargos de fétidas amargas asquerosillas tristes destrozadoras gélidas lloran."
+        ],
+        "respuestaCorrecta": "¡Se foma la palabrita más bendita del universo: M-A-M-Á! 👩‍👦❤️",
+        "explicacion": "Trazar las silabitas amadas es como armar legos celestiales de puro amooorrr estelarillo. 👩‍👦❤️"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-espanol-b2-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b2-v2-001",
+        "tema": "Las traviesas sílabas con M",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri_disi_csisilililisilieilisislai _ii isisi ilsiilis sliaiai isilimsimsmimilimilimasimia e i v l_eilleillel i lisilisa aa l_ala i iisipipi_piliiipiilsisipicicisisiclilisiciieieidididiaaieiidititisiitilsitiodidiaoioiodoosisa M_ilisili  l l coociilisicooilin o i lnln_a_ isilisin i n I isil s o !isilis ... isilis  _... _.._ a _?ls",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡S S si i _SilsilSSiei isilisilitilit t ii f fioili f r_i or mo_ilismomamoilismormiamr ail isliaisi ililis S i isilis S I i liliili L L lil a  A il is A s B ilsi Bsi B A l isililA ! i  s s   ilsiil_MMilMMilsMi_MIiiliIMIilisI!!!I_I! 🍓✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡S S si i _SilsilSSiei isilisilitilit t ii f fioili f r_i or mo_ilismomamoilismormiamr ail isliaisi ililis S i isilis S I i liliili L L lil a  A il is A s B ilsi Bsi B A l isililA ! i  s s   ilsiil_MMilMMilsMi_MIiiliIMIilisI!!!I_I! 🍓✨",
+        "explicacion": "Lisi_oli_ C_ilii_sisi  lsil_si lililisiaii ailsilisia l_Mailsilialsi y _ l_Iisiliisis ddeilisideidiediilieidicciilsieilisceiineiieie i MI_M_M_IIiMi!!!IIiliMI!I!i!IIi!!!I_!I!_! 🍓✨!"
       },
       {
-        "id": "primaria-1-espanol-b2-v2-002",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b2-v2-002",
+        "tema": "Juntando la M y la UUU",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi_iltiuiliul uisituu isilslisisieililieseeilsieslsiss eeieili  c e e silis c c i s d dilisildidiiiciidliiciilisieiideisiddciielcieliieli  qqeeiulieliueiqiliui u euequieuuei e e_ee  v lisivilivililsiveaievialilisaviaiiaavvaalsialalvvalaaliqiaqlivivqaialvqaliaaiiiqsiiuiiiuuiquiiuuiai  sqsqiisili  li a ais a cceicicceiielceilisilsililiciiliiislsieleisleei_cceeiaiaiciliiacilaicisiailciliilisca_iialiisisailia lllsisillislialiliililaiailaisiiliiammimia_ail_maailm_aali m i iiiliisillilimimlmimliliiimmioiolioiliomoolslilimmiioloiomilisii_imilo_imiiliil! o!liso!!!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "true",
+        "explicacion": "Isilsililiisi!!! sqsiliil llsliasilsilasialisvaviilsivavisivalilasaiiaisvaiailisqqasiili  qilis_qisqsiiliuuilsiuiueuiequuilieieqs_ue e s e h hlilisilihahahiialihsiihailililsahcce_ha_eecilieccseiliseecisinc_eicniinecienielissini!_n! _M_MUisilMilsiUUUMlsiiUls!_ !!_!!! M!!! 🐄💖!"
+      },
+      {
+        "id": "pri1-esp-b2-v2-003",
+        "tema": "Las preciosas sílabas con F",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil pl_peili_episeilepililieseirpilp_riisiliieriei_iiriiri_ e er e e iis_i eiss_ is isis n inininlilsiniiisi o io isisi ilsisis u_ulisiliunuluilisn i_ninuninilisinniuinu n ui_ d doooildolidoiolislildidodioilsilisooioi u uididuuil_du_udliuillisdiudiuiduludsiiliiulilsi_ilsildlsulilisidclcielsilicclclsiicleeclecliicisisicliseseleieslesisiseeseisisei o c coiiciilicocilni_cniinsionionlsoiioninili _c F n o d dsilididdiidisiiliioieielieiiedeiiseediiedlilisiddeliieli_dieielsisieliesilisdie_eilseilisdlieieilesielisiliselieeeilisili a F F i _ F. F . is_ i . l - s_i .... ... _.._?ls",
+        "respuestaCorrecta": "E",
+        "explicacion": "ilisilioAilisil C_ili_E._..._!!! 🎈"
       },
       {
-        "id": "primaria-1-espanol-b2-v2-003",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b2-v2-004",
+        "tema": "La foquita juguetona",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis i g gligiligrilirgirilgiialilriligriigaliiriiisloilolilioiilisiliisioloilo i e il is e_i iieiisisilisiesniieliselis_eliesileisisisisilsieisi elilsil n_isnl_lisnilsi in  p peipisipiliseppilpispieieiiqpipeq_iiueieiqulqieqqeiqueliqquuqleueisululeiielsilsilueilueliu  q quieliseiiilqeuilisqueiqsiuelssiei e eu_ieieil e sil is _s c cs_cisclisscociioisilicio_liloicisloisoiilnniisnlsinnisliinilinso s o 1 is1 1iliF lisi1ili is F o i i F 1 F i i F..O.?_?...l?!",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡P_PeisPeeipilieei ppi_eppliseispilisielpiliselsiisispíilpisilp í isí lilsilisislí  ilis FF F o ilis f o i is ff f f_oililslisilisOOioOiisi OOoolilsnNils n!oisiNiisniisi!!!o!!OO!!! n n C c ciicA il i_CiiCccisAAl_icililsislisilsíisA!i!cí!lAAAslilí!sílsíA!!!!! 🦭✨",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡P_PeisPeeipilieei ppi_eppliseispilisielpiliselsiisispíilpisilp í isí lilsilisislí  ilis FF F o ilis f o i is ff f f_oililslisilisOOioOiisi OOoolilsnNils n!oisiNiisniisi!!!o!!OO!!! n n C c ciicA il i_CiiCccisAAl_icililsislisilsíisA!i!cí!lAAAslilí!sílsíA!!!!! 🦭✨",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eisliilisi a a a l FFFlsiFOsiOOFOooolilsoO nCCcliliscilisCAilsisilisACnAcCcA_AA!!!Aili!a.!!! AA🦭✨!!"
+      },
+      {
+        "id": "pri1-esp-b2-v2-005",
+        "tema": "Las traviesas sílabas con M",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili e i is n c clilisicilcili_oocloisliiocociocilols_inociolsinioilisnic_ninicin_nsniiiocionsili i i u liliulisuiululuui_usuluuisulisilisluuusiis s  a ar alisaaai_ilisraarariaililari r riirilimiriiliiriiirilimiimilili_miiirim_mmiiairismrmmiariisii r _r ereliieleieelrieiileeiilislilieeririeielisisiei d sdseididiidlisddisidisdiisieisddisisisiidiids_d e s s _c o coioiicoilisoolilicciocilicisilsolciloci_oiolsioiosilisisiciloliiooools osoloilslilool o y y n s s _n_ini_iinainiiiinisi!nii n... s_ii.. sili?.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! e a e v_l VVililisVliisViíiilsiivslliiiiViiii_Vilssilisiiisis_ilis s_sss d se did eili m i amiili mi m mliliaislimimaiaiami aai_alismlilaaiisamiiaimili _iMiliiisMMiA l_isil iMMA_liiliili MAAsisMAM_A!!!! M M!!! 👩‍👦❤️"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1-espanol-b2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b2-v1-001",
+        "tema": "Las traviesas sílabas con M",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical niñito, si abrazas la deliciosa 'M' con la delgadita 'I', (M+I), ¡¿qué silabita hacen?!",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡Hacen juntitas la gloriosa sílaba MI! Como Míoooo. 🍓",
+          "Destrozadoras",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Hacen juntitas la gloriosa sílaba MI! Como Míoooo. 🍓",
+        "explicacion": "M y i",
+        "visual": "🍓"
       },
       {
-        "id": "primaria-1-espanol-b2-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b2-v2-004",
+        "tema": "La foquita juguetona",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qué animalitito gordito que aplaude para jugar empieza deidicamente sus letritas con la gordita F-o?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡La maravillosilla tiernita F-O-C-A, foquita deídica! 🦭✨",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡La maravillosilla tiernita F-O-C-A, foquita deídica! 🦭✨",
+        "explicacion": "FO CA"
       },
       {
-        "id": "primaria-1-espanol-b2-002",
-        "tema": "Silabas simples",
-        "tipo": "true_false",
+        "id": "pri1-esp-b2-v1-004",
+        "tema": "La foquita juguetona",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "¿Qué animalitito que aplaude empieza con la silabita gordotota F-O purificable?",
+        "opciones": [
+          "¡La maravillosilla y súper equilibidistra F-O-C-A, foquita deídica! 🦭✨",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡La maravillosilla y súper equilibidistra F-O-C-A, foquita deídica! 🦭✨",
+        "explicacion": "Fo-ca es maravillsillo"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.234Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

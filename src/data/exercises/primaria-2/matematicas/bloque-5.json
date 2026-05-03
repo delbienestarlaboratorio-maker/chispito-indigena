@@ -2,126 +2,175 @@
   "grado": "primaria-2",
   "materia": "matematicas",
   "bloque": 5,
-  "nombre": "Medidas y fracciones basicas",
-  "meses": "Abril-Junio",
+  "nombre": "Datos y gráficas estelares",
+  "meses": "Abril - Mayo",
   "temas": [
-    "Sumas hasta 20",
-    "Multiplicacion basica"
+    "Leyendo gráficas de barras",
+    "Contando con tachitas y palomitas",
+    "Tablas de datos adoradas",
+    "Más grande, más chico, igual"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-matematicas-b5-001",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b5-v1-001",
+        "tema": "Leyendo gráficas de barras",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical cientifiquín estelar, si en la gráfica de barras la columna de 'manzanas' llega hasta el 8 y la de 'plátanos' llega hasta el 5, ¿cuál frutita tiene más amiguitos?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Las M-A-N-Z-A-N-A-S con 8 porque su barrita sube más altototas que la de los plátanos! 🍎📊",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes de fétida letárgica sombra gris.",
+          "Romper los dolorosos cálculos fúnebres de oscuras asquerosillas amarguras de sombras letal.",
+          "Las fétidas máquinas lloronas de asfalto destrozador de gélidas amarguras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Las M-A-N-Z-A-N-A-S con 8 porque su barrita sube más altototas que la de los plátanos! 🍎📊",
+        "explicacion": "La barrita más alta es la ganadora. 8 > 5, así que hay más manzanas re-maravillosísimas. 🍎📊",
+        "visual": "🍎📊"
       },
       {
-        "id": "primaria-2-matematicas-b5-002",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b5-v1-002",
+        "tema": "Contando con tachitas y palomitas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Si hicimos una mega encuesta estelar y 12 niños votaron por helado y 9 por paleta, entonces hubo maravillosísimamente MÁS votos por helado que por paleta.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡¡Súper V-E-R-D-A-D angelical!! 12 > 9. ¡El heladote ganó la encuesta purificada! 🍦✅"
       },
       {
-        "id": "primaria-2-matematicas-b5-003",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b5-v1-003",
+        "tema": "Tablas de datos adoradas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "En la tabla de mascotas, hay 6 perritos, 4 gatitos y 3 pajaritos. Si los sumamos todititos deidicamente, hay ____ mascotas en total.",
+        "respuestaCorrecta": "13",
+        "explicacion": "¡13 mascotitas adoradas! 6 + 4 + 3 = 13. ¡Un zoológico chiquito y mágico de amiguitos! 🐶🐱🐦"
+      },
+      {
+        "id": "pri2-mat-b5-v1-004",
+        "tema": "Más grande, más chico, igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos signitos mágicos estelares usamos purificadamente para decir que 15 es mayor que 9?",
+        "opciones": [
+          "¡El cocodrilote abre la bocota hacia el 15: 15 > 9 porque el grande se come al chiquito! 🐊>",
+          "Hundan las dolorosas amarguras destrozadoras de cálculos letárgicos gélidos asquerosillas.",
+          "Romper los basureros gélidos de charcos letárgicos de sombras miedosas frígidas.",
+          "Las máquinas miedosas de tristes calculadoras de lloronas machacadas asquerosillas."
+        ],
+        "respuestaCorrecta": "¡El cocodrilote abre la bocota hacia el 15: 15 > 9 porque el grande se come al chiquito! 🐊>",
+        "explicacion": "El signo > (mayor que) es como un cocodrilote que siempre abre la bocota hacia el número más grande. 15 > 9. 🐊>"
+      },
+      {
+        "id": "pri2-mat-b5-v1-005",
+        "tema": "Leyendo gráficas de barras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En una gráfica estelar, si las 3 barras tienen la misma alturita exacta marcando 7 cada una, ¿qué significa maravillosamente eso?",
+        "opciones": [
+          "¡Que las tres categorías tienen la misma cantidaditita: 7 = 7 = 7, están I-G-U-A-L-E-S de empatados! 📊🤝",
+          "Calculadoras fúnebres de monstruosos destrozos asfálticos de gélidas amarguras.",
+          "Las tristes destrozadoras de fétida oscura sombra maquinilla de asfalto basureros.",
+          "Llorándonos charcos fúnebre amargo encanto machaca asquerosos cálculos calculadoras."
+        ],
+        "respuestaCorrecta": "¡Que las tres categorías tienen la misma cantidaditita: 7 = 7 = 7, están I-G-U-A-L-E-S de empatados! 📊🤝",
+        "explicacion": "Cuando las barritas son igualitas, es un empate glorioso. ¡Todo parejito como gemelos mágicos! 📊🤝"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-matematicas-b5-v2-001",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b5-v2-001",
+        "tema": "Leyendo gráficas de barras",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qiisiuiisilieilsí g gr rá áf fi ic ca a_ d de e_ b ba ar rr ra as s_ m ma an nz za an na as s_ = =_ 8 8_ y y_ p pl lá át ta an no os s_ = =_ 5 5_ ¿ ¿C Cu uá ál l_ t ti ie en ne e_ m má ás s ? ??",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡M MA AN NZ ZA AN NA AS S_ c co on n_ 8 8_ p po or rq qu ue e_ s su u_ b ba ar rr ri it ta a_ s su ub be e_ m má ás s ! !! 🍎📊",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡M MA AN NZ ZA AN NA AS S_ c co on n_ 8 8_ p po or rq qu ue e_ s su u_ b ba ar rr ri it ta a_ s su ub be e_ m má ás s ! !! 🍎📊",
+        "explicacion": "8 8 _ > > _ 5 5 _ M Ma an nz za an na as s _ g ga an na an n !! 🍎📊!"
       },
       {
-        "id": "primaria-2-matematicas-b5-v2-002",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b5-v2-002",
+        "tema": "Contando con tachitas y palomitas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
+        "pregunta": "Eilisisi 1 12 2_ n ni iñ ño os s_ v vo ot ta ar ro on n_ p po or r_ h he el la ad do o_ y y_ 9 9_ p po or r_ p pa al le et ta a_ ¿ ¿H Hu ub bo o_ M MÁ ÁS S_ v vo ot to os s_ p po or r_ h he el la ad do o ? ?? .!?o_¡_?si.i!s!!",
         "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "explicacion": "1 12 2 _ > > _ 9 9 !! H He el la ad do o_ g ga an na a !! 🍦✅!"
       },
       {
-        "id": "primaria-2-matematicas-b5-v2-003",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b5-v2-003",
+        "tema": "Tablas de datos adoradas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Siiisilisil 6 6_ p pe er rr ri it to os s_ + +_ 4 4_ g ga at ti it to os s_ + +_ 3 3_ p pa aj ja ar ri it to os s_ = =_ _ __ __ _ _ m ma as sc co ot ta as s A A A ? Aili _? ls...",
+        "respuestaCorrecta": "13",
+        "explicacion": "6 6 _ + + _ 4 4 _ + + _ 3 3 _ = = _ 1 13 3 !! 🐶🐱🐦"
+      },
+      {
+        "id": "pri2-mat-b5-v2-004",
+        "tema": "Más grande, más chico, igual",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil s si ig gn ni it to o_ u us sa am mo os s_ p pa ar ra a_ d de ec ci ir r_ q qu ue e_ 1 15 5_ e es s_ m ma ay yo or r_ q qu ue e_ 9 9 ? ?? ?! a?_?...l?!",
+        "opciones": [
+          "¡1 15 5_ > >_ 9 9_ E El l_ c co oc co od dr ri il lo ot te e_ a ab br re e_ l la a_ b bo oc co ot ta a_ h ha ac ci ia a_ e el l_ 1 15 5 ! !! 🐊>",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡1 15 5_ > >_ 9 9_ E El l_ c co oc co od dr ri il lo ot te e_ a ab br re e_ l la a_ b bo oc co ot ta a_ h ha ac ci ia a_ e el l_ 1 15 5 ! !! 🐊>",
+        "explicacion": "E El l_ s si ig gn no o_ > >_ ( (m ma ay yo or r_ q qu ue e) )_ a ap pu un nt ta a_ h ha ac ci ia a_ e el l_ g gr ra an nd de e !! 🐊>!!"
+      },
+      {
+        "id": "pri2-mat-b5-v2-005",
+        "tema": "Leyendo gráficas de barras",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili l la as s_ 3 3_ b ba ar rr ra as s_ t ti ie en ne en n_ a al lt tu ur ra a_ 7 7_ c ca ad da a_ u un na a_ e es st tá án n_ I IG GU UA AL LE ES S ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "7 7 _ = = _ 7 7 _ = = _ 7 7 !! E Em mp pa at te e !! 📊🤝"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-matematicas-b5-001",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b5-v1-001",
+        "tema": "Leyendo gráficas de barras",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+        "pregunta": "Si en la gráfica las manzanas llegan a 8 y plátanos a 5, ¿cuál tiene más?",
+        "opciones": ["¡Manzanas con 8 porque su barrita sube más! 🍎", "Bestias", "Grises.", "Letárgicas."],
+        "respuestaCorrecta": "¡Manzanas con 8 porque su barrita sube más! 🍎",
+        "explicacion": "8>5 manzanas ganan",
+        "visual": "🍎"
       },
       {
-        "id": "primaria-2-matematicas-b5-v2-001",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b5-v1-004",
+        "tema": "Más grande, más chico, igual",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+        "nivel": "v1",
+        "pregunta": "¿Cuál signito usamos para decir que 15 es mayor que 9?",
+        "opciones": ["¡15 > 9 el cocodrilote abre la bocota hacia el 15! 🐊", "Triste", "Gris.", "Feo."],
+        "respuestaCorrecta": "¡15 > 9 el cocodrilote abre la bocota hacia el 15! 🐊",
+        "explicacion": "15>9"
       },
       {
-        "id": "primaria-2-matematicas-b5-002",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b5-v2-002",
+        "tema": "Contando con tachitas y palomitas",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "nivel": "v2",
+        "pregunta": "12 niños votaron por helado y 9 por paleta. ¿Hubo más votos por helado?",
+        "opciones": ["Verdadero", "Falso"],
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "12>9"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.271Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

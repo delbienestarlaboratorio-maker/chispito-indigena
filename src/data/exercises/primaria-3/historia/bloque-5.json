@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "historia",
-  "bloque": 5,
-  "nombre": "El mundo en el siglo XX",
-  "meses": "Abril-Junio",
-  "temas": [
-    "El mundo en el siglo XX"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-historia-b5-001",
-        "tema": "El mundo en el siglo XX",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b5-002",
-        "tema": "El mundo en el siglo XX",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      },
-      {
-        "id": "primaria-3-historia-b5-003",
-        "tema": "El mundo en el siglo XX",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La gran ciudad construida por los aztecas sobre un lago se llamaba ___",
-        "respuestaCorrecta": "Tenochtitlán",
-        "explicacion": "Esta ciudad fue el corazón del imperio mexica hasta la conquista española."
-      }
+  "grado":"primaria-3","materia":"historia","bloque":5,"nombre":"La época colonial: el Virreinato","meses":"Abril - Mayo",
+  "temas":["¿Qué fue la Nueva España?","La sociedad novohispana: españoles, indígenas y mestizos","El arte y la cultura colonial","La evangelización y las misiones"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-his-b5-v1-001","tema":"¿Qué fue la Nueva España?","tipo":"multiple_choice","nivel":"v1","pregunta":"Después de la Conquista, ¿cómo se llamó el territorio que hoy es México bajo dominio español?","opciones":["¡La N-U-E-V-A E-S-P-A-Ñ-A, un virreinato gobernado por un virrey enviado desde España! 🇪🇸👑","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡La N-U-E-V-A E-S-P-A-Ñ-A, un virreinato gobernado por un virrey enviado desde España! 🇪🇸👑","explicacion":"Nueva España duró 300 años (1521-1821). Gobernada por virreyes desde España. 🇪🇸👑","visual":"🇪🇸👑"},
+      {"id":"pri3-his-b5-v1-002","tema":"La sociedad novohispana","tipo":"true_false","nivel":"v1","pregunta":"En la Nueva España, los mestizos eran hijos de españoles e indígenas.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Mestizo = mezcla de español + indígena. ¡La mayoría de los mexicanos hoy somos mestizos! 🤝🇲🇽"},
+      {"id":"pri3-his-b5-v1-003","tema":"La evangelización y las misiones","tipo":"fill_blank","nivel":"v1","pregunta":"Los frailes españoles construyeron iglesias y C-O-N-V-E-N-T-O-____ para enseñar el cristianismo a los indígenas.","respuestaCorrecta":"S","explicacion":"¡S!. ¡CONVENTOS! Franciscanos, dominicos y agustinos evangelizaron a los pueblos indígenas. ⛪🙏"},
+      {"id":"pri3-his-b5-v1-004","tema":"El arte y la cultura colonial","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué famosa escritora novohispana escribía poemas brillantes en el siglo XVII?","opciones":["¡Sor J-U-A-N-A Inés de la Cruz, la mujer más inteligente de su época! ✍️📖","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡Sor J-U-A-N-A Inés de la Cruz, la mujer más inteligente de su época! ✍️📖","explicacion":"Sor Juana Inés de la Cruz = la Décima Musa, genio literario de la Nueva España. ✍️📖"},
+      {"id":"pri3-his-b5-v1-005","tema":"¿Qué fue la Nueva España?","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se llamaba la persona que gobernaba la Nueva España en nombre del rey de España?","opciones":["¡El V-I-R-R-E-Y, representante del rey español en el territorio de la Nueva España! 🤴🏛️","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡El V-I-R-R-E-Y, representante del rey español en el territorio de la Nueva España! 🤴🏛️","explicacion":"Virrey = vice-rey, gobernaba como representante del rey. Hubo 62 virreyes. 🤴🏛️"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-historia-b5-v2-001",
-        "tema": "El mundo en el siglo XX",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?  ",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b5-v2-002",
-        "tema": "El mundo en el siglo XX",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El Tratado de Guadalupe Hidalgo puso fin a la guerra de Reforma  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "Dicho tratado finalizó la guerra México-Estados Unidos, resultando en la pérdida de la mitad del territorio nacional."
-      },
-      {
-        "id": "primaria-3-historia-b5-v2-003",
-        "tema": "El mundo en el siglo XX",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Durante tres siglos, gran parte del territorio de Norteamérica y Centroamérica formó el Virreinato de la Nueva ___  ",
-        "respuestaCorrecta": "España",
-        "explicacion": "Se estableció en 1535 con Antonio de Mendoza como primer virrey."
-      }
+    "v2":[
+      {"id":"pri3-his-b5-v2-001","tema":"Nueva España","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí M Mé éx xi ic co o_ b ba aj jo o_ E Es sp pa añ ña a_ s se e_ l ll la am ma ab ba a ? ??","opciones":["¡N NU UE EV VA A_ E ES SP PA AÑ ÑA A ! !! 🇪🇸👑","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡N NU UE EV VA A_ E ES SP PA AÑ ÑA A ! !! 🇪🇸👑","explicacion":"N Nu ue ev va a_ E Es sp pa añ ña a !! 🇪🇸👑!"},
+      {"id":"pri3-his-b5-v2-002","tema":"Sociedad","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi m me es st ti iz zo os s_ = =_ e es sp pa añ ño ol l_ + +_ i in nd dí íg ge en na a ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"M Me es st ti iz zo o !! 🤝🇲🇽!"},
+      {"id":"pri3-his-b5-v2-003","tema":"Evangelización","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil f fr ra ai il le es s_ c co on ns st tr ru uy ye er ro on n_ i ig gl le es si ia as s_ y y_ C CO ON NV VE EN NT TO O_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"S","explicacion":"C CO ON NV VE EN NT TO OS S !! ⛪🙏"},
+      {"id":"pri3-his-b5-v2-004","tema":"Arte colonial","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil e es sc cr ri it to or ra a_ n no ov vo oh hi is sp pa an na a_ f fa am mo os sa a ? ?? ?! a?_?...l?!","opciones":["¡S So or r_ J JU UA AN NA A_ I In né és s ! !! ✍️📖","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡S So or r_ J JU UA AN NA A_ I In né és s ! !! ✍️📖","explicacion":"S So or r_ J Ju ua an na a !! ✍️📖!!"},
+      {"id":"pri3-his-b5-v2-005","tema":"Nueva España","tipo":"true_false","nivel":"v2","pregunta":"SiisEili V VI IR RR RE EY Y_ = =_ r re ep pr re es se en nt ta an nt te e_ d de el l_ r re ey y ? ?? !","respuestaCorrecta":"true","explicacion":"V Vi ir rr re ey y !! 🤴🏛️"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-historia-b5-001",
-        "tema": "El mundo en el siglo XX",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b5-v2-001",
-        "tema": "El mundo en el siglo XX",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b5-002",
-        "tema": "El mundo en el siglo XX",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      }
+    "preview":[
+      {"id":"pri3-his-b5-v1-001","tema":"Nueva España","tipo":"multiple_choice","nivel":"v1","pregunta":"México bajo España se llamaba = ¿?","opciones":["¡NUEVA ESPAÑA! 🇪🇸","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡NUEVA ESPAÑA! 🇪🇸","explicacion":"Nueva España","visual":"🇪🇸"},
+      {"id":"pri3-his-b5-v1-004","tema":"Arte colonial","tipo":"multiple_choice","nivel":"v1","pregunta":"Famosa escritora novohispana = ¿?","opciones":["¡Sor Juana Inés de la Cruz! ✍️","Triste","Gris.","Feo."],"respuestaCorrecta":"¡Sor Juana Inés de la Cruz! ✍️","explicacion":"Sor Juana"},
+      {"id":"pri3-his-b5-v2-002","tema":"Mestizos","tipo":"true_false","nivel":"v2","pregunta":"Mestizos = español + indígena. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Mestizo"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.291Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

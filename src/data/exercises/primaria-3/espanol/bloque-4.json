@@ -1,132 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "espanol",
-  "bloque": 4,
-  "nombre": "Gramatica y analisis oracional",
-  "meses": "Febrero-Marzo",
-  "temas": [
-    "Sustantivos"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-espanol-b4-001",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b4-002",
-        "tema": "Sustantivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
-      },
-      {
-        "id": "primaria-3-espanol-b4-003",
-        "tema": "Sustantivos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
-      }
+  "grado":"primaria-3","materia":"espanol","bloque":4,"nombre":"Comunicación oral y expresión","meses":"Febrero - Marzo",
+  "temas":["La exposición oral ante el grupo","Escuchar con atención y respeto","Dar instrucciones claras","El debate respetuoso"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-esp-b4-v1-001","tema":"La exposición oral ante el grupo","tipo":"multiple_choice","nivel":"v1","pregunta":"Cuando presentas un tema frente a tus compañeros hablando claramente, ¿qué estás haciendo?","opciones":["¡Una E-X-P-O-S-I-C-I-Ó-N O-R-A-L, compartir lo que sabes hablando en público! 🎤🗣️","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡Una E-X-P-O-S-I-C-I-Ó-N O-R-A-L, compartir lo que sabes hablando en público! 🎤🗣️","explicacion":"Exposición oral = hablar en público sobre un tema que investigaste. 🎤🗣️","visual":"🎤🗣️"},
+      {"id":"pri3-esp-b4-v1-002","tema":"Escuchar con atención y respeto","tipo":"true_false","nivel":"v1","pregunta":"Respetar al que habla significa escuchar sin interrumpir y esperar tu turno para opinar.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Escuchar con respeto = no interrumpir, prestar atención. 👂🤝"},
+      {"id":"pri3-esp-b4-v1-003","tema":"Dar instrucciones claras","tipo":"fill_blank","nivel":"v1","pregunta":"Para que alguien siga tus pasos correctamente, debes dar instrucciones claras y en O-R-D-E-____ .","respuestaCorrecta":"N","explicacion":"¡N!. ¡ORDEN! Las instrucciones deben ser paso a paso, en secuencia lógica. 📋1️⃣2️⃣3️⃣"},
+      {"id":"pri3-esp-b4-v1-004","tema":"El debate respetuoso","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué es un debate y por qué es importante en la escuela?","opciones":["¡Una discusión organizada donde se comparten opiniones diferentes con respeto! 🗣️⚖️","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡Una discusión organizada donde se comparten opiniones diferentes con respeto! 🗣️⚖️","explicacion":"Debate = intercambiar ideas con respeto, escuchando los argumentos del otro. 🗣️⚖️"},
+      {"id":"pri3-esp-b4-v1-005","tema":"La exposición oral ante el grupo","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué material visual puedes usar para apoyar tu exposición oral?","opciones":["¡Un C-A-R-T-E-L con imágenes y palabras clave que ilustren tu tema! 🖼️📊","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Un C-A-R-T-E-L con imágenes y palabras clave que ilustren tu tema! 🖼️📊","explicacion":"Los carteles, láminas o presentaciones ayudan a que entiendan tu exposición. 🖼️📊"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-espanol-b4-v2-001",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b4-v2-002",
-        "tema": "Sustantivos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
-      },
-      {
-        "id": "primaria-3-espanol-b4-v2-003",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
-        "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
-      }
+    "v2":[
+      {"id":"pri3-esp-b4-v2-001","tema":"La exposición oral ante el grupo","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí h ha ab bl la ar r_ d de e_ u un n_ t te em ma a_ a an nt te e_ e el l_ g gr ru up po o_ = =_ ? ??","opciones":["¡E EX XP PO OS SI IC CI IÓ ÓN N_ O OR RA AL L ! !! 🎤🗣️","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡E EX XP PO OS SI IC CI IÓ ÓN N_ O OR RA AL L ! !! 🎤🗣️","explicacion":"E Ex xp po os si ic ci ió ón n_ o or ra al l !! 🎤🗣️!"},
+      {"id":"pri3-esp-b4-v2-002","tema":"Escuchar con atención y respeto","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi e es sc cu uc ch ha ar r_ s si in n_ i in nt te er rr ru um mp pi ir r_ = =_ r re es sp pe et to o ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"E Es sc cu uc ch ha ar r_ = =_ r re es sp pe et to o !! 👂🤝!"},
+      {"id":"pri3-esp-b4-v2-003","tema":"Dar instrucciones claras","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil i in ns st tr ru uc cc ci io on ne es s_ c cl la ar ra as s_ y y_ e en n_ O OR RD DE E_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"N","explicacion":"O OR RD DE EN N !! 📋1️⃣2️⃣3️⃣"},
+      {"id":"pri3-esp-b4-v2-004","tema":"El debate respetuoso","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil d di is sc cu us si ió ón n_ o or rg ga an ni iz za ad da a_ c co on n_ r re es sp pe et to o_ = =_ ? ?? ?! a?_?...l?!","opciones":["¡D DE EB BA AT TE E ! !! 🗣️⚖️","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡D DE EB BA AT TE E ! !! 🗣️⚖️","explicacion":"D De eb ba at te e !! 🗣️⚖️!!"},
+      {"id":"pri3-esp-b4-v2-005","tema":"La exposición oral ante el grupo","tipo":"true_false","nivel":"v2","pregunta":"SiisEili c ca ar rt te el l_ c co on n_ i im má ág ge en ne es s_ a ap po oy ya a_ l la a_ e ex xp po os si ic ci ió ón n ? ?? !","respuestaCorrecta":"true","explicacion":"C Ca ar rt te el l !! 🖼️📊"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-espanol-b4-001",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b4-v2-001",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b4-002",
-        "tema": "Sustantivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
-      }
+    "preview":[
+      {"id":"pri3-esp-b4-v1-001","tema":"Exposición oral","tipo":"multiple_choice","nivel":"v1","pregunta":"Hablar de un tema al grupo = ¿?","opciones":["¡EXPOSICIÓN ORAL! 🎤","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡EXPOSICIÓN ORAL! 🎤","explicacion":"Exposición","visual":"🎤"},
+      {"id":"pri3-esp-b4-v1-004","tema":"Debate","tipo":"multiple_choice","nivel":"v1","pregunta":"Discusión organizada con respeto = ¿?","opciones":["¡DEBATE! 🗣️","Triste","Gris.","Feo."],"respuestaCorrecta":"¡DEBATE! 🗣️","explicacion":"Debate"},
+      {"id":"pri3-esp-b4-v2-002","tema":"Escuchar","tipo":"true_false","nivel":"v2","pregunta":"Escuchar sin interrumpir = respeto. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Respeto"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.284Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

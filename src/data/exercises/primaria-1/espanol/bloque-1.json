@@ -2,132 +2,190 @@
   "grado": "primaria-1",
   "materia": "espanol",
   "bloque": 1,
-  "nombre": "Vocales y primeras letras",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Conociendo el Abecedario Completo",
+  "meses": "Agosto - Septiembre",
   "temas": [
-    "Vocales",
-    "Consonantes basicas p,m,s,l"
+    "Las majestuosas vocales que ya conocemos",
+    "Las amigas consonantes",
+    "Cantando todititito el ABC",
+    "Buscando letritas en las revistas"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1-espanol-b1-001",
-        "tema": "Vocales",
+        "id": "pri1-esp-b1-v1-001",
+        "tema": "Cantando todititito el ABC",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical lectoñito de primaria, cuando cantamos la divinísima cancioncilla del abecedario, ¿qué letra purificable va después de la gloriosa 'A' y antes de la tierna 'C'?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡La maravillosilla y amada letrita 'B', como B-A-L-Ó-N! ⚽✨",
+          "Destrozadoras monstruosidades asfálticas machacan basura.",
+          "Cuadradurados amargos rompen asquerosos charcos gélidos.",
+          "Las maquinillas tristes de asfalto llorón fúnebre destrozan."
+        ],
+        "respuestaCorrecta": "¡La maravillosilla y amada letrita 'B', como B-A-L-Ó-N! ⚽✨",
+        "explicacion": "A, B, C, ch, D... ¡El gloriosísimo Abecedario empieza con esas tesorititas letrillas! ⚽✨",
+        "visual": "⚽✨"
       },
       {
-        "id": "primaria-1-espanol-b1-002",
-        "tema": "Vocales",
+        "id": "pri1-esp-b1-v1-002",
+        "tema": "Las maestuosas vocales que ya conocemos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "Tú, como angelito de primero de primaria, ¿recuerdas gélidamente que las cinco vocales fúnebres son: B, F, M, P, y Z?",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Las cincos vocales amaditas que nos regaló el cielo son A, E, I, O y U gloriosas. 🌟🅰️"
       },
       {
-        "id": "primaria-1-espanol-b1-003",
-        "tema": "Vocales",
+        "id": "pri1-esp-b1-v1-003",
+        "tema": "Las amigas consonantes",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Las letritas que no son vocales se llaman maravillosamente C-O-N-S-O-N-A-N-____-E-S!. Ellas se abrazan con las vocales para hacer ruidos espectaculares.",
+        "respuestaCorrecta": "T",
+        "explicacion": "¡T!. CONSONANTES. ¡Súper estelar! Juntas hacen todos las palabrillas del universillo. 🌌"
+      },
+      {
+        "id": "pri1-esp-b1-v1-004",
+        "tema": "Buscando letritas en las revistas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué magia querubín harías si te dan una revista vieja y unas tiernitas tijeritas de puntita redondita?",
+        "opciones": [
+          "¡Recortar maravillosamente letritas para formar mi nombrito en una hojita de colores! ✂️🎨",
+          "Hundan las dolorosas espinas tristes amargas letárgicas gélidas.",
+          "Lloran hermetismos tristes asfálticos fúnebres letales.",
+          "Gélidos charcos pantanosos letárgicos y miedosos monstruos oscuros."
+        ],
+        "respuestaCorrecta": "¡Recortar maravillosamente letritas para formar mi nombrito en una hojita de colores! ✂️🎨",
+        "explicacion": "Buscar letras purificadas en revistas nos ayuda a ser súper espléndidos detectivillos de palabras. ✂️🎨"
+      },
+      {
+        "id": "pri1-esp-b1-v1-005",
+        "tema": "Cantando todititito el ABC",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si vas terminando divinamente la cancioncita del Abecedario... 'X, Y... y...', ¿cuál es majestuosamente la últimiiiiitititita letrita?",
+        "opciones": [
+          "¡La deídica y zic-zaqueadora letrita 'Z' de Zapatito! 👞✨",
+          "Calculadoras fúnebres hundidas en letrajes pantanos armarguras tristes destrozadoras.",
+          "Las fétidas máquinas lloronas amargas asfálticas congeladas algorítmicas.",
+          "Gélida oscuridad de letales miedos llorosos tristes charcos grises."
+        ],
+        "respuestaCorrecta": "¡La deídica y zic-zaqueadora letrita 'Z' de Zapatito! 👞✨",
+        "explicacion": "El zapatito empieza con la Z, y ella es la reinilla súper purificada que cierra la caravana de las letritas. 👞✨"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-espanol-b1-v2-001",
-        "tema": "Consonantes basicas p,m,s,l",
+        "id": "pri1-esp-b1-v2-001",
+        "tema": "Cantando todititito el ABC",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn v_oliisaiiliisil_a plislilia_ri ccoiliisioosiilisisiittitisitiaiai i d deieiisiieslpisilpieuesiesp_ueilsiuéesiesilisi eilsisilel l_l_ilisis_li_aasilisias  Ailiissililsililsl a lAilis eilsislil a gisisilsiliigililiogo_gloilioisilriigrilioroirilsioilisirsi_isoiisia_sia   v_lilsivililaieiivial_aalisiiiiai cceiliaicis_licelililiil_ielisiitiiliicliili_tcia_tiis a?ilisilis ... o uui_iul_?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡E_Eilsi ¡Eiliilsi ESilSisiel l_laala _ llliliilisilsiillieeieleltlittitrlsilitriirilirtitaiitaia B Biliiilsisililili ddiideiedeie BBilBiiilsilaaisililiBaAai_Asil_lils_LlailsililsÓlsiOO_OilsnNOONili!!!  ⚽✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡E_Eilsi ¡Eiliilsi ESilSisiel l_laala _ llliliilisilsiillieeieleltlittitrlsilitriirilirtitaiitaia B Biliiilsisililili ddiideiedeie BBilBiiilsilaaisililiBaAai_Asil_lils_LlailsililsÓlsiOO_OilsnNOONili!!!  ⚽✨",
+        "explicacion": "Lisi_oli_ C_ili  lilisLiliilsialaalisial   c aaclisicanaaisicliianinonicolilisoincniciisiciocilisililicniaotiialisiaiais a e mm_miilisme_imiilpimeipieiilisil_pezisiilipeiziezaisislilaailasiaa ccslisiocoionoonilio i A_iAili  Byiyilisyiilis   C!!C_ilCC!!!!  ⚽✨!"
       },
       {
-        "id": "primaria-1-espanol-b1-v2-002",
-        "tema": "Consonantes basicas p,m,s,l",
+        "id": "pri1-esp-b1-v2-002",
+        "tema": "Las maestuosas vocales que ya conocemos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi v_voioccviilisioovcoiaoilisiciolasilsal_lisialeiliislsaelslesie  esilsisininosililon osilosinilsoini l slisasliasaliis_ s lilisBsi_lsBilisil ,lisili  Filiislils s_liM__  _ Mii_ilisl,P_isllils iPPi_ a a i _iiYiliiilZZilis Z ZZi_!!!..¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil VVaeiai_V AilisAEisilIiisIOoOisiliOU_!uUUuU!! a isilis_lsiseoisonisolo n  llaaallasiassss  t_tesilitsiesitsiliilisioitiosiirsorioi_ritoioitiotslitiitisitiooitsosisiliisoisilis!!! 🌟🅰️!"
+      },
+      {
+        "id": "pri1-esp-b1-v2-003",
+        "tema": "Las amigas consonantes",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidieiisdimim eilsieisi e elisi s  llisliilisleilisillsieltlieitlilitileilsitilireietilirlisiitaiairilisatiaaas_aa s i _n nnuunuilisilsinonono_ilno no  sososilosinnsiolison s i a _svovioooocsovoiilsiococaoloclioilsocicalalilaecealisleeleislasilsieseses   i i ll_lsilliilsliisaailialsiliaialammilsiliaamamlmailamalaianaianannnanilslisi C C - _ Oiliiil is- - ilis _ Niili -ili- S _ ... _ Oiliisili  - _ .. - _A_ ... - N _ ..._  _ Tlisilit ... _ Eiliiile ... _S i .._ _  ?ilisilis.. _S.. _",
+        "respuestaCorrecta": "T",
+        "explicacion": "ilisilioAilisil C_ili_T._..._!!! 🌌"
       },
       {
-        "id": "primaria-1-espanol-b1-v2-003",
-        "tema": "Consonantes basicas p,m,s,l",
+        "id": "pri1-esp-b1-v2-004",
+        "tema": "Buscando letritas en las revistas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis c_coocsmso_ilisiososo os silil asr r erereeilisii_ercceriliriloeilercroicoroocrts_olicoiriotaaoritaaiort_aaritaraa rar ir s d deiidielideiedieiedl  u_uiilsiuiuuninniinuiunanuilsai_an i u rerreriirliirvreievveilsiriievveirviviesevsiisvtsisieistsivisistitstaatai_aiatsat r a t_titisieitiieiitiitisisl_sittisiijijitiilitilsiijeijietijjijiilijeejeiijeirririlisirrerilieiesrriiirisirttieiilitiaitaaslisaiita_tasasi?_?...l?!",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡PppilisPipiilisaaailsipariarpariiliriairaiiariaa  _lE_LeelsitisEitilisilitislilTliteitiilirilisilitrRititiiiilrAisaaiariitasilisaiSaa S ss  l  _y _Y yYlils y ifioorliism_o_firormiliiofoirmmoioraaarmamramail_oilsrmaa_ar c n  mn_nooommmsmmoimiomn_limonoiimbnimbribi_bimbb_ririi_iibriti_rtriittoooot_toitloisot!ool!ioo!!!!! ✂️🎨",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡PppilisPipiilisaaailsipariarpariiliriairaiiariaa  _lE_LeelsitisEitilisilitislilTliteitiilirilisilitrRititiiiilrAisaaiariitasilisaiSaa S ss  l  _y _Y yYlils y ifioorliism_o_firormiliiofoirmmoioraaarmamramail_oilsrmaa_ar c n  mn_nooommmsmmoimiomn_limonoiimbnimbribi_bimbb_ririi_iibriti_rtriittoooot_toitloisot!ool!ioo!!!!! ✂️🎨",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eisliilisi BBiuluibislsiiubilisilsiulibiubilisls_ilislisi_iisiss!iccsiscscaaacaaiarcaailira isilisilit r liliilititeiririeeiiiteitisritirililisiiiietiiriitiitisirtaitisiaiisisisassssss!s!!!!! ✂️🎨!!"
+      },
+      {
+        "id": "pri1-esp-b1-v2-005",
+        "tema": "Cantando todititito el ABC",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili Siilis S i l e i l e alilisiailiaiala l s us u llsíuíiiliuíiltulilsiiltlilitllillitmstiliilitmliialimilimilismliasamiailisimaiiami_mamiais_la  lsilileilisilieilitleteilielsieleliteietiireiltsiriirilitisiierittiriitiisiaisilitiitiaitaiaasaaisii  qiqiuisiluieuiliseieiqislusiiliisueseqieseiieseisislsies s   zzzzilisizsilisiliZ_zZli_Ziliszli!ZiZZ..._sili.. sili?.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi ZZzZZzZZiZiilszili e s i e  isielselsei e siliss ils lil l l asiiali sa _uullsisliluutiluiutisíulimsíumltilmilitimlisiimislaíimimsiaiialisilaímaiimamia!!!!! 👞✨"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1-espanol-b1-001",
-        "tema": "Vocales",
+        "id": "pri1-esp-b1-v1-001",
+        "tema": "Cantando todititito el ABC",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical niñito, cuando cantamos la cancioncita de las letras, ¿qué letra está después de la gloriosa 'A'?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡La maravillosilla y amada letrita 'B', como B-A-L-Ó-N! ⚽✨",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡La maravillosilla y amada letrita 'B', como B-A-L-Ó-N! ⚽✨",
+        "explicacion": "ABce",
+        "visual": "⚽✨"
       },
       {
-        "id": "primaria-1-espanol-b1-v2-001",
-        "tema": "Consonantes basicas p,m,s,l",
+        "id": "pri1-esp-b1-v2-004",
+        "tema": "Buscando letritas en las revistas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qué magia querubín harías si te damos una revista vieja y tijeritas para buscar letras gloriosas?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡Deidicadísimamente recorto letritas para formar un bello nombre! ✂️🎨",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Deidicadísimamente recorto letritas para formar un bello nombre! ✂️🎨",
+        "explicacion": "Recorte de letras"
       },
       {
-        "id": "primaria-1-espanol-b1-002",
-        "tema": "Vocales",
-        "tipo": "true_false",
+        "id": "pri1-esp-b1-v1-004",
+        "tema": "Buscando letritas en las revistas",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "¿Qué magia querubín harías si te dan una revista vieja y buscas palabras mágicas?",
+        "opciones": [
+          "¡Recortar maravillosamente letritas para formar mi nombrito en una hojita de colores! ✂️🎨",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Recortar maravillosamente letritas para formar mi nombrito en una hojita de colores! ✂️🎨",
+        "explicacion": "Recortes de nombres."
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.233Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

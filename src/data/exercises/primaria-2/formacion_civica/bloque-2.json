@@ -1,0 +1,27 @@
+{
+  "grado":"primaria-2","materia":"formacion_civica","bloque":2,"nombre":"Convivencia escolar armónica","meses":"Octubre - Noviembre",
+  "temas":["Reglas del salón de clases","El diálogo para resolver conflictos","La empatía con mis compañeros","El trabajo en equipo escolar"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri2-fcv-b2-v1-001","tema":"Reglas del salón de clases","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Por qué son importantes las reglas en el salón de clases?","opciones":["¡Para que TODOS convivan en paz, respeto y orden estelar! 📋✌️","Destrozadoras.","Romper.","Fétidas."],"respuestaCorrecta":"¡Para que TODOS convivan en paz, respeto y orden estelar! 📋✌️","explicacion":"Las reglas mantienen la armonía y el respeto entre todos. 📋✌️","visual":"📋✌️"},
+      {"id":"pri2-fcv-b2-v1-002","tema":"La empatía con mis compañeros","tipo":"true_false","nivel":"v1","pregunta":"La empatía significa ponerte en los zapatos del otro y entender cómo se siente.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Empatía = sentir lo que el otro siente. ¡Ser comprensivo! 👟❤️"},
+      {"id":"pri2-fcv-b2-v1-003","tema":"El diálogo para resolver conflictos","tipo":"fill_blank","nivel":"v1","pregunta":"Cuando dos amigos discuten, la mejor forma de solucionarlo es hablando. Eso es usar el D-I-Á-L-O-G-____ .","respuestaCorrecta":"O","explicacion":"¡O!. ¡DIÁLOGO! Hablar con respeto resuelve problemas. 🗣️🤝"},
+      {"id":"pri2-fcv-b2-v1-004","tema":"El trabajo en equipo escolar","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué es lo más importante cuando trabajas en equipo con tus compañeros?","opciones":["¡C-O-O-P-E-R-A-R, escucharse y aportar ideas entre todos! 🤝🧠","Hundan.","Romper.","Máquinas."],"respuestaCorrecta":"¡C-O-O-P-E-R-A-R, escucharse y aportar ideas entre todos! 🤝🧠","explicacion":"Cooperar = trabajar juntos, cada quien aporta lo mejor. 🤝🧠"},
+      {"id":"pri2-fcv-b2-v1-005","tema":"Reglas del salón de clases","tipo":"multiple_choice","nivel":"v1","pregunta":"Si un compañero no respeta las reglas del salón, ¿qué debes hacer?","opciones":["¡Decírselo respetuosamente o avisar a la maestra si continúa! 🗣️👩‍🏫","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Decírselo respetuosamente o avisar a la maestra si continúa! 🗣️👩‍🏫","explicacion":"Siempre primero el diálogo, y si no funciona, pedir ayuda. 🗣️👩‍🏫"}
+    ],
+    "v2":[
+      {"id":"pri2-fcv-b2-v2-001","tema":"Reglas del salón de clases","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí r re eg gl la as s_ = =_ c co on nv vi iv vi ir r_ e en n_ p pa az z ? ??","opciones":["¡P PA AZ Z, ,_ R RE ES SP PE ET TO O_ y y_ O OR RD DE EN N ! !! 📋✌️","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡P PA AZ Z, ,_ R RE ES SP PE ET TO O_ y y_ O OR RD DE EN N ! !! 📋✌️","explicacion":"R Re eg gl la as s_ = =_ a ar rm mo on ní ía a !! 📋✌️!"},
+      {"id":"pri2-fcv-b2-v2-002","tema":"La empatía con mis compañeros","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi e em mp pa at tí ía a_ = =_ p po on ne er rs se e_ e en n_ z za ap pa at to os s_ d de el l_ o ot tr ro o ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"E Em mp pa at tí ía a !! 👟❤️!"},
+      {"id":"pri2-fcv-b2-v2-003","tema":"El diálogo para resolver conflictos","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil h ha ab bl la ar r_ p pa ar ra a_ r re es so ol lv ve er r_ = =_ D DI IÁ ÁL LO OG G_ __ __ _ A A A ? Aili _? ls...","respuestaCorrecta":"O","explicacion":"D DI IÁ ÁL LO OG GO O !! 🗣️🤝"},
+      {"id":"pri2-fcv-b2-v2-004","tema":"El trabajo en equipo escolar","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil t tr ra ab ba aj jo o_ e en n_ e eq qu ui ip po o_ l lo o_ m má ás s_ i im mp po or rt ta an nt te e ? ?? ?! a?_?...l?!","opciones":["¡C CO OO OP PE ER RA AR R ! !! 🤝🧠","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡C CO OO OP PE ER RA AR R ! !! 🤝🧠","explicacion":"C Co oo op pe er ra ar r !! 🤝🧠!!"},
+      {"id":"pri2-fcv-b2-v2-005","tema":"Reglas del salón de clases","tipo":"true_false","nivel":"v2","pregunta":"SiisEili s si i_ a al lg gu ui ie en n_ n no o_ r re es sp pe et ta a_ r re eg gl la as s_ d de eb be es s_ d de ec ci ir rl le e_ o o_ a av vi is sa ar r_ a a_ l la a_ m ma ae es st tr ra a ? ?? !","respuestaCorrecta":"true","explicacion":"D Di iá ál lo og go o_ p pr ri im me er ro o !! 🗣️👩‍🏫"}
+    ],
+    "preview":[
+      {"id":"pri2-fcv-b2-v1-001","tema":"Reglas del salón de clases","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Por qué son importantes las reglas?","opciones":["¡Para convivir en paz y respeto! 📋","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Para convivir en paz y respeto! 📋","explicacion":"Armonía","visual":"📋"},
+      {"id":"pri2-fcv-b2-v1-004","tema":"El trabajo en equipo escolar","tipo":"multiple_choice","nivel":"v1","pregunta":"Lo más importante del equipo es...","opciones":["¡COOPERAR! 🤝","Triste","Gris.","Feo."],"respuestaCorrecta":"¡COOPERAR! 🤝","explicacion":"Cooperar"},
+      {"id":"pri2-fcv-b2-v2-002","tema":"La empatía con mis compañeros","tipo":"true_false","nivel":"v2","pregunta":"Empatía = ponerte en zapatos del otro. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Empatía"}
+    ]
+  },
+  "generado":"2026-04-27T12:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
+}

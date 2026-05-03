@@ -2,135 +2,302 @@
   "grado": "preescolar-2",
   "materia": "espanol",
   "bloque": 2,
-  "nombre": "Mis primeras consonantes",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Las consonantes M y P",
+  "meses": "Octubre - Noviembre",
   "temas": [
-    "Las vocales",
-    "Consonantes M P S",
-    "Sílabas simples",
-    "Palabras cortas",
-    "Oraciones simples"
+    "La letra M (Mamá, Mono, Mesa)",
+    "Uniendo la M con las vocales (Ma, Me, Mi, Mo, Mu)",
+    "La letra P (Papá, Pato, Pelota)",
+    "Uniendo la P con las vocales (Pa, Pe, Pi, Po, Pu)"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-espanol-b2-001",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b2-v1-001",
+        "tema": "La letra M (Mamá, Mono, Mesa)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "¿Qué animal peludo que come plátanos colgando de los árboles empieza con M?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "Mono 🐒",
+          "Hormiga 🐜",
+          "Rana 🐸",
+          "León 🦁"
+        ],
+        "respuestaCorrecta": "Mono 🐒",
+        "explicacion": "¡El Mono! Divertido y trepador, hace 'U u a a', pero su nombre dice 'MMM-ono'. 🐒",
+        "visual": "🐒"
       },
       {
-        "id": "preescolar-2-espanol-b2-002",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b2-v1-002",
+        "tema": "La letra M (Mamá, Mono, Mesa)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "La palabra MAMÁ empieza con la cariñosa letra M juntándose a la A.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Por supuesto! Ma-má es la hermosa palabra más clásica con la M. 👩‍👧"
       },
       {
-        "id": "preescolar-2-espanol-b2-003",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b2-v1-003",
+        "tema": "La letra P (Papá, Pato, Pelota)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué objeto redondo que pateas y bota muchísimo empieza con P?",
+        "opciones": [
+          "Pelota ⚽",
+          "Manzana 🍎",
+          "Libro 📖",
+          "Reloj ⌚"
+        ],
+        "respuestaCorrecta": "Pelota ⚽",
+        "explicacion": "¡Pe-lo-ta! La P se junta con la E y rueda rapidísimo hacia al gol. ⚽",
+        "visual": "⚽"
+      },
+      {
+        "id": "pre2-esp-b1-v1-004",
+        "tema": "Uniendo la M con las vocales (Ma, Me, Mi, Mo, Mu)",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Para que diga MA de Manzana, juntamos la M con la vocal ___.",
+        "respuestaCorrecta": "A",
+        "explicacion": "¡La A! M + A hacen MA de magia y manzana riquísima. 🍎"
+      },
+      {
+        "id": "pre2-esp-b2-v1-005",
+        "tema": "La letra P (Papá, Pato, Pelota)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "El animal que hace 'Cuac cuac' en una lagunita de agua empieza con P. Es un...",
+        "opciones": [
+          "Pato 🦆",
+          "Tigre 🐅",
+          "Sapo 🐸",
+          "Oso 🐻"
+        ],
+        "respuestaCorrecta": "Pato 🦆",
+        "explicacion": "¡Pato! Sus patitas amarillas y pico chistoso adoran el agua dulce. 🦆",
+        "visual": "🦆"
+      },
+      {
+        "id": "pre2-esp-b2-v1-006",
+        "tema": "Uniendo la P con las vocales (Pa, Pe, Pi, Po, Pu)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las silabas PA, PE, PI, PO, PU suenan como cuando se revienta un globito plop en los labios.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El sonido de la p es explosivo: cierras los labios y ¡bam!, PA PE PI. 🎈"
+      },
+      {
+        "id": "pre2-esp-b2-v1-007",
+        "tema": "La letra M (Mamá, Mono, Mesa)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En la cocina tienes una preciosa M___ cuadradita donde te sientas y reposas los platos para comer todo sano.",
+        "opciones": [
+          "Mesa 🪑",
+          "Moto 🏍️",
+          "Maleta 🧳",
+          "Muñeca 🪆"
+        ],
+        "respuestaCorrecta": "Mesa 🪑",
+        "explicacion": "¡La Mesa! Me-sa empieza con M y la vocal E. A comer toda la sopa rica. 🍲",
+        "visual": "🪑"
+      },
+      {
+        "id": "pre2-esp-b2-v1-008",
+        "tema": "Uniendo la P con las vocales (Pa, Pe, Pi, Po, Pu)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "A esa sabrosa masa con mucho queso amarillo que parece triángulo, le llamamos ___zza.",
+        "respuestaCorrecta": "Pi",
+        "explicacion": "¡PIzza con P ruidosa arranca deliciosa! 🍕"
+      },
+      {
+        "id": "pre2-esp-b2-v1-009",
+        "tema": "La letra P (Papá, Pato, Pelota)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El gran cariño a PAPÁ (pa-pá) suena con un estruendo fuerte en ambos pasajes de la palabra.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Cierto! La sílaba pa brinca por duplicado, es un lindo amor y p que se oye. 👨‍👦"
+      },
+      {
+        "id": "pre2-esp-b2-v1-010",
+        "tema": "Uniendo la M con las vocales (Ma, Me, Mi, Mo, Mu)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal hace un sonoro sonido que dice 'muuuuu' y que nos otorga blanca lechita mañanera?",
+        "opciones": [
+          "La Vaca de MUchos colores o manchas 🐄",
+          "El leoncito 🦁",
+          "El gatito 🐱",
+          "Cachorro 🦊"
+        ],
+        "respuestaCorrecta": "La Vaca de MUchos colores o manchas 🐄",
+        "explicacion": "¡La vaca habla así emitiendo vocalmente MUUU! M y la U fundidas divinamente. 🥛",
+        "visual": "🐄"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-espanol-b2-v2-001",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b2-v2-001",
+        "tema": "La letra M (Mamá, Mono, Mesa)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Si quieres viajar lejos y llevas todas tus ropas acomodaditas tras de ti usas una increíble... ?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "Maleta forrada en piel",
+          "Catarina en vuelo lento",
+          "Zanahoria naranja",
+          "Olla quemante"
+        ],
+        "respuestaCorrecta": "Maleta forrada en piel",
+        "explicacion": "La ma-le-ta va contigo de viaje en viaje iniciando siempre con MA. 🧳"
       },
       {
-        "id": "preescolar-2-espanol-b2-v2-002",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b2-v2-002",
+        "tema": "Uniendo la P con las vocales (Pa, Pe, Pi, Po, Pu)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un pulpo de inmensos 8 brazos tiene que nadar en océanos, inicia su majestuosidad diciendo PU.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correctas sílabas y océanos acuosos formidables! PU-l-po rebosa magestuosidad viscosa bajo el mar indomable. 🐙"
+      },
+      {
+        "id": "pre2-esp-b2-v2-003",
+        "tema": "Uniendo la M con las vocales (Ma, Me, Mi, Mo, Mu)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Cuando hace mucho frío sacamos nuestros bellos abrigos de la gruesa ___chila invernal guardada atrás.  ",
+        "respuestaCorrecta": "Mo",
+        "explicacion": "Mochila se pronuncia atareada como un mono en selva, sumando M + O vigorosa: MOchila enorme. 🎒"
       },
       {
-        "id": "preescolar-2-espanol-b2-v2-003",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b2-v2-004",
+        "tema": "La letra P (Papá, Pato, Pelota)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "La gran ciudad donde se alza la torre eiffel como hierro reluciente tiene un nombre que engloba excelentemente una hermosa P mayúscula al principio:  ",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "París de los franceses despanpanantes y faroles en luz",
+          "Moscú nevado y silvestre",
+          "Brasil de copas",
+          "Chiapas frondosa y tropical"
+        ],
+        "respuestaCorrecta": "París de los franceses despanpanantes y faroles en luz",
+        "explicacion": "¡Pa-rís!, ciudad resplandeciente universal portando P rotunda de grandeza eterna. 🗼"
+      },
+      {
+        "id": "pre2-esp-b2-v2-005",
+        "tema": "Uniendo la P con las vocales (Pa, Pe, Pi, Po, Pu)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Si vas andando por la calle y notas a un lomito peludo ladrando guau, a la mítica mascota universal se le bautiza con PE-rro.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Absoluta verdad desbordante de pelos y correas paseadoras! Perro se forja aclamado con PE e ímpetu. 🐕"
+      },
+      {
+        "id": "pre2-esp-b2-v2-006",
+        "tema": "Uniendo la M con las vocales (Ma, Me, Mi, Mo, Mu)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las brujas malvadas voladoras y fantásticas prefieren ocultarse donde el bosque embrujado forma una inmersa ___ntaña grandota.  ",
+        "respuestaCorrecta": "Mo",
+        "explicacion": "Montaña o Mo-n-ta-ña es cumbre grandilocuente erguida de rocas alzándose portentosa y colosal a las nubes grises. ⛰️"
+      },
+      {
+        "id": "pre2-esp-b2-v2-007",
+        "tema": "La letra P (Papá, Pato, Pelota)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué animal súper lindo y resplandeciente vuela abriendo y cerrando las alas para posarse de flor a flor polinizando el patio?  ",
+        "opciones": [
+          "La colorida y alegre Mariposa",
+          "La pavorosa y venenosa serpiente culebra rayada",
+          "Una oruga comelona que mastica hojas redondas en quietud",
+          "Un lobo mañanero"
+        ],
+        "respuestaCorrecta": "La colorida y alegre Mariposa",
+        "explicacion": "Si lo detallas finurísimamente y despacio, ¡Mariposa tiene M voladora primero pero después en su centro porta radiante la PO sonora! 🦋"
+      },
+      {
+        "id": "pre2-esp-b2-v2-008",
+        "tema": "Uniendo la M con las vocales (Ma, Me, Mi, Mo, Mu)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Juntar M y u nos da la mágica y reluciente sílaba MU utilizada magistralmente para armar la maravillosa palabra global MU-ndo.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "El espléndido redondo que pisoteamos feliz mundo nuestro, M + U. 🌍"
+      },
+      {
+        "id": "pre2-esp-b2-v2-009",
+        "tema": "La letra M (Mamá, Mono, Mesa)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Al ir a bañarte o asear tus dientes cepillados siempre vas alegremente al tocador donde guardas pastita dentro del mueble de...  ",
+        "opciones": [
+          "Madera noble que no la pudre la vasta regadera húmeda",
+          "Piedra pómez arenosa caliza y débil",
+          "Barro que te pinturreó",
+          "Papel débil mojable destruído ya"
+        ],
+        "respuestaCorrecta": "Madera noble que no la pudre la vasta regadera húmeda",
+        "explicacion": "¡¡La M-A de Ma-dera resuenan fuerte y útiles por toda la gran vivienda eterna tallada!! 🪵"
+      },
+      {
+        "id": "pre2-esp-b2-v2-010",
+        "tema": "Uniendo la P con las vocales (Pa, Pe, Pi, Po, Pu)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Un postre horneado, delicioso de manzanas olorosas envuelto y esponjosito, con bordecito cocido tostado rebosante al que llaman: ___stel  ",
+        "respuestaCorrecta": "Pa",
+        "explicacion": "PA-stel nos evoca el jubilo infantil rebosando velas radiantes destellantes, dulce Pa. 🎂"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-espanol-b2-001",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b2-v1-001",
+        "tema": "La letra M (Mamá, Mono, Mesa)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "¿Qué animal peludo que come plátanos colgando de los árboles empieza con M?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "Mono 🐒",
+          "Hormiga 🐜",
+          "Rana 🐸",
+          "León 🦁"
+        ],
+        "respuestaCorrecta": "Mono 🐒",
+        "explicacion": "¡El Mono! Divertido y trepador. Su nombre dice M-ono. 🐒",
+        "visual": "🐒"
       },
       {
-        "id": "preescolar-2-espanol-b2-v2-001",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b2-v2-001",
+        "tema": "La letra M (Mamá, Mono, Mesa)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Si quieres viajar lejos y llevas todas tus ropas acomodaditas usas una increíble... ?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "Maleta forrada en piel",
+          "Catarina en vuelo lento",
+          "Zanahoria naranja",
+          "Olla quemante"
+        ],
+        "respuestaCorrecta": "Maleta forrada en piel",
+        "explicacion": "La ma-le-ta va contigo de viaje. 🧳"
       },
       {
-        "id": "preescolar-2-espanol-b2-002",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b2-v1-002",
+        "tema": "La letra M (Mamá, Mono, Mesa)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "La palabra MAMÁ empieza con la cariñosa letra M juntándose a la A.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Por supuesto! Ma-má es la clásica palabra. 👩‍👧"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.214Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

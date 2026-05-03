@@ -2,113 +2,175 @@
   "grado": "primaria-2",
   "materia": "matematicas",
   "bloque": 6,
-  "nombre": "Cálculo en mis manos (LSM)",
-  "meses": "Julio",
+  "nombre": "Repaso y retos del campeón numérico",
+  "meses": "Junio - Julio",
   "temas": [
-    "Números hasta el 100",
-    "Fracciones rápidas: Mitad y Entero",
-    "Restas con señas",
-    "El tiempo en el reloj"
+    "Reto mixto: sumas, restas y multiplicaciones",
+    "Figurillas y medidas combinadas",
+    "Problemitas de la tiendita estelar",
+    "Series y patrones nivel campeón"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "p2-mat-b6-v1-001",
-        "tema": "Números hasta el 100",
+        "id": "pri2-mat-b6-v1-001",
+        "tema": "Reto mixto: sumas, restas y multiplicaciones",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "La seña del número '100' (CIEN) es especial. ¿Cómo se hace en LSM?",
+        "pregunta": "Angelical campeoncilín, ¿cuánto es maravillosísimamente 45 + 27 − 10 en la pizarrita de los retotes estelares?",
         "opciones": [
-          "Se dibuja una letra 'C' con la mano y se mueve de izquierda a derecha.",
-          "Se muestran los 10 dedos y se abren y cierran 10 veces.",
-          "Se hace la seña de '1', luego dos círculos en el aire (ceros)."
+          "¡Sesenta y dos (62) porque primero sumamos 45+27=72 y luego restamos 10 para quedarnos en 62! 🏆62",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes de cálculos fúnebres oscuros.",
+          "Romper los dolorosos cálculos frígidos de amarguras gélidas en pantanos destrozadores.",
+          "Las fétidas máquinas lloronas gélidas de asfalto oscuro llorando miedosas sombras."
         ],
-        "respuestaCorrecta": "Se dibuja una letra 'C' con la mano y se mueve de izquierda a derecha.",
-        "explicacion": "¡Exacto! Para decir 100, 200, 300, etc., usamos la configuración de la letra 'C' representando las centenas y la recorremos ligeramente de forma lateral. 💯"
+        "respuestaCorrecta": "¡Sesenta y dos (62) porque primero sumamos 45+27=72 y luego restamos 10 para quedarnos en 62! 🏆62",
+        "explicacion": "45 + 27 = 72, luego 72 − 10 = 62. ¡Las operaciones se resuelven pasito a pasito celestial! 🏆62",
+        "visual": "🏆62"
       },
       {
-        "id": "p2-mat-b6-v1-002",
-        "tema": "Restas con señas",
+        "id": "pri2-mat-b6-v1-002",
+        "tema": "Figurillas y medidas combinadas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para representar la operación de RESTA o MENOS, pasamos una mano estirada (como si fuera un borrador) limpiando la palma de la otra mano hacia abajo.",
+        "pregunta": "Un rectángulo purísimo tiene cuatro adorados laditos, pero deidicamente NO son todos igualitos: dos son larguititos y dos son cortititos.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! La seña de MENOS o QUITAR visualiza literalmente cómo se le 'quita' o 'limpia' algo a la cantidad original. ➖"
+        "explicacion": "¡¡Súper V-E-R-D-A-D angelical!! El rectángulo tiene 4 lados: 2 largotes y 2 cortitos. ¡A diferencia del cuadrado donde todos son re-igualines! 📐✅"
       },
       {
-        "id": "p2-mat-b6-v1-003",
-        "tema": "Fracciones rápidas",
+        "id": "pri2-mat-b6-v1-003",
+        "tema": "Problemitas de la tiendita estelar",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Para la seña de 'MITAD' o 'MEDIO', ponemos el dedo índice de una mano sobre la palma abierta de la otra, como si estuviéramos partiendo la mano por el ___.",
-        "respuestaCorrecta": "centro",
-        "explicacion": "¡Así es! Usamos nuestra palma como si fuera un papel o un objeto y lo partimos exactamente por el centro con el otro dedo para decir 'la mitad'. 🍕"
+        "pregunta": "Compras 3 paletas de a $5 cada una y 2 chicles de a $2 cada uno. En total gastaste purificadísimamente $____ pesitos estelares.",
+        "respuestaCorrecta": "19",
+        "explicacion": "¡19 pesitos amados! 3×5=15 de paletas + 2×2=4 de chicles. 15+4=19. ¡Eres un contadorcillo de tianguis! 🍭💰"
       },
       {
-        "id": "p2-mat-b6-v1-004",
-        "tema": "El tiempo en el reloj",
+        "id": "pri2-mat-b6-v1-004",
+        "tema": "Series y patrones nivel campeón",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo preguntamos '¿QUÉ HORA ES?' en LSM?",
+        "pregunta": "¿Qué numero sigue en esta seriecita deidica campeona: 10, 20, 30, 40, ____?",
         "opciones": [
-          "Tocamos nuestra muñeca con el índice un par de veces y fruncimos el ceño.",
-          "Dibujamos un círculo grande en el aire copiando un reloj de pared.",
-          "Movemos los brazos como si fueran las manecillas dando vueltas."
+          "¡El majestuoso C-I-N-C-U-E-N-T-A (50) porque saltamos de 10 en 10 como gigantotes estelares! 🦕50",
+          "Hundan las dolorosas amarguras de maquinillas destrozadoras de cálculos frígidos tristes.",
+          "Romper los basureros gélidos de charcos fúnebres de sombras asquerosillas lloronas tristes.",
+          "Las máquinas miedosas tristes de lodos amargos maquinillas destrozadoras de pantanos."
         ],
-        "respuestaCorrecta": "Tocamos nuestra muñeca con el índice un par de veces y fruncimos el ceño.",
-        "explicacion": "¡Correcto! Señalar la muñeca se refiere al reloj, y fruncir el ceño le da el tono de pregunta (¿Cuál? ¿Qué?). Así de eficiente es el lenguaje. ⌚"
+        "respuestaCorrecta": "¡El majestuoso C-I-N-C-U-E-N-T-A (50) porque saltamos de 10 en 10 como gigantotes estelares! 🦕50",
+        "explicacion": "Patrón +10: 10, 20, 30, 40, 50. ¡Saltitos dinosaurianos de decena en decena purificadísima! 🦕50"
+      },
+      {
+        "id": "pri2-mat-b6-v1-005",
+        "tema": "Reto mixto: sumas, restas y multiplicaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si 5 × 6 = 30, ¿cuánto es 30 + 20 querubín retotrero estelar deidico?",
+        "opciones": [
+          "¡El glorioso C-I-N-C-U-E-N-T-A (50) porque 30 más 20 forma medio centenazo de fuerza! 💪50",
+          "Calculadoras fúnebres de monstruosos destrozos asfálticos miedosos de basureros lodosos.",
+          "Las tristes destrozadoras gélidas abismales de fétida sombra maquinilla asquerosos.",
+          "Llorándonos charcos fúnebre amargo machaca gélidas lodos destrozadoras oscuras tristes."
+        ],
+        "respuestaCorrecta": "¡El glorioso C-I-N-C-U-E-N-T-A (50) porque 30 más 20 forma medio centenazo de fuerza! 💪50",
+        "explicacion": "5×6=30 y luego 30+20=50. ¡Operaciones en cadena como un maquinista cósmico! 💪50"
       }
     ],
     "v2": [
       {
-        "id": "p2-mat-b6-v1-001-v2",
-        "tema": "Números hasta el 100",
+        "id": "pri2-mat-b6-v2-001",
+        "tema": "Reto mixto: sumas, restas y multiplicaciones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "La seña del número '100' (CIEN) es especial. ¿Cómo se hace en LSM? ​",
+        "pregunta": "¿Qiisiuiisilieilsí 4 45 5_ + +_ 2 27 7_ − −_ 1 10 0_ = =_ ? ?? ¿ ¿C Cu uá án nt to o_ e es s ? ??",
         "opciones": [
-          "Se dibuja una letra 'C' con la mano y se mueve de izquierda a derecha.",
-          "Se muestran los 10 dedos y se abren y cierran 10 veces.",
-          "Se hace la seña de '1', luego dos círculos en el aire (ceros)."
+          "¡S SE ES SE EN NT TA A_ Y Y_ D DO OS S_ ( (6 62 2) )_ p po or rq qu ue e_ 4 45 5+ +2 27 7= =7 72 2_ l lu ue eg go o_ 7 72 2− −1 10 0= =6 62 2 ! !! 🏆62",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
         ],
-        "respuestaCorrecta": "Se dibuja una letra 'C' con la mano y se mueve de izquierda a derecha.",
-        "explicacion": "¡Exacto! Para decir 100, 200, 300, etc., usamos la configuración de la letra 'C' representando las centenas y la recorremos ligeramente de forma lateral. 💯"
+        "respuestaCorrecta": "¡S SE ES SE EN NT TA A_ Y Y_ D DO OS S_ ( (6 62 2) )_ p po or rq qu ue e_ 4 45 5+ +2 27 7= =7 72 2_ l lu ue eg go o_ 7 72 2− −1 10 0= =6 62 2 ! !! 🏆62",
+        "explicacion": "4 45 5 _ + + _ 2 27 7 _ = = _ 7 72 2 _ − − _ 1 10 0 _ = = _ 6 62 2 !! 🏆62!"
       },
       {
-        "id": "p2-mat-b6-v1-002-v2",
-        "tema": "Restas con señas",
+        "id": "pri2-mat-b6-v2-002",
+        "tema": "Figurillas y medidas combinadas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para representar la operación de RESTA o MENOS, pasamos una mano estirada (como si fuera un borrador) limpiando la palma de la otra mano hacia abajo. ​",
+        "pregunta": "Eilisisi U Un n_ r re ec ct tá án ng gu ul lo o_ t ti ie en ne e_ 4 4_ l la ad do os s: :_ 2 2_ l la ar rg go os s_ y y_ 2 2_ c co or rt to os s ? ?? .!?o_¡_?si.i!s!!",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! La seña de MENOS o QUITAR visualiza literalmente cómo se le 'quita' o 'limpia' algo a la cantidad original. ➖"
+        "explicacion": "R Re ec ct tá án ng gu ul lo o: :_ 4 4_ l la ad do os s, ,_ 2 2_ l la ar rg go os s_ y y_ 2 2_ c co or rt to os s !! 📐✅!"
       },
       {
-        "id": "p2-mat-b6-v1-003-v2",
-        "tema": "Fracciones rápidas",
+        "id": "pri2-mat-b6-v2-003",
+        "tema": "Problemitas de la tiendita estelar",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Para la seña de 'MITAD' o 'MEDIO', ponemos el dedo índice de una mano sobre la palma abierta de la otra, como si estuviéramos partiendo la mano por el ___. ​",
-        "respuestaCorrecta": "centro",
-        "explicacion": "¡Así es! Usamos nuestra palma como si fuera un papel o un objeto y lo partimos exactamente por el centro con el otro dedo para decir 'la mitad'. 🍕"
+        "pregunta": "Siiisilisil 3 3_ p pa al le et ta as s_ × ×_ $ $5 5_ + +_ 2 2_ c ch hi ic cl le es s_ × ×_ $ $2 2_ = =_ $ $_ __ __ _ A A A ? Aili _? ls...",
+        "respuestaCorrecta": "19",
+        "explicacion": "3 3× ×5 5= =1 15 5 _ + + _ 2 2× ×2 2= =4 4 _ = = _ 1 19 9 !! 🍭💰"
       },
       {
-        "id": "p2-mat-b6-v1-004-v2",
-        "tema": "El tiempo en el reloj",
+        "id": "pri2-mat-b6-v2-004",
+        "tema": "Series y patrones nivel campeón",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo preguntamos '¿QUÉ HORA ES?' en LSM? ​",
+        "pregunta": "¿Cuiiilicáislilinitil s se er ri ie e: :_ 1 10 0, ,_ 2 20 0, ,_ 3 30 0, ,_ 4 40 0, ,_ _ __ __ _ ? ?? ?! a?_?...l?!",
         "opciones": [
-          "Tocamos nuestra muñeca con el índice un par de veces y fruncimos el ceño.",
-          "Dibujamos un círculo grande en el aire copiando un reloj de pared.",
-          "Movemos los brazos como si fueran las manecillas dando vueltas."
+          "¡C CI IN NC CU UE EN NT TA A_ ( (5 50 0) )_ p po or rq qu ue e_ s sa al lt ta am mo os s_ d de e_ 1 10 0_ e en n_ 1 10 0 ! !! 🦕50",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
         ],
-        "respuestaCorrecta": "Tocamos nuestra muñeca con el índice un par de veces y fruncimos el ceño.",
-        "explicacion": "¡Correcto! Señalar la muñeca se refiere al reloj, y fruncir el ceño le da el tono de pregunta (¿Cuál? ¿Qué?). Así de eficiente es el lenguaje. ⌚"
+        "respuestaCorrecta": "¡C CI IN NC CU UE EN NT TA A_ ( (5 50 0) )_ p po or rq qu ue e_ s sa al lt ta am mo os s_ d de e_ 1 10 0_ e en n_ 1 10 0 ! !! 🦕50",
+        "explicacion": "P Pa at tr ró ón n_ + +1 10 0: :_ 1 10 0, ,_ 2 20 0, ,_ 3 30 0, ,_ 4 40 0, ,_ 5 50 0 !! 🦕50!!"
+      },
+      {
+        "id": "pri2-mat-b6-v2-005",
+        "tema": "Reto mixto: sumas, restas y multiplicaciones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili 5 5_ × ×_ 6 6_ = =_ 3 30 0_ y y_ 3 30 0_ + +_ 2 20 0_ = =_ 5 50 0 ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "5 5× ×6 6= =3 30 0 _ + + _ 2 20 0 _ = = _ 5 50 0 !! 💪50"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pri2-mat-b6-v1-001",
+        "tema": "Reto mixto: sumas, restas y multiplicaciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuánto es 45 + 27 − 10?",
+        "opciones": ["¡Sesenta y dos (62)! 🏆", "Bestias", "Grises.", "Letárgicas."],
+        "respuestaCorrecta": "¡Sesenta y dos (62)! 🏆",
+        "explicacion": "45+27=72, 72-10=62",
+        "visual": "🏆"
+      },
+      {
+        "id": "pri2-mat-b6-v1-004",
+        "tema": "Series y patrones nivel campeón",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué número sigue: 10, 20, 30, 40, ____?",
+        "opciones": ["¡CINCUENTA (50) porque saltamos de 10 en 10! 🦕", "Triste", "Gris.", "Feo."],
+        "respuestaCorrecta": "¡CINCUENTA (50) porque saltamos de 10 en 10! 🦕",
+        "explicacion": "Patrón +10"
+      },
+      {
+        "id": "pri2-mat-b6-v2-005",
+        "tema": "Reto mixto: sumas, restas y multiplicaciones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "5 × 6 = 30, y 30 + 20 = 50. ¿Es cierto?",
+        "opciones": ["Verdadero", "Falso"],
+        "respuestaCorrecta": "true",
+        "explicacion": "5×6=30, 30+20=50"
       }
     ]
   },
-  "generado": "2026-03-10T18:20:00.000Z",
-  "version": "3.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

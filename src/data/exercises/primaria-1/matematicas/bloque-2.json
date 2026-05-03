@@ -2,126 +2,190 @@
   "grado": "primaria-1",
   "materia": "matematicas",
   "bloque": 2,
-  "nombre": "Sumas basicas hasta 10",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Sumando con mis deditos y frijolitos",
+  "meses": "Octubre - Noviembre",
   "temas": [
-    "Sumas basicas hasta 10",
-    "Sumas hasta 20"
+    "El signo de la crucecita divina (+)",
+    "Juntando más y más frijolitos",
+    "La magia de llegar al 10",
+    "Problemitas de ositos comilones"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1-matematicas-b2-001",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri1-mat-b2-v1-001",
+        "tema": "El signo de la crucecita divina (+)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical y sumador campeón, cuando quieres juntar dos grupitos de caniquitas y tener súper muchísiiísimas más, ¿qué signo súper padrísimo usas (que parece crucecita)?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Uso el increíble y glorioso signo de SUMAAA (+)! ➕✨",
+          "Destrozadoras calculadoras de fétidos abismos.",
+          "Las letárgicas raíces oscuras que rompen lodos asquerosillos.",
+          "Máquinas malvadas lloronas tristes gélidas."
+        ],
+        "respuestaCorrecta": "¡Uso el increíble y glorioso signo de SUMAAA (+)! ➕✨",
+        "explicacion": "El signo de MÁS (+) tiene poderes estelares para hacernos tener muchisisisimas más cositas preciosas. ➕✨",
+        "visual": "➕✨"
       },
       {
-        "id": "primaria-1-matematicas-b2-002",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri1-mat-b2-v1-002",
+        "tema": "La magia de llegar al 10",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Tener 5 preciosos frijolitos y luego la maestritita te regala otros 5 maravillosillos frijolitos (5 + 5), ¿tienes en total 10 frijolitos amados?",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡¡Veeeerdaderísimooo angelical!! Una manita tiene 5 deditos y la otra tiene 5 deditos, si las juntas maravillosamente ¡hacen 10 gloriosisiísimos! 🫘🖐️🖐️"
       },
       {
-        "id": "primaria-1-matematicas-b2-003",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri1-mat-b2-v1-003",
+        "tema": "Juntando más y más frijolitos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Si un lindísimo compañerito tiene 3 carritos y tú le traes purificadamente otros 2. (3 + 2). ¿Cuántos cochecitos estelares tienen ahora? Mmm, son cinc____",
+        "respuestaCorrecta": "o",
+        "explicacion": "¡O!. ¡CINCO! 3 deditos + 2 deditos resplandecientes forman purificadamente 5 deditos gloriosos. 🚗🚗🚗🚗🚗"
+      },
+      {
+        "id": "pri1-mat-b2-v1-004",
+        "tema": "Problemitas de ositos comilones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Un ositito amadisisísimo encuentra 4 ricas uñitas de miel y después 4 uñitas más de fresa (4 + 4). ¿Cuántísimas delicias tiene el osito para su barriguita en total?",
+        "opciones": [
+          "¡Son 8 deliciosísimas y maravillosas uñitas dulcícisimas en total! 🍯🐻",
+          "Atrapando monstruos asfálticos fúnebres de grises charcos.",
+          "Romper los lúgubres asquerosillos algoritmos.",
+          "Llantos letárgicos rompiendo fétidas raíces destrozadas."
+        ],
+        "respuestaCorrecta": "¡Son 8 deliciosísimas y maravillosas uñitas dulcícisimas en total! 🍯🐻",
+        "explicacion": "¡4 preciosidades más 4 preciosidades juntas abrazaditas son 8 delicias! 🍯🐻"
+      },
+      {
+        "id": "pri1-mat-b2-v1-005",
+        "tema": "Juntando más y más frijolitos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué pasa deícidamentísimo cuando en tu pizarrita mágica tú ves un '6 + 1' ?",
+        "opciones": [
+          "¡Eso significa majestuosamente que sigue el lindísimo número 7! 🎈✨",
+          "Que las calculadoras se ahogan en fétido lodo asqueroso y letárgico.",
+          "Rompen gélidas raíces amargas grises marchitas fétidas.",
+          "Gélidos abismos letárgicos y frígidos sin remedio amargo."
+        ],
+        "respuestaCorrecta": "¡Eso significa majestuosamente que sigue el lindísimo número 7! 🎈✨",
+        "explicacion": "Tener seis y ponerle amadisísimamente UNO más nos da S-I-E-T-E. 🎈✨"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-matematicas-b2-v2-001",
-        "tema": "Sumas hasta 20",
+        "id": "pri1-mat-b2-v2-001",
+        "tema": "El signo de la crucecita divina (+)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plisiilsilisiaailisiiliis c_co_oiil_oinsini uliisiililiisilininilitiiilis_si_ g_rsilisilsitlisiririiililisimiaimiiaiisiliss eilsiliseil slisilinisilisin_n isilisilitiliitiolisi_ooiilis diilisise mmiilimsiislismioisi lsisilaiilititiliaiaisiliS  mSililisilUuuilsiulisiMsililiis_iisiAilili!isi!ii???",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡Sisililiiseiisiii uuliliiissuililsilis_oieisi _e__n_li isilisilili tttliisislioisiiliiisigglinisnnsiliisiniiilisioooosl  (+) yiliis a_miimliisasieilis!!! ➕✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡Sisililiiseiisiii uuliliiissuililsilis_oieisi _e__n_li isilisilili tttliisislioisiiliiisigglinisnnsiliisiniiilisioooosl  (+) yiliis a_miimliisasieilis!!! ➕✨",
+        "explicacion": "Lisi_oli_ ali_g_tioilis Eiliiil (+)_ dddisildeilisieils _SSSUUilisiUilisiMUisiliiUMsilisisAlisis!! ➕✨!"
       },
       {
-        "id": "primaria-1-matematicas-b2-v2-002",
-        "tema": "Sumas hasta 20",
+        "id": "pri1-mat-b2-v2-002",
+        "tema": "La magia de llegar al 10",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
+        "pregunta": "Eilisililiseilsn ccilsiasiuisisilisiaisinaidisioilisol_ dsiliisiilsil 5isilili5iili iisili isilsilis a _t_eilieiielsili eiliilsieislieiil  psislilsisiriiriimiisilisilsisimilioilisss 5ilisili eisiisli isilsiggiuiisiililigiliguilisiliseisilaa_ a a  isilis1iilis1_i_ilii01liisisili0iilis !!.¡_?si.i!s!!",
         "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "explicacion": "Isilsililiisi!!! sqsiliil Cciililiniilicisilisilsioolili vvsilaiaiiliasils mmliilisilmilisilisisaialiiaisiiass iiciiliisisinciisilissiciciocoocoeisilislisisissisis sl_oolisiriliiniili e10ili!! 🫘🖐️🖐️!"
       },
       {
-        "id": "primaria-1-matematicas-b2-v2-003",
-        "tema": "Sumas hasta 20",
+        "id": "pri1-mat-b2-v2-003",
+        "tema": "Juntando más y más frijolitos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Siiisilisil p_alisililia_lililsililsaibririillitaiai  bmsimiilsiliisimisiisilililislitisilii dsiisilidi_isili  3iliseisilii_iliil 3lisisiis3 aailssiimisimiilsimilsl_laailsiislililiisi liseiisilisiesilsili_ msilimiilisilisimisisilioili_ aaailsilislilae iilisiliilsisil2isiilsieilisililsilsiliil 2__isilsilieisi_iliislsi_o.isiliclsilisioilisinsiso rliiii_liirlliliilriliilisieiir.¡ qisilius_sliuusiéééilisse nlilisiiiuiililsininunilis_isilisnúiisis_imiiliseiiimeimsitilirililiirilioili  dilisidaeidaaaialis?lisilil 5sililSsilislili i __?ili_?_li... _... A_A",
+        "respuestaCorrecta": "5",
+        "explicacion": "ilisilioAilisil C_ili_5__..._C...A._._!!! 🚗🚗🚗🚗🚗"
+      },
+      {
+        "id": "pri1-mat-b2-v2-004",
+        "tema": "Problemitas de ositos comilones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ nnlilsiilinisiliaioiaisilsi slislisisi ilis4ciliclisilisi y 4vslisiaaiilisis_silsilis_isi ilililiid_ddididei__ isii_slio_oiliolsi_os_ii_e_slilitioisisilisislslil_ ppsisilisiniinirilibiliiis_ls ailsilisttisilisiitilititiaiaisillisl _t_etieiiliieieisilisiiiniliilsielilieininn_ a_alsi_blliiliblilailsiislilsilibiilb. _r_ilriiriisiisilislisi!ilisili?",
+        "opciones": [
+          "¡Sisililiseissisiso_ooosiliso lisoolisnn_ n 88ilisilislsili isidileil_ideidisi_lilslielilsieiidiisil_cisilslioieiislisiloolisiis!!ilisili 🍯🐻",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡Sisililiseissisiso_ooosiliso lisoolisnn_ n 88ilisilislsili isidileil_ideidisi_lilslielilsieiidiisil_cisilslioieiislisiloolisiis!!ilisili 🍯🐻",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eilsilie_l ¡Sisililieilielisnn dsiideisididideidieiisililieieiicisililiseiiicsisi! 8! 🍯🐻!!"
+      },
+      {
+        "id": "pri1-mat-b2-v2-005",
+        "tema": "Juntando más y más frijolitos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Siisis _lslislis ni_iiliiilisilinisisil_ilsi _pilisilispilisiailsiaiaalisisalils rlisiaiasaisilisiiilslili e csiilisiooiilirilisi r dsiselisiili 6ilisl66r  a eilisisiislil a 1isilislil1 a  eilisiesils_s_sl  isilssieisililisilsiniaisilinidilsilidiidilisiilisiooiisis e eisisiiisl a i 7isilisiiliilis7li!!a_islili_ilisolilio?_o__... sili?.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! V_VVeileleiisiriisiirdili_ilisirislisiddailidie_iiiliisisiiilisil!!! Llsilieilisisiligalilariri_a _a1ilsielils _n_uuuúlsiliuliúilmimisiimeeeilisirrilisir_riliooili 7iisisíiiisisimi_oml_oo_!_!!!!! 🎈✨"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1-matematicas-b2-001",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri1-mat-b2-v1-001",
+        "tema": "El signo de la crucecita divina (+)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical niñito, cuando quieres juntar dos grupitos para tener más, ¿qué signo usas?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Uso el increíble y glorioso signo de SUMAAA (+)! ➕✨",
+          "Destrozadoras",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Uso el increíble y glorioso signo de SUMAAA (+)! ➕✨",
+        "explicacion": "El signo de MÁS (+)",
+        "visual": "➕✨"
       },
       {
-        "id": "primaria-1-matematicas-b2-v2-001",
-        "tema": "Sumas hasta 20",
+        "id": "pri1-mat-b2-v2-004",
+        "tema": "Problemitas de ositos comilones",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Si junto maravillosamente 4 mieles y otras 4 más, cuántas logramos?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡Preciosísimamente alcanzamos el 8! 🍯🐻",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Preciosísimamente alcanzamos el 8! 🍯🐻",
+        "explicacion": "Sumas de 4 + 4."
       },
       {
-        "id": "primaria-1-matematicas-b2-002",
-        "tema": "Sumas basicas hasta 10",
-        "tipo": "true_false",
+        "id": "pri1-mat-b2-v1-004",
+        "tema": "Problemitas de ositos comilones",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "pregunta": "Un ositito encuentra 4 ricas uñitas de miel y después 4 uñitas más de fresa (4 + 4). ¿Cuántísimas delicias tiene?",
+        "opciones": [
+          "¡Son 8 deliciosísimas y maravillosas uñitas dulcícisimas en total! 🍯🐻",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Son 8 deliciosísimas y maravillosas uñitas dulcícisimas en total! 🍯🐻",
+        "explicacion": "Sumar da 8."
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.244Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

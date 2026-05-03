@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "ciencias",
-  "bloque": 3,
-  "nombre": "Mezclas y soluciones",
-  "meses": "Diciembre-Enero",
-  "temas": [
-    "Mezclas y soluciones"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-ciencias-b3-001",
-        "tema": "Mezclas y soluciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b3-002",
-        "tema": "Mezclas y soluciones",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      },
-      {
-        "id": "primaria-3-ciencias-b3-003",
-        "tema": "Mezclas y soluciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
-        "respuestaCorrecta": "fotosíntesis",
-        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
-      }
+  "grado":"primaria-3","materia":"ciencias","bloque":3,"nombre":"La materia y sus estados","meses":"Diciembre - Enero",
+  "temas":["Estados de la materia: sólido, líquido y gas","Cambios de estado: fusión y evaporación","El ciclo del agua","Mezclas y separación de materiales"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-cie-b3-v1-001","tema":"Estados de la materia: sólido, líquido y gas","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuáles son los tres estados principales de la materia que ves en tu vida diaria?","opciones":["¡S-Ó-L-I-D-O (piedra), L-Í-Q-U-I-D-O (agua) y G-A-S-E-O-S-O (aire)! 🧊💧💨","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡S-Ó-L-I-D-O (piedra), L-Í-Q-U-I-D-O (agua) y G-A-S-E-O-S-O (aire)! 🧊💧💨","explicacion":"Sólido = forma fija. Líquido = toma forma del recipiente. Gas = llena todo el espacio. 🧊💧💨","visual":"🧊💧💨"},
+      {"id":"pri3-cie-b3-v1-002","tema":"Cambios de estado: fusión y evaporación","tipo":"true_false","nivel":"v1","pregunta":"Cuando el hielo se derrite al calentarse, ese cambio se llama FUSIÓN.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Fusión = sólido → líquido por calor. ¡El hielo se vuelve agua! 🧊→💧"},
+      {"id":"pri3-cie-b3-v1-003","tema":"El ciclo del agua","tipo":"fill_blank","nivel":"v1","pregunta":"El sol calienta el agua del mar, se convierte en vapor y sube para formar N-U-B-E-____ .","respuestaCorrecta":"S","explicacion":"¡S!. ¡NUBES! Evaporación → condensación en nubes → lluvia. ¡El ciclo del agua! ☁️🌧️"},
+      {"id":"pri3-cie-b3-v1-004","tema":"Mezclas y separación de materiales","tipo":"multiple_choice","nivel":"v1","pregunta":"Si mezclas arena con agua, ¿cómo puedes separarlas?","opciones":["¡Con una F-I-L-T-R-A-C-I-Ó-N: pasar la mezcla por un filtro que deja pasar el agua pero no la arena! 🔬🧪","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡Con una F-I-L-T-R-A-C-I-Ó-N: pasar la mezcla por un filtro que deja pasar el agua pero no la arena! 🔬🧪","explicacion":"Filtración = separar sólidos de líquidos con un filtro (colador, papel filtro). 🔬🧪"},
+      {"id":"pri3-cie-b3-v1-005","tema":"Cambios de estado: fusión y evaporación","tipo":"multiple_choice","nivel":"v1","pregunta":"Cuando el agua hierve y se convierte en vapor, ¿cómo se llama ese cambio de estado?","opciones":["¡E-V-A-P-O-R-A-C-I-Ó-N porque el líquido se transforma en gas por el calor! 💧→💨","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡E-V-A-P-O-R-A-C-I-Ó-N porque el líquido se transforma en gas por el calor! 💧→💨","explicacion":"Evaporación = líquido → gas. ¡El agua desaparece porque se vuelve vapor invisible! 💧→💨"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-ciencias-b3-v2-001",
-        "tema": "Mezclas y soluciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b3-v2-002",
-        "tema": "Mezclas y soluciones",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
-      },
-      {
-        "id": "primaria-3-ciencias-b3-v2-003",
-        "tema": "Mezclas y soluciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
-        "respuestaCorrecta": "Mercurio",
-        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
-      }
+    "v2":[
+      {"id":"pri3-cie-b3-v2-001","tema":"Estados de la materia","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí 3 3_ e es st ta ad do os s_ d de e_ l la a_ m ma at te er ri ia a ? ??","opciones":["¡S SÓ ÓL LI ID DO O, ,_ L LÍ ÍQ QU UI ID DO O, ,_ G GA AS SE EO OS SO O ! !! 🧊💧💨","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡S SÓ ÓL LI ID DO O, ,_ L LÍ ÍQ QU UI ID DO O, ,_ G GA AS SE EO OS SO O ! !! 🧊💧💨","explicacion":"3 3_ e es st ta ad do os s !! 🧊💧💨!"},
+      {"id":"pri3-cie-b3-v2-002","tema":"Cambios de estado","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi h hi ie el lo o_ s se e_ d de er rr ri it te e_ = =_ F FU US SI IÓ ÓN N ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"F Fu us si ió ón n !! 🧊→💧!"},
+      {"id":"pri3-cie-b3-v2-003","tema":"El ciclo del agua","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil v va ap po or r_ s su ub be e_ y y_ f fo or rm ma a_ N NU UB BE E_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"S","explicacion":"N NU UB BE ES S !! ☁️🌧️"},
+      {"id":"pri3-cie-b3-v2-004","tema":"Mezclas y separación","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil a ar re en na a_ + +_ a ag gu ua a_ s se ep pa ar ra ar r_ ¿ ¿c có óm mo o ? ?? ?! a?_?...l?!","opciones":["¡F FI IL LT TR RA AC CI IÓ ÓN N ! !! 🔬🧪","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡F FI IL LT TR RA AC CI IÓ ÓN N ! !! 🔬🧪","explicacion":"F Fi il lt tr ra ac ci ió ón n !! 🔬🧪!!"},
+      {"id":"pri3-cie-b3-v2-005","tema":"Cambios de estado","tipo":"true_false","nivel":"v2","pregunta":"SiisEili a ag gu ua a_ h hi ie er rv ve e_ = =_ E EV VA AP PO OR RA AC CI IÓ ÓN N ? ?? !","respuestaCorrecta":"true","explicacion":"E Ev va ap po or ra ac ci ió ón n !! 💧→💨"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-ciencias-b3-001",
-        "tema": "Mezclas y soluciones",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b3-v2-001",
-        "tema": "Mezclas y soluciones",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b3-002",
-        "tema": "Mezclas y soluciones",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      }
+    "preview":[
+      {"id":"pri3-cie-b3-v1-001","tema":"Estados de materia","tipo":"multiple_choice","nivel":"v1","pregunta":"¿3 estados de la materia?","opciones":["¡Sólido, Líquido, Gas! 🧊💧💨","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Sólido, Líquido, Gas! 🧊💧💨","explicacion":"3 estados","visual":"🧊💧💨"},
+      {"id":"pri3-cie-b3-v1-005","tema":"Evaporación","tipo":"multiple_choice","nivel":"v1","pregunta":"Agua hierve → vapor = ¿?","opciones":["¡EVAPORACIÓN! 💧→💨","Triste","Gris.","Feo."],"respuestaCorrecta":"¡EVAPORACIÓN! 💧→💨","explicacion":"Evaporación"},
+      {"id":"pri3-cie-b3-v2-002","tema":"Fusión","tipo":"true_false","nivel":"v2","pregunta":"Hielo se derrite = fusión. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Fusión"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.276Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

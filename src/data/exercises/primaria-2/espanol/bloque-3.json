@@ -2,131 +2,175 @@
   "grado": "primaria-2",
   "materia": "espanol",
   "bloque": 3,
-  "nombre": "El sustantivo y el verbo",
-  "meses": "Diciembre-Enero",
+  "nombre": "Comprensión lectora mágica",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Sustantivos"
+    "Responder preguntas del texto",
+    "La idea principal del párrafo",
+    "Palabras nuevas (vocabulario)",
+    "Ordenando la historia"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-espanol-b3-001",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b3-v1-001",
+        "tema": "Responder preguntas del texto",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Si lees estelarmente: 'El gatito gris dormía sobre la alfombra roja'. ¿De qué color es purificadísimamente la alfombra del gatito adorado?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡R-O-J-A como un tomatito maduro porque el texto dice clarísimamente 'alfombra roja'! 🔴🐱",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes de fétida letárgica sombra.",
+          "Romper los dolorosos cálculos frígidos sombríos de amargura letal asquerosilla.",
+          "Las fétidas máquinas lloronas gélidas abismales de asfalto oscuro miedoso amargo."
+        ],
+        "respuestaCorrecta": "¡R-O-J-A como un tomatito maduro porque el texto dice clarísimamente 'alfombra roja'! 🔴🐱",
+        "explicacion": "La respuesta está en el textito mismo. Dice 'alfombra roja', así que roja es la respuesta purificada. 🔴🐱",
+        "visual": "🔴🐱"
       },
       {
-        "id": "primaria-2-espanol-b3-002",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b3-v1-002",
+        "tema": "La idea principal del párrafo",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "La idea principal de un párrafo es maravillosísimamente lo más importante que el autorcillo nos quiere decir, el mega mensaje estelar central.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡¡Súper V-E-R-D-A-D angelical!! La idea principal es el corazoncito del párrafo, lo más importante que el escritor quiere que sepas. ❤️📝"
       },
       {
-        "id": "primaria-2-espanol-b3-003",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b3-v1-003",
+        "tema": "Palabras nuevas (vocabulario)",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Cuando encuentras una palabrota desconocida en la lectura, puedes buscarla purificadísimamente en un libro grandotote de definiciones llamado D-I-C-C-I-O-N-A-R-I-____ .",
+        "respuestaCorrecta": "O",
+        "explicacion": "¡O!. ¡DICCIONARIO estelar! Es el librote mágico que sabe lo que significan todas, todas las palabras del idioma. 📖🔎"
+      },
+      {
+        "id": "pri2-esp-b3-v1-004",
+        "tema": "Ordenando la historia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si los eventos del cuento son: 1) El príncipe salva a la princesa, 2) Un dragón raptó a la princesa, 3) Había una vez un reino mágico. ¿Cuál es estelarmente el orden correcto?",
+        "opciones": [
+          "¡3, 2, 1! Primero existía el reino, luego el dragón raptó, y al final el príncipe salvó purificadamente. 🏰🐉👑",
+          "Hundan las dolorosas amarguras maquinillas destrozadoras fúnebres de fétido asfalto.",
+          "Romper los basureros gélidos de charcos fúnebres asquerosillas lloronas miedosas.",
+          "Las máquinas miedosas tristes de lodos amargos destrozadores de pantanos fétidos."
+        ],
+        "respuestaCorrecta": "¡3, 2, 1! Primero existía el reino, luego el dragón raptó, y al final el príncipe salvó purificadamente. 🏰🐉👑",
+        "explicacion": "Las historias van en orden: primero (inicio), luego (nudo) y al final (desenlace). 🏰🐉👑"
+      },
+      {
+        "id": "pri2-esp-b3-v1-005",
+        "tema": "Responder preguntas del texto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Lee estelarmente: 'Ana tiene 7 años y le gusta pintar mariposas azules'. ¿Qué le gusta maravillosísimamente pintar a Anita?",
+        "opciones": [
+          "¡M-A-R-I-P-O-S-A-S A-Z-U-L-E-S porque el texto lo dice clarito como agua estelar! 🦋💙",
+          "Calculadoras fúnebres de monstruosos destrozos asfálticos de gélidas sombrías.",
+          "Las tristes destrozadoras gélidas de fétida sombra asquerosa miedosa amarga.",
+          "Llorándonos charcos fúnebre amargo encanto machaca gélidas cálculos de basura."
+        ],
+        "respuestaCorrecta": "¡M-A-R-I-P-O-S-A-S A-Z-U-L-E-S porque el texto lo dice clarito como agua estelar! 🦋💙",
+        "explicacion": "La respuesta siempre está en la lectura purificada. 'Le gusta pintar mariposas azules'. 🦋💙"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-espanol-b3-v2-001",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b3-v2-001",
+        "tema": "Responder preguntas del texto",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí ' 'E El l_ g ga at ti it to o_ g gr ri is s_ d do or rm mí ía a_ s so ob br re e_ l la a_ a al lf fo om mb br ra a_ r ro oj ja a' '_ ¿ ¿d de e_ q qu ué é_ c co ol lo or r_ e es s_ l la a_ a al lf fo om mb br ra a ? ??",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡R RO OJ JA A_ c co om mo o_ u un n_ t to om ma at ti it to o_ p po or rq qu ue e_ d di ic ce e_ ' 'a al lf fo om mb br ra a_ r ro oj ja a' ' ! !! 🔴🐱",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡R RO OJ JA A_ c co om mo o_ u un n_ t to om ma at ti it to o_ p po or rq qu ue e_ d di ic ce e_ ' 'a al lf fo om mb br ra a_ r ro oj ja a' ' ! !! 🔴🐱",
+        "explicacion": "' 'a al lf fo om mb br ra a_ r ro oj ja a' '_ = =_ R RO OJ JA A !! 🔴🐱!"
       },
       {
-        "id": "primaria-2-espanol-b3-v2-002",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b3-v2-002",
+        "tema": "La idea principal del párrafo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi l la a_ i id de ea a_ p pr ri in nc ci ip pa al l_ e es s_ l lo o_ m má ás s_ i im mp po or rt ta an nt te e_ d de el l_ p pá ár rr ra af fo o ? ?? .!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "true",
+        "explicacion": "I Id de ea a_ p pr ri in nc ci ip pa al l_ = =_ e el l_ m me en ns sa aj je e_ c ce en nt tr ra al l !! ❤️📝!"
+      },
+      {
+        "id": "pri2-esp-b3-v2-003",
+        "tema": "Palabras nuevas (vocabulario)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil l li ib br ro o_ d de e_ d de ef fi in ni ic ci io on ne es s_ s se e_ l ll la am ma a_ D DI IC CC CI IO ON NA AR RI I_ __ __ _ A A A ? Aili _? ls...",
+        "respuestaCorrecta": "O",
+        "explicacion": "D DI IC CC CI IO ON NA AR RI IO O !! 📖🔎"
       },
       {
-        "id": "primaria-2-espanol-b3-v2-003",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b3-v2-004",
+        "tema": "Ordenando la historia",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil 1 1) )_ p pr rí ín nc ci ip pe e_ s sa al lv va a, ,_ 2 2) )_ d dr ra ag gó ón n_ r ra ap pt tó ó, ,_ 3 3) )_ H Ha ab bí ía a_ u un n_ r re ei in no o_ ¿ ¿O Or rd de en n_ c co or rr re ec ct to o ? ?? ?! a?_?...l?!",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡3 3, ,_ 2 2, ,_ 1 1! !_ P Pr ri im me er ro o_ e el l_ r re ei in no o, ,_ l lu ue eg go o_ e el l_ d dr ra ag gó ón n, ,_ a al l_ f fi in na al l_ e el l_ p pr rí ín nc ci ip pe e ! !! 🏰🐉👑",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡3 3, ,_ 2 2, ,_ 1 1! !_ P Pr ri im me er ro o_ e el l_ r re ei in no o, ,_ l lu ue eg go o_ e el l_ d dr ra ag gó ón n, ,_ a al l_ f fi in na al l_ e el l_ p pr rí ín nc ci ip pe e ! !! 🏰🐉👑",
+        "explicacion": "O Or rd de en n_ c cr ro on no ol ló óg gi ic co o: :_ 3 3_ → →_ 2 2_ → →_ 1 1 !! 🏰🐉👑!!"
+      },
+      {
+        "id": "pri2-esp-b3-v2-005",
+        "tema": "Responder preguntas del texto",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili ' 'A An na a_ t ti ie en ne e_ 7 7_ a añ ño os s_ y y_ l le e_ g gu us st ta a_ p pi in nt ta ar r_ m ma ar ri ip po os sa as s_ a az zu ul le es s' '_ A An na a_ p pi in nt ta a_ m ma ar ri ip po os sa as s_ a az zu ul le es s ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "' 'l le e_ g gu us st ta a_ p pi in nt ta ar r_ m ma ar ri ip po os sa as s_ a az zu ul le es s' ' !! 🦋💙"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-espanol-b3-001",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b3-v1-001",
+        "tema": "Responder preguntas del texto",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+        "pregunta": "'El gatito gris dormía sobre la alfombra roja'. ¿De qué color es la alfombra?",
+        "opciones": ["¡ROJA como un tomatito! 🔴", "Bestias", "Grises.", "Letárgicas."],
+        "respuestaCorrecta": "¡ROJA como un tomatito! 🔴",
+        "explicacion": "alfombra roja",
+        "visual": "🔴"
       },
       {
-        "id": "primaria-2-espanol-b3-v2-001",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b3-v1-004",
+        "tema": "Ordenando la historia",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el orden correcto: príncipe salva, dragón raptó, había un reino?",
+        "opciones": ["¡3, 2, 1! Primero el reino, luego el dragón, al final el príncipe. 🏰", "Triste", "Gris.", "Feo."],
+        "respuestaCorrecta": "¡3, 2, 1! Primero el reino, luego el dragón, al final el príncipe. 🏰",
+        "explicacion": "Orden cronológico"
       },
       {
-        "id": "primaria-2-espanol-b3-002",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b3-v2-002",
+        "tema": "La idea principal del párrafo",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "nivel": "v2",
+        "pregunta": "La idea principal es lo más importante del párrafo. ¿Verdad?",
+        "opciones": ["Verdadero", "Falso"],
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "Mensaje central"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.259Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

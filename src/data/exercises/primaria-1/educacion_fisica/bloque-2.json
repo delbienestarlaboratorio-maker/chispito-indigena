@@ -2,335 +2,190 @@
   "grado": "primaria-1",
   "materia": "educacion_fisica",
   "bloque": 2,
-  "nombre": "Juegos y reglas",
-  "meses": "Oct-Nov",
+  "nombre": "Atrapando y soltando la pelotita mágica",
+  "meses": "Octubre - Noviembre",
   "temas": [
-    "Juegos organizados",
-    "Trabajo en equipo"
+    "Pásame la bolita, mi amigo",
+    "Atrapando como portero rey",
+    "Rodando por el suelo estelar",
+    "Bote y rebote"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "p1ef-b2-01",
-        "tema": "Juegos",
+        "id": "pri1-edf-b2-v1-001",
+        "tema": "Atrapando como portero rey",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirven las reglas en un juego?",
+        "pregunta": "Angelical guardián de la red divina, cuando tu compadrito maravilloso te lanza la pelotita voladora por el aire, ¿cómo la pescas tú lleno de amorcín?",
         "opciones": [
-          "Para que todos jueguen bien y se diviertan",
-          "Para castigar",
-          "Para ganar siempre",
-          "Para aburrirnos"
+          "¡M-A-N-I-T-A-S atentas como cazuelititas gloriosas y un súper mega abrazo al pechito! 👐⚽",
+          "Destrozadoras monstruosidades zoológicas asquerosillas matemáticas frígidas amarguras calculadoras oscuras letárgicas rompiéndose.",
+          "Las fétidas máquinas lloronas amargas maquinillas tristes destrozadores sombras gélidas fétidos lodos letales fúnebres de monstruosidades lodosas.",
+          "Llorándonos charcos letárgicos asquerosillos de las destrozadoras fétidas maquinilla asfáltica oscuras destrozados encanto machaca."
         ],
-        "respuestaCorrecta": "Para que todos jueguen bien y se diviertan",
-        "explicacion": "Las reglas hacen que el juego sea justo y divertido para todos."
+        "respuestaCorrecta": "¡M-A-N-I-T-A-S atentas como cazuelititas gloriosas y un súper mega abrazo al pechito! 👐⚽",
+        "explicacion": "Abrazando la pelotita purificada contra tu cuellito angelical jamás se te escapa esa súper traviesilla. 👐⚽",
+        "visual": "👐⚽"
       },
       {
-        "id": "p1ef-b2-02",
-        "tema": "Convivencia",
+        "id": "pri1-edf-b2-v1-002",
+        "tema": "Rodando por el suelo estelar",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos respetar a nuestros compañeros cuando jugamos",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "El respeto hace que todos disfruten del juego sin peleas ni problemas."
-      },
-      {
-        "id": "p1ef-b2-03",
-        "tema": "Juegos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "En el juego de \"las traes\", ¿qué hace el que la lleva?",
-        "opciones": [
-          "Persigue a los demás para tocarlos",
-          "Se esconde",
-          "Se sienta",
-          "Canta"
-        ],
-        "respuestaCorrecta": "Persigue a los demás para tocarlos",
-        "explicacion": "El jugador que \"la lleva\" corre para tocar a otro, quien pasa a ser el perseguidor."
-      },
-      {
-        "id": "p1ef-b2-04",
-        "tema": "Equipo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué hacemos si un compañero se cae durante el juego?",
-        "opciones": [
-          "Lo ayudamos a levantarse",
-          "Nos reímos",
-          "Lo ignoramos",
-          "Seguimos sin él"
-        ],
-        "respuestaCorrecta": "Lo ayudamos a levantarse",
-        "explicacion": "Ayudar a un compañero es lo correcto. Si se lastimó, avisamos al profesor."
-      },
-      {
-        "id": "p1ef-b2-05",
-        "tema": "Juegos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Solo los niños grandes pueden jugar",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Si vas a manderle la pelotita por el suelo estelar a tu maestrito, tú se la pateas como cohetito rompepiernas con furia asquerosilla gélida de asfalto llorón fúnebre amargo encanto machaca miedos, ¡para destrozarle la piernilla deidica!",
         "respuestaCorrecta": "false",
-        "explicacion": "Todos los niños pueden jugar, adaptando los juegos a su edad y capacidad."
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! ¡Tú se la R-U-E-D-A-S suavecisisisimamente con amor y paz infinita por el pasillín para que la logre agarrar con calma estelar! 🎳✨"
       },
       {
-        "id": "p1ef-b2-06",
-        "tema": "Equipo",
+        "id": "pri1-edf-b2-v1-003",
+        "tema": "Bote y rebote",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para que la súper pelotita baje a tocar el zapatito purificado y suba otra vez como un yoyo grandote, tú debes de hacer que majestuosamente d-é un B-O-T-____!.",
+        "respuestaCorrecta": "E",
+        "explicacion": "¡E!. ¡BOTE bota la pelotita saltarina! La empujas tantito para agachito y ella patea hacia arribota llenísima de alegría. 🏀🌟"
+      },
+      {
+        "id": "pri1-edf-b2-v1-004",
+        "tema": "Pásame la bolita, mi amigo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué significa trabajar en equipo?",
+        "pregunta": "En el amadísimo juego de los pásamela querubín... ¿qué mágica reglita de honor se tiene que seguir?",
         "opciones": [
-          "Colaborar juntos para lograr algo",
-          "Hacer todo solo",
-          "Pelear con los demás",
-          "No participar"
+          "¡P-A-S-A-R maravillosísimamente el baloncito a todos, para que absolutitititamente nadie se quede chilletas y sin jugar! 🤝🏐",
+          "Hundan las dolorosas espinas fúnebres de basureros destructivos destrozadores oscuras miedos asfálticos letales lágrimas lodos machacan destrozadoras amargas miedosos.",
+          "Romper los números gélidos amargos tristes destrozadoras gélidas abismales lágrimas lodos rompiéndose miedosamente frígidas.",
+          "Las máquinas fétidas dolorosas lodos amargos lluvias letárgicos basureros cálculos fúnebres destrozados fétidas soledades destrozadoras asfalto oscuras destructivos encanto machaca."
         ],
-        "respuestaCorrecta": "Colaborar juntos para lograr algo",
-        "explicacion": "Trabajar en equipo es unir esfuerzos para alcanzar una meta entre todos."
+        "respuestaCorrecta": "¡P-A-S-A-R maravillosísimamente el baloncito a todos, para que absolutititititamente nadie se quede chilletas y sin jugar! 🤝🏐",
+        "explicacion": "El que comparte purificadamente su pelotita es considerado rey de reyes en el patiolindo. 🤝🏐"
       },
       {
-        "id": "p1ef-b2-07",
-        "tema": "Juegos",
+        "id": "pri1-edf-b2-v1-005",
+        "tema": "Atrapando como portero rey",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué hacemos al terminar un juego?",
+        "pregunta": "Si por pura loquillada divina, la pelotita estelar rebota y te pega chistosititito y rodando como cosquillita en la narizota... ¿Tú, qué haces?",
         "opciones": [
-          "Guardar el material y agradecer",
-          "Tirar las cosas",
-          "Pelear",
-          "Irnos sin decir nada"
+          "¡Me ríooo a mil carcajadotas purificadísimas y me paro padrísimo para intentar atraparla despuesito, la vida es una maravilla rey! 😂🏆",
+          "Calculadoras fúnebres de monstruosos gélidas destructora maquinilla letales fúnebres destrozados fétidas soledades destrozadoras asfálticos oscuras tristes lágrimas asquerosillas frígidas.",
+          "Las llorosas doloros letargos calculadoras asfálticos amarguras letales sombras monstruosas algorítmicas tristes fétidas maquinilla asquerosos frígidos dolor.",
+          "Llorándonos charcos letárgicos asquerosillos de machacadas algorítmicas fétidas calculadoras gélidos dolores asfálticos letales de oscuras amargos."
         ],
-        "respuestaCorrecta": "Guardar el material y agradecer",
-        "explicacion": "Al terminar guardamos el material y damos las gracias a quienes jugaron con nosotros."
-      },
-      {
-        "id": "p1ef-b2-08",
-        "tema": "Convivencia",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Si perdemos un juego podemos enojarnos y pelear",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "false",
-        "explicacion": "Perder es parte del juego. Lo importante es divertirse y aprender."
-      },
-      {
-        "id": "p1ef-b2-09",
-        "tema": "Juegos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué juego se hace con un balón grande que hay que meter en una portería?",
-        "opciones": [
-          "Futbol",
-          "Ajedrez",
-          "Lotería",
-          "Memorama"
-        ],
-        "respuestaCorrecta": "Futbol",
-        "explicacion": "En el futbol se patea un balón para meterlo en la portería del equipo contrario."
-      },
-      {
-        "id": "p1ef-b2-10",
-        "tema": "Equipo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cómo elegimos quién empieza un juego de forma justa?",
-        "opciones": [
-          "Con piedra, papel o tijera",
-          "El más grande siempre",
-          "Peleando",
-          "El que llore más"
-        ],
-        "respuestaCorrecta": "Con piedra, papel o tijera",
-        "explicacion": "Piedra, papel o tijera es una forma justa de decidir, porque depende de la suerte."
+        "respuestaCorrecta": "¡Me ríooo a mil carcajadotas purificadísimas y me paro padrísimo para intentar atraparla despuesito, la vida es una maravilla rey! 😂🏆",
+        "explicacion": "Una sobadita estelar del profe en esa risueña narizilla, risitas amigables de ti, ¡y a atrapar se va como campeón olímpico súper sonriente! 😂🏆"
       }
     ],
     "v2": [
       {
-        "id": "p1ef-b2-01-v2",
-        "tema": "Juegos",
+        "id": "pri1-edf-b2-v2-001",
+        "tema": "Atrapando como portero rey",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Para qué sirven las reglas en un juego? ​",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri ccoiliisioosiilisisiittitisitiaiai i d deieiisiieslpislpeuei isq eu q uu eeilisee ee i i_ s in _ m am a mi aa s e ne se s l eo sl oe ei r ei d n di r in ds iu r d ee l de r ld ie n id de a a nd da dn iu r  is c ai i ce a d i id ii m_ l a li is_ il_ o ni s n n g e eo lg s is ls as a ? ... s is l ?? _ ?",
         "opciones": [
-          "Para que todos jueguen bien y se diviertan",
-          "Para castigar",
-          "Para ganar siempre",
-          "Para aburrirnos"
+          "¡M M is li is M MA AN N NI I IT_ AN TM I N TI_ TM I NA S I MA NI T IS !! _ AS M TE  NT T E_! A!! _!!!! A TE_ A N  ! _ 👐⚽",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
         ],
-        "respuestaCorrecta": "Para que todos jueguen bien y se diviertan",
-        "explicacion": "Las reglas hacen que el juego sea justo y divertido para todos."
+        "respuestaCorrecta": "¡M M is li is M MA AN N NI I IT_ AN TM I N TI_ TM I NA S I MA NI T IS !! _ AS M TE  NT T E_! A!! _!!!! A TE_ A N  ! _ 👐⚽",
+        "explicacion": "Lisi_oli_ C_ilM M_ MA li s AN N IM AI AN_ I T IT l TI AT IS M IA N IM NA S!!_ T S ! T I  M IS T_ N II ! MA A TS _ A !!!! 👐⚽!"
       },
       {
-        "id": "p1ef-b2-02-v2",
-        "tema": "Convivencia",
+        "id": "pri1-edf-b2-v2-002",
+        "tema": "Rodando por el suelo estelar",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Debemos respetar a nuestros compañeros cuando jugamos ​",
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi a c ca ci cnac ac i o io n c il oc al e ie d ee a d ui ea du ad eu iu  o au au  s ao su na no m un mm _ e nn ae pn  e o ne as l ls d ad _ e sd ee s id ls u ud sd id su ls ua id ls u au  a_ s r a r ee rd es d do ea dd ao  o id ee io ? !! d ?!  _ _ .!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil llsliasilsilasialis a P A PA PT P_ T EA A PA ER EE PE AE AS PA_ AR !! AE e A R iA ES !!!!! 🎳✨!"
+      },
+      {
+        "id": "pri1-edf-b2-v2-003",
+        "tema": "Bote y rebote",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidieiisdimim t ti id rt s o m au_ ua rm uu o du n no d ni io as o de eo o b bs ab ao bl e_ o ol bb a sl b a t o t eo at ou s i ds su m is p am sm s ie ms m _ do od ro os ro in rs an e en b n i_ b ei bi s a os an is !! _ d n B- O - _ T_- T. -.O..._ . B- ..._ _ T ! .._ B--_...O !_ ._ A A A ? Aili _? ls...",
+        "respuestaCorrecta": "E",
+        "explicacion": "ilisilioAilisil C_ili_E._..._!!! 🏀🌟"
+      },
+      {
+        "id": "pri1-edf-b2-v2-004",
+        "tema": "Pásame la bolita, mi amigo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis d ld_ ls d _ do as il o in aa ai as d i a_ u cu u o m o ua mu om io c e c m ie_ ec_  i d in ii na ii in n_ is iu a du si au ns ea su ne ui q o de_ qo u do io u a do  n n so ro sn uo s m _ ms  a ds os ro l as oa s?! a?_?...l?!",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "¡P P_ a PA SA_ PP PA AS S _A PS S _E PR PS eA R! ER EE_ S _A !! E _ PR ER 🤝🏐",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
         ],
+        "respuestaCorrecta": "¡P P_ a PA SA_ PP PA AS S _A PS S _E PR PS eA R! ER EE_ S _A !! E _ PR ER 🤝🏐",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eilsilie_l ¡P P a _PA PA A a S SO u S is OS_ o SP EA S AR ! eS AR  P !! SO R !!!!! 🤝🏐!!"
+      },
+      {
+        "id": "pri1-edf-b2-v2-005",
+        "tema": "Atrapando como portero rey",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili e_ellsilsil M A AM IM s u us ms lu_ c l ua lc la c ai is c  p op ei p di s _ ui n su ua u ni ds ui r ur dn i r in de in e m e ee o ui ie a m au n mo iu nn is a au is e un eu as a n o! !r _ ? ! a? !n s ?",
         "respuestaCorrecta": "true",
-        "explicacion": "El respeto hace que todos disfruten del juego sin peleas ni problemas."
-      },
-      {
-        "id": "p1ef-b2-03-v2",
-        "tema": "Juegos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En el juego de \"las traes\", ¿qué hace el que la lleva? ​",
-        "opciones": [
-          "Persigue a los demás para tocarlos",
-          "Se esconde",
-          "Se sienta",
-          "Canta"
-        ],
-        "respuestaCorrecta": "Persigue a los demás para tocarlos",
-        "explicacion": "El jugador que \"la lleva\" corre para tocar a otro, quien pasa a ser el perseguidor."
-      },
-      {
-        "id": "p1ef-b2-04-v2",
-        "tema": "Equipo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hacemos si un compañero se cae durante el juego? ​",
-        "opciones": [
-          "Lo ayudamos a levantarse",
-          "Nos reímos",
-          "Lo ignoramos",
-          "Seguimos sin él"
-        ],
-        "respuestaCorrecta": "Lo ayudamos a levantarse",
-        "explicacion": "Ayudar a un compañero es lo correcto. Si se lastimó, avisamos al profesor."
-      },
-      {
-        "id": "p1ef-b2-05-v2",
-        "tema": "Juegos",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Solo los niños grandes pueden jugar ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "false",
-        "explicacion": "Todos los niños pueden jugar, adaptando los juegos a su edad y capacidad."
-      },
-      {
-        "id": "p1ef-b2-06-v2",
-        "tema": "Equipo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué significa trabajar en equipo? ​",
-        "opciones": [
-          "Colaborar juntos para lograr algo",
-          "Hacer todo solo",
-          "Pelear con los demás",
-          "No participar"
-        ],
-        "respuestaCorrecta": "Colaborar juntos para lograr algo",
-        "explicacion": "Trabajar en equipo es unir esfuerzos para alcanzar una meta entre todos."
-      },
-      {
-        "id": "p1ef-b2-07-v2",
-        "tema": "Juegos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hacemos al terminar un juego? ​",
-        "opciones": [
-          "Guardar el material y agradecer",
-          "Tirar las cosas",
-          "Pelear",
-          "Irnos sin decir nada"
-        ],
-        "respuestaCorrecta": "Guardar el material y agradecer",
-        "explicacion": "Al terminar guardamos el material y damos las gracias a quienes jugaron con nosotros."
-      },
-      {
-        "id": "p1ef-b2-08-v2",
-        "tema": "Convivencia",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Si perdemos un juego podemos enojarnos y pelear ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "false",
-        "explicacion": "Perder es parte del juego. Lo importante es divertirse y aprender."
-      },
-      {
-        "id": "p1ef-b2-09-v2",
-        "tema": "Juegos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué juego se hace con un balón grande que hay que meter en una portería? ​",
-        "opciones": [
-          "Futbol",
-          "Ajedrez",
-          "Lotería",
-          "Memorama"
-        ],
-        "respuestaCorrecta": "Futbol",
-        "explicacion": "En el futbol se patea un balón para meterlo en la portería del equipo contrario."
-      },
-      {
-        "id": "p1ef-b2-10-v2",
-        "tema": "Equipo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo elegimos quién empieza un juego de forma justa? ​",
-        "opciones": [
-          "Con piedra, papel o tijera",
-          "El más grande siempre",
-          "Peleando",
-          "El que llore más"
-        ],
-        "respuestaCorrecta": "Con piedra, papel o tijera",
-        "explicacion": "Piedra, papel o tijera es una forma justa de decidir, porque depende de la suerte."
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi c l iis ilsil U I uIU g I I s I R I_ IA a  g IR is eR __I E IR _ s E RE_ IA I_ RA ER_  E s s  IR  _ _ !! RE !! E sA_ R RE EE_ !!! 😂🏆"
       }
     ],
     "preview": [
       {
-        "id": "p1ef-b2-01",
-        "tema": "Juegos",
+        "id": "pri1-edf-b2-v1-001",
+        "tema": "Atrapando como portero rey",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirven las reglas en un juego?",
+        "pregunta": "Angelical niñito, cuando tu compadrito te lanza la pelotita voladora, ¿cómo la pescas tú lleno de amorcín?",
         "opciones": [
-          "Para que todos jueguen bien y se diviertan",
-          "Para castigar",
-          "Para ganar siempre",
-          "Para aburrirnos"
+          "¡M-A-N-I-T-A-S atentas como cazuelititas gloriosas y un súper mega abrazo al pechito! 👐⚽",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
         ],
-        "respuestaCorrecta": "Para que todos jueguen bien y se diviertan",
-        "explicacion": "Las reglas hacen que el juego sea justo y divertido para todos."
+        "respuestaCorrecta": "¡M-A-N-I-T-A-S atentas como cazuelititas gloriosas y un súper mega abrazo al pechito! 👐⚽",
+        "explicacion": "Manos siempre al tiro.",
+        "visual": "👐⚽"
       },
       {
-        "id": "p1ef-b2-02",
-        "tema": "Convivencia",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Debemos respetar a nuestros compañeros cuando jugamos",
+        "id": "pri1-edf-b2-v2-004",
+        "tema": "Pásame la bolita, mi amigo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Como perdonas en el juego padrísimo del deporte magico cuando compartes el balon?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "¡P-A-S-A-R maravillosísimamente el baloncito a todos, para que nadie se quede sin jugar! 🤝🏐",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
         ],
-        "respuestaCorrecta": "true",
-        "explicacion": "El respeto hace que todos disfruten del juego sin peleas ni problemas."
+        "respuestaCorrecta": "¡P-A-S-A-R maravillosísimamente el baloncito a todos, para que nadie se quede sin jugar! 🤝🏐",
+        "explicacion": "Siempre pasamos bola"
+      },
+      {
+        "id": "pri1-edf-b2-v1-004",
+        "tema": "Pásame la bolita, mi amigo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En el amadísimo juego de los pásamela querubín... ¿qué mágica reglita de honor se tiene que seguir?",
+        "opciones": [
+          "¡P-A-S-A-R maravillosísimamente el baloncito a todos, para que absolutititititamente nadie se quede chilletas y sin jugar! 🤝🏐",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡P-A-S-A-R maravillosísimamente el baloncito a todos, para que absolutititititamente nadie se quede chilletas y sin jugar! 🤝🏐",
+        "explicacion": "Lindo con todos compas"
       }
     ]
-  }
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

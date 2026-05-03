@@ -2,129 +2,308 @@
   "grado": "preescolar-2",
   "materia": "matematicas",
   "bloque": 5,
-  "nombre": "Mido y comparo",
-  "meses": "Abril-Junio",
+  "nombre": "Problemas de la vida diaria",
+  "meses": "Mayo - Junio",
   "temas": [
-    "Números del 1 al 10",
-    "Formas geométricas",
-    "Más, menos, igual",
-    "Orden y secuencias",
-    "Medición básica"
+    "Jugar a la tiendita (Monedas de juguete)",
+    "Resolviendo problemas con dibujos",
+    "Poner, quitar y compartir",
+    "Agrupando colecciones de 10"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-matematicas-b5-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b5-v1-001",
+        "tema": "Jugar a la tiendita (Monedas de juguete)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Vas a la tiendita y un juguito cuesta 5 moneditas. Si le pagas al tendero con 5 moneditas exactas, ¿te tiene que dar vuelto (cambio)?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "Sí, muchísimo",
+          "No, está exacto",
+          "Me tiene que regalar otro jugo",
+          "Las monedas desaparecen"
+        ],
+        "respuestaCorrecta": "No, está exacto",
+        "explicacion": "¡Exactito! Como el jugo vale 5 y tú pagaste 5, quedamos tablas. 🧃",
+        "visual": "🧃"
       },
       {
-        "id": "preescolar-2-matematicas-b5-002",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b5-v1-002",
+        "tema": "Jugar a la tiendita (Monedas de juguete)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Para comprar algo en la tiendita, necesitas usar dinero (como monedas y billetes) o decir que te lo apunten en la libreta.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡Así funciona la tiendita! Necesitas dar dinero de juguete para recibir tu compra. 🪙"
       },
       {
-        "id": "preescolar-2-matematicas-b5-003",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b5-v1-003",
+        "tema": "Resolviendo problemas con dibujos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué pasa si dibujas 3 ranas saltando a un lago al que ya habían entrado 2 ranas?",
+        "opciones": [
+          "Ahora hay 5 ranitas en total adentro del lago",
+          "El lago se secó",
+          "Solo quedó 1 rana",
+          "Ninguna"
+        ],
+        "respuestaCorrecta": "Ahora hay 5 ranitas en total adentro del lago",
+        "explicacion": "¡Perfecto! Juntamos las 2 que ya estaban bañándose con las 3 nuevas, ¡y nos da 5 ranitas felices! 🐸",
+        "visual": "🐸"
+      },
+      {
+        "id": "pre2-mat-b5-v1-004",
+        "tema": "Resolviendo problemas con dibujos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Si en un dibujo pintas 4 soles, significa que hay 4 noches diferentes.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡El sol sale de día! 4 soles pintarían tal vez 4 amaneceres diferentes. ☀️"
+      },
+      {
+        "id": "pre2-mat-b5-v1-005",
+        "tema": "Poner, quitar y compartir",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Tienes 6 rebanadas de pizza y le das 1 a tu amigo. ¿Qué acción hiciste?",
+        "opciones": [
+          "Quitarte y compartirla",
+          "Esconderlas bajo la silla",
+          "Ponerme más",
+          "Ir al doctor"
+        ],
+        "respuestaCorrecta": "Quitarte y compartirla",
+        "explicacion": "¡Diste de las tuyas! Quitaste una rebanada de tu plato para compartirla. ¡Eres muy generoso! 🍕",
+        "visual": "🍕"
+      },
+      {
+        "id": "pre2-mat-b5-v1-006",
+        "tema": "Poner, quitar y compartir",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Si un perrito tiene 5 huesitos y entierra 2 en el jardín verde, le quedan a la vista solo ___ huesitos.",
+        "respuestaCorrecta": "3",
+        "explicacion": "¡Le quedaron 3 visibles! Porque los otros 2 ya se cubrieron en la tierra. 🐶"
+      },
+      {
+        "id": "pre2-mat-b5-v1-007",
+        "tema": "Agrupando colecciones de 10",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si amarras 10 palitos juntos con una liguita, acabas de hacer...",
+        "opciones": [
+          "Un 'paquetito' o grupito de diez (10)",
+          "Un unicornio",
+          "Siete tambores grandes",
+          "Una escoba inmensa"
+        ],
+        "respuestaCorrecta": "Un 'paquetito' o grupito de diez (10)",
+        "explicacion": "¡Un grupito hermoso de 10 palitos juntos! A eso se le llama Decena. 🥢",
+        "visual": "🥢"
+      },
+      {
+        "id": "pre2-mat-b5-v1-008",
+        "tema": "Agrupando colecciones de 10",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Poner en una caja 10 cochecitos es una forma fácil de ordenarlos juntitos y contarlos súper rápido.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Súper veloz! Así la próxima vez que los uses sabrás de antemano que tienes un 'Grupito de 10'. 🏎️"
+      },
+      {
+        "id": "pre2-mat-b5-v1-009",
+        "tema": "Resolviendo problemas con dibujos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En un árbol dibujaste 5 pajaritos, pero un viento horrible espantó a 3. Dibuja cuántos pajaritos quedaron.",
+        "opciones": [
+          "Quedaron valientemente solo 2",
+          "Quedaron 8 pajarotes gigantes",
+          "Quedaron 0 en total",
+          "Se hundió el árbol"
+        ],
+        "respuestaCorrecta": "Quedaron valientemente solo 2",
+        "explicacion": "¡Solo sobrevivieron 2 sentaditos firmes soportando la gran corriente! 🐦",
+        "visual": "🐦"
+      },
+      {
+        "id": "pre2-mat-b5-v1-010",
+        "tema": "Jugar a la tiendita (Monedas de juguete)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Si un dulce vale 2 moneditas y tienes 3 moneditas que resuenan en tu bolsa, ¡sí o no te al___za para comprarlo!",
+        "respuestaCorrecta": "can",
+        "explicacion": "¡Sí te alcanza! Porque el número 3 es un número mayor que el glorioso requerimiento base de 2. 🍭"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-matematicas-b5-v2-001",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b5-v2-001",
+        "tema": "Agrupando colecciones de 10",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "Si logramos armar 2 paquetitos grandiosos con 10 canicas adentro de cada uno, acabamos de juntar:  ",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "20 canicas en total, todas juntas relucientes",
+          "Solamente 2 canicas",
+          "5 canicas chiquititas amarillas",
+          "40 canicas de plástico duro"
+        ],
+        "respuestaCorrecta": "20 canicas en total, todas juntas relucientes",
+        "explicacion": "¡Tienes 2 decenas masivas! Sumar 10 canicas y diez canicas conforma la grandiosa suma total de 20 redondeles. 🔮"
       },
       {
-        "id": "preescolar-2-matematicas-b5-v2-002",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b5-v2-002",
+        "tema": "Poner, quitar y compartir",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
+        "pregunta": "Si mamá comparte su plátano y te da la mitad, ella hizo que tú ganaras un poquito y ella perdiera otro poquito.  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "explicacion": "¡Es un noble sacrificio! Se restó una parte de su sustento para que te alimentaras tú, amorosamente repartido. 🍌"
       },
       {
-        "id": "preescolar-2-matematicas-b5-v2-003",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b5-v2-003",
+        "tema": "Resolviendo problemas con dibujos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Dibujamos un camión con 4 llantas inmensas. Si le ponemos mágicamente 2 llantas más de reserva, quedan dibuja___ 6 llantas.  ",
+        "respuestaCorrecta": "das",
+        "explicacion": "¡El dibujo es tan grande y espléndido que 4 redondeles llantas combinadas con las 2 adicionales hacen esa gloriosa suma final de 6 dibujadas! 🚚"
+      },
+      {
+        "id": "pre2-mat-b5-v2-004",
+        "tema": "Jugar a la tiendita (Monedas de juguete)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué nos devuelven feriecita si pagamos un chocolate barato de 3 pesos con una monedota gigante de 10?  ",
+        "opciones": [
+          "Porque dimos de más, pagamos una sumatoria grande y debemos percibir aquel resto de regreso a nuestras palmas",
+          "Porque es de buena fe regresarlo por si a un futuro no tenemos",
+          "El tendero erróneamente se confundió muchísimo de cálculos",
+          "Nunca hay que darnos vueltos ni ferias"
+        ],
+        "respuestaCorrecta": "Porque dimos de más, pagamos una sumatoria grande y debemos percibir aquel resto de regreso a nuestras palmas",
+        "explicacion": "¡Es lo justiciero del negocio entero! Diste una moneda que cubría más de lo preciso por tanto regresarán tus preciados 7 vueltos. 🪙"
+      },
+      {
+        "id": "pre2-mat-b5-v2-005",
+        "tema": "Poner, quitar y compartir",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Regalarle tres besitos sonoros a mi gato hace que mis labios pierdan por total la capacidad de regalar otro más la subsiguiente noche.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Absurdo y falso mil veces! Regalar cariño suma tu empatía en lugar de vaciar absolutamente nada. Los besos crecen y se reproducen a sí mismos infinitas veces. 🐱"
+      },
+      {
+        "id": "pre2-mat-b5-v2-006",
+        "tema": "Agrupando colecciones de 10",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Con un cartón de huevos que tiene espacio para 10 de ellos, tú puedes organizar huevos y cerrarlo diciéndolo: ¡Aquí guardo ___ huevitos!  ",
+        "respuestaCorrecta": "10",
+        "explicacion": "¡Una vez que llenas todos sus bellos y acolchados huecos, aseguras y cierras confirmando gloriosamente el 10 matemático a resguardo! 🥚"
+      },
+      {
+        "id": "pre2-mat-b5-v2-007",
+        "tema": "Resolviendo problemas con dibujos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Si dibujo 7 árboles verdes y llega un monstruo devorador con un hacha mágica y tala todos menos 1, ¿Cuántos arbolitos llorarán solitarios?  ",
+        "opciones": [
+          "1 pobre arbolito a la deriva",
+          "70 abetos invernales",
+          "4 alerces milenarios",
+          "Nadie llorará ni lamentará de ningún tipo"
+        ],
+        "respuestaCorrecta": "1 pobre arbolito a la deriva",
+        "explicacion": "Si tala la mayoría exceptuando 1, eso dictamina formalmente la respuesta. ¡Qué historia dramática del pobre sobreviviente! 🌲"
+      },
+      {
+        "id": "pre2-mat-b5-v2-008",
+        "tema": "Jugar a la tiendita (Monedas de juguete)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Ser el tendero o 'cajero' es de una inmensa obligación ya que cuenta dinero y despacha galletas justas.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Jugar con roles requiere responsabilidad y grandes saberes para no cometer ningún agravio de cálculos frente a la distinguida clientela! 🏪"
+      },
+      {
+        "id": "pre2-mat-b5-v2-009",
+        "tema": "Poner, quitar y compartir",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si un amiguito olvida traer su único sacapuntas al colegio, tú amablemente de tu generosa acción sacas tu artefacto y se lo...  ",
+        "opciones": [
+          "Prestas temporalmente un ratito hasta concluir su labor ardua",
+          "Se lo quiebras contra una mesa en venganza eterna",
+          "Lo dejas llorando arrepentido y miserable",
+          "Corres huyendo lejos del salón en gran pavor"
+        ],
+        "respuestaCorrecta": "Prestas temporalmente un ratito hasta concluir su labor ardua",
+        "explicacion": "¡Prestar un sacapuntas es una magna y cabal compartición solidaria dentro de preescolar 2 salvando el día! 🖍️"
+      },
+      {
+        "id": "pre2-mat-b5-v2-010",
+        "tema": "Resolviendo problemas con dibujos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Tenías 8 manzanas coloreadas increíblemente de verde; mordiste 2 imaginariamente entonces te quedan completi___ solo las 6 restantes amadas.  ",
+        "respuestaCorrecta": "tas",
+        "explicacion": "¡Una completísima respuesta deducible! A 8 restando las 2 ensoñadas mordidas tu total indomable son 6 manzanas impecables. 🍏"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-matematicas-b5-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b5-v1-001",
+        "tema": "Jugar a la tiendita (Monedas de juguete)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si compras un jugo de 5 monedas y pagas con 5, ¿te deben dar vuelto?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "Sí, muchísimo",
+          "No, está exacto",
+          "Me tiene que regalar otro jugo",
+          "Las monedas desaparecen"
+        ],
+        "respuestaCorrecta": "No, está exacto",
+        "explicacion": "¡Exactito! Pagaste justo la misma cantidad que vale. 🧃",
+        "visual": "🧃"
       },
       {
-        "id": "preescolar-2-matematicas-b5-v2-001",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b5-v1-005",
+        "tema": "Poner, quitar y compartir",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Tienes 6 rebanadas de pizza y le das 1 a tu amigo. ¿Qué hiciste?",
+        "opciones": [
+          "Quitarte y compartirla",
+          "Esconderlas bajo la silla",
+          "Ponerme más",
+          "Ir al doctor"
+        ],
+        "respuestaCorrecta": "Quitarte y compartirla",
+        "explicacion": "¡Eres muy lindo por compartir restando de las tuyas! 🍕"
+      },
+      {
+        "id": "pre2-mat-b5-v2-004",
+        "tema": "Jugar a la tiendita (Monedas de juguete)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Por qué nos dan cambio si pagamos un dulce de 3 con una moneda de 10?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "preescolar-2-matematicas-b5-002",
-        "tema": "Números del 1 al 10",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+          "Dimos de más, cubrimos el precio y devolvieron la parte sobrante",
+          "Porque es de buena fe regresarlo",
+          "El tendero se confundió",
+          "Nunca hay que dar vuelto"
+        ],
+        "respuestaCorrecta": "Dimos de más, cubrimos el precio y devolvieron la parte sobrante",
+        "explicacion": "¡Porque dimos monto de sobra! 🪙"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.222Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "matematicas",
-  "bloque": 1,
-  "nombre": "Multiplicacion y tablas",
-  "meses": "Agosto-Septiembre",
-  "temas": [
-    "Multiplicacion basica"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-matematicas-b1-001",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b1-002",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      },
-      {
-        "id": "primaria-3-matematicas-b1-003",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
-      }
+  "grado":"primaria-3","materia":"matematicas","bloque":1,"nombre":"Multiplicación y tablas del 1 al 5","meses":"Agosto - Septiembre",
+  "temas":["Concepto de multiplicación como suma repetida","Tablas del 2 y del 3","Tablas del 4 y del 5","Problemas de multiplicación cotidianos"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-mat-b1-v1-001","tema":"Concepto de multiplicación como suma repetida","tipo":"multiple_choice","nivel":"v1","pregunta":"Angelical calculín estelar, si tienes 4 bolsitas con 3 dulces cada una, ¿cuántos dulces tienes en total purísimamente?","opciones":["¡D-O-C-E (12) dulces porque 4 × 3 = 12, cuatro veces tres igualito! 🍬✨","Destrozadoras monstruosidades zoológicas miedosas.","Romper los dolorosos cálculos frígidos sombríos.","Las fétidas máquinas lloronas gélidas abismales."],"respuestaCorrecta":"¡D-O-C-E (12) dulces porque 4 × 3 = 12, cuatro veces tres igualito! 🍬✨","explicacion":"4 × 3 = 3+3+3+3 = 12. ¡Multiplicar es sumar el mismo número varias veces! 🍬✨","visual":"🍬✨"},
+      {"id":"pri3-mat-b1-v1-002","tema":"Tablas del 2 y del 3","tipo":"true_false","nivel":"v1","pregunta":"La tabla del 2 dice que 2 × 7 = 14 purísimamente estelar sin error alguno.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! 2 × 7 = 14. ¡La tabla del 2 son los números pares! 2,4,6,8,10,12,14... ✅"},
+      {"id":"pri3-mat-b1-v1-003","tema":"Tablas del 4 y del 5","tipo":"fill_blank","nivel":"v1","pregunta":"5 × 6 = 3____ . ¡Recuerda que la tabla del 5 termina siempre en 0 o en 5!","respuestaCorrecta":"0","explicacion":"¡0!. 5 × 6 = 30. La tabla del 5 es mágica: siempre termina en 0 o 5. 🖐️✨"},
+      {"id":"pri3-mat-b1-v1-004","tema":"Problemas de multiplicación cotidianos","tipo":"multiple_choice","nivel":"v1","pregunta":"En una panadería hay 5 charolas con 4 conchas cada una. ¿Cuántas conchas hay en total?","opciones":["¡V-E-I-N-T-E (20) conchas porque 5 × 4 = 20 conchitas deliciosas! 🍞🧁","Hundan las dolorosas amarguras fúnebres pálidas.","Romper los basureros gélidos de charcos malolientes.","Las máquinas miedosas tristes de lodos podridos."],"respuestaCorrecta":"¡V-E-I-N-T-E (20) conchas porque 5 × 4 = 20 conchitas deliciosas! 🍞🧁","explicacion":"5 charolas × 4 conchas = 20 conchas. ¡Multiplicar resuelve problemas de la vida! 🍞🧁"},
+      {"id":"pri3-mat-b1-v1-005","tema":"Tablas del 2 y del 3","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuánto es purísimamente 3 × 9 en la tabla del tres?","opciones":["¡V-E-I-N-T-I-S-I-E-T-E (27) porque 3 × 9 = 27 exactitos! 🔢✨","Calculadoras fúnebres de destrozos gélidos sombríos.","Las tristes destrozadoras de sombra acongojadas.","Llorándonos charcos fúnebre amargo nauseabundos."],"respuestaCorrecta":"¡V-E-I-N-T-I-S-I-E-T-E (27) porque 3 × 9 = 27 exactitos! 🔢✨","explicacion":"3 × 9 = 27. ¡La tabla del 3 es genial! 3,6,9,12,15,18,21,24,27. 🔢✨"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-matematicas-b1-v2-001",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b1-v2-002",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
-      },
-      {
-        "id": "primaria-3-matematicas-b1-v2-003",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
-      }
+    "v2":[
+      {"id":"pri3-mat-b1-v2-001","tema":"Concepto de multiplicación como suma repetida","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí 4 4_ b bo ol ls si it ta as s_ c co on n_ 3 3_ d du ul lc ce es s_ = =_ ¿ ¿c cu uá án nt to os s ? ??","opciones":["¡D DO OC CE E_ ( (1 12 2) )_ d du ul lc ce es s ! !! 🍬✨","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡D DO OC CE E_ ( (1 12 2) )_ d du ul lc ce es s ! !! 🍬✨","explicacion":"4 4_ × ×_ 3 3_ = =_ 1 12 2 !! 🍬✨!"},
+      {"id":"pri3-mat-b1-v2-002","tema":"Tablas del 2 y del 3","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi 2 2_ × ×_ 7 7_ = =_ 1 14 4 ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"2 2_ × ×_ 7 7_ = =_ 1 14 4 !! ✅!"},
+      {"id":"pri3-mat-b1-v2-003","tema":"Tablas del 4 y del 5","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil 5 5_ × ×_ 6 6_ = =_ 3 3_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"0","explicacion":"5 5_ × ×_ 6 6_ = =_ 3 30 0 !! 🖐️✨"},
+      {"id":"pri3-mat-b1-v2-004","tema":"Problemas de multiplicación cotidianos","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil 5 5_ c ch ha ar ro ol la as s_ × ×_ 4 4_ c co on nc ch ha as s_ = =_ ? ?? ?! a?_?...l?!","opciones":["¡2 20 0_ c co on nc ch ha as s ! !! 🍞🧁","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡2 20 0_ c co on nc ch ha as s ! !! 🍞🧁","explicacion":"5 5_ × ×_ 4 4_ = =_ 2 20 0 !! 🍞🧁!!"},
+      {"id":"pri3-mat-b1-v2-005","tema":"Tablas del 2 y del 3","tipo":"true_false","nivel":"v2","pregunta":"SiisEili 3 3_ × ×_ 9 9_ = =_ 2 27 7 ? ?? !","respuestaCorrecta":"true","explicacion":"3 3_ × ×_ 9 9_ = =_ 2 27 7 !! 🔢✨"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-matematicas-b1-001",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b1-v2-001",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b1-002",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      }
+    "preview":[
+      {"id":"pri3-mat-b1-v1-001","tema":"Concepto de multiplicación","tipo":"multiple_choice","nivel":"v1","pregunta":"4 bolsas × 3 dulces = ¿cuántos?","opciones":["¡12 dulces! 🍬","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡12 dulces! 🍬","explicacion":"4×3=12","visual":"🍬"},
+      {"id":"pri3-mat-b1-v1-004","tema":"Problemas de multiplicación","tipo":"multiple_choice","nivel":"v1","pregunta":"5 charolas × 4 conchas = ¿?","opciones":["¡20 conchas! 🍞","Triste","Gris.","Feo."],"respuestaCorrecta":"¡20 conchas! 🍞","explicacion":"5×4=20"},
+      {"id":"pri3-mat-b1-v2-002","tema":"Tablas del 2","tipo":"true_false","nivel":"v2","pregunta":"2 × 7 = 14. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"2×7=14"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.293Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

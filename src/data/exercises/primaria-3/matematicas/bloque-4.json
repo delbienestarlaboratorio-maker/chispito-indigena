@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "matematicas",
-  "bloque": 4,
-  "nombre": "Geometria: perimetro y area",
-  "meses": "Febrero-Marzo",
-  "temas": [
-    "Formas geometricas"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-matematicas-b4-001",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b4-002",
-        "tema": "Formas geometricas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      },
-      {
-        "id": "primaria-3-matematicas-b4-003",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
-      }
+  "grado":"primaria-3","materia":"matematicas","bloque":4,"nombre":"Fracciones: partes de un entero","meses":"Febrero - Marzo",
+  "temas":["¿Qué es una fracción?","Medios, tercios y cuartos","Fracciones en la vida diaria","Comparar fracciones sencillas"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-mat-b4-v1-001","tema":"¿Qué es una fracción?","tipo":"multiple_choice","nivel":"v1","pregunta":"Si partes una pizza en 4 pedazos iguales y te comes 1, ¿qué fracción te comiste?","opciones":["¡UN CUARTO (1/4) de la pizza porque comiste 1 de 4 partes iguales! 🍕¼","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡UN CUARTO (1/4) de la pizza porque comiste 1 de 4 partes iguales! 🍕¼","explicacion":"1/4 = una parte de cuatro. El de arriba (numerador) es lo que tomas, el de abajo (denominador) las partes totales. 🍕¼","visual":"🍕¼"},
+      {"id":"pri3-mat-b4-v1-002","tema":"Medios, tercios y cuartos","tipo":"true_false","nivel":"v1","pregunta":"La mitad de algo se escribe como la fracción 1/2 (un medio).","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! 1/2 = la mitad. ¡Partir algo en 2 partes iguales y tomar una! ½✅"},
+      {"id":"pri3-mat-b4-v1-003","tema":"Fracciones en la vida diaria","tipo":"fill_blank","nivel":"v1","pregunta":"Si un pastel se parte en 3 partes iguales, cada parte es un T-E-R-C-I-____ del pastel.","respuestaCorrecta":"O","explicacion":"¡O!. ¡TERCIO! 1/3 = un tercio. ¡Tres partes iguales! 🎂⅓"},
+      {"id":"pri3-mat-b4-v1-004","tema":"Comparar fracciones sencillas","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué es más grande: 1/2 de un pastel o 1/4 del mismo pastel?","opciones":["¡1/2 es MÁS GRANDE porque la mitad es mayor que un cuarto! 🍰>🍰","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡1/2 es MÁS GRANDE porque la mitad es mayor que un cuarto! 🍰>🍰","explicacion":"1/2 > 1/4. ¡Menos partes = cada parte más grande! 🍰>🍰"},
+      {"id":"pri3-mat-b4-v1-005","tema":"¿Qué es una fracción?","tipo":"multiple_choice","nivel":"v1","pregunta":"En la fracción 3/4, ¿qué representa el número 4 de abajo?","opciones":["¡El D-E-N-O-M-I-N-A-D-O-R: las partes totales en que se dividió el entero! 🔢⬇️","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡El D-E-N-O-M-I-N-A-D-O-R: las partes totales en que se dividió el entero! 🔢⬇️","explicacion":"Denominador = abajo = total de partes. Numerador = arriba = partes tomadas. 🔢⬇️"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-matematicas-b4-v2-001",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b4-v2-002",
-        "tema": "Formas geometricas",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
-      },
-      {
-        "id": "primaria-3-matematicas-b4-v2-003",
-        "tema": "Formas geometricas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
-      }
+    "v2":[
+      {"id":"pri3-mat-b4-v2-001","tema":"¿Qué es una fracción?","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí p pi iz zz za a_ 4 4_ p pe ed da az zo os s_ c co om me es s_ 1 1_ = =_ ? ??","opciones":["¡1 1/ /4 4_ ( (u un n_ c cu ua ar rt to o) ) ! !! 🍕¼","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡1 1/ /4 4_ ( (u un n_ c cu ua ar rt to o) ) ! !! 🍕¼","explicacion":"1 1/ /4 4 !! 🍕¼!"},
+      {"id":"pri3-mat-b4-v2-002","tema":"Medios, tercios y cuartos","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi m mi it ta ad d_ = =_ 1 1/ /2 2 ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"1 1/ /2 2_ = =_ m mi it ta ad d !! ½✅!"},
+      {"id":"pri3-mat-b4-v2-003","tema":"Fracciones en la vida diaria","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil 3 3_ p pa ar rt te es s_ i ig gu ua al le es s_ = =_ u un n_ T TE ER RC CI I_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"O","explicacion":"T TE ER RC CI IO O !! 🎂⅓"},
+      {"id":"pri3-mat-b4-v2-004","tema":"Comparar fracciones sencillas","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil 1 1/ /2 2_ o o_ 1 1/ /4 4_ ¿ ¿c cu uá ál l_ e es s_ m ma ay yo or r ? ?? ?! a?_?...l?!","opciones":["¡1 1/ /2 2_ e es s_ M MÁ ÁS S_ G GR RA AN ND DE E ! !! 🍰>🍰","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡1 1/ /2 2_ e es s_ M MÁ ÁS S_ G GR RA AN ND DE E ! !! 🍰>🍰","explicacion":"1 1/ /2 2_ > >_ 1 1/ /4 4 !! 🍰>🍰!!"},
+      {"id":"pri3-mat-b4-v2-005","tema":"¿Qué es una fracción?","tipo":"true_false","nivel":"v2","pregunta":"SiisEili e en n_ 3 3/ /4 4_ e el l_ 4 4_ = =_ D DE EN NO OM MI IN NA AD DO OR R ? ?? !","respuestaCorrecta":"true","explicacion":"D De en no om mi in na ad do or r_ = =_ a ab ba aj jo o !! 🔢⬇️"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-matematicas-b4-001",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b4-v2-001",
-        "tema": "Formas geometricas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b4-002",
-        "tema": "Formas geometricas",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      }
+    "preview":[
+      {"id":"pri3-mat-b4-v1-001","tema":"¿Qué es una fracción?","tipo":"multiple_choice","nivel":"v1","pregunta":"Pizza 4 pedazos, comes 1 = ¿fracción?","opciones":["¡1/4! 🍕","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡1/4! 🍕","explicacion":"1/4","visual":"🍕"},
+      {"id":"pri3-mat-b4-v1-004","tema":"Comparar fracciones","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Más grande: 1/2 o 1/4?","opciones":["¡1/2 es mayor! 🍰","Triste","Gris.","Feo."],"respuestaCorrecta":"¡1/2 es mayor! 🍰","explicacion":"1/2>1/4"},
+      {"id":"pri3-mat-b4-v2-002","tema":"Medios","tipo":"true_false","nivel":"v2","pregunta":"Mitad = 1/2. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Mitad"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.296Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

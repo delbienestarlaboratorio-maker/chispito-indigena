@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "historia",
-  "bloque": 3,
-  "nombre": "Los grandes descubrimientos",
-  "meses": "Diciembre-Enero",
-  "temas": [
-    "Los grandes descubrimientos y la globalizacion temprana"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-historia-b3-001",
-        "tema": "Los grandes descubrimientos y la globalizacion temprana",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b3-002",
-        "tema": "Los grandes descubrimientos y la globalizacion temprana",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      },
-      {
-        "id": "primaria-3-historia-b3-003",
-        "tema": "Los grandes descubrimientos y la globalizacion temprana",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La gran ciudad construida por los aztecas sobre un lago se llamaba ___",
-        "respuestaCorrecta": "Tenochtitlán",
-        "explicacion": "Esta ciudad fue el corazón del imperio mexica hasta la conquista española."
-      }
+  "grado":"primaria-3","materia":"historia","bloque":3,"nombre":"Los Mexicas y el esplendor de Tenochtitlán","meses":"Diciembre - Enero",
+  "temas":["La fundación de Tenochtitlán","La sociedad y gobierno mexica","La religión y los dioses mexicas","El mercado de Tlatelolco"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-his-b3-v1-001","tema":"La fundación de Tenochtitlán","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué señal buscaban los mexicas para fundar su ciudad según la profecía?","opciones":["¡Un Á-G-U-I-L-A parada en un nopal devorando una serpiente! ¡Eso es nuestro escudo! 🦅🐍","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡Un Á-G-U-I-L-A parada en un nopal devorando una serpiente! ¡Eso es nuestro escudo! 🦅🐍","explicacion":"La encontraron en un islote del lago de Texcoco → ahí fundaron Tenochtitlán en 1325. 🦅🐍","visual":"🦅🐍"},
+      {"id":"pri3-his-b3-v1-002","tema":"La sociedad y gobierno mexica","tipo":"true_false","nivel":"v1","pregunta":"El gobernante máximo de los mexicas se llamaba TLATOANI, que significa 'el que habla'.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Tlatoani = orador supremo, líder político, militar y religioso de los mexicas. 👑🗣️"},
+      {"id":"pri3-his-b3-v1-003","tema":"La religión y los dioses mexicas","tipo":"fill_blank","nivel":"v1","pregunta":"El dios mexica del sol y la guerra se llamaba H-U-I-T-Z-I-L-O-P-O-C-H-T-L-____ .","respuestaCorrecta":"I","explicacion":"¡I!. ¡HUITZILOPOCHTLI! Dios sol y patrón de los mexicas. Su nombre = colibrí zurdo. 🌞⚔️"},
+      {"id":"pri3-his-b3-v1-004","tema":"El mercado de Tlatelolco","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se llamaba el enorme mercado mexica que asombró a los españoles por su tamaño y variedad?","opciones":["¡El mercado de T-L-A-T-E-L-O-L-C-O, el más grande de toda Mesoamérica! 🏪🌽","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡El mercado de T-L-A-T-E-L-O-L-C-O, el más grande de toda Mesoamérica! 🏪🌽","explicacion":"Tlatelolco tenía más de 60,000 personas diarias comprando y vendiendo. ¡Impresionante! 🏪🌽"},
+      {"id":"pri3-his-b3-v1-005","tema":"La fundación de Tenochtitlán","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Sobre qué lago se construyó la ciudad de Tenochtitlán con chinampas?","opciones":["¡El lago de T-E-X-C-O-C-O, donde hoy está la Ciudad de México! 🌊🏛️","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡El lago de T-E-X-C-O-C-O, donde hoy está la Ciudad de México! 🌊🏛️","explicacion":"Tenochtitlán se construyó sobre islotes del lago de Texcoco con chinampas (jardines flotantes). 🌊🏛️"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-historia-b3-v2-001",
-        "tema": "Los grandes descubrimientos y la globalizacion temprana",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?  ",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b3-v2-002",
-        "tema": "Los grandes descubrimientos y la globalizacion temprana",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El Tratado de Guadalupe Hidalgo puso fin a la guerra de Reforma  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "Dicho tratado finalizó la guerra México-Estados Unidos, resultando en la pérdida de la mitad del territorio nacional."
-      },
-      {
-        "id": "primaria-3-historia-b3-v2-003",
-        "tema": "Los grandes descubrimientos y la globalizacion temprana",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Durante tres siglos, gran parte del territorio de Norteamérica y Centroamérica formó el Virreinato de la Nueva ___  ",
-        "respuestaCorrecta": "España",
-        "explicacion": "Se estableció en 1535 con Antonio de Mendoza como primer virrey."
-      }
+    "v2":[
+      {"id":"pri3-his-b3-v2-001","tema":"La fundación de Tenochtitlán","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí á ág gu ui il la a_ n no op pa al l_ s se er rp pi ie en nt te e_ = =_ ¿ ¿q qu ué é_ s se eñ ña al l ? ??","opciones":["¡F Fu un nd da ar r_ T Te en no oc ch ht ti it tl lá án n ! !! 🦅🐍","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡F Fu un nd da ar r_ T Te en no oc ch ht ti it tl lá án n ! !! 🦅🐍","explicacion":"T Te en no oc ch ht ti it tl lá án n !! 🦅🐍!"},
+      {"id":"pri3-his-b3-v2-002","tema":"Gobierno mexica","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi T TL LA AT TO OA AN NI I_ = =_ g go ob be er rn na an nt te e_ m me ex xi ic ca a ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"T Tl la at to oa an ni i !! 👑🗣️!"},
+      {"id":"pri3-his-b3-v2-003","tema":"Religión mexica","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil d di io os s_ d de el l_ s so ol l_ y y_ g gu ue er rr ra a_ = =_ H HU UI IT TZ ZI IL LO OP PO OC CH HT TL L_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"I","explicacion":"H HU UI IT TZ ZI IL LO OP PO OC CH HT TL LI I !! 🌞⚔️"},
+      {"id":"pri3-his-b3-v2-004","tema":"El mercado","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil m me er rc ca ad do o_ m má ás s_ g gr ra an nd de e_ M Me es so oa am mé ér ri ic ca a ? ?? ?! a?_?...l?!","opciones":["¡T TL LA AT TE EL LO OL LC CO O ! !! 🏪🌽","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡T TL LA AT TE EL LO OL LC CO O ! !! 🏪🌽","explicacion":"T Tl la at te el lo ol lc co o !! 🏪🌽!!"},
+      {"id":"pri3-his-b3-v2-005","tema":"Fundación","tipo":"true_false","nivel":"v2","pregunta":"SiisEili l la ag go o_ d de e_ T Te ex xc co oc co o_ = =_ T Te en no oc ch ht ti it tl lá án n ? ?? !","respuestaCorrecta":"true","explicacion":"L La ag go o_ T Te ex xc co oc co o !! 🌊🏛️"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-historia-b3-001",
-        "tema": "Los grandes descubrimientos y la globalizacion temprana",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b3-v2-001",
-        "tema": "Los grandes descubrimientos y la globalizacion temprana",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b3-002",
-        "tema": "Los grandes descubrimientos y la globalizacion temprana",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      }
+    "preview":[
+      {"id":"pri3-his-b3-v1-001","tema":"Tenochtitlán","tipo":"multiple_choice","nivel":"v1","pregunta":"Señal para fundar Tenochtitlán = ¿?","opciones":["¡Águila en nopal con serpiente! 🦅","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Águila en nopal con serpiente! 🦅","explicacion":"Águila","visual":"🦅"},
+      {"id":"pri3-his-b3-v1-004","tema":"Mercado mexica","tipo":"multiple_choice","nivel":"v1","pregunta":"Mercado más grande de Mesoamérica = ¿?","opciones":["¡Tlatelolco! 🏪","Triste","Gris.","Feo."],"respuestaCorrecta":"¡Tlatelolco! 🏪","explicacion":"Tlatelolco"},
+      {"id":"pri3-his-b3-v2-002","tema":"Tlatoani","tipo":"true_false","nivel":"v2","pregunta":"Tlatoani = gobernante mexica. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Tlatoani"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.289Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

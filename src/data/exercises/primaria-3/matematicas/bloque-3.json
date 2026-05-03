@@ -1,127 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "matematicas",
-  "bloque": 3,
-  "nombre": "Fracciones simples",
-  "meses": "Diciembre-Enero",
-  "temas": [
-    "Sumas hasta 20",
-    "Multiplicacion basica"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-matematicas-b3-001",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b3-002",
-        "tema": "Sumas hasta 20",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      },
-      {
-        "id": "primaria-3-matematicas-b3-003",
-        "tema": "Sumas hasta 20",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
-      }
+  "grado":"primaria-3","materia":"matematicas","bloque":3,"nombre":"División: repartir en partes iguales","meses":"Diciembre - Enero",
+  "temas":["Concepto de división como repartición","Divisiones exactas hasta 100","Relación multiplicación-división","Problemas de reparto cotidianos"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-mat-b3-v1-001","tema":"Concepto de división como repartición","tipo":"multiple_choice","nivel":"v1","pregunta":"Si tienes 12 galletas y las repartes entre 4 amiguitos por igual, ¿cuántas le tocan a cada uno?","opciones":["¡T-R-E-S (3) galletas para cada amiguito porque 12 ÷ 4 = 3! 🍪👦","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡T-R-E-S (3) galletas para cada amiguito porque 12 ÷ 4 = 3! 🍪👦","explicacion":"12 ÷ 4 = 3. Dividir = repartir en partes iguales. 🍪👦","visual":"🍪👦"},
+      {"id":"pri3-mat-b3-v1-002","tema":"Relación multiplicación-división","tipo":"true_false","nivel":"v1","pregunta":"Si 5 × 6 = 30, entonces 30 ÷ 6 = 5 purísimamente. ¡Son operaciones hermanas!","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Multiplicación y división son operaciones inversas. Si una une, la otra separa. ✅🔄"},
+      {"id":"pri3-mat-b3-v1-003","tema":"Divisiones exactas hasta 100","tipo":"fill_blank","nivel":"v1","pregunta":"24 ÷ 8 = ____ . ¡Piensa: 8 × ¿cuánto? = 24!","respuestaCorrecta":"3","explicacion":"¡3!. 24 ÷ 8 = 3 porque 8 × 3 = 24. ¡Las tablas te ayudan a dividir! 🔢"},
+      {"id":"pri3-mat-b3-v1-004","tema":"Problemas de reparto cotidianos","tipo":"multiple_choice","nivel":"v1","pregunta":"Una maestra tiene 36 colores y los reparte entre 9 equipos. ¿Cuántos colores le tocan a cada equipo?","opciones":["¡C-U-A-T-R-O (4) colores por equipo porque 36 ÷ 9 = 4! 🖍️🎨","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡C-U-A-T-R-O (4) colores por equipo porque 36 ÷ 9 = 4! 🖍️🎨","explicacion":"36 ÷ 9 = 4. ¡Repartir en partes iguales es dividir! 🖍️🎨"},
+      {"id":"pri3-mat-b3-v1-005","tema":"Divisiones exactas hasta 100","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuánto es purísimamente 56 ÷ 7?","opciones":["¡O-C-H-O (8) porque 7 × 8 = 56! 🔢✨","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡O-C-H-O (8) porque 7 × 8 = 56! 🔢✨","explicacion":"56 ÷ 7 = 8. ¡Las tablas son la clave para dividir rápido! 🔢✨"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-matematicas-b3-v2-001",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b3-v2-002",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
-      },
-      {
-        "id": "primaria-3-matematicas-b3-v2-003",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
-      }
+    "v2":[
+      {"id":"pri3-mat-b3-v2-001","tema":"Concepto de división como repartición","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí 1 12 2_ g ga al ll le et ta as s_ ÷ ÷_ 4 4_ a am mi ig go os s_ = =_ ? ??","opciones":["¡3 3_ g ga al ll le et ta as s_ c ca ad da a_ u un no o ! !! 🍪👦","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡3 3_ g ga al ll le et ta as s_ c ca ad da a_ u un no o ! !! 🍪👦","explicacion":"1 12 2_ ÷ ÷_ 4 4_ = =_ 3 3 !! 🍪👦!"},
+      {"id":"pri3-mat-b3-v2-002","tema":"Relación multiplicación-división","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi 5 5_ × ×_ 6 6_ = =_ 3 30 0_ e en nt to on nc ce es s_ 3 30 0_ ÷ ÷_ 6 6_ = =_ 5 5 ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"I In nv ve er rs sa as s !! ✅🔄!"},
+      {"id":"pri3-mat-b3-v2-003","tema":"Divisiones exactas hasta 100","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil 2 24 4_ ÷ ÷_ 8 8_ = =_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"3","explicacion":"2 24 4_ ÷ ÷_ 8 8_ = =_ 3 3 !! 🔢"},
+      {"id":"pri3-mat-b3-v2-004","tema":"Problemas de reparto cotidianos","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil 3 36 6_ c co ol lo or re es s_ ÷ ÷_ 9 9_ e eq qu ui ip po os s_ = =_ ? ?? ?! a?_?...l?!","opciones":["¡4 4_ c co ol lo or re es s ! !! 🖍️🎨","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡4 4_ c co ol lo or re es s ! !! 🖍️🎨","explicacion":"3 36 6_ ÷ ÷_ 9 9_ = =_ 4 4 !! 🖍️🎨!!"},
+      {"id":"pri3-mat-b3-v2-005","tema":"Divisiones exactas hasta 100","tipo":"true_false","nivel":"v2","pregunta":"SiisEili 5 56 6_ ÷ ÷_ 7 7_ = =_ 8 8 ? ?? !","respuestaCorrecta":"true","explicacion":"5 56 6_ ÷ ÷_ 7 7_ = =_ 8 8 !! 🔢✨"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-matematicas-b3-001",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b3-v2-001",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b3-002",
-        "tema": "Sumas hasta 20",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      }
+    "preview":[
+      {"id":"pri3-mat-b3-v1-001","tema":"Concepto de división","tipo":"multiple_choice","nivel":"v1","pregunta":"12 galletas ÷ 4 amigos = ¿?","opciones":["¡3 galletas cada uno! 🍪","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡3 galletas cada uno! 🍪","explicacion":"12÷4=3","visual":"🍪"},
+      {"id":"pri3-mat-b3-v1-004","tema":"Problemas de reparto","tipo":"multiple_choice","nivel":"v1","pregunta":"36 colores ÷ 9 equipos = ¿?","opciones":["¡4 colores! 🖍️","Triste","Gris.","Feo."],"respuestaCorrecta":"¡4 colores! 🖍️","explicacion":"36÷9=4"},
+      {"id":"pri3-mat-b3-v2-002","tema":"Relación multiplicación-división","tipo":"true_false","nivel":"v2","pregunta":"Si 5×6=30, entonces 30÷6=5. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Inversas"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.295Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

@@ -2,129 +2,293 @@
   "grado": "preescolar-2",
   "materia": "matematicas",
   "bloque": 2,
-  "nombre": "Figuras y cuerpos",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Figuras geométricas y espacio",
+  "meses": "Noviembre - Diciembre",
   "temas": [
-    "Números del 1 al 10",
-    "Formas geométricas",
-    "Más, menos, igual",
-    "Orden y secuencias",
-    "Medición básica"
+    "Reconociendo figuras (cuadrado, círculo, triángulo, rectángulo)",
+    "Figuras 3D en la vida real (esferas, cajas)",
+    "Ubicación espacial (arriba, abajo, cerca, lejos)",
+    "Armando un Tangram"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-matematicas-b2-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b2-v1-001",
+        "tema": "Reconociendo figuras",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "¿Qué figura geométrica no tiene lados ni esquinas, y es redonda como el sol?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "Círculo 🔴",
+          "Cuadrado ⬜",
+          "Triángulo 🔺",
+          "Rectángulo 🟦"
+        ],
+        "respuestaCorrecta": "Círculo 🔴",
+        "explicacion": "¡El círculo! Rueda porque no tiene ninguna línea recta ni piquitos. 🔴",
+        "visual": "🔴"
       },
       {
-        "id": "preescolar-2-matematicas-b2-002",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b2-v1-002",
+        "tema": "Reconociendo figuras",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Un cuadrado tiene 4 lados que son igualitos de tamaño.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡Sí! El cuadrado es perfecto: sus 4 paredes siempre miden lo mismo, como una caja. ⬜"
       },
       {
-        "id": "preescolar-2-matematicas-b2-003",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b2-v1-003",
+        "tema": "Ubicación espacial",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un pájaro vuela en el cielo encima de tu cabeza, el pájaro está...",
+        "opciones": [
+          "Arriba",
+          "Abajo",
+          "Adentro",
+          "Atrás"
+        ],
+        "respuestaCorrecta": "Arriba",
+        "explicacion": "¡Arriba en el cielo! Todo lo que vuela suele estar hacia arriba. 🐦",
+        "visual": "🐦"
+      },
+      {
+        "id": "pre2-mat-b2-v1-004",
+        "tema": "Figuras 3D en la vida real",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una pelota de fútbol es como un triángulo enorme.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! La pelota de fútbol es redonda como una 'Esfera' o círculo 3D, ¡para que pueda rodar! ⚽"
+      },
+      {
+        "id": "pre2-mat-b2-v1-005",
+        "tema": "Reconociendo figuras",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "El triángulo tiene ___ lados.",
+        "respuestaCorrecta": "3",
+        "explicacion": "¡3 lados! Como un cono de helado o una pirámide de Egipto. 🔺"
+      },
+      {
+        "id": "pre2-mat-b2-v1-006",
+        "tema": "Reconociendo figuras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué cosa se parece a un rectángulo?",
+        "opciones": [
+          "La puerta de tu casa 🚪",
+          "Una pelota ⚽",
+          "El sol ☀️",
+          "Una rebanada de pizza 🍕"
+        ],
+        "respuestaCorrecta": "La puerta de tu casa 🚪",
+        "explicacion": "¡La puerta! Tiene dos lados largos y dos cortitos. Eso es un rectángulo. 🚪",
+        "visual": "🚪"
+      },
+      {
+        "id": "pre2-mat-b2-v1-007",
+        "tema": "Ubicación espacial",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Si escondes tus juguetes en la caja para que tu mamá no los vea, los juguetes están ___ de la caja.",
+        "respuestaCorrecta": "adentro",
+        "explicacion": "¡Adentro! Todo lo que está guardado en un envase está adentro de este. 📦"
+      },
+      {
+        "id": "pre2-mat-b2-v1-008",
+        "tema": "Armando un Tangram",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Con triángulos de diferentes tamaños podemos armar el dibujo de un pez en papel.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Así es! Si usamos las figuras del Tangram como rompecabezas, podemos hacer barcos, peces y gatos. 🧩"
+      },
+      {
+        "id": "pre2-mat-b2-v1-009",
+        "tema": "Ubicación espacial",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién está más cerca del sol?",
+        "opciones": [
+          "Un avión en el cielo ✈️",
+          "Un topo en la tierra 🐾",
+          "Un pez en el mar 🐟",
+          "Un gusano 🐛"
+        ],
+        "respuestaCorrecta": "Un avión en el cielo ✈️",
+        "explicacion": "¡El avión! Porque está muy arriba. Cerca quiere decir 'a poca distancia'. ☁️"
+      },
+      {
+        "id": "pre2-mat-b2-v1-010",
+        "tema": "Reconociendo figuras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Son dos figuras que tienen cuatro esquinas, pero una tiene paredes muy largas y otra no.",
+        "opciones": [
+          "Cuadrado y Rectángulo",
+          "Círculo y Triángulo",
+          "Estrella y Sol",
+          "Nube y Luna"
+        ],
+        "respuestaCorrecta": "Cuadrado y Rectángulo",
+        "explicacion": "¡Ambos tienen 4 esquinas! Pero el rectángulo es alargado como un tren. 🚂"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-matematicas-b2-v2-001",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b2-v2-001",
+        "tema": "Ubicación espacial",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "Si pongo mis manos cruzadas en mi espalda, ¿dónde están mis manos?  ",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "Atrás de mí",
+          "Adelante de mí",
+          "Arriba",
+          "Abajo"
+        ],
+        "respuestaCorrecta": "Atrás de mí",
+        "explicacion": "Están atrás, en tu espalda. Tu panza está 'adelante'. 👐"
       },
       {
-        "id": "preescolar-2-matematicas-b2-v2-002",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b2-v2-002",
+        "tema": "Reconociendo figuras",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
+        "pregunta": "Una rebanada de pizza tiene la forma de un triángulo maravilloso.  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "explicacion": "¡Claro! La pizza se corta en rebanadas con tres picos y tres lados igualitos a un triángulo. 🍕"
       },
       {
-        "id": "preescolar-2-matematicas-b2-v2-003",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b2-v2-003",
+        "tema": "Figuras 3D en la vida real",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Las cajas de zapatos son cuerpos que llamamos prismas, pero se parecen mucho a los ___.  ",
+        "respuestaCorrecta": "rectángulos",
+        "explicacion": "En dos dimensiones (dibujo) serían rectángulos. ¡Buena observación! 👟"
+      },
+      {
+        "id": "pre2-mat-b2-v2-004",
+        "tema": "Reconociendo figuras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué figura puedes hacer si le dices a todos tus compañeros que se den la mano y guarden la misma distancia?  ",
+        "opciones": [
+          "Ronda o Círculo",
+          "Cuadrado",
+          "Rectángulo",
+          "Estrella"
+        ],
+        "respuestaCorrecta": "Ronda o Círculo",
+        "explicacion": "¡Harán una gran rueda redonda como un círculo! 🤝"
+      },
+      {
+        "id": "pre2-mat-b2-v2-005",
+        "tema": "Armando un Tangram",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Si juntas dos triángulos iguales pequeños, puedes formar un cuadrado.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Esa es la magia de la geometría! Júntalos y verás cómo aparecen sus 4 lados iguales. 🧩"
+      },
+      {
+        "id": "pre2-mat-b2-v2-006",
+        "tema": "Ubicación espacial",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Tus rodillas están en la parte de ___ de tu cuerpo en comparación a tu cabeza.  ",
+        "respuestaCorrecta": "abajo",
+        "explicacion": "¡Abajo! Porque tienes que agacharte para tocarlas. 👇"
+      },
+      {
+        "id": "pre2-mat-b2-v2-007",
+        "tema": "Reconociendo figuras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Te has fijado cómo son las banderas que mueven en los castillos? ¿Cómo son?  ",
+        "opciones": [
+          "Como triángulos pequeños (banderines)",
+          "Como bolas de cristal",
+          "Como rombos enormes",
+          "Como círculos amarillos"
+        ],
+        "respuestaCorrecta": "Como triángulos pequeños (banderines)",
+        "explicacion": "¡Los banderines terminan en piquito, son triángulos super listos para el viento! 🚩"
+      },
+      {
+        "id": "pre2-mat-b2-v2-008",
+        "tema": "Figuras 3D en la vida real",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un bote de basura con forma tubular es geométricamente como un 'cilindro'.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! El cilindro se parece a un tubo grande. Otros ejemplos: los popotes o un tambor. 🥁"
+      },
+      {
+        "id": "pre2-mat-b2-v2-009",
+        "tema": "Ubicación espacial",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si un gato está durmiendo debajo de la cama, tú a él lo vas a buscar...  ",
+        "opciones": [
+          "Abajo asomando la cabeza",
+          "Arriba en el techo",
+          "Atrás en el patio",
+          "Sobre el sillón"
+        ],
+        "respuestaCorrecta": "Abajo asomando la cabeza",
+        "explicacion": "¡Debajo es sinónimo de abajo! Tienes que bajar la mirada para encontrarlo. 🐱"
+      },
+      {
+        "id": "pre2-mat-b2-v2-010",
+        "tema": "Reconociendo figuras",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para dibujar una casita, uso un cuadrado de pared y un ___ para el techo punteagudo.  ",
+        "respuestaCorrecta": "triángulo",
+        "explicacion": "¡El techo perfecto lo hace un triángulo para que resbale la lluvia! 🏠"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-matematicas-b2-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b2-v1-001",
+        "tema": "Reconociendo figuras",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "¿Qué figura geométrica no tiene lados ni esquinas, y es redonda como el sol?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "Círculo 🔴",
+          "Cuadrado ⬜",
+          "Triángulo 🔺",
+          "Rectángulo 🟦"
+        ],
+        "respuestaCorrecta": "Círculo 🔴",
+        "explicacion": "¡El círculo! Rueda porque no tiene piquitos. 🔴"
       },
       {
-        "id": "preescolar-2-matematicas-b2-v2-001",
-        "tema": "Medición básica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "preescolar-2-matematicas-b2-002",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b2-v2-002",
+        "tema": "Reconociendo figuras",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "nivel": "v2",
+        "pregunta": "Una rebanada de pizza tiene la forma de un triángulo maravilloso.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "La pizza se corta en rebanadas con tres picos y tres lados igualitos a un triángulo. 🍕"
+      },
+      {
+        "id": "pre2-mat-b2-v1-005",
+        "tema": "Reconociendo figuras",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El triángulo tiene ___ lados.",
+        "respuestaCorrecta": "3",
+        "explicacion": "¡3 lados! Como un cono de helado o una pirámide de Egipto. 🔺"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.219Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

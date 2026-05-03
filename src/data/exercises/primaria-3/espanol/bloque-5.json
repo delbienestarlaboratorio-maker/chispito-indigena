@@ -1,133 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "espanol",
-  "bloque": 5,
-  "nombre": "Literatura y comunicacion oral",
-  "meses": "Abril-Junio",
-  "temas": [
-    "Sustantivos",
-    "Vocales"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-espanol-b5-001",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b5-002",
-        "tema": "Sustantivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
-      },
-      {
-        "id": "primaria-3-espanol-b5-003",
-        "tema": "Sustantivos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
-      }
+  "grado":"primaria-3","materia":"espanol","bloque":5,"nombre":"Investigación y textos informativos","meses":"Abril - Mayo",
+  "temas":["Buscar información en libros y enciclopedias","La nota informativa y la noticia","Diferencia entre hecho y opinión","El resumen de un texto"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-esp-b5-v1-001","tema":"Buscar información en libros y enciclopedias","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Dónde puedes buscar información confiable para una tarea de investigación escolar?","opciones":["¡En las E-N-C-I-C-L-O-P-E-D-I-A-S, libros de texto y fuentes confiables! 📚🔍","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡En las E-N-C-I-C-L-O-P-E-D-I-A-S, libros de texto y fuentes confiables! 📚🔍","explicacion":"Enciclopedias y libros de texto tienen información verificada y confiable. 📚🔍","visual":"📚🔍"},
+      {"id":"pri3-esp-b5-v1-002","tema":"Diferencia entre hecho y opinión","tipo":"true_false","nivel":"v1","pregunta":"'México tiene 32 estados' es un HECHO porque se puede comprobar que es verdad.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Un hecho se puede verificar. Una opinión es lo que alguien piensa. ✅🔬"},
+      {"id":"pri3-esp-b5-v1-003","tema":"El resumen de un texto","tipo":"fill_blank","nivel":"v1","pregunta":"Escribir las ideas más importantes de un texto largo en pocas palabras se llama hacer un R-E-S-U-M-E-____ .","respuestaCorrecta":"N","explicacion":"¡N!. ¡RESUMEN! Resumir = quedarte con lo más importante. 📝✂️"},
+      {"id":"pri3-esp-b5-v1-004","tema":"La nota informativa y la noticia","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál es la diferencia principal entre un cuento y una noticia?","opciones":["¡El cuento es FICCIÓN (inventado) y la noticia cuenta hechos REALES que pasaron! 📰vs📖","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡El cuento es FICCIÓN (inventado) y la noticia cuenta hechos REALES que pasaron! 📰vs📖","explicacion":"Noticia = hechos reales. Cuento = historia inventada. 📰vs📖"},
+      {"id":"pri3-esp-b5-v1-005","tema":"Diferencia entre hecho y opinión","tipo":"multiple_choice","nivel":"v1","pregunta":"'¡La pizza es la comida más rica del mundo!' ¿Eso es un hecho o una opinión?","opciones":["¡Una O-P-I-N-I-Ó-N porque es lo que alguien piensa, no un dato comprobable! 💭🍕","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Una O-P-I-N-I-Ó-N porque es lo que alguien piensa, no un dato comprobable! 💭🍕","explicacion":"'La más rica' es subjetivo. Cada quien tiene gustos diferentes. ¡Eso es opinión! 💭🍕"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-espanol-b5-v2-001",
-        "tema": "Vocales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b5-v2-002",
-        "tema": "Vocales",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
-      },
-      {
-        "id": "primaria-3-espanol-b5-v2-003",
-        "tema": "Vocales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
-        "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
-      }
+    "v2":[
+      {"id":"pri3-esp-b5-v2-001","tema":"Buscar información","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí b bu us sc ca ar r_ i in nf fo or rm ma ac ci ió ón n_ c co on nf fi ia ab bl le e_ ¿ ¿d dó ón nd de e ? ??","opciones":["¡E EN NC CI IC CL LO OP PE ED DI IA AS S ! !! 📚🔍","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡E EN NC CI IC CL LO OP PE ED DI IA AS S ! !! 📚🔍","explicacion":"E En nc ci ic cl lo op pe ed di ia as s !! 📚🔍!"},
+      {"id":"pri3-esp-b5-v2-002","tema":"Diferencia entre hecho y opinión","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi 'M Mé éx xi ic co o_ t ti ie en ne e_ 3 32 2_ e es st ta ad do os s'_ = =_ H HE EC CH HO O ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"H He ec ch ho o_ = =_ c co om mp pr ro ob ba ab bl le e !! ✅🔬!"},
+      {"id":"pri3-esp-b5-v2-003","tema":"El resumen de un texto","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil i id de ea as s_ i im mp po or rt ta an nt te es s_ e en n_ p po oc ca as s_ p pa al la ab br ra as s_ = =_ R RE ES SU UM ME E_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"N","explicacion":"R RE ES SU UM ME EN N !! 📝✂️"},
+      {"id":"pri3-esp-b5-v2-004","tema":"La nota informativa y la noticia","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil c cu ue en nt to o_ = =_ f fi ic cc ci ió ón n_ y y_ n no ot ti ic ci ia a_ = =_ ? ?? ?! a?_?...l?!","opciones":["¡H HE EC CH HO OS S_ R RE EA AL LE ES S ! !! 📰vs📖","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡H HE EC CH HO OS S_ R RE EA AL LE ES S ! !! 📰vs📖","explicacion":"N No ot ti ic ci ia a_ = =_ r re ea al l !! 📰vs📖!!"},
+      {"id":"pri3-esp-b5-v2-005","tema":"Diferencia entre hecho y opinión","tipo":"true_false","nivel":"v2","pregunta":"SiisEili 'p pi iz zz za a_ m má ás s_ r ri ic ca a'_ = =_ O OP PI IN NI IÓ ÓN N ? ?? !","respuestaCorrecta":"true","explicacion":"O Op pi in ni ió ón n !! 💭🍕"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-espanol-b5-001",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b5-v2-001",
-        "tema": "Vocales",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b5-002",
-        "tema": "Sustantivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
-      }
+    "preview":[
+      {"id":"pri3-esp-b5-v1-001","tema":"Investigar","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Dónde buscar info confiable?","opciones":["¡ENCICLOPEDIAS! 📚","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡ENCICLOPEDIAS! 📚","explicacion":"Enciclopedias","visual":"📚"},
+      {"id":"pri3-esp-b5-v1-005","tema":"Hecho vs opinión","tipo":"multiple_choice","nivel":"v1","pregunta":"'Pizza es la más rica' = ¿hecho u opinión?","opciones":["¡OPINIÓN! 💭","Triste","Gris.","Feo."],"respuestaCorrecta":"¡OPINIÓN! 💭","explicacion":"Opinión"},
+      {"id":"pri3-esp-b5-v2-002","tema":"Hecho","tipo":"true_false","nivel":"v2","pregunta":"'México tiene 32 estados' = hecho. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Hecho"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.285Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "ciencias",
-  "bloque": 4,
-  "nombre": "Electricidad y magnetismo",
-  "meses": "Febrero-Marzo",
-  "temas": [
-    "La electricidad y el magnetismo"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-ciencias-b4-001",
-        "tema": "La electricidad y el magnetismo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b4-002",
-        "tema": "La electricidad y el magnetismo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      },
-      {
-        "id": "primaria-3-ciencias-b4-003",
-        "tema": "La electricidad y el magnetismo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
-        "respuestaCorrecta": "fotosíntesis",
-        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
-      }
+  "grado":"primaria-3","materia":"ciencias","bloque":4,"nombre":"Alimentación y salud","meses":"Febrero - Marzo",
+  "temas":["El Plato del Bien Comer","Grupos de alimentos y nutrientes","Higiene personal y prevención de enfermedades","El ejercicio y la vida saludable"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-cie-b4-v1-001","tema":"El Plato del Bien Comer","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuáles son los tres grupos de alimentos del Plato del Bien Comer de México?","opciones":["¡Frutas y verduras, Cereales y tubérculos, Leguminosas y productos de origen animal! 🍎🌽🥩","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡Frutas y verduras, Cereales y tubérculos, Leguminosas y productos de origen animal! 🍎🌽🥩","explicacion":"El Plato del Bien Comer nos guía para comer balanceado con los 3 grupos. 🍎🌽🥩","visual":"🍎🌽🥩"},
+      {"id":"pri3-cie-b4-v1-002","tema":"Higiene personal y prevención","tipo":"true_false","nivel":"v1","pregunta":"Lavarse las manos con agua y jabón antes de comer previene enfermedades estomacales.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Las manos pueden tener bacterias invisibles que enferman al estómago. 🧼🤲"},
+      {"id":"pri3-cie-b4-v1-003","tema":"Grupos de alimentos y nutrientes","tipo":"fill_blank","nivel":"v1","pregunta":"Las frutas y verduras nos dan V-I-T-A-M-I-N-A-____ que fortalecen nuestro cuerpo.","respuestaCorrecta":"S","explicacion":"¡S!. ¡VITAMINAS! Las frutas y verduras son riquísimas en vitaminas A, C y más. 🥕🍊"},
+      {"id":"pri3-cie-b4-v1-004","tema":"El ejercicio y la vida saludable","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Por qué es importante hacer ejercicio todos los días?","opciones":["¡Porque fortalece huesos y músculos, mejora el corazón y nos da más energía! 🏃‍♂️💪","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡Porque fortalece huesos y músculos, mejora el corazón y nos da más energía! 🏃‍♂️💪","explicacion":"Mínimo 60 minutos de actividad física al día para niños. ¡Tu cuerpo lo agradece! 🏃‍♂️💪"},
+      {"id":"pri3-cie-b4-v1-005","tema":"El Plato del Bien Comer","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué grupo de alimentos nos da proteínas para crecer y tener músculos fuertes?","opciones":["¡Las leguminosas (frijol, lenteja) y productos de origen animal (carne, huevo, leche)! 🥩🥚","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Las leguminosas (frijol, lenteja) y productos de origen animal (carne, huevo, leche)! 🥩🥚","explicacion":"Proteínas = constructores del cuerpo. Frijol + carne + huevo = músculos fuertes. 🥩🥚"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-ciencias-b4-v2-001",
-        "tema": "La electricidad y el magnetismo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b4-v2-002",
-        "tema": "La electricidad y el magnetismo",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
-      },
-      {
-        "id": "primaria-3-ciencias-b4-v2-003",
-        "tema": "La electricidad y el magnetismo",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
-        "respuestaCorrecta": "Mercurio",
-        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
-      }
+    "v2":[
+      {"id":"pri3-cie-b4-v2-001","tema":"El Plato del Bien Comer","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí 3 3_ g gr ru up po os s_ d de el l_ P Pl la at to o_ d de el l_ B Bi ie en n_ C Co om me er r ? ??","opciones":["¡F Fr ru ut ta as s/ /v ve er rd du ur ra as s, ,_ C Ce er re ea al le es s, ,_ L Le eg gu um mi in no os sa as s/ /a an ni im ma al l ! !! 🍎🌽🥩","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡F Fr ru ut ta as s/ /v ve er rd du ur ra as s, ,_ C Ce er re ea al le es s, ,_ L Le eg gu um mi in no os sa as s/ /a an ni im ma al l ! !! 🍎🌽🥩","explicacion":"3 3_ g gr ru up po os s !! 🍎🌽🥩!"},
+      {"id":"pri3-cie-b4-v2-002","tema":"Higiene personal","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi l la av va ar rs se e_ m ma an no os s_ p pr re ev vi ie en ne e_ e en nf fe er rm me ed da ad de es s ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"H Hi ig gi ie en ne e !! 🧼🤲!"},
+      {"id":"pri3-cie-b4-v2-003","tema":"Grupos de alimentos","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil f fr ru ut ta as s_ y y_ v ve er rd du ur ra as s_ d da an n_ V VI IT TA AM MI IN NA A_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"S","explicacion":"V VI IT TA AM MI IN NA AS S !! 🥕🍊"},
+      {"id":"pri3-cie-b4-v2-004","tema":"El ejercicio","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil e ej je er rc ci ic ci io o_ f fo or rt ta al le ec ce e_ h hu ue es so os s, ,_ m mú ús sc cu ul lo os s, ,_ c co or ra az zó ón n ? ?? ?! a?_?...l?!","opciones":["¡S SÍ Í, ,_ 6 60 0_ m mi in n_ d di ia ar ri io os s ! !! 🏃‍♂️💪","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡S SÍ Í, ,_ 6 60 0_ m mi in n_ d di ia ar ri io os s ! !! 🏃‍♂️💪","explicacion":"E Ej je er rc ci ic ci io o !! 🏃‍♂️💪!!"},
+      {"id":"pri3-cie-b4-v2-005","tema":"El Plato del Bien Comer","tipo":"true_false","nivel":"v2","pregunta":"SiisEili p pr ro ot te eí ín na as s_ = =_ f fr ri ij jo ol l, ,_ c ca ar rn ne e, ,_ h hu ue ev vo o ? ?? !","respuestaCorrecta":"true","explicacion":"P Pr ro ot te eí ín na as s !! 🥩🥚"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-ciencias-b4-001",
-        "tema": "La electricidad y el magnetismo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b4-v2-001",
-        "tema": "La electricidad y el magnetismo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b4-002",
-        "tema": "La electricidad y el magnetismo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      }
+    "preview":[
+      {"id":"pri3-cie-b4-v1-001","tema":"Plato del Bien Comer","tipo":"multiple_choice","nivel":"v1","pregunta":"¿3 grupos de alimentos?","opciones":["¡Frutas, Cereales, Leguminosas! 🍎","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Frutas, Cereales, Leguminosas! 🍎","explicacion":"3 grupos","visual":"🍎"},
+      {"id":"pri3-cie-b4-v1-004","tema":"Ejercicio","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Por qué hacer ejercicio?","opciones":["¡Fortalece huesos y músculos! 🏃","Triste","Gris.","Feo."],"respuestaCorrecta":"¡Fortalece huesos y músculos! 🏃","explicacion":"Ejercicio"},
+      {"id":"pri3-cie-b4-v2-002","tema":"Higiene","tipo":"true_false","nivel":"v2","pregunta":"Lavarse las manos previene enfermedades. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Higiene"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.277Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

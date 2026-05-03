@@ -31,6 +31,13 @@ export type Grado = {
 
 // === MATERIAS ===
 export const MATERIAS: Record<string, Materia> = {
+    chispito_plus: {
+        id: "chispito_plus",
+        nombre: "Chispito Plus (Habilidades)",
+        emoji: "🏙️",
+        color: "#F43F5E",
+        bgColor: "#FFF1F2",
+    },
     matematicas: {
         id: "matematicas",
         nombre: "Matemáticas",

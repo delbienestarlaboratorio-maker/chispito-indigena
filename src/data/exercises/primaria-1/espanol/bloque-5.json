@@ -2,132 +2,190 @@
   "grado": "primaria-1",
   "materia": "espanol",
   "bloque": 5,
-  "nombre": "Escritura basica",
-  "meses": "Abril-Junio",
+  "nombre": "Rimas estelares de animales",
+  "meses": "Abril - Mayo",
   "temas": [
-    "Vocales",
-    "Silabas simples"
+    "Cucurrucú paloma",
+    "Rana rima con campana",
+    "Inventando versitos locos",
+    "Canciones con palmaditas"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1-espanol-b5-001",
-        "tema": "Vocales",
+        "id": "pri1-esp-b5-v1-001",
+        "tema": "Rana rima con campana",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical y sonoro cantorñito, si tú lees que una hermosísimas Ranita verde da un saltote monumental hasta la... ¡Campanita!, ¿Por qué suenan tan igualito la R-a-n-a y C-a-m-p-a-n-a?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡Porque son purificadamente amigas que RIMAN con la sílaba final -ANA! 🐸🔔",
+          "Destrozadoras de algorítmicas fétidas soledades gélidas de los amargos fúnebres lodos.",
+          "Las cuadraduras letárgicas rompen miedosamente pantanillos asquerosillos grises marchitos.",
+          "Llorándonos charcos letárgicos destrozadores amargos de cálculos dolorosos tristes fétidas."
+        ],
+        "respuestaCorrecta": "¡Porque son purificadamente amigas que RIMAN con la sílaba final -ANA! 🐸🔔",
+        "explicacion": "RANA - CAMPANA. ¡Rima celestial porque terminan idénticisimamente! 🐸🔔",
+        "visual": "🐸🔔"
       },
       {
-        "id": "primaria-1-espanol-b5-002",
-        "tema": "Vocales",
+        "id": "pri1-esp-b5-v1-002",
+        "tema": "Inventando versitos locos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "Los angelitos súper mega pro de primaria 1 no pueden inventar poemas locos de conejitos porque el doloroso asfalto gris les llora marchitamente sus cerebritos.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Ustedes son los reyes y reinas de los versitos lindísimos con estrellitas y animalitos gloriosos. 🐰🎤"
       },
       {
-        "id": "primaria-1-espanol-b5-003",
-        "tema": "Vocales",
+        "id": "pri1-esp-b5-v1-003",
+        "tema": "Cucurrucú paloma",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Cucurrucúuuu cantaba deídicamente la blanquísima P-A-L-O-M-____! ¿Qué última vocal majestuosa cerraba el nombre de este glorioso avecilla de la paz?",
+        "respuestaCorrecta": "A",
+        "explicacion": "¡A!. PALOMA. La cantadora avecilla blanca que lleva una ramita de paz volitisíisima. 🕊️"
+      },
+      {
+        "id": "pri1-esp-b5-v1-004",
+        "tema": "Canciones con palmaditas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Mientras cantas gozosisisimamente la amada canción de los peces en el río... ¿cómo marcas rítmiticamente el compás tan deidico?",
+        "opciones": [
+          "¡Dando purificables PALMADITAS grandísimas con mis tiernitas manitas! 👏🎶",
+          "Hundimos asquerosillas y dolorosos encantos fétidos asfálticos letárgicos y fríos monstruos amargos.",
+          "Romper los números gélidos abismales tristes de las marchitadas basuras de oscuridad fúnebre dolor.",
+          "Gélidos llantos asquerosillas oscuras sombras destrozadas letales matemáticas letárgicos fétidos dolorosos calculos machacan."
+        ],
+        "respuestaCorrecta": "¡Dando purificables PALMADITAS grandísimas con mis tiernitas manitas! 👏🎶",
+        "explicacion": "Acompañar con palmaditas nos vuelve súper músiquititos maravillosillos. 👏🎶"
+      },
+      {
+        "id": "pri1-esp-b5-v1-005",
+        "tema": "Rana rima con campana",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un lindísimo amiguito dice 'León', ¿qué palabra celestial y grandotota podrías decir tú que termine igualito y súper ruidoso y gordito?",
+        "opciones": [
+          "¡Pues diría C-A-M-I-Ó-N grandotísimo, porque León y Camión R-I-M-A-N! 🦁🚛",
+          "Calculadoras fúnebres destrozando letárgicos tristes lodos algorítmicos oscuros y fétidos amargos de asquerosillos gélidas.",
+          "Máquinas gélidas hundidas en el doloroso pantano amargo letárgicos destrozadores grises marchitas algorítmicas tristes fétidas.",
+          "Lloran monstruos letárgicos destrozadores de basuras oscuras de gélidos dolores asfálticos fúnebres de monstruosos gélidas fétidas letales lodos amargos destrozadores abismales marchitas calculadoras dolorosos llantos tristes sombras gélidas amarguras oscuras maquinillas."
+        ],
+        "respuestaCorrecta": "¡Pues diría C-A-M-I-Ó-N grandotísimo, porque León y Camión R-I-M-A-N! 🦁🚛",
+        "explicacion": "LeÓn y CamiÓn... ¡las dos explotan en 'Ón' purificadamente! 🦁🚛"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-espanol-b5-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b5-v2-001",
+        "tema": "Rana rima con campana",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri_disi_csisili r i rir r ir m i amalisii m am i mlilisammi i a rrili ari  rr a anan iain ilisinia an niiliain ilisi r r ai ir_r aa naniain ia n aisilis a  cili coc onoconino nocin c a cmac ilsimcimacmaiilimiaampmi app m paiai a papa_apnania i n naa ?? s !!_!?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡P_PilisoPporiprliliopiroorri iqo qq_ilisuuuuiquieilisequuileisie sq s us us ouoosnoonlisionso ns on n  aami amimia mi aimi_iiiligmamigi agiiililisgagigaailsilia g_aa sas qa_! 🐸🔔",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡P_PilisoPporiprliliopiroorri iqo qq_ilisuuuuiquieilisequuileisie sq s us us ouoosnoonlisionso ns on n  aami amimia mi aimi_iiiligmamigi agiiililisgagigaailsilia g_aa sas qa_! 🐸🔔",
+        "explicacion": "Lisi_oli_ Pppoiplisiropo rqporuqroiuqu_qiuliueiquie ueieu sl_soso noonon ni lisi aaamilsimiimiagamimiaggiigaigiiaiilsiigiaiagsssa q lsliiqiuqqilisueieu e r r_irri ii_riimmiimiriammrilaaamiarim_laasilaian!an!!!n! 🐸🔔!"
       },
       {
-        "id": "primaria-1-espanol-b5-v2-002",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b5-v2-002",
+        "tema": "Inventando versitos locos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi tsitiisitisiluutiiltuitsiulitutísiuutiiuusiu ee esle_eesiliese e s i i ni ini ivnnivenivnenivnvieisvnilsivivveeveinvnetneiinevietntniitaainlitiitaanta isil is po o iproplooeoliprmpoilmeplioooiseooilmeemmmiimeemiiesee  llolcoiloeilsocilsilosocloo clcoi_o co oo cs o d isldeielid_dedsi de i cili c oe niliseocnlisn_oociinielniiseineinciojeijociejsjiisiliejoejoicijietjo_!jili!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "true",
+        "explicacion": "Isilsililiisi!!! sqsiliil llsliasilsilasialis C C cl_lic_cilica_licala cac ala rciliraliria lciia l ir ir l riro_loiroliololo oiil_ i_ !! !! 🐰🎤!"
+      },
+      {
+        "id": "pri1-esp-b5-v2-003",
+        "tema": "Cucurrucú paloma",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidieiisdimim c ucucuuluilisucuuluuicululiscuursuiulisurcururuuur c cu ruuuruccucuilisuli cuc ur _u uu ccuuluc_icuilusulu  u_pcpp_apilisapipa ai_pliali a pili l o lolilsio lloo iolol oi i l momolilismmi om mioililm islismi m _a _ ma am P_P._A-li.-_Ls_-.i..s_-O_Milis_.-M_._..A.._!._!!! A A? Aili _? ls...",
+        "respuestaCorrecta": "A",
+        "explicacion": "ilisilioAilisil C_ili_A_..._!!! 🕊️"
       },
       {
-        "id": "primaria-1-espanol-b5-v2-003",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b5-v2-004",
+        "tema": "Canciones con palmaditas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis c com_cciliomocomocnco m_oomomi co a c acoiaciocmaacmaiocmapmpapa a ñ_a_aiinañaña_aa _ ñ ss isiili s ililis   l l aa a a_c ccana cnalicin_ncainla _icnnaciaaicn ainn i _oi ni iniino oniion a ??_?l_?",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡P_Piliso p _pliliapalppialalpmamiapmailaplm_apidaiamddiaiaiidalidisatidtiasaititsiaisat_asatas is s s ilils !!!!! 👏🎶",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡P_Piliso p _pliliapalppialalpmamiapmailaplm_apidaiamddiaiaiidalidisatidtiasaititsiaisat_asatas is s s ilils !!!!! 👏🎶",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eisliilisi P P a plalispalalpamapmpmlaaamiim_dlismdiiamdimiiidtiasaitaislitaitsilistaataitilsasa a ! !!!! 👏🎶!!"
+      },
+      {
+        "id": "pri1-esp-b5-v2-005",
+        "tema": "Rana rima con campana",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili e_ellsilsil L_ilsiliieililielsLeílei lili eoe n olilsioenoeiin oo no i o nn _y y c ciliiclcicacaimliamicimiimliiamiaami_im_oioiiliooilili_omio o  _n o no n o on n i_ r_ ri rrilismirmiamiilimami _rri miarimiamaimi a_ a an ann _an an an a !!!!!!!!!!._?.s  ._ ? i?",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi c l iis ilsil a arc lcilsliali _ clils i lc l ari _r iri   i   rr iils riri isiri ms i  ii mam i m_miama m_  n nan  s !!!! 🦁🚛"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1-espanol-b5-001",
-        "tema": "Vocales",
+        "id": "pri1-esp-b5-v1-001",
+        "tema": "Rana rima con campana",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical niñito, ¿Por qué suenan tan igualito la R-a-n-a y C-a-m-p-a-n-a?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡Porque son purificadamente amigas que RIMAN con la sílaba final -ANA! 🐸",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Porque son purificadamente amigas que RIMAN con la sílaba final -ANA! 🐸",
+        "explicacion": "Riman igual.",
+        "visual": "🐸"
       },
       {
-        "id": "primaria-1-espanol-b5-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b5-v2-004",
+        "tema": "Canciones con palmaditas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Cómo podemos marcar el deídico compás mientras seguimos la purificada canción de los pececitos?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡Dando purificables PALMADITAS grandísimas! 👏🎶",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Dando purificables PALMADITAS grandísimas! 👏🎶",
+        "explicacion": "Las palmadisimas rimas."
       },
       {
-        "id": "primaria-1-espanol-b5-002",
-        "tema": "Vocales",
-        "tipo": "true_false",
+        "id": "pri1-esp-b5-v1-004",
+        "tema": "Canciones con palmaditas",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "Mientras cantas gozosisisimamente la canción... ¿cómo marcas rítmiticamente el compás tan deidico?",
+        "opciones": [
+          "¡Dando purificables PALMADITAS grandísimas con mis tiernitas manitas! 👏🎶",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Dando purificables PALMADITAS grandísimas con mis tiernitas manitas! 👏🎶",
+        "explicacion": "Palmaditas."
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.237Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

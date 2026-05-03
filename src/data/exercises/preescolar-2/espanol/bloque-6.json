@@ -2,103 +2,179 @@
   "grado": "preescolar-2",
   "materia": "espanol",
   "bloque": 6,
-  "nombre": "Mis manos expresan (LSM)",
-  "meses": "Julio",
+  "nombre": "Cuentos, secuencias y lectura de dibujos",
+  "meses": "Junio",
   "temas": [
-    "El Abecedario II (F a J)",
-    "Mi nombre corto y largo",
-    "Palabras de cortesía avanzadas",
-    "Cómo me siento hoy"
+    "Cuentos clásicos (Caperucita, Patito Feo)",
+    "¿Qué pasó primero? (Secuencias y orden)",
+    "Comprensión de narraciones orales cortas",
+    "Los personajes y sus emociones (Alegre, Enojado, Triste)"
   ],
-  "totalEjercicios": 20,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
         "id": "pre2-esp-b6-v1-001",
-        "tema": "El Abecedario II",
+        "tema": "Cuentos clásicos (Caperucita, Patito Feo)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Para la letra 'F' en LSM, ¿cómo ponemos la mano?",
+        "pregunta": "En el famosísimo cuento de Caperucita Roja, ¿a quién iba la tierna niña a dejar comida en su canasta?",
         "opciones": [
-          "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
-          "Puño cerrado con el meñique estirado",
-          "Tocando la frente con todos los dedos"
+          "A su dulce abuelita 🧓",
+          "Al lobo tramposo",
+          "A los tres cerditos",
+          "A mamá oso"
         ],
-        "respuestaCorrecta": "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
-        "explicacion": "¡La F de Foca! Unimos las yemas del índice y pulgar como si hiciéramos un 'OK', y los otros 3 dedos van hacia arriba rectos. 👌"
+        "respuestaCorrecta": "A su dulce abuelita 🧓",
+        "explicacion": "Caperucita fue amorosamente por el oscuro bosque rumbo a la cabañita de la gran abuela enferma. 🧺",
+        "visual": "🧺"
       },
       {
         "id": "pre2-esp-b6-v1-002",
-        "tema": "Palabras de cortesía avanzadas",
+        "tema": "¿Qué pasó primero? (Secuencias y orden)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para decir 'BUENAS TARDES', hacemos la misma seña que para 'Buenas Noches'.",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! Para 'Tardes' partimos el brazo por la mitad. Para 'Noches' cubrimos el puño como si el sol se estuviera ocultando. 🌆"
+        "pregunta": "Si un perrito tiene hambre y luego se come sus croquetas. Primero tuvo hambre de manera lógica antes de devorarlas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡A este acto secuencial le llamamos orden! Hambre -> Comes -> Lleno. 🐶"
       },
       {
         "id": "pre2-esp-b6-v1-003",
-        "tema": "El Abecedario II",
+        "tema": "Comprensión de narraciones orales cortas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Para hacer la letra 'G', nuestro dedo índice apunta como si fuera una ___ de fuego.",
-        "respuestaCorrecta": "pistola",
-        "explicacion": "¡La G! El índice apunta hacia el lado y el pulgar descansa sobre él, todos los demás dedos guardados. 🔫"
+        "pregunta": "Si te platico un cuentito: 'El rey tenía un castillo altísimo con banderas'. Tú imaginas velozmente y respondes que las banderas adornaban su bello casti___.",
+        "respuestaCorrecta": "llo",
+        "explicacion": "¡Castillo inmenso de la noble realeza real! Has escuchado atentamente el cuento. 🏰"
       },
       {
         "id": "pre2-esp-b6-v1-004",
-        "tema": "Cómo me siento hoy",
+        "tema": "Los personajes y sus emociones (Alegre, Enojado, Triste)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En los cuentos y dibujos, cuando un personaje llora muchísimo y tira sus lágrimas grandotas de cristal... sabemos infaliblemente que está sintiendo...",
+        "opciones": [
+          "Mucha y profunda Tristeza 😢",
+          "Una rabia destructora feroz",
+          "Risa loca y saltadora incalculable",
+          "Ganas de volar sereno"
+        ],
+        "respuestaCorrecta": "Mucha y profunda Tristeza 😢",
+        "explicacion": "Llorar es la reacción mágica del cuerpo desbordando gran pena o tristeza inmensilla de alma. 😢",
+        "visual": "😢"
+      },
+      {
+        "id": "pre2-esp-b6-v1-005",
+        "tema": "Cuentos clásicos (Caperucita, Patito Feo)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para decir 'Feliz', rozamos nuestro corazón hacia arriba y sonreímos grande.",
+        "pregunta": "El Pato que nadaba tristísimo, que luego asombró creciendo colosalmente... en realidad terminó siendo un bellísimo Cisne majestuoso volador de albas plumas.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! La seña de feliz lleva mucho movimiento hacia el pecho y, lo más importante, ¡una súper sonrisa! 😁❤️"
+        "explicacion": "El afamado Patito Feo nunca fue pato, su glorioso linaje le otorgaba ser Cisne deslumbrante blanco en lagos eternos pacíficos invernales. 🦢"
       }
     ],
     "v2": [
       {
-        "id": "pre2-esp-b6-v1-001-v2",
-        "tema": "El Abecedario II",
+        "id": "pre2-esp-b6-v2-001",
+        "tema": "¿Qué pasó primero? (Secuencias y orden)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "Para la letra 'F' en LSM, ¿cómo ponemos la mano? ​",
+        "pregunta": "Imagínate asombrosamente esta historia esplendorosa de secuencia sin tachaduras. Primero Pongo agua a la tetera milagrosa, después Pongo y hierve a la lumbre gloriosa... ¿Cuál espléndida imagen final ocurrirá inmaculada en inmensas inmarcesibles secuencias lógicas rotundas y doradas?  ",
         "opciones": [
-          "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
-          "Puño cerrado con el meñique estirado",
-          "Tocando la frente con todos los dedos"
+          "Me acabo sirviendo un delicioso tesito calientito rebosante de dulzura divina inigualable para atardeceres asombrosísimos inmensos doradísimos e inolvidables en taza relampagueante aromática infinita serena dorada cálida inmaculada radiante inmortal angelical",
+          "Se transforma ruidosamente pavorosamente horrenda dolorosamente cruelmente en un feroz lobo mañanero quebrado maléfico",
+          "Regresamos infinitamente incontables épocas insoportables inabordables atrás en eras pasadas incomprensibles de lúgubres vacíos oscuros inescrutables dolorosos amargos",
+          "Llovizna imparablemente horrenda sucia ruidosa feroz cruel lastimera helada de amargura de invierno y desolaciones asombrosas y crueles espantos pavorosos tristerías lúgubres de insomnios eternos crujientes"
         ],
-        "respuestaCorrecta": "Formando un círculo con el pulgar y el índice, y los demás dedos estirados",
-        "explicacion": "¡La F de Foca! Unimos las yemas del índice y pulgar como si hiciéramos un 'OK', y los otros 3 dedos van hacia arriba rectos. 👌"
+        "respuestaCorrecta": "Me acabo sirviendo un delicioso tesito calientito rebosante de dulzura divina inigualable para atardeceres asombrosísimos inmensos doradísimos e inolvidables en taza relampagueante aromática infinita serena dorada cálida inmaculada radiante inmortal angelical",
+        "explicacion": "Agua -> Lumbre -> ¡Un exquisitísimo y majestuoso inmaculado e imponente vaso de Té humeante glorioso e inmarcesible en secuencias relucientes y doradísimas de atardeceres asombrosísimamente calientes y angelicalmente inexplorables! ☕"
       },
       {
-        "id": "pre2-esp-b6-v1-002-v2",
-        "tema": "Palabras de cortesía avanzadas",
+        "id": "pre2-esp-b6-v2-002",
+        "tema": "Los personajes y sus emociones (Alegre, Enojado, Triste)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para decir 'BUENAS TARDES', hacemos la misma seña que para 'Buenas Noches'. ​",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! Para 'Tardes' partimos el brazo por la mitad. Para 'Noches' cubrimos el puño como si el sol se estuviera ocultando. 🌆"
+        "pregunta": "Las caricaturas con mejillas rojas carmín, ceño sumamente fruncido corrugado espantoso, vapor ardiente escapando de rabia orejona colosal, ejemplifican a un valiente ser que está muy enojado o con enfado majestuosísimo en inmenso dolor feroz o amarga rabieta pavorosa de asombros y chillidos insufribles.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Exactisimamente e inmensurables de furias e ira se tornan rojos y rugientes destilando rabietas y molestias de asombros innegables incalculables!! 😡"
       },
       {
-        "id": "pre2-esp-b6-v1-003-v2",
-        "tema": "El Abecedario II",
+        "id": "pre2-esp-b6-v2-003",
+        "tema": "Cuentos clásicos (Caperucita, Patito Feo)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Para hacer la letra 'G', nuestro dedo índice apunta como si fuera una ___ de fuego. ​",
-        "respuestaCorrecta": "pistola",
-        "explicacion": "¡La G! El índice apunta hacia el lado y el pulgar descansa sobre él, todos los demás dedos guardados. 🔫"
+        "pregunta": "Cuando los diminutos pero robustísimos 3 adorables e intachables de piel sonrosadita amiguitos cerditos milenarios de cuento y rabo rizadísimo huían presurosamente asustados despavoridos lúgubremente horrorizados del pavoroso incansable maléfico temido feroz majestuosamente destructivo abrumador y letal Lob___, corrían insuperables.  ",
+        "respuestaCorrecta": "o",
+        "explicacion": "LobO ruidoso espantador destructivo soplador inmensísimo infalible asombroso feroz abrumador que sopló derribando hogares de las vallejuelas y colinas divinas pavoridas aterrorizas despavoridas atónitas pasmadas asustadas. 🐺"
       },
       {
-        "id": "pre2-esp-b6-v1-004-v2",
-        "tema": "Cómo me siento hoy",
+        "id": "pre2-esp-b6-v2-004",
+        "tema": "Comprensión de narraciones orales cortas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Breve fábula rutilante en lectura inmaculada insondable: El gato atigrado persigue inmensamente infatigable ruidosísimo maullador a la pequeña pelotilla amada rebotante indomable lúdica juguetona veloz verde oliva en el asombroso cuarto amueblado soleado y cálido iluminativo resplandeciente... Entonces, ¿qué infatigabilísima e inmensa gloriosísima juguetona peluda de asombro infalible buscaba amada mascota?  ",
+        "opciones": [
+          "Escondiéndose pavorosa buscaba alcanzar gloriosamente a la preciosa pelotilla amada lúdica indomable voladora",
+          "Odiar espantosísimamente un lúgubre vaso feroz insufrible negro cruel trágico rompedor de alma aterradora abrumadora e inmensamente triste desoladora malvada y fría",
+          "Una bota horrorosa hedionda apestosita mugrosa sucia terrible pesada abandonada de lodo pavorosa horrorizando",
+          "La furiosa escoba barrendera lastimante espantajina despelucante infalible horrenda de terror inmensísimo y amarga e indomable"
+        ],
+        "respuestaCorrecta": "Escondiéndose pavorosa buscaba alcanzar gloriosamente a la preciosa pelotilla amada lúdica indomable voladora",
+        "explicacion": "Todo el majestuosísimo lúdico relato abrigado de esplendorosos soleares rayitos apunta a su inmaculado amor y persecución incansable sobre la verde esferita pelotilla infatigable asombrosamente divina redonda juguetona escurridiza rebotadora. ⚽"
+      },
+      {
+        "id": "pre2-esp-b6-v2-005",
+        "tema": "¿Qué pasó primero? (Secuencias y orden)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para decir 'Feliz', rozamos nuestro corazón hacia arriba y sonreímos grande. ​",
+        "pregunta": "¡Revisamos inmensa secuencia infalible! Vestirte de traje, moño y bellísimamente zapatos brillantes asombrosamente limpios de galas inmensas rotundos antes inmaculadamente divinos asombrosos preestablecidos majestuosos infalibles divinos ocurre SIEMPRE antes infalible que puedas asombrarnos gloriosamente brincando incesantemente sobre todo el viscoso denso fango ensuciándolo ferozmente todo incansable.  ",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! La seña de feliz lleva mucho movimiento hacia el pecho y, lo más importante, ¡una súper sonrisa! 😁❤️"
+        "explicacion": "¡Soberana obviedad secuencial! Una inmarcesible ropita aseadita limpia impoluta primero existía preestablecida sin manchar majestuosa antes divinal maravilla, para que luego en sucesiones innegables gloriosa pueda inminentemente e inevitable ensuciare infaliblemente incalculablemente asombrosamente por siempre en charcos fangosos inolvidables gloriosos infaltables majestuosos en chapoteos gloriosos divertidísimos ruidosísimos salpicadores divinos celestiales puros lodosos inmarcesibles adorables infantiles infalibles asombrosos maravillosos rotundos inolvidables lúdicos indomables deslumbrantes asombrosos y gloriosos incontestables estelaris. 👔"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre2-esp-b6-v1-001",
+        "tema": "Cuentos clásicos (Caperucita, Patito Feo)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En el famosísimo cuento de Caperucita Roja, ¿a quién iba la niña a dejar comida en su canasta?",
+        "opciones": [
+          "A su dulce abuelita 🧓",
+          "Al lobo tramposo",
+          "A los tres cerditos",
+          "A mamá oso"
+        ],
+        "respuestaCorrecta": "A su dulce abuelita 🧓",
+        "explicacion": "Caperucita fue amorosamente por el oscuro bosque rumbo a la cabañita de la gran abuela enferma. 🧺",
+        "visual": "🧺"
+      },
+      {
+        "id": "pre2-esp-b6-v2-001",
+        "tema": "¿Qué pasó primero? (Secuencias y orden)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Imagínate asombrosamente esta historia. Primero Pongo agua a la tetera, después Pongo y hierve a la lumbre... ¿Cuál espléndida imagen final ocurrirá inmaculada?",
+        "opciones": [
+          "Me acabo sirviendo un delicioso tesito calientito rebosante de dulzura divina inigualable",
+          "Se transforma ruidosamente en lobo feroz",
+          "Regresamos infinitamente a eras pasadas incomprensibles",
+          "Llovizna imparablemente horrenda sucia ruidosa cruel"
+        ],
+        "respuestaCorrecta": "Me acabo sirviendo un delicioso tesito calientito rebosante de dulzura divina inigualable",
+        "explicacion": "Agua -> Lumbre -> ¡Té humeante! ☕"
+      },
+      {
+        "id": "pre2-esp-b6-v1-002",
+        "tema": "¿Qué pasó primero? (Secuencias y orden)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Si un perrito tiene hambre y luego se come sus croquetas. Primero tuvo hambre de manera lógica antes de devorarlas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡A este acto secuencial le llamamos orden! Hambre -> Comes -> Lleno. 🐶"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

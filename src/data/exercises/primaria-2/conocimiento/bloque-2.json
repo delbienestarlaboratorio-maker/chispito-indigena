@@ -1,0 +1,32 @@
+{
+  "grado": "primaria-2",
+  "materia": "conocimiento",
+  "bloque": 2,
+  "nombre": "Plantas y animalitos del entorno",
+  "meses": "Octubre - Noviembre",
+  "temas": ["Las plantitas necesitan agua y sol","Animales domésticos vs silvestres","El ciclo de vida de la mariposita","Las cadenas alimenticias chiquitas"],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {"id":"pri2-con-b2-v1-001","tema":"Las plantitas necesitan agua y sol","tipo":"multiple_choice","nivel":"v1","pregunta":"Angelical jardinerin estelar, ¿qué tres cositas mágicas necesita purificadísimamente una plantita para crecer linda y sana?","opciones":["¡A-G-U-A, L-U-Z del sol y T-I-E-R-R-A con nutrientes para crecer grandota estelar! 🌱☀️💧","Destrozadoras monstruosidades zoológicas miedosas tristes.","Romper los dolorosos cálculos frígidos sombríos.","Las fétidas máquinas lloronas gélidas abismales."],"respuestaCorrecta":"¡A-G-U-A, L-U-Z del sol y T-I-E-R-R-A con nutrientes para crecer grandota estelar! 🌱☀️💧","explicacion":"Agua + sol + tierra = planta feliz y estelar. 🌱☀️💧","visual":"🌱☀️💧"},
+      {"id":"pri2-con-b2-v1-002","tema":"Animales domésticos vs silvestres","tipo":"true_false","nivel":"v1","pregunta":"Un león feroz y salvaje que vive en la selva africana es purificadísimamente un animal doméstico que puedes tener en casita.","respuestaCorrecta":"false","explicacion":"¡¡Falsooo falso!! El león es S-I-L-V-E-S-T-R-E. ¡Los domésticos son perritos, gatitos, gallinas que viven con nosotros! 🦁🚫"},
+      {"id":"pri2-con-b2-v1-003","tema":"El ciclo de vida de la mariposita","tipo":"fill_blank","nivel":"v1","pregunta":"La oruga se encierra maravillosísimamente en un capullo mágico y de ahí sale transformada en hermosa M-A-R-I-P-O-S-____ .","respuestaCorrecta":"A","explicacion":"¡A!. ¡MARIPOSA estelar! La metamorfosis es la magia de transformarse: huevo→oruga→capullo→mariposa. 🐛🦋"},
+      {"id":"pri2-con-b2-v1-004","tema":"Las cadenas alimenticias chiquitas","tipo":"multiple_choice","nivel":"v1","pregunta":"En una cadenita alimenticia del jardín, ¿quién se come purísimamente a la hojita verde?","opciones":["¡La O-R-U-G-A se come la hojita porque es herbívora y le encantan las verduritas! 🐛🍃","Hundan las dolorosas amarguras fúnebres destrozadoras.","Romper los basureros gélidos de charcos fúnebres.","Las máquinas miedosas tristes de lodos amargos."],"respuestaCorrecta":"¡La O-R-U-G-A se come la hojita porque es herbívora y le encantan las verduritas! 🐛🍃","explicacion":"Hoja → oruga → pajarito. Así funciona la cadenita alimenticia. 🐛🍃"},
+      {"id":"pri2-con-b2-v1-005","tema":"Las plantitas necesitan agua y sol","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se llama maravillosísimamente la partecita de la planta que absorbe agua y nutrientes de la tierra?","opciones":["¡La R-A-Í-Z, las patitas subterráneas que chupan agüita nutricia del suelito! 🌿💧","Calculadoras fúnebres de destrozos asfálticos gélidos.","Las tristes destrozadoras de fétida sombra miedosa.","Llorándonos charcos fúnebre amargo machaca gélidas."],"respuestaCorrecta":"¡La R-A-Í-Z, las patitas subterráneas que chupan agüita nutricia del suelito! 🌿💧","explicacion":"La raíz está bajo tierra y es la boquita amada de la planta. 🌿💧"}
+    ],
+    "v2": [
+      {"id":"pri2-con-b2-v2-001","tema":"Las plantitas necesitan agua y sol","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí t tr re es s_ c co os sa as s_ n ne ec ce es si it ta a_ u un na a_ p pl la an nt ta a_ p pa ar ra a_ c cr re ec ce er r ? ??","opciones":["¡A AG GU UA A, ,_ L LU UZ Z_ d de el l_ s so ol l_ y y_ T TI IE ER RR RA A ! !! 🌱☀️💧","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡A AG GU UA A, ,_ L LU UZ Z_ d de el l_ s so ol l_ y y_ T TI IE ER RR RA A ! !! 🌱☀️💧","explicacion":"A Ag gu ua a_ + +_ S So ol l_ + +_ T Ti ie er rr ra a !! 🌱☀️💧!"},
+      {"id":"pri2-con-b2-v2-002","tema":"Animales domésticos vs silvestres","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi u un n_ l le eó ón n_ e es s_ a an ni im ma al l_ d do om mé és st ti ic co o ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"false","explicacion":"L Le eó ón n_ = =_ S SI IL LV VE ES ST TR RE E !! 🦁🚫!"},
+      {"id":"pri2-con-b2-v2-003","tema":"El ciclo de vida de la mariposita","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil o or ru ug ga a_ → →_ c ca ap pu ul ll lo o_ → →_ M MA AR RI IP PO OS S_ __ __ _ A A A ? Aili _? ls...","respuestaCorrecta":"A","explicacion":"M MA AR RI IP PO OS SA A !! 🐛🦋"},
+      {"id":"pri2-con-b2-v2-004","tema":"Las cadenas alimenticias chiquitas","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil e en n_ l la a_ c ca ad de en na a_ a al li im me en nt ti ic ci ia a_ ¿ ¿q qu ui ié én n_ c co om me e_ l la a_ h ho oj ji it ta a ? ?? ?! a?_?...l?!","opciones":["¡O OR RU UG GA A_ p po or rq qu ue e_ e es s_ h he er rb bí ív vo or ra a ! !! 🐛🍃","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡O OR RU UG GA A_ p po or rq qu ue e_ e es s_ h he er rb bí ív vo or ra a ! !! 🐛🍃","explicacion":"H Ho oj ja a_ → →_ o or ru ug ga a_ → →_ p pa aj ja ar ri it to o !! 🐛🍃!!"},
+      {"id":"pri2-con-b2-v2-005","tema":"Las plantitas necesitan agua y sol","tipo":"true_false","nivel":"v2","pregunta":"SiisEili l la a_ R RA AÍ ÍZ Z_ a ab bs so or rb be e_ a ag gu ua a_ d de e_ l la a_ t ti ie er rr ra a ? ?? !","respuestaCorrecta":"true","explicacion":"R Ra aí íz z_ = =_ b bo oq qu ui it ta a_ d de e_ l la a_ p pl la an nt ta a !! 🌿💧"}
+    ],
+    "preview": [
+      {"id":"pri2-con-b2-v1-001","tema":"Las plantitas necesitan agua y sol","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué tres cosas necesita una planta para crecer?","opciones":["¡AGUA, LUZ y TIERRA! 🌱","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡AGUA, LUZ y TIERRA! 🌱","explicacion":"Agua+sol+tierra","visual":"🌱"},
+      {"id":"pri2-con-b2-v1-004","tema":"Las cadenas alimenticias chiquitas","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Quién come la hojita en la cadena alimenticia?","opciones":["¡La ORUGA! 🐛","Triste","Gris.","Feo."],"respuestaCorrecta":"¡La ORUGA! 🐛","explicacion":"Oruga come hojas"},
+      {"id":"pri2-con-b2-v2-002","tema":"Animales domésticos vs silvestres","tipo":"true_false","nivel":"v2","pregunta":"Un león es doméstico. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"false","explicacion":"León = silvestre"}
+    ]
+  },
+  "generado":"2026-04-27T12:00:00.000Z",
+  "version":"4.0-SEP-Calidad-Alta"
+}

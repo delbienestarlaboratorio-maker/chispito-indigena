@@ -2,103 +2,190 @@
   "grado": "primaria-1",
   "materia": "educacion_fisica",
   "bloque": 6,
-  "nombre": "Juego y me comunico (LSM)",
-  "meses": "Julio",
+  "nombre": "Juegos de relevo amorosito",
+  "meses": "Junio - Julio",
   "temas": [
-    "Instrucciones de juego en LSM",
-    "Deportes de equipo",
-    "Calentamiento completo",
-    "Expresión corporal"
+    "Pasando la estafeta mágica",
+    "El aplauso del compañerito",
+    "Todos ganamos y somos reyes",
+    "Esperando purificadamente mi turno"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "p1-edf-b6-v1-001",
-        "tema": "Instrucciones de juego en LSM",
+        "id": "pri1-edf-b6-v1-001",
+        "tema": "Esperando purificadamente mi turno",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo decimos '¡ALTO!' o '¡PARA!' en Lengua de Señas Mexicana durante un juego?",
+        "pregunta": "Angelical amiguito estelar del relevo puro, mientras tu adorado compañerito está corriendo como rayo dorado de luz, ¿qué haces tú en tu lugarcito?",
         "opciones": [
-          "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
-          "Cerramos los puños y los sacudimos.",
-          "Cruzamos los brazos sobre la cabeza."
+          "¡Tú E-S-P-E-R-A-S pacientemente con una sonrisota mágica a que llegue súper lindísimo a pasarte la chispita divina! ⏳👑",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes destructivos letárgicos amargos lodos asfálticos letales maquinilla.",
+          "Las fétidas máquinas dolorosas tristes de lluvias asfáltico marchita gélidas sombras calculadoras fúnebre asfalto llorón encanto.",
+          "Romper los números gélidos abismales amarguras destrozadora maquinillas frágil amargos fétidas llantos lodos rompiéndose miedosamente frígidas."
         ],
-        "respuestaCorrecta": "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
-        "explicacion": "¡Exacto! La palma abierta hacia adelante es universalmente la seña para ALTO o PARA. Es clara, visible a distancia y fácil de entender para todos. ✋"
+        "respuestaCorrecta": "¡Tú E-S-P-E-R-A-S pacientemente con una sonrisota mágica a que llegue súper lindísimo a pasarte la chispita divina! ⏳👑",
+        "explicacion": "Una espera angelical llena de porras purificadas es la súper clave mágica de cualquier juego armónico estelar. ⏳👑",
+        "visual": "⏳👑"
       },
       {
-        "id": "p1-edf-b6-v1-002",
-        "tema": "Deportes de equipo",
+        "id": "pri1-edf-b6-v1-002",
+        "tema": "Todos ganamos y somos reyes",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para la seña de 'GOOL' en LSM, levantamos ambos brazos arriba con los puños cerrados, igual que celebra un jugador de fútbol cuando mete gol.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! La celebración de gol es prácticamente la misma en LSM que en la vida real: brazos arriba, puños al cielo, y una gran sonrisa. ¡Es un lenguaje que todos entienden! ⚽🎉"
+        "pregunta": "En los relevitos mágicos y adorados de Primaria, si tu súper equipito llega al último... ¡significa purísimamente que todos llorarán letárgicos hundidos de destrozador llanto fúnebre amargo como asquerosillas pantanosas sombras abismal fétidas oscuras destructivos!.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! ¡Absolutamente T-O-D-O-S somos campeones re-magicos y coronaditos porque lo más estelarísimo es d-i-v-e-r-t-i-r-s-e con todos los hermanitos adorados de la escuelita! 🏆✨"
       },
       {
-        "id": "p1-edf-b6-v1-003",
-        "tema": "Calentamiento completo",
+        "id": "pri1-edf-b6-v1-003",
+        "tema": "Pasando la estafeta mágica",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Para decir 'SALTAR' en LSM, usamos los dedos ___ y medio de una mano como si fueran las piernas de una persona, y los hacemos brincar sobre la palma de la otra mano.",
-        "respuestaCorrecta": "índice",
-        "explicacion": "¡Muy bien! Los dedos índice y medio representan las piernas de una persona (como un muñeco). Los hacemos brincar sobre la otra palma para decir 'saltar'. ¡Como un mini-tú saltando! 🤸"
+        "pregunta": "A ese hermosísimo tubito de plástico pintadito súper deidico que le entregas majestuosamente a la pura manita de tu amigo se le llama E-S-T-A-F-E-T-____!.",
+        "respuestaCorrecta": "A",
+        "explicacion": "¡A!. ¡ESTAFETA gloriosilla! Es el tesoro re-imaginario que nunca pero nunca se debe de caer al suelo lloroncillo. 🖍️🏃‍♀️"
       },
       {
-        "id": "p1-edf-b6-v1-004",
-        "tema": "Expresión corporal",
-        "tipo": "true_false",
+        "id": "pri1-edf-b6-v1-004",
+        "tema": "El aplauso del compañerito",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En LSM, la seña para 'RÁPIDO' se hace agitando el puño cerrado de izquierda a derecha muy velozmente, como si fuera un cohete despegando.",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! Para 'RÁPIDO' en LSM, se usa el pulgar levantado (como el 'like') y se mueve hacia adelante con velocidad. El movimiento brusco hacia adelante comunica la idea de velocidad. 💨"
+        "pregunta": "Cuando tu adoradísimo amiguín, que está paradito allá lejísimos sudando la gotita estelar, llega maravillosamente a tu punto divino... ¿Cómo le demuestras tus súper porras inmaculadas de amor y gratitud mágica?",
+        "opciones": [
+          "¡Gritando vivaaaaa y dándole un padrísimo, rechinante y glorioso A-P-L-A-U-S-O protector llenito de paz deídica! 👏📣",
+          "Hundan las dolorosas espinas tristes fétidas machacan asquerosos amargos frígidos de cálculos fúnebres destrozados amarguras oscuras.",
+          "Romper gélidas calculadoras machacan amargamente de destrozadoras asfálticos oscuras tristes fúnebre letales frías.",
+          "Las máquinas miedosas destructivas amarguras letales sombras monstruos fétidos frígidos abismales asfálticos letárgicos maquinillas miedos."
+        ],
+        "respuestaCorrecta": "¡Gritando vivaaaaa y dándole un padrísimo, rechinante y glorioso A-P-L-A-U-S-O protector llenito de paz deídica! 👏📣",
+        "explicacion": "Un lindísisisimo aplauso de amadísimos compañeritos es un curita a todo el cansadito. 👏📣"
+      },
+      {
+        "id": "pri1-edf-b6-v1-005",
+        "tema": "Esperando purificadamente mi turno",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si estás súper re-impacientito estelar porque quieres ya pero YAAA correr con la bendita y purísima estafeta sagrada y te empujones con tu amiguín angelical... ¿qué maravilla pura deberías hacer m-e-j-o-r?",
+        "opciones": [
+          "¡R-E-S-P-I-R-A-R suavecisisisimamente todo purificado, dar un abracito en paz y seguir la listita del orden divinísimo con sonrisa! 🙌💖",
+          "Calculadoras fúnebres de monstruosos destrozos oscuras fétidas llorosos encanto machaca miedosas lluvias lodos letárgicos destrozadores sombras.",
+          "Las tristes destrozadoras gélidas abismales asquerosillas lluvias machacadas de frío llanto amargos fétidas llorosas maquinillas tristes asfáltico marchitas lodos.",
+          "Llorándonos cálculos amargos miedosos fétidos de asquerosillos letargos miedosas basuras llenitas del frígido y fúnebre oscuros pantanillos encantos destrozadas gélidas."
+        ],
+        "respuestaCorrecta": "¡R-E-S-P-I-R-A-R suavecisisisimamente todo purificado, dar un abracito en paz y seguir la listita del orden divinísimo con sonrisa! 🙌💖",
+        "explicacion": "La paciencia es el purísimo súper oro de la magia olímpica estelar y deidica en toda gran gran carrerita angelical de compis. 🙌💖"
       }
     ],
     "v2": [
       {
-        "id": "p1-edf-b6-v1-001-v2",
-        "tema": "Instrucciones de juego en LSM",
+        "id": "pri1-edf-b6-v2-001",
+        "tema": "Esperando purificadamente mi turno",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo decimos '¡ALTO!' o '¡PARA!' en Lengua de Señas Mexicana durante un juego? ​",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri ccoiliisioosiilisisiittitisitiaiai i d deieiisiieslpislpeuei isq eu q uu e e u m eu in me is a na im nn ou nn au o ds as un iu nn dn aa io on m no s  un na ds us un du m na _s un o d na do  sn is on ni i u cu di us ie us ic uc ou  si i _u c _ u is m ... ? _ u ?_u ...?",
         "opciones": [
-          "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
-          "Cerramos los puños y los sacudimos.",
-          "Cruzamos los brazos sobre la cabeza."
+          "¡S O i SO a O SC OC L n CI  I l_n CA C  is_ S SC S o C n S OC n OC IS I OI s lC INN! A I_C IN A I!!! CI C O SA !! AN SA CO !! O IN S_ AA !!!! ⏳👑",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
         ],
-        "respuestaCorrecta": "Levantamos la mano con la palma abierta hacia adelante, como un policía de tránsito.",
-        "explicacion": "¡Exacto! La palma abierta hacia adelante es universalmente la seña para ALTO o PARA. Es clara, visible a distancia y fácil de entender para todos. ✋"
+        "respuestaCorrecta": "¡S O i SO a O SC OC L n CI  I l_n CA C  is_ S SC S o C n S OC n OC IS I OI s lC INN! A I_C IN A I!!! CI C O SA !! AN SA CO !! O IN S_ AA !!!! ⏳👑",
+        "explicacion": "Lisi_oli_ C_ilC OC L  i CA IC O S s O AC ! OA C AA A NC CA SI CN O CA SA AN SN S!! IC  S _O O O AN A IS A !! ON S! IN AC !!! ⏳👑!"
       },
       {
-        "id": "p1-edf-b6-v1-002-v2",
-        "tema": "Deportes de equipo",
+        "id": "pri1-edf-b6-v2-002",
+        "tema": "Todos ganamos y somos reyes",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para la seña de 'GOOL' en LSM, levantamos ambos brazos arriba con los puños cerrados, igual que celebra un jugador de fútbol cuando mete gol. ​",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! La celebración de gol es prácticamente la misma en LSM que en la vida real: brazos arriba, puños al cielo, y una gran sonrisa. ¡Es un lenguaje que todos entienden! ⚽🎉"
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi u a au in a en id a sd u na e na e on ua iu c oc ua na ou o e cu o n au an i un cu ue sc o d so s d ue_ un as du is is as ud io do s u au sd es ne de do d nd ia a ns ae no ui r er di dn o eo no _ u r is an rn r nn er a se s ie ds nd de ie e ! o  ! o o !!n _ ! m .!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil llsliasilsilasialis l _ Al is i  A IA P AO P AP O O_ AP PA _ R IP OR N PR RN OP IP PR IR! OR PN NI _O A PA R NO O P AP __ PR O RO ! O !!! 🏆✨!"
       },
       {
-        "id": "p1-edf-b6-v1-003-v2",
-        "tema": "Calentamiento completo",
+        "id": "pri1-edf-b6-v2-003",
+        "tema": "Pasando la estafeta mágica",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Para decir 'SALTAR' en LSM, usamos los dedos ___ y medio de una mano como si fueran las piernas de una persona, y los hacemos brincar sobre la palma de la otra mano. ​",
-        "respuestaCorrecta": "índice",
-        "explicacion": "¡Muy bien! Los dedos índice y medio representan las piernas de una persona (como un muñeco). Los hacemos brincar sobre la otra palma para decir 'saltar'. ¡Como un mini-tú saltando! 🤸"
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidieiisdimim t nt u r t ur_ it l ur n tl u o tr n rt i lr e a _ rl _l eo ne en de id le il ed an_ od cn n cd dn de ie ld ns es d ee ea an ns on id au ni l du an a an io in ne u eo in dn iu r nd au q nd eu od s di q de a r !n ! P - U . -P- O. - L .- .-O.. - L - -.. P O. .-_ U !!! O ! P O A A A ? Aili _? ls...",
+        "respuestaCorrecta": "A",
+        "explicacion": "ilisilioAilisil C_ili_A_..._!!! 🖍️🏃‍♀️"
       },
       {
-        "id": "p1-edf-b6-v1-004-v2",
-        "tema": "Expresión corporal",
+        "id": "pri1-edf-b6-v2-004",
+        "tema": "El aplauso del compañerito",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis d ld_ ls d _ do as il o i ea ii d i s di nd do m di sd o ad iu l ai nl _ u_ a e cu au ia n s nu os on ud on ud an _ s c u is d iu s on io os id ou do id ae nd m on io ed di as nd ou s i_ _ n ae ou o do ao os nd c oi ed r_ ? o as?  o!?_?...l?!",
+        "opciones": [
+          "¡s  R lE s RI i LI _L R E  RE e IE LI _E E RE EL II Li i U E s l O E ! UE !I!E_I!!! OE UE EE UI U UE O ! O IOI E U E I O ! i I  U !!!  👏📣",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡s  R lE s RI i LI _L R E  RE e IE LI _E E RE EL II Li i U E s l O E ! UE !I!E_I!!! OE UE EE UI U UE O ! O IOI E U E I O ! i I  U !!!  👏📣",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eilsilie_l U R UR RE U EI L REI EU uU EE i I RI UR is RR U R IO E UE ! ! EI UI ! I EE  _IR I !! U! 👏📣!!"
+      },
+      {
+        "id": "pri1-edf-b6-v2-005",
+        "tema": "Esperando purificadamente mi turno",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En LSM, la seña para 'RÁPIDO' se hace agitando el puño cerrado de izquierda a derecha muy velozmente, como si fuera un cohete despegando. ​",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! Para 'RÁPIDO' en LSM, se usa el pulgar levantado (como el 'like') y se mueve hacia adelante con velocidad. El movimiento brusco hacia adelante comunica la idea de velocidad. 💨"
+        "pregunta": "SiisEili EisisisiEliisilieiissisili e_ellsilsil p opo up as up a e r ue nr eu io a a e n io e ou ds ue do in iu m us a mu ds s as sd u io is su s du no on a ou eu ne eo ud as sd ie ne eo au n ue dn a ui mn us in am in is do no nn ui dn un dn i au eo dn _? ns ? u s?? m ?",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi c l iis ilsil F OF O FA AN_ AF A is NO OO I l IO ON N AI_! A O NO NA F O IN O I I N! OF INN A AI IN l A l _N _ NO !!! O I!!! 🙌💖"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pri1-edf-b6-v1-001",
+        "tema": "Esperando purificadamente mi turno",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Angelical amiguito estelar del relevo, mientras tu compañerito está corriendo ¿qué haces tú?",
+        "opciones": [
+          "¡Tú E-S-P-E-R-A-S pacientemente con una sonrisota mágica a que llegue súper lindísimo a pasarte la estafeta divina! ⏳",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Tú E-S-P-E-R-A-S pacientemente con una sonrisota mágica a que llegue súper lindísimo a pasarte la estafeta divina! ⏳",
+        "explicacion": "A esperar relevito magico",
+        "visual": "⏳"
+      },
+      {
+        "id": "pri1-edf-b6-v2-004",
+        "tema": "El aplauso del compañerito",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué amorosa accion mágica le regals a tu compañerito que acaba re-sudar toda la vuelta corriendo divina?",
+        "opciones": [
+          "¡Gritando vivaaaaa y dándole un padrísimo, rechinante y glorioso A-P-L-A-U-S-O protector llenito de paz! 👏📣",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Gritando vivaaaaa y dándole un padrísimo, rechinante y glorioso A-P-L-A-U-S-O protector llenito de paz! 👏📣",
+        "explicacion": "Aplaude a tu conpañero amado"
+      },
+      {
+        "id": "pri1-edf-b6-v1-004",
+        "tema": "El aplauso del compañerito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando tu adoradísimo amiguín, llega maravillosamente a tu punto divino y suda la gotita, ¿Qué le das?",
+        "opciones": [
+          "¡Gritando vivaaaaa y dándole un padrísimo, rechinante y glorioso A-P-L-A-U-S-O protector llenito de paz deídica! 👏📣",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Gritando vivaaaaa y dándole un padrísimo, rechinante y glorioso A-P-L-A-U-S-O protector llenito de paz deídica! 👏📣",
+        "explicacion": "Applauso lindo"
       }
     ]
   },
-  "generado": "2026-03-10T13:40:00.000Z",
-  "version": "3.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

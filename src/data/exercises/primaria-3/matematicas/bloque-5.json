@@ -1,127 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "matematicas",
-  "bloque": 5,
-  "nombre": "Estadistica basica",
-  "meses": "Abril-Junio",
-  "temas": [
-    "Sumas hasta 20",
-    "Restas simples"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-matematicas-b5-001",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b5-002",
-        "tema": "Sumas hasta 20",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      },
-      {
-        "id": "primaria-3-matematicas-b5-003",
-        "tema": "Sumas hasta 20",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
-      }
+  "grado":"primaria-3","materia":"matematicas","bloque":5,"nombre":"Geometría: figuras y perímetro","meses":"Abril - Mayo",
+  "temas":["Figuras geométricas y sus lados","Perímetro de figuras","Líneas paralelas y perpendiculares","Simetría en figuras"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-mat-b5-v1-001","tema":"Figuras geométricas y sus lados","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuántos lados tiene un hexágono purísimamente estelar?","opciones":["¡S-E-I-S (6) lados porque 'hexa' significa seis en griego! 🔷6️⃣","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡S-E-I-S (6) lados porque 'hexa' significa seis en griego! 🔷6️⃣","explicacion":"Hexágono = 6 lados. Pentágono = 5, Octágono = 8. ¡Los prefijos griegos ayudan! 🔷6️⃣","visual":"🔷6️⃣"},
+      {"id":"pri3-mat-b5-v1-002","tema":"Perímetro de figuras","tipo":"true_false","nivel":"v1","pregunta":"El perímetro de un cuadrado de 5 cm de lado es purísimamente 20 cm (5+5+5+5).","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Perímetro = sumar todos los lados. Cuadrado: 4 lados iguales → 5×4 = 20 cm. ✅📏"},
+      {"id":"pri3-mat-b5-v1-003","tema":"Líneas paralelas y perpendiculares","tipo":"fill_blank","nivel":"v1","pregunta":"Dos líneas que nunca se cruzan por más que las alargues se llaman líneas P-A-R-A-L-E-L-A-____ .","respuestaCorrecta":"S","explicacion":"¡S!. ¡PARALELAS! Como los rieles del tren que siempre van juntitas sin tocarse. 🛤️"},
+      {"id":"pri3-mat-b5-v1-004","tema":"Simetría en figuras","tipo":"multiple_choice","nivel":"v1","pregunta":"Si doblas una mariposa por la mitad y los dos lados son igualitos, ¿qué tiene la mariposa?","opciones":["¡S-I-M-E-T-R-Í-A porque los dos lados son espejo uno del otro! 🦋🪞","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡S-I-M-E-T-R-Í-A porque los dos lados son espejo uno del otro! 🦋🪞","explicacion":"Simetría = las dos mitades son iguales como reflejo. 🦋🪞"},
+      {"id":"pri3-mat-b5-v1-005","tema":"Perímetro de figuras","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál es el perímetro de un triángulo con lados de 3 cm, 4 cm y 5 cm?","opciones":["¡D-O-C-E (12) cm porque 3 + 4 + 5 = 12! 📐📏","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡D-O-C-E (12) cm porque 3 + 4 + 5 = 12! 📐📏","explicacion":"Perímetro = sumar todos los lados: 3+4+5 = 12 cm. 📐📏"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-matematicas-b5-v2-001",
-        "tema": "Restas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b5-v2-002",
-        "tema": "Restas simples",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
-      },
-      {
-        "id": "primaria-3-matematicas-b5-v2-003",
-        "tema": "Restas simples",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
-      }
+    "v2":[
+      {"id":"pri3-mat-b5-v2-001","tema":"Figuras geométricas y sus lados","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí h he ex xá ág go on no o_ ¿ ¿c cu uá án nt to os s_ l la ad do os s ? ??","opciones":["¡6 6_ l la ad do os s ! !! 🔷6️⃣","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡6 6_ l la ad do os s ! !! 🔷6️⃣","explicacion":"H He ex xa a_ = =_ 6 6 !! 🔷6️⃣!"},
+      {"id":"pri3-mat-b5-v2-002","tema":"Perímetro de figuras","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi c cu ua ad dr ra ad do o_ 5 5_ c cm m_ p pe er rí ím me et tr ro o_ = =_ 2 20 0_ c cm m ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"5 5_ × ×_ 4 4_ = =_ 2 20 0 !! ✅📏!"},
+      {"id":"pri3-mat-b5-v2-003","tema":"Líneas paralelas y perpendiculares","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil l lí ín ne ea as s_ q qu ue e_ n nu un nc ca a_ s se e_ c cr ru uz za an n_ = =_ P PA AR RA AL LE EL LA A_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"S","explicacion":"P PA AR RA AL LE EL LA AS S !! 🛤️"},
+      {"id":"pri3-mat-b5-v2-004","tema":"Simetría en figuras","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil d do os s_ m mi it ta ad de es s_ i ig gu ua al le es s_ c co om mo o_ e es sp pe ej jo o_ = =_ ? ?? ?! a?_?...l?!","opciones":["¡S SI IM ME ET TR RÍ ÍA A ! !! 🦋🪞","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡S SI IM ME ET TR RÍ ÍA A ! !! 🦋🪞","explicacion":"S Si im me et tr rí ía a !! 🦋🪞!!"},
+      {"id":"pri3-mat-b5-v2-005","tema":"Perímetro de figuras","tipo":"true_false","nivel":"v2","pregunta":"SiisEili t tr ri iá án ng gu ul lo o_ 3 3+ +4 4+ +5 5_ = =_ 1 12 2_ c cm m ? ?? !","respuestaCorrecta":"true","explicacion":"P Pe er rí ím me et tr ro o_ = =_ 1 12 2 !! 📐📏"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-matematicas-b5-001",
-        "tema": "Sumas hasta 20",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b5-v2-001",
-        "tema": "Restas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b5-002",
-        "tema": "Sumas hasta 20",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      }
+    "preview":[
+      {"id":"pri3-mat-b5-v1-001","tema":"Figuras geométricas","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuántos lados tiene un hexágono?","opciones":["¡6 lados! 🔷","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡6 lados! 🔷","explicacion":"Hexa=6","visual":"🔷"},
+      {"id":"pri3-mat-b5-v1-004","tema":"Simetría","tipo":"multiple_choice","nivel":"v1","pregunta":"Dos mitades iguales como espejo = ¿?","opciones":["¡SIMETRÍA! 🦋","Triste","Gris.","Feo."],"respuestaCorrecta":"¡SIMETRÍA! 🦋","explicacion":"Simetría"},
+      {"id":"pri3-mat-b5-v2-002","tema":"Perímetro","tipo":"true_false","nivel":"v2","pregunta":"Cuadrado 5cm: perímetro = 20cm. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"5×4=20"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.297Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

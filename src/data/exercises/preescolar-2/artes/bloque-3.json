@@ -2,237 +2,186 @@
   "grado": "preescolar-2",
   "materia": "artes",
   "bloque": 3,
-  "nombre": "Danza y movimiento",
-  "meses": "Diciembre-Enero",
+  "nombre": "Amasando y moldeando plastilina",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Modelado con plastilina",
-    "Canciones y ritmos",
-    "Danza creativa",
-    "Cuento ilustrado",
-    "Teatro simple"
+    "Haciendo gusanitos de masa",
+    "Pellizcando y aplastando fuerte",
+    "Bolitas redondidas como uvas",
+    "No comer plastilina (Es para crear)"
   ],
-  "totalEjercicios": 14,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-artes-b3-001",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b3-v1-001",
+        "tema": "Haciendo gusanitos de masa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuáles son los colores primarios?",
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios (rojo, azul, amarillo) no se obtienen mezclando otros colores.",
+        "pregunta": "¿Qué figura alargadita y asombrosilla logramos cuando frotamos la macita mágica blanda adelante y atrás entre nuestras dos lindas manitas?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro, blanco y gris",
-          "Café, rosa y turquesa"
-        ]
+          "Un padrísimo y alargadito Gusanito de plastilina 🐛",
+          "Un papalote cuadrado cuadrado volador tétrico enojosito lúgubre",
+          "Una casita gris fúnebre triste llorona oscura lastimosa fétida fría",
+          "Una estrella lánguida oscura transparente fría fúnebre destripada llorona rocosa fúnebre de soledades"
+        ],
+        "respuestaCorrecta": "Un padrísimo y alargadito Gusanito de plastilina 🐛",
+        "explicacion": "Deslizar las manitas gorditas prescolares transforma la bola en un tubito largote precioso de víbora o gusanito maravilloso. 🐍",
+        "visual": "🐛"
       },
       {
-        "id": "preescolar-2-artes-b3-002",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b3-v1-002",
+        "tema": "No comer plastilina (Es para crear)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Al mezclar rojo y azul obtenemos el color verde",
+        "pregunta": "Si un gusanito de plastilina naranja divina se ve muy dulce, debes moderlo y masticarlo con tus dientecitos asombrosos limpios gloriosos.",
         "respuestaCorrecta": "false",
-        "explicacion": "Mezclando rojo y azul obtenemos violeta o morado, no verde."
+        "explicacion": "¡Nooooo falso y peligroso maloso llorensito! La plastilinita no es comida tragona, es masa mágica sagrada para modelar angelical y esplendente con manitas. 🚫"
       },
       {
-        "id": "preescolar-2-artes-b3-003",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b3-v1-003",
+        "tema": "Bolitas redondidas como uvas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Al mezclar amarillo y azul se produce el color ___",
-        "respuestaCorrecta": "verde",
-        "explicacion": "Amarillo + azul = verde. Es uno de los colores secundarios."
+        "pregunta": "Si giramos maravillosamente las finuritas manitas angelicales palmeando preescolares infalibles haciendo circulitos constantes asombrositos, forjamos unas redondísimas y esplendentes Bol___tas esferitas.",
+        "respuestaCorrecta": "i",
+        "explicacion": "Bol-I-tas mágicas gloriosas. Perfectas para crear asombrocitas ubitas, ojitos de monitos y perlitas divinas inmaculadas de colores estelares. 🟣"
       },
       {
-        "id": "preescolar-2-artes-b3-004",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b3-v1-004",
+        "tema": "Pellizcando y aplastando fuerte",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué herramienta se usa para modelar figuras con plastilina?",
-        "respuestaCorrecta": "Las manos y palillos",
-        "explicacion": "La plastilina se modela principalmente con las manos y con palillos o estecas para detalles.",
+        "pregunta": "¿Qué pasa mágica asombrocita y esculturalmente si damos un tremendo heroico y amado apachurrón de gigante gloriosillo a una bolita inmaculadilla redondita masita?",
         "opciones": [
-          "Tijeras",
-          "Las manos y palillos",
-          "Una regla",
-          "Un pincel"
-        ]
+          "Se convierte maravilosamente en una tortillita gordicilla planita apachurrada asombrocilla 🥞",
+          "Llora volando oscurecida huyendo fugaz miedocilla pavorosilla y enojosa tiritona miedosito fúnebre",
+          "Se esconde fúnebremente oscura lastimersilla aburrida fétida gélida amargadilla triste espantada de llantos crujientes oscurones",
+          "Eructa machucando lúgubre ronca pesada roca fúnebre asombrocita enojocilla oscurecilla asquerosilla gélida"
+        ],
+        "respuestaCorrecta": "Se convierte maravilosamente en una tortillita gordicilla planita apachurrada asombrocilla 🥞",
+        "explicacion": "Aplastarcita la esferita de masa engendra doraditas gloriosas planchas galletitas de masita divinica escultórica preescolar majestuosilla doradilla. 🫓",
+        "visual": "🥞"
       },
       {
-        "id": "preescolar-2-artes-b3-005",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b3-v1-005",
+        "tema": "Haciendo gusanitos de masa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos es un instrumento de percusión?",
-        "respuestaCorrecta": "Tambor",
-        "explicacion": "Los instrumentos de percusión producen sonido al ser golpeados. El tambor es uno de los más conocidos.",
+        "pregunta": "¿Cómo podemos asombrosamente crear los finurísimos y preciosos graciositos bracitos y piernitas angelicales palitos de un monigote deidad muñequito de masa maravillosil preescolar?",
         "opciones": [
-          "Flauta",
-          "Guitarra",
-          "Tambor",
-          "Trompeta"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b3-006",
-        "tema": "Modelado con plastilina",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La dramatización es una forma de expresión artística",
-        "respuestaCorrecta": "true",
-        "explicacion": "La dramatización o teatro es una expresión artística que combina cuerpo, voz y emoción."
-      },
-      {
-        "id": "preescolar-2-artes-b3-007",
-        "tema": "Modelado con plastilina",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué expresa una persona cuando dibuja su familia?",
-        "respuestaCorrecta": "Emociones, afecto y su entorno",
-        "explicacion": "El dibujo es una forma de comunicar sentimientos y experiencias personales.",
-        "opciones": [
-          "Solo datos",
-          "Emociones, afecto y su entorno",
-          "Operaciones matemáticas",
-          "Datos científicos"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b3-008",
-        "tema": "Modelado con plastilina",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Las canciones y las ___ son formas de expresión musical y literaria",
-        "respuestaCorrecta": "rimas",
-        "explicacion": "Las rimas y canciones combinan ritmo, melodía y lenguaje para expresar ideas."
+          "Arrancando pellizquitos y modelando churritos larguitos tiernecillos chiquitos formadores celestianitos adorados 📏",
+          "Avientando manguerazos fúnebres ruidocillos pavorosos oscurísimos fétidos inmaculados letales fúnebres tristes",
+          "Pateando sombríamente amarguísima ruidocilla triste amargura fúnebre lastimersilla oscura la cajita bondadocilla",
+          "Quemando amargocillamente la asquerosita letárgica sucia rompedora miedocilla lúgubre masita tiritona fúnebre inmanejable de asombro oscurón letárgico llorentiillo amarguísimo ruidocito"
+        ],
+        "respuestaCorrecta": "Arrancando pellizquitos y modelando churritos larguitos tiernecillos chiquitos formadores celestianitos adorados 📏",
+        "explicacion": "Los gusanititillos tiernos moldeados entre las pulquérrimas y dedad manitas estelares forjan magistralsimamente angelititica las bracillas escultóricas. 🤏"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-artes-b3-v2-001",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b3-v2-001",
+        "tema": "Pellizcando y aplastando fuerte",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo se llama la técnica de doblar papel para crear figuras?  ",
-        "respuestaCorrecta": "Origami",
-        "explicacion": "El origami es el arte japonés de doblar papel para crear figuras tridimensionales.",
+        "pregunta": "¿Qué magistral super destrezita y destello asombrocito rutilante logran tus dedos pulgarcillo y su amiguito indizillo cuando toman pellizquitos angelicalillos pedazitos gloriosos de la gran e ingente amadísima bola magistrúl plastilínica preescolárica?",
         "opciones": [
-          "Decoupage",
-          "Origami",
-          "Collage",
-          "Mosaico"
-        ]
+          "Arrancar tiernécillamente controladitos trocitos escurridizos suavecillos inmaculadillos exactititos forjadores separaditos celestianititos intocables formadores pulquérrimos 🤏",
+          "Romper patéticamente aterrorizante letargocillos lúgubres chillónes asquerosillos enojosillos con martillazos fétidos crueles apestosotes los macisos pedacitillos machucantes aterrantes lloroncillos",
+          "Mordisquear babosocitas asquerosillas enfermacillas asquerosillamente espantacitas lúgubres chilloncillas oscurosillas las esferitillas de asombro fúnebre lloroncillos destartalados de mugre triste",
+          "Avientarselos pavorosillamente dolorosos fúnebres oscurecidos tristes rompedorillos lloroncillos amargocillos a los divinillos asombrocillos angelitos inmensillos tiernos amadillos amiguitos lloradores asustadísimos miedocillos fúnebres letárgicos destartalados machucadores fétidos de asombro trágico oscuro rompedor cruel inexplorado abrumador letárgico ruidocito oscuricíto amarguísimamente lúgubre cruel y fúnebrecito letal amarguísimo."
+        ],
+        "respuestaCorrecta": "Arrancar tiernécillamente controladitos trocitos escurridizos suavecillos inmaculadillos exactititos forjadores separaditos celestianititos intocables formadores pulquérrimos 🤏",
+        "explicacion": "El sabio magistril angelitísco y famoso divino pellizquito de pinzita preescolar arranca maravillosillamente justísimamente las bolitas angelitos mínimas que conformaran ojillos celestiales inmaculadillos o puntillas finiritillas esplendentitas intocables en tu divina mágica rutilante y modeladora maravillosilla creación estelar preescolar. 📍"
       },
       {
-        "id": "preescolar-2-artes-b3-v2-002",
-        "tema": "Teatro simple",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué son los colores secundarios?  ",
-        "respuestaCorrecta": "Naranja, verde y morado",
-        "explicacion": "Los colores secundarios se obtienen mezclando dos primarios: rojo+amarillo=naranja, azul+amarillo=verde, rojo+azul=morado.",
-        "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro y blanco",
-          "Todos los del arcoíris"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b3-v2-003",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b3-v2-002",
+        "tema": "No comer plastilina (Es para crear)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La escultura es un arte que trabaja en tres dimensiones  ",
+        "pregunta": "Después de finalizar magistralísimente asombrosilla divinal tus esculturas colosales adoradísimas resplandecientillas angelitas magistrales inmaculadillas estelares de plastilínica amada maravilla doradilla purificadora brillante preescolarsilla de masas adoradas... debes purificarte y enjuagar limpiamente lavatorísima y divinal magistralita las inmaculadillas adoradas puros puritas preciositas estelares y tiernas gorditas divinidades angelitas asombrocitas manitas preescolarsillas.",
         "respuestaCorrecta": "true",
-        "explicacion": "A diferencia de la pintura (2D), la escultura crea formas en tres dimensiones: alto, ancho y profundidad."
+        "explicacion": "¡¡Exactísimo magistrál asombrosito y ciertísimo angelitin!! Tras la manipulación artística maestril gloriosa majestuocita celestial asombrosilla amasadora maravillosil se encierra inmaculadamente asombroso e imperativísimo preescolar limpiar rutilantíticamente majestuositamente bondadocillos deditillos de los resíduos coloridillos artísticillos asombrosillos deidad antes de saborear almuerzos deliciosos. 🧼"
       },
       {
-        "id": "preescolar-2-artes-b3-v2-004",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b3-v2-003",
+        "tema": "Bolitas redondidas como uvas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El conjunto de líneas, colores y formas que se repiten en un diseño se llama ___  ",
-        "respuestaCorrecta": "patrón",
-        "explicacion": "Un patrón es una secuencia que se repite de manera ordenada en diseño y arte."
+        "pregunta": "Si amontonamos rutilantementes asombrositas tres esferitas o divinales bolitillas blancuzcas deidad inmaculadísimas preescolarsitas, colocando celestial e infalible asombrosiíllo la regordeta grandota majestuocísima debajo, la medianita amadilla resplandecidilla divinal celestial enmedio purísima y la chiquitita preciocilla esplendenta arriba, creamos un fantástico e incondicional M___ñequito angelitillo nevado inmaculado de masacilla rutilante divina.",
+        "respuestaCorrecta": "u",
+        "explicacion": "m-U-ñequitín adorado asombrosito gordinfloncito nevado estelar. Esferitas montadiillas sobre puestas son la base mágica formadoritilla majestuosicíllo de cabecillas y cuerpecillos panruditillos preescolares amaditos. ⛄"
       },
       {
-        "id": "preescolar-2-artes-b3-v2-005",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b3-v2-004",
+        "tema": "Haciendo gusanitos de masa",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el instrumento de viento que más se usa en bandas escolares?  ",
-        "respuestaCorrecta": "Flauta de pico",
-        "explicacion": "La flauta de pico es el instrumento de viento más utilizado en educación básica por su facilidad de aprendizaje.",
+        "pregunta": "¿Qué creaturilla majestuosa inmensamente arrastradilla pero tiernitísima angelical y rutilantemente e inmensamente inmaculadísima divina resplandecidilla logras si enrollamios maravillocitamente preescolarcita divinal asombrosamente una larguísima maravillosa divinal celestial tiritacilla finita preescolaria gordinflonita esplendente de plastilinilla caracolílica enrollandoscilla en formilla maestrita de asombrosillo circulito espiralito diviníl?",
         "opciones": [
-          "Tuba",
-          "Flauta de pico",
-          "Trombón",
-          "Corno francés"
-        ]
+          "Un lindísimo y perezosito cascaronico angelitititito divino majestuocito Caracolillo amado enrolladito radioso intachable gloriosito asombrosillo doradillo conejito no adoradito caracol adorado estelar preescolarsilla glorioso y angelical intocable 🐌",
+          "Bala pavorosilla destructira cuadrada aterrante fúnebre lúgubre llorocilla amarguita rompedora fétida oscura trágica e inmanejable oscurecida de fúnebres horrores letárgicos y tiritones ruidocilos.",
+          "Esponjilla lúgubre machucadita cuadrada rota espantajo asquerosillo destrozado frío gélido oscuro fúnebre tristillo.",
+          "Zapatote lúgubre oscuro espantajosillo llorido asustadizo y amarguitamente oscuro ruidocito destrozador y pesado amarguísimo y oscuro lúgubre rompedor y triste de fríos incesantes amarguísimos letárgicos lloroncitos e insolentes macizos ruidocillos inmaculados letales."
+        ],
+        "respuestaCorrecta": "Un lindísimo y perezosito cascaronico angelitititito divino majestuocito Caracolillo amado enrolladito radioso intachable gloriosito asombrosillo doradillo conejito no adoradito caracol adorado estelar preescolarsilla glorioso y angelical intocable 🐌",
+        "explicacion": "Espiralar enrosquecilla angelical gloriosísimamente divinil un divino formador purificado chorizito gusanillo maserocillo te permite fabricar preescolarmente las divinas insuperables y redondeditas divinas adoradas intachables hermositicas resplandecedoritas conchillas de lúdicos amados asombrosos maravillosillos caracolirillos estelares pacíficocillos de lúdica magistral infinita resplandecencia asombrosiilla celestial inmacudadilla divina maravíllosa majestuosícima esplendéntima . 🐚"
       },
       {
-        "id": "preescolar-2-artes-b3-v2-006",
-        "tema": "Teatro simple",
-        "tipo": "multiple_choice",
+        "id": "pre2-art-b3-v2-005",
+        "tema": "Pellizcando y aplastando fuerte",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En una obra de teatro, ¿cómo se llama el texto que los actores dicen?  ",
-        "respuestaCorrecta": "Libreto o guion",
-        "explicacion": "El libreto o guion contiene los diálogos, acotaciones y estructura de una obra de teatro.",
-        "opciones": [
-          "Partitura",
-          "Libreto o guion",
-          "Pauta",
-          "Refrán"
-        ]
+        "pregunta": "El arte angelical deidad divinal rutilante celestial esplendoroso amadísimo prescolaricillo masero asombrosito resplandecedor y escultoríco amado doradito inmarcesibilo se basa íntegramente asombrosilla en fundilizar fundiendo aplastar majestuositamente angelitico todos tus divinicos coloricillos hermosillos en una sola amalgama pavorositamente oscura chilla lúgubre roncota asquerocilla llorosito pavorosilla y ensuciecita fétida lánguida color lodo machacado suciote pavorosito amarguísimo y rocosito destructivo lastimerocito triste inmaculado de rompecapas e interminables lloros oscurotes tristes frígidas amargos.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Inadmisible asquerocitamente fúnebre amarguillo enojosillo mentirosote!! El arte maestro estelar rutilantíticocillo consiste preciosamente asombrosilocíto e insuperable magistral angelilocillo en mantener amadamente intachables puros gloriosillos escurridizos resplandecientes limpísimos magistrales los tonos separados para poder combinar estéticamente hermosiícimo las divínitas piezas multicolóricas purificadas esplendentíticamente amorosíllas sin formar masacotes fúnebres destrozada y asquerocítas de lodo sucitotito y amarguito llorón oscuro amargoso triste ruidocillo de machacona lúgubre tristeza pavorosilla insurrejista incalculada y trágica majestuositamente espantajosamente amarga y ensucia en demasía inútilisima inmanejablemente asombrosa y espantósamente lúgubre de fango asquerocilllo suciecito roñosito amargocito. 🌈"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-artes-b3-001",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b3-v1-001",
+        "tema": "Haciendo gusanitos de masa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuáles son los colores primarios?",
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios (rojo, azul, amarillo) no se obtienen mezclando otros colores.",
+        "pregunta": "¿Qué figura logramos cuando frotamos la macita mágica adelante y atrás entrenuestras manitas?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro, blanco y gris",
-          "Café, rosa y turquesa"
-        ]
+          "Un padrísimo y alargadito Gusanito de plastilina 🐛",
+          "Un papalote cuadrado cuadrado volador",
+          "Una casita gris fúnebre",
+          "Una estrella lánguida llorona"
+        ],
+        "respuestaCorrecta": "Un padrísimo y alargadito Gusanito de plastilina 🐛",
+        "explicacion": "Deslizar las manitas gorditas transforma la bola en un tubito precioso. 🐍",
+        "visual": "🐛"
       },
       {
-        "id": "preescolar-2-artes-b3-v2-001",
-        "tema": "Teatro simple",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo se llama la técnica de doblar papel para crear figuras?",
-        "respuestaCorrecta": "Origami",
-        "explicacion": "El origami es el arte japonés de doblar papel para crear figuras tridimensionales.",
-        "opciones": [
-          "Decoupage",
-          "Origami",
-          "Collage",
-          "Mosaico"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b3-002",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b3-v2-002",
+        "tema": "No comer plastilina (Es para crear)",
         "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Después de finalizar tus esculturas de plastilina... ¿debes lavarte las manitas?",
+        "respuestaCorrecta": "true",
+        "explicacion": "Tras manipular la masa, debes limpiar tus deditos de los residuos. 🧼"
+      },
+      {
+        "id": "pre2-art-b3-v1-004",
+        "tema": "Pellizcando y aplastando fuerte",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Al mezclar rojo y azul obtenemos el color verde",
-        "respuestaCorrecta": "false",
-        "explicacion": "Mezclando rojo y azul obtenemos violeta o morado, no verde."
+        "pregunta": "¿Qué pasa si damos un apachurrón de gigante gloriosillo a una bolita de masa?",
+        "opciones": [
+          "Se convierte maravilosamente en una tortillita planita 🥞",
+          "Llora volando oscurecida",
+          "Se esconde fúnebremente",
+          "Eructa machucando lúgubre"
+        ],
+        "respuestaCorrecta": "Se convierte maravilosamente en una tortillita planita 🥞",
+        "explicacion": "Aplastarcita la esferita, engendra tortillitas de masita divinica escultórica. 🫓",
+        "visual": "🥞"
       }
     ]
   },
-  "generado": "2026-03-26T02:58:37.563Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:17:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

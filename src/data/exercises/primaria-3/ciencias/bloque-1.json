@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "ciencias",
-  "bloque": 1,
-  "nombre": "Reproduccion de seres vivos",
-  "meses": "Agosto-Septiembre",
-  "temas": [
-    "Reproduccion de seres vivos"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-ciencias-b1-001",
-        "tema": "Reproduccion de seres vivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b1-002",
-        "tema": "Reproduccion de seres vivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      },
-      {
-        "id": "primaria-3-ciencias-b1-003",
-        "tema": "Reproduccion de seres vivos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
-        "respuestaCorrecta": "fotosíntesis",
-        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
-      }
+  "grado":"primaria-3","materia":"ciencias","bloque":1,"nombre":"El cuerpo humano: sistemas vitales","meses":"Agosto - Septiembre",
+  "temas":["El sistema digestivo","El sistema respiratorio","El sistema circulatorio","Los sentidos y el sistema nervioso"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-cie-b1-v1-001","tema":"El sistema digestivo","tipo":"multiple_choice","nivel":"v1","pregunta":"Angelical científiquín, ¿qué órgano del cuerpo tritura la comida con los dientes y la mezcla con saliva?","opciones":["¡La B-O-C-A, donde los dientes trituran y la saliva empieza la digestión! 🦷👄","Destrozadoras monstruosidades zoológicas.","Romper los dolorosos cálculos.","Las fétidas máquinas lloronas."],"respuestaCorrecta":"¡La B-O-C-A, donde los dientes trituran y la saliva empieza la digestión! 🦷👄","explicacion":"La digestión comienza en la boca: los dientes cortan y muelen, la saliva humedece. 🦷👄","visual":"🦷👄"},
+      {"id":"pri3-cie-b1-v1-002","tema":"El sistema respiratorio","tipo":"true_false","nivel":"v1","pregunta":"Los pulmones son los órganos principales que se llenan de aire cuando respiramos.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Inhalamos → pulmones se inflan de aire → absorben oxígeno. 🫁💨"},
+      {"id":"pri3-cie-b1-v1-003","tema":"El sistema circulatorio","tipo":"fill_blank","nivel":"v1","pregunta":"El órgano que bombea la sangre a todo el cuerpo se llama C-O-R-A-Z-Ó-____ .","respuestaCorrecta":"N","explicacion":"¡N!. ¡CORAZÓN! Late ~100,000 veces al día bombeando sangre con oxígeno. ❤️💪"},
+      {"id":"pri3-cie-b1-v1-004","tema":"Los sentidos y el sistema nervioso","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál es el órgano principal del sistema nervioso que controla todo tu cuerpo?","opciones":["¡El C-E-R-E-B-R-O, la supercomputadora que controla pensamientos, movimientos y sentidos! 🧠⚡","Hundan las dolorosas amarguras.","Romper los basureros gélidos.","Las máquinas miedosas tristes."],"respuestaCorrecta":"¡El C-E-R-E-B-R-O, la supercomputadora que controla pensamientos, movimientos y sentidos! 🧠⚡","explicacion":"El cerebro dirige todo: piensas, sientes, te mueves. ¡Es el jefe del cuerpo! 🧠⚡"},
+      {"id":"pri3-cie-b1-v1-005","tema":"El sistema digestivo","tipo":"multiple_choice","nivel":"v1","pregunta":"Después de la boca, ¿a dónde va la comida a través de un tubo largo?","opciones":["¡Al E-S-Ó-F-A-G-O, un tubo que lleva la comida de la garganta al estómago! 🍽️⬇️","Calculadoras fúnebres.","Las tristes gélidas.","Llorándonos charcos."],"respuestaCorrecta":"¡Al E-S-Ó-F-A-G-O, un tubo que lleva la comida de la garganta al estómago! 🍽️⬇️","explicacion":"Boca → Esófago → Estómago → Intestinos. ¡El viaje de la comida! 🍽️⬇️"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-ciencias-b1-v2-001",
-        "tema": "Reproduccion de seres vivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b1-v2-002",
-        "tema": "Reproduccion de seres vivos",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
-      },
-      {
-        "id": "primaria-3-ciencias-b1-v2-003",
-        "tema": "Reproduccion de seres vivos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
-        "respuestaCorrecta": "Mercurio",
-        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
-      }
+    "v2":[
+      {"id":"pri3-cie-b1-v2-001","tema":"El sistema digestivo","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí ó ór rg ga an no o_ q qu ue e_ t tr ri it tu ur ra a_ c co om mi id da a_ c co on n_ d di ie en nt te es s_ + +_ s sa al li iv va a ? ??","opciones":["¡B BO OC CA A ! !! 🦷👄","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡B BO OC CA A ! !! 🦷👄","explicacion":"B Bo oc ca a_ = =_ i in ni ic ci io o !! 🦷👄!"},
+      {"id":"pri3-cie-b1-v2-002","tema":"El sistema respiratorio","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi p pu ul lm mo on ne es s_ s se e_ l ll le en na an n_ d de e_ a ai ir re e_ a al l_ r re es sp pi ir ra ar r ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"P Pu ul lm mo on ne es s !! 🫁💨!"},
+      {"id":"pri3-cie-b1-v2-003","tema":"El sistema circulatorio","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil b bo om mb be ea a_ s sa an ng gr re e_ = =_ C CO OR RA AZ ZÓ Ó_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"N","explicacion":"C CO OR RA AZ ZÓ ÓN N !! ❤️💪"},
+      {"id":"pri3-cie-b1-v2-004","tema":"Los sentidos y el sistema nervioso","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil ó ór rg ga an no o_ p pr ri in nc ci ip pa al l_ d de el l_ s si is st te em ma a_ n ne er rv vi io os so o ? ?? ?! a?_?...l?!","opciones":["¡C CE ER RE EB BR RO O ! !! 🧠⚡","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡C CE ER RE EB BR RO O ! !! 🧠⚡","explicacion":"C Ce er re eb br ro o !! 🧠⚡!!"},
+      {"id":"pri3-cie-b1-v2-005","tema":"El sistema digestivo","tipo":"true_false","nivel":"v2","pregunta":"SiisEili e es só óf fa ag go o_ = =_ t tu ub bo o_ d de e_ g ga ar rg ga an nt ta a_ a a_ e es st tó óm ma ag go o ? ?? !","respuestaCorrecta":"true","explicacion":"E Es só óf fa ag go o !! 🍽️⬇️"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-ciencias-b1-001",
-        "tema": "Reproduccion de seres vivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b1-v2-001",
-        "tema": "Reproduccion de seres vivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b1-002",
-        "tema": "Reproduccion de seres vivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      }
+    "preview":[
+      {"id":"pri3-cie-b1-v1-001","tema":"Sistema digestivo","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Dónde empieza la digestión?","opciones":["¡En la BOCA! 🦷","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡En la BOCA! 🦷","explicacion":"Boca","visual":"🦷"},
+      {"id":"pri3-cie-b1-v1-004","tema":"Sistema nervioso","tipo":"multiple_choice","nivel":"v1","pregunta":"Órgano principal del sistema nervioso = ¿?","opciones":["¡CEREBRO! 🧠","Triste","Gris.","Feo."],"respuestaCorrecta":"¡CEREBRO! 🧠","explicacion":"Cerebro"},
+      {"id":"pri3-cie-b1-v2-002","tema":"Sistema respiratorio","tipo":"true_false","nivel":"v2","pregunta":"Pulmones se llenan de aire al respirar. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Pulmones"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.274Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

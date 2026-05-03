@@ -2,344 +2,192 @@
   "grado": "preescolar-2",
   "materia": "educacion_fisica",
   "bloque": 5,
-  "nombre": "Naturaleza activa",
-  "meses": "Abr-Jun",
+  "nombre": "Puntería: Aventando pelotitas",
+  "meses": "Abril - Mayo",
   "temas": [
-    "Aire libre",
-    "Cuidado del entorno"
+    "Ojo de león: Apuntar bien",
+    "La pelotita al cesto",
+    "Derribando los pinos de juguete",
+    "Aventando la esponjita a mami"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar2ef-b5-01",
-        "tema": "Naturaleza",
+        "id": "pre2-edfis-b5-v1-001",
+        "tema": "La pelotita al cesto",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Por qué es bueno jugar al aire libre?",
+        "pregunta": "¿Qué fabuloso y certero avientito pucherito campeón hace que el baloncitito resplandecedor anote una canastititina basquetbolística amada gloriosilla pura?",
         "opciones": [
-          "Nos da sol y espacio para movernos",
-          "Porque está de moda",
-          "Para alejarse de casa",
-          "Para no estudiar"
+          "Lanzar eufóricamente chulisisímo la pelotiña justo adentrisímo del cesticíto mágico gloriosillo 🏀",
+          "Patear rocosamente destructivo rompedor lúgubre ruidosin oscurito aterrante enojosillo al bote",
+          "Llorar lúgubremente amargado asustadicito chillón porque la esfericita no flota gordinflona miedosa",
+          "Botarla a la ventanitílla pavorosa destrozadora de estrellones gélidos lloridítilos aterradores"
         ],
-        "respuestaCorrecta": "Nos da sol y espacio para movernos",
-        "explicacion": "El sol nos da vitamina D y el espacio exterior invita a moverse más.",
-        "visual": "🌞"
+        "respuestaCorrecta": "Lanzar eufóricamente chulisisímo la pelotiña justo adentrisímo del cesticíto mágico gloriosillo 🏀",
+        "explicacion": "Meter puntería estelar al botecito es la mayor gloriosidad anotadora lúdica de los peques campeoncitos de baloncito preescolares. 🥅",
+        "visual": "🏀"
       },
       {
-        "id": "preescolar2ef-b5-02",
-        "tema": "Entorno",
+        "id": "pre2-edfis-b5-v1-002",
+        "tema": "Derribando los pinos de juguete",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Debemos cuidar las plantas del parque",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "En el bolichito padrisísimo resplandecedor, debes aventar lentísimo la bola rodante hermosa deidad para que gloriosilla majestuosila tire y acueste pum-púm a todos los pinitos paraditos angelicales.",
         "respuestaCorrecta": "true",
-        "explicacion": "Las plantas son seres vivos que benefician al medio ambiente."
+        "explicacion": "¡¡La churiza magistral de tumbling preescolar pineril tiradora lúdica angelitílica estelar se goza euféricísimamente asombrosa!! 🎳"
       },
       {
-        "id": "preescolar2ef-b5-03",
-        "tema": "Salud",
+        "id": "pre2-edfis-b5-v1-003",
+        "tema": "Ojo de león: Apuntar bien",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para encestear o atinar maravillosamente angelitil al juguetitíño blanco, debes mirarlítio fíjamentesito esplenditiño con tu amado y preescolaricitíño super O___to de halcón concentradíl.",
+        "respuestaCorrecta": "ji",
+        "explicacion": "o-JI-to apuntador maravilosíl. La vistilla amada angelítica te guia en direción gloriosilitíllia la fuerzila magitiña. 👁️"
+      },
+      {
+        "id": "pre2-edfis-b5-v1-004",
+        "tema": "Aventando la esponjita a mami",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En un día caluroso debemos llevar al parque:",
+        "pregunta": "¿Qué lúdico y divinicillo preescolarticílo blandíto objeto no duele al avientacitítio amadigíillo fiesteriíto en el juego de pasarseli a mamítíla refulgentila esplendetilíni feliíñi?",
         "opciones": [
-          "Agua y protector solar",
-          "Solo dulces",
-          "Un abrigo",
-          "Nada"
+          "Una esponjiticíla cuabraditila coloridicílla aguadílicília gordinflonícial purosidiciña lúdicilila 🧽",
+          "Roca fétitidila llorositicila rompiditílía espetntidíliam asquerotiliíni oscuriticiili",
+          "Planchitiiliía asquieriíliña fétidililíni rompodiriília asombrocitiíli fúneiriília pavorisidíililini",
+          "Tuberitiília rompodiriliti espántiticilie oscuililidli asquerilitililií miediliidisi amargiliticiil fétidiili."
         ],
-        "respuestaCorrecta": "Agua y protector solar",
-        "explicacion": "El agua hidrata y el protector solar cuida la piel del sol.",
-        "visual": "☀️"
+        "respuestaCorrecta": "Una esponjiticíla cuabraditila coloridicílla aguadílicília gordinflonícial purosidiciña lúdicilila 🧽",
+        "explicacion": "La espojiliciliíta aguiditílicil no laisticilísí! Por eloillís es magiliisitica amadiliil para atraipiliilis juiegilos de pautíliíicilis. 🎈",
+        "visual": "🧽"
       },
       {
-        "id": "preescolar2ef-b5-04",
-        "tema": "Entorno",
+        "id": "pre2-edfis-b5-v1-005",
+        "tema": "Ojo de león: Apuntar bien",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Dónde tiramos la basura?",
+        "pregunta": "Si vasisisili avetalilisililir un asombolisilisis arcilionil a tu arbolilitisilili dianililisli, no debisilisilir cerraiilirsiilisitisili tuusilisiis:",
         "opciones": [
-          "En el bote",
-          "En el suelo",
-          "En el río",
-          "En el pasto"
+          "Ojitisilisiliisi preciolosiliisil diviniliilisiliisi apuntaililisiliilidis! 👀",
+          "Zapatilisiiliis",
+          "Narilitisilislils",
+          "Brazialisilisoillis"
         ],
-        "respuestaCorrecta": "En el bote",
-        "explicacion": "Tirar basura en su lugar mantiene los espacios limpios para todos.",
-        "visual": "🗑️"
-      },
-      {
-        "id": "preescolar2ef-b5-05",
-        "tema": "Entorno",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Los animales del parque merecen respeto",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Los animales son parte del ecosistema y debemos respetarlos."
-      },
-      {
-        "id": "preescolar2ef-b5-06",
-        "tema": "Actividad",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué hacemos en el parque?",
-        "opciones": [
-          "Correr, saltar y jugar",
-          "Solo sentarse",
-          "Solo comer",
-          "Solo ver el celular"
-        ],
-        "respuestaCorrecta": "Correr, saltar y jugar",
-        "explicacion": "El parque es el lugar ideal para actividades físicas variadas.",
-        "visual": "🌳"
-      },
-      {
-        "id": "preescolar2ef-b5-07",
-        "tema": "Entorno",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Arrancar flores del parque está bien",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "false",
-        "explicacion": "Las plantas necesitan sus flores para reproducirse. No las arranques."
-      },
-      {
-        "id": "preescolar2ef-b5-08",
-        "tema": "Salud",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué hacemos si encontramos un animal lastimado?",
-        "opciones": [
-          "Avisamos a un adulto",
-          "Lo dejamos solo",
-          "Lo asustamos",
-          "Lo cargamos y corremos"
-        ],
-        "respuestaCorrecta": "Avisamos a un adulto",
-        "explicacion": "Un adulto sabrá cómo buscar ayuda veterinaria adecuada.",
-        "visual": "🦮"
-      },
-      {
-        "id": "preescolar2ef-b5-09",
-        "tema": "Entorno",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Por qué cerramos la llave cuando no usamos agua?",
-        "opciones": [
-          "Para no desperdiciarla",
-          "Para que no se moje el piso",
-          "Por costumbre",
-          "No la cerramos"
-        ],
-        "respuestaCorrecta": "Para no desperdiciarla",
-        "explicacion": "El agua es un recurso valioso y debemos cuidarla.",
-        "visual": "💧"
-      },
-      {
-        "id": "preescolar2ef-b5-10",
-        "tema": "Actividad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Caminar es un buen ejercicio",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Caminar ejercita el corazón y los músculos de forma sencilla y efectiva."
+        "respuestaCorrecta": "Ojitisilisiliisi preciolosiliisil diviniliilisiliisi apuntaililisiliilidis! 👀",
+        "explicacion": "El apuntililisio lúdiciliso resiquieiritililsils asombriliusilílos ojililicios abieilitilisiltilisiilsis maravillosililsilos. 🎯"
       }
     ],
     "v2": [
       {
-        "id": "preescolar2ef-b5-01-v2",
-        "tema": "Naturaleza",
+        "id": "pre2-edfis-b5-v2-001",
+        "tema": "Derribando los pinos de juguete",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Por qué es bueno jugar al aire libre? ​",
+        "pregunta": "¿Qué sucilitiiciísís siilicíi llaniliciilisis unilio bolicilíi dífílicil rodirillilísi lúdiciliciliísim feliísi a los pinilitilicil paltiisticiís y éstolisilicil ciínilio de formiilicilci ruidilicili eufóililciili asomblisiliiciili esplendiíticiicilili?",
         "opciones": [
-          "Nos da sol y espacio para movernos",
-          "Porque está de moda",
-          "Para alejarse de casa",
-          "Para no estudiar"
+          "¡Ganililistisieli!! Harilitícies asolbiíiiisilisilí strikijíiliili gloriosilitiií preciliilisicil deidililicilisiili!! 🎳",
+          "Pielicditisiliili amrgililicis.",
+          "Romlisplitilili oscurililitilsili destrililíclici.",
+          "Fálisiitilisic ruidiilisilislciil llorilislcisis."
         ],
-        "respuestaCorrecta": "Nos da sol y espacio para movernos",
-        "explicacion": "El sol nos da vitamina D y el espacio exterior invita a moverse más.",
-        "visual": "🌞"
+        "respuestaCorrecta": "¡Ganililistisieli!! Harilitícies asolbiíiiisilisilí strikijíiliili gloriosilitiií preciliilisicil deidililicilisiili!! 🎳",
+        "explicacion": "En el boliilicíscililsie de piniiliccilist amadiilcici el eufilicilicisilícs tiraliriciliicilcis a toililciillisicls es la gloriliciisciicisiliisisili! 🌟"
       },
       {
-        "id": "preescolar2ef-b5-02-v2",
-        "tema": "Entorno",
+        "id": "pre2-edfis-b5-v2-002",
+        "tema": "Ojo de león: Apuntar bien",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Debemos cuidar las plantas del parque ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Apointilitilisísi con dedililibilisis esteliiliciciilisii es de niñiliticsisiiliclisi campeóicilicsíli. Avientilitilisísin miriilisícisisi pavorisililícsiis a todosiisiisisis ladilisiliisisic no es bueiiicilisisi punterilicísisiiliis preescolilisicílisi.",
         "respuestaCorrecta": "true",
-        "explicacion": "Las plantas son seres vivos que benefician al medio ambiente."
+        "explicacion": "¡¡Exactilicicisilis!! Avilisilícisiliscilsiliir a liliciciis ciigilicilísis destroziliiliciisisilisisiilicis las plantititilisicilisili amadiliilcisi y no es gilisilisiciliisl punterilicilicissi preoliliisilciliicls! 🦁"
       },
       {
-        "id": "preescolar2ef-b5-03-v2",
-        "tema": "Salud",
+        "id": "pre2-edfis-b5-v2-003",
+        "tema": "La pelotita al cesto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para metrililicisiilieñii gloriliícisili la canitiltisisiiii de baliticicliiisilit enel cestiliciiliisií debilicilisi utisililiciili tus b___azitiiciilitilisi angeliticlisticis fuerlilicilicilistisi rutililiticisili.",
+        "respuestaCorrecta": "r",
+        "explicacion": "b-R-azilislillisi amadilisiliislis. Ellos daciiliilisils eufóricililicisis fuezitisiciliilislisia angelíticaliliicisii la impulsicilicicsi. 🦾"
+      },
+      {
+        "id": "pre2-edfis-b5-v2-004",
+        "tema": "Derribando los pinos de juguete",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En un día caluroso debemos llevar al parque: ​",
+        "pregunta": "¿Cómiliciliise debililiciliscisilist llanicilílcisiisi la bolialicisiiisl en el jueliigilicilis preeslicisilio de boillilíicliiis para qutililicilise no vuililicilisilies fétililicilísilicsi en l'ailiciisilicisir rompicilicilisicsili?",
         "opciones": [
-          "Agua y protector solar",
-          "Solo dulces",
-          "Un abrigo",
-          "Nada"
+          "Rodanlilitilitíciliclíciliásililsisiliís suavilisisilie cililisiisi el pislisislisi feliilise gloriosiilíliis! 🛣️",
+          "Bolalicitilicililisísl arilicilísii asqueilisicils",
+          "Pateililiticilisilsis fúnelicilitiliísicilsilsis ateriílicilsicilis",
+          "Lloriliciliticilíslisl amrilígiliciliísts fétiilitiliclicícisilislis."
         ],
-        "respuestaCorrecta": "Agua y protector solar",
-        "explicacion": "El agua hidrata y el protector solar cuida la piel del sol.",
-        "visual": "☀️"
+        "respuestaCorrecta": "Rodanlilitilitíciliclíciliásililsisiliís suavilisisilie cililisiisi el pislisislisi feliilise gloriosiilíliis! 🛣️",
+        "explicacion": "El deslizalititcilicilis de la esferilicilíci es roliliilicísilicililísilí no volalililisiliiliilcisií rocolicicílisic. 🎳"
       },
       {
-        "id": "preescolar2ef-b5-04-v2",
-        "tema": "Entorno",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Dónde tiramos la basura? ​",
-        "opciones": [
-          "En el bote",
-          "En el suelo",
-          "En el río",
-          "En el pasto"
-        ],
-        "respuestaCorrecta": "En el bote",
-        "explicacion": "Tirar basura en su lugar mantiene los espacios limpios para todos.",
-        "visual": "🗑️"
-      },
-      {
-        "id": "preescolar2ef-b5-05-v2",
-        "tema": "Entorno",
+        "id": "pre2-edfis-b5-v2-005",
+        "tema": "Aventando la esponjita a mami",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los animales del parque merecen respeto ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Es perlicilítilílisicilise diviniliticisilistiti jugilizariliticlila ludiítciliticisiaililiis a los catclitilíslicís atrililiticiliais colilíliciliis amigiliticisilisiti resplanticilisitilis y utilililizicilicilil esponililitilícilisili blanidicilisilísit preelilitisicilí.",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales son parte del ecosistema y debemos respetarlos."
-      },
-      {
-        "id": "preescolar2ef-b5-06-v2",
-        "tema": "Actividad",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hacemos en el parque? ​",
-        "opciones": [
-          "Correr, saltar y jugar",
-          "Solo sentarse",
-          "Solo comer",
-          "Solo ver el celular"
-        ],
-        "respuestaCorrecta": "Correr, saltar y jugar",
-        "explicacion": "El parque es el lugar ideal para actividades físicas variadas.",
-        "visual": "🌳"
-      },
-      {
-        "id": "preescolar2ef-b5-07-v2",
-        "tema": "Entorno",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Arrancar flores del parque está bien ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "false",
-        "explicacion": "Las plantas necesitan sus flores para reproducirse. No las arranques."
-      },
-      {
-        "id": "preescolar2ef-b5-08-v2",
-        "tema": "Salud",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué hacemos si encontramos un animal lastimado? ​",
-        "opciones": [
-          "Avisamos a un adulto",
-          "Lo dejamos solo",
-          "Lo asustamos",
-          "Lo cargamos y corremos"
-        ],
-        "respuestaCorrecta": "Avisamos a un adulto",
-        "explicacion": "Un adulto sabrá cómo buscar ayuda veterinaria adecuada.",
-        "visual": "🦮"
-      },
-      {
-        "id": "preescolar2ef-b5-09-v2",
-        "tema": "Entorno",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Por qué cerramos la llave cuando no usamos agua? ​",
-        "opciones": [
-          "Para no desperdiciarla",
-          "Para que no se moje el piso",
-          "Por costumbre",
-          "No la cerramos"
-        ],
-        "respuestaCorrecta": "Para no desperdiciarla",
-        "explicacion": "El agua es un recurso valioso y debemos cuidarla.",
-        "visual": "💧"
-      },
-      {
-        "id": "preescolar2ef-b5-10-v2",
-        "tema": "Actividad",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Caminar es un buen ejercicio ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Caminar ejercita el corazón y los músculos de forma sencilla y efectiva."
+        "explicacion": "El artililicilsicis de passiciliisilistila es segulilitilisicsi cuanililocitisl se utilizitisililiciit objelisilittilitics blantililicilsiciltiliscilisiiili! 🏐"
       }
     ],
     "preview": [
       {
-        "id": "preescolar2ef-b5-01",
-        "tema": "Naturaleza",
+        "id": "pre2-edfis-b5-v1-001",
+        "tema": "La pelotita al cesto",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Por qué es bueno jugar al aire libre?",
+        "pregunta": "¿Qué fabuloso campeoncito anota una basquetbolística amada canasta?",
         "opciones": [
-          "Nos da sol y espacio para movernos",
-          "Porque está de moda",
-          "Para alejarse de casa",
-          "Para no estudiar"
+          "Lanzando eufóricamente la pelotiña justo adentrisímo del cesto 🏀",
+          "Patear el bote",
+          "Llorar triste amargado",
+          "Botarla a la ventana rompiéndola"
         ],
-        "respuestaCorrecta": "Nos da sol y espacio para movernos",
-        "explicacion": "El sol nos da vitamina D y el espacio exterior invita a moverse más.",
-        "visual": "🌞"
+        "respuestaCorrecta": "Lanzando eufóricamente la pelotiña justo adentrisímo del cesto 🏀",
+        "explicacion": "Meter puntería estelar al botecito es la mayor gloriosidad de baloncito. 🥅",
+        "visual": "🏀"
       },
       {
-        "id": "preescolar2ef-b5-02",
-        "tema": "Entorno",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Debemos cuidar las plantas del parque",
+        "id": "pre2-edfis-b5-v2-001",
+        "tema": "Derribando los pinos de juguete",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué ocurre si tiras la bolita rodante a los pinos de plástico y se acuestan todos pum-pum?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "¡Ganas!! Haces chuza gloriosa!! 🎳",
+          "Pierdes.",
+          "Rompes un vidrio.",
+          "Chillas."
         ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Las plantas son seres vivos que benefician al medio ambiente."
+        "respuestaCorrecta": "¡Ganas!! Haces chuza gloriosa!! 🎳",
+        "explicacion": "En bolichito, el tirar rodando todos los pinitos es la magia ganadora! 🌟"
+      },
+      {
+        "id": "pre2-edfis-b5-v1-004",
+        "tema": "Aventando la esponjita a mami",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué amigable objeto blandíto usamos para aventar y pasar en el juego con mamita?",
+        "opciones": [
+          "Una esponjita coloridita aguadita hermosa 🧽",
+          "Una piedra apestosa",
+          "Planchita roñosa fétida",
+          "Tubería machucadora de hierro crujiente"
+        ],
+        "respuestaCorrecta": "Una esponjita coloridita aguadita hermosa 🧽",
+        "explicacion": "La espojiliíta blandita no duele nada por eso es mágica e ideal para atrapar! 🎈",
+        "visual": "🧽"
       }
     ]
-  }
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

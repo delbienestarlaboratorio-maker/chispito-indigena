@@ -2,243 +2,238 @@
   "grado": "preescolar-2",
   "materia": "conocimiento",
   "bloque": 5,
-  "nombre": "Cuidamos la Tierra",
-  "meses": "Abril-Junio",
+  "nombre": "El tiempo, la lluvia y nuestro abrigo",
+  "meses": "Abril - Mayo",
   "temas": [
-    "Los sentidos",
-    "El tiempo y clima",
-    "Plantas y animales",
-    "La comunidad",
-    "Cuidar el planeta"
+    "El Señor Sol nos calienta",
+    "¡Está lloviendo! Las nubes y los charcos",
+    "Hace mucho frío (Invierno y abrigos)",
+    "El viento que mueve las hojitas"
   ],
-  "totalEjercicios": 14,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-conocimiento-b5-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b5-v1-001",
+        "tema": "El Señor Sol nos calienta",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Quién es el gigantesco y redondo asombroso amiguito amarillo resplandeciente calentito del lejano y divino cielo en las altísimas nubes azules que nos da luz y nos pone asombrosamente la piel calientita divinísima en los soleados parques mañaneros?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "El majestuoso, amoroso angelical esplendente e inmaculado divino Señor Solecito calientito rayadito ☀️",
+          "Una estufa ardiente triste gris pavorosa ruidosa encendida quemando oscuro asombrosamente fúnebre amarga lúgubre ruidoso cruel",
+          "Un león rugidor que brinca en las nubes furioso oscurantista cruel lúgubre cazador miedoso rompedor inmaculado fúnebre destructivo triste aullante quejoso asombroso lastimero",
+          "El refrigerador helado gigante cuadrado pavoroso y asombrosamente tiritador conielo hielito frío congelador polar amargado llorón lúgubre triste"
+        ],
+        "respuestaCorrecta": "El majestuoso, amoroso angelical esplendente e inmaculado divino Señor Solecito calientito rayadito ☀️",
+        "explicacion": "¡El adoradísimo gigante Señor Sol es nuestro divino inmaculadamente asombroso calefactor natural calentito celestial esplendoroso angelical estrella divina gloriosa de luz grandiosa! 🌞",
+        "visual": "☀️"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-002",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
-        "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b5-003",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b5-v1-002",
+        "tema": "¡Está lloviendo! Las nubes y los charcos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La mamá, el papá y los hijos forman una familia",
+        "pregunta": "Cuando las divinas majestuosas altísimas nubecitas celestiales se ponen muy gorditas blancas y lloronas derramando agüita divina pura inmaculada cristalina sobre todos los arbolitos preescolares sedientos, decimos que está asombrosamente 'Lloviendo' aguacerito mojador.",
         "respuestaCorrecta": "true",
-        "explicacion": "La familia es el grupo de personas con quienes vivimos y compartimos afecto y cuidado."
+        "explicacion": "¡¡Ciertísimo asombrosillo aguaceral!! Las esponjocitas y gloriosas nubes grisesotas mojan inmaculadamente radiantes mojando deidad a todas las sedientas plantitas tiernecillas florales majestuositas terrestres. 🌧️"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-004",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b5-v1-003",
+        "tema": "Hace mucho frío (Invierno y abrigos)",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Con los ojos podemos ___ todo a nuestro alrededor",
-        "respuestaCorrecta": "ver",
-        "explicacion": "Los ojos son los órganos de la vista; nos permiten ver formas, colores y movimiento."
+        "pregunta": "Si vas a correr asombrosamente y saltar escurridizo majestuoso al inmenso y glorioso patiecito preescolar angelical purísimo de invierno y hace mucho, muchísimo airecito temblando frío, mamá inmaculada te pone un rico resplandeciente calientito abr___te o chamarrita divina protectora amorosa.",
+        "respuestaCorrecta": "igui",
+        "explicacion": "Abr-IGUI-to calientito. Esa maravillosamente y celestial gordisísima chamarra pachoncita de peluche resguardadora de fríos polares pavorosos llorones oscuros tristes. 🧥"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-005",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b5-v1-004",
+        "tema": "¡Está lloviendo! Las nubes y los charcos",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas son partes del cuerpo?",
-        "respuestaCorrecta": "Brazo, pierna, cabeza",
-        "explicacion": "Las partes del cuerpo humano incluyen cabeza, tronco y extremidades (brazos y piernas).",
+        "pregunta": "Para no mojar tus divinales preescolarachas asombrosas celestiales y peinadas orejitas ni tu asombrosito y lúdico esplendente pelito angelical en un aguacero charquero ruidoso divino, usas majestuosísimamente un techo saltarín redondo resplandeciente abridor llamado...",
         "opciones": [
-          "Mesa, silla, puerta",
-          "Brazo, pierna, cabeza",
-          "Libro, cuaderno, lápiz",
-          "Casa, árbol, nube"
-        ]
+          "El salvador amadísimo techito portátil Paguatito o asombroso Paraguas grandote sombrillita escurridiza protectora ☂️",
+          "Una coladera sucia gris lúgubre de fango apestoso rompedora amarga pesadísima oscura aburridilla triste pavorosa",
+          "Un pato nadador mordelón ruidoso lúgubre lastimero con miedos de fango cuack cuack enojosete plumas rancias abismales asombrosos lastimeros oscuros quejosos sin igual asustador fúnebre",
+          "Una piedrota grandotota pesadísima aplastadora de rocas gigantes lastimosamente destructivas rompe lodos destructora pavorosa abismal inmarcesible infalible destrozadora llorona inmaculada oscura"
+        ],
+        "respuestaCorrecta": "El salvador amadísimo techito portátil Paguatito o asombroso Paraguas grandote sombrillita escurridiza protectora ☂️",
+        "explicacion": "El gloriosísimo resplandeciente asombrosamente inmaculadísimo mágico divino intocable portentosísimo escurridizo sombrerito o paragüitas deidad techito portátil rebota las divinas chorrocientas gotitas evitando doloridísimísimas gélidas escurridas letárgicas asombrosas empapadas pavorosas incalculables invernales lloronas. ☔",
+        "visual": "☂️"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-006",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b5-v1-005",
+        "tema": "El viento que mueve las hojitas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El perro y el gato son animales domésticos",
+        "pregunta": "El invisible, fuertísimo y gloriosísimo celestial soplador eufórico intocable majestuoso Vientecito resplandecedor volador remolino, puede asombrosamente chistosito despeinarte los pelos inmaculados angelicales adorados divinos rutilantes en asombroso desgarriate loco brincador e inmarcesible volar.",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales domésticos son los que viven con las personas en sus casas."
+        "explicacion": "El gloriosísimo transparente resplandezador soplante asombrosamente incesante chistoso preescolar aéreo vientecito volador no se ve, pero majestuosísimamente hace bailar infalible a las adoradas divinas gloriosas hojillitas arbóreas frondosas inmaculadas angelicales. 🌬️"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-007",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué le da energía a las plantas para crecer?",
-        "respuestaCorrecta": "El Sol",
-        "explicacion": "Las plantas necesitan luz solar para realizar la fotosíntesis y producir su alimento.",
-        "opciones": [
-          "La luna",
-          "La lluvia ácida",
-          "El Sol",
-          "El viento"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b5-008",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b5-v1-006",
+        "tema": "El Señor Sol nos calienta",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El agua, el fuego, la tierra y el ___ son elementos de la naturaleza",
-        "respuestaCorrecta": "aire",
-        "explicacion": "El aire es uno de los elementos fundamentales de la naturaleza y lo respiramos para vivir."
+        "pregunta": "Cuando calienta muy eufóricamente doradísimo fuerte y asombrosamente esplendentemente esplendorosamente y abrasador sudoroso insoportabilísimamente mágico el colosal y divino gordinflón Solecito resplandeciente amarillo celestial abrumador infalible milenario, sentimos que tenemos muchísimo y asombroso rico calor___to resplandeciente y glorioso sofocadillo y requerimos abrumadora y gloriosa aguagüita fresquita salvadora protectora lúdica asombrosa celestial divinal estelar inmarcesible preescolar.",
+        "respuestaCorrecta": "ci",
+        "explicacion": "Calor-CI-to radiante adorado estelar asombrosito celestial inmaculado abrumador. ¡Nos hace exudar perlitas sudorosas en las grandilocuentes preescolares frentes juguetonas soleadas deslumbrantes adorables incalculables imbatibles! 🥵"
+      },
+      {
+        "id": "pre2-cono-b5-v1-007",
+        "tema": "Hace mucho frío (Invierno y abrigos)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En lugar de helados hielitos masticadores masticados asombrosos en las muy adoradísimas resplandecientes escurridizadas heladísimas mañanitas gloriosas resfriadoritas gélidas de asombroso tiritón, deidad mamá te sirve asombrosísma e inmaculada una bebidita rica resplandeciendo calentita celestial inmarcesible gloriosísima para sanar pavorosos tristes estornudos de resfriado asombroso abrumador triste y crujidor letárgico lúgubre que se nombra divino y glorioso:",
+        "opciones": [
+          "Un chocolatito asombroso humeante calentito mágico calentador abrazador de panzitas fúnebres frías temblonas llorosas inmarcesibles ☕",
+          "Un pedazo de hielo pavoroso duro gigante transparente congelador polar rasposo triste letárgico inmarcesible",
+          "Una paleta escarchada fríísima triste dolorida gélida azul congeladora destructora lastimera espantajosota crujiente enojosa",
+          "Un limón ácido triste rugoso asombrosamente destructor letárgico verde gélido pavoroso asustadizo"
+        ],
+        "respuestaCorrecta": "Un chocolatito asombroso humeante calentito mágico calentador abrazador de panzitas fúnebres frías temblonas llorosas inmarcesibles ☕",
+        "explicacion": "Una tacita majestuosísimamente adoradísima bebida calentita de chocolate gloriosito adoradísimo calmará angelical inmaculada divinal radiante preescolar deidad asombrosa majestuosamente a la panzita con resfriados crujitos asombrosos lúgubres asombrosísimos gélidos polares e ignominiosos amargos. ☕",
+        "visual": "☕"
+      },
+      {
+        "id": "pre2-cono-b5-v1-008",
+        "tema": "¡Está lloviendo! Las nubes y los charcos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Con unas divertidas adoradísimas botitas plásticas amarillas hulescas chapoteadoras resplandecientes divinas asombrosillas infalibles angelicales puedes asombrosamente mágico lúdico pisar charquitos inmaculados gloriositos brincando grandote preescolar divinal sin mojar divinales tierno gloriosos deditos zapatones deidad.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡El plástico gloriosísimo de las espectaculares saltadoras lúdicas botitas angelicales impermeables rebota magistralmente y milagrosamente mágico protector preescolarménte resplandeciente el agualodo resbaloso majestuoso fúnebre asquerosito llorón!! 👢"
+      },
+      {
+        "id": "pre2-cono-b5-v1-009",
+        "tema": "El viento que mueve las hojitas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué juguetillo maravilloso angelical volantín celestial papaloteador hilador inmaculadísimo rutilante de papel picado colorcitos divinos preescolares asombrosos adorados alados vuela gigantescamente gloriosísimo estelar abrumador hasta las nubes angelicales blancas empujado e impulsado asombrosísima infalible por el grandísimo majestuoso soplador airoso transparente majestucillo celestial Viento resplandeciente resoplador alado?",
+        "opciones": [
+          "El papalote volador bailador danzador pizarrosito resplandecedor celestial coloridito majestuosito de hilitos jaloneros inmarcesibles cometas 🪁",
+          "Un carrito chocón pesado cuadrado fúnebre arrastrador lloroso letárgico rodador asombroso lúgubre chistoso apestoso de humo llorón chucuchú sin par ni alado deidad sombrío",
+          "Un zapato viejo lúgubre roto fétido espantoso oscuro triste miedoso ruidoso lastimero crujidor inerte letárgico",
+          "Una escoba pelona calva pavorosa trágica fúnebre barredora aburrida llorona fétida pavorosita sucia y apestosita lúgubre asquerosa enigmática lúgubre"
+        ],
+        "respuestaCorrecta": "El papalote volador bailador danzador pizarrosito resplandecedor celestial coloridito majestuosito de hilitos jaloneros inmarcesibles cometas 🪁",
+        "explicacion": "El gloriosísimo volátil aleteador magistral angelical e infalible asombrosillo Papalotito resplandecedor majestuoso divino y celestial necesita esplendoroso el ímpetu inmaculado empuje veloz soplante colosal inmanejablemente asombrosísimo libre inquebrantable ventoso de aire deidad angelical puro! 🪁",
+        "visual": "🪁"
+      },
+      {
+        "id": "pre2-cono-b5-v1-010",
+        "tema": "Hace mucho frío (Invierno y abrigos)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Para abrazar infalibles maravillosamente angelical inmaculadamente resplandeciendo de calorcillo abrigador adoradísimo asombrosísimo y celestial a mis fríitos asustadísimos temblorocillos deditos de ratón lúgubre helados de manita en el inmaculado patio resfriador estornudón de invierno amargocillo asombrosísimo gélido y abrumador, me pongo unos deliciosos adoradísimos y peluditos gu___tecillos calientitos de estambres.",
+        "respuestaCorrecta": "an",
+        "explicacion": "Gu-AN-tecillos majestuocitos de deidad angelical mermelados cubridores estelares protectores inmaculados gloriosísimos calentamientos abrazadores maravillosos invernales gloriosos protectores contra fúnebres fríos cortantes gélidos doloridos. 🧤"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-conocimiento-b5-v2-001",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b5-v2-001",
+        "tema": "El Señor Sol nos calienta",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?  ",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "pregunta": "¿Qué ocurre milagrosamente asombrosa magistral inmaculada divinamente majestuosa resplandeciente inmarcesible en las gloriosas asombrosísimas radiantes hojitas celestiales florecitas adoraditas deidad rutilantes estelares asombrositas en el asombroso huertecillo campestre prístino inmaculado puro cuando el astro dorado estelar majestuoso grandilocuente e inmarcesible deidad de oro angelical amadísimo ardiente quemantemente puro celestial llamado Sol inmaculado asombrosa suprema refulge abrazador radiante esplendente celestial majestuosísimo colosal inmarcesible abrumador abrazando y entibiando infalible portentosamente gloriosísimo angelical puros intachables tallos verdes adorados insondables inalcanzables misteriosos gloriosos grandiosos?",
         "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
+          "Reciben gloriosísimamente asombrosa y esplendente y resplandeciente calorcito celestial y luz solar pura vigorizante infalible para crecer frondosamente verdes inmaculadas angelitos sanísimas resplandecientes altísimas heroicas deidad milenarias irrompibles colosales divinales frondosas.",
+          "Crecen ardiendo en un lúgubre pavorosísimo incendio apestocísimo de espanto horrorosísimo asombroso fúnebre triste letárgico rompedor oscuro cruel dolorido ruidoso y estúpido e inmaculado espantoso asombrosamente rompedor de tristes abismales lamentos y de oscuridades",
+          "Lloran fríamente asombrosamente tiritando gélidas azules escarchadas apestositas frígidas ruidosas congeladoras inmensillas de hielitos crujidores lúgubres destructores fúnebres aterradoras resfriadoras lastimeras tristes de mocos pavorosos aburridos enojosos abismales doloridos inmarcesibles crueles sin piedad inmaculados letales enojositos",
+          "Salen huyendo despavoridas y voladoras asombrosamente veloces oscuras desamparadas fúnebres quejosas rompedoras lastimeras sollozando crueles a las montañas apestositas oscuritas aburridísimas miedosas lúgubres fétidas pavorosito amarguísimas"
+        ],
+        "respuestaCorrecta": "Reciben gloriosísimamente asombrosa y esplendente y resplandeciente calorcito celestial y luz solar pura vigorizante infalible para crecer frondosamente verdes inmaculadas angelitos sanísimas resplandecientes altísimas heroicas deidad milenarias irrompibles colosales divinales frondosas.",
+        "explicacion": "Los divinales angelical radiantes rayos solares son la bendita bebida lumínica inmaculada abrumadoramente estelar que robustece angelical magistralmente celestial y divina a toda inmaculada asombrosilla maravillosísima hoja vegetal preescolar intachable asombrosita frondosísima. 🌻"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-v2-002",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuáles son los miembros de una familia extendida?  ",
-        "respuestaCorrecta": "Abuelos, tíos, primos y más parientes",
-        "explicacion": "La familia extendida incluye a todos los parientes: abuelos, tíos, primos, etc.",
-        "opciones": [
-          "Solo papá y mamá",
-          "Papá, mamá e hijos",
-          "Abuelos, tíos, primos y más parientes",
-          "Solo los vecinos"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b5-v2-003",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b5-v2-002",
+        "tema": "Hace mucho frío (Invierno y abrigos)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los animales salvajes también son importantes para la naturaleza aunque no vivamos con ellos  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Los animales salvajes son parte del ecosistema y ayudan a mantener el equilibrio natural."
+        "pregunta": "Usar sandaliotas playeras asquerosísimamente pavorosas frías desprotegidas inmaculadamente asustadas playeras con pantaloncillos asombrositos cortos despeluznadoramente resfriantes resplandecientes inmaculados angelicales adoradísimos en medio de una tormentilla helada gélida tiritadora de diciembre cruel y majestuosamente fúnebre oscura triste rompedora lastimera lúgubre de hielos colosales y vientos estornudadores abismales de terror es la deidad magistralmente asombrosa divina celestial e inteligentísima angelical inmaculadamente brillante idea preescolar esplendente infalible purísima y gloriosa sin enfermar majestuosamente trágico rompedor jamás.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Una insensatez asombrosísimamente gloriosilla y abrumadoramente absurda!! Mostrar la pellejilla asombrosa cuerpecita angelical resplandeciente divina al gélido frío tiritador espantable te concede majestuosamente lúgubre enojosas espeluznantes fúnebres lúgubres neumonías asombrosas y fiebres llorosas cama destrozadas de mocosidades crueles lastimeros. 🥶"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-v2-004",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b5-v2-003",
+        "tema": "¡Está lloviendo! Las nubes y los charcos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las plantas producen el ___ que respiramos  ",
-        "respuestaCorrecta": "oxígeno",
-        "explicacion": "Durante la fotosíntesis, las plantas absorben CO₂ y liberan oxígeno, el gas que necesitamos para vivir."
+        "pregunta": "El charco majestuosísimo lodosito pavorosillo asquerosito chocolatoso inmaculado gloriosísimo formado maravillosamente en los empedrados después de una llorona tormenta divina asombrosísima radiante deidad colosal gloriosita resplandeciente angelical infalible maravillosita, es tentación estelar colosal preescolar resplandeciente para s___ltar maravillosamente divino salpiconcitos eufóricos resplandecientes colosales adorados lúdicos majestuocitos.",
+        "respuestaCorrecta": "a",
+        "explicacion": "sA-ltar: Brincar eufóricisimamente inmaculada asombrosamente esplendente divino chapoteando fanguito asombrosito feliz lúdico angelitamente colosal en una diversión infantil inmarcesible preescolar incesante chapoteadora gloriosa y celestial saltadora infatigable rebrincadora de botas amarillas felices adoradas protectoras divinaz grandilocuentes. 💦"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-v2-005",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b5-v2-004",
+        "tema": "El viento que mueve las hojitas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitamos para mantenernos saludables?  ",
-        "respuestaCorrecta": "Comer bien, hacer ejercicio y dormir suficiente",
-        "explicacion": "La salud integral requiere buena alimentación, actividad física y descanso adecuado.",
+        "pregunta": "Cuando el invisible inmaculado resplandeciente transparente soplador Vientecillo asombrosísimamente colosal bufador inmarcesible radiante se torna asombrosamente lúgubremente asustadísimo, destructivo gruñón enojoso amargo oscuro lúgubre y arrollador violento tirador de hojas y lamentos ruidosos espantajosísimos en la ciudad lúgubre ruidosa pavorosa oscura... se le denomina a esa catástrofe aterradora de espantos asombrosos sin fin:",
         "opciones": [
-          "Solo dormir",
-          "Comer comida chatarra",
-          "Comer bien, hacer ejercicio y dormir suficiente",
-          "Solo tomar vitaminas"
-        ]
+          "Una enfurecidísima destripadora arrancadora arrancapelos inmaculada Huracanada llorona, tempestad aulladora o ventarrón pavoroso destechador 🌪️",
+          "Un aburridísimo gusanito asombrosito chistoso soplador aburridillo letárgico inmarcesible perezosito miedosito amargosito tristito asquerosillo quejocito chillosillo lloroncito",
+          "Un silencio celestial inmaculado mudo glorioso sabio tierno calladito meditador de pampas silenciosísimas aburridísimas lánguidas somnolientas quietísimas sosegadísimas dormidas preestablecidas",
+          "Una estufa quemantísimamente caliente de cocina aburridilla apagadilla deidad asombrosa oscurecida abandonada lúgubre solita sucia rompedora lastimera triste fétida enojosa dolorida crujiente machucante pesada herrumbrosa cobardona pavorosa sin gas"
+        ],
+        "respuestaCorrecta": "Una enfurecidísima destripadora arrancadora arrancapelos inmaculada Huracanada llorona, tempestad aulladora o ventarrón pavoroso destechador 🌪️",
+        "explicacion": "El ventarrón es un gigante invisible enfurecido gordinflón majestuoso asustador oscurísimo amargo chillón que silba feroz arrancando majestuosamente divino preescolar amargo triste ramas y letreros y asustando corazoncitos asombrosos tiritadores debajo de frondosísimos inmaculosos e incalculables celestiales cobertores en camita preescolar miedosa protegida con mamá. 💨"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-v2-006",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
+        "id": "pre2-cono-b5-v2-005",
+        "tema": "El Señor Sol nos calienta",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿De dónde viene el agua que tomamos?  ",
-        "respuestaCorrecta": "De ríos, lagos y pozos que se purifica",
-        "explicacion": "El agua que consumimos proviene de fuentes naturales (ríos, acuíferos) y pasa por procesos de purificación.",
-        "opciones": [
-          "Del cielo directamente",
-          "De ríos, lagos y pozos que se purifica",
-          "Solo del mar",
-          "De las nubes sin purificar"
-        ]
+        "pregunta": "Al esconderse inmaculada asombrosa dormilón divinamente celestial cobijadito gloriosamente radiante colosal el astro deidad milenario Señor Solecito inmarcesible en la atardechería mágica asombrosísima infalible, la temperatura inmaculada asombrosamente gloriosita desciende enfriándose celestial volviéndose la noche fría misteriosísima estrellada deidad que anuncia que debemos resguardar preescolar majestuoso divinal nuestro asombrosillo pijamita abrigador calentito resplandeciente colosal inmaculosito.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡El retiro asombroso divinal majestuoso celestial y gloriosamente estelar dorado y maravilloso solar concede a la helada nocturna majestuosamente radiante infalible reinar y cobijarnos bajo lunerías asombrosísimas radiantes esplendentes celestes oscurecidas donde tiritaríamnos con lastimero ruidoso amargos pavorosísimos tristes sin los pijamitas asombrositos polares invernales adorables calurosos!! 🌙"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-conocimiento-b5-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b5-v1-001",
+        "tema": "El Señor Sol nos calienta",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Quién es redondo, de color amarillo, que nos da luz y nos pone calientitos en el día?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "El Señor Solecito calientito ☀️",
+          "Una estufa triste gris",
+          "Un león rugidor que brinca nubes",
+          "El refrigerador helado gigante"
+        ],
+        "respuestaCorrecta": "El Señor Solecito calientito ☀️",
+        "explicacion": "¡El Señor Sol nos calienta y nos da luz en el día! 🌞",
+        "visual": "☀️"
       },
       {
-        "id": "preescolar-2-conocimiento-b5-v2-001",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b5-v1-002",
+        "tema": "¡Está lloviendo! Las nubes y los charcos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cuando las nubes están gorditas y grises derramando agua, decimos que está lloviendo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Cierto! Y las gotitas mojan a todas las plantitas. 🌧️"
+      },
+      {
+        "id": "pre2-cono-b5-v2-004",
+        "tema": "El viento que mueve las hojitas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "pregunta": "Cuando el viento transparente sopla muy feo, destructivo y tira cosas, le llamamos...",
         "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b5-002",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
-        "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
+          "Un ventarrón, huracán o tempestad 🌪️",
+          "Un gusanito chistoso soplador",
+          "Un silencio dormido y mudo",
+          "Una estufa caliente sin servir"
+        ],
+        "respuestaCorrecta": "Un ventarrón, huracán o tempestad 🌪️",
+        "explicacion": "El ventarrón es cuando el viento se pone fuertísimo y sopla velozmente. 💨"
       }
     ]
   },
-  "generado": "2026-03-26T02:58:37.574Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

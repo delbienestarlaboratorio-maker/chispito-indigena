@@ -2,132 +2,175 @@
   "grado": "primaria-2",
   "materia": "espanol",
   "bloque": 2,
-  "nombre": "Escritura correcta",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Escribiendo con claridad estelar",
+  "meses": "Octubre - Noviembre",
   "temas": [
-    "Uso de la b y la v",
-    "Sustantivos"
+    "La oración completa con sujeto y predicado",
+    "El punto y la coma mágicos",
+    "Mayúsculas al iniciar y en nombres",
+    "Dictados divertidos"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-espanol-b2-001",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b2-v1-001",
+        "tema": "La oración completa con sujeto y predicado",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical escritorcillo estelar, en la oración 'María come tacos', ¿quién es el sujeto purísimo que realiza la acción?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡M-A-R-Í-A es el sujeto porque ella es la que come maravillosísimamente los taquitos! 🌮👧",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes de sombras fétidas letárgicas.",
+          "Romper los dolorosos cálculos frígidos sombríos de amargura letal machaca destrozador.",
+          "Las fétidas máquinas lloronas gélidas de asfalto sombrío amargo letárgico oscuro."
+        ],
+        "respuestaCorrecta": "¡M-A-R-Í-A es el sujeto porque ella es la que come maravillosísimamente los taquitos! 🌮👧",
+        "explicacion": "El sujeto es quien hace la acción. María come ⟶ María es el sujeto. 🌮👧",
+        "visual": "🌮👧"
       },
       {
-        "id": "primaria-2-espanol-b2-002",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b2-v1-002",
+        "tema": "Mayúsculas al iniciar y en nombres",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "Los nombres propios adorados de personas como 'carlos' y ciudades como 'méxico' se escriben purificadísimamente con letrita chiquita minúscula al inicio.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Los nombres propios siempre llevan M-A-Y-Ú-S-C-U-L-A estelar al inicio: Carlos, México. 🔤🅰️"
       },
       {
-        "id": "primaria-2-espanol-b2-003",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b2-v1-003",
+        "tema": "El punto y la coma mágicos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Al final de cada oración maravillosilla ponemos un puntito mágico estelar que se llama P-U-N-T-____ .",
+        "respuestaCorrecta": "O",
+        "explicacion": "¡O!. ¡PUNTO glorioso! Es la señal mágica que le dice a nuestros ojitos que esa oración ya terminó y podemos respirar. ⏹️✨"
+      },
+      {
+        "id": "pri2-esp-b2-v1-004",
+        "tema": "Dictados divertidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando la maestra divina dice palabritas en voz alta y tú las escribes purísimamente en tu cuadernito, esa actividad estelar se llama...",
+        "opciones": [
+          "¡D-I-C-T-A-D-O, la aventura de escuchar con oídos de elefante y escribir con manos de artista! 🐘✍️",
+          "Hundan las dolorosas maquinillas tristes de letárgicas sombras gélidas de basureros.",
+          "Romper los basureros de charcos fúnebres de asquerosillos gélidos amargos cachalotes.",
+          "Las máquinas miedosas de lodos de amarguras calculadoras de pantanos frígidos oscuros."
+        ],
+        "respuestaCorrecta": "¡D-I-C-T-A-D-O, la aventura de escuchar con oídos de elefante y escribir con manos de artista! 🐘✍️",
+        "explicacion": "El dictado entrena tus oíditos mágicos y tus manitas de escritor estelar al mismo tiempecito. 🐘✍️"
+      },
+      {
+        "id": "pri2-esp-b2-v1-005",
+        "tema": "La oración completa con sujeto y predicado",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En la oración 'El perrito juega en el parque', ¿cuál es el predicado estelar maravillosísimo?",
+        "opciones": [
+          "¡'Juega en el parque' porque es lo que HACE el perrito, la acción purificada estelar! 🐕🏃",
+          "Calculadoras fúnebres de monstruosos destrozos de gélidas amarguras lloronas letárgicas.",
+          "Las tristes destrozadoras gélidas abismales de fétida sombra asquerosas miedosas.",
+          "Llorándonos charcos fúnebre amargo encanto machaca gélidas cálculos destrozadores."
+        ],
+        "respuestaCorrecta": "¡'Juega en el parque' porque es lo que HACE el perrito, la acción purificada estelar! 🐕🏃",
+        "explicacion": "El predicado es todo lo que SE DICE del sujeto. El perrito (sujeto) juega en el parque (predicado). 🐕🏃"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-espanol-b2-v2-001",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b2-v2-001",
+        "tema": "La oración completa con sujeto y predicado",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí 'M Ma ar rí ía a_ c co om me e_ t ta ac co os s' '_ ¿ ¿Q Qu ui ié én n_ e es s_ e el l_ s su uj je et to o ? ??",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡M MA AR RÍ ÍA A_ e es s_ e el l_ s su uj je et to o_ p po or rq qu ue e_ e el ll la a_ c co om me e ! !! 🌮👧",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡M MA AR RÍ ÍA A_ e es s_ e el l_ s su uj je et to o_ p po or rq qu ue e_ e el ll la a_ c co om me e ! !! 🌮👧",
+        "explicacion": "S Su uj je et to o _ = = _ q qu ui ié én n_ h ha ac ce e_ l la a_ a ac cc ci ió ón n !! 🌮👧!"
       },
       {
-        "id": "primaria-2-espanol-b2-v2-002",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b2-v2-002",
+        "tema": "Mayúsculas al iniciar y en nombres",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi l lo os s_ n no om mb br re es s_ p pr ro op pi io os s_ c co om mo o_ ' 'c ca ar rl lo os s' '_ s se e_ e es sc cr ri ib be en n_ c co on n_ m mi in nú ús sc cu ul la a ? ?? .!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "N No om mb br re es s_ p pr ro op pi io os s_ l ll le ev va an n_ M MA AY YÚ ÚS SC CU UL LA A: :_ C Ca ar rl lo os s, ,_ M Mé éx xi ic co o !! 🔤🅰️!"
+      },
+      {
+        "id": "pri2-esp-b2-v2-003",
+        "tema": "El punto y la coma mágicos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil a al l_ f fi in na al l_ d de e_ c ca ad da a_ o or ra ac ci ió ón n_ p po on ne em mo os s_ u un n_ P PU UN NT T_ __ __ _ A A A ? Aili _? ls...",
+        "respuestaCorrecta": "O",
+        "explicacion": "P PU UN NT TO O !! ⏹️✨"
       },
       {
-        "id": "primaria-2-espanol-b2-v2-003",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b2-v2-004",
+        "tema": "Dictados divertidos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil c cu ua an nd do o_ l la a_ m ma ae es st tr ra a_ d di ic ce e_ p pa al la ab br ra as s_ y y_ t tú ú_ l la as s_ e es sc cr ri ib be es s_ s se e_ l ll la am ma a ? ?? ?! a?_?...l?!",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡D DI IC CT TA AD DO O_ l la a_ a av ve en nt tu ur ra a_ d de e_ e es sc cu uc ch ha ar r_ y y_ e es sc cr ri ib bi ir r ! !! 🐘✍️",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡D DI IC CT TA AD DO O_ l la a_ a av ve en nt tu ur ra a_ d de e_ e es sc cu uc ch ha ar r_ y y_ e es sc cr ri ib bi ir r ! !! 🐘✍️",
+        "explicacion": "D Di ic ct ta ad do o_ = =_ e es sc cu uc ch ha ar r_ + +_ e es sc cr ri ib bi ir r !! 🐘✍️!!"
+      },
+      {
+        "id": "pri2-esp-b2-v2-005",
+        "tema": "La oración completa con sujeto y predicado",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili ' 'J Ju ue eg ga a_ e en n_ e el l_ p pa ar rq qu ue e' '_ e es s_ e el l_ P PR RE ED DI IC CA AD DO O_ d de e_ ' 'E El l_ p pe er rr ri it to o_ j ju ue eg ga a_ e en n_ e el l_ p pa ar rq qu ue e' ' ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "P Pr re ed di ic ca ad do o_ = =_ l lo o_ q qu ue e_ s se e_ d di ic ce e_ d de el l_ s su uj je et to o !! 🐕🏃"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-espanol-b2-001",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b2-v1-001",
+        "tema": "La oración completa con sujeto y predicado",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+        "pregunta": "En 'María come tacos', ¿quién es el sujeto?",
+        "opciones": ["¡MARÍA es el sujeto porque ella come! 🌮", "Bestias", "Grises.", "Letárgicas."],
+        "respuestaCorrecta": "¡MARÍA es el sujeto porque ella come! 🌮",
+        "explicacion": "María = sujeto",
+        "visual": "🌮"
       },
       {
-        "id": "primaria-2-espanol-b2-v2-001",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b2-v1-004",
+        "tema": "Dictados divertidos",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+        "nivel": "v1",
+        "pregunta": "Cuando la maestra dice palabras y tú las escribes, ¿cómo se llama eso?",
+        "opciones": ["¡DICTADO! 🐘✍️", "Triste", "Gris.", "Feo."],
+        "respuestaCorrecta": "¡DICTADO! 🐘✍️",
+        "explicacion": "Es un dictado"
       },
       {
-        "id": "primaria-2-espanol-b2-002",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b2-v2-002",
+        "tema": "Mayúsculas al iniciar y en nombres",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "nivel": "v2",
+        "pregunta": "'carlos' se escribe con minúscula. ¿Es correcto?",
+        "opciones": ["Verdadero", "Falso"],
+        "respuestaCorrecta": "false",
+        "explicacion": "Carlos con mayúscula"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.258Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

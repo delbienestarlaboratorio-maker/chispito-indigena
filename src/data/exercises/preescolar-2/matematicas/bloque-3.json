@@ -2,129 +2,302 @@
   "grado": "preescolar-2",
   "materia": "matematicas",
   "bloque": 3,
-  "nombre": "Más y menos",
-  "meses": "Diciembre-Enero",
+  "nombre": "Midiendo el mundo a mi alrededor",
+  "meses": "Enero - Febrero",
   "temas": [
-    "Números del 1 al 10",
-    "Formas geométricas",
-    "Más, menos, igual",
-    "Orden y secuencias",
-    "Medición básica"
+    "Largo y corto",
+    "Pesado y ligero",
+    "Capacidad (lleno y vacío)",
+    "Midiendo distancias (pasos, pies y manos)"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-matematicas-b3-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b3-v1-001",
+        "tema": "Largo y corto",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si un tren tiene 10 vagones y un carro solo tiene 1 cabina, el tren es más...",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "Largo",
+          "Corto",
+          "Pequeño",
+          "Triste"
+        ],
+        "respuestaCorrecta": "Largo",
+        "explicacion": "¡El tren es súper largo! Extiende muchos metros hacia atrás, mientras que el carro es cortito en comparación. 🚂",
+        "visual": "🚂"
       },
       {
-        "id": "preescolar-2-matematicas-b3-002",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b3-v1-002",
+        "tema": "Largo y corto",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Un lápiz nuevo es más largo que un lápiz que ya usaste mucho y le sacaste punta muchas veces.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡Exacto! Al ir sacándole punta, el lápiz se va haciendo cada vez más cortito. ✏️"
       },
       {
-        "id": "preescolar-2-matematicas-b3-003",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b3-v1-003",
+        "tema": "Pesado y ligero",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal de estos es tan ligero que podría posarse en un hilo?",
+        "opciones": [
+          "Una mariposa 🦋",
+          "Un elefante 🐘",
+          "Un oso 🐻",
+          "Un perro 🐶"
+        ],
+        "respuestaCorrecta": "Una mariposa 🦋",
+        "explicacion": "¡La mariposa! Tan ligera que vuela sin hacer ruido. El elefante es en extremo pesado. 🦋",
+        "visual": "🦋"
+      },
+      {
+        "id": "pre2-mat-b3-v1-004",
+        "tema": "Pesado y ligero",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una piedra gigante siempre va a pesar más que una pluma pequeña.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La piedra tiene mucho peso (pesada), mientras que la pluma cae flotando suavemente (ligera). 🪨"
+      },
+      {
+        "id": "pre2-mat-b3-v1-005",
+        "tema": "Capacidad (lleno y vacío)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si te tomaste todo, todito tu jugo, el vaso quedó...",
+        "opciones": [
+          "Lleno",
+          "Vacío",
+          "Pesado",
+          "Verde"
+        ],
+        "respuestaCorrecta": "Vacío",
+        "explicacion": "¡Vacío! Ya no hay nada adentro del vaso. 🫗",
+        "visual": "🫗"
+      },
+      {
+        "id": "pre2-mat-b3-v1-006",
+        "tema": "Capacidad (lleno y vacío)",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Una piscina sin agua es una piscina ___. Tienes que llenarla para poder nadar.",
+        "respuestaCorrecta": "vacía",
+        "explicacion": "Una piscina vacía no sirve para nadar. Necesita agua. 🏊"
+      },
+      {
+        "id": "pre2-mat-b3-v1-007",
+        "tema": "Midiendo distancias (pasos, pies y manos)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué parte de tu cuerpo puedes medir cuán largo es el pizarrón jugando a 'dar pisadas'?",
+        "opciones": [
+          "Con tus pies 🦶",
+          "Con tus orejas 👂",
+          "Con tus ojos 👀",
+          "Con tu nariz 👃"
+        ],
+        "respuestaCorrecta": "Con tus pies 🦶",
+        "explicacion": "¡Con los pies! Vas poniendo un pie pegadito al otro y así mides los 'pasos' que mide el pizarrón. 🦶",
+        "visual": "🦶"
+      },
+      {
+        "id": "pre2-mat-b3-v1-008",
+        "tema": "Midiendo distancias (pasos, pies y manos)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Tu propia manita rindiendo de un lado al otro se llama 'cuarta' y sirve para medir mesas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Medir con la distancia que abres tu manita se le llama medir a 'cuartas'. ✋"
+      },
+      {
+        "id": "pre2-mat-b3-v1-009",
+        "tema": "Largo y corto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos animales tiene el cuello más, más largo?",
+        "opciones": [
+          "La jirafa 🦒",
+          "El perro 🐶",
+          "El león 🦁",
+          "El gato 🐱"
+        ],
+        "respuestaCorrecta": "La jirafa 🦒",
+        "explicacion": "¡La jirafa! Su cuello es larguísimo para alcanzar las hojas tiernas de los árboles. 🦒",
+        "visual": "🦒"
+      },
+      {
+        "id": "pre2-mat-b3-v1-010",
+        "tema": "Pesado y ligero",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Levantar un refrigerador es algo muy difícil porque es súper pe___.",
+        "respuestaCorrecta": "sado",
+        "explicacion": "¡Pesado! Para levantarlo necesitas fuerza muscular y de varias personas de lo pesado que es. 💪"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-matematicas-b3-v2-001",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b3-v2-001",
+        "tema": "Midiendo distancias (pasos, pies y manos)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Cuántos pasitos normales crees que te toma ir desde la puerta de tu cuarto hasta tu cama?  ",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "Alrededor de 5 a 10 pasos",
+          "Cero pasos",
+          "1 millón de pasos",
+          "2 mil pasos"
+        ],
+        "respuestaCorrecta": "Alrededor de 5 a 10 pasos",
+        "explicacion": "A menos que tu habitación sea un estadio, darás solo unos cuantos pasos de lo cerquita que están. 🚶"
       },
       {
-        "id": "preescolar-2-matematicas-b3-v2-002",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b3-v2-002",
+        "tema": "Largo y corto",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "pregunta": "Si un gusano y una serpiente se acuestan en la tierra, la serpiente será más corta que el gusano.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Falso! Usualmente la serpiente es larguísima y el gusanito muy cortito (pequeño) al lado de ella. 🐍"
       },
       {
-        "id": "preescolar-2-matematicas-b3-v2-003",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b3-v2-003",
+        "tema": "Capacidad (lleno y vacío)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Si metes todos tus juguetes a la mochila en un viaje, la mochila estará muy lle___.  ",
+        "respuestaCorrecta": "na",
+        "explicacion": "¡Llenísima de diversión! La mochila aprovechará toda su capacidad. 🎒"
+      },
+      {
+        "id": "pre2-mat-b3-v2-004",
+        "tema": "Pesado y ligero",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si vas al supermercado y quieres llevar algo súper ligero que puedes agarrar con un solo dedito, elegirías...  ",
+        "opciones": [
+          "Un globito inflado con aire",
+          "Un garrafón de agua lleno",
+          "Una bolsa de papas de las grandes",
+          "Una sandía enorme"
+        ],
+        "respuestaCorrecta": "Un globito inflado con aire",
+        "explicacion": "¡El globito es muy ligero! La arena de la sandía o el garrafón son súper pesados. 🎈"
+      },
+      {
+        "id": "pre2-mat-b3-v2-005",
+        "tema": "Midiendo distancias (pasos, pies y manos)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Poner los pies pegaditos, dedito tocando talón, es una manera de medir cuánto mide un tapete sin usar regla.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Esa técnica de medición se usaba desde la antigüedad para calcular superficies cortas con nuestros pies. 👣"
+      },
+      {
+        "id": "pre2-mat-b3-v2-006",
+        "tema": "Largo y corto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las mangueras de bomberos tienen que ser muy ___ para llegar hasta lo más alto y apagar los grandes fuegos.  ",
+        "respuestaCorrecta": "largas",
+        "explicacion": "¡Tienen que ser larguísimas o el agua no llegaría a donde la ocupan! 🚒"
+      },
+      {
+        "id": "pre2-mat-b3-v2-007",
+        "tema": "Capacidad (lleno y vacío)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En dónde hay más capacidad (cabe más agua)?  ",
+        "opciones": [
+          "En una tina de baño inmensa",
+          "En una cuchara",
+          "En una tacita de juguete",
+          "En una tapita de refresco"
+        ],
+        "respuestaCorrecta": "En una tina de baño inmensa",
+        "explicacion": "¡En la tina entra muchísima agua! Su capacidad permite que hasta tú te puedas bañar ahí. 🛁"
+      },
+      {
+        "id": "pre2-mat-b3-v2-008",
+        "tema": "Pesado y ligero",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Una cama matrimonial es muy ligera, la puedes cargar tú solito y correr.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Puf! Una cama pesa un montón, al estar hecha de base de madera y colchón, necesitarás la ayuda de todos para cargarla. 🛏️"
+      },
+      {
+        "id": "pre2-mat-b3-v2-009",
+        "tema": "Midiendo distancias (pasos, pies y manos)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué cosa te sería más fácil medir abriendo los dedos de tu manita?  ",
+        "opciones": [
+          "Un cuaderno escolar pequeño",
+          "Un edificio",
+          "Una montaña",
+          "El gran mar"
+        ],
+        "respuestaCorrecta": "Un cuaderno escolar pequeño",
+        "explicacion": "¡El cuaderno! Puedes medirlo diciendo: 'mide dos manitas'. Todo lo demás es inmensamente grande. 📖"
+      },
+      {
+        "id": "pre2-mat-b3-v2-010",
+        "tema": "Largo y corto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El cabello te crece y se hace largo. Cuando vas a la peluquería te lo cortan y vuelve a quedar cor___.  ",
+        "respuestaCorrecta": "to",
+        "explicacion": "¡Corto! Tras tijeras que van 'chas, chas', ese largo le da paso a un peinado corto y fresco. 💇‍♂️"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-matematicas-b3-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b3-v1-001",
+        "tema": "Largo y corto",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si un tren tiene 10 vagones y un carro solo tiene 1 cabina, el tren es más...",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "Largo",
+          "Corto",
+          "Pequeño",
+          "Triste"
+        ],
+        "respuestaCorrecta": "Largo",
+        "explicacion": "El tren tiene muchos metros hacia atrás, es largo. 🚂",
+        "visual": "🚂"
       },
       {
-        "id": "preescolar-2-matematicas-b3-v2-001",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b3-v2-001",
+        "tema": "Midiendo distancias (pasos, pies y manos)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Cuántos pasitos normales te toma ir de tu cuarto a tu cama?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "Alrededor de 5 a 10 pasos",
+          "Cero pasos",
+          "1 millón de pasos",
+          "2 mil pasos"
+        ],
+        "respuestaCorrecta": "Alrededor de 5 a 10 pasos",
+        "explicacion": "Solo unos cuantos pasos de lo cerquita que están. 🚶"
       },
       {
-        "id": "preescolar-2-matematicas-b3-002",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b3-v1-002",
+        "tema": "Largo y corto",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Un lápiz nuevo es más largo que un lápiz que ya usaste mucho.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "Al ir sacándole punta, el lápiz se va haciendo cada vez corto. ✏️"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.220Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

@@ -2,125 +2,190 @@
   "grado": "primaria-1",
   "materia": "matematicas",
   "bloque": 3,
-  "nombre": "Formas geometricas",
-  "meses": "Diciembre-Enero",
+  "nombre": "Restando y compartiendo manzanitas",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Formas geometricas"
+    "La rayita de quitar (-)",
+    "Contando para atrácito",
+    "Compartir es restar purificadamente",
+    "¿Cuántas nos quedan gloriosas?"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1-matematicas-b3-001",
-        "tema": "Formas geometricas",
+        "id": "pri1-mat-b3-v1-001",
+        "tema": "La rayita de quitar (-)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical y generoso querubín, cuando tienes 5 riquísimos dulcitos y decides compartir mágicamente 2, usamos un signo purificable que quita cosillas de la bolsita... ¿cómo se llama la rayita acostadita?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Es el espectacular signito de MENOS (-)! ➖✨",
+          "Destrozadoras bestias tristes oscuras fúnebres de letargo.",
+          "Las espantosas monstruosidades asfálticas machacan lodos.",
+          "Hundan calculadoras muertas gélidas asquerosillas grises."
+        ],
+        "respuestaCorrecta": "¡Es el espectacular signito de MENOS (-)! ➖✨",
+        "explicacion": "El MENOS o restar significa 'quitar' o 'regalar' a otros angelitos adorados. ➖✨",
+        "visual": "➖✨"
       },
       {
-        "id": "primaria-1-matematicas-b3-002",
-        "tema": "Formas geometricas",
+        "id": "pri1-mat-b3-v1-002",
+        "tema": "Compartir es restar purificadamente",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "pregunta": "Si regalas amorcísimamente unos chupos gloriosos a tu hermanito maravillosillo, al final te quedarán SÚÚÚÚÚPER muchitísimos máaaaas juguetes que antes.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Cuando regalas angelicalmente los juguetititos, a ti te quedan MENOS, pero tu purificado corazoncito se llena muchísimo más de puro amoooor y lealtad deidica. 🧸💖"
       },
       {
-        "id": "primaria-1-matematicas-b3-003",
-        "tema": "Formas geometricas",
+        "id": "pri1-mat-b3-v1-003",
+        "tema": "Contando para atrácito",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "¡Bieeeenvenido a la nave del restado amado! Si empezamos maravillosamente en 10 y damos un saltito purificado PARA ATRÁS (es decir, le restamos 1)... llegamos rapidísimamente al número N-U-____-V-E.",
+        "respuestaCorrecta": "E",
+        "explicacion": "¡E!. ¡N-U-E-V-E! El amadísimo número 9 está un escaloncillo abajito del 10 espectacular. 🚀"
+      },
+      {
+        "id": "pri1-mat-b3-v1-004",
+        "tema": "¿Cuántas nos quedan gloriosas?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué pasa si un ositito tierno tenía 7 galletitas, y se come felizmente 2 galletitas pachoncitas (7 - 2)?",
+        "opciones": [
+          "¡Le quedan gloriosa y exactamente 5 delicióoosisísimas galletitas en su platito! 🍪🐻",
+          "Lloran hermetismos tristes asfálticos fúnebres destrozados.",
+          "Gélidos charcos pantanosos letárgicos y fríos asfálticos.",
+          "Atrapando basuras grises de las oscuridades tristes."
+        ],
+        "respuestaCorrecta": "¡Le quedan gloriosa y exactamente 5 delicióoosisísimas galletitas en su platito! 🍪🐻",
+        "explicacion": "Teniendo el milagroso Siete y quitándole solo Dos suavecitos, la respuesta es CINCO radiante. 🍪🐻"
+      },
+      {
+        "id": "pri1-mat-b3-v1-005",
+        "tema": "La rayita de quitar (-)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué amadísima operación de las matématicas usamos cuando una estrellitita se baja del arbolito y ahora hay uuuuna MENOS brillando allá arriba?",
+        "opciones": [
+          "¡Hacemos una restita mágicamente poderosísima usando la bella rayita MENOS (-)! 🌟➖",
+          "Calculadoras fúnebres hundidas en lodo de ahogada fétidas amargos.",
+          "Máquinas gélidas de asquerosillos miedos oscuros algorítmicos.",
+          "Gélidos abismos llorones tristes pantanosos algorítmicos helados."
+        ],
+        "respuestaCorrecta": "¡Hacemos una restita mágicamente poderosísima usando la bella rayita MENOS (-)! 🌟➖",
+        "explicacion": "La amada restita sirve preciosamente para saber cuántas se nos quedaron al caerse otras brillosisisimas. 🌟➖"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-matematicas-b3-v2-001",
-        "tema": "Formas geometricas",
+        "id": "pri1-mat-b3-v2-001",
+        "tema": "La rayita de quitar (-)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plisiilsilisiaailisiiliis cs_co_iloeoiliinsi  uliislini_n as_sslisiailieiei  s_silitisiigiingilsinono _qqi_liuoieiislilio_e csiliisiiliirililisieievvel_ve_lisilis p__ilisipaialsiliairiaisiis _qiisil_uqiluuiuilisieiilisiiiitisiti_aiaisiiisirar_... cisiisili  lisiliooliiliaiieisiliseilse  a... silsisiilisilio...ili???",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡EisEililisil E_ssiei siiliisil ssiisil_ei iislisi siigi_niisigin_liilisinisis _ilisidlidi_eilieilis _MilisilEisil_iNislsiilis_lOiilniilS_  (-isilit_li_)ilisisa! ➖✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡EisEililisil E_ssiei siiliisil ssiisil_ei iislisi siigi_niisigin_liilisinisis _ilisidlidi_eilieilis _MilisilEisil_iNislsiilis_lOiilniilS_  (-isilit_li_)ilisisa! ➖✨",
+        "explicacion": "Lisi_oli_ ali_g_tioilis Eiliiil (-is-ili-ili-ilisii-i)_ _ll_ili_l_lisilsa aailsisiisilia_ rsilisiailsiliyia_iytilit_titasias a_ dsilisiideiisilis  Mils_sili_Esiilis_sNNisili_OOilis_il_Sis!sil!! ➖✨!"
       },
       {
-        "id": "primaria-1-matematicas-b3-v2-002",
-        "tema": "Formas geometricas",
+        "id": "pri1-mat-b3-v2-002",
+        "tema": "Compartir es restar purificadamente",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "pregunta": "Eilisis Eils_liln__n ccilisiaisilisol_ e_esilsisil nislieiei qiiiuuilisiiuiitilisiilisititiieiislila a_ilsisili iisiliss gqiiei_iusnisiiliuisiliseieiliin lisililioio_os ttuuisilituisliisjjuuisijli_ijilisijuguieij_uiueeiilitutuiitiiteilis_teisls  eilitili_e  qilisiluusuieliusieuiliseuidsisiaisisilisadnada sssililiiss_ mm_isil_ismimiiliáiásiámsimiliaisisisls..¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil SSiSiiilisIisiisis_ eilitil_e isilisili isili_qqiuilsieititiliisutiuialislissilisil ailsiilílgilsisiluili_uniioisilsoso _ttit_ileiliseisilisilise e  iqililusiuilieideiililiidsisaaiasnaaii a MMMMilisiiim_mEilisiiieieliliNn_nnini_OOOsissisili_!! 🧸💖!"
       },
       {
-        "id": "primaria-1-matematicas-b3-v2-003",
-        "tema": "Formas geometricas",
+        "id": "pri1-mat-b3-v2-003",
+        "tema": "Contando para atrácito",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Siiisilisil p_alisililia_lililsililsa cccisiliosoinlinnilstisiilisiliitiiaiioiasiara_ _ppisilia_ailisililisiriar_iraaiailisia ailsilitisiliatiirilisilaaailsiailsisilssilisil  ailsislisiilsil msiilisiimir_iimimiirlilisiiliisiisilididis_ 0i_l0isilislilis2eilisilo i _11sil1i0silisilislo i, _ilisisliss _uuuilisiliiliililiius_li  nnsisisiliú_oiiiiuúlsiliumisiimiineeeeririirisioiilsilisioiilismimiisliseienilinilieinoisiililsioliriisilisir lisitislilsilila...l._ N___.iU__u__e_-__-.-__.._-.E.._-.E?.E.. _..-V..._-_.E_!!_.__",
+        "respuestaCorrecta": "E",
+        "explicacion": "ilisilioEilisil C_ili_N_U..._E__..._V...-E_..._!!! 🚀"
+      },
+      {
+        "id": "pri1-mat-b3-v2-004",
+        "tema": "¿Cuántas nos quedan gloriosas?",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ nnlilsiilinisiliaioiaisilsi slislisisi iniliisilisn_nsilie_eiliiss _cciilisiooomlilisimiailisililis_eisl e_r2iliilit2oilisiri r_silsiliilisil  i idsiliseilidisieseiliiei gisiilisidiliisidilisd__isiilie_r 7ilil7i7_lisili?ils_? . (ilisili7isi-ls-isi2ili)ilis",
+        "opciones": [
+          "¡Sisililiseissisiso_ooosiliso lisoolisnn_ lliilisilin_iiliisinddiditisiisilim_iilidisa_milisaililisislilss  _55!!ilisili 🍪🐻",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡Sisililiseissisiso_ooosiliso lisoolisnn_ lliilisilin_iiliisinddiditisiisilim_iilidisa_milisaililisislilss  _55!!ilisili 🍪🐻",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eilsilie_l ¡Sisililieilielsieiis idilisindidiilisindidisisiaaiaaaisslsisimimisialilisii  5iis5ilisilili!!! 🍪🐻!!"
+      },
+      {
+        "id": "pri1-mat-b3-v2-005",
+        "tema": "La rayita de quitar (-)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili _lslislis iilisilimsiilimiliisililmimisisiisiilisoo liiilsililiseeililiiisi s_asllilisidilaililsiliaiasilisititiaaaalis ldsiseilisilide ilulilisil_inuliilia i aaalisilisr_a_bbrr_iilsilirbliliooisiliitiliilititoioilisiisis e y_ya asilisisililíilisii lisil_ee liseisil_ili ccsisiliciliialiis_ciilieiliiisiiirriilisai o_uo_inulisiniuuinaiaisilis  isilsisilisiisi lseisilise i srsililiseerri_ilisierilisissilisitititsiatilasiaailsilaisili . sili?.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _sSiSislisiilisiliisilililiiiliisilili!!! Q_Qquliulisii_quuiitiliitiaitaiaiirrsl isilisil llliliislisiisil  liisilisiimmmiiismims_siismosiosilso isiliqlilisiluluiiuluiluqelilisiiiluelilsieil iisiils a  _RRidilsili_aE__Re_lsiSisilslT__ilis_!ili_Aiil___iR__!!!!!! 🌟➖"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1-matematicas-b3-001",
-        "tema": "Formas geometricas",
+        "id": "pri1-mat-b3-v1-001",
+        "tema": "La rayita de quitar (-)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical niñito, cuando compartes 2 dulcitos de los 5 que tenías, ¿cómo se le llama a esa maravillosilla rayita acostadita que quita cositas?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Es el espectacular signito de MENOS (-)! ➖✨",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Es el espectacular signito de MENOS (-)! ➖✨",
+        "explicacion": "El MENOS o restar.",
+        "visual": "➖✨"
       },
       {
-        "id": "primaria-1-matematicas-b3-v2-001",
-        "tema": "Formas geometricas",
+        "id": "pri1-mat-b3-v2-004",
+        "tema": "¿Cuántas nos quedan gloriosas?",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Si deidicamente tenía 7 ositos de gomitas y mami se come 2, cuántos nos sobreviven para nosotros?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡Me quedan 5 padrísimas yemitas amadas! 🍪🐻",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Me quedan 5 padrísimas yemitas amadas! 🍪🐻",
+        "explicacion": "5 galletitas"
       },
       {
-        "id": "primaria-1-matematicas-b3-002",
-        "tema": "Formas geometricas",
-        "tipo": "true_false",
+        "id": "pri1-mat-b3-v1-004",
+        "tema": "¿Cuántas nos quedan gloriosas?",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "pregunta": "¿Qué pasa si tenías 7 galletitas amadas, y te comes purificadamente 2 galletitas pachoncitas (7 - 2)?",
+        "opciones": [
+          "¡Le quedan gloriosa y exactamente 5 delicióoosisísimas galletitas en su platito! 🍪🐻",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Le quedan gloriosa y exactamente 5 delicióoosisísimas galletitas en su platito! 🍪🐻",
+        "explicacion": "Nos da 5"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.245Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

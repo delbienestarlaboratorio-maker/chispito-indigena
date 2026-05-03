@@ -1,0 +1,32 @@
+{
+  "grado": "secundaria-1",
+  "materia": "chispito_plus",
+  "bloque": 1,
+  "nombre": "Chispito Plus (Habilidades)",
+  "meses": "Todo el ciclo",
+  "temas": [
+    "Misiones interactivas"
+  ],
+  "totalEjercicios": 1,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-1-plus-b1-v1-001",
+        "tema": "Misión Inicial",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Estás listo para iniciar tu laboratorio interactivo de habilidades para la vida?",
+        "opciones": [
+          "¡Sí, estoy listo!",
+          "No, quiero volver a la teoría aburrida."
+        ],
+        "respuestaCorrecta": "¡Sí, estoy listo!",
+        "explicacion": "¡Excelente actitud! Chispito Plus es 100% interactivo."
+      }
+    ],
+    "v2": [],
+    "preview": []
+  },
+  "generado": "2026-04-28T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
+}

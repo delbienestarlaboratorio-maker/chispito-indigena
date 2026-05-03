@@ -1,114 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "matematicas",
-  "bloque": 6,
-  "nombre": "Mis manos calculan (LSM)",
-  "meses": "Julio",
-  "temas": [
-    "Números hasta el 1000",
-    "Geometría básica en LSM",
-    "Peso y medidas",
-    "El calendario completo"
-  ],
-  "totalEjercicios": 10,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "p3-mat-b6-v1-001",
-        "tema": "Números hasta el 1000",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "La seña para 'MIL' (1,000) usa una de las manos como un 'sello'. ¿Contra qué se estampa ese sello?",
-        "opciones": [
-          "Contra la palma abierta de la otra mano.",
-          "Contra el pecho.",
-          "Contra la frente."
-        ],
-        "respuestaCorrecta": "Contra la palma abierta de la otra mano.",
-        "explicacion": "¡Exacto! Haces el número 1, y luego pones la punta de tus dedos (como una letra M) tocando el centro de tu otra palma, como si sellaras un documento oficial. 📜"
-      },
-      {
-        "id": "p3-mat-b6-v1-002",
-        "tema": "Geometría básica en LSM",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Para decir 'CÍRCULO', 'CUADRADO' o 'TRIÁNGULO' en LSM, usamos nuestros dedos índices para dibujar la figura geométrica flotando en el aire frente a nosotros.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! Las figuras geométricas en Lengua de Señas son 100% visuales e icónicas. Literalmente dibujas el contorno de la figura en el espacio. 🔺"
-      },
-      {
-        "id": "p3-mat-b6-v1-003",
-        "tema": "Peso y medidas",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Para la seña de 'PESADO', usamos ambas manos sosteniendo algo invisible y las dejamos caer ligeramente hacia abajo debido al ___.",
-        "respuestaCorrecta": "peso",
-        "explicacion": "¡Así es! Es como hacer mímica. Si algo pesa mucho, las manos bajan por la gravedad y la cara muestra esfuerzo. ¡Tu expresión facial debe verse 'pesada' también! 🏋️"
-      },
-      {
-        "id": "p3-mat-b6-v1-004",
-        "tema": "El calendario completo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cómo decimos 'SEMANA' en Lengua de Señas Mexicana?",
-        "opciones": [
-          "Usamos el dedo índice de una mano y lo deslizamos de izquierda a derecha sobre la palma abierta de la otra mano (como tachando días).",
-          "Contamos siete dedos.",
-          "Hacemos la seña del Sol saliendo y poniéndose 7 veces."
-        ],
-        "respuestaCorrecta": "Usamos el dedo índice de una mano y lo deslizamos de izquierda a derecha sobre la palma abierta de la otra mano (como tachando días).",
-        "explicacion": "¡Bien hecho! La palma abierta representa la hoja del calendario escolar, y el dedo índice cruzándola representa el transcurrir de toda una fila de días. 📅"
-      }
+  "grado":"primaria-3","materia":"matematicas","bloque":6,"nombre":"Medición: tiempo, peso y capacidad","meses":"Junio - Julio",
+  "temas":["El reloj: horas y minutos","Unidades de peso: kilo y gramo","Capacidad: litro y mililitro","Problemas de medición cotidianos"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-mat-b6-v1-001","tema":"El reloj: horas y minutos","tipo":"multiple_choice","nivel":"v1","pregunta":"Si el reloj marca las 3:30, ¿cuántos minutos han pasado desde las 3:00?","opciones":["¡T-R-E-I-N-T-A (30) minutos porque la manecilla de minutos llegó al 6! ⏰🕞","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡T-R-E-I-N-T-A (30) minutos porque la manecilla de minutos llegó al 6! ⏰🕞","explicacion":"3:30 = media hora pasada de las 3. ¡30 minutos = media hora! ⏰🕞","visual":"⏰🕞"},
+      {"id":"pri3-mat-b6-v1-002","tema":"Unidades de peso: kilo y gramo","tipo":"true_false","nivel":"v1","pregunta":"Un kilogramo tiene purísimamente 1,000 gramos exactitos.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! 1 kg = 1,000 g. ¡Kilo significa mil! ⚖️✅"},
+      {"id":"pri3-mat-b6-v1-003","tema":"Capacidad: litro y mililitro","tipo":"fill_blank","nivel":"v1","pregunta":"Un litro de agua tiene exactamente 1,00____ mililitros.","respuestaCorrecta":"0","explicacion":"¡0!. 1 litro = 1,000 mililitros. ¡Mili = milésima parte! 🧴💧"},
+      {"id":"pri3-mat-b6-v1-004","tema":"Problemas de medición cotidianos","tipo":"multiple_choice","nivel":"v1","pregunta":"Si una receta pide 500 gramos de harina y tienes 1 kilo, ¿cuánta harina te sobra?","opciones":["¡500 gramos porque 1,000 - 500 = 500 gramos sobrantes! ⚖️🧁","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡500 gramos porque 1,000 - 500 = 500 gramos sobrantes! ⚖️🧁","explicacion":"1 kg = 1,000 g. 1,000 - 500 = 500 g sobran. ¡Medio kilo! ⚖️🧁"},
+      {"id":"pri3-mat-b6-v1-005","tema":"El reloj: horas y minutos","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuántas horas tiene un día completito desde que amanece hasta que vuelve a amanecer?","opciones":["¡V-E-I-N-T-I-C-U-A-T-R-O (24) horas tiene un día completo! 🌞🌙","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡V-E-I-N-T-I-C-U-A-T-R-O (24) horas tiene un día completo! 🌞🌙","explicacion":"1 día = 24 horas. 12 de día + 12 de noche. 🌞🌙"}
     ],
-    "v2": [
-      {
-        "id": "p3-mat-b6-v1-001-v2",
-        "tema": "Números hasta el 1000",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "La seña para 'MIL' (1,000) usa una de las manos como un 'sello'. ¿Contra qué se estampa ese sello? ​",
-        "opciones": [
-          "Contra la palma abierta de la otra mano.",
-          "Contra el pecho.",
-          "Contra la frente."
-        ],
-        "respuestaCorrecta": "Contra la palma abierta de la otra mano.",
-        "explicacion": "¡Exacto! Haces el número 1, y luego pones la punta de tus dedos (como una letra M) tocando el centro de tu otra palma, como si sellaras un documento oficial. 📜"
-      },
-      {
-        "id": "p3-mat-b6-v1-002-v2",
-        "tema": "Geometría básica en LSM",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Para decir 'CÍRCULO', 'CUADRADO' o 'TRIÁNGULO' en LSM, usamos nuestros dedos índices para dibujar la figura geométrica flotando en el aire frente a nosotros. ​",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! Las figuras geométricas en Lengua de Señas son 100% visuales e icónicas. Literalmente dibujas el contorno de la figura en el espacio. 🔺"
-      },
-      {
-        "id": "p3-mat-b6-v1-003-v2",
-        "tema": "Peso y medidas",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Para la seña de 'PESADO', usamos ambas manos sosteniendo algo invisible y las dejamos caer ligeramente hacia abajo debido al ___. ​",
-        "respuestaCorrecta": "peso",
-        "explicacion": "¡Así es! Es como hacer mímica. Si algo pesa mucho, las manos bajan por la gravedad y la cara muestra esfuerzo. ¡Tu expresión facial debe verse 'pesada' también! 🏋️"
-      },
-      {
-        "id": "p3-mat-b6-v1-004-v2",
-        "tema": "El calendario completo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo decimos 'SEMANA' en Lengua de Señas Mexicana? ​",
-        "opciones": [
-          "Usamos el dedo índice de una mano y lo deslizamos de izquierda a derecha sobre la palma abierta de la otra mano (como tachando días).",
-          "Contamos siete dedos.",
-          "Hacemos la seña del Sol saliendo y poniéndose 7 veces."
-        ],
-        "respuestaCorrecta": "Usamos el dedo índice de una mano y lo deslizamos de izquierda a derecha sobre la palma abierta de la otra mano (como tachando días).",
-        "explicacion": "¡Bien hecho! La palma abierta representa la hoja del calendario escolar, y el dedo índice cruzándola representa el transcurrir de toda una fila de días. 📅"
-      }
+    "v2":[
+      {"id":"pri3-mat-b6-v2-001","tema":"El reloj: horas y minutos","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí 3 3: :3 30 0_ ¿ ¿c cu uá án nt to os s_ m mi in nu ut to os s_ d de es sd de e_ 3 3: :0 00 0 ? ??","opciones":["¡3 30 0_ m mi in nu ut to os s ! !! ⏰🕞","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡3 30 0_ m mi in nu ut to os s ! !! ⏰🕞","explicacion":"3 30 0_ m mi in n !! ⏰🕞!"},
+      {"id":"pri3-mat-b6-v2-002","tema":"Unidades de peso: kilo y gramo","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi 1 1_ k ki il lo og gr ra am mo o_ = =_ 1 1, ,0 00 00 0_ g gr ra am mo os s ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"1 1_ k kg g_ = =_ 1 1, ,0 00 00 0_ g g !! ⚖️✅!"},
+      {"id":"pri3-mat-b6-v2-003","tema":"Capacidad: litro y mililitro","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil 1 1_ l li it tr ro o_ = =_ 1 1, ,0 00 0_ __ __ _ ? ?? Aili _? ls... m mi il li il li it tr ro os s","respuestaCorrecta":"0","explicacion":"1 1_ l li it tr ro o_ = =_ 1 1, ,0 00 00 0_ m ml l !! 🧴💧"},
+      {"id":"pri3-mat-b6-v2-004","tema":"Problemas de medición cotidianos","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil 1 1_ k kg g_ - -_ 5 50 00 0_ g g_ = =_ ? ?? ?! a?_?...l?!","opciones":["¡5 50 00 0_ g gr ra am mo os s_ s so ob br ra an n ! !! ⚖️🧁","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡5 50 00 0_ g gr ra am mo os s_ s so ob br ra an n ! !! ⚖️🧁","explicacion":"1 1, ,0 00 00 0_ - -_ 5 50 00 0_ = =_ 5 50 00 0 !! ⚖️🧁!!"},
+      {"id":"pri3-mat-b6-v2-005","tema":"El reloj: horas y minutos","tipo":"true_false","nivel":"v2","pregunta":"SiisEili 1 1_ d dí ía a_ = =_ 2 24 4_ h ho or ra as s ? ?? !","respuestaCorrecta":"true","explicacion":"2 24 4_ h ho or ra as s !! 🌞🌙"}
+    ],
+    "preview":[
+      {"id":"pri3-mat-b6-v1-001","tema":"El reloj","tipo":"multiple_choice","nivel":"v1","pregunta":"3:30 = ¿cuántos minutos desde las 3:00?","opciones":["¡30 minutos! ⏰","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡30 minutos! ⏰","explicacion":"Media hora","visual":"⏰"},
+      {"id":"pri3-mat-b6-v1-004","tema":"Problemas de medición","tipo":"multiple_choice","nivel":"v1","pregunta":"1 kg - 500g = ¿?","opciones":["¡500 gramos! ⚖️","Triste","Gris.","Feo."],"respuestaCorrecta":"¡500 gramos! ⚖️","explicacion":"Medio kilo"},
+      {"id":"pri3-mat-b6-v2-002","tema":"Peso","tipo":"true_false","nivel":"v2","pregunta":"1 kg = 1,000 gramos. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Mil gramos"}
     ]
   },
-  "generado": "2026-03-10T18:40:00.000Z",
-  "version": "3.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

@@ -2,131 +2,175 @@
   "grado": "primaria-2",
   "materia": "espanol",
   "bloque": 4,
-  "nombre": "Ortografia basica",
-  "meses": "Febrero-Marzo",
+  "nombre": "Tipos de textos estelares",
+  "meses": "Febrero - Marzo",
   "temas": [
-    "Uso de la b y la v"
+    "El cuento vs la noticia",
+    "Recetitas y instructivos",
+    "La carta para un amiguito",
+    "La invitación mágica"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-espanol-b4-001",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b4-v1-001",
+        "tema": "El cuento vs la noticia",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical lectorillo bendito, ¿qué tipo de texto te cuenta maravillosísimamente algo que pasó de verdad verdaditita, con datos y hechos reales?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡Una N-O-T-I-C-I-A que habla de lo que pasó de verdad como en el periódico estelar! 📰📢",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes de cálculos fúnebres oscuros.",
+          "Romper los dolorosos frígidos de basureros gélidos amargos lodos letárgicos destrozadores.",
+          "Las fétidas máquinas lloronas gélidas abismales de sombras destrozadoras oscuras miedosas."
+        ],
+        "respuestaCorrecta": "¡Una N-O-T-I-C-I-A que habla de lo que pasó de verdad como en el periódico estelar! 📰📢",
+        "explicacion": "La noticia cuenta hechos reales que pasan en nuestro mundito, mientras el cuento es inventado e imaginario. 📰📢",
+        "visual": "📰📢"
       },
       {
-        "id": "primaria-2-espanol-b4-002",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b4-v1-002",
+        "tema": "Recetitas y instructivos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "Una receta de cocina mágica tiene puritísimamente dos partecitas principales: los ingredientes (lo que necesitas) y los pasos adorados (cómo hacerlo).",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡¡Súper V-E-R-D-A-D angelical!! Las recetitas tienen: 1) Ingredientes listaditos y 2) Pasos numeraditos para cocinar estelarmente. 🧑‍🍳📝"
       },
       {
-        "id": "primaria-2-espanol-b4-003",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b4-v1-003",
+        "tema": "La carta para un amiguito",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Al final de una cartita purísimamente amada, antes de tu nombre dibujado con cariño, escribes la palabrita mágica de despedida: A-T-E-N-T-A-M-E-N-T-____ .",
+        "respuestaCorrecta": "E",
+        "explicacion": "¡E!. ¡ATENTAMENTE! Es la despedidita formal que cierra tu carta con elegancia angelical estelar. 💌✒️"
+      },
+      {
+        "id": "pri2-esp-b4-v1-004",
+        "tema": "La invitación mágica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué datos purísimos tienes que escribir maravillosísimamente en una invitación para tu fiesta de cumple estelar?",
+        "opciones": [
+          "¡La F-E-C-H-A, la H-O-R-A, el L-U-G-A-R y el motivo para que todos sepan a dónde ir! 🎂📋",
+          "Hundan las dolorosas amarguras fúnebres letárgicas de fétido maquinilla asfalto sombrío.",
+          "Romper los basureros de charcos gélidos fúnebres de asquerosillas lloronas sombras.",
+          "Las máquinas miedosas tristes de lodos amargos destrozadores de pantanos letárgicos."
+        ],
+        "respuestaCorrecta": "¡La F-E-C-H-A, la H-O-R-A, el L-U-G-A-R y el motivo para que todos sepan a dónde ir! 🎂📋",
+        "explicacion": "Fecha, hora y lugar son los datos esenciales para que los amiguitos no se pierdan la fiesta estelar. 🎂📋"
+      },
+      {
+        "id": "pri2-esp-b4-v1-005",
+        "tema": "El cuento vs la noticia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos textitos es maravillosísimamente inventado, con personajes imaginarios y magia, no basado en hechos reales?",
+        "opciones": [
+          "¡Un C-U-E-N-T-O como el de la Cenicienta, lleno de fantasía y personajes inventados estelares! 📖🧚‍♀️",
+          "Calculadoras fúnebres de monstruosos destrozos asfálticos de gélidas amarguras sombrías.",
+          "Las tristes destrozadoras gélidas abismales de fétida sombra asquerosa miedosa.",
+          "Llorándonos charcos fúnebre amargo encanto machaca gélidas lodos de pantanos."
+        ],
+        "respuestaCorrecta": "¡Un C-U-E-N-T-O como el de la Cenicienta, lleno de fantasía y personajes inventados estelares! 📖🧚‍♀️",
+        "explicacion": "El cuento es un texto narrativo de ficción con personajes inventados por el escritor mágico. 📖🧚‍♀️"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-espanol-b4-v2-001",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b4-v2-001",
+        "tema": "El cuento vs la noticia",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí t ti ip po o_ d de e_ t te ex xt to o_ c cu ue en nt ta a_ a al lg go o_ q qu ue e_ p pa as só ó_ d de e_ v ve er rd da ad d ? ??",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡N NO OT TI IC CI IA A_ q qu ue e_ h ha ab bl la a_ d de e_ l lo o_ q qu ue e_ p pa as só ó_ d de e_ v ve er rd da ad d ! !! 📰📢",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡N NO OT TI IC CI IA A_ q qu ue e_ h ha ab bl la a_ d de e_ l lo o_ q qu ue e_ p pa as só ó_ d de e_ v ve er rd da ad d ! !! 📰📢",
+        "explicacion": "N No ot ti ic ci ia a_ = =_ h he ec ch ho os s_ r re ea al le es s !! 📰📢!"
       },
       {
-        "id": "primaria-2-espanol-b4-v2-002",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b4-v2-002",
+        "tema": "Recetitas y instructivos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi r re ec ce et ta a_ t ti ie en ne e_ i in ng gr re ed di ie en nt te es s_ y y_ p pa as so os s ? ?? .!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "true",
+        "explicacion": "R Re ec ce et ta a: :_ 1 1) )_ I In ng gr re ed di ie en nt te es s_ 2 2) )_ P Pa as so os s !! 🧑‍🍳📝!"
+      },
+      {
+        "id": "pri2-esp-b4-v2-003",
+        "tema": "La carta para un amiguito",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil a al l_ f fi in na al l_ d de e_ l la a_ c ca ar rt ta a_ e es sc cr ri ib be es s_ A AT TE EN NT TA AM ME EN NT T_ __ __ _ A A A ? Aili _? ls...",
+        "respuestaCorrecta": "E",
+        "explicacion": "A AT TE EN NT TA AM ME EN NT TE E !! 💌✒️"
       },
       {
-        "id": "primaria-2-espanol-b4-v2-003",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b4-v2-004",
+        "tema": "La invitación mágica",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil d da at to os s_ n ne ec ce es si it ta a_ u un na a_ i in nv vi it ta ac ci ió ón n_ d de e_ c cu um mp pl le e ? ?? ?! a?_?...l?!",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡F FE EC CH HA A, ,_ H HO OR RA A, ,_ L LU UG GA AR R_ y y_ m mo ot ti iv vo o ! !! 🎂📋",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡F FE EC CH HA A, ,_ H HO OR RA A, ,_ L LU UG GA AR R_ y y_ m mo ot ti iv vo o ! !! 🎂📋",
+        "explicacion": "F Fe ec ch ha a, ,_ h ho or ra a_ y y_ l lu ug ga ar r_ s so on n_ e es se en nc ci ia al le es s !! 🎂📋!!"
+      },
+      {
+        "id": "pri2-esp-b4-v2-005",
+        "tema": "El cuento vs la noticia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili u un n_ C CU UE EN NT TO O_ e es s_ i in nv ve en nt ta ad do o_ c co on n_ p pe er rs so on na aj je es s_ i im ma ag gi in na ar ri io os s ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "C Cu ue en nt to o_ = =_ f fi ic cc ci ió ón n_ i in nv ve en nt ta ad da a !! 📖🧚‍♀️"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-espanol-b4-001",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b4-v1-001",
+        "tema": "El cuento vs la noticia",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+        "pregunta": "¿Qué texto cuenta algo que pasó de verdad?",
+        "opciones": ["¡Una NOTICIA del periódico! 📰", "Bestias", "Grises.", "Letárgicas."],
+        "respuestaCorrecta": "¡Una NOTICIA del periódico! 📰",
+        "explicacion": "Noticia = hechos reales",
+        "visual": "📰"
       },
       {
-        "id": "primaria-2-espanol-b4-v2-001",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b4-v1-004",
+        "tema": "La invitación mágica",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+        "nivel": "v1",
+        "pregunta": "¿Qué datos necesita una invitación de cumpleaños?",
+        "opciones": ["¡FECHA, HORA, LUGAR y motivo! 🎂", "Triste", "Gris.", "Feo."],
+        "respuestaCorrecta": "¡FECHA, HORA, LUGAR y motivo! 🎂",
+        "explicacion": "Fecha, hora, lugar"
       },
       {
-        "id": "primaria-2-espanol-b4-002",
-        "tema": "Uso de la b y la v",
+        "id": "pri2-esp-b4-v2-005",
+        "tema": "El cuento vs la noticia",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "nivel": "v2",
+        "pregunta": "Un cuento es inventado con personajes imaginarios. ¿Verdad?",
+        "opciones": ["Verdadero", "Falso"],
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "Cuento = ficción"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.260Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

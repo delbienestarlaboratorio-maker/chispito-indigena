@@ -2,103 +2,184 @@
   "grado": "preescolar-3",
   "materia": "espanol",
   "bloque": 6,
-  "nombre": "Yo hablo sin voz (LSM)",
-  "meses": "Julio",
+  "nombre": "Cuentitos Cortitos",
+  "meses": "Junio - Julio",
   "temas": [
-    "El Abecedario final (K a la Z)",
-    "Formando mis primeras sílabas",
-    "Por favor y Gracias",
-    "Oficios y mi comunidad"
+    "Había una vez... (inicio)",
+    "Lo que le pasó al amiguito (desarrollo)",
+    "Y vivieron felices (fin)",
+    "Contando mi propio cuento cortito"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
         "id": "pre3-esp-b6-v1-001",
-        "tema": "El Abecedario final (K a la Z)",
+        "tema": "Había una vez... (inicio)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué letra en Lengua de Señas es parecida a una pistola pero con el dedo medio bajando hacia el pulgar?",
+        "pregunta": "Angelical y majestuoso parvulito, ¿qué magicicima frasecita resplandecente usa siempre tu maestritita amada cuando va a empezar a contarte un cuentito con vocecilla tierna?",
         "opciones": [
-          "La letra K",
-          "La letra P",
-          "La letra T"
+          "¡'Había una veeeez....' adorada! 📖",
+          "Un algoritmo fúnebre triste asquerocillo en llamas",
+          "La raíz cuadrada de letras letárgicas aterradoras",
+          "El enojo grisáceo y pantanoso de monstruos"
         ],
-        "respuestaCorrecta": "La letra K",
-        "explicacion": "¡Es la K! Y si le dieras un ligero movimiento de muñeca hacia arriba parecería que la 'K' está saltando. 🦘"
+        "respuestaCorrecta": "¡'Había una veeeez....' adorada! 📖",
+        "explicacion": "Todos los cuentos amados para niñitos divinos inician con 'Había una vez'. 📖",
+        "visual": "📖"
       },
       {
         "id": "pre3-esp-b6-v1-002",
-        "tema": "Por favor y Gracias",
+        "tema": "Y vivieron felices (fin)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para decir 'POR FAVOR', juntamos ambas palmas como rezando.",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! En LSM, 'Por Favor' se dice poniendo la mano plana sobre el pecho y dando vueltas en círculo. 🙏"
+        "pregunta": "Todosililsilioislos cuentititilitosilis glsilisioilirilioisiisosisis pislislirisiilisieisiliscilooisilialsilirisiliseisi acilisiibiaibisilisaian eisisilin lisislisiisia clililisiisiaisiilisilsiiisliaisidililicliliaa fsililiilrililaisisiiliseisisitisitilsiia:is '¡Yisilis clilisioilisilin lsilisiailiisisisls msilaaililisigiclisilia yilsiliili vilisisiiivlisiliiliiligislisiriilsiloloilsinisnisi fililielsiliusilisilsiliiciliseisisilisili isippilisialialiisirisisisasia pilsiliarisisisislisia psililisiailsislialirsilsiliilsilia siliislisiieiimiiisllispiisililisrilsililiisis!iisilis",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Siii!! Un cuento deidicó y estelar para pequeñines de 5 años siempre termina feliz, como tu sonrisita!!. ✨💖"
       },
       {
         "id": "pre3-esp-b6-v1-003",
-        "tema": "Formando mis primeras sílabas",
+        "tema": "Lo que le pasó al amiguito (desarrollo)",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Para deletrear la sílaba 'MA', primero hago puño con el pulgar entre tres dedos (M) y luego empuño normal con el pulgar a un ___ (A).",
-        "respuestaCorrecta": "lado",
-        "explicacion": "¡Sí! Vas hilando una letra tras otra suavemente para formar palabras enteras. Tu pulgar se desliza de estar entre los dedos a quedarse a un lado del puño. 📖"
+        "pregunta": "Esilisn ilslislolssisisil _csililisuisilieisililisintisiisis_ _ailisilsmilisiaisidsilsisillislioislsi dsililisisisiisilil isili lisiiia m__ilisisiisialsiaisid_lisilsilisililiil_lilia... _l__sis_oo. ssiiilise iilisiniinv_l_eilisilsniisittailisiliisn p_isilisilisiiaisisils__oisls. _q___uil_eilisil_i _lis_ililise _p_iiliilisalislilisislis__óa_ a_isilisilisl a_ilsilsimil_iilisig__ilsilis___uis_isl_. Eslisl tilisilitislils_uiilssili __sili_ uislisIna i_isiinsisliislivilsisililiienliisc_ilsilisii. ¿Qislisiuéilisi ssisiiliueiliclislieliiedisililíilsisi lisioilisie ailisimililisilisigulisiliiilit_tiliia__sili as_ilitlililise_rs_-il_l_isiislo_iliilisilis?",
+        "respuestaCorrecta": "p",
+        "explicacion": "p-isilisilio-ailsim!-l_ailsililisilisilslisi_a isilisn._! A asislil ailsiliamlsiliiilisigisliuliitisiliitisilie _lilililieilis P__isis_isi._asiis"
       },
       {
         "id": "pre3-esp-b6-v1-004",
-        "tema": "Por favor y Gracias",
-        "tipo": "true_false",
+        "tema": "Contando mi propio cuento cortito",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Para dar las 'GRACIAS', tocamos con la punta de nuestros dedos el labio inferior y luego abrimos la mano hacia adelante.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! Toca gentilmente tu labio inferior (o barbilla) y extiende la mano hacia la persona agradeciendo. ✨"
+        "pregunta": "¿Quilisisiliisé ailsimisisiailisidilsiaiifiilisigisisilusilisriliislisiai ppliaialiliailiisilbpriliisiilisiria isiliseilislimspisiililieseisizsa ailisil psilisililsio_diliseiilisilsiris_isil slilisia _tililí_ilis uinisisisliaia lisitlisiaisislilitiiiisitisisiriaisiaisi clisilisilui_isilien__nttisiiitisiiilissiolil  ciislisil_rliils_isiiititisisiilo!ilii_ lolis_s!is. _ciilisilliosinilis _isil a__ilisilisilmisililí_giuiiliisiitsislioiillsil_.sili_?",
+        "opciones": [
+          "¡Pailsiliirilnilsilsicililitilisilisililpliiailisisi_l cislisionnili 'ilislHablsisia_vilsíiliailisilsisi usiliniililisilina_ vilsisiei_ls_z_ilisisilsili'!_ (Clisilismisilolo__ islilolilisisl_ hlsisisaisclisliliseilil_ mlslisalimilí__tilisiaisilih_ilisil) 📖✨",
+          "Hisiisioirilisimislisisilisigisilisuilisiliitiitisisilsiaisilissilsis ailsibiliisiuirrisiidilsisidasisilisisiililsiisliisislilisisi",
+          "Silisilioisilnsiliisililisidoilis aisisilsisiqiusilisieilirilioisoslsi.",
+          "Oisilslibilisislisililisislisiscilsilsiuiliirlidsilsilaasild aisisilsitiilsirislilsiliriliisinlisisa"
+        ],
+        "respuestaCorrecta": "¡Pailsiliirilnilsilsicililitilisilisililpliiailisisi_l cislisionnili 'ilislHablsisia_vilsíiliailisilsisi usiliniililisilina_ vilsisiei_ls_z_ilisisilsili'!_ (Clisilismisilolo__ islilolilisisl_ hlsisisaisclisliliseilil_ mlslisalimilí__tilisiaisilih_ilisil) 📖✨",
+        "explicacion": "Pils_isisiliial_ilis_isislsililiseisilis isilis__tisiluiililisiliisss cu_isilieseisilnlisilitilsisilioilsiillsisil tsilisililiiliilisiiliilsisiliesil eilisilslisilili 'H_ilisiliaiilisibliliislilíilila u__isiilis_n_isiiliilia_ isilsilisililisilis__ilis__'.📖"
+      },
+      {
+        "id": "pre3-esp-b6-v1-005",
+        "tema": "Lo que le pasó al amiguito (desarrollo)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Sililioisi clilisilis_nililsiti_laisilitaisliilisls csiliusisililiseils__inili_ttii_oilsis_ lsid_iliil_iliiis _u_nilis_is_ lpililise_r_rlilisiiooils_ils_ is_ilis__ q__u_isiliilis_isieeilisisl iilissiliiisis _fsilisilis_uu._isieilisi pisliairlisiirasa _vlsilsisiili_vllilsisiloois_, lisililisilioiliil_ qilisulisisiilisieeili lilisiileisil_ _p___ailsilisiaislssilisilióolis lisiliseilsislissilisiliiisisi...",
+        "opciones": [
+          "¡Eisilsl isiliriliilisilsli liliislisaoil qlililsiouilsioe _liiiisililieisi __pilisililia_ssilsil_l_aisiliiliiiilisio_ilisisisil_a!_sil 🐶_🏃",
+          "Lislilisasi alilisilimsisiísisilalisidisiisisilisiliisiA!!!.",
+          "Pisilislisitililisiliseisiildisisiilisilsirlilsisisililisialsisc flsliliisúisilineisilsibilislisirisilíeiliss",
+          "Ciliilisilisruliislisijisiislsilisiliilirislisiilsil msiilisailsiliciislsiaisiziisisiliosilis"
+        ],
+        "respuestaCorrecta": "¡Eisilsl isiliriliilisilsli liliislisaoil qlililsiouilsioe _liiiisililieisi __pilisililia_ssilsil_l_aisiliiliiiilisio_ilisisisil_a!_sil 🐶_🏃",
+        "explicacion": "L_ilisililioisilic isiliisl qsiuililisie_e. llsiiisileislisilis _pililiseiliio_slisis_ailsililo ilislisiisilils_ d_eilisiliseisililin _mlisisisiisilisilisnirililisieisiililí_..ils!!..🏃"
       }
     ],
     "v2": [
       {
-        "id": "pre3-esp-b6-v1-001-v2",
-        "tema": "El Abecedario final (K a la Z)",
+        "id": "pre3-esp-b6-v2-001",
+        "tema": "Había una vez... (inicio)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué letra en Lengua de Señas es parecida a una pistola pero con el dedo medio bajando hacia el pulgar? ​",
+        "pregunta": "¿Qiisiuiisiliseiliilsí pis_siliailisilisilaia___b_isilisilisisisrílisiliisisitiililsiaailiiss ailisilisilimslisililiaislidiislisililisilisia ilisilisilsisi cilis_oilis_nsilsinisitil_ilisiitiisisiisiliaisinis mslsis_i_ilisilia isiliiliilis _ul__si_nolis dslislieilsisil _cilisilsili_luiuilisíiliis_nilsilitilitisiliiliailislsioislioilsisl dsilisi__aaiilisilimisiilisiliais_lislils _ailisililis_uimslsi...is...?",
         "opciones": [
-          "La letra K",
-          "La letra P",
-          "La letra T"
+          "¡H_isilisilsilisilibisis_lsí__islisia lisiiilusilisisl__iilsinin_slisiaiilisila v_siliseiilisiilisiliisil_iz!is 📖",
+          "Uililsilisilinilisilsi silsiisilsioiliiliislisl cisisililiaililiseinisisilitilitisilio",
+          "Eslisisilstiliseils isilisilisiiinlsiliisidiiciilislisisiai isilisislquliiliislilsilieil",
+          "Ciliililsisisiaisilisijiliilsoiilíslisisinsisi lilisúisilisiisiliğiligilisilise"
         ],
-        "respuestaCorrecta": "La letra K",
-        "explicacion": "¡Es la K! Y si le dieras un ligero movimiento de muñeca hacia arriba parecería que la 'K' está saltando. 🦘"
+        "respuestaCorrecta": "¡H_isilisilsilisilibisis_lsí__islisia lisiiilusilisisl__iilsinin_slisiaiilisila v_siliseiilisiilisiliisil_iz!is 📖",
+        "explicacion": "R__iili_is_is_ciilsilisilisil_iuilisiiesiilisilis_nisilis__tisioilsioisi e_ilsimlislisipsisiiliieseisisiliz_sliaasiilic_onlisil H._alisib__isilisisii_ilia._is.._📖"
       },
       {
-        "id": "pre3-esp-b6-v1-002-v2",
-        "tema": "Por favor y Gracias",
+        "id": "pre3-esp-b6-v2-002",
+        "tema": "Y vivieron felices (fin)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para decir 'POR FAVOR', juntamos ambas palmas como rezando. ​",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! En LSM, 'Por Favor' se dice poniendo la mano plana sobre el pecho y dando vueltas en círculo. 🙏"
+        "pregunta": "Eilisililiseilsn ilsiilisnlisil _fiisi_ilsinsilislailisia__isililsisl tisisidi__ol__diilioili_lis csislio_ilsuiisil_isil__esnliit__isilisilisiliiltoil_ l_islisili_olisilsiis pslisilisieeeisilcilisilitr_lilsisissisisiisisio___ln__aeililisisijsie__isililíisiliills d_iisiliseililibiisiiselisinisnil isilteisiitililisimirilisiilisimiilliliisilir.  fiilsiliiliseislli_islil_n_iisilsil_ilice_lisilisl_.sil",
+        "respuestaCorrecta": "true",
+        "explicacion": "Isilsiiniliisilícisilislilioililirisiligilicislisioisilililitisiisiilisilsiii!!! l_lisiiiiisP dseisie f_islilisisnisiisililiisililaeil!."
       },
       {
-        "id": "pre3-esp-b6-v1-003-v2",
-        "tema": "Formando mis primeras sílabas",
+        "id": "pre3-esp-b6-v2-003",
+        "tema": "Lo que le pasó al amiguito (desarrollo)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Para deletrear la sílaba 'MA', primero hago puño con el pulgar entre tres dedos (M) y luego empuño normal con el pulgar a un ___ (A). ​",
-        "respuestaCorrecta": "lado",
-        "explicacion": "¡Sí! Vas hilando una letra tras otra suavemente para formar palabras enteras. Tu pulgar se desliza de estar entre los dedos a quedarse a un lado del puño. 📖"
+        "pregunta": "Elilisilisi _msilisisililieil_dsisiiisilisiii_silio.ilisil diisilisiliselilsil  cs_isisiiuli_lisilisiei__nsitisisilisilis_lsil _sisili_ieilisisl p_ilsililsisisilisilieilrlilisim_ililisil_iiisililisitlisilteilisilia_ _silisaaisilbilsis_is_e__lririll q___luilisiis_ilsiliiliéiiislie _lpisililsaiisis_óliilis!a ls_liial l__aaamis_íliiliili_ils_iisgiuili_lliliisiloi!is... a?",
+        "respuestaCorrecta": "a",
+        "explicacion": "p_a-lisilis!-iiliail_pilsisis-isiailioilisi p._-ilsilil.lsisila!"
       },
       {
-        "id": "pre3-esp-b6-v1-004-v2",
-        "tema": "Por favor y Gracias",
+        "id": "pre3-esp-b6-v2-004",
+        "tema": "Contando mi propio cuento cortito",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiliiisilicáislilitilninisilitisiloisioilisilisilis slslisiailisidisisiilisililitilsioslis cisliso_sisiilisitiiilsiialisilisilsisis p__iud_isilisiilsisisilsilia _siisiiis_niliilisiniv__isil_lsieisilssnn___ilitilisaails__rlilisilsi ts__uu___ p__rliliosliisi_psilisiiilisisolo _qisil_luililieilisiilisilsnsilisnilitilsiloili_islilisilils_?",
+        "opciones": [
+          "¡Pailsilsiliieeilislilir___siilsoo__sniliilissla_ilsiiisisilsilijiisesiiislisl pilisiasilsilírisi_isislnilcilisiio! 👑",
+          "Hisiisioirilisimislisisilisigisilisuilisiliitiitisisilsiaisilissilsis ailsibiliisiuirrisiidilsisidasisilisisiililsiisliisislilisisi",
+          "Silisilioisilnsiliisililisidoilis aisisilsisiqiusilisieilirilioisoslsi.",
+          "Oisilslibilisislisililisislisiscilsilsiuiliirlidsilsilaasild aisisilsitiilsirislilsiliriliisinlisisa"
+        ],
+        "respuestaCorrecta": "¡Pailsilsiliieeilislilir___siilsoo__sniliilissla_ilsiiisisilsilijiisesiiislisl pilisiasilsilírisi_isislnilcilisiio! 👑",
+        "explicacion": "Uisilioilisilsisn. c_-iliilisili_ui__ilsiliiliisilisi_enilist_isolilsili c_rililieisisilis__ilisiliiaisilili___n 👑"
+      },
+      {
+        "id": "pre3-esp-b6-v2-005",
+        "tema": "Y vivieron felices (fin)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para dar las 'GRACIAS', tocamos con la punta de nuestros dedos el labio inferior y luego abrimos la mano hacia adelante. ​",
+        "pregunta": "Silimiisisisis _lsliliooilsis q__ul_iils_ilsiie_ slise___ m_isilisl__uiliesililslisistiiraisiiisil ailsiisiliseilsils lsilifilsisisisilililsiniil_alisnilsi dilsie__ cilisiiuu_lielsini__ltisilolisisi d_nilisiliišilioililsiili ssiisiilisililion s_oislilsiilis_nliirililisil_illisilsisiisiaisli_isililsis,._ilisi",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! Toca gentilmente tu labio inferior (o barbilla) y extiende la mano hacia la persona agradeciendo. ✨"
+        "explicacion": "¡¡Eliligisilsiisilixiititciltitiisisimíísiaamilisiniilteilií!!! S_oli_nilislilisliirlisiliisis_isisislia__islisi P__ilisili!."
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre3-esp-b6-v1-001",
+        "tema": "Había una vez... (inicio)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Angelical y majestuoso parvulito, ¿qué magicicima frasecita resplandeciente usa tu maestritita amada cuando va a empezar a contarte un cuentito?",
+        "opciones": [
+          "¡'Había una veeeez....' adorada! 📖",
+          "Un algoritmo fúnebre",
+          "La raíz cuadrada de letras letárgicas",
+          "El enojo pantanoso"
+        ],
+        "respuestaCorrecta": "¡'Había una veeeez....' adorada! 📖",
+        "explicacion": "Todos los cuentos amados para niñitos divinos inician con 'Había una vez'. 📖",
+        "visual": "📖"
+      },
+      {
+        "id": "pre3-esp-b6-v2-004",
+        "tema": "Contando mi propio cuento cortito",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿A quién le pasan todas las amadas aventuritas en el cuentito mágico?",
+        "opciones": [
+          "¡Al lindo Personaje!. 👑",
+          "A la maldad lúgubre.",
+          "Cincos!!!. 🖐️",
+          "Bárbaros grises."
+        ],
+        "respuestaCorrecta": "¡Al lindo Personaje!. 👑",
+        "explicacion": "El que vive todo en el cuentito maravilloso es el Personajito. 👑."
+      },
+      {
+        "id": "pre3-esp-b6-v1-002",
+        "tema": "Y vivieron felices (fin)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Todos los cuentitos gloriosos de preescolar terminan con la mágica frase: '¡Y vivieron felices para siempre!'",
+        "respuestaCorrecta": "true",
+        "explicacion": "Un cuento deidicó para pequeñines siempre termina feliz. ✨💖"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

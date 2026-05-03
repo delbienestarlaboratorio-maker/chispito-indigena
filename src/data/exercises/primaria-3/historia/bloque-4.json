@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "historia",
-  "bloque": 4,
-  "nombre": "Revoluciones modernas",
-  "meses": "Febrero-Marzo",
-  "temas": [
-    "Revoluciones que cambiaron el mundo"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-historia-b4-001",
-        "tema": "Revoluciones que cambiaron el mundo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b4-002",
-        "tema": "Revoluciones que cambiaron el mundo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      },
-      {
-        "id": "primaria-3-historia-b4-003",
-        "tema": "Revoluciones que cambiaron el mundo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La gran ciudad construida por los aztecas sobre un lago se llamaba ___",
-        "respuestaCorrecta": "Tenochtitlán",
-        "explicacion": "Esta ciudad fue el corazón del imperio mexica hasta la conquista española."
-      }
+  "grado":"primaria-3","materia":"historia","bloque":4,"nombre":"La Conquista de México","meses":"Febrero - Marzo",
+  "temas":["La llegada de los españoles a México","Hernán Cortés y Moctezuma","La caída de Tenochtitlán","Consecuencias de la Conquista"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-his-b4-v1-001","tema":"La llegada de los españoles a México","tipo":"multiple_choice","nivel":"v1","pregunta":"¿En qué año llegaron los conquistadores españoles a las costas de lo que hoy es México?","opciones":["¡En 1-5-1-9, cuando Hernán Cortés desembarcó en las costas de Veracruz! ⛵🇪🇸","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡En 1-5-1-9, cuando Hernán Cortés desembarcó en las costas de Veracruz! ⛵🇪🇸","explicacion":"1519 = llegada de Cortés. Buscaba riquezas y expandir el imperio español. ⛵🇪🇸","visual":"⛵🇪🇸"},
+      {"id":"pri3-his-b4-v1-002","tema":"Hernán Cortés y Moctezuma","tipo":"true_false","nivel":"v1","pregunta":"Moctezuma era el tlatoani (gobernante) de los mexicas cuando llegaron los españoles.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Moctezuma II gobernaba Tenochtitlán cuando Cortés llegó en 1519. 👑🏛️"},
+      {"id":"pri3-his-b4-v1-003","tema":"La caída de Tenochtitlán","tipo":"fill_blank","nivel":"v1","pregunta":"Tenochtitlán cayó ante los españoles en el año 1-5-2-____ .","respuestaCorrecta":"1","explicacion":"¡1!. ¡1521! Tras un sitio de 75 días, Tenochtitlán cayó el 13 de agosto de 1521. ⚔️🏚️"},
+      {"id":"pri3-his-b4-v1-004","tema":"Consecuencias de la Conquista","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué idioma trajeron los españoles que hoy hablamos en México?","opciones":["¡El E-S-P-A-Ñ-O-L (castellano), que se mezcló con las lenguas indígenas! 🗣️🇪🇸","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡El E-S-P-A-Ñ-O-L (castellano), que se mezcló con las lenguas indígenas! 🗣️🇪🇸","explicacion":"Los españoles impusieron su idioma, religión y costumbres. Nació la cultura mestiza. 🗣️🇪🇸"},
+      {"id":"pri3-his-b4-v1-005","tema":"Hernán Cortés y Moctezuma","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué pueblo indígena fue aliado de Cortés en contra de los mexicas?","opciones":["¡Los T-L-A-X-C-A-L-T-E-C-A-S, enemigos de los mexicas, se aliaron con Cortés! ⚔️🤝","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Los T-L-A-X-C-A-L-T-E-C-A-S, enemigos de los mexicas, se aliaron con Cortés! ⚔️🤝","explicacion":"Los tlaxcaltecas odiaban a los mexicas y se unieron a Cortés. ⚔️🤝"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-historia-b4-v2-001",
-        "tema": "Revoluciones que cambiaron el mundo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?  ",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b4-v2-002",
-        "tema": "Revoluciones que cambiaron el mundo",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El Tratado de Guadalupe Hidalgo puso fin a la guerra de Reforma  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "Dicho tratado finalizó la guerra México-Estados Unidos, resultando en la pérdida de la mitad del territorio nacional."
-      },
-      {
-        "id": "primaria-3-historia-b4-v2-003",
-        "tema": "Revoluciones que cambiaron el mundo",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Durante tres siglos, gran parte del territorio de Norteamérica y Centroamérica formó el Virreinato de la Nueva ___  ",
-        "respuestaCorrecta": "España",
-        "explicacion": "Se estableció en 1535 con Antonio de Mendoza como primer virrey."
-      }
+    "v2":[
+      {"id":"pri3-his-b4-v2-001","tema":"Llegada de españoles","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí e es sp pa añ ño ol le es s_ l ll le eg ga ar ro on n_ ¿ ¿e en n_ q qu ué é_ a añ ño o ? ??","opciones":["¡1 15 51 19 9 ! !! ⛵🇪🇸","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡1 15 51 19 9 ! !! ⛵🇪🇸","explicacion":"1 15 51 19 9 !! ⛵🇪🇸!"},
+      {"id":"pri3-his-b4-v2-002","tema":"Moctezuma","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi M Mo oc ct te ez zu um ma a_ = =_ t tl la at to oa an ni i_ c cu ua an nd do o_ l ll le eg gó ó_ C Co or rt té és s ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"M Mo oc ct te ez zu um ma a_ I II I !! 👑🏛️!"},
+      {"id":"pri3-his-b4-v2-003","tema":"Caída de Tenochtitlán","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil T Te en no oc ch ht ti it tl lá án n_ c ca ay yó ó_ e en n_ 1 15 52 2_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"1","explicacion":"1 15 52 21 1 !! ⚔️🏚️"},
+      {"id":"pri3-his-b4-v2-004","tema":"Consecuencias","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil i id di io om ma a_ t tr ra aj je er ro on n_ e es sp pa añ ño ol le es s ? ?? ?! a?_?...l?!","opciones":["¡E ES SP PA AÑ ÑO OL L ! !! 🗣️🇪🇸","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡E ES SP PA AÑ ÑO OL L ! !! 🗣️🇪🇸","explicacion":"E Es sp pa añ ño ol l !! 🗣️🇪🇸!!"},
+      {"id":"pri3-his-b4-v2-005","tema":"Aliados de Cortés","tipo":"true_false","nivel":"v2","pregunta":"SiisEili T Tl la ax xc ca al lt te ec ca as s_ = =_ a al li ia ad do os s_ d de e_ C Co or rt té és s ? ?? !","respuestaCorrecta":"true","explicacion":"T Tl la ax xc ca al lt te ec ca as s !! ⚔️🤝"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-historia-b4-001",
-        "tema": "Revoluciones que cambiaron el mundo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b4-v2-001",
-        "tema": "Revoluciones que cambiaron el mundo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b4-002",
-        "tema": "Revoluciones que cambiaron el mundo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      }
+    "preview":[
+      {"id":"pri3-his-b4-v1-001","tema":"Llegada","tipo":"multiple_choice","nivel":"v1","pregunta":"¿En qué año llegaron los españoles?","opciones":["¡1519! ⛵","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡1519! ⛵","explicacion":"1519","visual":"⛵"},
+      {"id":"pri3-his-b4-v1-005","tema":"Aliados","tipo":"multiple_choice","nivel":"v1","pregunta":"Aliados de Cortés contra mexicas = ¿?","opciones":["¡Tlaxcaltecas! ⚔️","Triste","Gris.","Feo."],"respuestaCorrecta":"¡Tlaxcaltecas! ⚔️","explicacion":"Tlaxcaltecas"},
+      {"id":"pri3-his-b4-v2-002","tema":"Moctezuma","tipo":"true_false","nivel":"v2","pregunta":"Moctezuma era tlatoani cuando llegó Cortés. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Moctezuma"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.290Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

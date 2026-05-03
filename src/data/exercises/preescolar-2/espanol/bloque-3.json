@@ -2,135 +2,302 @@
   "grado": "preescolar-2",
   "materia": "espanol",
   "bloque": 3,
-  "nombre": "Sílabas simples",
-  "meses": "Diciembre-Enero",
+  "nombre": "Las consonantes S, L y T",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Las vocales",
-    "Consonantes M P S",
-    "Sílabas simples",
-    "Palabras cortas",
-    "Oraciones simples"
+    "Descubriendo la S (Sapo, Sol, Silla)",
+    "Conociendo la L (Luna, León, Lápiz)",
+    "Explorando la T (Tomate, Tren, Tortuga)",
+    "Sonidos iniciales simples"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-espanol-b3-001",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b3-v1-001",
+        "tema": "Descubriendo la S (Sapo, Sol, Silla)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "¿Qué estrella brillante, amarilla y calientita que vemos en el día empieza con Ssss?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "Sol ☀️",
+          "Estrella ⭐",
+          "Rayo ⚡",
+          "Planeta 🌍"
+        ],
+        "respuestaCorrecta": "Sol ☀️",
+        "explicacion": "¡El grandioso y caluroso Sol! Empieza con ese sonido suave de Ssss. ☀️",
+        "visual": "☀️"
       },
       {
-        "id": "preescolar-2-espanol-b3-002",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b3-v1-002",
+        "tema": "Descubriendo la S (Sapo, Sol, Silla)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "La letra S tiene forma de serpiente o de un gusanito ondulado.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Cierto! Si la miras bien, se curva de un lado y luego al otro, deslizando como Sssserpiente. 🐍"
       },
       {
-        "id": "preescolar-2-espanol-b3-003",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b3-v1-003",
+        "tema": "Conociendo la L (Luna, León, Lápiz)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué blanca y redonda amiga ilumina la noche y empieza con L?",
+        "opciones": [
+          "Luna 🌙",
+          "Nube ☁️",
+          "Sol ☀️",
+          "Roca 🪨"
+        ],
+        "respuestaCorrecta": "Luna 🌙",
+        "explicacion": "¡Luna! La señora Luna le da su luz plateada a todos los que duermen. 🌙",
+        "visual": "🌙"
+      },
+      {
+        "id": "pre2-esp-b3-v1-004",
+        "tema": "Conociendo la L (Luna, León, Lápiz)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El rey de la selva que ruge empieza con la L: ¡Llll-eón!",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡León! Empieza fuerte y valiente con la sílaba LE. 🦁"
+      },
+      {
+        "id": "pre2-esp-b3-v1-005",
+        "tema": "Explorando la T (Tomate, Tren, Tortuga)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué deliciosa verdura roja, aguadita y redonda que ponemos en la ensalada empieza con T?",
+        "opciones": [
+          "To-ma-te 🍅",
+          "Zanahoria 🥕",
+          "Ajo 🧄",
+          "Pimiento 🫑"
+        ],
+        "respuestaCorrecta": "To-ma-te 🍅",
+        "explicacion": "¡Tooo-maaa-teeee! Se escribe con T de Tito. Muy nutritivo y sabroso. 🍅",
+        "visual": "🍅"
+      },
+      {
+        "id": "pre2-esp-b3-v1-006",
+        "tema": "Explorando la T (Tomate, Tren, Tortuga)",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Animalito lento con caparazón duro en la espalda que se escribe con T: es una ___rtuga.",
+        "respuestaCorrecta": "To",
+        "explicacion": "¡Tortuga! Las Tortugas viajan con su casita a donde quiera que van. 🐢"
+      },
+      {
+        "id": "pre2-esp-b3-v1-007",
+        "tema": "Sonidos iniciales simples",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Escucha: 'Si-lla'. ¿Con qué sílaba inicia para que puedas sentarte a descansar?",
+        "opciones": [
+          "Inicia con SI 🪑",
+          "Inicia con MA",
+          "Inicia con PO",
+          "Inicia con BO"
+        ],
+        "respuestaCorrecta": "Inicia con SI 🪑",
+        "explicacion": "¡Si-lla! La siseante S con la alegre vocal I fundidas logran el sentadero ideal. 🪑",
+        "visual": "🪑"
+      },
+      {
+        "id": "pre2-esp-b3-v1-008",
+        "tema": "Conociendo la L (Luna, León, Lápiz)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Usas mi carbón para colorear, dibujar y escribir vocales en tu cuaderno. Soy tu ___piz de madera fina.",
+        "respuestaCorrecta": "Lá",
+        "explicacion": "¡Lá-piz! Tu compañero infalible de todos tus dibujos espectaculares. ✏️"
+      },
+      {
+        "id": "pre2-esp-b3-v1-009",
+        "tema": "Descubriendo la S (Sapo, Sol, Silla)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Saltando sin cesar en mi charco lluvioso. Verde como hoja y empapado empiezo con SA, soy el...",
+        "opciones": [
+          "Sapo 🐸",
+          "Oso Grizzly 🐻",
+          "Aguila 🦅",
+          "Tiburón 🦈"
+        ],
+        "respuestaCorrecta": "Sapo 🐸",
+        "explicacion": "¡Sapito de pantano lluvioso que dice croa pero inicia rotundísimo con la resplandeciente S! 🐸",
+        "visual": "🐸"
+      },
+      {
+        "id": "pre2-esp-b3-v1-010",
+        "tema": "Explorando la T (Tomate, Tren, Tortuga)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un vehículo larguísimo que hace 'chu chu', anda por carriles o vías y le llamamos Tren.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡T de Tren! A toda máquina desplazado humeantemente por los vales inmensos de hierro. 🚂"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-espanol-b3-v2-001",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b3-v2-001",
+        "tema": "Explorando la T (Tomate, Tren, Tortuga)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "Para golpear clavaditos y reparar un mueble, papá suele usar una útil herramienta ruidosa que arranca fuertemente con MA...",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "Martillo 🔨",
+          "Trompo gírator",
+          "Tenacita roja",
+          "Taladro zumbante"
+        ],
+        "respuestaCorrecta": "Martillo 🔨",
+        "explicacion": "¡Martillo! Aunque tiene una T adentro (Mar-Ti-llo), fíjate cuan hermosa se alinea, empieza por M pero relucen todas unidas. 🛠️"
       },
       {
-        "id": "preescolar-2-espanol-b3-v2-002",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b3-v2-002",
+        "tema": "Descubriendo la S (Sapo, Sol, Silla)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El rico almuerzo de caldito de pollo calentito se llama Sopa, la cual se desborda en dulzura y sílabas SO-PA.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Acertado estruendo calientito! Sopa tiene la ondulada S engalanándose primera en el hirviente goce líquido. 🍲"
+      },
+      {
+        "id": "pre2-esp-b3-v2-003",
+        "tema": "Conociendo la L (Luna, León, Lápiz)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Un animal salvaje que aúlla fortísimamente a la luna plateada en la penumbra espesa se llama ___bo feroz.  ",
+        "respuestaCorrecta": "Lo",
+        "explicacion": "¡Lo-bo! Su rugiente llanto nocturno engalana y decora cada rama de abeto solitario en el frío valle. 🐺"
       },
       {
-        "id": "preescolar-2-espanol-b3-v2-003",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b3-v2-004",
+        "tema": "Sonidos iniciales simples",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Qué preciada golosina en su largo palito de plástico comienza con la radiante sílaba PA?  ",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "Paleta sabor cereza chupable",
+          "Chicle masticable aburrido",
+          "Boleto al dulce inalcanzable",
+          "Bombón blando sin picos"
+        ],
+        "respuestaCorrecta": "Paleta sabor cereza chupable",
+        "explicacion": "Pa-le-ta engrosa los más azucarados instantes de nuestra infancia combinada con los frutos maduros de cereza. 🍭"
+      },
+      {
+        "id": "pre2-esp-b3-v2-005",
+        "tema": "Descubriendo la S (Sapo, Sol, Silla)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cuando estás cansado de estar de pie en la plaza sueles buscar una inmensa Sombra que principia con espléndida ese.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Claro! La benévola SO-mbra fresca que arroja el arbolito te cubrirá de rayos incansables al medio día glorioso. 🌳"
+      },
+      {
+        "id": "pre2-esp-b3-v2-006",
+        "tema": "Explorando la T (Tomate, Tren, Tortuga)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Al nadar un temido monstruo del mar que es muy lizo y tiene aleta aterrorizante y colmillos lleva en sí el nombre Ti___rón blanco.  ",
+        "respuestaCorrecta": "bu",
+        "explicacion": "Ti-bu-rón majestuoso asustador de playas pero que inicia glorificando a la recia T. 🦈"
+      },
+      {
+        "id": "pre2-esp-b3-v2-007",
+        "tema": "Conociendo la L (Luna, León, Lápiz)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Bebida blanca rebosante de calcio incalculable que viertes en tus granillos de cereal y a veces hace espumita dulce:  ",
+        "opciones": [
+          "Leche espesa y fría",
+          "Agua bendita transparente sin color",
+          "Café tostado oscurísimo e infantil",
+          "Zumo amarillo sin calcio ni vaquita atada"
+        ],
+        "respuestaCorrecta": "Leche espesa y fría",
+        "explicacion": "¡Leche! La silaba sagrada LE nutre y forja huesos para ir sumamente veloz todo el año escolar. 🥛"
+      },
+      {
+        "id": "pre2-esp-b3-v2-008",
+        "tema": "Sonidos iniciales simples",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Silbato emite tan agudo sonido para detener formaciones e inicia potentemente con SI y una l batallona por en medio.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Si-l-ba-to! Sonidísimo silbante que dicta mandatos e impone gloriosa justicia sonora en el receso incesante. 哨"
+      },
+      {
+        "id": "pre2-esp-b3-v2-009",
+        "tema": "Explorando la T (Tomate, Tren, Tortuga)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El ave chistosa de inmenso pico coloreado cual plátano gigante que vive en selvas espesas saltativas porta la ilustre letra inicial en T:  ",
+        "opciones": [
+          "Divertido Tucán parlanchín",
+          "Triste Loro imitador",
+          "Sereno Pelícano engullidor",
+          "Búho de noche tenebrosa"
+        ],
+        "respuestaCorrecta": "Divertido Tucán parlanchín",
+        "explicacion": "¡Tucán glorificado en sílaba TU que traga frutos amazónicos en sus ramas vibradoras! 🦜"
+      },
+      {
+        "id": "pre2-esp-b3-v2-010",
+        "tema": "Conociendo la L (Luna, León, Lápiz)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Tu juguete redondo repleto de estambre donde juegan y rascan las garras los mininos se apela ___mbrico montón afelpado llamado Bola de Lana (LA).  ",
+        "respuestaCorrecta": "ina",
+        "explicacion": "La suavizada LA-na arropa y esquila glorias enteras calentando a nuestra humanísima y gélida existencia invernal rotunda. 🧶"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-espanol-b3-001",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b3-v1-001",
+        "tema": "Descubriendo la S (Sapo, Sol, Silla)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "¿Qué estrella brillante y calientita que vemos en el día empieza con Ssss?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "Sol ☀️",
+          "Estrella ⭐",
+          "Rayo ⚡",
+          "Planeta 🌍"
+        ],
+        "respuestaCorrecta": "Sol ☀️",
+        "explicacion": "¡El grandioso y caluroso Sol! Empieza con ese sonido suave de Ssss. ☀️",
+        "visual": "☀️"
       },
       {
-        "id": "preescolar-2-espanol-b3-v2-001",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b3-v2-001",
+        "tema": "Explorando la T (Tomate, Tren, Tortuga)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "Herramienta ruidosa que arranca fuertemente con MA...",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "Martillo 🔨",
+          "Trompo gírator",
+          "Tenacita roja",
+          "Taladro zumbante"
+        ],
+        "respuestaCorrecta": "Martillo 🔨",
+        "explicacion": "Fíjate cuan hermosa se alinea, empieza por M y lleva una T adentro. 🛠️"
       },
       {
-        "id": "preescolar-2-espanol-b3-002",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b3-v1-002",
+        "tema": "Descubriendo la S (Sapo, Sol, Silla)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "La letra S tiene forma de serpiente o de un gusanito ondulado.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Cierto! Si la miras bien, desliza como Sssserpiente. 🐍"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.215Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

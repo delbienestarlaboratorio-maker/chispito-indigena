@@ -1,0 +1,27 @@
+{
+  "grado":"primaria-2","materia":"conocimiento","bloque":5,"nombre":"El día, la noche y el universo","meses":"Abril - Mayo",
+  "temas":["El sol y la luna","El día y la noche","Las estaciones del año","El sistema solar"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri2-con-b5-v1-001","tema":"El sol y la luna","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué estrellota nos da luz y calor durante el día?","opciones":["¡El S-O-L, la estrella más cercana! ☀️⭐","Destrozadoras.","Romper.","Fétidas."],"respuestaCorrecta":"¡El S-O-L, la estrella más cercana! ☀️⭐","explicacion":"El sol es nuestra estrella. ☀️⭐","visual":"☀️⭐"},
+      {"id":"pri2-con-b5-v1-002","tema":"El día y la noche","tipo":"true_false","nivel":"v1","pregunta":"El día y la noche existen porque la Tierra gira sobre sí misma = R-O-T-A-C-I-Ó-N.","respuestaCorrecta":"true","explicacion":"¡Verdad! La rotación da día y noche. 🌍🔄"},
+      {"id":"pri2-con-b5-v1-003","tema":"Las estaciones del año","tipo":"fill_blank","nivel":"v1","pregunta":"Las cuatro estaciones: primavera, verano, otoño e I-N-V-I-E-R-N-____ .","respuestaCorrecta":"O","explicacion":"¡INVIERNO! Las 4 estaciones se turnan cada año. ❄️🍂"},
+      {"id":"pri2-con-b5-v1-004","tema":"El sistema solar","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se llama el planeta rojo del sistema solar?","opciones":["¡M-A-R-T-E el planeta rojo! 🔴🪐","Hundan.","Romper.","Miedosas."],"respuestaCorrecta":"¡M-A-R-T-E el planeta rojo! 🔴🪐","explicacion":"Marte es el cuarto planeta, rojito por óxido de hierro. 🔴🪐"},
+      {"id":"pri2-con-b5-v1-005","tema":"El sol y la luna","tipo":"multiple_choice","nivel":"v1","pregunta":"¿La luna brilla con luz propia o refleja la luz del sol?","opciones":["¡R-E-F-L-E-J-A la luz del sol, es un espejito estelar! 🌙🪞","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡R-E-F-L-E-J-A la luz del sol, es un espejito estelar! 🌙🪞","explicacion":"La luna refleja la luz solar. 🌙🪞"}
+    ],
+    "v2":[
+      {"id":"pri2-con-b5-v2-001","tema":"El sol y la luna","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí e es st tr re el ll la a_ n no os s_ d da a_ l lu uz z ? ??","opciones":["¡S SO OL L ! !! ☀️⭐","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡S SO OL L ! !! ☀️⭐","explicacion":"S So ol l !! ☀️⭐!"},
+      {"id":"pri2-con-b5-v2-002","tema":"El día y la noche","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi R RO OT TA AC CI IÓ ÓN N_ = =_ d dí ía a/ /n no oc ch he e ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"R Ro ot ta ac ci ió ón n_ = =_ d dí ía a/ /n no oc ch he e !! 🌍🔄!"},
+      {"id":"pri2-con-b5-v2-003","tema":"Las estaciones del año","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil I IN NV VI IE ER RN N_ __ __ _ A A A ? Aili _? ls...","respuestaCorrecta":"O","explicacion":"I IN NV VI IE ER RN NO O !! ❄️🍂"},
+      {"id":"pri2-con-b5-v2-004","tema":"El sistema solar","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil p pl la an ne et ta a_ r ro oj jo o ? ?? ?! a?_?...l?!","opciones":["¡M MA AR RT TE E ! !! 🔴🪐","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡M MA AR RT TE E ! !! 🔴🪐","explicacion":"M Ma ar rt te e_ r ro oj jo o !! 🔴🪐!!"},
+      {"id":"pri2-con-b5-v2-005","tema":"El sol y la luna","tipo":"true_false","nivel":"v2","pregunta":"SiisEili l lu un na a_ R RE EF FL LE EJ JA A_ l lu uz z_ s so ol la ar r ? ?? !","respuestaCorrecta":"true","explicacion":"L Lu un na a_ r re ef fl le ej ja a !! 🌙🪞"}
+    ],
+    "preview":[
+      {"id":"pri2-con-b5-v1-001","tema":"El sol y la luna","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué estrella nos da luz?","opciones":["¡El SOL! ☀️","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡El SOL! ☀️","explicacion":"Sol","visual":"☀️"},
+      {"id":"pri2-con-b5-v1-004","tema":"El sistema solar","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Planeta rojo?","opciones":["¡MARTE! 🔴","Triste","Gris.","Feo."],"respuestaCorrecta":"¡MARTE! 🔴","explicacion":"Marte"},
+      {"id":"pri2-con-b5-v2-002","tema":"El día y la noche","tipo":"true_false","nivel":"v2","pregunta":"Rotación = día/noche. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Rotación"}
+    ]
+  },
+  "generado":"2026-04-27T12:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
+}

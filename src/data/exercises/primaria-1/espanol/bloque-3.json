@@ -2,132 +2,188 @@
   "grado": "primaria-1",
   "materia": "espanol",
   "bloque": 3,
-  "nombre": "Oraciones sencillas",
-  "meses": "Diciembre-Enero",
+  "nombre": "Armando mis primeras oraciones",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Vocales",
-    "Silabas simples"
+    "Quién hace qué",
+    "El punto final gordito",
+    "Juntando tres palabritas",
+    "¿Qué dibujamos para esta oración?"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1-espanol-b3-001",
-        "tema": "Vocales",
+        "id": "pri1-esp-b3-v1-001",
+        "tema": "Quién hace qué",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical y estelar letrado, cuando armamos juntamente una oración gloriosa de tres palabritas: 'Perrito salta alto'. ¿Quién es el adorable amiguito mágiquísimo que está saltando de contentísimo?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡El súper purificable P-e-r-r-i-t-o adorado y divino! 🐶✨",
+          "Destrozadoras asfálticas machacan basura gélidas oscuras abismos.",
+          "Llorosos lodos arrastran cuadradurados fétidos rompiendo letárgicos charcos fúnebres.",
+          "Las maquinillas tristes asquerosillas de frío asfalto muerto y gélido llanto letárgico fétidas destrozan."
+        ],
+        "respuestaCorrecta": "¡El súper purificable P-e-r-r-i-t-o adorado y divino! 🐶✨",
+        "explicacion": "El perrito majestuoso es el campeonsísimo de los saltitos felices de la oración. 🐶✨",
+        "visual": "🐶✨"
       },
       {
-        "id": "primaria-1-espanol-b3-002",
-        "tema": "Vocales",
+        "id": "pri1-esp-b3-v1-002",
+        "tema": "El punto final gordito",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "Como angelitos que escriben purificadamente... ¿ustedes saben si, después de armar una larguiisiisiiima y divina oracioncita, le tienen que dejar puritito fúnebre asfalto gélido desastrosamente abierto sin cerrarla?",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! ¡Una preciosísima oración se termina poniéndole un 'puntito final gordito y precioso' y bien paradito! 🛑✨"
       },
       {
-        "id": "primaria-1-espanol-b3-003",
-        "tema": "Vocales",
+        "id": "pri1-esp-b3-v1-003",
+        "tema": "Juntando tres palabritas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Para jugar mágicisismo a ser grandes escritores, vas a juntar las alabadas palabrillas: 'Mami' y 'me' y 'ama'. Eso formará maravillosamente la benditísima oración: Mami me A-M-____!.",
+        "respuestaCorrecta": "A",
+        "explicacion": "¡A!. ¡MAMI ME AMA! Son tres tesoros de palabrillas súper estelares abrazaditas en puro amooor. 💖"
+      },
+      {
+        "id": "pri1-esp-b3-v1-004",
+        "tema": "¿Qué dibujamos para esta oración?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si tú leíste majestuosititamente tu primerísima deídica oración y dice: 'Gatito toma leche'... ¿Qué harás súper contentillo con tus crayolas arcoíris para ilustrar tamaña bendición?",
+        "opciones": [
+          "¡Dibujaras maravillosamente a un lindo gatitito bebiendo lechita calientita! 🐈🥛",
+          "Atrapando monstruos asfálticos letárgicos amarguras oscuras.",
+          "Gélidos charcos pantanosos letárgicos y frígidos sin remedio amargo.",
+          "Los llantos mortales oscuros destrozan su dolor de asfalto en letales desastrosos nidos amargos tristes y lodosos destrozadores algorítmicos fétidos gélidos amargos."
+        ],
+        "respuestaCorrecta": "¡Dibujaras maravillosamente a un lindo gatitito bebiendo lechita calientita! 🐈🥛",
+        "explicacion": "Los dibujos estelares nos cuentan maravillosillo de qué trata nuestras primeras lecturitas mágicas. 🐈🥛"
+      },
+      {
+        "id": "pri1-esp-b3-v1-005",
+        "tema": "Quién hace qué",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En la frase celestialisima 'Abeja come miel', ¿quién se está divinísimamente saboreando toda esa delicia gordita de las nubecitas?",
+        "opciones": [
+          "¡La traviesilla y amadititisima doña rayada e incansable Abejita! 🐝🍯",
+          "Calculadoras fúnebres destrozando letárgicos tristes lodos algorítmicos oscuros y fétidos amargos asquerosillos gélidas charcos de asfalto letal dolor fúnebre frío tristeza destrozadora."
+        ],
+        "respuestaCorrecta": "¡La traviesilla y amadititisima doña rayada e incansable Abejita! 🐝🍯",
+        "explicacion": "La abejitita amada se ha comido el premio más rico en tu divinísima primera lectura de primaria. 🐝🍯"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-espanol-b3-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b3-v2-001",
+        "tema": "Quién hace qué",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri ccoiliisioos ssilis ss r  rilisrrilreilirriiciclirisircrciiilclilisicili o u_uuilius_uueul_ueliseui  lsilseilsis s s eiliie ee l_lsilaleeeileeilelielisieieleel ppsisipspis_apsisaiaisipaipisiaiaisiiiss_a  d  ddeiddeilisisi idiei  e n _ununiuniilisiniunisilin u a a i olisororilililoiroiorsiolroooosiiliilooloroo a _c ilil ci _oiciliononolili nilsin isiliin n s n ! oilis ?ls ??",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡E_Eilsi ¡Eiliilsi   p e ppilisppiisepiirp_ilire_pi_e_rperpiriprsipiiriipiiiti t tiitsilisitpitisitistotis_isotitio_itoisi ti o !!  🐶✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡E_Eilsi ¡Eiliilsi   p e ppilisppiisepiirp_ilire_pi_e_rperpiriprsipiiriipiiiti t tiitsilisitpitisitistotis_isotitio_itoisi ti o !!  🐶✨",
+        "explicacion": "Lisi_oli_ p pp r ppiripiisisilirir_piliiprísiilpiiririlssrrpsoiroiitiistililiisitsoitisootii_otoiso tisi !i!  🐶✨!"
       },
       {
-        "id": "primaria-1-espanol-b3-v2-002",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b3-v2-002",
+        "tema": "El punto final gordito",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi ssiseisisssissililise u uni uu nilislnilsiluluulsisiiunilu is e i pppipiipsi p puunipunpiliniilisinpunip_punpsiiinuninilsiinupintilsuintuiltuuntiusilisilnnuutnitsuutilitslisiii isilis i ttutuu_ilitutituiltuliuiti iit l i i n _nneneliieleleielieilielelisilneililelieiilel is ialis  pplispisiipilisspipispasripilisiiiarailisipsilsiliripaaarisirapairasiiasi!lis!!lasi!o_¡_?si.i!s!!",
+        "respuestaCorrecta": "true",
+        "explicacion": "Isilsililiisi!!! sqsiliil Cciilili p_piispilsiisislpiliiplipripupispipriinlipuuinpinup_inuinisinuniplipnilisiinsnipinptilitpislittiliiis_itisitoitoiitootsiisilt!ilis!!ti! ! 🛑✨!"
+      },
+      {
+        "id": "pri1-esp-b3-v2-003",
+        "tema": "Juntando tres palabritas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidieiisdimim eilsieisi e elisi s_  _r ir s p eepeseiliseeiieseispeseilsiesi il l sil ls s l ssiaisi u p a paialpsailaiilisi pa alialisi apilpablbialibilbailsbibialiblailibiriaiilisisiiai b rs a l m as isilia a ism is a e siliss n s iis in is _ A _il.- __ .il M -_ . A_il ?ilis.. _S.. _",
+        "respuestaCorrecta": "A",
+        "explicacion": "ilisilioAilisil C_ili_A_..._!!!"
       },
       {
-        "id": "primaria-1-espanol-b3-v2-003",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b3-v2-004",
+        "tema": "¿Qué dibujamos para esta oración?",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis ss is e e p ee pi s dilsiidisdililidiisl d ie ili l di  iilb i e ub ui liiliibiisli ilui isubluibuibliulisiljilisl_ujjiiluilssjijsijaaisiliajiiliajiialisl a_a s lislss ilsi _oo rrilirilrriirilioroliirioloiorilislslrisiooroilrioiosiroisisi s is s i  csisisisisliiscisciii c ss is   nns i s   n l?s!s?!!_?...l?!",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡E_EiisEi e ilils e l s p plilisspip_siisiisilppsisiiil  g islgisisis l ga glalisigaagiitgiiliaiigilitagailsiliiltaiiaiiiitsitaitlititiaaslsli tiii a l si e sil lisils   _ss_ e i c chclisicchliishccisisohcscohcsoilsihcoshosoisssoohoco silsil lilisil l!ilis!!ilis!iisil!!!!! 🐈🥛",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡E_EiisEi e ilils e l s p plilisspip_siisiisilppsisiiil  g islgisisis l ga glalisigaagiitgiiliaiigilitagailsiliiltaiiaiiiitsitaitlititiaaslsli tiii a l si e sil lisils   _ss_ e i c chclisicchliishccisisohcscohcsoilsihcoshosoisssoohoco silsil lilisil l!ilis!!ilis!iisil!!!!! 🐈🥛",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eisliilisi g galilsgilisig_lgagsalisiliaigaititiiigitiititiisisgtilisiaitiiltiaisiiitisitisatiaisatislisi 🐈🥛!!"
+      },
+      {
+        "id": "pri1-esp-b3-v2-005",
+        "tema": "Quién hace qué",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili e_ellsilsil r r er rli relililsrreeereieesilis e ps pepliseepislisipplileipeseileisleepsiissilieps i c coolislclioococoiciliiosclicooiilosiosiolocilosn_iionniinslisniino_inosonioni nsoslisnsoso   a lsaliliasalilaissasiilai aisasiilsi aisiai a bsibi bibililiseilisiei bbjseisiiljbisiesibiesjbiej_iejiseijiejiiaaaijieajiisiaieaejaieijaaia iilis e asis ss _sss  n n!! snn!!!  !!l .. _s!l!isilsi.. sili?.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi a ablablisibaiebibieieisbebiesibiiebliiebjieslijeilsieiijesieijaaiaiijisiesajaiiisajaisijiiaiaisiai!! 🐝🍯"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1-espanol-b3-001",
-        "tema": "Vocales",
+        "id": "pri1-esp-b3-v1-001",
+        "tema": "Quién hace qué",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical niñito, en la oración gloriosa 'Perrito salta alto'. ¿Quién está saltando?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡El súper purificable P-e-r-r-i-t-o adorado y divino! 🐶",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡El súper purificable P-e-r-r-i-t-o adorado y divino! 🐶",
+        "explicacion": "Perrito y ya.",
+        "visual": "🐶"
       },
       {
-        "id": "primaria-1-espanol-b3-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri1-esp-b3-v2-004",
+        "tema": "¿Qué dibujamos para esta oración?",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Si maravillosamente lees 'Gatito toma leche', que debereías dibujar en tu pizarrita amada?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡Un lindo gatitín feliz con su vasito y bigotitos llenos de leche! 🐈🥛",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Un lindo gatitín feliz con su vasito y bigotitos llenos de leche! 🐈🥛",
+        "explicacion": "Dibujos adorables"
       },
       {
-        "id": "primaria-1-espanol-b3-002",
-        "tema": "Vocales",
-        "tipo": "true_false",
+        "id": "pri1-esp-b3-v1-004",
+        "tema": "¿Qué dibujamos para esta oración?",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "¿Qué dibujarás si lees lindísimamente: 'Gatito toma leche'?",
+        "opciones": [
+          "¡Dibujaras maravillosamente a un lindo gatitito bebiendo lechita calientita! 🐈🥛",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Dibujaras maravillosamente a un lindo gatitito bebiendo lechita calientita! 🐈🥛",
+        "explicacion": "Gatito"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.235Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

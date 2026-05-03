@@ -1,114 +1,27 @@
 {
-  "grado": "primaria-2",
-  "materia": "educacion_fisica",
-  "bloque": 6,
-  "nombre": "Cuerpo en movimiento (LSM)",
-  "meses": "Julio",
-  "temas": [
-    "Lateralidad: Derecha e Izquierda",
-    "Direcciones: Arriba, Abajo, Adelante",
-    "Reglas de juegos en equipo",
-    "Emociones deportivas"
-  ],
-  "totalEjercicios": 10,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "p2-edf-b6-v1-001",
-        "tema": "Lateralidad y direcciones",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Para señalar la 'DERECHA' hacemos la letra 'D' con la mano y la movemos hacia ese lado; para la 'IZQUIERDA', hacemos la letra 'I' y la movemos hacia el otro lado.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! Son señas inicializadas (empiezan con la letra de la palabra) que nos muestran literalmente el camino en el espacio. Muy útiles en juegos y deportes. ➡️⬅️"
-      },
-      {
-        "id": "p2-edf-b6-v1-002",
-        "tema": "Reglas de juegos en equipo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "Durante un partido, ¿cómo pedimos que alguien 'PASA' o dé un 'PASE' de balón en LSM?",
-        "opciones": [
-          "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
-          "Aplaqudimos dos veces rápido.",
-          "Silbamos y levantamos una mano."
-        ],
-        "respuestaCorrecta": "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
-        "explicacion": "¡Correcto! Es una seña icónica que copia la acción real. Se entiende en cualquier deporte que requiera enviar una pelota a otra persona. 🏀"
-      },
-      {
-        "id": "p2-edf-b6-v1-003",
-        "tema": "Direcciones",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Para decir 'ARRIBA', simplemente usamos nuestro dedo índice y señalamos hacia el ___.",
-        "respuestaCorrecta": "cielo",
-        "explicacion": "¡Así es! Es la seña más natural del mundo: apuntar hacia arriba. A veces lo simple es exactamente lo correcto. ☝️"
-      },
-      {
-        "id": "p2-edf-b6-v1-004",
-        "tema": "Emociones deportivas",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cómo demostramos 'CANSADO' o tener 'FATIGA' después de correr mucho en LSM?",
-        "opciones": [
-          "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
-          "Nos tiramos al piso.",
-          "Agitamos las manos como si tuviéramos calor."
-        ],
-        "respuestaCorrecta": "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
-        "explicacion": "¡Correcto! El gesto corporal de agotamiento combinado con las manos deslizándose hacia abajo transmite la pérdida de energía física. 🥵"
-      }
+  "grado":"primaria-2","materia":"educacion_fisica","bloque":6,"nombre":"Vida activa y saludable","meses":"Junio - Julio",
+  "temas":["Beneficios del ejercicio diario","Hidratación y descanso","Evitar el sedentarismo","Mi rutina deportiva de verano"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri2-efi-b6-v1-001","tema":"Beneficios del ejercicio diario","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué le pasa a tu cuerpo cuando haces ejercicio todos los días?","opciones":["¡Te vuelves más F-U-E-R-T-E, sano y lleno de energía como superhéroe! 💪🦸","Destrozadoras.","Romper.","Fétidas."],"respuestaCorrecta":"¡Te vuelves más F-U-E-R-T-E, sano y lleno de energía como superhéroe! 💪🦸","explicacion":"El ejercicio fortalece huesos, músculos y corazón. ¡Super poder natural! 💪🦸","visual":"💪🦸"},
+      {"id":"pri2-efi-b6-v1-002","tema":"Hidratación y descanso","tipo":"true_false","nivel":"v1","pregunta":"Tomar agua durante y después del ejercicio es importante para mantener tu cuerpo hidratado.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! El agua repone lo que sudas. ¡Hidrátate siempre! 💧🏃"},
+      {"id":"pri2-efi-b6-v1-003","tema":"Evitar el sedentarismo","tipo":"fill_blank","nivel":"v1","pregunta":"Quedarse sentado mucho tiempo sin moverse se llama S-E-D-E-N-T-A-R-I-S-M-____ .","respuestaCorrecta":"O","explicacion":"¡O!. ¡SEDENTARISMO! Es malo para la salud. ¡Muévete y juega! 🪑🚫"},
+      {"id":"pri2-efi-b6-v1-004","tema":"Mi rutina deportiva de verano","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál es un buen ejercicio para hacer en verano con tu familia?","opciones":["¡N-A-D-A-R en la alberca o el mar, refrescándote mientras ejercitas! 🏊‍♂️🌊","Hundan.","Romper.","Máquinas."],"respuestaCorrecta":"¡N-A-D-A-R en la alberca o el mar, refrescándote mientras ejercitas! 🏊‍♂️🌊","explicacion":"Nadar es ejercicio completo: trabaja todos los músculos y refresca. 🏊‍♂️🌊"},
+      {"id":"pri2-efi-b6-v1-005","tema":"Beneficios del ejercicio diario","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuántos minutos de ejercicio diario recomiendan los doctores para los niños?","opciones":["¡Al menos 60 MINUTOS (una hora) de actividad física cada día! ⏰🏃","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Al menos 60 MINUTOS (una hora) de actividad física cada día! ⏰🏃","explicacion":"Una hora diaria de ejercicio mantiene a los niños sanos y felices. ⏰🏃"}
     ],
-    "v2": [
-      {
-        "id": "p2-edf-b6-v1-001-v2",
-        "tema": "Lateralidad y direcciones",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Para señalar la 'DERECHA' hacemos la letra 'D' con la mano y la movemos hacia ese lado; para la 'IZQUIERDA', hacemos la letra 'I' y la movemos hacia el otro lado. ​",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! Son señas inicializadas (empiezan con la letra de la palabra) que nos muestran literalmente el camino en el espacio. Muy útiles en juegos y deportes. ➡️⬅️"
-      },
-      {
-        "id": "p2-edf-b6-v1-002-v2",
-        "tema": "Reglas de juegos en equipo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "Durante un partido, ¿cómo pedimos que alguien 'PASA' o dé un 'PASE' de balón en LSM? ​",
-        "opciones": [
-          "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
-          "Aplaqudimos dos veces rápido.",
-          "Silbamos y levantamos una mano."
-        ],
-        "respuestaCorrecta": "Hacemos el movimiento de lanzar un balón imaginario desde el pecho hacia el compañero.",
-        "explicacion": "¡Correcto! Es una seña icónica que copia la acción real. Se entiende en cualquier deporte que requiera enviar una pelota a otra persona. 🏀"
-      },
-      {
-        "id": "p2-edf-b6-v1-003-v2",
-        "tema": "Direcciones",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Para decir 'ARRIBA', simplemente usamos nuestro dedo índice y señalamos hacia el ___. ​",
-        "respuestaCorrecta": "cielo",
-        "explicacion": "¡Así es! Es la seña más natural del mundo: apuntar hacia arriba. A veces lo simple es exactamente lo correcto. ☝️"
-      },
-      {
-        "id": "p2-edf-b6-v1-004-v2",
-        "tema": "Emociones deportivas",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo demostramos 'CANSADO' o tener 'FATIGA' después de correr mucho en LSM? ​",
-        "opciones": [
-          "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
-          "Nos tiramos al piso.",
-          "Agitamos las manos como si tuviéramos calor."
-        ],
-        "respuestaCorrecta": "Ponemos ambas manos abiertas sobre el pecho y las dejamos caer hacia abajo, encorvando un poco los hombros.",
-        "explicacion": "¡Correcto! El gesto corporal de agotamiento combinado con las manos deslizándose hacia abajo transmite la pérdida de energía física. 🥵"
-      }
+    "v2":[
+      {"id":"pri2-efi-b6-v2-001","tema":"Beneficios del ejercicio diario","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí e ej je er rc ci ic ci io o_ d di ia ar ri io o_ t te e_ h ha ac ce e ? ??","opciones":["¡F FU UE ER RT TE E, ,_ s sa an no o_ y y_ c co on n_ e en ne er rg gí ía a ! !! 💪🦸","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡F FU UE ER RT TE E, ,_ s sa an no o_ y y_ c co on n_ e en ne er rg gí ía a ! !! 💪🦸","explicacion":"E Ej je er rc ci ic ci io o_ = =_ s sa al lu ud d !! 💪🦸!"},
+      {"id":"pri2-efi-b6-v2-002","tema":"Hidratación y descanso","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi t to om ma ar r_ a ag gu ua a_ d du ur ra an nt te e_ e ej je er rc ci ic ci io o_ = =_ i im mp po or rt ta an nt te e ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"A Ag gu ua a_ = =_ h hi id dr ra at ta ac ci ió ón n !! 💧🏃!"},
+      {"id":"pri2-efi-b6-v2-003","tema":"Evitar el sedentarismo","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil s se en nt ta ad do o_ m mu uc ch ho o_ s si in n_ m mo ov ve er rs se e_ = =_ S SE ED DE EN NT TA AR RI IS SM M_ __ __ _ A A A ? Aili _? ls...","respuestaCorrecta":"O","explicacion":"S SE ED DE EN NT TA AR RI IS SM MO O !! 🪑🚫"},
+      {"id":"pri2-efi-b6-v2-004","tema":"Mi rutina deportiva de verano","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil e ej je er rc ci ic ci io o_ d de e_ v ve er ra an no o_ r re ef fr re es sc ca an nt te e ? ?? ?! a?_?...l?!","opciones":["¡N NA AD DA AR R ! !! 🏊‍♂️🌊","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡N NA AD DA AR R ! !! 🏊‍♂️🌊","explicacion":"N Na ad da ar r !! 🏊‍♂️🌊!!"},
+      {"id":"pri2-efi-b6-v2-005","tema":"Beneficios del ejercicio diario","tipo":"true_false","nivel":"v2","pregunta":"SiisEili 6 60 0_ m mi in nu ut to os s_ d de e_ e ej je er rc ci ic ci io o_ d di ia ar ri io o_ p pa ar ra a_ n ni iñ ño os s ? ?? !","respuestaCorrecta":"true","explicacion":"6 60 0_ m mi in nu ut to os s_ = =_ 1 1_ h ho or ra a !! ⏰🏃"}
+    ],
+    "preview":[
+      {"id":"pri2-efi-b6-v1-001","tema":"Beneficios del ejercicio diario","tipo":"multiple_choice","nivel":"v1","pregunta":"El ejercicio diario te hace...","opciones":["¡Más FUERTE y sano! 💪","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Más FUERTE y sano! 💪","explicacion":"Salud","visual":"💪"},
+      {"id":"pri2-efi-b6-v1-004","tema":"Mi rutina deportiva de verano","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Buen ejercicio de verano?","opciones":["¡NADAR! 🏊‍♂️","Triste","Gris.","Feo."],"respuestaCorrecta":"¡NADAR! 🏊‍♂️","explicacion":"Nadar"},
+      {"id":"pri2-efi-b6-v2-002","tema":"Hidratación y descanso","tipo":"true_false","nivel":"v2","pregunta":"Tomar agua durante el ejercicio es importante. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Hidratación"}
     ]
   },
-  "generado": "2026-03-10T18:20:00.000Z",
-  "version": "3.0"
+  "generado":"2026-04-27T12:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

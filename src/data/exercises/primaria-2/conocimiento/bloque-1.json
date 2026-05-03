@@ -1,0 +1,37 @@
+{
+  "grado": "primaria-2",
+  "materia": "conocimiento",
+  "bloque": 1,
+  "nombre": "Mi cuerpo por dentro y por fuera",
+  "meses": "Agosto - Septiembre",
+  "temas": [
+    "Huesos y músculos amigos",
+    "Los 5 sentidos maravilosos",
+    "Alimentación del plato del bien comer",
+    "Higiene personal de campeón"
+  ],
+  "totalEjercicios": 10,
+  "ejercicios": {
+    "v1": [
+      {"id":"pri2-con-b1-v1-001","tema":"Huesos y músculos amigos","tipo":"multiple_choice","nivel":"v1","pregunta":"Angelical cuerpecito estelar, ¿cómo se llaman deidicamente los palitos duros que sostienen maravillosísimamente a tu cuerpo por dentro como un armazón de robot?","opciones":["¡Los H-U-E-S-O-S, el esqueleto mágico que te mantiene paradito como torre estelar! 🦴🏗️","Destrozadoras monstruosidades zoológicas miedosas tristes de cálculos fúnebres oscuros.","Romper los dolorosos frígidos de basureros gélidos amargos lodos letárgicos destrozadores.","Las fétidas máquinas lloronas gélidas abismales de sombras destrozadoras oscuras miedosas."],"respuestaCorrecta":"¡Los H-U-E-S-O-S, el esqueleto mágico que te mantiene paradito como torre estelar! 🦴🏗️","explicacion":"Los huesos son los palitos duros que forman tu esqueleto. ¡Tienes más de 200! 🦴🏗️","visual":"🦴🏗️"},
+      {"id":"pri2-con-b1-v1-002","tema":"Los 5 sentidos maravilosos","tipo":"true_false","nivel":"v1","pregunta":"Con tus hermosos ojotes puritísimos puedes oler las floritas del jardín.","respuestaCorrecta":"false","explicacion":"¡¡Falsooo falso tiernísismillo!! Con los ojotes se VE. ¡Para oler usamos la N-A-R-I-Z mágica! 👃🌺"},
+      {"id":"pri2-con-b1-v1-003","tema":"Alimentación del plato del bien comer","tipo":"fill_blank","nivel":"v1","pregunta":"Las frutas y verduras están maravillosísimamente en el grupo verde del plato del bien comer para darnos V-I-T-A-M-I-N-A-____ .","respuestaCorrecta":"S","explicacion":"¡S!. ¡VITAMINAS purificadas! Las frutitas y verduritas nos dan las vitaminas para crecer fuertes y sanos. 🥦🍎"},
+      {"id":"pri2-con-b1-v1-004","tema":"Higiene personal de campeón","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuántas veces al día debes cepillarte estelarmente tus dientotes perlados después de comer?","opciones":["¡Tres veces (después de cada comidita) para que tus dientes brillen como perlas marinas! 🦷✨","Hundan las dolorosas amarguras fúnebres de maquinillas destrozadoras de sombras.","Romper los basureros gélidos de charcos fúnebres de asquerosillas lloronas.","Las máquinas miedosas tristes de lodos amargos calculadoras destrozadoras."],"respuestaCorrecta":"¡Tres veces (después de cada comidita) para que tus dientes brillen como perlas marinas! 🦷✨","explicacion":"Cepiiiillate después de desayuno, comida y cena. ¡Tres veces al día, campeón estelar! 🦷✨"},
+      {"id":"pri2-con-b1-v1-005","tema":"Huesos y músculos amigos","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué cositas blanditas y rosaditas se encargan purísimamente de mover tus bracitos y piernillas?","opciones":["¡Los M-Ú-S-C-U-L-O-S, los motoritos suavecitos del movimiento estelar! 💪🏃","Calculadoras fúnebres de monstruosos destrozos de gélidas amarguras miedosas.","Las tristes destrozadoras gélidas de fétida sombra asquerosa miedosa sombrías.","Llorándonos charcos fúnebre amargo encanto machaca gélidas cálculos letales."],"respuestaCorrecta":"¡Los M-Ú-S-C-U-L-O-S, los motoritos suavecitos del movimiento estelar! 💪🏃","explicacion":"Los músculos se pegan a los huesos y los jalan para que tu cuerpo se mueva. 💪🏃"}
+    ],
+    "v2": [
+      {"id":"pri2-con-b1-v2-001","tema":"Huesos y músculos amigos","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí p pa al li it to os s_ d du ur ro os s_ d de en nt tr ro o_ d de el l_ c cu ue er rp po o_ q qu ue e_ t te e_ s so os st ti ie en ne en n ? ??","opciones":["¡H HU UE ES SO OS S_ e el l_ e es sq qu ue el le et to o ! !! 🦴🏗️","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡H HU UE ES SO OS S_ e el l_ e es sq qu ue el le et to o ! !! 🦴🏗️","explicacion":"H Hu ue es so os s_ = =_ e es sq qu ue el le et to o !! 🦴🏗️!"},
+      {"id":"pri2-con-b1-v2-002","tema":"Los 5 sentidos maravilosos","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi c co on n_ l lo os s_ o oj jo os s_ p pu ue ed de es s_ o ol le er r_ l la as s_ f fl lo or re es s ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"false","explicacion":"O Oj jo os s_ = =_ V VE ER R. ._ N Na ar ri iz z_ = =_ O OL LE ER R !! 👃🌺!"},
+      {"id":"pri2-con-b1-v2-003","tema":"Alimentación del plato del bien comer","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil f fr ru ut ta as s_ y y_ v ve er rd du ur ra as s_ d da an n_ V VI IT TA AM MI IN NA A_ __ __ _ A A A ? Aili _? ls...","respuestaCorrecta":"S","explicacion":"V VI IT TA AM MI IN NA AS S !! 🥦🍎"},
+      {"id":"pri2-con-b1-v2-004","tema":"Higiene personal de campeón","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil c ce ep pi il ll la ar rs se e_ l lo os s_ d di ie en nt te es s_ ¿ ¿c cu uá án nt ta as s_ v ve ec ce es s_ a al l_ d dí ía a ? ?? ?! a?_?...l?!","opciones":["¡T Tr re es s_ v ve ec ce es s_ d de es sp pu ué és s_ d de e_ c ca ad da a_ c co om mi id da a ! !! 🦷✨","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡T Tr re es s_ v ve ec ce es s_ d de es sp pu ué és s_ d de e_ c ca ad da a_ c co om mi id da a ! !! 🦷✨","explicacion":"3 3_ v ve ec ce es s !! 🦷✨!!"},
+      {"id":"pri2-con-b1-v2-005","tema":"Huesos y músculos amigos","tipo":"true_false","nivel":"v2","pregunta":"SiisEili l lo os s_ M MÚ ÚS SC CU UL LO OS S_ m mu ue ev ve en n_ t tu us s_ b br ra ac ci it to os s_ y y_ p pi ie er rn ni il ll la as s ? ?? !","respuestaCorrecta":"true","explicacion":"M Mú ús sc cu ul lo os s_ = =_ m mo ov vi im mi ie en nt to o !! 💪🏃"}
+    ],
+    "preview": [
+      {"id":"pri2-con-b1-v1-001","tema":"Huesos y músculos amigos","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se llaman los palitos duros que sostienen tu cuerpo?","opciones":["¡Los HUESOS! 🦴","Bestias","Grises.","Letárgicas."],"respuestaCorrecta":"¡Los HUESOS! 🦴","explicacion":"Huesos=esqueleto","visual":"🦴"},
+      {"id":"pri2-con-b1-v1-004","tema":"Higiene personal de campeón","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuántas veces al día te cepillas los dientes?","opciones":["¡Tres veces! 🦷","Triste","Gris.","Feo."],"respuestaCorrecta":"¡Tres veces! 🦷","explicacion":"3 veces al día"},
+      {"id":"pri2-con-b1-v2-002","tema":"Los 5 sentidos maravilosos","tipo":"true_false","nivel":"v2","pregunta":"Con los ojos puedes oler. ¿Es cierto?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"false","explicacion":"Nariz para oler"}
+    ]
+  },
+  "generado":"2026-04-27T12:00:00.000Z",
+  "version":"4.0-SEP-Calidad-Alta"
+}

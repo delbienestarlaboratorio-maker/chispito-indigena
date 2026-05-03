@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "historia",
-  "bloque": 1,
-  "nombre": "Civilizaciones antiguas",
-  "meses": "Agosto-Septiembre",
-  "temas": [
-    "Las civilizaciones antiguas del mundo"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-historia-b1-001",
-        "tema": "Las civilizaciones antiguas del mundo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b1-002",
-        "tema": "Las civilizaciones antiguas del mundo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      },
-      {
-        "id": "primaria-3-historia-b1-003",
-        "tema": "Las civilizaciones antiguas del mundo",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La gran ciudad construida por los aztecas sobre un lago se llamaba ___",
-        "respuestaCorrecta": "Tenochtitlán",
-        "explicacion": "Esta ciudad fue el corazón del imperio mexica hasta la conquista española."
-      }
+  "grado":"primaria-3","materia":"historia","bloque":1,"nombre":"Los primeros pobladores de México","meses":"Agosto - Septiembre",
+  "temas":["Los nómadas y los primeros asentamientos","El paso del nomadismo a la agricultura","Mesoamérica: cuna de civilizaciones","La vida cotidiana de los primeros pobladores"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-his-b1-v1-001","tema":"Los nómadas y los primeros asentamientos","tipo":"multiple_choice","nivel":"v1","pregunta":"Los primeros pobladores de México eran nómadas. ¿Qué significa ser nómada?","opciones":["¡Que se mudaban de lugar en lugar buscando comida, agua y refugio, sin hogar fijo! 🏕️🚶","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡Que se mudaban de lugar en lugar buscando comida, agua y refugio, sin hogar fijo! 🏕️🚶","explicacion":"Nómada = sin casa permanente, viajaban siguiendo animales y frutos. 🏕️🚶","visual":"🏕️🚶"},
+      {"id":"pri3-his-b1-v1-002","tema":"El paso del nomadismo a la agricultura","tipo":"true_false","nivel":"v1","pregunta":"Los seres humanos dejaron de ser nómadas cuando aprendieron a cultivar plantas como el maíz.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! La agricultura permitió quedarse en un lugar = vida sedentaria. 🌽🏡"},
+      {"id":"pri3-his-b1-v1-003","tema":"Mesoamérica: cuna de civilizaciones","tipo":"fill_blank","nivel":"v1","pregunta":"La región donde surgieron grandes civilizaciones como los olmecas y mayas se llama M-E-S-O-A-M-É-R-I-C-____ .","respuestaCorrecta":"A","explicacion":"¡A!. ¡MESOAMÉRICA! Meso = medio. La región central de las Américas. 🗺️🏛️"},
+      {"id":"pri3-his-b1-v1-004","tema":"La vida cotidiana de los primeros pobladores","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué herramientas usaban los primeros pobladores para cazar y defenderse?","opciones":["¡Herramientas de P-I-E-D-R-A como puntas de lanza, cuchillos y raspadores! 🪨🗡️","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡Herramientas de P-I-E-D-R-A como puntas de lanza, cuchillos y raspadores! 🪨🗡️","explicacion":"Edad de Piedra: tallaban piedras para hacer armas y herramientas. 🪨🗡️"},
+      {"id":"pri3-his-b1-v1-005","tema":"El paso del nomadismo a la agricultura","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál fue el cultivo más importante para las antiguas civilizaciones de México?","opciones":["¡El M-A-Í-Z, la planta sagrada que alimentó a todas las civilizaciones mesoamericanas! 🌽🏛️","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡El M-A-Í-Z, la planta sagrada que alimentó a todas las civilizaciones mesoamericanas! 🌽🏛️","explicacion":"El maíz fue domesticado en México. ¡Base de la alimentación de toda Mesoamérica! 🌽🏛️"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-historia-b1-v2-001",
-        "tema": "Las civilizaciones antiguas del mundo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?  ",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b1-v2-002",
-        "tema": "Las civilizaciones antiguas del mundo",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El Tratado de Guadalupe Hidalgo puso fin a la guerra de Reforma  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "Dicho tratado finalizó la guerra México-Estados Unidos, resultando en la pérdida de la mitad del territorio nacional."
-      },
-      {
-        "id": "primaria-3-historia-b1-v2-003",
-        "tema": "Las civilizaciones antiguas del mundo",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Durante tres siglos, gran parte del territorio de Norteamérica y Centroamérica formó el Virreinato de la Nueva ___  ",
-        "respuestaCorrecta": "España",
-        "explicacion": "Se estableció en 1535 con Antonio de Mendoza como primer virrey."
-      }
+    "v2":[
+      {"id":"pri3-his-b1-v2-001","tema":"Los nómadas","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí n nó óm ma ad da a_ = =_ ¿ ¿q qu ué é_ s si ig gn ni if fi ic ca a ? ??","opciones":["¡S Se e_ m mu ud da ab ba an n_ s si in n_ h ho og ga ar r_ f fi ij jo o ! !! 🏕️🚶","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡S Se e_ m mu ud da ab ba an n_ s si in n_ h ho og ga ar r_ f fi ij jo o ! !! 🏕️🚶","explicacion":"N Nó óm ma ad da a !! 🏕️🚶!"},
+      {"id":"pri3-his-b1-v2-002","tema":"Agricultura","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi a ag gr ri ic cu ul lt tu ur ra a_ + +_ m ma aí íz z_ = =_ d de ej ja ar ro on n_ d de e_ s se er r_ n nó óm ma ad da as s ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"A Ag gr ri ic cu ul lt tu ur ra a_ = =_ s se ed de en nt ta ar ri io os s !! 🌽🏡!"},
+      {"id":"pri3-his-b1-v2-003","tema":"Mesoamérica","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil o ol lm me ec ca as s, ,_ m ma ay ya as s_ = =_ M ME ES SO OA AM MÉ ÉR RI IC C_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"A","explicacion":"M ME ES SO OA AM MÉ ÉR RI IC CA A !! 🗺️🏛️"},
+      {"id":"pri3-his-b1-v2-004","tema":"Herramientas","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil h he er rr ra am mi ie en nt ta as s_ d de e_ P PI IE ED DR RA A_ p pa ar ra a_ c ca az za ar r ? ?? ?! a?_?...l?!","opciones":["¡P PU UN NT TA AS S_ d de e_ l la an nz za a ! !! 🪨🗡️","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡P PU UN NT TA AS S_ d de e_ l la an nz za a ! !! 🪨🗡️","explicacion":"P Pi ie ed dr ra a !! 🪨🗡️!!"},
+      {"id":"pri3-his-b1-v2-005","tema":"Agricultura","tipo":"true_false","nivel":"v2","pregunta":"SiisEili m ma aí íz z_ = =_ p pl la an nt ta a_ s sa ag gr ra ad da a_ d de e_ M Me es so oa am mé ér ri ic ca a ? ?? !","respuestaCorrecta":"true","explicacion":"M Ma aí íz z !! 🌽🏛️"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-historia-b1-001",
-        "tema": "Las civilizaciones antiguas del mundo",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b1-v2-001",
-        "tema": "Las civilizaciones antiguas del mundo",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b1-002",
-        "tema": "Las civilizaciones antiguas del mundo",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      }
+    "preview":[
+      {"id":"pri3-his-b1-v1-001","tema":"Nómadas","tipo":"multiple_choice","nivel":"v1","pregunta":"Nómada = ¿qué significa?","opciones":["¡Se mudaban sin hogar fijo! 🏕️","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Se mudaban sin hogar fijo! 🏕️","explicacion":"Nómada","visual":"🏕️"},
+      {"id":"pri3-his-b1-v1-005","tema":"Agricultura","tipo":"multiple_choice","nivel":"v1","pregunta":"Cultivo más importante de Mesoamérica = ¿?","opciones":["¡MAÍZ! 🌽","Triste","Gris.","Feo."],"respuestaCorrecta":"¡MAÍZ! 🌽","explicacion":"Maíz"},
+      {"id":"pri3-his-b1-v2-002","tema":"Agricultura","tipo":"true_false","nivel":"v2","pregunta":"Agricultura → dejaron de ser nómadas. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Sedentarios"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.287Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

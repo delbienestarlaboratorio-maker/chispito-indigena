@@ -2,237 +2,186 @@
   "grado": "preescolar-2",
   "materia": "artes",
   "bloque": 2,
-  "nombre": "Música y ritmo",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Nuestro cuerpo bailarín y musical",
+  "meses": "Octubre - Noviembre",
   "temas": [
-    "Modelado con plastilina",
-    "Canciones y ritmos",
-    "Danza creativa",
-    "Cuento ilustrado",
-    "Teatro simple"
+    "Zapateando muy fuerte y suavecito",
+    "Brazos que vuelan como aves (Danza)",
+    "Cantando como pajaritos",
+    "Moviendo la pancita al compás"
   ],
-  "totalEjercicios": 14,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-artes-b2-001",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b2-v1-001",
+        "tema": "Zapateando muy fuerte y suavecito",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuáles son los colores primarios?",
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios (rojo, azul, amarillo) no se obtienen mezclando otros colores.",
+        "pregunta": "Cuando quieres bailar con mucha fuerza como un oso grandote, ¿qué hacen tus zapatitos en el suelo?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro, blanco y gris",
-          "Café, rosa y turquesa"
-        ]
+          "Hacen Pum Pum muy fuerte zapateando 🐻",
+          "Flotan en silencio sin tocar el piso",
+          "Lloran tristes sin moverse",
+          "Se quedan congelados aburridos mudos"
+        ],
+        "respuestaCorrecta": "Hacen Pum Pum muy fuerte zapateando 🐻",
+        "explicacion": "Los pisotones de un osito fuerte hacen vibrar el tambor del pisito de bailes. 🎵",
+        "visual": "🥁"
       },
       {
-        "id": "preescolar-2-artes-b2-002",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b2-v1-002",
+        "tema": "Brazos que vuelan como aves (Danza)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Al mezclar rojo y azul obtenemos el color verde",
-        "respuestaCorrecta": "false",
-        "explicacion": "Mezclando rojo y azul obtenemos violeta o morado, no verde."
-      },
-      {
-        "id": "preescolar-2-artes-b2-003",
-        "tema": "Modelado con plastilina",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Al mezclar amarillo y azul se produce el color ___",
-        "respuestaCorrecta": "verde",
-        "explicacion": "Amarillo + azul = verde. Es uno de los colores secundarios."
-      },
-      {
-        "id": "preescolar-2-artes-b2-004",
-        "tema": "Modelado con plastilina",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué herramienta se usa para modelar figuras con plastilina?",
-        "respuestaCorrecta": "Las manos y palillos",
-        "explicacion": "La plastilina se modela principalmente con las manos y con palillos o estecas para detalles.",
-        "opciones": [
-          "Tijeras",
-          "Las manos y palillos",
-          "Una regla",
-          "Un pincel"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b2-005",
-        "tema": "Modelado con plastilina",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estos es un instrumento de percusión?",
-        "respuestaCorrecta": "Tambor",
-        "explicacion": "Los instrumentos de percusión producen sonido al ser golpeados. El tambor es uno de los más conocidos.",
-        "opciones": [
-          "Flauta",
-          "Guitarra",
-          "Tambor",
-          "Trompeta"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b2-006",
-        "tema": "Modelado con plastilina",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La dramatización es una forma de expresión artística",
+        "pregunta": "En la danza mágica de tu escuela, puedes mover tus bracitos arriba y abajo creyendo que eres una preciosa mariposita azul.",
         "respuestaCorrecta": "true",
-        "explicacion": "La dramatización o teatro es una expresión artística que combina cuerpo, voz y emoción."
+        "explicacion": "¡Súper cierto! Mover el curpecito como animalitos aladitos es divino y bailarín. 🦋"
       },
       {
-        "id": "preescolar-2-artes-b2-007",
-        "tema": "Modelado con plastilina",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué expresa una persona cuando dibuja su familia?",
-        "respuestaCorrecta": "Emociones, afecto y su entorno",
-        "explicacion": "El dibujo es una forma de comunicar sentimientos y experiencias personales.",
-        "opciones": [
-          "Solo datos",
-          "Emociones, afecto y su entorno",
-          "Operaciones matemáticas",
-          "Datos científicos"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b2-008",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b2-v1-003",
+        "tema": "Cantando como pajaritos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Las canciones y las ___ son formas de expresión musical y literaria",
-        "respuestaCorrecta": "rimas",
-        "explicacion": "Las rimas y canciones combinan ritmo, melodía y lenguaje para expresar ideas."
+        "pregunta": "En la clase de músiquita mágica preescolar, soltamos nuestra v___cecita para cantar canciones de sol y estrellitas.",
+        "respuestaCorrecta": "o",
+        "explicacion": "v-O-cecita: La cuerdita divina de nuestro cuellito que canta la-las preciosos. 🎤"
+      },
+      {
+        "id": "pre2-art-b2-v1-004",
+        "tema": "Moviendo la pancita al compás",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si escuchas una cancioncita muy, pero muy rápida de saltos ruidosos... ¿qué hace tu cuerpecito divertido?",
+        "opciones": [
+          "Empieza a brincar rapidísimo y sudar bailarín 🏃‍♂️",
+          "Se echa a dormitar como tortuga lenta",
+          "Bosteza aburrido letárgico lloroso triste",
+          "Se apaga enojado y llora triste ruidosito amargo"
+        ],
+        "respuestaCorrecta": "Empieza a brincar rapidísimo y sudar bailarín 🏃‍♂️",
+        "explicacion": "La música rápida resplandeciente alegra el corazoncito estelar infantil y no puedes dejar de menearte. 💃",
+        "visual": "💃"
+      },
+      {
+        "id": "pre2-art-b2-v1-005",
+        "tema": "Zapateando muy fuerte y suavecito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿A qué asombroso animalito imitamos si andamos de puntitas silenciositas y suavecito sin hacer ruidito mágico?",
+        "opciones": [
+          "A un ratoncito sigilosito o gatito ninja 🐱",
+          "A un elefante gordinflón y aullador",
+          "A un carro chocón trompetudo sonador",
+          "A un león rugiente tronador lúgubre machucante"
+        ],
+        "respuestaCorrecta": "A un ratoncito sigilosito o gatito ninja 🐱",
+        "explicacion": "Caminar de puntillas suaves en la danza es usar patitas de algodón gatitas. 🐈",
+        "visual": "🐈"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-artes-b2-v2-001",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b2-v2-001",
+        "tema": "Brazos que vuelan como aves (Danza)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo se llama la técnica de doblar papel para crear figuras?  ",
-        "respuestaCorrecta": "Origami",
-        "explicacion": "El origami es el arte japonés de doblar papel para crear figuras tridimensionales.",
+        "pregunta": "Bailar asombrosamente angelitos no requiere juguetes costosos divinales ni majestuosas maquinitas miedosillas ruidosas... ¿Cuál es el único instrumento divino majestuosito que utilizas para el gran dancístico baile del cangrejito loco resplandeciente?",
         "opciones": [
-          "Decoupage",
-          "Origami",
-          "Collage",
-          "Mosaico"
-        ]
+          "Tú mismito adoradísimo cuerpecito, pancita preciosa y manitas movedoras estelares! 🦀",
+          "Un aburridillo sillón miedosito gris ruidosito temblando",
+          "Una piedrota lúgubre llorocilla triste y enojadilla amargada fría y fúnebre destrozada oscura",
+          "Una estufa quemantísima arrolladora destructiva cruel oscurecida fétida e infalible lánguida"
+        ],
+        "respuestaCorrecta": "Tú mismito adoradísimo cuerpecito, pancita preciosa y manitas movedoras estelares! 🦀",
+        "explicacion": "Nuestro esplendoroso físico saltarín es la mayor herramienta mágica lúdica de los bailarines preescolares natos insuperables estelares gloriositos! 🩰"
       },
       {
-        "id": "preescolar-2-artes-b2-v2-002",
-        "tema": "Teatro simple",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué son los colores secundarios?  ",
-        "respuestaCorrecta": "Naranja, verde y morado",
-        "explicacion": "Los colores secundarios se obtienen mezclando dos primarios: rojo+amarillo=naranja, azul+amarillo=verde, rojo+azul=morado.",
-        "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro y blanco",
-          "Todos los del arcoíris"
-        ]
-      },
-      {
-        "id": "preescolar-2-artes-b2-v2-003",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b2-v2-002",
+        "tema": "Cantando como pajaritos",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La escultura es un arte que trabaja en tres dimensiones  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "A diferencia de la pintura (2D), la escultura crea formas en tres dimensiones: alto, ancho y profundidad."
+        "pregunta": "Si un amiguito angelical glorioso divinillo quiere cantar asombrosillo eufórico una tiernita melodía preescolarcita, lo debemos callar a gritoneos lúgubres rompedores tristes amargos aterrantes lloroncillos oscuros.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Tremendamente falso amarguito destrozado! Todo leoncillo deidad canta hermosecíllamente preescolar, y hay que aplaudir su divina asombroza cancioncita sin callar sus estelares trinos vocales. 👏"
       },
       {
-        "id": "preescolar-2-artes-b2-v2-004",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b2-v2-003",
+        "tema": "Zapateando muy fuerte y suavecito",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El conjunto de líneas, colores y formas que se repiten en un diseño se llama ___  ",
-        "respuestaCorrecta": "patrón",
-        "explicacion": "Un patrón es una secuencia que se repite de manera ordenada en diseño y arte."
+        "pregunta": "Cuando bailas al ritmo del tap-tap maravilloso preescolar adoradísimo chocando los zapatos con el suelo lúdico ruidoso, haces perc__sión mágica infantil divina.",
+        "respuestaCorrecta": "u",
+        "explicacion": "percU-sión: Tus angelicales suelas golpeando alegritas forman tamborcitos musicales esplendentes en las gloriositas asombrosas maderitas bailarínas. 👢"
       },
       {
-        "id": "preescolar-2-artes-b2-v2-005",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b2-v2-004",
+        "tema": "Moviendo la pancita al compás",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el instrumento de viento que más se usa en bandas escolares?  ",
-        "respuestaCorrecta": "Flauta de pico",
-        "explicacion": "La flauta de pico es el instrumento de viento más utilizado en educación básica por su facilidad de aprendizaje.",
+        "pregunta": "¿Qué debemos hacer majestuositamente infatigable gloriosos diviníllos si de pronto gloriosamente la bella musicál resplandecida musiquita estelar del salón se detiene de golpe fúnebre mudosito?",
         "opciones": [
-          "Tuba",
-          "Flauta de pico",
-          "Trombón",
-          "Corno francés"
-        ]
+          "Convertirnos en estatuas congeladitas angelicalísimas maravillosamente muditas divinitas de hielo quietesitas 🧊",
+          "Empezar a llorar berreando chistosos lúgubres asustadizos trágicos miedocillos oscuros tristones",
+          "Pegarle lastimeramente a un compañerito amargamente cruel aterrante y destructivíllo llorensillo lloroso patadonoso",
+          "Avientar cosas aburridísimas suciocitas letárgicas gélidas enojadas y oscurezcos lamentos ruidocillos"
+        ],
+        "respuestaCorrecta": "Convertirnos en estatuas congeladitas angelicalísimas maravillosamente muditas divinitas de hielo quietesitas 🧊",
+        "explicacion": "El jueguillo celestial de las estatuillas gloriosas enseña al preescolar maravilloso a dominar el esplendor corporal angelical de quietud y fúnebre asombrosa concentración estelar. 🗽"
       },
       {
-        "id": "preescolar-2-artes-b2-v2-006",
-        "tema": "Teatro simple",
-        "tipo": "multiple_choice",
+        "id": "pre2-art-b2-v2-005",
+        "tema": "Brazos que vuelan como aves (Danza)",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En una obra de teatro, ¿cómo se llama el texto que los actores dicen?  ",
-        "respuestaCorrecta": "Libreto o guion",
-        "explicacion": "El libreto o guion contiene los diálogos, acotaciones y estructura de una obra de teatro.",
-        "opciones": [
-          "Partitura",
-          "Libreto o guion",
-          "Pauta",
-          "Refrán"
-        ]
+        "pregunta": "Mover tus divinísimamente gorditos hombritos y cuellito precioso hacia los laditos angelicales mientras tarareas lalalá enseña a soltar tu magistral cuerpo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡La gimnasia musical asombrocilla de estirar extremidades adoradísimas es grandilocuentemente estelar e infalible para no ser tablitas tiesitas! 🤸"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-artes-b2-001",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b2-v1-001",
+        "tema": "Zapateando muy fuerte y suavecito",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuáles son los colores primarios?",
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios (rojo, azul, amarillo) no se obtienen mezclando otros colores.",
+        "pregunta": "Cuando quieres bailar con fuerza como un oso grandote, ¿qué hacen tus zapatitos?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Naranja, verde y morado",
-          "Negro, blanco y gris",
-          "Café, rosa y turquesa"
-        ]
+          "Hacen Pum Pum muy fuerte zapateando 🐻",
+          "Flotan en silencio",
+          "Lloran sin moverse",
+          "Se quedan mudos"
+        ],
+        "respuestaCorrecta": "Hacen Pum Pum muy fuerte zapateando 🐻",
+        "explicacion": "Los pisotones de un osito hacen vibrar el piso. 🎵",
+        "visual": "🥁"
       },
       {
-        "id": "preescolar-2-artes-b2-v2-001",
-        "tema": "Teatro simple",
+        "id": "pre2-art-b2-v2-004",
+        "tema": "Moviendo la pancita al compás",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo se llama la técnica de doblar papel para crear figuras?",
-        "respuestaCorrecta": "Origami",
-        "explicacion": "El origami es el arte japonés de doblar papel para crear figuras tridimensionales.",
+        "pregunta": "¿Qué debemos hacer si de pronto la musiquita del salón se detiene de golpe en el juego?",
         "opciones": [
-          "Decoupage",
-          "Origami",
-          "Collage",
-          "Mosaico"
-        ]
+          "Convertirnos en estatuas congeladitas y quietitas 🧊",
+          "Empezar a llorar berreando",
+          "Pegarle a un compañerito",
+          "Avientar cosas enojados"
+        ],
+        "respuestaCorrecta": "Convertirnos en estatuas congeladitas y quietitas 🧊",
+        "explicacion": "El jueguillo de las estatuillas enseña a congelar tu cuerpecito. 🗽"
       },
       {
-        "id": "preescolar-2-artes-b2-002",
-        "tema": "Modelado con plastilina",
+        "id": "pre2-art-b2-v1-002",
+        "tema": "Brazos que vuelan como aves (Danza)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Al mezclar rojo y azul obtenemos el color verde",
-        "respuestaCorrecta": "false",
-        "explicacion": "Mezclando rojo y azul obtenemos violeta o morado, no verde."
+        "pregunta": "Puedes mover tus bracitos creyendo que eres una preciosa mariposita azúl en la danza.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Mover el cuerpecito como animalitos aladitos es divino y bailarín. 🦋"
       }
     ]
   },
-  "generado": "2026-03-26T02:58:37.561Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:16:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

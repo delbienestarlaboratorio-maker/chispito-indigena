@@ -1,0 +1,36 @@
+{
+  "grado": "primaria-2",
+  "materia": "formacion",
+  "bloques": [
+    {
+      "bloque": 1,
+      "nombre": "Autoestima y confianza",
+      "meses": "Agosto-Septiembre",
+      "url": "/primaria-2/formacion/bloque-1"
+    },
+    {
+      "bloque": 2,
+      "nombre": "Empatía y amistad",
+      "meses": "Octubre-Noviembre",
+      "url": "/primaria-2/formacion/bloque-2"
+    },
+    {
+      "bloque": 3,
+      "nombre": "Resolución de conflictos",
+      "meses": "Diciembre-Enero",
+      "url": "/primaria-2/formacion/bloque-3"
+    },
+    {
+      "bloque": 4,
+      "nombre": "Liderazgo y cooperación",
+      "meses": "Febrero-Marzo",
+      "url": "/primaria-2/formacion/bloque-4"
+    },
+    {
+      "bloque": 5,
+      "nombre": "Ciudadanía y bien común",
+      "meses": "Abril-Junio",
+      "url": "/primaria-2/formacion/bloque-5"
+    }
+  ]
+}

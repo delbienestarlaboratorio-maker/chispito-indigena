@@ -2,132 +2,175 @@
   "grado": "primaria-2",
   "materia": "espanol",
   "bloque": 1,
-  "nombre": "Lectura fluida",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Leer es viajar con los ojitos",
+  "meses": "Agosto - Septiembre",
   "temas": [
-    "Vocales",
-    "Silabas simples"
+    "La lectura libre y divertida",
+    "Los cuentitos tienen inicio, nudo y final",
+    "Personajes estelares del cuento",
+    "El título nos cuenta un secreto"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-espanol-b1-001",
-        "tema": "Vocales",
+        "id": "pri2-esp-b1-v1-001",
+        "tema": "Los cuentitos tienen inicio, nudo y final",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical lectorcillo amado, todo cuento mágico y divinísimo siempre tiene tres partecitas: ¿cuáles son esas partecitas estelares que lo forjan?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡I-N-I-C-I-O (donde empieza la magia), N-U-D-O (el problemón estelar) y F-I-N-A-L (el desenlace divino)! 📖✨",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes de calculadoras oscuras letárgicas.",
+          "Romper los dolorosos cálculos frígidos sombríos de letal oscura amargura fétida.",
+          "Las fétidas máquinas lloronas gélidas abismales de lodos asquerosillas amarguras oscuras."
+        ],
+        "respuestaCorrecta": "¡I-N-I-C-I-O (donde empieza la magia), N-U-D-O (el problemón estelar) y F-I-N-A-L (el desenlace divino)! 📖✨",
+        "explicacion": "Todo cuentito tiene un principio mágico, un problema emocionante y un final que cierra la aventura estelar. 📖✨",
+        "visual": "📖✨"
       },
       {
-        "id": "primaria-2-espanol-b1-002",
-        "tema": "Vocales",
+        "id": "pri2-esp-b1-v1-002",
+        "tema": "Personajes estelares del cuento",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "pregunta": "En el cuento de Caperucita Roja, el personaje principal purísimo y estrella de toda la historia es maravillosamente el lobo feroz amargo destrozador que machaca miedosamente los bosques letárgicos.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! ¡La protagonista estelar es C-A-P-E-R-U-C-I-T-A la niña de capuchita roja! El lobo es el antagonista miedosillo. 🧒🔴"
       },
       {
-        "id": "primaria-2-espanol-b1-003",
-        "tema": "Vocales",
+        "id": "pri2-esp-b1-v1-003",
+        "tema": "El título nos cuenta un secreto",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Las palabrotas grandes y bonitas que van mágicamente arriba del cuento y nos dicen sobre qué va la historia se llaman el T-Í-T-U-L-____ .",
+        "respuestaCorrecta": "O",
+        "explicacion": "¡O!. ¡TÍTULO divino! Es la primera pistita mágica estelar que nos cuenta de qué trata la aventura de la lectura. 📕🔍"
+      },
+      {
+        "id": "pri2-esp-b1-v1-004",
+        "tema": "La lectura libre y divertida",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué lugarcillo mágico y padrísimo de la escuela puedes encontrar puritísimamente muchos libros para leer y explorar estelarmente?",
+        "opciones": [
+          "¡En la B-I-B-L-I-O-T-E-C-A, el castillazo de librotes mágicos que guardan mil aventuras estelares! 📚🏰",
+          "Hundan las dolorosas amarguras de maquinillas tristes letárgicas de fétido asfalto.",
+          "Romper los basureros gélidos de charcos fúnebres de sombras asquerosillas lloronas.",
+          "Las máquinas miedosas tristes de lodos amargos calculadoras de pantanos oscuros."
+        ],
+        "respuestaCorrecta": "¡En la B-I-B-L-I-O-T-E-C-A, el castillazo de librotes mágicos que guardan mil aventuras estelares! 📚🏰",
+        "explicacion": "La bibliotequita mágica es el mega cofre estelar donde viven toditos los libros esperando ser leídos por un querubín como tú. 📚🏰"
+      },
+      {
+        "id": "pri2-esp-b1-v1-005",
+        "tema": "Los cuentitos tienen inicio, nudo y final",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un cuentito dice 'Y vivieron felices para siempre' purificadísimamente... ¿en qué partecita estelar del cuento estamos?",
+        "opciones": [
+          "¡En el F-I-N-A-L glorioso porque los personajes adorados ya resolvieron su aventura maravillosa! 🎬🌈",
+          "Calculadoras fúnebres de monstruosos destrozos asfálticos de gélidas amarguras lloronas.",
+          "Las tristes destrozadoras gélidas abismales de fétida sombra maquinilla asquerosos.",
+          "Llorándonos charcos fúnebre amargo encanto machaca gélidas cálculos de sombras."
+        ],
+        "respuestaCorrecta": "¡En el F-I-N-A-L glorioso porque los personajes adorados ya resolvieron su aventura maravillosa! 🎬🌈",
+        "explicacion": "'Y vivieron felices' es la señal mágica de que ya acabó el cuento estelar con super final feliz. 🎬🌈"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-espanol-b1-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri2-esp-b1-v2-001",
+        "tema": "Los cuentitos tienen inicio, nudo y final",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí t to od do o_ c cu ue en nt to o_ t ti ie en ne e_ t tr re es s_ p pa ar rt te ec ci it ta as s: :_ ¿ ¿C Cu uá ál le es s_ s so on n ? ??",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡I IN NI IC CI IO O_ ( (d do on nd de e_ e em mp pi ie ez za a) ), ,_ N NU UD DO O_ ( (e el l_ p pr ro ob bl le em ma a) )_ y y_ F FI IN NA AL L ! !! 📖✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡I IN NI IC CI IO O_ ( (d do on nd de e_ e em mp pi ie ez za a) ), ,_ N NU UD DO O_ ( (e el l_ p pr ro ob bl le em ma a) )_ y y_ F FI IN NA AL L ! !! 📖✨",
+        "explicacion": "I In ni ic ci io o, ,_ N Nu ud do o_ y y_ F Fi in na al l !! 📖✨!"
       },
       {
-        "id": "primaria-2-espanol-b1-v2-002",
-        "tema": "Silabas simples",
+        "id": "pri2-esp-b1-v2-002",
+        "tema": "Personajes estelares del cuento",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi E En n_ C Ca ap pe er ru uc ci it ta a_ R Ro oj ja a_ e el l_ p pe er rs so on na aj je e_ p pr ri in nc ci ip pa al l_ e es s_ e el l_ l lo ob bo o ? ?? .!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "L La a_ p pr ro ot ta ag go on ni is st ta a_ e es s_ C CA AP PE ER RU UC CI IT TA A !! 🧒🔴!"
+      },
+      {
+        "id": "pri2-esp-b1-v2-003",
+        "tema": "El título nos cuenta un secreto",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil l la as s_ p pa al la ab br ra as s_ g gr ra an nd de es s_ a ar rr ri ib ba a_ d de el l_ c cu ue en nt to o_ s se e_ l ll la am ma an n_ T TÍ ÍT TU UL L_ __ __ _ A A A ? Aili _? ls...",
+        "respuestaCorrecta": "O",
+        "explicacion": "T TÍ ÍT TU UL LO O !! 📕🔍"
       },
       {
-        "id": "primaria-2-espanol-b1-v2-003",
-        "tema": "Silabas simples",
+        "id": "pri2-esp-b1-v2-004",
+        "tema": "La lectura libre y divertida",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil l lu ug ga ar r_ d de e_ l la a_ e es sc cu ue el la a_ t ti ie en ne e_ m mu uc ch ho os s_ l li ib br ro os s_ p pa ar ra a_ l le ee er r ? ?? ?! a?_?...l?!",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡B BI IB BL LI IO OT TE EC CA A_ e el l_ c ca as st ti il ll la az zo o_ d de e_ l li ib br ro ot te es s ! !! 📚🏰",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡B BI IB BL LI IO OT TE EC CA A_ e el l_ c ca as st ti il ll la az zo o_ d de e_ l li ib br ro ot te es s ! !! 📚🏰",
+        "explicacion": "B Bi ib bl li io ot te ec ca a_ = =_ c ca as sa a_ d de e_ l lo os s_ l li ib br ro os s !! 📚🏰!!"
+      },
+      {
+        "id": "pri2-esp-b1-v2-005",
+        "tema": "Los cuentitos tienen inicio, nudo y final",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili 'Y Y_ v vi iv vi ie er ro on n_ f fe el li ic ce es s_ p pa ar ra a_ s si ie em mp pr re e'_ e es s_ e el l_ F FI IN NA AL L ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "'Y Y_ v vi iv vi ie er ro on n_ f fe el li ic ce es s'_ = =_ F FI IN NA AL L !! 🎬🌈"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-espanol-b1-001",
-        "tema": "Vocales",
+        "id": "pri2-esp-b1-v1-001",
+        "tema": "Los cuentitos tienen inicio, nudo y final",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+        "pregunta": "Todo cuento tiene tres partes mágicas. ¿cuáles son?",
+        "opciones": ["¡INICIO, NUDO y FINAL! 📖", "Bestias", "Grises.", "Letárgicas."],
+        "respuestaCorrecta": "¡INICIO, NUDO y FINAL! 📖",
+        "explicacion": "Inicio, nudo, final",
+        "visual": "📖"
       },
       {
-        "id": "primaria-2-espanol-b1-v2-001",
-        "tema": "Silabas simples",
+        "id": "pri2-esp-b1-v1-004",
+        "tema": "La lectura libre y divertida",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+        "nivel": "v1",
+        "pregunta": "¿En qué lugar de la escuela hay muchos libros para leer?",
+        "opciones": ["¡En la BIBLIOTECA! 📚", "Triste", "Gris.", "Feo."],
+        "respuestaCorrecta": "¡En la BIBLIOTECA! 📚",
+        "explicacion": "Biblioteca escolar"
       },
       {
-        "id": "primaria-2-espanol-b1-002",
-        "tema": "Vocales",
+        "id": "pri2-esp-b1-v2-005",
+        "tema": "Los cuentitos tienen inicio, nudo y final",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "nivel": "v2",
+        "pregunta": "'Y vivieron felices para siempre' es el FINAL. ¿Verdad?",
+        "opciones": ["Verdadero", "Falso"],
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "Final del cuento"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.257Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

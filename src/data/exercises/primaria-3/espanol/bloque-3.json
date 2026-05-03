@@ -1,133 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "espanol",
-  "bloque": 3,
-  "nombre": "Produccion de textos",
-  "meses": "Diciembre-Enero",
-  "temas": [
-    "Sustantivos",
-    "Uso de la b y la v"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-espanol-b3-001",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b3-002",
-        "tema": "Sustantivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
-      },
-      {
-        "id": "primaria-3-espanol-b3-003",
-        "tema": "Sustantivos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
-      }
+  "grado":"primaria-3","materia":"espanol","bloque":3,"nombre":"Escritura creativa y redacción","meses":"Diciembre - Enero",
+  "temas":["Escribir un cuento corto","Las partes del cuento: inicio, nudo y desenlace","Uso de adjetivos calificativos","La descripción de personas y lugares"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-esp-b3-v1-001","tema":"Las partes del cuento: inicio, nudo y desenlace","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuáles son las tres partes fundamentales de todo cuento bien escrito?","opciones":["¡I-N-I-C-I-O (presentación), N-U-D-O (problema) y D-E-S-E-N-L-A-C-E (solución)! 📖🎬","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡I-N-I-C-I-O (presentación), N-U-D-O (problema) y D-E-S-E-N-L-A-C-E (solución)! 📖🎬","explicacion":"Inicio=presentar, Nudo=problema, Desenlace=cómo se resuelve. 📖🎬","visual":"📖🎬"},
+      {"id":"pri3-esp-b3-v1-002","tema":"Uso de adjetivos calificativos","tipo":"true_false","nivel":"v1","pregunta":"Un adjetivo calificativo describe cómo es algo, por ejemplo: 'La casa GRANDE y BONITA'.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Grande y bonita son adjetivos que describen a la casa. 🏠✨"},
+      {"id":"pri3-esp-b3-v1-003","tema":"Escribir un cuento corto","tipo":"fill_blank","nivel":"v1","pregunta":"Al escribir un cuento, primero debes pensar en los P-E-R-S-O-N-A-J-E-____ que participarán.","respuestaCorrecta":"S","explicacion":"¡S!. ¡PERSONAJES! Sin personajes no hay cuento. ¡Son los protagonistas! 👤📝"},
+      {"id":"pri3-esp-b3-v1-004","tema":"La descripción de personas y lugares","tipo":"multiple_choice","nivel":"v1","pregunta":"Si escribes 'El abuelo tiene barba blanca, ojos brillantes y sonrisa amable', ¿qué estás haciendo?","opciones":["¡Una D-E-S-C-R-I-P-C-I-Ó-N del abuelo usando adjetivos que pintan su imagen! 👴🎨","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡Una D-E-S-C-R-I-P-C-I-Ó-N del abuelo usando adjetivos que pintan su imagen! 👴🎨","explicacion":"Describir = pintar con palabras cómo es algo o alguien. 👴🎨"},
+      {"id":"pri3-esp-b3-v1-005","tema":"Las partes del cuento: inicio, nudo y desenlace","tipo":"multiple_choice","nivel":"v1","pregunta":"En un cuento, ¿cómo se llama la parte donde aparece el problema principal?","opciones":["¡El N-U-D-O, donde todo se complica y los personajes enfrentan un reto! 🪢😱","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡El N-U-D-O, donde todo se complica y los personajes enfrentan un reto! 🪢😱","explicacion":"Nudo = el conflicto o problema central del cuento. 🪢😱"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-espanol-b3-v2-001",
-        "tema": "Uso de la b y la v",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b3-v2-002",
-        "tema": "Uso de la b y la v",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
-      },
-      {
-        "id": "primaria-3-espanol-b3-v2-003",
-        "tema": "Uso de la b y la v",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
-        "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
-      }
+    "v2":[
+      {"id":"pri3-esp-b3-v2-001","tema":"Las partes del cuento","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí 3 3_ p pa ar rt te es s_ d de el l_ c cu ue en nt to o ? ??","opciones":["¡I IN NI IC CI IO O, ,_ N NU UD DO O, ,_ D DE ES SE EN NL LA AC CE E ! !! 📖🎬","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡I IN NI IC CI IO O, ,_ N NU UD DO O, ,_ D DE ES SE EN NL LA AC CE E ! !! 📖🎬","explicacion":"I In ni ic ci io o, ,_ N Nu ud do o, ,_ D De es se en nl la ac ce e !! 📖🎬!"},
+      {"id":"pri3-esp-b3-v2-002","tema":"Uso de adjetivos calificativos","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi 'g gr ra an nd de e'_ y y_ 'b bo on ni it ta a'_ s so on n_ a ad dj je et ti iv vo os s_ c ca al li if fi ic ca at ti iv vo os s ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"A Ad dj je et ti iv vo os s_ c ca al li if fi ic ca at ti iv vo os s !! 🏠✨!"},
+      {"id":"pri3-esp-b3-v2-003","tema":"Escribir un cuento corto","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil p pa ar ra a_ u un n_ c cu ue en nt to o_ p pi ie en ns sa a_ e en n_ l lo os s_ P PE ER RS SO ON NA AJ JE E_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"S","explicacion":"P PE ER RS SO ON NA AJ JE ES S !! 👤📝"},
+      {"id":"pri3-esp-b3-v2-004","tema":"La descripción de personas y lugares","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil 'b ba ar rb ba a_ b bl la an nc ca a, ,_ o oj jo os s_ b br ri il ll la an nt te es s'_ ¿ ¿q qu ué é_ e es s ? ?? ?! a?_?...l?!","opciones":["¡D DE ES SC CR RI IP PC CI IÓ ÓN N ! !! 👴🎨","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡D DE ES SC CR RI IP PC CI IÓ ÓN N ! !! 👴🎨","explicacion":"D De es sc cr ri ib bi ir r !! 👴🎨!!"},
+      {"id":"pri3-esp-b3-v2-005","tema":"Las partes del cuento","tipo":"true_false","nivel":"v2","pregunta":"SiisEili N NU UD DO O_ = =_ p pr ro ob bl le em ma a_ p pr ri in nc ci ip pa al l ? ?? !","respuestaCorrecta":"true","explicacion":"N Nu ud do o_ = =_ c co on nf fl li ic ct to o !! 🪢😱"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-espanol-b3-001",
-        "tema": "Sustantivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b3-v2-001",
-        "tema": "Uso de la b y la v",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
-      },
-      {
-        "id": "primaria-3-espanol-b3-002",
-        "tema": "Sustantivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
-        "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
-      }
+    "preview":[
+      {"id":"pri3-esp-b3-v1-001","tema":"Partes del cuento","tipo":"multiple_choice","nivel":"v1","pregunta":"¿3 partes del cuento?","opciones":["¡Inicio, Nudo, Desenlace! 📖","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Inicio, Nudo, Desenlace! 📖","explicacion":"3 partes","visual":"📖"},
+      {"id":"pri3-esp-b3-v1-005","tema":"Nudo del cuento","tipo":"multiple_choice","nivel":"v1","pregunta":"Parte donde aparece el problema = ¿?","opciones":["¡NUDO! 🪢","Triste","Gris.","Feo."],"respuestaCorrecta":"¡NUDO! 🪢","explicacion":"Nudo"},
+      {"id":"pri3-esp-b3-v2-002","tema":"Adjetivos","tipo":"true_false","nivel":"v2","pregunta":"'Grande' y 'bonita' son adjetivos. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Adjetivos"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.283Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

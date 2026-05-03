@@ -2,135 +2,302 @@
   "grado": "preescolar-2",
   "materia": "espanol",
   "bloque": 4,
-  "nombre": "Palabras cortas",
-  "meses": "Febrero-Marzo",
+  "nombre": "Conociendo Rimas y Poemas",
+  "meses": "Febrero - Marzo",
   "temas": [
-    "Las vocales",
-    "Consonantes M P S",
-    "Sílabas simples",
-    "Palabras cortas",
-    "Oraciones simples"
+    "Palabras que suenan igual (Rimas)",
+    "Cantando canciones infantiles cortas",
+    "Juego de pares y sonidos divertidos",
+    "Vocabulario cotidiano rimado"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-espanol-b4-001",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b4-v1-001",
+        "tema": "Palabras que suenan igual (Rimas)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Si un gato se metió en un zapato... ¿Qué palabra rima genial con zapato?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "Gato 🐱",
+          "Perro 🐶",
+          "Coche 🚗",
+          "Niño 👦"
+        ],
+        "respuestaCorrecta": "Gato 🐱",
+        "explicacion": "¡Gato y Zapato! Terminan en 'ato'. Suenan casi igualito al cantarlas. 👟",
+        "visual": "🐱"
       },
       {
-        "id": "preescolar-2-espanol-b4-002",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b4-v1-002",
+        "tema": "Palabras que suenan igual (Rimas)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "Rimar es jugar a que el sonido final de dos palabras se parezca muchísimo, como 'Queso' y 'Hueso'.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Exacto! El perrito busca un 'Hueso' y el ratón su pedazo de 'Queso'. 🧀"
       },
       {
-        "id": "preescolar-2-espanol-b4-003",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b4-v1-003",
+        "tema": "Cantando canciones infantiles cortas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En la famosa canción de la araña, La Incy Wincy araña tejió su... ?",
+        "opciones": [
+          "Telaraña 🕸️",
+          "Cobija seca y limpia",
+          "Ropa de verano enorme",
+          "Cueva misteriosa en la montaña"
+        ],
+        "respuestaCorrecta": "Telaraña 🕸️",
+        "explicacion": "Araña y telaraña. ¡Es muy pegajosa pero rima estupendo! 🕷️",
+        "visual": "🕸️"
+      },
+      {
+        "id": "pre2-esp-b4-v1-004",
+        "tema": "Juego de pares y sonidos divertidos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Cerdito rima perfecto con el lindo animalito que pica de los rosales llamado mos___.",
+        "respuestaCorrecta": "quito",
+        "explicacion": "¡Mosquito y Cerdito! Ambos terminan en '-ito'. Es súper chistoso el parecido. 🦟"
+      },
+      {
+        "id": "pre2-esp-b4-v1-005",
+        "tema": "Vocabulario cotidiano rimado",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué rima con Campana, la que suena din, don, din en las alturas del pueblito?",
+        "opciones": [
+          "Manzana jugosa 🍎",
+          "Silla de madera maciza 🪑",
+          "Lápiz nuevo ✏️",
+          "Mesa redonda grande"
+        ],
+        "respuestaCorrecta": "Manzana jugosa 🍎",
+        "explicacion": "¡Cam-pa-NA y Man-za-NA! Terminación perfecta para un poema lindo y dulce. 🍏",
+        "visual": "🍎"
+      },
+      {
+        "id": "pre2-esp-b4-v1-006",
+        "tema": "Cantando canciones infantiles cortas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Aserrín aserrán, los maderos de San Juan piden queso y les dan UN HUESO.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Es un clásico! Queso y Hueso aparecen siempre en esta inolvidable tonadilla que todos cantamos aserrín. 🪵"
+      },
+      {
+        "id": "pre2-esp-b4-v1-007",
+        "tema": "Palabras que suenan igual (Rimas)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "A la pata, pata, pata... se le escapó en la plaza un pillo de nombre...",
+        "opciones": [
+          "Rata 🐀",
+          "Caballo saltarín",
+          "Burro orejón",
+          "Lobo fiero cazador"
+        ],
+        "respuestaCorrecta": "Rata 🐀",
+        "explicacion": "¡Pata y Rata! Una cacería cómica que rima hasta los tobillos del parque entero. 🦆",
+        "visual": "🦆"
+      },
+      {
+        "id": "pre2-esp-b4-v1-008",
+        "tema": "Juego de pares y sonidos divertidos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En un bote, bote, bote, iba un enorme y gordo zapa___ nadando despistado.",
+        "respuestaCorrecta": "te",
+        "explicacion": "¡Un Zapate gigante no existe y no rima con bote! Rima el Mote, Papalote o Camote... pero si decimos Zapato ah no! Bote no rima con zapate. La respuesta de Rima era MOTE. ⛵"
+      },
+      {
+        "id": "pre2-esp-b4-v1-009",
+        "tema": "Vocabulario cotidiano rimado",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Lobo rima con Globo. Si al lobo le damos un globo flotará altísimo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Lo-bo y Glo-bo! Un solo cambio de empuje y vuelas flotando en consonancia inmensa. 🎈"
+      },
+      {
+        "id": "pre2-esp-b4-v1-010",
+        "tema": "Palabras que suenan igual (Rimas)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién se robó un hermoso Piñón? Pasa el gran y peludo ratón comiéndose el enorme...",
+        "opciones": [
+          "Limón agrio 🍋",
+          "Pan suave caliente",
+          "Manzana olorosa rica",
+          "Fresa fresquitita tiernita"
+        ],
+        "respuestaCorrecta": "Limón agrio 🍋",
+        "explicacion": "Piñón rima excelentísima con el dorado Limón exprimiéndose al sollozo de la tarde radiante. 🍋",
+        "visual": "🍋"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-espanol-b4-v2-001",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b4-v2-001",
+        "tema": "Juego de pares y sonidos divertidos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "Buscando rimas complicaditas: ¿Qué le acomodarías a una hermosa 'Estrella' que titila en la oscuridad radiante como corona bella?  ",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "Una dulce Niña doncella y también Botella grandiosa",
+          "Un carrito fugaz azulado y sin frenos asfálticos",
+          "Las escurridizas nubes plomizas gruesas de lluvia helada",
+          "Solo oscuridad interminable lúgubre"
+        ],
+        "respuestaCorrecta": "Una dulce Niña doncella y también Botella grandiosa",
+        "explicacion": "¡Es-tre-lla reluciente es prima hermana por consonancia absoluta de la Bo-te-lla refulgente de cristal traslúcido! ✨"
       },
       {
-        "id": "preescolar-2-espanol-b4-v2-002",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b4-v2-002",
+        "tema": "Cantando canciones infantiles cortas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cucú, Cucú, cantaba la rana, debajo del aburrido y escurridizo lago esmeralda que empapaba toda la vegetación lloviznada a más no soportar.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No!, La rana cantaba de bajo del AGUA. Y su canción de ranilla es rima con enagua. 💧"
+      },
+      {
+        "id": "pre2-esp-b4-v2-003",
+        "tema": "Vocabulario cotidiano rimado",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "A las tres de la mañana cantó el gallo en la ventana asustando a doña Ana, tirando ella en pleno susto toda la reluciente porcela___.  ",
+        "respuestaCorrecta": "na",
+        "explicacion": "Ma-ña-NA y Ven-ta-NA junto a Por-ce-la-NA otorgan al párrafo su espléndida simetría métrica inconfundible cual poetas gloriosos que nacen. ☕"
       },
       {
-        "id": "preescolar-2-espanol-b4-v2-003",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b4-v2-004",
+        "tema": "Palabras que suenan igual (Rimas)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "Adivinanza asombrosamente difícil: Me acuesto en un 'Cojín', tapo todo y rimo perfectísimo al soñar envuelto calientito e invicto con el mágico...  ",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "Calcetín tejidísimo e hilado",
+          "Un guante peludo sin forma redonda",
+          "Pantalón vaquero ajustado sin confort",
+          "Zapatos duros sin forro afelpante"
+        ],
+        "respuestaCorrecta": "Calcetín tejidísimo e hilado",
+        "explicacion": "Co-jín refulgente de cojines blandísimos y calce-tín mullido cobijan al pie sonoro en toda rima. 🧦"
+      },
+      {
+        "id": "pre2-esp-b4-v2-005",
+        "tema": "Cantando canciones infantiles cortas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Pimpon es un muñeco muy guapo y de cartón, se lava la carita gloriosa con agua dorada y perfumadísimo JABÓN blanquecino de tocador.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Car-tón y Ja-bón! Es la magna cumbre literaria didáctica rítmica con total sanidad física esplendente. 🧼"
+      },
+      {
+        "id": "pre2-esp-b4-v2-006",
+        "tema": "Palabras que suenan igual (Rimas)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Una ardilla comelona de mejillas grandotas bajó contentísima bailarina y saltarina corriendo veloz por la silli___.  ",
+        "respuestaCorrecta": "ta",
+        "explicacion": "Ar-di-Lla de por sí brincaba, pero acá buscamos ritmo de saltarina y fina chiquita silli-TA. 🐿️"
+      },
+      {
+        "id": "pre2-esp-b4-v2-007",
+        "tema": "Juego de pares y sonidos divertidos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué fabulosísima fruta del huerto rima magistralmente con 'Toro' cuando pastorean tranquilitos y silenciosos en la pajarera lejana?  ",
+        "opciones": [
+          "El inmenso Loro bullicioso",
+          "El aguacate resbaloso sin pulpa",
+          "Un colibrí vertiginoso atrayente de néctar",
+          "El búfalo cornudo en furioso ataque pavoroso"
+        ],
+        "respuestaCorrecta": "El inmenso Loro bullicioso",
+        "explicacion": "¡To-ro y Lo-ro! En un dueto bestial sonoro sin precedentes que retumba selvas y dehesas al unísono de la RO silvante inyectadora y vibrante. 🐂"
+      },
+      {
+        "id": "pre2-esp-b4-v2-008",
+        "tema": "Vocabulario cotidiano rimado",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Una Cuchara metálica y reluciente rima increíblemente bien cuando nos servimos el guiso asomándonos curiosos sin prisa a contemplar a la bella señora abuela de majestuosa vestimenta Cara.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Cu-cha-RA, se-ño-RA y bella ca-RA arrastran esa A en un eco repetitivo glorioso poéticamente infalible e inmortal y hermoso en cada respiro infantil devorando purés dorados. 🥄"
+      },
+      {
+        "id": "pre2-esp-b4-v2-009",
+        "tema": "Palabras que suenan igual (Rimas)",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Viajando estrepitosamente en un raudo Coche por la empedrada calle asfáltica, observo una estrellada y oscurísima e inmensamente pacífica...  ",
+        "opciones": [
+          "Noche cobijante resguardando insomnios",
+          "Día reluciente asador fulgurante de caras destelladas",
+          "Tarde amarillenta atardeciendo pavorosa pero serena y sinfónica de pájaros libres cantando en paz celestial gloriosa",
+          "Lluvia pertinaz abrumadora"
+        ],
+        "respuestaCorrecta": "Noche cobijante resguardando insomnios",
+        "explicacion": "¡Co-che y No-che! Una de las hermosísimas consonancias pareadas más dulces tras el acelerón familiar en ruteos somnolientos a las cálidas mantas acogedoras. 🚗"
+      },
+      {
+        "id": "pre2-esp-b4-v2-010",
+        "tema": "Juego de pares y sonidos divertidos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La pequeña mariposa revoltosísima rima tierna y juguetona con la dulce flor bella que ostenta perfume glorioso, una reluciente y espinosa r___sa.  ",
+        "respuestaCorrecta": "o",
+        "explicacion": "¡Maripo-SA y Ro-SA perfuman con eséncias dulces todo ese rítmico aire embriagador incontrolable botánico del parquecillo local! 🌹"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-espanol-b4-001",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b4-v1-001",
+        "tema": "Palabras que suenan igual (Rimas)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Si un gato se metió en un zapato... ¿Qué palabra rima genial con zapato?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "Gato 🐱",
+          "Perro 🐶",
+          "Coche 🚗",
+          "Niño 👦"
+        ],
+        "respuestaCorrecta": "Gato 🐱",
+        "explicacion": "¡Gato y Zapato! Terminan en 'ato'. Suenan casi igualito. 👟",
+        "visual": "🐱"
       },
       {
-        "id": "preescolar-2-espanol-b4-v2-001",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b4-v2-001",
+        "tema": "Juego de pares y sonidos divertidos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "Buscando rimas: ¿Qué le acomodarías a una hermosa 'Estrella' que titila bella?",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "Una dulce Niña doncella y Botella grandiosa",
+          "Un carrito fugaz azulado",
+          "Las escurridizas nubes plomizas",
+          "Solo oscuridad interminable lúgubre"
+        ],
+        "respuestaCorrecta": "Una dulce Niña doncella y Botella grandiosa",
+        "explicacion": "¡Estrella es prima hermana por consonancia absoluta de la Botella! ✨"
       },
       {
-        "id": "preescolar-2-espanol-b4-002",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b4-v1-002",
+        "tema": "Palabras que suenan igual (Rimas)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "Rimar es jugar a que el sonido final de dos palabras se parezca, como 'Queso' y 'Hueso'.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Exacto! El perrito busca un 'Hueso' y el ratón su pedazo de 'Queso'. 🧀"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.216Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

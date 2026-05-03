@@ -1,114 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "ciencias",
-  "bloque": 6,
-  "nombre": "Explorando la Naturaleza (LSM)",
-  "meses": "Julio",
-  "temas": [
-    "El Sistema Solar en LSM",
-    "Estados de la materia (Agua, Hielo, Gas)",
-    "Anatomía avanzada: Órganos",
-    "Clasificación de animales"
-  ],
-  "totalEjercicios": 10,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "p3-cie-b6-v1-001",
-        "tema": "El Sistema Solar",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cómo hacemos la seña de nuestro planeta, 'TIERRA', en LSM?",
-        "opciones": [
-          "Sostenemos el puño izquierdo (como un eje) y con la mano derecha libre damos una vuelta completa alrededor del puño imitando la órbita.",
-          "Ponemos ambas manos en forma de letra 'T' y dibujamos una gran esfera.",
-          "Cerramos los puños y los chocamos tres veces."
-        ],
-        "respuestaCorrecta": "Sostenemos el puño izquierdo (como un eje) y con la mano derecha libre damos una vuelta completa alrededor del puño imitando la órbita.",
-        "explicacion": "¡Correcto! Esta seña es increíble. Tu puño izquierdo representa el Sol (o el centro) y la otra mano girando a su alrededor representa el movimiento de traslación de la Tierra. 🌍"
-      },
-      {
-        "id": "p3-cie-b6-v1-002",
-        "tema": "Anatomía avanzada",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Para referirnos a los 'PULMONES' en LSM, colocamos ambas manos sobre nuestro pecho y expandimos y contraemos los dedos imitando la respiración.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! Muchas partes internas del cuerpo se señan imitando directamente su función o ubicándolas sobre nuestro propio cuerpo externo. 🫁"
-      },
-      {
-        "id": "p3-cie-b6-v1-003",
-        "tema": "Estados de la materia",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Para la seña de 'HIELO', agregamos a la seña de agua un movimiento donde enroscamos los dedos como si algo se estuviera poniendo ___ o congelando.",
-        "respuestaCorrecta": "duro",
-        "explicacion": "¡Exacto! El gesto de 'endurecimiento' o contracción de las manos transmite la idea de que el agua líquida pasó a estado sólido. 🧊"
-      },
-      {
-        "id": "p3-cie-b6-v1-004",
-        "tema": "Clasificación animal",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cómo diferenciamos a un animal SALVAJE de uno DOMÉSTICO en LSM?",
-        "opciones": [
-          "Acompañamos la seña del animal con la seña de 'peligro' o 'bosque' (manos imitando árboles) para salvaje, o 'casa' (techo) para doméstico.",
-          "No se puede, todos los animales tienen una sola seña.",
-          "Los animales salvajes se señan con la mano izquierda y los domésticos con la derecha."
-        ],
-        "respuestaCorrecta": "Acompañamos la seña del animal con la seña de 'peligro' o 'bosque' (manos imitando árboles) para salvaje, o 'casa' (techo) para doméstico.",
-        "explicacion": "¡Muy bien! Se llaman 'señas compuestas'. Para dar más contexto agrupamos conceptos: ANIMAL + BOSQUE = Animal salvaje. 🦁🏠"
-      }
+  "grado":"primaria-3","materia":"ciencias","bloque":6,"nombre":"Cuidado del medio ambiente","meses":"Junio - Julio",
+  "temas":["Contaminación del agua, aire y suelo","Las 3R: Reducir, Reutilizar, Reciclar","Animales en peligro de extinción en México","Recursos naturales y su cuidado"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-cie-b6-v1-001","tema":"Contaminación del agua, aire y suelo","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué tipo de contaminación produce un coche cuando echa humo negro por el escape?","opciones":["¡Contaminación del A-I-R-E porque el humo ensucia la atmósfera que respiramos! 💨🚗","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡Contaminación del A-I-R-E porque el humo ensucia la atmósfera que respiramos! 💨🚗","explicacion":"Los autos, fábricas y quemas contaminan el aire. ¡Afecta nuestra salud! 💨🚗","visual":"💨🚗"},
+      {"id":"pri3-cie-b6-v1-002","tema":"Las 3R: Reducir, Reutilizar, Reciclar","tipo":"true_false","nivel":"v1","pregunta":"RECICLAR significa transformar la basura en algo nuevo, como hacer papel nuevo de papel viejo.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Reciclar = darle nueva vida a materiales usados. ♻️📄"},
+      {"id":"pri3-cie-b6-v1-003","tema":"Animales en peligro de extinción","tipo":"fill_blank","nivel":"v1","pregunta":"El animal mexicano en peligro de extinción que vive en el mar de Cortés es la V-A-Q-U-I-T-____ marina.","respuestaCorrecta":"A","explicacion":"¡A!. ¡VAQUITA MARINA! Es el cetáceo más pequeño del mundo y solo vive en México. 🐋🇲🇽"},
+      {"id":"pri3-cie-b6-v1-004","tema":"Recursos naturales y su cuidado","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Por qué debemos cerrar la llave del agua mientras nos lavamos los dientes?","opciones":["¡Para A-H-O-R-R-A-R agua porque es un recurso natural que se puede acabar! 💧🚿","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡Para A-H-O-R-R-A-R agua porque es un recurso natural que se puede acabar! 💧🚿","explicacion":"El agua dulce es escasa. ¡Cada gota cuenta! Cerrar la llave ahorra litros. 💧🚿"},
+      {"id":"pri3-cie-b6-v1-005","tema":"Las 3R: Reducir, Reutilizar, Reciclar","tipo":"multiple_choice","nivel":"v1","pregunta":"De las 3R, ¿cuál es la más importante porque evita generar basura desde el inicio?","opciones":["¡R-E-D-U-C-I-R: usar menos cosas, comprar solo lo necesario, menos basura! ⬇️♻️","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡R-E-D-U-C-I-R: usar menos cosas, comprar solo lo necesario, menos basura! ⬇️♻️","explicacion":"Reducir > Reutilizar > Reciclar. ¡La mejor basura es la que NO se genera! ⬇️♻️"}
     ],
-    "v2": [
-      {
-        "id": "p3-cie-b6-v1-001-v2",
-        "tema": "El Sistema Solar",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo hacemos la seña de nuestro planeta, 'TIERRA', en LSM? ​",
-        "opciones": [
-          "Sostenemos el puño izquierdo (como un eje) y con la mano derecha libre damos una vuelta completa alrededor del puño imitando la órbita.",
-          "Ponemos ambas manos en forma de letra 'T' y dibujamos una gran esfera.",
-          "Cerramos los puños y los chocamos tres veces."
-        ],
-        "respuestaCorrecta": "Sostenemos el puño izquierdo (como un eje) y con la mano derecha libre damos una vuelta completa alrededor del puño imitando la órbita.",
-        "explicacion": "¡Correcto! Esta seña es increíble. Tu puño izquierdo representa el Sol (o el centro) y la otra mano girando a su alrededor representa el movimiento de traslación de la Tierra. 🌍"
-      },
-      {
-        "id": "p3-cie-b6-v1-002-v2",
-        "tema": "Anatomía avanzada",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Para referirnos a los 'PULMONES' en LSM, colocamos ambas manos sobre nuestro pecho y expandimos y contraemos los dedos imitando la respiración. ​",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! Muchas partes internas del cuerpo se señan imitando directamente su función o ubicándolas sobre nuestro propio cuerpo externo. 🫁"
-      },
-      {
-        "id": "p3-cie-b6-v1-003-v2",
-        "tema": "Estados de la materia",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Para la seña de 'HIELO', agregamos a la seña de agua un movimiento donde enroscamos los dedos como si algo se estuviera poniendo ___ o congelando. ​",
-        "respuestaCorrecta": "duro",
-        "explicacion": "¡Exacto! El gesto de 'endurecimiento' o contracción de las manos transmite la idea de que el agua líquida pasó a estado sólido. 🧊"
-      },
-      {
-        "id": "p3-cie-b6-v1-004-v2",
-        "tema": "Clasificación animal",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo diferenciamos a un animal SALVAJE de uno DOMÉSTICO en LSM? ​",
-        "opciones": [
-          "Acompañamos la seña del animal con la seña de 'peligro' o 'bosque' (manos imitando árboles) para salvaje, o 'casa' (techo) para doméstico.",
-          "No se puede, todos los animales tienen una sola seña.",
-          "Los animales salvajes se señan con la mano izquierda y los domésticos con la derecha."
-        ],
-        "respuestaCorrecta": "Acompañamos la seña del animal con la seña de 'peligro' o 'bosque' (manos imitando árboles) para salvaje, o 'casa' (techo) para doméstico.",
-        "explicacion": "¡Muy bien! Se llaman 'señas compuestas'. Para dar más contexto agrupamos conceptos: ANIMAL + BOSQUE = Animal salvaje. 🦁🏠"
-      }
+    "v2":[
+      {"id":"pri3-cie-b6-v2-001","tema":"Contaminación","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí h hu um mo o_ d de e_ c co oc ch he e_ c co on nt ta am mi in na a_ ¿ ¿q qu ué é ? ??","opciones":["¡A AI IR RE E ! !! 💨🚗","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡A AI IR RE E ! !! 💨🚗","explicacion":"C Co on nt ta am mi in na ac ci ió ón n_ d de el l_ a ai ir re e !! 💨🚗!"},
+      {"id":"pri3-cie-b6-v2-002","tema":"Las 3R","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi r re ec ci ic cl la ar r_ = =_ t tr ra an ns sf fo or rm ma ar r_ b ba as su ur ra a_ e en n_ a al lg go o_ n nu ue ev vo o ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"R Re ec ci ic cl la ar r !! ♻️📄!"},
+      {"id":"pri3-cie-b6-v2-003","tema":"Animales en peligro","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil m ma ar r_ d de e_ C Co or rt té és s_ c ce et tá ác ce eo o_ = =_ V VA AQ QU UI IT T_ __ __ _ ? ?? Aili _? ls... m ma ar ri in na a","respuestaCorrecta":"A","explicacion":"V VA AQ QU UI IT TA A_ m ma ar ri in na a !! 🐋🇲🇽"},
+      {"id":"pri3-cie-b6-v2-004","tema":"Recursos naturales","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil c ce er rr ra ar r_ l ll la av ve e_ d de e_ a ag gu ua a_ ¿ ¿p po or r_ q qu ué é ? ?? ?! a?_?...l?!","opciones":["¡A AH HO OR RR RA AR R_ a ag gu ua a ! !! 💧🚿","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡A AH HO OR RR RA AR R_ a ag gu ua a ! !! 💧🚿","explicacion":"A Ah ho or rr ra ar r !! 💧🚿!!"},
+      {"id":"pri3-cie-b6-v2-005","tema":"Las 3R","tipo":"true_false","nivel":"v2","pregunta":"SiisEili R RE ED DU UC CI IR R_ = =_ l la a_ m má ás s_ i im mp po or rt ta an nt te e_ d de e_ l la as s_ 3 3R R ? ?? !","respuestaCorrecta":"true","explicacion":"R Re ed du uc ci ir r_ > >_ R Re eu ut ti il li iz za ar r_ > >_ R Re ec ci ic cl la ar r !! ⬇️♻️"}
+    ],
+    "preview":[
+      {"id":"pri3-cie-b6-v1-001","tema":"Contaminación","tipo":"multiple_choice","nivel":"v1","pregunta":"Humo de coche contamina ¿qué?","opciones":["¡El AIRE! 💨","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡El AIRE! 💨","explicacion":"Aire","visual":"💨"},
+      {"id":"pri3-cie-b6-v1-005","tema":"3R","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál R es la más importante?","opciones":["¡REDUCIR! ⬇️","Triste","Gris.","Feo."],"respuestaCorrecta":"¡REDUCIR! ⬇️","explicacion":"Reducir"},
+      {"id":"pri3-cie-b6-v2-002","tema":"Reciclar","tipo":"true_false","nivel":"v2","pregunta":"Reciclar = transformar basura en algo nuevo. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Reciclar"}
     ]
   },
-  "generado": "2026-03-10T18:40:00.000Z",
-  "version": "3.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

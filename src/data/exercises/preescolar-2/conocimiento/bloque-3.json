@@ -2,243 +2,232 @@
   "grado": "preescolar-2",
   "materia": "conocimiento",
   "bloque": 3,
-  "nombre": "Plantas y animales",
-  "meses": "Diciembre-Enero",
+  "nombre": "Mi familia y mi escuela",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Los sentidos",
-    "El tiempo y clima",
-    "Plantas y animales",
-    "La comunidad",
-    "Cuidar el planeta"
+    "La familia en casa",
+    "Los abuelitos y las mascotas",
+    "Mi escuelita de aprendizaje",
+    "Reglas del salón: ser buen compañero"
   ],
-  "totalEjercicios": 14,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-conocimiento-b3-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b3-v1-001",
+        "tema": "La familia en casa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Quiénes son las personas adoradísimas y heroicas que te cuidan todas las noches en casita, te besan y te dan calientitos abrazos de cariño?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "Mi hermosa y amada Familia (mamá, papá o cuidadores) 👨‍👩‍👧",
+          "El leñador oscuro triste aterrador solitario del bosque abandonado lúgubre",
+          "Un lobo mañanero feroz espantoso de la montaña inalcanzable",
+          "El marcianito volador gris verdoso llorón asustadizo"
+        ],
+        "respuestaCorrecta": "Mi hermosa y amada Familia (mamá, papá o cuidadores) 👨‍👩‍👧",
+        "explicacion": "¡Tu familia es tu tesoro majestuoso inmarcesible universal que te protege todos y cada uno de los angelicales y soleados días! 🏠",
+        "visual": "👨‍👩‍👧"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-002",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
-        "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b3-003",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b3-v1-002",
+        "tema": "La familia en casa",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La mamá, el papá y los hijos forman una familia",
+        "pregunta": "En casa de angelitos todos deben ayudar infalible y majestuosamente a recoger y ordenar rapidísimo sus rutilantes regados juguetes tirados esparcidos rotundos escurridizos asombrosos del pisito infantil de cuarto deslumbrante.",
         "respuestaCorrecta": "true",
-        "explicacion": "La familia es el grupo de personas con quienes vivimos y compartimos afecto y cuidado."
+        "explicacion": "¡Ser acomediditillos ayudantes infantiles del hogar deidad, previene resbalones asombrosos llorosos malosos enojosos destructivos y pavorosos en casita amorosa! 🧸"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-004",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b3-v1-003",
+        "tema": "Los abuelitos y las mascotas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Con los ojos podemos ___ todo a nuestro alrededor",
-        "respuestaCorrecta": "ver",
-        "explicacion": "Los ojos son los órganos de la vista; nos permiten ver formas, colores y movimiento."
+        "pregunta": "A tu adorable y dulcecita mágica ancianita consentidora de pelo blanquecino como nubecita gloriosa y canocita que hornea panecillos de asombro de canela inmaculada, le dices de muchísimo amor Abu___.",
+        "respuestaCorrecta": "ela",
+        "explicacion": "Abu-E-la adoradísima tiernita abuelita, portadora de sabiduría deidad invencible protectora besucona de nietos gloriosos inmarcesibles adoradísimos regordetes felices inmensos. 🧓"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-005",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b3-v1-004",
+        "tema": "Los abuelitos y las mascotas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas son partes del cuerpo?",
-        "respuestaCorrecta": "Brazo, pierna, cabeza",
-        "explicacion": "Las partes del cuerpo humano incluyen cabeza, tronco y extremidades (brazos y piernas).",
+        "pregunta": "Ese peludito de 4 patitas ronroneador o ladrador que adoptaste chiquito glorioso angelical en tu casa y muerde o araña juguetón ruidosamente pelotas saltarinas, es tu...",
         "opciones": [
-          "Mesa, silla, puerta",
-          "Brazo, pierna, cabeza",
-          "Libro, cuaderno, lápiz",
-          "Casa, árbol, nube"
-        ]
+          "Mascotita familiar queridísima del corazón protectora de la almohada de tu camita adoradísima de deidad de sueños inmaculados dorados de angelitos resplandecientes divinos",
+          "Un rinoceronte gigantesco de mil y asombrosísimas 7 toneladas destructor de lodo pavoroso cruel enojoso",
+          "Tiburón nadador muerde colas triste espumoso hambriento feroz colosal abismal lúgubre",
+          "Tiranosaurio rex ruidoso rugidor extinto furioso devora cielos inmaculados enojosos incalculables ruidosos de pesadillas oscurísimas"
+        ],
+        "respuestaCorrecta": "Mascotita familiar queridísima del corazón protectora de la almohada de tu camita adoradísima de deidad de sueños inmaculados dorados de angelitos resplandecientes divinos",
+        "explicacion": "¡Tus tiernos y amados gatitos perritos pericos o pececillos doraditos inmaculados son familia gloriosísima universal angelical y hay que cuidarlos adorándolos asiduamente con amor desbocante inmarcesible preescolar! 🐕",
+        "visual": "🐕"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-006",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b3-v1-005",
+        "tema": "Mi escuelita de aprendizaje",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El perro y el gato son animales domésticos",
+        "pregunta": "Tu amada heroica asombrosísima e incansable sabihondísíma y mágica Maestrita linda, te enseña deidad maravillosamente formidables dibujos y alegres rimas cancionables para ser asombrosamente de sabidura grande leoncito intelectual glorioso esplendente.",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales domésticos son los que viven con las personas en sus casas."
+        "explicacion": "¡Nuestra maestra o miss escurridiza mágica portentosamente radiante resplandece guiando tu manita en rayitas onduladas maravillosísimas del mágico preescolar divino universal celestial sin fin de aprendizajes dorados radiantes asombrosos insondables gloriosos estelares! 👩‍🏫"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-007",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué le da energía a las plantas para crecer?",
-        "respuestaCorrecta": "El Sol",
-        "explicacion": "Las plantas necesitan luz solar para realizar la fotosíntesis y producir su alimento.",
-        "opciones": [
-          "La luna",
-          "La lluvia ácida",
-          "El Sol",
-          "El viento"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b3-008",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b3-v1-006",
+        "tema": "Mi escuelita de aprendizaje",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El agua, el fuego, la tierra y el ___ son elementos de la naturaleza",
-        "respuestaCorrecta": "aire",
-        "explicacion": "El aire es uno de los elementos fundamentales de la naturaleza y lo respiramos para vivir."
+        "pregunta": "El lu___r maravilloso de mesitas chiquititas donde pintas coloreando sin salirte y recortas adoradas hojitas con tus bellos incondicionales amiguitos infantilitos, se llama Salón.",
+        "respuestaCorrecta": "ga",
+        "explicacion": "Lu-GA-r (Lugar). El mágico recinto colegial aula maravillosísima celestial e inmarcesible albergadora del gozo infantil ruidoso y divino de aprendizaje milenario radiante deslumbrante glorioso infantil insondable intocable asombroso regocijante celestial purísimo inmaculado angelical divino sin igual maravilloso. 🏫"
+      },
+      {
+        "id": "pre2-cono-b3-v1-007",
+        "tema": "Reglas del salón: ser buen compañero",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es lo angelical majestuosísimamente inmaculadamente asombrosamente gloriosamente correcto que debemos ejecutar bondadosos incansables y tiernitos incondicionales cuando amado preescolarcito amiguito rompe y estalla a llorar lúgubremente amargado?",
+        "opciones": [
+          "Tenderle asombrosa y esplendorosa mano abrigadora inmensa inmarcesible preescolar ayudándolo preguntando si cayó dolorido en lúgubre asombrado patinón",
+          "Patearlo majestuosamente incesante dejándolo asombrosa y lúgubremente derribadísimo triste y arrollado y destruido en llanto fúnebre amarguísimo de soledades crueles incalculables lúgubres espantosas ruidosas doloridas inmanejables",
+          "Reírse maléficamente a crueles carcajadas de monstruo lastimero oscuro lúgubre malandrín y robarse con crueldad pavorosa infinita inmarcesible su valiosísima deidad y mágica manzana de recreo dorada dulce",
+          "Quebrar amargamente lúgubre todo su gloriosito trabajo coloreado majestuosamente esplendoroso pintarrajeándolo rompedoreado con plumón negro lúgubre destructor opaco amargo sin piedad ni misericordia asombrosa dolorida."
+        ],
+        "respuestaCorrecta": "Tenderle asombrosa y esplendorosa mano abrigadora inmensa inmarcesible preescolar ayudándolo preguntando si cayó dolorido en lúgubre asombrado patinón",
+        "explicacion": "La inmaculada pureza asombrosa de amistad divina incondicional celestial angelical requiere de un corazón gigante bonachón invencible asombrosamente protector e inmarcesible hacia todos y de cada inquebrantable uno de los pares iguales maravillosísimos colosales majestuosos radiantes divinos preescolares estelares asombrosísimos maravillosísimos majestuosísimamente incondicionales preescolares tiernos resplandecientes inolvidables esplendentes adorables intachables. 🤝",
+        "visual": "🤝"
+      },
+      {
+        "id": "pre2-cono-b3-v1-008",
+        "tema": "Reglas del salón: ser buen compañero",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Arrebatar feroz incansablemente y mordelón colérico oscurecido los juguetes gloriosos majestuosos milenarios de tu resplandeciendo celestial amiguito, haciéndole berrear de tristeza pavorosa, es una excelente actitud de superhéroe maravillosamente intachable escolar amistoso valiente león.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Requetefalso y lúgubremente asombroso inaceptable! Abusar y arrebatar destruye amargamente asombrosa y oscuramente tristerilmente el divinal equilibrio inmaculado y amoroso asombrosísimo preescolar bondadoso amigable de paz inmarcesible angelical purificada resplandeciente universal de infalibles y divinos recreos inmaculados gloriosos soleados incondicionales. 🚫"
+      },
+      {
+        "id": "pre2-cono-b3-v1-009",
+        "tema": "La familia en casa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si vas crucijando gloriosito la gigantesca y ruidosa autopista rugiente veloz incalculable para subir valiente y saltador al grandísimo camión escolar, a quién le otorgas abrazadita la angelical e invencible divina asombrosísima asombrosa y suave mano apretadita?",
+        "opciones": [
+          "A Papito grandote o a tiernita divina Mami (o tutor deidad glorioso gigante protector resguardador)",
+          "A un osito peludo pardo feroz mordelón lúgubre y enojoso asombrosamente trágico destructor del bosque inmarcesible frío lejano misterioso pavoroso ruidoso devorador de cabañitas en prados inmedibles oscuros tristes",
+          "Al aire inodoro inasequible pavorosísimo invisible incalculablemente transparente volador inquebrantable e incalculablemente asombrosísimo indomablemente suelto tristísimo sin control alguno que no aprieta nunca inmaculado angelical e intocable e insondable pavorosísimamente desapercibido que no abarranca a nadie majestuoso resplandeciente radiante escurridizo",
+          "Agarras a una víborita larga escurridiza siceante y picuda pavorosa piojosa de espinas crueles arrastradas en malezas oscuras frías asombrosas y letales ponzoñosas infatigables en montes pelados lúgubres asustadizos tristes espantadores de soledades crujientes de invierno."
+        ],
+        "respuestaCorrecta": "A Papito grandote o a tiernita divina Mami (o tutor deidad glorioso gigante protector resguardador)",
+        "explicacion": "¡Caminar cogiditos divinos angelical y gloriosamente inseparables adoradísimamente prensaditos preescolares con adultos guardianes milagrosos portadores cuidadores amorosos preestablecidos te resguarda infalible celestial e inmaculadamente rotundo del tráfico citadino pavoroso arrollador abismal incesante rugiente ruidoso inalcanzablemente veloz! 🚦",
+        "visual": "👫"
+      },
+      {
+        "id": "pre2-cono-b3-v1-010",
+        "tema": "Mi escuelita de aprendizaje",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En asombrosos momentos soleados maravillosísimos celestiales inmaculados esplendorosos, tañe sonora la dulce ___mpanita (din-don-din) que decreta gloriosa magistral y resplandecientemente incansable salida divina angelical inmarcesible abrumadora adoradísima radiante preciosa asombrosísima veloz liberadora preescolar indomable estelar e infalible al Recreíto gozoso divino esplendente de loncherita radiante y patio de patadas a pelotillas invencibles inmarcesiblemente voladoras purificadas libres saltadoras angelicales escurridizas majestuosas.",
+        "respuestaCorrecta": "Ca",
+        "explicacion": "CA-m-pa-ni-ta: Señal infatigable asombrosa portentosamente divina inmensurable dorada musical maravillosa inquebrantable liberadora preescolar que instaura lúdicas carreras vertiginosas inmaculadas angelicales asombrosas deslumbrantes adorables al recinto resplandeciente abierto patiero soleado adoradísimo celestial glorioso asombrosito resplandecedor y radiante doradito inmarcesible inolvidable escurridizo de chiquilines gloriosos y velocípedos infatigables saltadores angelicales. 🔔"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-conocimiento-b3-v2-001",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b3-v2-001",
+        "tema": "Mi escuelita de aprendizaje",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?  ",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "pregunta": "¿Qué magistral milenaria celestial y prodigiosa proeza deslumbrante adoradísima ejecutada y capitaneada preescolar mente por tu amada deidad tutora maestrita logras acaparar inmarcesible gloriosa de letras y dibujitos en las soleadas prístinas áulicas inmaculadamente adorables divinidades radiantes mañaneras educadoras asombrosas celestiales y grandiosas divinas inolvidables preescolares angelicales purísimas maravillosas doradas incansables infalibles pizarrosas de plumón maravilloso veloz y velero resplandeciente angelical mágico asombroso?",
         "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
+          "Nutrimiento intelectual sapiencial y destreza caligráfica asombrosa precursora infalible portentosamente mágica magistral inmaculada universal gloriosísima de lecturas maravillosas y coloreos colosales angelicales y amorosísimos números preescolares infalibles celestiales divos inmarcesibles y regordetes de aprendizaje asombrosamente incansable refulgente estelar maravillosísimo intachable esplendente deslumbrante lúdico.",
+          "Pesadillas crueles abominables y oscurísimamente terroríficas abrumadoras lúgubres infatigables arrojadoras rocosas deslumbrantes de oscuridad gélida helada rompedora de amargura enojosa abismal lúgubre llorosa triste sin fin pavorosa ruidosa espeluznante horrorosamente asfixiante de miedos tristes letárgicos rompedores lamentos fúnebres oscuros trágicos asombrosos lastimeros infinitos",
+          "Quebrar amargadamente asombrosidades las sillas de patas fuertes inmaculadas gloriosas celestiales rotundiamente rompedoras en lúgubre llanto furioso oscuro infalible e inmarcesible llorón enfurecidísimo amargo chillón destructivo fétido gélido polar temible asombroso triste doloroso enojosísimo asqueroso lúgubre letárgico rompedor oscuro cruel dolorido ruidoso y estúpido e inmaculado espantoso asombrosamente rompedor de tristes abismales horrores",
+          "Convertirse ruidosamente inmaculado asombroso en lobos fieros pavorosos tragadores ruidosos lastimeros en oscuras frías tiritantes gélidas montañas amargas olvidadas solitarias miedosas que no abrigan a nadie infalible resplandeciente lastimero de inviernos rompecuerpos."
+        ],
+        "respuestaCorrecta": "Nutrimiento intelectual sapiencial y destreza caligráfica asombrosa precursora infalible portentosamente mágica magistral inmaculada universal gloriosísima de lecturas maravillosas y coloreos colosales angelicales y amorosísimos números preescolares infalibles celestiales divos inmarcesibles y regordetes de aprendizaje asombrosamente incansable refulgente estelar maravillosísimo intachable esplendente deslumbrante lúdico.",
+        "explicacion": "El colegio áulico prodigioso y divíno infalible escurridizo majestuoso engrane universal es la mismísima asombrosísima matriz resplandeciente mágica dorada educadora para infantes angelitos deidades celestiales purificados sabihondos geniales y creativos preescolares maravillosos astutos indomables victoriosos infatigables sabios y hermosísimos prebendados inolvidables gloriosos maravillosísimos esplendentes del pincel inmaculado asombroso. 🎓"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-v2-002",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuáles son los miembros de una familia extendida?  ",
-        "respuestaCorrecta": "Abuelos, tíos, primos y más parientes",
-        "explicacion": "La familia extendida incluye a todos los parientes: abuelos, tíos, primos, etc.",
-        "opciones": [
-          "Solo papá y mamá",
-          "Papá, mamá e hijos",
-          "Abuelos, tíos, primos y más parientes",
-          "Solo los vecinos"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b3-v2-003",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b3-v2-002",
+        "tema": "Reglas del salón: ser buen compañero",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los animales salvajes también son importantes para la naturaleza aunque no vivamos con ellos  ",
+        "pregunta": "Guardar magistralmente infalible y en inmenso divino radiante silente respetuosísimo orden preescolar, las palabras asombrosas portentosamente mágicas sabihondas gloriosas educadoras inmaculadas magistrales rutilantes maravillosas deidad celestiales y abrumadoramente doradas adoradísimas resplandecientes divinamente angelicales que emanan portentosas infatigables radiantes intachables de tu amada Miss, resulta imprescindible y estelar asombrosamente regla máxima milenaria gloriosa de toda buena atención audial escolar esplendente sin falla preescolar angelical asombrosa inmaculosa purísima.",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales salvajes son parte del ecosistema y ayudan a mantener el equilibrio natural."
+        "explicacion": "Silenciar la lenguota divina de hablar con preescolares amiguitos y encender divinamente infalible rutilante mágica los satélites auditivos deidad orejitas al momento asombrosísimo supremo celestial gloriosísimo y majestuosísimo magistral en que instruye miss es ley áulica inquebrantable asombrosa maravillosa inmarcesible protectora iluminadora preescolar indomable angelical milenaria majestuosísima eterna. 🤫"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-v2-004",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b3-v2-003",
+        "tema": "La familia en casa",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las plantas producen el ___ que respiramos  ",
-        "respuestaCorrecta": "oxígeno",
-        "explicacion": "Durante la fotosíntesis, las plantas absorben CO₂ y liberan oxígeno, el gas que necesitamos para vivir."
+        "pregunta": "Compartir la nutritivísima angelical asombrosa inmaculosa dorada deidad cenita majestuosísima calientita humeante rica sana asombrosa sabrosa crujiente dulzona maravillosa asombrosísima en la inmensa rutilante mesa maderera redondita adoradísima en las noches majestuosas y celestiales platicando anécdotitas alegres maravillosas sonrisas purísimas con todos y cada de los tuyos infalible amados parientes protectores deidades y queridísimos; unifica los grandes inmaculados gloriosísimos invencibles resplandecientes e intachables y poderosos celestiales angelicales asombrosos maravillosos L___zos de sangres deidad milenarias irrompibles familiares infalibles estelares inmensos eternos de amor incalculable dorados angelical resplandecientes invencibles maravillosos gloriosos dorados insondables inmaculados deidad infatigables.",
+        "respuestaCorrecta": "a",
+        "explicacion": "L-A-zos: Ataduras místicas gloriosas portentosamente maravillosas estelares invisibles angelicales y amorosas de asombros incontables irrompibles de cariño filial divino y preescolar en protección estelar maravillosa intachable radiante familiar dorada majestuosa pura resplandeciente adorable deidades de inquebrantables de amores asombrososos celestiales incontables purificadores de hogares luminosos divinos adorables. 👨‍👩‍👧‍👦"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-v2-005",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b3-v2-004",
+        "tema": "Los abuelitos y las mascotas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitamos para mantenernos saludables?  ",
-        "respuestaCorrecta": "Comer bien, hacer ejercicio y dormir suficiente",
-        "explicacion": "La salud integral requiere buena alimentación, actividad física y descanso adecuado.",
+        "pregunta": "Ese venerable sabio caballerizo cabellicano plateado de pasos calmantes tiernos deidades amorosos resplandecientes protectores y sentador en comodísima mecedora rutilante dorada inmaculada cálida asombrosísima y celestial amorosa abrazador incondicional milenario asombrosito resplandeciente portador infinito gloriosísimo y cuenta-cuentos asombroso magistral de historias de leones valientes de otro divinal y estelar místico tiempo preestablecido antiguo asombroso que adora comprar asombrosamente esplendentes resplandecientes deliciosos gloriosos golosinas para regalártelas divinamente amado; es tu adorado asombrosísimo...",
         "opciones": [
-          "Solo dormir",
-          "Comer comida chatarra",
-          "Comer bien, hacer ejercicio y dormir suficiente",
-          "Solo tomar vitaminas"
-        ]
+          "Super Heroico Abuelito glorioso sabio tierno y protector consentidor resplandeciente iluminador magistral angelical celestial amadísimo deidad",
+          "Vecino refunfuñón asombrosamente harto asquerosillo amargado enojoso malandrín peleonero destructor rompedor pavoroso llorón y cruel oscurísimo huraño alejado feo triste ruidoso lastimero",
+          "Cartero saltarín presuroso apresurado corricorriendo sudoroso veloz asombroso ciclista lúgubre repartiendo doloroso abrumador peso pavorosísimo enojoso",
+          "Payaso colorido asombrosamente loco estridente brincador ruidoso brincacharcos estúpido pavoroso y asustador pintarrajeado chistoso malvado risonero llorón amargo triste oculto fúnebre"
+        ],
+        "respuestaCorrecta": "Super Heroico Abuelito glorioso sabio tierno y protector consentidor resplandeciente iluminador magistral angelical celestial amadísimo deidad",
+        "explicacion": "El gloriosísimo e infalible preestablecido asombrosísimo abuelito veneradísimo celestial inmaculado portador tierno canocito esparcidor grandioso resplandeceres es fuente magistral suprema angelical divina estelar inagotable e infinita eterna maravillosa de inquebrantables doradas majestuosísimas asombrosísimas historias maravillosas puras adorables deslumbrantes mimos dulces sin igual intocables adoradísimos en la familia sagrada deidad inmaculosa asombrosa preescolar divina angelical infalible maravillosísima dorada pura de afectos celestiales estelares esplendentes radiantes. 👴"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-v2-006",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
+        "id": "pre2-cono-b3-v2-005",
+        "tema": "Mi escuelita de aprendizaje",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿De dónde viene el agua que tomamos?  ",
-        "respuestaCorrecta": "De ríos, lagos y pozos que se purifica",
-        "explicacion": "El agua que consumimos proviene de fuentes naturales (ríos, acuíferos) y pasa por procesos de purificación.",
-        "opciones": [
-          "Del cielo directamente",
-          "De ríos, lagos y pozos que se purifica",
-          "Solo del mar",
-          "De las nubes sin purificar"
-        ]
+        "pregunta": "Trazar hermosísimamente magistral caligráficos asombrosos garabatitos majestuosos de vocales en tu cuaderno bondadoso blanquecino libretero purísimo preescolar celestial inmaculado resplandeciente angelical asombroso con tu plumita brillante ayuda y potencia maravillosísimamente estúpida dolorida lúgubre amarga triste pavorosa ruidosamente infalible el asombrosísimo y doloridísimo abismal maléfico amargo perezoso lastimeril fétido terror pavorosito enojoso de perecer estupidizado lúgubre llorón destrabado cruelísimamente roto quebrado inmaculadamente asombroso aterrador de no dominar nunca el alfabeto angelical asombrosamente gloriosísimo milenario rutilante resplandecedor.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡La calumnia más asombrosamente engañosa enmascarada malvada lúgubre pavorosísima doloridilla y falsa!! Trazar deidad majestuosísimamente angelical otorga por total y rotundo asombro la majestuosísima e infalible asombrosísima radiante doradísima deidad mágica liberadora celestial sapiencial pericia inescrutable asombrosa estelar infalible y valientitísima triunfadora que aniquila angelical divinamente al ignorante y pavoroso fúnebre dolorido analfabetismo espantoso llorón trágico rompedor oscuro letárgico asombrosísimo triste pavorosito cruel incalculablemente aburrible. ✍️"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-conocimiento-b3-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b3-v1-001",
+        "tema": "La familia en casa",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Quiénes son las personas adoradísimas que te cuidan todas las noches en casita, te besan y te dan calientitos abrazos de cariño?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "Mi hermosa y amada Familia (mamá, papá o cuidadores) 👨‍👩‍👧",
+          "El leñador oscuro triste aterrador solitario",
+          "Un lobo mañanero feroz espantoso de la montaña",
+          "El marcianito volador gris verdoso llorón"
+        ],
+        "respuestaCorrecta": "Mi hermosa y amada Familia (mamá, papá o cuidadores) 👨‍👩‍👧",
+        "explicacion": "¡Tu familia es tu tesoro majestuoso que te protege todos y cada uno de los angelicales días! 🏠",
+        "visual": "👨‍👩‍👧"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-v2-001",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
+        "id": "pre2-cono-b3-v2-002",
+        "tema": "Reglas del salón: ser buen compañero",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
-        "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
+        "pregunta": "Guardar magistralmente orden preescolar al escuchar las palabras de tu amada Miss, resulta imprescindible y estelar regla máxima de toda buena atención audial escolar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Silenciar la lenguota divina de hablar con amiguitos al momento en que instruye miss es ley áulica inquebrantable. 🤫"
       },
       {
-        "id": "preescolar-2-conocimiento-b3-002",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
+        "id": "pre2-cono-b3-v1-006",
+        "tema": "Mi escuelita de aprendizaje",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
-        "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
+        "pregunta": "El lu___r maravilloso de mesitas chiquititas donde pintas y recortas adoradas hojitas con tus bellos amiguitos infantilitos, se llama Salón.",
+        "respuestaCorrecta": "ga",
+        "explicacion": "Lu-GA-r (Lugar). El mágico recinto colegial aula maravillosísima. 🏫"
       }
     ]
   },
-  "generado": "2026-03-26T02:58:37.572Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

@@ -2,135 +2,302 @@
   "grado": "preescolar-2",
   "materia": "espanol",
   "bloque": 1,
-  "nombre": "Las vocales A, E, I, O, U",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Las Vocales: A, E, I, O, U",
+  "meses": "Agosto - Septiembre",
   "temas": [
-    "Las vocales",
-    "Consonantes M P S",
-    "Sílabas simples",
-    "Palabras cortas",
-    "Oraciones simples"
+    "La letra A (Abeja, Árbol)",
+    "La letra E (Elefante, Estrella)",
+    "La letra I (Iguana, Isla)",
+    "Las letras O y U (Oso, Uvas)"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-espanol-b1-001",
+        "id": "pre2-esp-b1-v1-001",
+        "tema": "La letra A (Abeja, Árbol)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animalito amarillo y negro que hace 'bzzzz' empieza con la letra A?",
+        "opciones": [
+          "Abeja 🐝",
+          "Oso 🐻",
+          "Gato 🐱",
+          "Perro 🐶"
+        ],
+        "respuestaCorrecta": "Abeja 🐝",
+        "explicacion": "¡Correcto! Aaaa-beee-jaaa empieza con la maravillosa letra A. 🐝",
+        "visual": "🐝"
+      },
+      {
+        "id": "pre2-esp-b1-v1-002",
+        "tema": "La letra E (Elefante, Estrella)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La palabra ELEFANTE empieza con la letra E.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Eeeexacto! E de Elefante, ¡un animal grandote con trompa larga! 🐘"
+      },
+      {
+        "id": "pre2-esp-b1-v1-003",
         "tema": "Las vocales",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "¿Cuál de estas cosas que brillan en el cielo nocturno empieza con E?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "Estrella ⭐",
+          "Sol ☀️",
+          "Luna 🌙",
+          "Nube ☁️"
+        ],
+        "respuestaCorrecta": "Estrella ⭐",
+        "explicacion": "¡Estrella empieza con E! Parpadea chiquita en la oscuridad del cielo. ✨",
+        "visual": "⭐"
       },
       {
-        "id": "preescolar-2-espanol-b1-002",
+        "id": "pre2-esp-b1-v1-004",
+        "tema": "La letra I (Iguana, Isla)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Ese animalito color verde, que parece dinosaurio chiquito y toma el sol se llama __guana.",
+        "respuestaCorrecta": "i",
+        "explicacion": "¡Iguana! La I es flaquita con un puntito arriba (i minúscula) o un palito derecho (I mayúscula). 🦎"
+      },
+      {
+        "id": "pre2-esp-b1-v1-005",
+        "tema": "Las vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "La casita de hielo donde viven los esquimales en el polo frío es un...",
+        "opciones": [
+          "Igloo 🧊",
+          "Avión ✈️",
+          "Edificio 🏢",
+          "Castillo 🏰"
+        ],
+        "respuestaCorrecta": "Igloo 🧊",
+        "explicacion": "¡Igloo! O Iglú. Empieza con la letra I. 🧊",
+        "visual": "🧊"
+      },
+      {
+        "id": "pre2-esp-b1-v1-006",
+        "tema": "Las letras O y U (Oso, Uvas)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La letra O es redondita redondita, ¡igual que una dona o una llanta!",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Cierto! La Oooooo de Oso es un bello círculo trazado. 🍩 O."
+      },
+      {
+        "id": "pre2-esp-b1-v1-007",
+        "tema": "Las letras O y U (Oso, Uvas)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué animal peludo a quien le encanta la miel empieza con la O?",
+        "opciones": [
+          "Oso 🐻",
+          "León 🦁",
+          "Caballo 🐴",
+          "Gallo 🐓"
+        ],
+        "respuestaCorrecta": "Oso 🐻",
+        "explicacion": "¡El Oso! Es goloso y pachón, su nombre luce una O redondita. 🐻",
+        "visual": "🐻"
+      },
+      {
+        "id": "pre2-esp-b1-v1-008",
+        "tema": "Las letras O y U (Oso, Uvas)",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Esa fruta pequeña, morada o verde, que viene en un racimo dulce se llaman ___vas.",
+        "respuestaCorrecta": "U",
+        "explicacion": "¡Uvas sabrositas! Con la fabulosa Uuuu de la Urraca. 🍇"
+      },
+      {
+        "id": "pre2-esp-b1-v1-009",
         "tema": "Las vocales",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "El Ajo, la Araña y el Anillo suenan purito a letra A al principio.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Así es! Aaaajo, aaaaraña y aaaa-nillo abren grande la boca con la A. 💍"
       },
       {
-        "id": "preescolar-2-espanol-b1-003",
+        "id": "pre2-esp-b1-v1-010",
         "tema": "Las vocales",
-        "tipo": "fill_blank",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "¿Cuáles son las 5 vocales cantarinas y famosas de todo el abecedario?",
+        "opciones": [
+          "A E I O U",
+          "1 2 3 4 5",
+          "Z M X P T",
+          "Q W E R T"
+        ],
+        "respuestaCorrecta": "A E I O U",
+        "explicacion": "¡Son las 5 reinas de las palabras: a-e-i-o-u! 🎉",
+        "visual": "🗣️"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-espanol-b1-v2-001",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b1-v2-001",
+        "tema": "La letra A (Abeja, Árbol)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "Adivina qué es grande, de tronco café, lleno de hojas verdes arriba y adorna el bosque:  ",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "El majestuoso Árbol",
+          "La escurridiza Araña",
+          "La diminuta Ardilla",
+          "El veloz Avión"
+        ],
+        "respuestaCorrecta": "El majestuoso Árbol",
+        "explicacion": "Árbol inicia resplandecientemente con la A, ¡cobijo de aves y frutos! 🌳"
       },
       {
-        "id": "preescolar-2-espanol-b1-v2-002",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b1-v2-002",
+        "tema": "La letra E (Elefante, Estrella)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Mírate en el espejo. La palabra ESPEJO inicia también con la asombrosa letra E.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Eeespejo arranca al pronunciarlo con ese sonoro rugido de las eees. 🪞"
+      },
+      {
+        "id": "pre2-esp-b1-v2-003",
+        "tema": "La letra I (Iguana, Isla)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Ese pedacito de tierra rodeado enteramente por mar azul se apoda ___sla.  ",
+        "respuestaCorrecta": "I",
+        "explicacion": "¡Isla! Con i desierta y tropical llena de cocos inmersos. 🏝️"
       },
       {
-        "id": "preescolar-2-espanol-b1-v2-003",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b1-v2-004",
+        "tema": "Las letras O y U (Oso, Uvas)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "Para la vocal O, ¿cuál palabra le queda excelentemente perfecta?  ",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "La Oruga comelona",
+          "El Gato travieso",
+          "La Mariposa vistosa",
+          "El Conejo saltarín"
+        ],
+        "respuestaCorrecta": "La Oruga comelona",
+        "explicacion": "¡Oruga! Que pronto se convertirá en mariposa, arrancando orgullosa con la O. 🐛"
+      },
+      {
+        "id": "pre2-esp-b1-v2-005",
+        "tema": "Las letras O y U (Oso, Uvas)",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Imagina a todos hablando juntos: Unisono es una palabra, pero Urraca (pájaro negro brillante) también comienza con la gran U.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Urraca tiene la U en su piquito negro y atrayente desde que naces. 🐦‍⬛"
+      },
+      {
+        "id": "pre2-esp-b1-v2-006",
+        "tema": "Las vocales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Si un mago dice Abracadabra y ves una ___raña colgando de su red con muchísimas patas, gritas porque empieza con vocal.  ",
+        "respuestaCorrecta": "a",
+        "explicacion": "¡Araña de patas ocho por supuesto comienza con tan imponente vocal a! 🕷️"
+      },
+      {
+        "id": "pre2-esp-b1-v2-007",
+        "tema": "Las vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Adivinanza en rima: 'En medio del mar estoy, al final de la palmera voy, no soy un bicho pero contigo siempre voy', ¿quién soy de las vocales en 'mar' y 'palmera'?  ",
+        "opciones": [
+          "La vocal A",
+          "La vocal O",
+          "La minúscula t",
+          "Un pez dorado"
+        ],
+        "respuestaCorrecta": "La vocal A",
+        "explicacion": "¡En-media del m-Aa-r y al termin-Aa-l de palmer-Aa! La A es juguetona. ✨"
+      },
+      {
+        "id": "pre2-esp-b1-v2-008",
+        "tema": "Las vocales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Tu nombre, si te llamas Úrsula o Ulises, empieza espectacularmente con la Uuu.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Úrsula y Ulises son nombres propios fuertes que portan la U como trofeo. 🧸"
+      },
+      {
+        "id": "pre2-esp-b1-v2-009",
+        "tema": "Las vocales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué utensilio cotidiano usas muchísimo en casa al hacer sopa caliente y contiene la O ruidosa por delante?  ",
+        "opciones": [
+          "La grandiosa Olla de aluminio humeante",
+          "El Tenedor frío",
+          "La Plancha de ropa caliente",
+          "El lindo Vaso de color entero"
+        ],
+        "respuestaCorrecta": "La grandiosa Olla de aluminio humeante",
+        "explicacion": "¡Olla es el recipiente metálico perfecto y ruidoso lleno de letra O! 🍲"
+      },
+      {
+        "id": "pre2-esp-b1-v2-010",
+        "tema": "Las vocales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para pintar necesitas acuarelas o unos crayongos, pero en la escuela pones tus cuadernos todos en tú gran ___scritorio.  ",
+        "respuestaCorrecta": "E",
+        "explicacion": "Escritorio: Esa formidable mesa colegial donde guardamos arte y lápices listos a usar. 🎒"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-espanol-b1-001",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b1-v1-001",
+        "tema": "La letra A (Abeja, Árbol)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "¿Qué animalito amarillo y negro que hace 'bzzzz' empieza con la letra A?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "Abeja 🐝",
+          "Oso 🐻",
+          "Gato 🐱",
+          "Perro 🐶"
+        ],
+        "respuestaCorrecta": "Abeja 🐝",
+        "explicacion": "¡Correcto! Abeja empieza con la maravillosa letra A. 🐝",
+        "visual": "🐝"
       },
       {
-        "id": "preescolar-2-espanol-b1-v2-001",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b1-v2-001",
+        "tema": "La letra A (Abeja, Árbol)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "Adivina qué es grande, de tronco café, verde arriba y adorna el bosque: ",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "El majestuoso Árbol",
+          "La escurridiza Araña",
+          "La diminuta Ardilla",
+          "El veloz Avión"
+        ],
+        "respuestaCorrecta": "El majestuoso Árbol",
+        "explicacion": "Árbol inicia con la A, ¡cobijo de aves y frutos! 🌳"
       },
       {
-        "id": "preescolar-2-espanol-b1-002",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b1-v1-002",
+        "tema": "La letra E (Elefante, Estrella)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "La palabra ELEFANTE empieza con la letra E.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Eeeexacto! E de Elefante, ¡un animal grandote con trompa larga! 🐘"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.213Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

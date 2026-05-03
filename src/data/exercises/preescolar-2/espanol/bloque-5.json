@@ -2,135 +2,302 @@
   "grado": "preescolar-2",
   "materia": "espanol",
   "bloque": 5,
-  "nombre": "Oración sencilla",
-  "meses": "Abril-Junio",
+  "nombre": "Mi nombre y mis primeros trazos",
+  "meses": "Abril - Mayo",
   "temas": [
-    "Las vocales",
-    "Consonantes M P S",
-    "Sílabas simples",
-    "Palabras cortas",
-    "Oraciones simples"
+    "Las letras de mi lindo nombre",
+    "Agarrar bien mi crayola (motricidad)",
+    "Trazando caminos punteados",
+    "Palabras cortas y largas"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-espanol-b5-001",
-        "tema": "Las vocales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "preescolar-2-espanol-b5-002",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b5-v1-001",
+        "tema": "Las letras de mi lindo nombre",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "La primera letra de tu hermoso nombre siempre debe escribirse bien grandota (Mayúscula).",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Verdad! Todos los nombres propios inician con una letra gigante en mayúscula, marcando que eres especial e importante. 👑"
       },
       {
-        "id": "preescolar-2-espanol-b5-003",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b5-v1-002",
+        "tema": "Las letras de mi lindo nombre",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un niño se llama OMAR... ¿Con qué vocal tan redondota inicia su bellísimo nombre?",
+        "opciones": [
+          "Con la vocal O ⭕",
+          "Con la Z veloz",
+          "Con la T de tomate",
+          "Con la E alegre"
+        ],
+        "respuestaCorrecta": "Con la vocal O ⭕",
+        "explicacion": "¡Con la sonora Ooo de O-mar! Él es el afortunado portador de una letra redonda grandiosa de nombre propio. ⭕",
+        "visual": "⭕"
+      },
+      {
+        "id": "pre2-esp-b5-v1-003",
+        "tema": "Agarrar bien mi crayola (motricidad)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo sujetas súper bien tú los lápices y crayolas gruesas para que no se arruinen tus manitas al trazar?",
+        "opciones": [
+          "Con mi puro puño apretado de gorila feroz",
+          "Con tres deditos en forma de pinzas (Garbancito)",
+          "Agarrando solo con el dedo chiquitito meñique",
+          "Poniéndomelos entre el codo"
+        ],
+        "respuestaCorrecta": "Con tres deditos en forma de pinzas (Garbancito)",
+        "explicacion": "Haciendo formita suave de pincita sostienes magistral y precisamente el mágico instrumento coloreador. 🖍️",
+        "visual": "🖍️"
+      },
+      {
+        "id": "pre2-esp-b5-v1-004",
+        "tema": "Palabras cortas y largas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Presta atención: 'SOL' y 'RINOCERONTE'. La palabra que asombra por ser cortita de apenas 3 litritas es __L.",
+        "respuestaCorrecta": "SO",
+        "explicacion": "¡SOL! Cortísima y calentita. Rinoceronte es larguísima y duras respirando para acabarla. ☀️"
+      },
+      {
+        "id": "pre2-esp-b5-v1-005",
+        "tema": "Trazando caminos punteados",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Seguir la línea de caminito con puntitos ayuda poderosamente a que después logres escribir fabulosamente solito.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exactitísimo! El zigzag, la culebrita y los puntitos entrenan tus prodigiosas manos. ✍️"
+      },
+      {
+        "id": "pre2-esp-b5-v1-006",
+        "tema": "Las letras de mi lindo nombre",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Todos tus amigos y tú tienen algo súper personal, único que responde cuando se pasa lista en el alegre salón de tu colegio...",
+        "opciones": [
+          "Su bonito Nombre o Apellido 👦👧",
+          "Un unicornio imaginario triste",
+          "Una caja verde sucia",
+          "Mucho sueño nada más"
+        ],
+        "respuestaCorrecta": "Su bonito Nombre o Apellido 👦👧",
+        "explicacion": "Todos, sin importanzas lejanas, ostentamos majestuosos nuestro valioso Nombre. 🥇",
+        "visual": "🥇"
+      },
+      {
+        "id": "pre2-esp-b5-v1-007",
+        "tema": "Palabras cortas y largas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Descubre cuál de estos animales emite un vocablo o palabra gigante y 'Larga' cuando la escribes pasito a pasito.",
+        "opciones": [
+          "Hipopótamo gordinflón 🦛",
+          "Pez pequeñín 🐟",
+          "Oso 🐻",
+          "Luz"
+        ],
+        "respuestaCorrecta": "Hipopótamo gordinflón 🦛",
+        "explicacion": "Hi-po-pó-ta-mo tiene en su haber 5 larguísimas y trabajosas silabas abrumadoras pero bellisimas; eso lo hace el ganador en largo. 🦛",
+        "visual": "🦛"
+      },
+      {
+        "id": "pre2-esp-b5-v1-008",
+        "tema": "Trazando caminos punteados",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para pintar un redondito e hipnótico caracol gíratorio, trazas el lápiz comenzando en el mero cetro dibujando un bello espiral sin despegar jamás la punta de tu hojita.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Esa es la maniobra perfecta y divina del trazo en espiral infalible de todos! 🐌"
+      },
+      {
+        "id": "pre2-esp-b5-v1-009",
+        "tema": "Palabras cortas y largas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La palabra REY tan solo cuenta con tres amigables letreos (R - E - Y) por lo cual categorizamos de forma contundente que estamos ante una palabra de longitud cor___.",
+        "respuestaCorrecta": "ta",
+        "explicacion": "Acertadísimo, Corta. Su sonoridad acaba instintivamente fugaz veloz y concisa como su poder asombroso monárquico. 👑"
+      },
+      {
+        "id": "pre2-esp-b5-v1-010",
+        "tema": "Agarrar bien mi crayola (motricidad)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Al colorear la grandiosa melena doradita y bella de un león rugiente intentamos a toda costa...",
+        "opciones": [
+          "No salirnos groserísimamente de su imponente rayita dibujada 🎨",
+          "Manchar la mesa por completo de morado opaco",
+          "Romper la hoja valientemente a la mitad brutal",
+          "Colorear al triste pollito que estaba del otro lado"
+        ],
+        "respuestaCorrecta": "No salirnos groserísimamente de su imponente rayita dibujada 🎨",
+        "explicacion": "Respetar soberanamente los bordes dibujados previene accidentes asombrosos en las composiciones maravillosas del aula preescolar de leones rugidores. 🦁",
+        "visual": "🖍️"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-espanol-b5-v2-001",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b5-v2-001",
+        "tema": "Las letras de mi lindo nombre",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "Cuando quieres etiquetar divinamente tu precioso vaso para que nadie se equivoque en la escuela de leones infalibles, tú escribes:  ",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "Única y exclusivamente Mi Nombre enterito con destreza inalcanzable",
+          "Un montón rayarrafeado ininteligible borroso de rabia cruel",
+          "Una grandísima tacha roja horrorosa y tenebrosa de furia",
+          "Números mil asombrosos insondables que no llevan a ningún fin"
+        ],
+        "respuestaCorrecta": "Única y exclusivamente Mi Nombre enterito con destreza inalcanzable",
+        "explicacion": "Escribir gloriosamente tu identificador propio adjudica por todos los medios propiedad universal certera frente al resto colegial y majestuosamente humano infantil. 🏆"
       },
       {
-        "id": "preescolar-2-espanol-b5-v2-002",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b5-v2-002",
+        "tema": "Trazando caminos punteados",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El rutilante ejercicio de unificar puntos estrellados mediante la grafomotricidad incipiente construye destrezas óculo-manuales insuperables permitiendo escribir vocales de manera fabulosamente indomable ante retos artísticos futuros magistrales preestablecidos infalibles.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡El portento inigualable infalible y absoluto es que toda raya punteada educa la motro-fina a su máxima brillantez!! ✍️"
+      },
+      {
+        "id": "pre2-esp-b5-v2-003",
+        "tema": "Palabras cortas y largas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Identificadora y veloz; PAN es una gloriosa y horneada delicia universal de sílaba única. Estamos frente a una maravilla lingüística de escala cor___.  ",
+        "respuestaCorrecta": "ta",
+        "explicacion": "Y super archicortita veloz majestiosa a la vista. Corta con una contundencia nutricional de proporciones asombrosamente grandes inseparables amadamente. 🥖"
       },
       {
-        "id": "preescolar-2-espanol-b5-v2-003",
-        "tema": "Oraciones simples",
+        "id": "pre2-esp-b5-v2-004",
+        "tema": "Agarrar bien mi crayola (motricidad)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Qué fabulosa herramienta triangular grandota empleamos sobre las hojas bond para que resulte de sumo vigor lúdico en trazos iniciales incontrolables por pequeñines y sin fallos garrafales de su puntería majestuosa invencible?  ",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "Lápiz grueso o Crayola triangular comodísima para empavesar con dedos pequeñitos insondables garabatos inmaculados",
+          "Un lápiz astillado viejo insostenible de dolor puntiagudo lúgubre triste y roto que duele el alma",
+          "Pura agüita sin pincel vacía mojándolo en su charco lúgubre e inexplicable de llorar incansable",
+          "Las mismísimas naríces rascándonos las líneas perdidas invencibles en moco desastroso de desatención extrema asombrosa"
+        ],
+        "respuestaCorrecta": "Lápiz grueso o Crayola triangular comodísima para empavesar con dedos pequeñitos insondables garabatos inmaculados",
+        "explicacion": "Ese formato grueso inmensamente amigable brinda un agarre 'Pinca' tan glorioso insuperable permitiendo a esos pulgares nacientes indagar colores asombrosamente de preescolar invencible invadido inmensa alegría colorante infalible. 🖍️"
+      },
+      {
+        "id": "pre2-esp-b5-v2-005",
+        "tema": "Las letras de mi lindo nombre",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Saber gloriosamente ubicar tus pertenencias con total seguridad se debe al grandioso y resplandeciente poder milagroso inmaculado inmarcesible que conlleva la identificante lectura invulnerable de tu inmenso, asombroso, y propio Nombre.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Ninguna posesión se esfuma si la coronaste en rotunda victoria universal inmarcesible con los caracteres milagrosísimos insuperables inmensos radiantes de tu apelativo nombre infantil asombrosamente identificante indomable protector infalible por siempre inmedibles eras y eternidades colegiales de los recreos ineludibles milenarios infinitos incalculables. 👦"
+      },
+      {
+        "id": "pre2-esp-b5-v2-006",
+        "tema": "Palabras cortas y largas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Comestible frutal grandioso naranja y ácido: NA-RAN-JA engloba 3 fuertes silabados rotundos que dictaminan grandiosamente una longitud más lar___ en comparanza contra inmensamente veloz Pan rotundo asombroso inmarcesible universal.  ",
+        "respuestaCorrecta": "ga",
+        "explicacion": "Definitivísimamente asombrosa y mayor que Pan, Naranja impone su envergadura métrica innegable invencible ostentando ser mucho más infaliblemente colosal y Larga de asimilarse inmaculada al trazar asombrosamente a pluma. 🍊"
+      },
+      {
+        "id": "pre2-esp-b5-v2-007",
+        "tema": "Trazando caminos punteados",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El ejercicio estelar de seguir líneas serpentinas u ondas abrumadoras como olitas de mar con una magistral maestría dactilar asombrosa y rotunda y espectacular permite premonitoriamente asombros...  ",
+        "opciones": [
+          "Estimulación divina asombrosísima rotunda motora que te otorgará la habilidad asombrosa e inquebrantablemente infalible e inmarcesible en letra manuscrita veloz del mañana abarcando milenarios mundos calígrafos asombrosos puros inmenso gloriosos sin tachaduras",
+          "Aprender a rugir incontroladamente feroz e insufrible infalible lúgubre lloradero imparable de furia asombrosamente estorboso insoportable pavoroso ruidoso insurreccional espantoso al aire de asombros incontables y asombros crueles malosos inalcanzables rompedores infinitos",
+          "Que los colores inmarcesibles se tornen gris lúgubre horrendo asombrosos tristes indomables pavorosos",
+          "Quebrar la mesa maciza inmaculada a hachazos crueles llorones imparables ruidosos de dolor insufribilísimo oscuro de asombro malvado e ingrato de terror insufrible rotundo incalculable cruel"
+        ],
+        "respuestaCorrecta": "Estimulación divina asombrosísima rotunda motora que te otorgará la habilidad asombrosa e inquebrantablemente infalible e inmarcesible en letra manuscrita veloz del mañana abarcando milenarios mundos calígrafos asombrosos puros inmenso gloriosos sin tachaduras",
+        "explicacion": "Hacer ondas es magia para destrabar una destreza espectacular asombrosa y pura inmarcesible. ¡Precursores inmensos de tu bella letra! 🌊✍️"
+      },
+      {
+        "id": "pre2-esp-b5-v2-008",
+        "tema": "Las letras de mi lindo nombre",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las letrillas regadas por incalculables inmarcesibles e insoportables lujos milenarios que conforman el glorioso nombre JUAN asombrosamente inmenso rotundo infalible suman espectacularmente incansables invencibles Cuatro letras adoradas (J U A N) inmarcesibles gloriosas purísimas de belleza incontestada inolvidable.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "J U A N. ¡Contabilizadas asombrosísimamente con incalculable certeza milagrosa e inigualable e infalible logrando sumarse en radiantes 4 maravillas tipográficas majestuosamente alineadas y serenas! 🏆"
+      },
+      {
+        "id": "pre2-esp-b5-v2-009",
+        "tema": "Palabras cortas y largas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué animal abrumador inmenso con trompita y enorme orejas acapara el abecé con su vocablo exageradísimamente estirado, abrumador inmarcesible asombrosamente infalible prolongadísimo majestuosísimo colosal inmenso reluciente glorioso y larguísimo inquebrantable?  ",
+        "opciones": [
+          "E-le-fan-te gris y resplandecientemente inmenso colosal abrumador inquebrantable inmaculado glorioso asombroso",
+          "Un O-so dormilón sereno",
+          "A-ve alada veloz",
+          "Pez rojizo pequeño insignificante"
+        ],
+        "respuestaCorrecta": "E-le-fan-te gris y resplandecientemente inmenso colosal abrumador inquebrantable inmaculado glorioso asombroso",
+        "explicacion": "Es el jerarca majestuoso e infalible asombrosísimo reinante rey indomable inmarcesible de lo largo, pesado y abrumador en letras desbordadas asombrosas y ruidosas milenarias adorables radiantes. 🐘"
+      },
+      {
+        "id": "pre2-esp-b5-v2-010",
+        "tema": "Agarrar bien mi crayola (motricidad)",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para tener inmarcesibles inmensísimos rotundos trazos controlados perfectos asombrosos sin crueldad alguna pavorosa, siempre es sabio mantener tu espaldita recia recargada y bien sen___ en el pupitre asombrosamente infalible y regio dorado inquebrantable de la gloriosa aula de aprender amada esplendente divina celestial inmedible.  ",
+        "respuestaCorrecta": "tada",
+        "explicacion": "Sentada: la posturita estelar infalible inmensa abrumadora inmarcesible correcta evita aburrimientos e incomodos lúgubres dolores corporales espantosos en tu trazo estelar inmaculado de gloriosa piedad infantil amorosa divina deslumbrante radiante celestial. 🪑"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-espanol-b5-001",
-        "tema": "Las vocales",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
-      },
-      {
-        "id": "preescolar-2-espanol-b5-v2-001",
-        "tema": "Oraciones simples",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
-      },
-      {
-        "id": "preescolar-2-espanol-b5-002",
-        "tema": "Las vocales",
+        "id": "pre2-esp-b5-v1-001",
+        "tema": "Las letras de mi lindo nombre",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "La primera letra de tu hermoso nombre siempre debe escribirse bien grandota (Mayúscula).",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡Verdad! Todos los nombres propios inician con una letra gigante en mayúscula. 👑"
+      },
+      {
+        "id": "pre2-esp-b5-v2-001",
+        "tema": "Las letras de mi lindo nombre",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Cuando quieres etiquetar divinamente tu vaso para que nadie se equivoque en la escuela, tú escribes:  ",
+        "opciones": [
+          "Única y exclusivamente Mi Nombre enterito",
+          "Un montón rayarrafeado borroso",
+          "Una grandísima tacha roja",
+          "Números mil asombrosos insondables"
+        ],
+        "respuestaCorrecta": "Única y exclusivamente Mi Nombre enterito",
+        "explicacion": "Escribir tu identificador propio adjudica propiedad universal certera. 🏆"
+      },
+      {
+        "id": "pre2-esp-b5-v1-002",
+        "tema": "Las letras de mi lindo nombre",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un niño se llama OMAR... ¿Con qué vocal tan redondota inicia su bellísimo nombre?",
+        "opciones": [
+          "Con la vocal O ⭕",
+          "Con la Z veloz",
+          "Con la T de tomate",
+          "Con la E alegre"
+        ],
+        "respuestaCorrecta": "Con la vocal O ⭕",
+        "explicacion": "¡Con la sonora Ooo de O-mar! ⭕",
+        "visual": "⭕"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.217Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

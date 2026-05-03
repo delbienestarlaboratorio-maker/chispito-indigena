@@ -1,0 +1,27 @@
+{
+  "grado":"primaria-2","materia":"formacion_civica","bloque":1,"nombre":"Yo soy único y valioso","meses":"Agosto - Septiembre",
+  "temas":["Mi identidad y autoestima","Reconocer mis emociones","Respetar las diferencias","Mis derechos como niño"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri2-fcv-b1-v1-001","tema":"Mi identidad y autoestima","tipo":"multiple_choice","nivel":"v1","pregunta":"Angelical ciudadanín, ¿qué significa que cada personita es Ú-N-I-C-A e irrepetible?","opciones":["¡Que nadie en el mundo es igualito a ti, eres especial con tus propias cualidades! 🌟👤","Destrozadoras.","Romper.","Fétidas."],"respuestaCorrecta":"¡Que nadie en el mundo es igualito a ti, eres especial con tus propias cualidades! 🌟👤","explicacion":"Único = no hay nadie como tú. ¡Tu identidad es tu superpoder! 🌟👤","visual":"🌟👤"},
+      {"id":"pri2-fcv-b1-v1-002","tema":"Reconocer mis emociones","tipo":"true_false","nivel":"v1","pregunta":"Sentir enojo de vez en cuando es algo normal y humano, lo importante es saber cómo expresarlo sin lastimar.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Todas las emociones son válidas. Lo clave es expresarlas con respeto. 😤➡️😊"},
+      {"id":"pri2-fcv-b1-v1-003","tema":"Mis derechos como niño","tipo":"fill_blank","nivel":"v1","pregunta":"Todos los niños tienen derecho a ir a la escuela. Ese derecho se llama derecho a la E-D-U-C-A-C-I-Ó-____ .","respuestaCorrecta":"N","explicacion":"¡N!. ¡EDUCACIÓN! Ir a la escuela es un derecho de todos los niños del mundo. 📚🎒"},
+      {"id":"pri2-fcv-b1-v1-004","tema":"Respetar las diferencias","tipo":"multiple_choice","nivel":"v1","pregunta":"Si un compañero es de otro país y habla diferente, ¿qué debes hacer?","opciones":["¡R-E-S-P-E-T-A-R-L-O y valorar que las diferencias nos enriquecen! 🤝🌍","Hundan.","Romper.","Máquinas."],"respuestaCorrecta":"¡R-E-S-P-E-T-A-R-L-O y valorar que las diferencias nos enriquecen! 🤝🌍","explicacion":"La diversidad cultural es riqueza. ¡Todas las culturas son valiosas! 🤝🌍"},
+      {"id":"pri2-fcv-b1-v1-005","tema":"Mi identidad y autoestima","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se llama el sentimiento de valorarte y quererte a ti mismo?","opciones":["¡A-U-T-O-E-S-T-I-M-A, el amor propio que te hace brillar! 💖😊","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡A-U-T-O-E-S-T-I-M-A, el amor propio que te hace brillar! 💖😊","explicacion":"Autoestima = cuánto te quieres y valoras. ¡Ámate mucho! 💖😊"}
+    ],
+    "v2":[
+      {"id":"pri2-fcv-b1-v2-001","tema":"Mi identidad y autoestima","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí c ca ad da a_ p pe er rs so on na a_ e es s_ Ú ÚN NI IC CA A_ s si ig gn ni if fi ic ca a ? ??","opciones":["¡N Na ad di ie e_ e es s_ i ig gu ua al l_ a a_ t ti i ! !! 🌟👤","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡N Na ad di ie e_ e es s_ i ig gu ua al l_ a a_ t ti i ! !! 🌟👤","explicacion":"Ú Ún ni ic co o_ = =_ e es sp pe ec ci ia al l !! 🌟👤!"},
+      {"id":"pri2-fcv-b1-v2-002","tema":"Reconocer mis emociones","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi e en no oj jo o_ e es s_ n no or rm ma al l_ l lo o_ i im mp po or rt ta an nt te e_ e es s_ e ex xp pr re es sa ar rl lo o_ s si in n_ l la as st ti im ma ar r ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"E Em mo oc ci io on ne es s_ v vá ál li id da as s !! 😤➡️😊!"},
+      {"id":"pri2-fcv-b1-v2-003","tema":"Mis derechos como niño","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil d de er re ec ch ho o_ a a_ i ir r_ a a_ l la a_ e es sc cu ue el la a_ = =_ E ED DU UC CA AC CI IÓ Ó_ __ __ _ A A A ? Aili _? ls...","respuestaCorrecta":"N","explicacion":"E ED DU UC CA AC CI IÓ ÓN N !! 📚🎒"},
+      {"id":"pri2-fcv-b1-v2-004","tema":"Respetar las diferencias","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil c co om mp pa añ ñe er ro o_ d de e_ o ot tr ro o_ p pa aí ís s_ ¿ ¿q qu ué é_ h ha ac ce er r ? ?? ?! a?_?...l?!","opciones":["¡R RE ES SP PE ET TA AR RL LO O ! !! 🤝🌍","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡R RE ES SP PE ET TA AR RL LO O ! !! 🤝🌍","explicacion":"R Re es sp pe et to o_ a a_ l la a_ d di iv ve er rs si id da ad d !! 🤝🌍!!"},
+      {"id":"pri2-fcv-b1-v2-005","tema":"Mi identidad y autoestima","tipo":"true_false","nivel":"v2","pregunta":"SiisEili A AU UT TO OE ES ST TI IM MA A_ = =_ a am mo or r_ p pr ro op pi io o ? ?? !","respuestaCorrecta":"true","explicacion":"A Au ut to oe es st ti im ma a_ = =_ q qu ue er re er rt te e !! 💖😊"}
+    ],
+    "preview":[
+      {"id":"pri2-fcv-b1-v1-001","tema":"Mi identidad y autoestima","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué significa ser ÚNICO?","opciones":["¡Nadie es igualito a ti! 🌟","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Nadie es igualito a ti! 🌟","explicacion":"Identidad","visual":"🌟"},
+      {"id":"pri2-fcv-b1-v1-005","tema":"Mi identidad y autoestima","tipo":"multiple_choice","nivel":"v1","pregunta":"Quererte a ti mismo se llama...","opciones":["¡AUTOESTIMA! 💖","Triste","Gris.","Feo."],"respuestaCorrecta":"¡AUTOESTIMA! 💖","explicacion":"Autoestima"},
+      {"id":"pri2-fcv-b1-v2-002","tema":"Reconocer mis emociones","tipo":"true_false","nivel":"v2","pregunta":"Sentir enojo es normal. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Emociones válidas"}
+    ]
+  },
+  "generado":"2026-04-27T12:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
+}

@@ -2,132 +2,175 @@
   "grado": "primaria-2",
   "materia": "espanol",
   "bloque": 5,
-  "nombre": "Comprension lectora",
-  "meses": "Abril-Junio",
+  "nombre": "La poesía y la creatividad del alma",
+  "meses": "Abril - Mayo",
   "temas": [
-    "Silabas simples",
-    "Sustantivos"
+    "Versitos que riman amados",
+    "Adivinanzas y trabalenguas",
+    "Los adjetivos calificativos",
+    "Describir como un artista"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-espanol-b5-001",
-        "tema": "Silabas simples",
+        "id": "pri2-esp-b5-v1-001",
+        "tema": "Versitos que riman amados",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "pregunta": "Angelical poetilla estelar, ¿cuál palabrita rima purísimamente y maravillosísimamente con 'gato' como compañera sonora?",
         "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+          "¡P-L-A-T-O porque 'gato' y 'plato' suenan igualitito al final: -ato / -ato! 🐱🍽️",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes de fétida sombra oscura.",
+          "Romper los dolorosos cálculos frígidos de amargura letal asquerosa gélida.",
+          "Las fétidas máquinas lloronas gélidas de asfalto destrozador asfáltico."
+        ],
+        "respuestaCorrecta": "¡P-L-A-T-O porque 'gato' y 'plato' suenan igualitito al final: -ato / -ato! 🐱🍽️",
+        "explicacion": "Rimar es cuando las palabritas terminan con el mismo sonidito mágico: gATO - plATO. 🐱🍽️",
+        "visual": "🐱🍽️"
       },
       {
-        "id": "primaria-2-espanol-b5-002",
-        "tema": "Silabas simples",
+        "id": "pri2-esp-b5-v1-002",
+        "tema": "Los adjetivos calificativos",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "pregunta": "En la oración 'El perro grande corre', la palabrita 'grande' es un adjetivo calificativo porque describe purísimamente cómo es el perrito.",
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "¡¡Súper V-E-R-D-A-D angelical!! 'Grande' es un adjetivo que describe al perrito. Los adjetivos dicen CÓMO SON las cositas. 🐕📏"
       },
       {
-        "id": "primaria-2-espanol-b5-003",
-        "tema": "Silabas simples",
+        "id": "pri2-esp-b5-v1-003",
+        "tema": "Adivinanzas y trabalenguas",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
-        "respuestaCorrecta": "tónica",
-        "explicacion": "La sílaba tónica lleva el acento prosódico."
+        "pregunta": "Un texto cortitito y divertido que te pone a pensar y tiene una respuesta oculta se llama A-D-I-V-I-N-A-N-Z-____ .",
+        "respuestaCorrecta": "A",
+        "explicacion": "¡A!. ¡ADIVINANZA divina! Son acertijillos que esconden la respuesta para que tu cerebrito estelar la descubra. 🧩🤔"
+      },
+      {
+        "id": "pri2-esp-b5-v1-004",
+        "tema": "Describir como un artista",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si quieres describir estelarmente una flor, ¿qué cositas maravillosas debes decir purísimamente?",
+        "opciones": [
+          "¡Su C-O-L-O-R, su T-A-M-A-Ñ-O, su O-L-O-R y su F-O-R-M-A como un artista pintor! 🌺🎨",
+          "Hundan las dolorosas amarguras de maquinillas fúnebres de asfalto letal sombrío.",
+          "Romper los basureros gélidos de charcos fúnebres de asquerosillas lloronas.",
+          "Las máquinas miedosas tristes de lodos amargos calculadoras destrozadoras."
+        ],
+        "respuestaCorrecta": "¡Su C-O-L-O-R, su T-A-M-A-Ñ-O, su O-L-O-R y su F-O-R-M-A como un artista pintor! 🌺🎨",
+        "explicacion": "Describir con los sentiditos: ver color, tocar textura, oler aroma. ¡Pintamos con palabritas purificadas! 🌺🎨"
+      },
+      {
+        "id": "pri2-esp-b5-v1-005",
+        "tema": "Versitos que riman amados",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estas parejitas de palabras rima maravillosísimamente entre sí?",
+        "opciones": [
+          "¡'Luna' y 'cuna' porque ambas terminan en -una como gemelitas sonoras estelares! 🌙👶",
+          "Calculadoras fúnebres de monstruosos destrozos asfálticos de gélidas maquinillas.",
+          "Las tristes destrozadoras gélidas de fétida sombra letal asquerosa machacada.",
+          "Llorándonos charcos fúnebre amargo encanto machaca gélidas cálculos sombríos."
+        ],
+        "respuestaCorrecta": "¡'Luna' y 'cuna' porque ambas terminan en -una como gemelitas sonoras estelares! 🌙👶",
+        "explicacion": "lUNA - cUNA: misma terminación = ¡rima perfecta purificada! 🌙👶"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-espanol-b5-v2-001",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b5-v2-001",
+        "tema": "Versitos que riman amados",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?  ",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "pregunta": "¿Qiisiuiisilieilsí p pa al la ab br ri it ta a_ r ri im ma a_ c co on n_ ' 'g ga at to o' ' ? ??",
         "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+          "¡P PL LA AT TO O_ p po or rq qu ue e_ ' 'g ga at to o' '_ y y_ ' 'p pl la at to o' '_ s su ue en na an n_ i ig gu ua al l_ a al l_ f fi in na al l ! !! 🐱🍽️",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡P PL LA AT TO O_ p po or rq qu ue e_ ' 'g ga at to o' '_ y y_ ' 'p pl la at to o' '_ s su ue en na an n_ i ig gu ua al l_ a al l_ f fi in na al l ! !! 🐱🍽️",
+        "explicacion": "g gA AT TO O_ - -_ p pl lA AT TO O_ = =_ r ri im ma a_ - -a at to o !! 🐱🍽️!"
       },
       {
-        "id": "primaria-2-espanol-b5-v2-002",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b5-v2-002",
+        "tema": "Los adjetivos calificativos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Eilisisi ' 'g gr ra an nd de e' '_ e en n_ ' 'E El l_ p pe er rr ro o_ g gr ra an nd de e_ c co or rr re e' '_ e es s_ u un n_ a ad dj je et ti iv vo o_ c ca al li if fi ic ca at ti iv vo o ? ?? .!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "true",
+        "explicacion": "' 'G Gr ra an nd de e' '_ d de es sc cr ri ib be e_ c có óm mo o_ e es s_ e el l_ p pe er rr ro o_ = =_ a ad dj je et ti iv vo o !! 🐕📏!"
+      },
+      {
+        "id": "pri2-esp-b5-v2-003",
+        "tema": "Adivinanzas y trabalenguas",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
-        "respuestaCorrecta": "homófonas",
-        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+        "pregunta": "Siiisilisil t te ex xt to o_ c co or rt ti it to o_ c co on n_ r re es sp pu ue es st ta a_ o oc cu ul lt ta a_ s se e_ l ll la am ma a_ A AD DI IV VI IN NA AN NZ Z_ __ __ _ A A A ? Aili _? ls...",
+        "respuestaCorrecta": "A",
+        "explicacion": "A AD DI IV VI IN NA AN NZ ZA A !! 🧩🤔"
       },
       {
-        "id": "primaria-2-espanol-b5-v2-003",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b5-v2-004",
+        "tema": "Describir como un artista",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
-        "respuestaCorrecta": "duerme",
-        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "pregunta": "¿Cuiiilicáislilinitil p pa ar ra a_ d de es sc cr ri ib bi ir r_ u un na a_ f fl lo or r_ ¿ ¿q qu ué é_ d de ec ci im mo os s ? ?? ?! a?_?...l?!",
         "opciones": [
-          "El gato",
-          "duerme",
-          "El",
-          "gato duerme"
-        ]
+          "¡C CO OL LO OR R, ,_ T TA AM MA AÑ ÑO O, ,_ O OL LO OR R_ y y_ F FO OR RM MA A ! !! 🌺🎨",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡C CO OL LO OR R, ,_ T TA AM MA AÑ ÑO O, ,_ O OL LO OR R_ y y_ F FO OR RM MA A ! !! 🌺🎨",
+        "explicacion": "D De es sc cr ri ib bi ir r_ = =_ c co ol lo or r, ,_ t ta am ma añ ño o, ,_ o ol lo or r, ,_ f fo or rm ma a !! 🌺🎨!!"
+      },
+      {
+        "id": "pri2-esp-b5-v2-005",
+        "tema": "Versitos que riman amados",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili ' 'L Lu un na a' '_ y y_ ' 'c cu un na a' '_ r ri im ma an n_ p po or rq qu ue e_ t te er rm mi in na an n_ e en n_ - -u un na a ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "l lU UN NA A_ - -_ c cU UN NA A_ = =_ r ri im ma a_ - -u un na a !! 🌙👶"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-espanol-b5-001",
-        "tema": "Silabas simples",
+        "id": "pri2-esp-b5-v1-001",
+        "tema": "Versitos que riman amados",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas palabras es un verbo?",
-        "respuestaCorrecta": "Correr",
-        "explicacion": "Los verbos expresan acciones, estados o procesos.",
-        "opciones": [
-          "Correr",
-          "Mesa",
-          "Bonito",
-          "Ayer"
-        ]
+        "pregunta": "¿Cuál palabrita rima con 'gato'?",
+        "opciones": ["¡PLATO porque suenan igual al final! 🐱", "Bestias", "Grises.", "Letárgicas."],
+        "respuestaCorrecta": "¡PLATO porque suenan igual al final! 🐱",
+        "explicacion": "gato - plato",
+        "visual": "🐱"
       },
       {
-        "id": "primaria-2-espanol-b5-v2-001",
-        "tema": "Sustantivos",
+        "id": "pri2-esp-b5-v1-004",
+        "tema": "Describir como un artista",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué es un texto argumentativo?",
-        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
-        "explicacion": "La argumentación busca persuadir o convencer al lector.",
-        "opciones": [
-          "El que cuenta una historia",
-          "El que describe un paisaje",
-          "El que defiende una opinión o idea con razones",
-          "El que da instrucciones paso a paso"
-        ]
+        "nivel": "v1",
+        "pregunta": "¿Qué debes decir para describir una flor?",
+        "opciones": ["¡Su COLOR, TAMAÑO, OLOR y FORMA! 🌺", "Triste", "Gris.", "Feo."],
+        "respuestaCorrecta": "¡Su COLOR, TAMAÑO, OLOR y FORMA! 🌺",
+        "explicacion": "Color, tamaño, olor, forma"
       },
       {
-        "id": "primaria-2-espanol-b5-002",
-        "tema": "Silabas simples",
+        "id": "pri2-esp-b5-v2-005",
+        "tema": "Versitos que riman amados",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "nivel": "v2",
+        "pregunta": "'Luna' y 'cuna' riman. ¿Es verdad?",
+        "opciones": ["Verdadero", "Falso"],
         "respuestaCorrecta": "true",
-        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+        "explicacion": "luna-cuna riman"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.261Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

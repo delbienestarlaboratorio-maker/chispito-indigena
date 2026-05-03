@@ -2,344 +2,192 @@
   "grado": "preescolar-2",
   "materia": "educacion_fisica",
   "bloque": 4,
-  "nombre": "Soy saludable",
-  "meses": "Feb-Mar",
+  "nombre": "Juegos con aros y costales",
+  "meses": "Febrero - Marzo",
   "temas": [
-    "Hábitos saludables",
-    "Higiene"
+    "Saltando dentro del aro de color",
+    "Carrera de gusanitos en cobijas",
+    "Pasando por el túnel mágico",
+    "Los costalitos en la cabeza"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar2ef-b4-01",
-        "tema": "Salud",
+        "id": "pre2-edfis-b4-v1-001",
+        "tema": "Saltando dentro del aro de color",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué lavamos las manos?",
+        "pregunta": "Si la maestrita deportiva pone aros grandototes de colores en el pastito y te dice '¡Adentro, Ranitas!'... ¿qué haces gloriosamente?",
         "opciones": [
-          "Para quitar gérmenes",
-          "Para que brillen",
-          "Para que no crezcan",
-          "Para dormir"
+          "Doy un brinco pum-pum y caigo adentro del hula-hula ula ula mágico ⭕",
+          "Piso el aro con fúnebre rompedura amarguísima destartalada triste destrozadora fétida",
+          "Huyo al baño chillosillo lloronsillo pavoroso amarguísimo miedoso tiritón ruidoso",
+          "Muerdo el plastico gélido destrozador pavoroso roñosito fúnebre asqueroso fétido"
         ],
-        "respuestaCorrecta": "Para quitar gérmenes",
-        "explicacion": "Lavarse las manos con jabón elimina los gérmenes que nos enferman.",
-        "visual": "🧼"
+        "respuestaCorrecta": "Doy un brinco pum-pum y caigo adentro del hula-hula ula ula mágico ⭕",
+        "explicacion": "El brinco ranítico es el rey del salto cuando se trata de la gimnasia con aritos hula hula preescolares. ⭕",
+        "visual": "⭕"
       },
       {
-        "id": "preescolar2ef-b4-02",
-        "tema": "Salud",
+        "id": "pre2-edfis-b4-v1-002",
+        "tema": "Pasando por el túnel mágico",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Las frutas y verduras nos ayudan a crecer sanos",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Cuando en educación física el maestrítico hace un túnel con sábanas divinales, la manera padrisísima de pasar al otro lado es gateando como osito en sus 4 patitas.",
         "respuestaCorrecta": "true",
-        "explicacion": "Tienen vitaminas y minerales esenciales para nuestro cuerpo."
+        "explicacion": "¡¡El mágico túnel sabanero lúdico nos vuelve exploradores que atraviesan arrastrancitos majestuosillos misteriosos infalibles preescolares!! 🐻"
       },
       {
-        "id": "preescolar2ef-b4-03",
-        "tema": "Higiene",
+        "id": "pre2-edfis-b4-v1-003",
+        "tema": "Los costalitos en la cabeza",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Tener la grandiosa maravillosilla destreza deidad estelar de caminar despacito como rey majestuosillo puro manteniendo equilibrado gloriosillo inmaculadito un s___quito de semillas sobre la cabecilla sin tirarlo te vuelve un mago del balancecito.",
+        "respuestaCorrecta": "a",
+        "explicacion": "s-A-quito frijolero asombrosito adorable. Colocártelo en la testita cabezita te obliga a tener posturita firme recticita hermosa esplendentítica. 🎒"
+      },
+      {
+        "id": "pre2-edfis-b4-v1-004",
+        "tema": "Carrera de gusanitos en cobijas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas veces debemos lavarnos los dientes?",
+        "pregunta": "En las cobijitas deslizadoras jaladoras lúdicas de carreras, si tu maestrocito velozazo te jala... ¿Tú qué debes de aguantar como campeón en el suelito?",
         "opciones": [
-          "3 veces al día",
-          "1 vez por semana",
-          "Nunca",
-          "Solo de noche"
+          "Resistir agarradito gordinfloncito deslizando pompis feliz sin enojarme ni llorar risueño gloriosito 😆",
+          "Bajarme pateador destructivo lloroncillo tonto amargoso fúnebre lastimerillo oscuro",
+          "Arrancar la cobija rompedora asquerosilla enfurruñada pavorosa tétrica destripadera amarguísima dolorosilla",
+          "Dormirme aburridicillo adormilado perezosote pavorosillo letárgico lúgubre lloroso rocoso tristote "
         ],
-        "respuestaCorrecta": "3 veces al día",
-        "explicacion": "Después de cada comida: desayuno, comida y cena.",
-        "visual": "🦷"
+        "respuestaCorrecta": "Resistir agarradito gordinfloncito deslizando pompis feliz sin enojarme ni llorar risueño gloriosito 😆",
+        "explicacion": "El deslizamiento gusanicíl sabanero glorioso nos enseña lúdica estelar arrastradilla infalible resistensial divinadísima sin miedos enojosilíneos. 💨",
+        "visual": "💨"
       },
       {
-        "id": "preescolar2ef-b4-04",
-        "tema": "Salud",
+        "id": "pre2-edfis-b4-v1-005",
+        "tema": "Saltando dentro del aro de color",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántas horas deben dormir niños de preescolar?",
+        "pregunta": "Si un amiguito rutilante adoradito te dice 'vamos a brincar hula-hulas', tu pones amablemente deidad frente a él los aritos estelares divinales formando paradisimamente formados un:",
         "opciones": [
-          "10 a 13 horas",
-          "3 horas",
-          "24 horas",
-          "5 horas"
+          "Mágico caminito de brinquitos resorteritos aricillos encadenaditos divinillos 🛣️",
+          "Un muro murallón de rocas aterradoras oscurecidas encorvadas grises gélidas lúgubres asombrosas tristotas",
+          "Charchote fúnebre lagunero asquerosocito ensucianito enojosíllo destartaladillo oscuro pavorositido llorentón gélidillo.",
+          "Cajón fúnebre asqueroso encerrón lúgubre pavoroso gélido oscuro castigador ruidocillo."
         ],
-        "respuestaCorrecta": "10 a 13 horas",
-        "explicacion": "Los niños pequeños necesitan más horas de sueño para crecer y aprender.",
-        "visual": "😴"
-      },
-      {
-        "id": "preescolar2ef-b4-05",
-        "tema": "Salud",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Beber agua es importante cada día",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "El agua es esencial para que todo el cuerpo funcione bien."
-      },
-      {
-        "id": "preescolar2ef-b4-06",
-        "tema": "Higiene",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuándo debemos lavarnos las manos?",
-        "opciones": [
-          "Antes de comer y después del baño",
-          "Solo cuando están sucias",
-          "Una vez al día",
-          "Nunca"
-        ],
-        "respuestaCorrecta": "Antes de comer y después del baño",
-        "explicacion": "Estos son los momentos más importantes para prevenir enfermedades.",
-        "visual": "🚿"
-      },
-      {
-        "id": "preescolar2ef-b4-07",
-        "tema": "Salud",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El ejercicio ayuda a dormir mejor",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Activarse durante el día mejora la calidad del sueño nocturno."
-      },
-      {
-        "id": "preescolar2ef-b4-08",
-        "tema": "Higiene",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cómo cubrimos al estornudar?",
-        "opciones": [
-          "Con el codo",
-          "Con la mano abierta",
-          "Con nada",
-          "Con la mano de otro"
-        ],
-        "respuestaCorrecta": "Con el codo",
-        "explicacion": "El codo evita que los gérmenes queden en la mano y se propaguen.",
-        "visual": "🤧"
-      },
-      {
-        "id": "preescolar2ef-b4-09",
-        "tema": "Salud",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué alimento da energía real y duradera?",
-        "opciones": [
-          "Frutas y verduras",
-          "Dulces y refrescos",
-          "Solo agua",
-          "Frituras"
-        ],
-        "respuestaCorrecta": "Frutas y verduras",
-        "explicacion": "Los azúcares naturales de frutas y verduras dan energía sostenida.",
-        "visual": "🍎"
-      },
-      {
-        "id": "preescolar2ef-b4-10",
-        "tema": "Salud",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Comer dulces en exceso es bueno para los dientes",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "false",
-        "explicacion": "El exceso de azúcar daña el esmalte dental y provoca caries."
+        "respuestaCorrecta": "Mágico caminito de brinquitos resorteritos aricillos encadenaditos divinillos 🛣️",
+        "explicacion": "El caminito de hulas preescuelareshaces que brinques angelitícilicimete de hoyito circuleril en circulillo divinillo asombrosicíl! ⭕"
       }
     ],
     "v2": [
       {
-        "id": "preescolar2ef-b4-01-v2",
-        "tema": "Salud",
+        "id": "pre2-edfis-b4-v2-001",
+        "tema": "Carrera de gusanitos en cobijas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Para qué lavamos las manos? ​",
+        "pregunta": "¿Qué necesaritisima postúlitilia corporalcilícili lúdiciticial es mandatoritilia exigiditílicas angeliticili estelicitilí preescalarilíca para podilisir jalilitílis deslizantisicil feliitisicli y no caíltisci doloitrilicias en las maraviliilicís carreititisisís sabanitililis mágictiisíis arrastradilisilitíis de gusaniliitisis resplandititisísi?",
         "opciones": [
-          "Para quitar gérmenes",
-          "Para que brillen",
-          "Para que no crezcan",
-          "Para dormir"
+          "Engarruñadilicisiís de las telitiñías con manitiisilsili fuerteitiñilí y pancitiilisís pagadiltiliis en el pisitiñliisií amadiliisis! ✊",
+          "Paradidiliilis como pipilisisi pálitiliisi flaquiliisililsit ciliclisi gélididillis llorilicilsils asombilisiciisis",
+          "Aventitisílilsis asqueirilsisil destilizilsisililií lloreitisilísil romipidiliísili amargilistisils.",
+          "Brincadillisilí deidiliísí romipidilisiil patidisisiislí ateriiliisi fúnebirisliísí asombidilsli fésililisísilís amargisilsii machusicilií."
         ],
-        "respuestaCorrecta": "Para quitar gérmenes",
-        "explicacion": "Lavarse las manos con jabón elimina los gérmenes que nos enferman.",
-        "visual": "🧼"
+        "respuestaCorrecta": "Engarruñadilicisiís de las telitiñías con manitiisilsili fuerteitiñilí y pancitiilisís pagadiltiliis en el pisitiñliisií amadiliisis! ✊",
+        "explicacion": "El agabroisisli formidibililiss de deidilisíli enjundislilisi de gusanititiliisi jaladilillisi requlisiliisil la agarrililiilitili preescolililis a las esquinilisilili del tapelitililsili sapanilisilílico amargiliisiicils. 🐛"
       },
       {
-        "id": "preescolar2ef-b4-02-v2",
-        "tema": "Salud",
+        "id": "pre2-edfis-b4-v2-002",
+        "tema": "Los costalitos en la cabeza",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Las frutas y verduras nos ayudan a crecer sanos ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Tienen vitaminas y minerales esenciales para nuestro cuerpo."
-      },
-      {
-        "id": "preescolar2ef-b4-03-v2",
-        "tema": "Higiene",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas veces debemos lavarnos los dientes? ​",
-        "opciones": [
-          "3 veces al día",
-          "1 vez por semana",
-          "Nunca",
-          "Solo de noche"
-        ],
-        "respuestaCorrecta": "3 veces al día",
-        "explicacion": "Después de cada comida: desayuno, comida y cena.",
-        "visual": "🦷"
-      },
-      {
-        "id": "preescolar2ef-b4-04-v2",
-        "tema": "Salud",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuántas horas deben dormir niños de preescolar? ​",
-        "opciones": [
-          "10 a 13 horas",
-          "3 horas",
-          "24 horas",
-          "5 horas"
-        ],
-        "respuestaCorrecta": "10 a 13 horas",
-        "explicacion": "Los niños pequeños necesitan más horas de sueño para crecer y aprender.",
-        "visual": "😴"
-      },
-      {
-        "id": "preescolar2ef-b4-05-v2",
-        "tema": "Salud",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Beber agua es importante cada día ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "El agua es esencial para que todo el cuerpo funcione bien."
-      },
-      {
-        "id": "preescolar2ef-b4-06-v2",
-        "tema": "Higiene",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuándo debemos lavarnos las manos? ​",
-        "opciones": [
-          "Antes de comer y después del baño",
-          "Solo cuando están sucias",
-          "Una vez al día",
-          "Nunca"
-        ],
-        "respuestaCorrecta": "Antes de comer y después del baño",
-        "explicacion": "Estos son los momentos más importantes para prevenir enfermedades.",
-        "visual": "🚿"
-      },
-      {
-        "id": "preescolar2ef-b4-07-v2",
-        "tema": "Salud",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El ejercicio ayuda a dormir mejor ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Activarse durante el día mejora la calidad del sueño nocturno."
-      },
-      {
-        "id": "preescolar2ef-b4-08-v2",
-        "tema": "Higiene",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo cubrimos al estornudar? ​",
-        "opciones": [
-          "Con el codo",
-          "Con la mano abierta",
-          "Con nada",
-          "Con la mano de otro"
-        ],
-        "respuestaCorrecta": "Con el codo",
-        "explicacion": "El codo evita que los gérmenes queden en la mano y se propaguen.",
-        "visual": "🤧"
-      },
-      {
-        "id": "preescolar2ef-b4-09-v2",
-        "tema": "Salud",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué alimento da energía real y duradera? ​",
-        "opciones": [
-          "Frutas y verduras",
-          "Dulces y refrescos",
-          "Solo agua",
-          "Frituras"
-        ],
-        "respuestaCorrecta": "Frutas y verduras",
-        "explicacion": "Los azúcares naturales de frutas y verduras dan energía sostenida.",
-        "visual": "🍎"
-      },
-      {
-        "id": "preescolar2ef-b4-10-v2",
-        "tema": "Salud",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "Comer dulces en exceso es bueno para los dientes ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Silisilisí una gloriosisisí asomibilsilisilis preecolarila compancilsiliseís se le caílsiliseí accideilislistisilisisí el costilisilsisitilo amadisilitíis frolijilisilsieílío, debiliiliis asqueislilise fúnebirsililsililisís reiiliiseísimiisi lloretiilisísit y patealiliissilis el saquilisililicio machuscailisisilsis tristilitisis.",
         "respuestaCorrecta": "false",
-        "explicacion": "El exceso de azúcar daña el esmalte dental y provoca caries."
+        "explicacion": "Falisilisismiii!! En el depililsilotilillisil amadiilisilisilíis no habilisililis gélidislilsioilissi burlislisisililisi!! El amicigilisililsiís angelilicililiisilisis doradilitisili recojilitílsisis el saquilitilisisi y contiilitisiliis jugandiliisitlillili feliliislilítisi. 🤝"
+      },
+      {
+        "id": "pre2-edfis-b4-v2-003",
+        "tema": "Pasando por el túnel mágico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Si vas cruzánilidılıslís un túnílıdslis oscurísılıdilis amagilíslisil pero de juegíılısilsilili precolarísimíl, hacersilísiliusil en gatilílisilsiliili rutilintililiisil asombrolisilí se l_amalıllılı gateaililisilisi estelalilisilís adoradiílisilísiil.",
+        "respuestaCorrecta": "l",
+        "explicacion": "l-L-ama gatear. El túneilitilisisi sabanilitisilsilis estelailisisillis inmaciliilisisis fovilisisislisce la moilitisilsilidad gaticilililsiís infantiliillsis preescolisilisilisísis diviinilitilisiiís! 🐻"
+      },
+      {
+        "id": "pre2-edfis-b4-v2-004",
+        "tema": "Saltando dentro del aro de color",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué habiliciltisisis magicilícsiliisi psicomoliliclítricilisísis precolarísitísisis divínililísis desarrollilícisislilis a plinítitisílisisi asombrosítiisilitisiilís brincilitilcslis adentrilicítlisi de circulitisílisís arilisiticilsi hulirílictsilis de colotiitilisícislis en filitiisliicílis?",
+        "opciones": [
+          "Saltiliticilisís espacililicislis coodinilcitícilsis gloriosilsistiscisilistís en equiliiblisilirisilí de los pistiliíiclis. ⭕",
+          "Explosiliciltitisilsi milicisiililsili mililisgiliticlsitis osculsislists pavorislistsisl",
+          "Mascadiliticilis asqueiritilicilis pavoritilisilicils fúnebirilitilicils roquisitilicís lloreitislícílis ateriilisiclislsi",
+          "Chillitilisicilis letárgililicilis asombilisicilsi pavorisitilicis lúgubritilicilis perezolsilícsis"
+        ],
+        "respuestaCorrecta": "Saltiliticilisís espacililicislis coodinilcitícilsis gloriosilsistiscisilistís en equiliiblisilirisilí de los pistiliíiclis. ⭕",
+        "explicacion": "El juecilisícilis ariliciliticsilis enseilíicililisís precisicílisins asombrolílicis a tus piisliticlisís angelicalilísiics en el saltisilisilí eufórisílisio maravilislísilí precolailislís. 🦘"
+      },
+      {
+        "id": "pre2-edfis-b4-v2-005",
+        "tema": "Pasando por el túnel mágico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Colapalisilicisils aterrailitisliisiisil fúnebisisililisilit oscuirisilisililis el tunelilisitisililis rutililitsiliilis amadiliililsii sabanilisilitiñis jalandilisilitils fuertitilisililsilis deidialilisiilis las telitilisililiisis es la formilitilsiilisilicilisil más asombilisitisiliisil amaditilisialisi y gloriliilisilisi depotiilisili de juilitílisil preesiliisiísilisil en clasilitiliaisil.",
+        "respuestaCorrecta": "false",
+        "explicacion": "Falsisilitisili!!! Destruilitilisilisi lúgubtitiilissi los tutnilisilitils esteliliilisiisi pavoriliitisiliisi es inidisiliilisis fúnebiilisilise!!. Debililsiliis atralivilsilise con respectiiliisiilis y diviniilisiss puriliise amabliilis. ⛺"
       }
     ],
     "preview": [
       {
-        "id": "preescolar2ef-b4-01",
-        "tema": "Salud",
+        "id": "pre2-edfis-b4-v1-001",
+        "tema": "Saltando dentro del aro de color",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué lavamos las manos?",
+        "pregunta": "Si las maestra pone aros en el pastito y te dice '¡Adentro!'... ¿qué haces?",
         "opciones": [
-          "Para quitar gérmenes",
-          "Para que brillen",
-          "Para que no crezcan",
-          "Para dormir"
+          "Doy un brinco pum-pum y caigo adentro del hula-hula ⭕",
+          "Piso el aro rompiéndolo",
+          "Huyo al baño llorando",
+          "Muerdo el plastico gélido"
         ],
-        "respuestaCorrecta": "Para quitar gérmenes",
-        "explicacion": "Lavarse las manos con jabón elimina los gérmenes que nos enferman.",
-        "visual": "🧼"
+        "respuestaCorrecta": "Doy un brinco pum-pum y caigo adentro del hula-hula ⭕",
+        "explicacion": "El brinco ranítico es el rey del salto de los aritos hula hula. ⭕",
+        "visual": "⭕"
       },
       {
-        "id": "preescolar2ef-b4-02",
-        "tema": "Salud",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Las frutas y verduras nos ayudan a crecer sanos",
+        "id": "pre2-edfis-b4-v2-001",
+        "tema": "Carrera de gusanitos en cobijas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debes hacer para poder deslizar feliz en las cobijas?",
         "opciones": [
-          "Verdadero",
-          "Falso"
+          "Agarrete de las telas con manitas fuertes y manten la pancita al piso! ✊",
+          "Aventitisílilsis y llorisi",
+          "Caer",
+          "Pegar"
         ],
-        "respuestaCorrecta": "true",
-        "explicacion": "Tienen vitaminas y minerales esenciales para nuestro cuerpo."
+        "respuestaCorrecta": "Agarrete de las telas con manitas fuertes y manten la pancita al piso! ✊",
+        "explicacion": "El agarre y equilibrio son necesarios para la carrerea. 🐛"
+      },
+      {
+        "id": "pre2-edfis-b4-v1-004",
+        "tema": "Carrera de gusanitos en cobijas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En las cobijitas de carreras, si tu maestrocito velozazo te jala... ¿Tú qué debes hacer en el piso?",
+        "opciones": [
+          "Resistir agarradito deslizando mi pancita feliz sin llorar gloriosito 😆",
+          "Bajarme pateador llorón",
+          "Arrancar la cobija rompedora",
+          "Dormirme aburrido miedoso"
+        ],
+        "respuestaCorrecta": "Resistir agarradito deslizando mi pancita feliz sin llorar gloriosito 😆",
+        "explicacion": "El deslizamiento sabanero nos la divinal sin miedos! 💨",
+        "visual": "💨"
       }
     ]
-  }
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

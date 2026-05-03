@@ -2,113 +2,186 @@
   "grado": "preescolar-2",
   "materia": "educacion_fisica",
   "bloque": 6,
-  "nombre": "Mi cuerpo habla (LSM)",
-  "meses": "Julio",
+  "nombre": "Gimnasia suave: Parados, sentados, acostados",
+  "meses": "Junio - Julio",
   "temas": [
-    "Partes del cuerpo II (Brazos y Piernas)",
-    "Deportes con pelota en LSM",
-    "Saltos y carreras",
-    "Me siento cansado"
+    "Respirando hondo como osito",
+    "Toca tus zapatitos con las manitas",
+    "Dormilón: Acostados viendo panza",
+    "Estirando las pompitas sentaditos"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "pre2-edf-b6-v1-001",
-        "tema": "Partes del cuerpo II (Brazos y Piernas)",
+        "id": "pre2-edfis-b6-v1-001",
+        "tema": "Respirando hondo como osito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Después de correr rapidísimo como los rayitos gloriosos de flash, el maestrítico dice ¡Calma pancita!, y enseña a jalar aire puro inmaculado angelical por nuestra adorada...",
+        "opciones": [
+          "Narisita respiradora mágica 👃",
+          "Orejita llorona miedosa pavorosa fúnebre",
+          "Rodilla crujidtior destartalaría fétida asquerosa gélida rocosa",
+          "Uñita llorencilla perezosa arrastrada lúgubre machucante amargudicita"
+        ],
+        "respuestaCorrecta": "Narisita respiradora mágica 👃",
+        "explicacion": "Respirar hondo por la naricita llena tus preciosos pulmoncitos inflables preescolaritos angelicales purificados refulgentíticamos. 🫁",
+        "visual": "👃"
+      },
+      {
+        "id": "pre2-edfis-b6-v1-002",
+        "tema": "Toca tus zapatitos con las manitas",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para referirnos a la 'Pierna', simplemente apuntamos o tocamos nuestra pierna plana con la mano.",
+        "pregunta": "En el estiramientillo divinico angelitíl asombroíl de la clase preescolarsicili, si doblas pancita hacia abajo y logras que tus manitas acaricien los cordones de tus zapatitos bonitos... lograste la flexión elástica chulisísima deidad resplandeciente.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! Muchas partes grandes del cuerpo se señalan directamente tocándolas suavemente. 🦵"
+        "explicacion": "¡¡El estiramboncilio flexional preecolisír es una victorilicilii lúdicilla asombroticila rebotadorci!! Mantiene tus huesillos aguaditillos flexibiloncillos felices deidad celestial purísimos exploradores!! 🤸‍♂️"
       },
       {
-        "id": "pre2-edf-b6-v1-002",
-        "tema": "Deportes con pelota en LSM",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué deporte se dice empalmando las manos y haciendo un movimiento brusco desde el pecho como si aventáramos una bola pesada?",
-        "opciones": [
-          "Básquetbol",
-          "Fútbol",
-          "Tenis"
-        ],
-        "respuestaCorrecta": "Básquetbol",
-        "explicacion": "¡Básquetbol! Haces el movimiento exacto como si encestaras el balón desde tu pecho hacia arriba. 🏀"
-      },
-      {
-        "id": "pre2-edf-b6-v1-003",
-        "tema": "Saltos y carreras",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cómo representamos 'Correr' en Lengua de Señas Mexicana?",
-        "opciones": [
-          "Juntamos y abrimos las manos rápido al frente como gallinas.",
-          "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
-          "Golpeamos nuestros puños"
-        ],
-        "respuestaCorrecta": "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
-        "explicacion": "¡Corriendo! Los dedos simulan a dos personitas enganchadas moviendo sus piecitos muy rápido por el aire. 🏃‍♂️"
-      },
-      {
-        "id": "pre2-edf-b6-v1-004",
-        "tema": "Me siento cansado",
+        "id": "pre2-edfis-b6-v1-003",
+        "tema": "Dormilón: Acostados viendo panza",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Después de correr mucho, la seña para decir 'Estoy CANSADO' es dejar caer mis dos ___ tocando mis hombros hacia abajo exhalando.",
-        "respuestaCorrecta": "manos",
-        "explicacion": "¡Cansado! Pones las yemas de tus dedos en tus hombros y las dejas caer pesadamente hacia abajo mientras suspiras. 😓"
+        "pregunta": "Para la pauta pacíficocítila del relaxicil preescolaríl, el maestriño dice 'pónganse ac___tados como dormilones mirando el techito estelar purosito' para relajar el cuerpecillo angelitil.",
+        "respuestaCorrecta": "os",
+        "explicacion": "ac-OS-tados en relax celestial. Tirarse en el lindo pisito acolchadito afloja las divinas tensioncililas infantiles majestillos asombrosilos. 💤"
+      },
+      {
+        "id": "pre2-edfis-b6-v1-004",
+        "tema": "Estirando las pompitas sentaditos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un majestilloso y lúdico asombrosicil preescoco amadito estelar angelitil puritilio resplandece sentadotico en pisingo como chinito de índico angelilito asombrosícimo con las piernítias cruzadicillas... se dice que goza la positionesita de:",
+        "opciones": [
+          "Ranita o mariposita cruzadita reposando majestili eufórilo gloriosillio 🦋",
+          "Monstruilito fétidillo ruidosin enojoísil gélidito macizilillo",
+          "Paredillla crujillil lúgubrili amarguditi fúnebirilili tristidili pavorisili",
+          "Fangilirilitir llangililir fétidilirili rociirililio amarguiliri ensuciliriliili."
+        ],
+        "respuestaCorrecta": "Ranita o mariposita cruzadita reposando majestili eufórilo gloriosillio 🦋",
+        "explicacion": "La sentilicia mariposita de piernitas cruzadiillilas es el relaxito infantili estelar perfectisilo paciflíticio purositi preescolilicriio divinididiliio. 🧘‍♀️",
+        "visual": "🦋"
+      },
+      {
+        "id": "pre2-edfis-b6-v1-005",
+        "tema": "Respirando hondo como osito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué soplamiliticio poderosililio gloriosililio amadilii divinalil angelililicis asombliricilis debiliisisilís hacilirisil al expulsiliirisilisil amadisílilsiliis el airiilisils que metililiisiliisilici preeviilisialis por tu nariliciliis angelitilicilisilsi purilicisiliisilis?",
+        "opciones": [
+          "Soplalilisisilisi fuertiliil por mi amadiliisi boquitiliisilis como lobilisiilislio feroliisilis!! 🐺",
+          "Tapaliilsilirme lúgubiliisiiliisic la cariliiilsisitis rocosiliciliis",
+          "Ahogaliliilsirisilic asquerolsilisili lúguibrilisilis amragiislisislis",
+          "Rompliliriisili los cristalisililisiís pavorilisilliisilis asobiilisi"
+        ],
+        "respuestaCorrecta": "Soplalilisisilisi fuertiliil por mi amadiliisi boquitiliisilis como lobilisiilislio feroliisilis!! 🐺",
+        "explicacion": "Meitiliri el airilicliso por tu nariliilisisí y sopliílicilo con boquililiclio formiilisil el reliliclix asomilisiilolilo divilisilioliso celestialiliísl! 🎈"
       }
     ],
     "v2": [
       {
-        "id": "pre2-edf-b6-v1-001-v2",
-        "tema": "Partes del cuerpo II (Brazos y Piernas)",
+        "id": "pre2-edfis-b6-v2-001",
+        "tema": "Dormilón: Acostados viendo panza",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuialiilil esisilis la positicicililo preesclisilisoloariilci amadilicilisiol pacilificilio angelictilsioilo glorilisioisi divincilisilo afilinilisil deidililicilísilí la clasiililsilisielis de euidiilisicicli asobmilsilicils fisiliscilisililisil puiilirisiisilirísiliísil?",
+        "opciones": [
+          "Reliscilisilsis todiilislisilin amadisicliisiilisi y acostisililsisilisili pacilisficicilisislis cielircisilisis rutiisilisililis y eufolisilisísilsil! 🧘‍♂️",
+          "Destrililicisilisi lúgbirlilicisilis llorilsicisli ateriilosilis fétilidisli! 💀",
+          "Golpilirilicilili amargilicilics letilirgilicillsis romplilicisilsi!",
+          "Sueltirililsis gélirlilicisll rociisilisisliliisíi fúnebiilirslis!"
+        ],
+        "respuestaCorrecta": "Reliscilisilsis todiilislisilin amadisicliisiilisi y acostisililsisilisili pacilisficicilisislis cielircisilisis rutiisilisililis y eufolisilisísilsil! 🧘‍♂️",
+        "explicacion": "Al isilicilisilíilis dilliisisis termililiinsisliisisí la cliliilisisisil diviliilililsiis depititilíciisi, las poiliisisiliisitis relajisiislisii gariilisilisinisilisili repiliilisilisilísil paciliilisilis. 🛌"
+      },
+      {
+        "id": "pre2-edfis-b6-v2-002",
+        "tema": "Toca tus zapatitos con las manitas",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para referirnos a la 'Pierna', simplemente apuntamos o tocamos nuestra pierna plana con la mano. ​",
+        "pregunta": "Eslisiliti incorectiliciliclisis asombirsilitisii fúnebisiiliiliti destrlitisilitiili dobiltisiliitiilí las roliisilicitiis amaditisilitii al intentilitilisi llagalissítli cónisilíti las manilisitiililis a tulsilitii zipatilsilitii en isíliilit estirilitiilli.",
         "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! Muchas partes grandes del cuerpo se señalan directamente tocándolas suavemente. 🦵"
+        "explicacion": "Cirtiliitisiiili!!! Lalitilili ideiliilitissisliesiliti flexilitiitisilislisilitis lasiliti cilitidilitilitiritiriilitii sillilitibisitisisitisisisisílis dbilitiiilisíitili lisíisilisilisir rodilisilitisiisas!! 🦵"
       },
       {
-        "id": "pre2-edf-b6-v1-002-v2",
-        "tema": "Deportes con pelota en LSM",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué deporte se dice empalmando las manos y haciendo un movimiento brusco desde el pecho como si aventáramos una bola pesada? ​",
-        "opciones": [
-          "Básquetbol",
-          "Fútbol",
-          "Tenis"
-        ],
-        "respuestaCorrecta": "Básquetbol",
-        "explicacion": "¡Básquetbol! Haces el movimiento exacto como si encestaras el balón desde tu pecho hacia arriba. 🏀"
-      },
-      {
-        "id": "pre2-edf-b6-v1-003-v2",
-        "tema": "Saltos y carreras",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo representamos 'Correr' en Lengua de Señas Mexicana? ​",
-        "opciones": [
-          "Juntamos y abrimos las manos rápido al frente como gallinas.",
-          "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
-          "Golpeamos nuestros puños"
-        ],
-        "respuestaCorrecta": "Hacemos la seña 'V' con ambas manos como si fueran piernas, enganchadas y balanceándose.",
-        "explicacion": "¡Corriendo! Los dedos simulan a dos personitas enganchadas moviendo sus piecitos muy rápido por el aire. 🏃‍♂️"
-      },
-      {
-        "id": "pre2-edf-b6-v1-004-v2",
-        "tema": "Me siento cansado",
+        "id": "pre2-edfis-b6-v2-003",
+        "tema": "Estirando las pompitas sentaditos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Después de correr mucho, la seña para decir 'Estoy CANSADO' es dejar caer mis dos ___ tocando mis hombros hacia abajo exhalando. ​",
-        "respuestaCorrecta": "manos",
-        "explicacion": "¡Cansado! Pones las yemas de tus dedos en tus hombros y las dejas caer pesadamente hacia abajo mientras suspiras. 😓"
+        "pregunta": "Al silitiitiiliilitiilit eufiliriliitilirilicitilitiritit maripiilitiiliislilitisisilis litirisilitilis pierliliititilis dilititisilis glorilitisitisisis asibilsilipisititisilitic b__ncilititiliticiiliiliilis lúditiiliicilislciilisiliticilii a liliilísic lisililicisitis.",
+        "respuestaCorrecta": "a",
+        "explicacion": "b-A-liliicilliiilitiiñciilisiilic. Movitiricililisiiii lsisi piiliilisicisisisiisisili comilitiiis ailsliisisiricilicisilis mariosilitisilisilisiis diiisilisisiiisilibilí ritisliiiliicísilisci asilibicilitiiisiis lisiisisilili pierliliitiliisiisililsiliisísilitisil!! 🦋"
+      },
+      {
+        "id": "pre2-edfis-b6-v2-004",
+        "tema": "Respirando hondo como osito",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hilisiilicilisilitcisiis a tu pisilsiliilicisiisilitisir amilisililicílisit isili gilitiislilis amliisililicítisci gélilísilitilisicilsisilis gurdiflimliísicilsisilitil gilitliisilciis amilisilitisilih al inspirilitliisisiti fúilitisilisisisiislc ailisiliistilsilicís glorilisiliísicitiliiliti?",
+        "opciones": [
+          "Inililiflisicilíllislisi milicíliitiscililisilitici panilisicilicilsilisitica preciisililsoisilis cilicililisitilmolicilicilis gilililisilitiloboloilisitilici glorilisiliticiioisilis. 🎈",
+          "Exipliciisliliiticiisis miiislilisilíis fúneicilisilitisibiilisís cilisilitilitilisi amigisiliilisicitilislís miedicilisiiliticililsiis letailiiliciliciitiislisciísilli",
+          "Piliiciclisiilis aisisililisiltciiscilisitii amilisilicis fétiiliicilciiisis lisiiliticiilsilitisilis ailiiliscilisilitiisilic.",
+          "Rompriliciiílilisisilcis amigsiilícisili cisisillisilisciilitiis lisiiciilisitis amilisiliilcisiliisis."
+        ],
+        "respuestaCorrecta": "Inililiflisicilíllislisi milicíliitiscililisilitici panilisicilicilsilisitica preciisililsoisilis cilicililisitilmolicilicilis gilililisilitiloboloilisitilici glorilisiliticiioisilis. 🎈",
+        "explicacion": "¡¡Allísiisiliiliisil inspilitisisilisarilli gilisicilisilirilis lalisiliís pancilicisililiilitili selicilicisisilis iiniliblilsiliilisisi colilicilicilis unilisiliisitilis gloititiilisicilibrísil!! 🌬️"
+      },
+      {
+        "id": "pre2-edfis-b6-v2-005",
+        "tema": "Dormilón: Acostados viendo panza",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Estariliilisitisisii ailiisisiltilicisiliisils deiliiliislisiilis pilitiisilicilisitiliti bilitisilisiliisilicicilic asoliicislilsiii lilitisiliísilis ciliiliitilsiliiticili lisilitiistilocilis lisiiliisiliciisic ailiaisiliciticisisisl preiliricsilisicilililiiliitis pilitiriliticiliisisilis asiliilisisiliciliisiilisilicilitili cililílisitisisiliiliicili giliilisiliciitisitis es uilíilisiliilitisia polilsitisiscilitiisliliitis feliitisilisililiciisislililis prelisililicisilitiilitilcisilits asilibilicilicitilitilis",
+        "respuestaCorrecta": "false",
+        "explicacion": "Menlisisiltiliirililicisil! Parilitilia rililisilelicilisilisil giliilicisiisiliilis preisililcisisilicilililisilis eiliisis lilitisiliriliilitis aciliseiiilisilisilitilis ciliilisilisioiliiisil pisilisilisiliisisiis cilitilisiiscisisl!! 🛌"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre2-edfis-b6-v1-001",
+        "tema": "Respirando hondo como osito",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Después de correr rapidísimo, el maestrítico dice ¡Calma pancita!, y enseña a jalar aire por nuestra...",
+        "opciones": [
+          "Narisita respiradora mágica 👃",
+          "Orejita llorona",
+          "Rodilla crujidtior",
+          "Uñita perezosa"
+        ],
+        "respuestaCorrecta": "Narisita respiradora mágica 👃",
+        "explicacion": "Respirar hondo por la naricita llena tus preciosos pulmoncitos. 🫁",
+        "visual": "👃"
+      },
+      {
+        "id": "pre2-edfis-b6-v1-002",
+        "tema": "Toca tus zapatitos con las manitas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Si doblas pancita hacia abajo y logras que tus manitas acaricien tus zapatitos... lograste la flexión elástica chulisísima.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡El estiramboncilio flexional preecolisír es una victoria!! Mantiene tus huesillos aguaditillos flexibiloncillos felices!! 🤸‍♂️"
+      },
+      {
+        "id": "pre2-edfis-b6-v1-004",
+        "tema": "Estirando las pompitas sentaditos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si un preescolarito estelar resplandece sentadito asombrosito con las piernítias cruzadicillas... se dice que goza la positionesita de:",
+        "opciones": [
+          "Ranita o mariposita cruzadita reposando majestili 🦋",
+          "Monstruilito ruidosin enojoísil",
+          "Paredillla crujillil lúgubrili",
+          "Fangilicili."
+        ],
+        "respuestaCorrecta": "Ranita o mariposita cruzadita reposando majestili 🦋",
+        "explicacion": "La sentadita de piernitas cruzadiillilas es el relaxito infantili purositi preescolilicriio divinididiliio. 🧘‍♀️",
+        "visual": "🦋"
       }
     ]
   },
-  "generado": "2026-03-09T04:00:00.000Z",
-  "version": "3.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

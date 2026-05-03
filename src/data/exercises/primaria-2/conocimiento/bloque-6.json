@@ -1,104 +1,27 @@
 {
-  "grado": "primaria-2",
-  "materia": "conocimiento",
-  "bloque": 6,
-  "nombre": "Mi entorno se comunica (LSM)",
-  "meses": "Julio",
-  "temas": [
-    "El Campo y la Ciudad",
-    "Oficios avanzados en LSM",
-    "El clima y la naturaleza",
-    "Cuidado del agua"
-  ],
-  "totalEjercicios": 10,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "p2-con-b6-v1-001",
-        "tema": "El Campo y la Ciudad",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "En LSM, la seña para 'CIUDAD' se hace mostrando muchos edificios: pones las palmas frente a ti y las levantas varias veces formando torres imaginarias.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! La ciudad se caracteriza por los edificios, así que la seña imita las alturas de los rascacielos frente a ti. 🏙️"
-      },
-      {
-        "id": "p2-con-b6-v1-002",
-        "tema": "Oficios avanzados",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cómo decimos 'MAESTRO' o 'MAESTRA' en LSM?",
-        "opciones": [
-          "Ponemos ambas manos en forma de letra 'M' y las movemos desde la cabeza hacia adelante (compartiendo conocimiento).",
-          "Escribimos en un pizarrón imaginario.",
-          "Hacemos la seña de un libro abriéndose."
-        ],
-        "respuestaCorrecta": "Ponemos ambas manos en forma de letra 'M' y las movemos desde la cabeza hacia adelante (compartiendo conocimiento).",
-        "explicacion": "¡Muy bien! Se usan las letras 'M' (inicializada) que salen de la sien (la mente) hacia adelante. Significa literalmente 'el que saca el conocimiento y lo comparte'. 👩‍🏫"
-      },
-      {
-        "id": "p2-con-b6-v1-003",
-        "tema": "El clima y la naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "Para la seña de 'LLUVIA', levantamos ambas manos con los dedos ___ y los bajamos moviéndolos como si fueran las gotas cayendo del cielo.",
-        "respuestaCorrecta": "abiertos",
-        "explicacion": "¡Correcto! Los dedos abiertos apuntando hacia abajo y moviéndose muestran perfectamente cómo caen las gotas de lluvia. 🌧️"
-      },
-      {
-        "id": "p2-con-b6-v1-004",
-        "tema": "Cuidado del agua",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "La seña de 'AGUA' se hace con el dedo índice frotando la nariz.",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! Para decir 'AGUA' formamos la letra 'A' con la mano y tocamos el mentón (o la boca) un par de veces, no la nariz. 💧"
-      }
+  "grado":"primaria-2","materia":"conocimiento","bloque":6,"nombre":"Cuidemos nuestro planeta","meses":"Junio - Julio",
+  "temas":["Reducir, reusar y reciclar","Contaminación del aire y agua","Los recursos naturales de México","Acciones para cuidar el medio ambiente"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri2-con-b6-v1-001","tema":"Reducir, reusar y reciclar","tipo":"multiple_choice","nivel":"v1","pregunta":"Angelical ecologín estelar, las tres R mágicas para cuidar el planeta son purísimamente...","opciones":["¡R-E-D-U-C-I-R, R-E-U-S-A-R y R-E-C-I-C-L-A-R para salvar al planeta! ♻️🌍","Destrozadoras monstruosidades zoológicas miedosas.","Romper los dolorosos cálculos frígidos sombríos.","Las fétidas máquinas lloronas gélidas abismales."],"respuestaCorrecta":"¡R-E-D-U-C-I-R, R-E-U-S-A-R y R-E-C-I-C-L-A-R para salvar al planeta! ♻️🌍","explicacion":"Las 3R: usar menos, volver a usar y transformar la basura en cosas nuevas. ♻️🌍","visual":"♻️🌍"},
+      {"id":"pri2-con-b6-v1-002","tema":"Contaminación del aire y agua","tipo":"true_false","nivel":"v1","pregunta":"Tirar basura en los ríos purísimos es maravillosísimamente bueno para los pececitos y el agua.","respuestaCorrecta":"false","explicacion":"¡¡Falsooo falso!! Tirar basura al agua la contamina y enferma a los pececitos y a nosotros. ¡Nunca tires basura al río! 🚫🐟"},
+      {"id":"pri2-con-b6-v1-003","tema":"Los recursos naturales de México","tipo":"fill_blank","nivel":"v1","pregunta":"El agua, los bosques y los minerales son R-E-C-U-R-S-O-S N-A-T-U-R-A-L-E-____ que la naturaleza nos regala.","respuestaCorrecta":"S","explicacion":"¡S!. ¡RECURSOS NATURALES! Son los regalos de la Tierra que debemos cuidar. 🌳💎"},
+      {"id":"pri2-con-b6-v1-004","tema":"Acciones para cuidar el medio ambiente","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál de estas acciones cuida estelarmente al medio ambiente y al planeta?","opciones":["¡Apagar las luces cuando sales del cuarto para ahorrar energía! 💡🌱","Hundan las dolorosas amarguras fúnebres.","Romper los basureros gélidos de charcos.","Las máquinas miedosas tristes de lodos."],"respuestaCorrecta":"¡Apagar las luces cuando sales del cuarto para ahorrar energía! 💡🌱","explicacion":"Ahorrando luz cuidamos los recursos y al planeta. ¡Cada acción cuenta! 💡🌱"},
+      {"id":"pri2-con-b6-v1-005","tema":"Reducir, reusar y reciclar","tipo":"multiple_choice","nivel":"v1","pregunta":"Si usas una botella de plástico para hacer una maceta, ¿cuál de las tres R estás aplicando?","opciones":["¡R-E-U-S-A-R porque le das un nuevo uso a algo que ya iba a la basura! 🍶🌺","Calculadoras fúnebres de destrozos.","Las tristes destrozadoras de sombra.","Llorándonos charcos fúnebre amargo."],"respuestaCorrecta":"¡R-E-U-S-A-R porque le das un nuevo uso a algo que ya iba a la basura! 🍶🌺","explicacion":"Reusar = darle nueva vida a las cositas antes de tirarlas. 🍶🌺"}
     ],
-    "v2": [
-      {
-        "id": "p2-con-b6-v1-001-v2",
-        "tema": "El Campo y la Ciudad",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "En LSM, la seña para 'CIUDAD' se hace mostrando muchos edificios: pones las palmas frente a ti y las levantas varias veces formando torres imaginarias. ​",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Exacto! La ciudad se caracteriza por los edificios, así que la seña imita las alturas de los rascacielos frente a ti. 🏙️"
-      },
-      {
-        "id": "p2-con-b6-v1-002-v2",
-        "tema": "Oficios avanzados",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cómo decimos 'MAESTRO' o 'MAESTRA' en LSM? ​",
-        "opciones": [
-          "Ponemos ambas manos en forma de letra 'M' y las movemos desde la cabeza hacia adelante (compartiendo conocimiento).",
-          "Escribimos en un pizarrón imaginario.",
-          "Hacemos la seña de un libro abriéndose."
-        ],
-        "respuestaCorrecta": "Ponemos ambas manos en forma de letra 'M' y las movemos desde la cabeza hacia adelante (compartiendo conocimiento).",
-        "explicacion": "¡Muy bien! Se usan las letras 'M' (inicializada) que salen de la sien (la mente) hacia adelante. Significa literalmente 'el que saca el conocimiento y lo comparte'. 👩‍🏫"
-      },
-      {
-        "id": "p2-con-b6-v1-003-v2",
-        "tema": "El clima y la naturaleza",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Para la seña de 'LLUVIA', levantamos ambas manos con los dedos ___ y los bajamos moviéndolos como si fueran las gotas cayendo del cielo. ​",
-        "respuestaCorrecta": "abiertos",
-        "explicacion": "¡Correcto! Los dedos abiertos apuntando hacia abajo y moviéndose muestran perfectamente cómo caen las gotas de lluvia. 🌧️"
-      },
-      {
-        "id": "p2-con-b6-v1-004-v2",
-        "tema": "Cuidado del agua",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "La seña de 'AGUA' se hace con el dedo índice frotando la nariz. ​",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! Para decir 'AGUA' formamos la letra 'A' con la mano y tocamos el mentón (o la boca) un par de veces, no la nariz. 💧"
-      }
+    "v2":[
+      {"id":"pri2-con-b6-v2-001","tema":"Reducir, reusar y reciclar","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí t tr re es s_ R R_ m má ág gi ic ca as s_ p pa ar ra a_ c cu ui id da ar r_ e el l_ p pl la an ne et ta a ? ??","opciones":["¡R RE ED DU UC CI IR R, ,_ R RE EU US SA AR R_ y y_ R RE EC CI IC CL LA AR R ! !! ♻️🌍","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡R RE ED DU UC CI IR R, ,_ R RE EU US SA AR R_ y y_ R RE EC CI IC CL LA AR R ! !! ♻️🌍","explicacion":"3 3R R: :_ r re ed du uc ci ir r, ,_ r re eu us sa ar r, ,_ r re ec ci ic cl la ar r !! ♻️🌍!"},
+      {"id":"pri2-con-b6-v2-002","tema":"Contaminación del aire y agua","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi t ti ir ra ar r_ b ba as su ur ra a_ e en n_ r rí ío os s_ e es s_ b bu ue en no o_ p pa ar ra a_ l lo os s_ p pe ec ce es s ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"false","explicacion":"B Ba as su ur ra a_ e en n_ r rí ío os s_ = =_ c co on nt ta am mi in na ac ci ió ón n !! 🚫🐟!"},
+      {"id":"pri2-con-b6-v2-003","tema":"Los recursos naturales de México","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil a ag gu ua a, ,_ b bo os sq qu ue es s_ y y_ m mi in ne er ra al le es s_ = =_ R RE EC CU UR RS SO OS S_ N NA AT TU UR RA AL LE E_ __ __ _ A A A ? Aili _? ls...","respuestaCorrecta":"S","explicacion":"R RE EC CU UR RS SO OS S_ N NA AT TU UR RA AL LE ES S !! 🌳💎"},
+      {"id":"pri2-con-b6-v2-004","tema":"Acciones para cuidar el medio ambiente","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil a ac cc ci ió ón n_ c cu ui id da a_ e el l_ m me ed di io o_ a am mb bi ie en nt te e ? ?? ?! a?_?...l?!","opciones":["¡A Ap pa ag ga ar r_ l la as s_ l lu uc ce es s_ a al l_ s sa al li ir r ! !! 💡🌱","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡A Ap pa ag ga ar r_ l la as s_ l lu uc ce es s_ a al l_ s sa al li ir r ! !! 💡🌱","explicacion":"A Ah ho or rr ra ar r_ l lu uz z_ = =_ c cu ui id da ar r_ p pl la an ne et ta a !! 💡🌱!!"},
+      {"id":"pri2-con-b6-v2-005","tema":"Reducir, reusar y reciclar","tipo":"true_false","nivel":"v2","pregunta":"SiisEili b bo ot te el ll la a_ d de e_ p pl lá ás st ti ic co o_ c co om mo o_ m ma ac ce et ta a_ = =_ R RE EU US SA AR R ? ?? !","respuestaCorrecta":"true","explicacion":"R Re eu us sa ar r_ = =_ n nu ue ev vo o_ u us so o !! 🍶🌺"}
+    ],
+    "preview":[
+      {"id":"pri2-con-b6-v1-001","tema":"Reducir, reusar y reciclar","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuáles son las tres R para cuidar el planeta?","opciones":["¡REDUCIR, REUSAR y RECICLAR! ♻️","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡REDUCIR, REUSAR y RECICLAR! ♻️","explicacion":"Las 3R","visual":"♻️"},
+      {"id":"pri2-con-b6-v1-004","tema":"Acciones para cuidar el medio ambiente","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué acción cuida al medio ambiente?","opciones":["¡Apagar las luces al salir! 💡","Triste","Gris.","Feo."],"respuestaCorrecta":"¡Apagar las luces al salir! 💡","explicacion":"Ahorrar energía"},
+      {"id":"pri2-con-b6-v2-002","tema":"Contaminación del aire y agua","tipo":"true_false","nivel":"v2","pregunta":"Tirar basura en ríos es bueno. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"false","explicacion":"Contamina"}
     ]
   },
-  "generado": "2026-03-10T18:20:00.000Z",
-  "version": "3.0"
+  "generado":"2026-04-27T12:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

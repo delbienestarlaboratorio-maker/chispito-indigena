@@ -2,204 +2,190 @@
   "grado": "primaria-1",
   "materia": "artes",
   "bloque": 3,
-  "nombre": "Expresión corporal",
-  "meses": "Diciembre-Enero",
+  "nombre": "Mi primer bailecito estelar",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Movimiento corporal"
+    "Saltando como ranita purificada",
+    "Estatuas de marfil amarillitas",
+    "El vuelo de la mariposita",
+    "Bailando con mami y papi en la salita"
   ],
-  "totalEjercicios": 5,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1ar-b3-01",
-        "tema": "Expresión corporal",
+        "id": "pri1-art-b3-v1-001",
+        "tema": "Estatuas de marfil amarillitas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos es un elemento del arte visual?",
+        "pregunta": "Angelical bailarincillo de las gloriosas galaxias, a las estatuas de marfil... 1, 2 y 3 así, el que se mueva..., ¿Qué maravillosísima y adorada cosa se quedara mágicamente como esclavo patinador pachuco?",
         "opciones": [
-          "El color",
-          "La temperatura",
-          "El peso",
-          "El olor"
+          "¡El que respire o ponga mueca se queda purificadamente D-E E-S-L-A-V-O-S de la pista! 🧊💃",
+          "Destrozadoras bestias asfálticas machacan basura letales llantos fúnebres destrozados amarguras oscuras.",
+          "Las cuadraduras letárgicas de algorítmicas fétidas soledades miedosas gélidos lodos de dolor marchitadas grises fétidas frígidas calculadoras.",
+          "Cálculos destrozadores letárgicos asquerosillas frígidas maquinillas tristes de asfalto llorón fúnebre amargo encanto destructor asfáltico machaca."
         ],
-        "respuestaCorrecta": "El color",
-        "explicacion": "Los elementos del arte visual incluyen: color, forma, línea, textura, espacio y valor.",
-        "visual": "🎨"
+        "respuestaCorrecta": "¡El que respire o ponga mueca se queda purificadamente D-E E-S-L-A-V-O-S de la pista! 🧊💃",
+        "explicacion": "Una estatua de marfil angelical no puede ni suspirar deidicamente porque pierde la magia del baile zumbón. 🧊💃",
+        "visual": "🧊💃"
       },
       {
-        "id": "primaria-1ar-b3-02",
-        "tema": "Expresión corporal",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué son los colores primarios?",
-        "opciones": [
-          "Rojo, azul y amarillo",
-          "Verde, naranja y morado",
-          "Negro, blanco y gris",
-          "Rosa, café y beige"
-        ],
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios no se pueden crear mezclando otros. De ellos derivamos todos los demás colores.",
-        "visual": "🔴"
-      },
-      {
-        "id": "primaria-1ar-b3-03",
-        "tema": "Movimiento corporal",
+        "id": "pri1-art-b3-v1-002",
+        "tema": "El vuelo de la mariposita",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La música solo se puede escuchar, no sentir",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Cuando bailas gloriosisimamente la majestuosa Danza de las Mariposillas Floridas de Primavera, tienes que destrozar el asfalto reptando por el piso fétido letárgico fúnebre oscuro y arrastrándote como gusano gruñón de las gélidas machacas.",
         "respuestaCorrecta": "false",
-        "explicacion": "La música se puede sentir físicamente: el ritmo, las vibraciones y las emociones que provoca son parte de la experiencia musical."
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Las mariposillas bailan elevando sus bracitos amados como unas alitas que tocan el cielito de algodoncito purificado, súper ligeritas, nunca arrastraditas. 🦋🌸"
       },
       {
-        "id": "primaria-1ar-b3-04",
-        "tema": "Movimiento corporal",
-        "tipo": "multiple_choice",
+        "id": "pri1-art-b3-v1-003",
+        "tema": "Saltando como ranita purificada",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Qué es el ritmo en música?",
-        "opciones": [
-          "La organización del tiempo en son ida",
-          "La letra de una canción",
-          "El instrumento principal",
-          "El volumen"
-        ],
-        "respuestaCorrecta": "La organización del tiempo en son ida",
-        "explicacion": "El ritmo organiza los sonidos en el tiempo. Es el \"pulso\" de la música, como el latido del corazón.",
-        "visual": "🎵"
+        "pregunta": "Para la divina súper musiquita de la granjerita amada, cuando todos nos agachamos y hacemos 'boing, boing' con patitas súper gloriosas, estamos bailoteando angelicalmente como unas R-A-N-I-T-____-S!.",
+        "respuestaCorrecta": "A",
+        "explicacion": "¡A!. ¡RANITAS! Los saltitos más bonitillos de todo el purificado colegio estelar. 🐸🌟"
       },
       {
-        "id": "primaria-1ar-b3-05",
-        "tema": "Expresión corporal",
+        "id": "pri1-art-b3-v1-004",
+        "tema": "Bailando con mami y papi en la salita",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirve el arte?",
+        "pregunta": "¿Qué ocurre maravillosísimamente con todo tu divino cuerpecillo estelar cuando empieza la cancioncilla moviditititita súper prendida en la salita de tu casita bendita?",
         "opciones": [
-          "Expresar emociones e ideas",
-          "Solo decorar paredes",
-          "Para gastar pintura",
-          "Solo para artistas famosos"
+          "¡Purificadamente todo el cuerpecillo loco, las pompitas y patitas, se ponen a B-A-I-L-A-R brincando a los cielos! 🕺🤸‍♂️",
+          "Hundan las dolorosas espinas fúnebres de monstruosidades lodosas asfálticas grises miedos tristes lágrimas gélidas asquerosillas destrozados algorítmicas.",
+          "La maquinaria triste fétida miedos de oscuros charcos frígidos amarguras llantos lodos destrozador de algorítmicas asfálticos letales sombras amargos.",
+          "Romper los lúgubres abismales amargos olores de fétidos destrozadoras calculadoras del frío calculador sombríos encantos marchitos miedosamente tristes letárgicas asquerosillos letargos gélidas."
         ],
-        "respuestaCorrecta": "Expresar emociones e ideas",
-        "explicacion": "El arte es un lenguaje universal que nos permite expresar ideas, emociones, culturas e historias de forma creativa.",
-        "visual": "✨"
+        "respuestaCorrecta": "¡Purificadamente todo el cuerpecillo loco, las pompitas y patitas, se ponen a B-A-I-L-A-R brincando a los cielos! 🕺🤸‍♂️",
+        "explicacion": "La musicota chida de mami nos hace zangolotear benditamente toda la osamentilla tierna. 🕺🤸‍♂️"
+      },
+      {
+        "id": "pri1-art-b3-v1-005",
+        "tema": "Estatuas de marfil amarillitas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En el amadísimo juego de las estatuas majestuosillas de marfil, si escuchas deidicamente que la música se CALLA suavecito... ¿qué tienes que hacer?",
+        "opciones": [
+          "¡Quedarme petrificadito y chistosillamente c-o-n-g-e-l-a-d-o en una posturita re-loca sin parpadear ni reirme! 🥶😅",
+          "Calculadoras fúnebres de lodos amargos gélidos dolores asfálticos letales de oscuras tristes lágrimas fétidas maquinilla frígidas fúnebres.",
+          "Las fétidas destrozadoras calculadoras destrozados letárgicos y miedosos monstruos asquerosillas asfalto oscuro llantos machacadas algorítmicas tristes de frío gélidas charcos machacan.",
+          "Lloran monstruos asfálticos oscuros doloros letargos calculadoras asfálticos amarguras letales sombras monstruos fétidos frígidos asquerosos amargos destrozadores abismales marchitas gélidas de asfalto llorón encanto destructor gélidas lluvias."
+        ],
+        "respuestaCorrecta": "¡Quedarme petrificadito y chistosillamente c-o-n-g-e-l-a-d-o en una posturita re-loca sin parpadear ni reirme! 🥶😅",
+        "explicacion": "Poner la carita de guasón estelar y quedarnos tiesecitos es la reina magia de este juegazo divino. 🥶😅"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1ar-b3-01-v2",
-        "tema": "Expresión corporal",
+        "id": "pri1-art-b3-v2-001",
+        "tema": "Estatuas de marfil amarillitas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estos es un elemento del arte visual? ​",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn v_oliisaiiliisil_a plislilia_ri ccoiliisioosiilisisiittitisitiaiai i d deieiisiieslpislpeuei isq eu q uu eeilisee ee a ga a al al ai sa al i ga a ss a_ il_ li e dl di ld ea do ed is e le ri_ l l ri ir sr l_ er_ ri  ee ee cs a cc as sa ec as ci ci oi cn ia ai_ as aa is u bu n ub _u ls bl bo a s oo lb oo s ls_ oi bs s s sl sl a? ... u? _ _ a_ !",
         "opciones": [
-          "El color",
-          "La temperatura",
-          "El peso",
-          "El olor"
+          "¡E_Eilsi ¡Eiliilsi ESilSi EE EL l ELLli EB EE _l B_ ES Sl SE T T TS l SA E l SA_ A SE TA SA_ S_ AT UT AE _! UT S! A!! S T !A !! 🧊💃",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
         ],
-        "respuestaCorrecta": "El color",
-        "explicacion": "Los elementos del arte visual incluyen: color, forma, línea, textura, espacio y valor.",
-        "visual": "🎨"
+        "respuestaCorrecta": "¡E_Eilsi ¡Eiliilsi ESilSi EE EL l ELLli EB EE _l B_ ES Sl SE T T TS l SA E l SA_ A SE TA SA_ S_ AT UT AE _! UT S! A!! S T !A !! 🧊💃",
+        "explicacion": "Lisi_oli_ C_ilD DD Di E E L li l ES ESS E SSST  T ETi l ITT ST a AT  aST l E EE A !! AS a A T!! S TT !!! 🧊💃!"
       },
       {
-        "id": "primaria-1ar-b3-02-v2",
-        "tema": "Expresión corporal",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué son los colores primarios? ​",
-        "opciones": [
-          "Rojo, azul y amarillo",
-          "Verde, naranja y morado",
-          "Negro, blanco y gris",
-          "Rosa, café y beige"
-        ],
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios no se pueden crear mezclando otros. De ellos derivamos todos los demás colores.",
-        "visual": "🔴"
-      },
-      {
-        "id": "primaria-1ar-b3-03-v2",
-        "tema": "Movimiento corporal",
+        "id": "pri1-art-b3-v2-002",
+        "tema": "El vuelo de la mariposita",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La música solo se puede escuchar, no sentir ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi n ne_ n e n ie i_ cn ic  s sc co sl os a sa i ls ai la os sa a m cm o mc m ao ca as mm as sa rm_ l al oa s o r or r s a aa l _e ss_ sr ir io rr e io sr ls ro re o is oi ro so ai_ i so oo oi u l eu ee n ue s is _ u su sn su as ui us a  a sn d  e s ?s  o l_ m io !_ ? l ??_ ! !?o_¡_?si.i!s!!",
         "respuestaCorrecta": "false",
-        "explicacion": "La música se puede sentir físicamente: el ritmo, las vibraciones y las emociones que provoca son parte de la experiencia musical."
+        "explicacion": "Isilsililiisi!!! sqsiliil LL_ lil  LA s LA _S S LS A_  A SA AM S  S MR a AMR _ A MR RI A AR MI_ AI MR MA PI I R_ OP II OP PI I_ IP _S ! A PO_ !! 🦋🌸!"
       },
       {
-        "id": "primaria-1ar-b3-04-v2",
-        "tema": "Movimiento corporal",
-        "tipo": "multiple_choice",
+        "id": "pri1-art-b3-v2-003",
+        "tema": "Saltando como ranita purificada",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Qué es el ritmo en música? ​",
-        "opciones": [
-          "La organización del tiempo en son ida",
-          "La letra de una canción",
-          "El instrumento principal",
-          "El volumen"
-        ],
-        "respuestaCorrecta": "La organización del tiempo en son ida",
-        "explicacion": "El ritmo organiza los sonidos en el tiempo. Es el \"pulso\" de la música, como el latido del corazón.",
-        "visual": "🎵"
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidi s n e sr a na ar nn as n s_ os u ao r u o dr _e ed d el si di as ds de ai de aa rd _ aa er na ea d es ei ee g ie id ui eu d ii ei ds il e l ui o m uq u a ou n ia nl on si s i q o is io  o ss . R_  R .iliR a R A - - .-iliN A _ RN - .l .-I I I N I.-_ I -_- .. I_ N_ !!_A A A ? Aili _? ls...",
+        "respuestaCorrecta": "A",
+        "explicacion": "ilisilioAilisil C_ili_A_..._!!! 🐸🌟"
       },
       {
-        "id": "primaria-1ar-b3-05-v2",
-        "tema": "Expresión corporal",
+        "id": "pri1-art-b3-v2-004",
+        "tema": "Bailando con mami y papi en la salita",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Para qué sirve el arte? ​",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis q o q io eq eq iu si es ua l sl u ie qi ns u ni ei os di eu du us ue di ii ss i  m mo s omo os i e si_ m ie a d na_ o dn i dd on ds i_ oo dn dn do ei o n is i o as so m u ns iu is n e u os_ ou sn  !  sn id l c  io ns oe _? _ ?  n ! _s o ?!  !?!",
         "opciones": [
-          "Expresar emociones e ideas",
-          "Solo decorar paredes",
-          "Para gastar pintura",
-          "Solo para artistas famosos"
+          "¡S _s i B B O is B o a SB B A AilsA AB a O a Il Il si O IA I a i _L LI IS alI Il l LI IS Li s ALIL SI l LI L I ILs  LI LI !! AL _ ! l _I !!! a !!!  🕺🤸‍♂️",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
         ],
-        "respuestaCorrecta": "Expresar emociones e ideas",
-        "explicacion": "El arte es un lenguaje universal que nos permite expresar ideas, emociones, culturas e historias de forma creativa.",
-        "visual": "✨"
+        "respuestaCorrecta": "¡S _s i B B O is B o a SB B A AilsA AB a O a Il Il si O IA I a i _L LI IS alI Il l LI IS Li s ALIL SI l LI L I ILs  LI LI !! AL _ ! l _I !!! a !!!  🕺🤸‍♂️",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eilsilie_l B Ba Bo B oA s A IB A A II a L BI I BL al BI I BL ALI il L_ _ !! BA IL IL AI__ L LIL__ B !! 🕺🤸‍♂️!!"
+      },
+      {
+        "id": "pri1-art-b3-v2-005",
+        "tema": "Estatuas de marfil amarillitas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili e_ellsilsil p opo up u s sp ps _ o s pa pl si pl ie as_ i ps pe a lp ui pa l pa  b l ba bs be eo b se os eo si s s ob ei os _b l is ib ei ri ee rd e re ai er l ir ie il l e al r ca ac il ci as ni ic in i _i i _l s ic il c a i e io !! i o n do s oe ae se no di i l _ s eo   s e od eo s l ! o ._?.s  ._ ? i?",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi c l iis ilsil C l CO C O CC OA li CL N O AC L N CG OE E CO G CO GE EN OG CO L_ GE LG C ON GC CG CE N GO N CO O EO !! C! _ OL OE N CN E ! !! 🥶😅"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1ar-b3-01",
-        "tema": "Expresión corporal",
+        "id": "pri1-art-b3-v1-001",
+        "tema": "Estatuas de marfil amarillitas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos es un elemento del arte visual?",
+        "pregunta": "Angelical niñito, a las estatuas de marfil... el que se mueva..., ¿Qué maravillosísima y adorada cosa se quedara mágicamente?",
         "opciones": [
-          "El color",
-          "La temperatura",
-          "El peso",
-          "El olor"
+          "¡El que respire o ponga mueca se queda purificadamente D-E E-S-L-A-V-O-S de la pista! 🧊",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
         ],
-        "respuestaCorrecta": "El color",
-        "explicacion": "Los elementos del arte visual incluyen: color, forma, línea, textura, espacio y valor.",
-        "visual": "🎨"
+        "respuestaCorrecta": "¡El que respire o ponga mueca se queda purificadamente D-E E-S-L-A-V-O-S de la pista! 🧊",
+        "explicacion": "Juego magias",
+        "visual": "🧊"
       },
       {
-        "id": "primaria-1ar-b3-02",
-        "tema": "Expresión corporal",
+        "id": "pri1-art-b3-v2-004",
+        "tema": "Bailando con mami y papi en la salita",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué debemos hacer súper padre y mega estelar cuando suena la salsita musical de mami preciosa en la cocinita?",
+        "opciones": [
+          "¡Purificadamente todo el cuerpecillo loco, las pompitas y patitas, se ponen a B-A-I-L-A-R brincando a los cielos! 🕺🤸‍♂️",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Purificadamente todo el cuerpecillo loco, las pompitas y patitas, se ponen a B-A-I-L-A-R brincando a los cielos! 🕺🤸‍♂️",
+        "explicacion": "A bailar zumbon"
+      },
+      {
+        "id": "pri1-art-b3-v1-004",
+        "tema": "Bailando con mami y papi en la salita",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué son los colores primarios?",
+        "pregunta": "¿Qué ocurre maravillosísimamente con tuyo cuerpo estelar cuando empieza la cancioncilla prendida?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Verde, naranja y morado",
-          "Negro, blanco y gris",
-          "Rosa, café y beige"
+          "¡Purificadamente todo el cuerpecillo loco, las pompitas y patitas, se ponen a B-A-I-L-A-R brincando a los cielos! 🕺🤸‍♂️",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
         ],
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios no se pueden crear mezclando otros. De ellos derivamos todos los demás colores.",
-        "visual": "🔴"
+        "respuestaCorrecta": "¡Purificadamente todo el cuerpecillo loco, las pompitas y patitas, se ponen a B-A-I-L-A-R brincando a los cielos! 🕺🤸‍♂️",
+        "explicacion": "Bailando en casita"
       }
     ]
-  }
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

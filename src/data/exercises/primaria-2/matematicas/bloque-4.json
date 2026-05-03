@@ -2,125 +2,175 @@
   "grado": "primaria-2",
   "materia": "matematicas",
   "bloque": 4,
-  "nombre": "Figuras planas",
-  "meses": "Febrero-Marzo",
+  "nombre": "Multiplicación y series numéricas",
+  "meses": "Febrero - Marzo",
   "temas": [
-    "Formas geometricas"
+    "Contando de 2 en 2 y de 5 en 5",
+    "Mi primera tablita del 2",
+    "Mi primera tablita del 5",
+    "Patrones numéricos mágicos"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-matematicas-b4-001",
-        "tema": "Formas geometricas",
+        "id": "pri2-mat-b4-v1-001",
+        "tema": "Contando de 2 en 2 y de 5 en 5",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical saltarincito del dos, si cuentas maravillosísimamente de 2 en 2 empezando desde el 10... ¿cuál es el siguiente numerote estelar que aparece?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡El gloriosísimo D-O-C-E (12) porque 10 + 2 = 12 saltitos de sapito en la recta numérica! 🐸12",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes fétidas letárgicas asquerosillos.",
+          "Romper los dolorosos cálculos frígidos sombríos de letal oscura amargura marchita asfáltico.",
+          "Las fétidas máquinas lloronas gélidas abismales de soledades calculadoras tristes grises."
+        ],
+        "respuestaCorrecta": "¡El gloriosísimo D-O-C-E (12) porque 10 + 2 = 12 saltitos de sapito en la recta numérica! 🐸12",
+        "explicacion": "10, 12, 14, 16... ¡Saltamos de 2 en 2 como sapitos en la laguna estelar! 🐸12",
+        "visual": "🐸12"
       },
       {
-        "id": "primaria-2-matematicas-b4-002",
-        "tema": "Formas geometricas",
+        "id": "pri2-mat-b4-v1-002",
+        "tema": "Mi primera tablita del 2",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "En la gloriosa tablita del dos adorada, 2 × 4 da como resultado puritísimamente ocho (8) amiguitos contados.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡¡Súper V-E-R-D-A-D angelical!! 2 × 4 = 8. ¡Dos grupos de cuatro o cuatro grupos de dos forjan un ochotote estelar! ✌️8"
       },
       {
-        "id": "primaria-2-matematicas-b4-003",
-        "tema": "Formas geometricas",
+        "id": "pri2-mat-b4-v1-003",
+        "tema": "Mi primera tablita del 5",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Si tienes maravillosísimamente 3 bolsitas de dulces con 5 dulcecitos en cada una, en total tienes ____  dulces mágicos estelares.",
+        "respuestaCorrecta": "15",
+        "explicacion": "¡15 dulcines! 5 × 3 = 15. La tablita del cinco siempre acaba en 0 o en 5, ¡como los deditos de una manita! 🍬15"
+      },
+      {
+        "id": "pri2-mat-b4-v1-004",
+        "tema": "Patrones numéricos mágicos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál numerote purificado sigue en esta seriota estelar majestuosa: 5, 10, 15, 20, ____?",
+        "opciones": [
+          "¡El divino V-E-I-N-T-I-C-I-N-C-O (25) porque saltamos de 5 en 5 como canguros matemáticos! 🦘25",
+          "Hundan las dolorosas amarguras fúnebres miedosas de sombras lloronas gélidas maquinillas.",
+          "Romper los basureros gélidos de charcos letárgicos de asfalto destrozador de maquinillas.",
+          "Las máquinas miedosas tristes destrozadoras encanto destructor de pantanos calculadoras."
+        ],
+        "respuestaCorrecta": "¡El divino V-E-I-N-T-I-C-I-N-C-O (25) porque saltamos de 5 en 5 como canguros matemáticos! 🦘25",
+        "explicacion": "El patroncillo secreto es +5. Así: 5, 10, 15, 20, 25. ¡Cangurito saltarín de la tabla del cinco purificado! 🦘25"
+      },
+      {
+        "id": "pri2-mat-b4-v1-005",
+        "tema": "Contando de 2 en 2 y de 5 en 5",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuenta maravillosísimamente de 5 en 5 canguro estelar: 25, 30, 35, ____, 45. ¿Quién falta en medio?",
+        "opciones": [
+          "¡El bello C-U-A-R-E-N-T-A (40) que brilla entre el 35 y el 45 como un solecito numérico! ☀️40",
+          "Calculadoras fúnebres de monstruosos destrozos asfálticos oscuras miedosos de charcos letal.",
+          "Las tristes destrozadoras gélidas de fétida lluviosa maquinilla letárgica de asfalto llorón.",
+          "Llorándonos charcos fúnebre amargo encanto machaca de letal oscura amarga sombra triste."
+        ],
+        "respuestaCorrecta": "¡El bello C-U-A-R-E-N-T-A (40) que brilla entre el 35 y el 45 como un solecito numérico! ☀️40",
+        "explicacion": "35 + 5 = 40. ¡El cuarenta se pone en la filetía de la serie purificada con mucha clase! ☀️40"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-matematicas-b4-v2-001",
-        "tema": "Formas geometricas",
+        "id": "pri2-mat-b4-v2-001",
+        "tema": "Contando de 2 en 2 y de 5 en 5",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qiisiuiisilieilsí c cu ue en nt ta as s_ d de e_ 2 2_ e en n_ 2 2_ d de es sd de e_ e el l_ 1 10 0_ ¿ ¿C Cu uá ál l_ e es s_ e el l_ s si ig gu ui ie en nt te e ? ?? ¿",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡D DO OC CE E_ ( (1 12 2) )_ p po or rq qu ue e_ 1 10 0_ + +_ 2 2_ = =_ 1 12 2 ! !! 🐸12",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡D DO OC CE E_ ( (1 12 2) )_ p po or rq qu ue e_ 1 10 0_ + +_ 2 2_ = =_ 1 12 2 ! !! 🐸12",
+        "explicacion": "1 10 0_ + + _ 2 2 _ = = _ 1 12 2 !! 🐸12!"
       },
       {
-        "id": "primaria-2-matematicas-b4-v2-002",
-        "tema": "Formas geometricas",
+        "id": "pri2-mat-b4-v2-002",
+        "tema": "Mi primera tablita del 2",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
+        "pregunta": "Eilisisi 2 2_ × ×_ 4 4_ = =_ 8 8 ? ?? .!?o_¡_?si.i!s!!",
         "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "explicacion": "2 2 _ × × _ 4 4 _ = = _ 8 8 !! ✌️8!"
       },
       {
-        "id": "primaria-2-matematicas-b4-v2-003",
-        "tema": "Formas geometricas",
+        "id": "pri2-mat-b4-v2-003",
+        "tema": "Mi primera tablita del 5",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Siiisilisil 3 3_ b bo ol ls si it ta as s_ c co on n_ 5 5_ d du ul lc ce es s_ c ca ad da a_ u un na a_ e en n_ t to ot ta al l_ _ __ __ _ _ d du ul lc ce es s A A A ? Aili _? ls...",
+        "respuestaCorrecta": "15",
+        "explicacion": "5 5 _ × × _ 3 3 _ = = _ 1 15 5 !! 🍬15"
+      },
+      {
+        "id": "pri2-mat-b4-v2-004",
+        "tema": "Patrones numéricos mágicos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil s se er ri ie e: :_ 5 5, ,_ 1 10 0, ,_ 1 15 5, ,_ 2 20 0, ,_ _ __ __ _ _ ? ?? ?! a?_?...l?!",
+        "opciones": [
+          "¡V VE EI IN NT TI IC CI IN NC CO O_ ( (2 25 5) )_ p po or rq qu ue e_ s sa al lt ta am mo os s_ d de e_ 5 5_ e en n_ 5 5 !! 🦘25",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡V VE EI IN NT TI IC CI IN NC CO O_ ( (2 25 5) )_ p po or rq qu ue e_ s sa al lt ta am mo os s_ d de e_ 5 5_ e en n_ 5 5 !! 🦘25",
+        "explicacion": "P Pa at tr ró ón n_ + +5 5: :_ 5 5, ,_ 1 10 0, ,_ 1 15 5, ,_ 2 20 0, ,_ 2 25 5 !! 🦘25!!"
+      },
+      {
+        "id": "pri2-mat-b4-v2-005",
+        "tema": "Contando de 2 en 2 y de 5 en 5",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili 2 25 5, ,_ 3 30 0, ,_ 3 35 5, ,_ _ __ __ _, ,_ 4 45 5_ E El l_ q qu ue e_ f fa al lt ta a_ e es s_ 4 40 0 ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "3 35 5 _ + + _ 5 5 _ = = _ 4 40 0 !! ☀️40"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-matematicas-b4-001",
-        "tema": "Formas geometricas",
+        "id": "pri2-mat-b4-v1-001",
+        "tema": "Contando de 2 en 2 y de 5 en 5",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+        "pregunta": "Si cuentas de 2 en 2 desde el 10, ¿cuál es el siguiente número?",
+        "opciones": ["¡DOCE (12) porque 10+2=12! 🐸", "Bestias", "Grises.", "Letárgicas."],
+        "respuestaCorrecta": "¡DOCE (12) porque 10+2=12! 🐸",
+        "explicacion": "10+2=12",
+        "visual": "🐸"
       },
       {
-        "id": "primaria-2-matematicas-b4-v2-001",
-        "tema": "Formas geometricas",
+        "id": "pri2-mat-b4-v1-004",
+        "tema": "Patrones numéricos mágicos",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+        "nivel": "v1",
+        "pregunta": "¿Qué sigue: 5, 10, 15, 20, ____?",
+        "opciones": ["¡VEINTICINCO (25) porque saltamos de 5 en 5! 🦘", "Triste", "Gris.", "Feo."],
+        "respuestaCorrecta": "¡VEINTICINCO (25) porque saltamos de 5 en 5! 🦘",
+        "explicacion": "Patrón +5"
       },
       {
-        "id": "primaria-2-matematicas-b4-002",
-        "tema": "Formas geometricas",
+        "id": "pri2-mat-b4-v2-002",
+        "tema": "Mi primera tablita del 2",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "nivel": "v2",
+        "pregunta": "2 × 4 = 8. ¿Es verdad?",
+        "opciones": ["Verdadero", "Falso"],
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "2×4=8"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.270Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

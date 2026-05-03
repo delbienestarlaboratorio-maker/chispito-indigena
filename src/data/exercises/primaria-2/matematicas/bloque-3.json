@@ -2,125 +2,185 @@
   "grado": "primaria-2",
   "materia": "matematicas",
   "bloque": 3,
-  "nombre": "Multiplicacion basica",
-  "meses": "Diciembre-Enero",
+  "nombre": "Figuras geométricas y medidas",
+  "meses": "Diciembre - Enero",
   "temas": [
-    "Multiplicacion basica"
+    "Cuadradito, triángulo y círculo",
+    "Lados y esquinitas (vértices)",
+    "Midiendo con la regla estelar",
+    "El reloj y las horas amadas"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-matematicas-b3-001",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b3-v1-001",
+        "tema": "Cuadradito, triángulo y círculo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical geometrillo estelar, si una figurota divinísima tiene TRE-S laditos nada más y TRE-S esquinitas puntiagudas, ¿cómo se llama maravillosamente esa figurilla?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Es un purísimo y gran T-R-I-Á-N-G-U-L-O triangulillo de tres puntas viajeras estelares! 🔺✨",
+          "Destrozadoras monstruosidades zoológicas miedosas de fétida sombra triste amarga asfalto.",
+          "Romper los dolorosos cálculos fúnebres de basureros de gélidas lodos asquerosillas amargos.",
+          "Las fétidas máquinas lloronas gélidas abismales asquerosillas de sombras miedosos frígidos."
+        ],
+        "respuestaCorrecta": "¡Es un purísimo y gran T-R-I-Á-N-G-U-L-O triangulillo de tres puntas viajeras estelares! 🔺✨",
+        "explicacion": "Tres laditos + tres vérticitos = un T-R-I-Á-N-G-U-L-O mágico de triple puntita estelar. 🔺✨",
+        "visual": "🔺✨"
       },
       {
-        "id": "primaria-2-matematicas-b3-002",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b3-v1-002",
+        "tema": "Lados y esquinitas (vértices)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "pregunta": "Un cuadrillazo bien cuadradote estelar tiene maravillosísimamente CINCO lados y CINCO esquinitas con puntitas.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! ¡El cuadradillo purificado tiene C-U-A-T-R-O laditos iguakitos y C-U-A-T-R-O esquinitas nada más! ⬛4"
       },
       {
-        "id": "primaria-2-matematicas-b3-003",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b3-v1-003",
+        "tema": "Midiendo con la regla estelar",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Si una barrita de colores mide doce cuadritos de la regla mágica, decimos maravillosísimamente que mide 12 C-E-N-T-Í-M-E-T-R-O-____ .",
+        "respuestaCorrecta": "S",
+        "explicacion": "¡S!. ¡CENTÍMETROS estelares! La reglita dorada los tiene escritos palitito por palitito del cero al treinta gloria. 📏✨"
+      },
+      {
+        "id": "pri2-mat-b3-v1-004",
+        "tema": "El reloj y las horas amadas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si la manecita gordita y purísima del relojazo señala el 3 y la flaquita bendita de los minutos apunta al 12, ¿qué hora majestuosa es?",
+        "opciones": [
+          "¡Son las T-R-E-S en punto, re-claritísimas y padrísimas de la tardecita estelar! 🕒☀️",
+          "Hundan las dolorosas amarguras fúnebres letárgicas asquerosillos de fétido pantano sombrío.",
+          "Romper gélidos abismales calculadoras fúnebres de monstruosidades gélidas amarguras lodos.",
+          "Las máquinas miedosas tristes dolorosas dde sombras lodosas letales frías destrozadoras."
+        ],
+        "respuestaCorrecta": "¡Son las T-R-E-S en punto, re-claritísimas y padrísimas de la tardecita estelar! 🕒☀️",
+        "explicacion": "La manecita cortotota marca la hora y cuando la larguita señala el 12 es EN PUNTO. Las 3 en punto deidico. 🕒☀️"
+      },
+      {
+        "id": "pri2-mat-b3-v1-005",
+        "tema": "Cuadradito, triángulo y círculo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué figurita adoradísima tiene CERO purititos esquinitas y es re-redondilla como la lunita llena y la ruedita del coche?",
+        "opciones": [
+          "¡El majestuoso C-Í-R-C-U-L-O, redondote estelar sin puntitas, como una pizza mágica enorme! ⭕🍕",
+          "Calculadoras fúnebres de monstruosos destrozos asfálticos llorosos encanto asquerosillos.",
+          "Las tristes destrozadoras gélidas abismales de sombras miedosos fétidos letárgicos charcos asquerosos.",
+          "Llorándonos charcos fúnebre gélidas amarguras maquinilla de cálculos fúnebres destrozados."
+        ],
+        "respuestaCorrecta": "¡El majestuoso C-Í-R-C-U-L-O, redondote estelar sin puntitas, como una pizza mágica enorme! ⭕🍕",
+        "explicacion": "El circulito no tiene ni un solo vérticito ni un solo ladillo recto. ¡Es la figurilla más suavecita del universo! ⭕🍕"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-matematicas-b3-v2-001",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b3-v2-001",
+        "tema": "Cuadradito, triángulo y círculo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qiisiuiisilieilsí f fi ig gu ur ra a_ t ti ie en ne e_ 3 3_ l la ad di it to os s_ y y_ 3 3_ e es sq qu ui in ni it ta as s ? ?? ¿ ¿C Có óm mo o_ s se e_ l ll la am ma a ? ??",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡E Es s_ u un n_ T TR RI IÁ ÁN NG GU UL LO O_ t tr ri ia an ng gu ul li il ll lo o_ d de e_ t tr re es s_ p pu un nt ta as s ! !! 🔺✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡E Es s_ u un n_ T TR RI IÁ ÁN NG GU UL LO O_ t tr ri ia an ng gu ul li il ll lo o_ d de e_ t tr re es s_ p pu un nt ta as s ! !! 🔺✨",
+        "explicacion": "3 3_ l la ad do os s _ + + _ 3 3_ v vé ér rt ti ic ce es s _ = = _ T TR RI IÁ ÁN NG GU UL LO O !! 🔺✨!"
       },
       {
-        "id": "primaria-2-matematicas-b3-v2-002",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b3-v2-002",
+        "tema": "Lados y esquinitas (vértices)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "pregunta": "Eilisisi u un n_ c cu ua ad dr ra ad do o_ t ti ie en ne e_ C CI IN NC CO O_ l la ad do os s _ y y_ C CI IN NC CO O_ e es sq qu ui in ni it ta as s ? ?? .!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! E EL l_ c cu ua ad dr ra ad do o_ t ti ie en ne e_ C CU UA AT TR RO O_ ( (4 4) )_ l la ad do os s_ y y_ C CU UA AT TR RO O_ ( (4 4) )_ e es sq qu ui in ni it ta as s !! ⬛4!"
       },
       {
-        "id": "primaria-2-matematicas-b3-v2-003",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b3-v2-003",
+        "tema": "Midiendo con la regla estelar",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Siiisilisil u un na a_ b ba ar rr ri it ta a_ m mi id de e_ 1 12 2_ C CE EN NT TÍ ÍM ME ET TR RO O_ __ __ __ _ A A A ? Aili _? ls...",
+        "respuestaCorrecta": "S",
+        "explicacion": "C CE EN NT TÍ ÍM ME ET TR RO OS S !! 📏✨"
+      },
+      {
+        "id": "pri2-mat-b3-v2-004",
+        "tema": "El reloj y las horas amadas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil m ma an ne ec ci it ta a_ g go or rd di it ta a_ e en n_ e el l_ 3 3 _ y y_ f fl la aq qu ui it ta a_ e en n_ e el l_ 1 12 2 _ ¿ ¿Q Qu ué é_ h ho or ra a_ e es s ? ?? ?! a?_?...l?!",
+        "opciones": [
+          "¡S So on n_ l la as s_ T TR RE ES S_ e en n_ p pu un nt to o ! !! 🕒☀️",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡S So on n_ l la as s_ T TR RE ES S_ e en n_ p pu un nt to o ! !! 🕒☀️",
+        "explicacion": "M Ma an ne ec ci it ta a_ c co or rt ta a_ e en n_ 3 3 _ + + _ l la ar rg ga a_ e en n_ 1 12 2 _ = = _ 3 3: :0 00 0 !! 🕒☀️!!"
+      },
+      {
+        "id": "pri2-mat-b3-v2-005",
+        "tema": "Cuadradito, triángulo y círculo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili E eL l_ C CÍ ÍR RC CU UL LO O_ t ti ie en ne e_ C CE ER RO O_ e es sq qu ui in ni it ta as s _ y y_ e es s_ r re ed do on nd do o ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "E El l_ c cí ír rc cu ul lo o_ n no o_ t ti ie en ne e_ v vé ér rt ti ic ce es s_ n ni i_ l la ad do os s_ r re ec ct to os s !! ⭕🍕"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-matematicas-b3-001",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b3-v1-001",
+        "tema": "Cuadradito, triángulo y círculo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si una figurota tiene 3 lados y 3 esquinitas puntiagudas, ¿cómo se llama esa figurilla?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Es un purísimo T-R-I-Á-N-G-U-L-O de tres puntas estelares! 🔺",
+          "Destrozadoras bestias",
+          "Cuadraduras grises.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Es un purísimo T-R-I-Á-N-G-U-L-O de tres puntas estelares! 🔺",
+        "explicacion": "3 lados = triángulo",
+        "visual": "🔺"
       },
       {
-        "id": "primaria-2-matematicas-b3-v2-001",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b3-v1-004",
+        "tema": "El reloj y las horas amadas",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "nivel": "v1",
+        "pregunta": "Si la manecita gordita del reloj señala el 3 y la flaquita apunta al 12, ¿qué hora majestuosa es?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡Son las T-R-E-S en punto, re-claritísimas de la tardecita estelar! 🕒",
+          "Llantos oscuros",
+          "Lodo letárgico",
+          "Llorando fétido"
+        ],
+        "respuestaCorrecta": "¡Son las T-R-E-S en punto, re-claritísimas de la tardecita estelar! 🕒",
+        "explicacion": "3 en punto"
       },
       {
-        "id": "primaria-2-matematicas-b3-002",
-        "tema": "Multiplicacion basica",
+        "id": "pri2-mat-b3-v2-005",
+        "tema": "Cuadradito, triángulo y círculo",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "nivel": "v2",
+        "pregunta": "El círculo tiene cero esquinitas y es redondo. ¿Verdaderitito?",
+        "opciones": ["Verdadero", "Falso"],
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "Círculo es redondo"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.270Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

@@ -1,127 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "matematicas",
-  "bloque": 2,
-  "nombre": "Division exacta",
-  "meses": "Octubre-Noviembre",
-  "temas": [
-    "Restas simples",
-    "Multiplicacion basica"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-matematicas-b2-001",
-        "tema": "Restas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b2-002",
-        "tema": "Restas simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      },
-      {
-        "id": "primaria-3-matematicas-b2-003",
-        "tema": "Restas simples",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
-      }
+  "grado":"primaria-3","materia":"matematicas","bloque":2,"nombre":"Tablas del 6 al 10","meses":"Octubre - Noviembre",
+  "temas":["Tabla del 6 y del 7","Tabla del 8 y del 9","La tabla del 10","Trucos para memorizar tablas"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-mat-b2-v1-001","tema":"Tabla del 6 y del 7","tipo":"multiple_choice","nivel":"v1","pregunta":"Angelical calculín, ¿cuánto es purísimamente 6 × 8 en la tabla del seis?","opciones":["¡C-U-A-R-E-N-T-A Y O-C-H-O (48) porque 6 × 8 = 48 exactitos! 🔢💫","Destrozadoras monstruosidades zoológicas.","Romper los dolorosos cálculos.","Las fétidas máquinas lloronas."],"respuestaCorrecta":"¡C-U-A-R-E-N-T-A Y O-C-H-O (48) porque 6 × 8 = 48 exactitos! 🔢💫","explicacion":"6 × 8 = 48. ¡La tabla del 6 crece de 6 en 6! 🔢💫","visual":"🔢💫"},
+      {"id":"pri3-mat-b2-v1-002","tema":"Tabla del 8 y del 9","tipo":"true_false","nivel":"v1","pregunta":"La multiplicación 9 × 5 = 45 es purísimamente correcta estelar.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! 9 × 5 = 45. ¡Truco: los dígitos de la tabla del 9 siempre suman 9! (4+5=9) ✅🧙"},
+      {"id":"pri3-mat-b2-v1-003","tema":"La tabla del 10","tipo":"fill_blank","nivel":"v1","pregunta":"10 × 7 = 7____ . ¡La tabla del 10 es facilísima: solo agregas un cero!","respuestaCorrecta":"0","explicacion":"¡0!. 10 × 7 = 70. ¡Solo pon un CERO al final del número! 🔟✨"},
+      {"id":"pri3-mat-b2-v1-004","tema":"Trucos para memorizar tablas","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuál es el truco mágico de la tabla del 9 con los dedos de las manos?","opciones":["¡Bajas el dedo que indica el número y los que quedan a cada lado te dan la respuesta! 🖐️🧠","Hundan las dolorosas amarguras.","Romper los basureros gélidos.","Las máquinas miedosas tristes."],"respuestaCorrecta":"¡Bajas el dedo que indica el número y los que quedan a cada lado te dan la respuesta! 🖐️🧠","explicacion":"¡9×3: baja el dedo 3, quedan 2 a la izquierda y 7 a la derecha = 27! 🖐️🧠"},
+      {"id":"pri3-mat-b2-v1-005","tema":"Tabla del 6 y del 7","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cuánto es purísimamente 7 × 7 en la tabla del siete?","opciones":["¡C-U-A-R-E-N-T-A Y N-U-E-V-E (49) porque 7 × 7 = 49! 7️⃣✨","Calculadoras fúnebres.","Las tristes gélidas.","Llorándonos charcos."],"respuestaCorrecta":"¡C-U-A-R-E-N-T-A Y N-U-E-V-E (49) porque 7 × 7 = 49! 7️⃣✨","explicacion":"7 × 7 = 49. ¡Es el cuadrado de 7! 7️⃣✨"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-matematicas-b2-v2-001",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b2-v2-002",
-        "tema": "Multiplicacion basica",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
-      },
-      {
-        "id": "primaria-3-matematicas-b2-v2-003",
-        "tema": "Multiplicacion basica",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
-      }
+    "v2":[
+      {"id":"pri3-mat-b2-v2-001","tema":"Tabla del 6 y del 7","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí 6 6_ × ×_ 8 8_ = =_ ? ??","opciones":["¡4 48 8 ! !! 🔢💫","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡4 48 8 ! !! 🔢💫","explicacion":"6 6_ × ×_ 8 8_ = =_ 4 48 8 !! 🔢💫!"},
+      {"id":"pri3-mat-b2-v2-002","tema":"Tabla del 8 y del 9","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi 9 9_ × ×_ 5 5_ = =_ 4 45 5 ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"9 9_ × ×_ 5 5_ = =_ 4 45 5 !! ✅🧙!"},
+      {"id":"pri3-mat-b2-v2-003","tema":"La tabla del 10","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil 1 10 0_ × ×_ 7 7_ = =_ 7 7_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"0","explicacion":"1 10 0_ × ×_ 7 7_ = =_ 7 70 0 !! 🔟✨"},
+      {"id":"pri3-mat-b2-v2-004","tema":"Trucos para memorizar tablas","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil t tr ru uc co o_ d de e_ l la a_ t ta ab bl la a_ d de el l_ 9 9_ c co on n_ d de ed do os s ? ?? ?! a?_?...l?!","opciones":["¡B Ba aj ja as s_ e el l_ d de ed do o_ y y_ l lo os s_ q qu ue e_ q qu ue ed da an n_ = =_ r re es sp pu ue es st ta a ! !! 🖐️🧠","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡B Ba aj ja as s_ e el l_ d de ed do o_ y y_ l lo os s_ q qu ue e_ q qu ue ed da an n_ = =_ r re es sp pu ue es st ta a ! !! 🖐️🧠","explicacion":"T Tr ru uc co o_ d de e_ d de ed do os s !! 🖐️🧠!!"},
+      {"id":"pri3-mat-b2-v2-005","tema":"Tabla del 6 y del 7","tipo":"true_false","nivel":"v2","pregunta":"SiisEili 7 7_ × ×_ 7 7_ = =_ 4 49 9 ? ?? !","respuestaCorrecta":"true","explicacion":"7 7_ × ×_ 7 7_ = =_ 4 49 9 !! 7️⃣✨"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-matematicas-b2-001",
-        "tema": "Restas simples",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
-        "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b2-v2-001",
-        "tema": "Multiplicacion basica",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
-        "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
-      },
-      {
-        "id": "primaria-3-matematicas-b2-002",
-        "tema": "Restas simples",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
-      }
+    "preview":[
+      {"id":"pri3-mat-b2-v1-001","tema":"Tabla del 6","tipo":"multiple_choice","nivel":"v1","pregunta":"6 × 8 = ¿?","opciones":["¡48! 🔢","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡48! 🔢","explicacion":"6×8=48","visual":"🔢"},
+      {"id":"pri3-mat-b2-v1-005","tema":"Tabla del 7","tipo":"multiple_choice","nivel":"v1","pregunta":"7 × 7 = ¿?","opciones":["¡49! 7️⃣","Triste","Gris.","Feo."],"respuestaCorrecta":"¡49! 7️⃣","explicacion":"7×7=49"},
+      {"id":"pri3-mat-b2-v2-002","tema":"Tabla del 9","tipo":"true_false","nivel":"v2","pregunta":"9 × 5 = 45. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"9×5=45"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.294Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

@@ -2,126 +2,185 @@
   "grado": "primaria-2",
   "materia": "matematicas",
   "bloque": 2,
-  "nombre": "Sumas y restas",
-  "meses": "Octubre-Noviembre",
+  "nombre": "Sumas y restas poderosas",
+  "meses": "Octubre - Noviembre",
   "temas": [
-    "Sumas hasta 20",
-    "Restas simples"
+    "Sumando con acarreo estelar",
+    "Restando sin llorar (reagrupando)",
+    "Problemas con moneditas del tianguis",
+    "Doble y mitad mágicos"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-matematicas-b2-001",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b2-v1-001",
+        "tema": "Sumando con acarreo estelar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical sumadorcillo, si tienes 27 estrellitas y te regalan purificadamente 15 estrellitas más, ¿cuántas estrellitas mágicas tienes ahora en tu cofrecito estelar?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Cuarenta y dos (4-2) estrellitas brillosas apiladas maravillosísimamente en el cofre estelar! ⭐42",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes fétidas letárgicas asquerosillas.",
+          "Romper los dolorosos cálculos frígidos oscuros algoritmos de sombras marchitotas.",
+          "Las fétidas máquinas lloronas gélidas amarguras llanto destructivo basureras sombrías."
+        ],
+        "respuestaCorrecta": "¡Cuarenta y dos (4-2) estrellitas brillosas apiladas maravillosísimamente en el cofre estelar! ⭐42",
+        "explicacion": "27 + 15 = 42. ¡Sumamos las unidades (7+5=12, acarreamos 1) y luego las decenas (2+1+1=4)! ⭐42",
+        "visual": "⭐42"
       },
       {
-        "id": "primaria-2-matematicas-b2-002",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b2-v1-002",
+        "tema": "Restando sin llorar (reagrupando)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Si tienes puritísimamente 50 canicas amarillitas doradas y le das maravillosamente 23 a tu compadrito estelar, te quedan deidicamente 27 canicas.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡¡Súper V-E-R-D-A-D angelical!! 50 − 23 = 27. Reagrupas la decenita para bajar y sacar las unidades como un campeón olímpico estelar. 🟡27"
       },
       {
-        "id": "primaria-2-matematicas-b2-003",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b2-v1-003",
+        "tema": "Problemas con moneditas del tianguis",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Compras maravillosamente un mega helado estelar de fresa que vale $15 pesitos y pagas con un billetin de $20 pesotes. Tu cambio purísimo y sonante es de ____ pesitos.",
+        "respuestaCorrecta": "5",
+        "explicacion": "¡5 pesitos amados! 20 − 15 = 5. El señor heladero te devuelve una monedita redondita brillante de $5. 🍦💰"
+      },
+      {
+        "id": "pri2-mat-b2-v1-004",
+        "tema": "Doble y mitad mágicos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el doble purificadísimo del número 14? ¡Abre tus ojitos estelares de sabio, querubín matemático!",
+        "opciones": [
+          "¡El majestuoso V-E-I-N-T-I-O-C-H-O (28) porque 14 + 14 = 28 esterllitas dobles! 🌟28",
+          "Hundan las dolorosas amarguras fúnebres miedosas de maquinillas arrugadas letárgicas.",
+          "Romper los basureros gélidos de charcos gélidos de asfalto destrozador de sombras amarguras.",
+          "Las máquinas miedosas tristes destructivos encanto destructor pantanotas letales soledades."
+        ],
+        "respuestaCorrecta": "¡El majestuoso V-E-I-N-T-I-O-C-H-O (28) porque 14 + 14 = 28 esterllitas dobles! 🌟28",
+        "explicacion": "El doble es sumar el mismo número dos veces: 14 + 14 = 28. ¡Fácil y mágico maravillosísimo! 🌟28"
+      },
+      {
+        "id": "pri2-mat-b2-v1-005",
+        "tema": "Sumando con acarreo estelar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuánto es 38 + 24 en el supersalón de luces estelares, querubín matemático deidico?",
+        "opciones": [
+          "¡Sesenta y dos (62) maravillosísimamente bien contaditos y acarreados como un profe chido! 🎯62",
+          "Calculadoras fúnebres de monstruosos lodos destructivos amarguras llorosos envueltadoras.",
+          "Las tristes destrozadoras gélidas abismales asquerosillas de fúnebre asfalto llorón miedoso.",
+          "Llorándonos cálculos amargos miedosos destrozadores asfalto oscuros lodos miedosas letales."
+        ],
+        "respuestaCorrecta": "¡Sesenta y dos (62) maravillosísimamente bien contaditos y acarreados como un profe chido! 🎯62",
+        "explicacion": "38 + 24: unidades 8+4=12 (escribimos 2, acarreamos 1), decenas 3+2+1=6. ¡Resultado: 62! 🎯62"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-matematicas-b2-v2-001",
-        "tema": "Restas simples",
+        "id": "pri2-mat-b2-v2-001",
+        "tema": "Sumando con acarreo estelar",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl 2 _27 7  + +_ 1 15 5  = =  ? ?? ¿ ¿C Cu uá án nt ta as s  e es st tr re el ll li it ta as s ?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡C CU UA AR RE EN NT TA A_ Y Y_ D DO OS S  ( (4 42 2) )  e es st tr re el ll li it ta as s ! !!  ⭐42",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡C CU UA AR RE EN NT TA A_ Y Y_ D DO OS S  ( (4 42 2) )  e es st tr re el ll li it ta as s ! !!  ⭐42",
+        "explicacion": "2 27 7  + +  1 15 5  = =  4 42 2 !! ⭐42!"
       },
       {
-        "id": "primaria-2-matematicas-b2-v2-002",
-        "tema": "Restas simples",
+        "id": "pri2-mat-b2-v2-002",
+        "tema": "Restando sin llorar (reagrupando)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
+        "pregunta": "Eilisisi _iln 5 50 0  − −  2 23 3  = =  2 27 7 ? ?? .!?o_¡_?si.i!s!!",
         "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "explicacion": "Isilsililiisi!!! 5 50 0 _ − − _ 2 23 3 _ = = _ 2 27 7 !! 🟡27!"
       },
       {
-        "id": "primaria-2-matematicas-b2-v2-003",
-        "tema": "Restas simples",
+        "id": "pri2-mat-b2-v2-003",
+        "tema": "Problemas con moneditas del tianguis",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Siiisilisil h he el la ad do o  $ $1 15 5  p pa ag ga as s  c co on n  $ $2 20 0  t tu u  c ca am mb bi io o  e es s  _ __ __ _  p pe es si it to os s",
+        "respuestaCorrecta": "5",
+        "explicacion": "2 20 0 _ − − _ 1 15 5 _ = = _ 5 5 !! 🍦💰"
+      },
+      {
+        "id": "pri2-mat-b2-v2-004",
+        "tema": "Doble y mitad mágicos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil E eL l_ d dO oB bL lE e_ d dE e_ 1 14 4  e es s ?? ?! a?_?...l?!",
+        "opciones": [
+          "¡V VE EI IN NT TI IO OC CH HO O_ ( (2 28 8) )_ p po or rq qu ue e_ 1 14 4_ + +_ 1 14 4_ = =_ 2 28 8 !! 🌟28",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡V VE EI IN NT TI IO OC CH HO O_ ( (2 28 8) )_ p po or rq qu ue e_ 1 14 4_ + +_ 1 14 4_ = =_ 2 28 8 !! 🌟28",
+        "explicacion": "1 14 4 _ + + _ 1 14 4 _ = = _ 2 28 8 !! 🌟28!!"
+      },
+      {
+        "id": "pri2-mat-b2-v2-005",
+        "tema": "Sumando con acarreo estelar",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili 3 38 8_ + +_ 2 24 4_ = =_ 6 62 2 ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "3 38 8 + + 2 24 4 = = 6 62 2 !! 🎯62"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-matematicas-b2-001",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b2-v1-001",
+        "tema": "Sumando con acarreo estelar",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si tienes 27 estrellitas y te regalan 15 más, ¿cuántas tienes?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Cuarenta y dos (42) estrellitas brillosas! ⭐",
+          "Destrozadoras bestias",
+          "Cuadraduras grises.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Cuarenta y dos (42) estrellitas brillosas! ⭐",
+        "explicacion": "27+15=42",
+        "visual": "⭐"
       },
       {
-        "id": "primaria-2-matematicas-b2-v2-001",
-        "tema": "Restas simples",
+        "id": "pri2-mat-b2-v1-004",
+        "tema": "Doble y mitad mágicos",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el doble purificadísimo del número 14?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡El majestuoso VEINTIOCHO (28) porque 14+14=28! 🌟",
+          "Llantos oscuros",
+          "Lodo letárgico",
+          "Llorando fétido"
+        ],
+        "respuestaCorrecta": "¡El majestuoso VEINTIOCHO (28) porque 14+14=28! 🌟",
+        "explicacion": "14+14=28"
       },
       {
-        "id": "primaria-2-matematicas-b2-002",
-        "tema": "Sumas hasta 20",
+        "id": "pri2-mat-b2-v2-002",
+        "tema": "Restando sin llorar (reagrupando)",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "nivel": "v2",
+        "pregunta": "50 − 23 = 27. ¿Es ciertitísimo?",
+        "opciones": ["Verdadero", "Falso"],
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "50-23=27"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.269Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

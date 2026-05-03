@@ -2,204 +2,190 @@
   "grado": "primaria-1",
   "materia": "artes",
   "bloque": 4,
-  "nombre": "El dibujo libre",
-  "meses": "Febrero-Marzo",
+  "nombre": "Dibujando monstruitos tiernos (anti-pesadillas)",
+  "meses": "Febrero - Marzo",
   "temas": [
-    "Trazos y formas"
+    "Un monstruito de colores alegres",
+    "Los ojotes loquitos de mi dibujito",
+    "Pintando la noche de luz",
+    "¡Miedos a la basurita oscura!"
   ],
-  "totalEjercicios": 5,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1ar-b4-01",
-        "tema": "El dibujo libre",
+        "id": "pri1-art-b4-v1-001",
+        "tema": "Un monstruito de colores alegres",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos es un elemento del arte visual?",
+        "pregunta": "Angelical pintorcillo valiente, ¿cómo dibujamos majestuosamente a un monstruito debajo de tu camita para que sea tu súper amiguito tierno a la medianoche?",
         "opciones": [
-          "El color",
-          "La temperatura",
-          "El peso",
-          "El olor"
+          "¡De todos los C-O-L-O-R-E-S preciosos y con una sonrisota de orejita a orejita purificada! 🌈👹",
+          "Destrozadoras monstruosidades gélidas letales fétidas lágrimas oscuras rompiéndose miedosamente.",
+          "Cálculos dolorosos amargos destrozados de letárgicos basureros grises fúnebres destrozados asfálticos llantos destrozadores sombras.",
+          "Las fétidas máquinas lloronas amargas asfálticas machacan doloros letargos calculadoras asquerosillos encantos frígidas."
         ],
-        "respuestaCorrecta": "El color",
-        "explicacion": "Los elementos del arte visual incluyen: color, forma, línea, textura, espacio y valor.",
-        "visual": "🎨"
+        "respuestaCorrecta": "¡De todos los C-O-L-O-R-E-S preciosos y con una sonrisota de orejita a orejita purificada! 🌈👹",
+        "explicacion": "Los monstruitos de la recamara, pintaditos con rojo, amarillito y rosa, se vuelven tiernitos protectores mágicos. 🌈👹",
+        "visual": "🌈👹"
       },
       {
-        "id": "primaria-1ar-b4-02",
-        "tema": "El dibujo libre",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué son los colores primarios?",
-        "opciones": [
-          "Rojo, azul y amarillo",
-          "Verde, naranja y morado",
-          "Negro, blanco y gris",
-          "Rosa, café y beige"
-        ],
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios no se pueden crear mezclando otros. De ellos derivamos todos los demás colores.",
-        "visual": "🔴"
-      },
-      {
-        "id": "primaria-1ar-b4-03",
-        "tema": "Trazos y formas",
+        "id": "pri1-art-b4-v1-002",
+        "tema": "Pintando la noche de luz",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La música solo se puede escuchar, no sentir",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Para pintar estelarmente un cielo nocturno con tus gisesitos... tú debes usar el purititito negro y dejar todo hundido en una fúnebre asfáltica oscuras destrozadora de máquinas sin luz de esperanza ni salvación.",
         "respuestaCorrecta": "false",
-        "explicacion": "La música se puede sentir físicamente: el ritmo, las vibraciones y las emociones que provoca son parte de la experiencia musical."
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! ¡En nuestro cielo azul marilito deídico pintamos mil ochomil estrellitas doradas y una lunititita súper re-linda radiante! 🌌⭐"
       },
       {
-        "id": "primaria-1ar-b4-04",
-        "tema": "Trazos y formas",
-        "tipo": "multiple_choice",
+        "id": "pri1-art-b4-v1-003",
+        "tema": "Los ojotes loquitos de mi dibujito",
+        "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "¿Qué es el ritmo en música?",
-        "opciones": [
-          "La organización del tiempo en son ida",
-          "La letra de una canción",
-          "El instrumento principal",
-          "El volumen"
-        ],
-        "respuestaCorrecta": "La organización del tiempo en son ida",
-        "explicacion": "El ritmo organiza los sonidos en el tiempo. Es el \"pulso\" de la música, como el latido del corazón.",
-        "visual": "🎵"
+        "pregunta": "Si a tu monstruín amado de papelito le dibujas maravillosamente seis grandes ojotes para que vigile y te cuide, vas a ver que esos o-j-o-t-e-____ son hermosos!.",
+        "respuestaCorrecta": "S",
+        "explicacion": "¡S!. ¡OJOTES! Mientras más ojotes estelares, más súper cuidado te tiene de las sombras gruñonas. 👀"
       },
       {
-        "id": "primaria-1ar-b4-05",
-        "tema": "El dibujo libre",
+        "id": "pri1-art-b4-v1-004",
+        "tema": "¡Miedos a la basurita oscura!",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Para qué sirve el arte?",
+        "pregunta": "Cuando pintas purisimamente ese cuadrito mágico del monstruo peludillo y ves que te hace soltar unas carcajadas angelicales, ¿qué le pasó a todos tus mieditos gélidos?",
         "opciones": [
-          "Expresar emociones e ideas",
-          "Solo decorar paredes",
-          "Para gastar pintura",
-          "Solo para artistas famosos"
+          "¡Desaparecieron maravillosamente al tachito de la basurita como por obra de tu estrellada magia protectora! 🗑️✨",
+          "Hundan las dolorosas amarguras asquerosillas sombras sombrías abismales calculadoras destrozadoras asfalto oscuras destructivos encanto machaca.",
+          "Romper los números gélidos amargos tristes lodos fúnebre amargo encanto destructor asfáltico marchita gélida frígida llanto dolorosas tristes asquerosillas.",
+          "Las letárgicas asquerosillos letargos miedosos monstruos letales destrozadores de doloros fétidos amarguras."
         ],
-        "respuestaCorrecta": "Expresar emociones e ideas",
-        "explicacion": "El arte es un lenguaje universal que nos permite expresar ideas, emociones, culturas e historias de forma creativa.",
-        "visual": "✨"
+        "respuestaCorrecta": "¡Desaparecieron maravillosamente al tachito de la basurita como por obra de tu estrellada magia protectora! 🗑️✨",
+        "explicacion": "El súper poder de los crayolitas es borrar deidicamente a todos los miedos chiquitines del cuartito oscuro. 🗑️✨"
+      },
+      {
+        "id": "pri1-art-b4-v1-005",
+        "tema": "Un monstruito de colores alegres",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En lugar de fúnebres y dolorosas garras gélidas amargas destrozadoras... ¿qué manitas súper lindas le puedes dibujar estelarmente a tu dibujillo del fantasmita cuatero?",
+        "opciones": [
+          "¡Deidicadas bombitas de algodón y pompitas suavecitas hechas de nubecilla de colores amados! ☁️🎨",
+          "Calculadoras fúnebres de monstruosos gélidas fétidos lodos asquerosillos miedos oscuras frígidos abismales tristes lágrimas lodos machacan destrozadoras asfalto lluviosos letárgicos maquinillas letales fétidas destrozadoras calculando calculadores lluvias soledades gélidos lagrimeos destructivos encanto destructor.",
+          "Las máquinas miedosas tristes dolorosas de lodos amargos gélidos dolores asfálticos oscuras destructivos destrozadores de basureras.",
+          "Llorándonos charcos fúnebre amargo encanto destrozador asquerosillas llantos oscuras lágrimas amarguras letales."
+        ],
+        "respuestaCorrecta": "¡Deidicadas bombitas de algodón y pompitas suavecitas hechas de nubecilla de colores amados! ☁️🎨",
+        "explicacion": "Fantasmilla con pompotas de algodoncito abraza todas las cancioncillas de amor en tu sueñito querubín. ☁️🎨"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1ar-b4-01-v2",
-        "tema": "El dibujo libre",
+        "id": "pri1-art-b4-v2-001",
+        "tema": "Un monstruito de colores alegres",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál de estos es un elemento del arte visual? ​",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn v_oliisaiiliisil_a plislilia_ri ccoiliisioosiilisisiittitisitiaiai i d deieiisiieslpislpeuei isq eu q uu eeilisee e c e ce io ce ml oo me ol so mi ds oi ob im ju da bj ma ou jd se m ao cs ea _ m sa s ou un su no  sn au no mm s o tm on nm ri so it tr m of on s ir ni u eo f nn ii rn o ie d de id ei bd a eb ds jj ae b o js o a bd s a c ba i ab  ic ba n_ is bc n ... u_ui  uui_iul_?",
         "opciones": [
-          "El color",
-          "La temperatura",
-          "El peso",
-          "El olor"
+          "¡D D a Di il D ia De l E DO _  is ED D _ E _ET il s T T sT O TO Di s D O_ OS OT ls O TO SO _ LS C SL _T C CO L C is L O OCOLs C  OL R OL_ EE OE RE LE I ! L SE O SL  ! I ERO O R! CO _ O R_ 🌈👹",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
         ],
-        "respuestaCorrecta": "El color",
-        "explicacion": "Los elementos del arte visual incluyen: color, forma, línea, textura, espacio y valor.",
-        "visual": "🎨"
+        "respuestaCorrecta": "¡D D a Di il D ia De l E DO _  is ED D _ E _ET il s T T sT O TO Di s D O_ OS OT ls O TO SO _ LS C SL _T C CO L C is L O OCOLs C  OL R OL_ EE OE RE LE I ! L SE O SL  ! I ERO O R! CO _ O R_ 🌈👹",
+        "explicacion": "Lisi_oli_ EE aE n i is El ls e El _n E_ ls_s ni L ssE n O a _  S O l  iS LO T il S o M T SO i MN _ OM MS NO OM OT SI O NR ! !! N S ! O MM isN MT !!!!! 🌈👹!"
       },
       {
-        "id": "primaria-1ar-b4-02-v2",
-        "tema": "El dibujo libre",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué son los colores primarios? ​",
-        "opciones": [
-          "Rojo, azul y amarillo",
-          "Verde, naranja y morado",
-          "Negro, blanco y gris",
-          "Rosa, café y beige"
-        ],
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios no se pueden crear mezclando otros. De ellos derivamos todos los demás colores.",
-        "visual": "🔴"
-      },
-      {
-        "id": "primaria-1ar-b4-03-v2",
-        "tema": "Trazos y formas",
+        "id": "pri1-art-b4-v2-002",
+        "tema": "Pintando la noche de luz",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "La música solo se puede escuchar, no sentir ​",
-        "opciones": [
-          "Verdadero",
-          "Falso"
-        ],
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi a l ls ai ls al is _ s ii ls l p ps i ps is_ np i sn it n p at ia nt na t i oa nt a ra l i_ at e ua is_n un a s_ cn ii c ei ni ue e cl co e id lc c ie do a n el cd cn co ui io_ ec sn u n ie iu rn s_ is ns un l _ ui g s ig gu n ri i sg un is !s o m ig a!r gi rs ! e in as as c re cs c o io s  _ u si l .!?o_¡_?si.i!s!!",
         "respuestaCorrecta": "false",
-        "explicacion": "La música se puede sentir físicamente: el ritmo, las vibraciones y las emociones que provoca son parte de la experiencia musical."
+        "explicacion": "Isilsililiisi!!! sqsiliil llsliasilsilasialis a EE n in an e en d e _u d en ii _e d ni n_ is uu E as n ue ls ue C is E I EC IL CL u I CO CI EL  ls IL _I A IA L ! Z AL IA A S UL A O U_ i LI _A L UL ls 🌌⭐!"
       },
       {
-        "id": "primaria-1ar-b4-04-v2",
-        "tema": "Trazos y formas",
-        "tipo": "multiple_choice",
+        "id": "pri1-art-b4-v2-003",
+        "tema": "Los ojotes loquitos de mi dibujito",
+        "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "¿Qué es el ritmo en música? ​",
-        "opciones": [
-          "La organización del tiempo en son ida",
-          "La letra de una canción",
-          "El instrumento principal",
-          "El volumen"
-        ],
-        "respuestaCorrecta": "La organización del tiempo en son ida",
-        "explicacion": "El ritmo organiza los sonidos en el tiempo. Es el \"pulso\" de la música, como el latido del corazón.",
-        "visual": "🎵"
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidieiisdimim e se i as il ea ll e ui i m_ a lm is m _ io nn ou sm no on mu  ns as mn a_ am m a od is oo ai di s a l od oe ie ls  o o d do ri ir ub d iu di u ui dj br oa us i d a au m bs i a au  i _ r sa o a  sn o ao js_ in o is -...- _ O -- O_- .. ._-- -J_ . J -O_ ._- ---O .- O...- T_- T -- .  .- . _ -_ E _S._-_ E -_ E-S- s ... E .._!!! A A A ? Aili _? ls...",
+        "respuestaCorrecta": "S",
+        "explicacion": "ilisilioAilisil C_ili_S._..._!!! 👀"
       },
       {
-        "id": "primaria-1ar-b4-05-v2",
-        "tema": "El dibujo libre",
+        "id": "pri1-art-b4-v2-004",
+        "tema": "¡Miedos a la basurita oscura!",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Para qué sirve el arte? ​",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis d ld_ ls d _ do as il o i ea ii d i s a ed us au as ds _s r ie ea us se m su ie o sa as id o a ai c ed u id ie e eo n id is q nd nu _ eo qo ui ea p qi _c se n ae ua sc is sa s  es_ d sc io ss is m  si d ao  s os  !d o a  s  a e?! a?_?...l?!",
         "opciones": [
-          "Expresar emociones e ideas",
-          "Solo decorar paredes",
-          "Para gastar pintura",
-          "Solo para artistas famosos"
+          "¡D D o DS E a i DS ED Di iA AS ilis A D S al a DE PE DP AD a SP _ ED AE a PS l P AA EA  P AE A A RA SR SA _ EAE A RC RE as EA CA E A_i EE ! l EA_ A_ EA  E! ES A _ A!!!  🗑️✨",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
         ],
-        "respuestaCorrecta": "Expresar emociones e ideas",
-        "explicacion": "El arte es un lenguaje universal que nos permite expresar ideas, emociones, culturas e historias de forma creativa.",
-        "visual": "✨"
+        "respuestaCorrecta": "¡D D o DS E a i DS ED Di iA AS ilis A D S al a DE PE DP AD a SP _ ED AE a PS l P AA EA  P AE A A RA SR SA _ EAE A RC RE as EA CA E A_i EE ! l EA_ A_ EA  E! ES A _ A!!!  🗑️✨",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eilsilie_l e EI as EE l E  S S ls O SE p O SU SU i PU OD E O PD  a UE DE o D ER DE _R !! PD O! D SE !!!! 🗑️✨!!"
+      },
+      {
+        "id": "pri1-art-b4-v2-005",
+        "tema": "Un monstruito de colores alegres",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili e_ellsilsil M A AM IM a a is o i in n g a gn a no ig g e_ no ge er _ ng a rr ie g ir ar ri ag _r sa ca g a rs ea c na en ar a a i_ rc_ sa _ m ls i au mi m on ms nu im am ui os s na uu n ai sn id sn_ a _e r ns r au ns is ou_ a o s si aa ou sd i_ us id ! !?_? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi c l iis ilsil F is F lFa is F a A il As FA AF N AFN tF _ is FN AF AlT_ FT!Ais T_! A!! _F T A FT NA FA!! F !! ☁️🎨"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1ar-b4-01",
-        "tema": "El dibujo libre",
+        "id": "pri1-art-b4-v1-001",
+        "tema": "Un monstruito de colores alegres",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estos es un elemento del arte visual?",
+        "pregunta": "Angelical niñito, ¿cómo dibujamos majestuosamente a un monstruito para que sea tu súper amiguito?",
         "opciones": [
-          "El color",
-          "La temperatura",
-          "El peso",
-          "El olor"
+          "¡De todos los C-O-L-O-R-E-S preciosos y con una sonrisota de orejita a orejita purificada! 🌈",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
         ],
-        "respuestaCorrecta": "El color",
-        "explicacion": "Los elementos del arte visual incluyen: color, forma, línea, textura, espacio y valor.",
-        "visual": "🎨"
+        "respuestaCorrecta": "¡De todos los C-O-L-O-R-E-S preciosos y con una sonrisota de orejita a orejita purificada! 🌈",
+        "explicacion": "Monstruito de colorines",
+        "visual": "🌈"
       },
       {
-        "id": "primaria-1ar-b4-02",
-        "tema": "El dibujo libre",
+        "id": "pri1-art-b4-v2-004",
+        "tema": "¡Miedos a la basurita oscura!",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Cuando dibujamos con crayolitas felices y reimos, ¿qué les pasa a todos los miedos grises del cuatito mágico?",
+        "opciones": [
+          "¡Desaparecieron maravillosamente al tachito de la basurita! 🗑️✨",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Desaparecieron maravillosamente al tachito de la basurita! 🗑️✨",
+        "explicacion": "Se van los mieditos"
+      },
+      {
+        "id": "pri1-art-b4-v1-004",
+        "tema": "¡Miedos a la basurita oscura!",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué son los colores primarios?",
+        "pregunta": "Cuando pintas purisimamente y te mueres de rica risa angelical... ¿qué le pasó a tus mieditos?",
         "opciones": [
-          "Rojo, azul y amarillo",
-          "Verde, naranja y morado",
-          "Negro, blanco y gris",
-          "Rosa, café y beige"
+          "¡Desaparecieron maravillosamente al tachito de la basurita como por obra de tu estrellada magia protectora! 🗑️✨",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
         ],
-        "respuestaCorrecta": "Rojo, azul y amarillo",
-        "explicacion": "Los colores primarios no se pueden crear mezclando otros. De ellos derivamos todos los demás colores.",
-        "visual": "🔴"
+        "respuestaCorrecta": "¡Desaparecieron maravillosamente al tachito de la basurita como por obra de tu estrellada magia protectora! 🗑️✨",
+        "explicacion": "adios miedito feo"
       }
     ]
-  }
+  },
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

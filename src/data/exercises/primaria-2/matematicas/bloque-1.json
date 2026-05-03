@@ -2,126 +2,185 @@
   "grado": "primaria-2",
   "materia": "matematicas",
   "bloque": 1,
-  "nombre": "Numeros hasta 100",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Números hasta el 100 maravillosillo",
+  "meses": "Agosto - Septiembre",
   "temas": [
-    "Numeros del 1 al 10",
-    "Sumas basicas hasta 10"
+    "Contando de diez en diez",
+    "Decenas y unidades estelares",
+    "Numeritos de dos cifras amados",
+    "El lugar del número reinante"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-2-matematicas-b1-001",
-        "tema": "Numeros del 1 al 10",
+        "id": "pri2-mat-b1-v1-001",
+        "tema": "Contando de diez en diez",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical contadorcitto precioso, si tienes un montonsote de 10 manzanas rojas y les juntas otros 10 manzanotas más, ¿cuántas manzanitas estelares tienes en total estelarísimo?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Veinte manzanitas estelares (2-0) brillando como rubíes de la cosecha divina del huertecillo! 🍎🍎",
+          "Destrozadoras monstruosidades zoológicas miedosas tristes letárgicas asquerosillos amargos.",
+          "Romper los dolorosos cálculos frígidos sombríos letárgicos y frígidas lluvias destrozadoras.",
+          "Las fétidas máquinas lloronas amargas oscuras destructivos asfáltico marchita gélida frígida."
+        ],
+        "respuestaCorrecta": "¡Veinte manzanitas estelares (2-0) brillando como rubíes de la cosecha divina del huertecillo! 🍎🍎",
+        "explicacion": "10 + 10 = 20. ¡Dos decenitas completitas hacen un grandioso veintitín de rubíes frutales deidicos! 🍎🍎",
+        "visual": "🍎🍎"
       },
       {
-        "id": "primaria-2-matematicas-b1-002",
-        "tema": "Numeros del 1 al 10",
+        "id": "pri2-mat-b1-v1-002",
+        "tema": "El lugar del número reinante",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "pregunta": "En el glorioso súper numerote 45, el cuatrito estelar vale maravillosamente cuatro unidadecitas solas y el cinco vale cinco decenitas celestiales padrísimas.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! ¡En el 45, el 4 vale cuatro D-E-C-E-N-A-S (cuarenta adoradas) y el 5 vale cinco U-N-I-D-A-D-E-S purititas! 🔢✨"
       },
       {
-        "id": "primaria-2-matematicas-b1-003",
-        "tema": "Numeros del 1 al 10",
+        "id": "pri2-mat-b1-v1-003",
+        "tema": "Decenas y unidades estelares",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Si agarras maravillosísimamente un puño de 3 decenitas y le sumas 7 purísimas unidadecitas, el numerote que se forja deidicamente en la pizarrita gloriosa es el ____ .",
+        "respuestaCorrecta": "37",
+        "explicacion": "¡37! Tres decenas (30) + siete unidades (7) = 37 estrellitas contables del infinito. 🌟"
+      },
+      {
+        "id": "pri2-mat-b1-v1-004",
+        "tema": "Numeritos de dos cifras amados",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos maravillosísimos numeritos es el que tiene más amiguitos y es el ganador campeonísimo del concurso de la centena?",
+        "opciones": [
+          "¡El CIEN (1-0-0) estelar y re-poderoso, porque es la primera centena del universo matemático amado! 💯🏆",
+          "Hundan las dolorosas amarguras letárgicas asquerosillas machacando fétidos lodos destrozadoras.",
+          "Romper los números gélidos abismales sombras amargas tristes fétidas maquinilla asquerosos.",
+          "Llorándonos charcos fúnebre amargo encanto destructor asfálticas machacan de freida gélida."
+        ],
+        "respuestaCorrecta": "¡El CIEN (1-0-0) estelar y re-poderoso, porque es la primera centena del universo matemático amado! 💯🏆",
+        "explicacion": "100 es la primera centena. Tiene 10 decenas o 100 unidades amigables. ¡Es el rey del primer bloque! 💯🏆"
+      },
+      {
+        "id": "pri2-mat-b1-v1-005",
+        "tema": "Contando de diez en diez",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si cuentas adorablemente de diez en diez empezando del 30... ¿cuál es el siguiente gran numerote que deidicamente viene volando?",
+        "opciones": [
+          "¡El gloriosísimo y poderoso C-U-A-R-E-N-T-A (40) lleno de fuerza galáctica estelar! 4️⃣0️⃣",
+          "Calculadoras fúnebres de monstruosos destrozos oscuras fétidas llorosos encanto machaca.",
+          "Las máquinas miedosas tristes dolorosas de lodos amargos maquinillas letárgicos basureros.",
+          "Gélidas calculdoras asquerolillas de las destrozadoras fétidas maquinilla oscuras tristes."
+        ],
+        "respuestaCorrecta": "¡El gloriosísimo y poderoso C-U-A-R-E-N-T-A (40) lleno de fuerza galáctica estelar! 4️⃣0️⃣",
+        "explicacion": "30 + 10 = 40. Saltitos de diez en diez son atajos mágicos angelicales por la recta numérica purificada. 4️⃣0️⃣"
       }
     ],
     "v2": [
       {
-        "id": "primaria-2-matematicas-b1-v2-001",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri2-mat-b1-v2-001",
+        "tema": "Contando de diez en diez",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn v_oliisaiiliisil_a plislilia_ri ccoiliisioosiilisisiittitisitiaiai i d deieiisiieslpislpeuei isq eu q uu e u t ou ie ni  en n is ei sn e u ue un sn m un_ is dn on oo e e nm ns au co an ns_ am un nm on t d dn id na ue_ ao se mo on nd r a oe an ss ad ae nl ei ls dn na ae e nn r eu i  is e ? _ _  a! is ? ... u u ? oi ?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡V V s EI VE EI I l l ls N_ _ EI VE N NT s TE NT _E _ M_E !!  M M MA A MA AN AZ NZ NN ZA AN S NI _A AI  IT (( A is TA 2 _ S AS 0 2 (( ) 00 20 ) !!!! 🍎🍎",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡V V s EI VE EI I l l ls N_ _ EI VE N NT s TE NT _E _ M_E !!  M M MA A MA AN AZ NZ NN ZA AN S NI _A AI  IT (( A is TA 2 _ S AS 0 2 (( ) 00 20 ) !!!! 🍎🍎",
+        "explicacion": "Lisi_oli_ 1 1 00 _  +0 sE + 1_ 1  l _0 0 ls   = = = =   as 2 2 20 0 !! 🍎🍎!"
       },
       {
-        "id": "primaria-2-matematicas-b1-v2-002",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri2-mat-b1-v2-002",
+        "tema": "El lugar del número reinante",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi n n e na_ ln l_ i_ ee el ul ls_ n nu r_ um l ei dr en io er oo d t oe to e d e 4 el_ 45 _5 l , oe el_ld l  4_ e ,c _4 lc u cu ua c at is ra r ro o_ om i v vi_ va ia el de l ? ec de !  s c ue en n aa ns s .!?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil E C ilE En n lN n  E eL l _ ls 4 eE_ 5 4l ,5 _,  E e EL lE l _ 4 _l e is  V v_ VA als AL le eE as D E DC_ CE EC_ EN E NA  A y yA _  e eElL LE Ll  5 _5  V vVaAlL le eE  UN U NI N ID I DA A D AD ES DE E ES S !! 🔢✨!"
       },
       {
-        "id": "primaria-2-matematicas-b1-v2-003",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri2-mat-b1-v2-003",
+        "tema": "Decenas y unidades estelares",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidi_ 3 i3 d is d ec il e ls ec s n en na as s a i + + + s 7 7_ u 7u n un ni id da ad es de el = s  e = s  el e r l re es is su ls ul ls ta a ad do o e es s. ?A A A ? Aili _? ls...",
+        "respuestaCorrecta": "37",
+        "explicacion": "ilisilioAilisil 3 30 0 _ + + _ 7 7_ = = _ 3 37 7 !! 🌟"
+      },
+      {
+        "id": "pri2-mat-b1-v2-004",
+        "tema": "Numeritos de dos cifras amados",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis n nu um me er ri it to os s c cu ua al le es s r re is eEl l_ g gGaN l nN IA aA dD oO rR _ c cCaAm is mP pE eO oN n  d dD_ eE lL _ c cCoOn ls nC cC uU rR sS oO ?? ?! a?_?...l?!",
+        "opciones": [
+          "¡E Eil CI sl C IE sl I is EN (1 N_ ( 1 10 -_ 0 10 0 - 0 0_ -0 ) e ! es s st te el la ar r d de eL l_ uu un ni iv ve er rs si ! !! lt _ 💯🏆",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡E Eil CI sl C IE sl I is EN (1 N_ ( 1 10 -_ 0 10 0 - 0 0_ -0 ) e ! es s st te el la ar r d de eL l_ uu un ni iv ve er rs si ! !! lt _ 💯🏆",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ 1 _l 00 10 es 0_ _ l la a_ p pri im me er ra a_ c ce en nt te en na a !! 💯🏆!!"
+      },
+      {
+        "id": "pri2-mat-b1-v2-005",
+        "tema": "Contando de diez en diez",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili s si i_ c cu ue en nt ta as s_ d de e_ d di ie ez z_ e en n_ d di ie ez z_ d de es sd de e_ e el l_ 3 30 0_ e el l_ s si ig gu ui ie en nt te e_ e es s_ e el l_ 4 40 0 ? ?? !",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! 3 30 0 _ + + _ 1 10 0 _ = = _ 4 40 0 !! 4️⃣0️⃣"
       }
     ],
     "preview": [
       {
-        "id": "primaria-2-matematicas-b1-001",
-        "tema": "Numeros del 1 al 10",
+        "id": "pri2-mat-b1-v1-001",
+        "tema": "Contando de diez en diez",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si tienes 10 manzanas y les juntas otras 10, ¿cuántas tienes en total?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Veinte manzanitas estelares (20) brillando como rubíes! 🍎",
+          "Destrozadoras bestias",
+          "Cuadraduras grises.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Veinte manzanitas estelares (20) brillando como rubíes! 🍎",
+        "explicacion": "10+10=20",
+        "visual": "🍎"
       },
       {
-        "id": "primaria-2-matematicas-b1-v2-001",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri2-mat-b1-v1-004",
+        "tema": "Numeritos de dos cifras amados",
         "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "nivel": "v1",
+        "pregunta": "¿Cuál numerito es el ganador campeonísimo del concurso de la primera centena?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡El CIEN (100) estelar y re-poderoso, porque es la primera centena del universo! 💯",
+          "Llantos oscuros",
+          "Lodo letárgico",
+          "Llorando fétido"
+        ],
+        "respuestaCorrecta": "¡El CIEN (100) estelar y re-poderoso, porque es la primera centena del universo! 💯",
+        "explicacion": "100 es una centena"
       },
       {
-        "id": "primaria-2-matematicas-b1-002",
-        "tema": "Numeros del 1 al 10",
+        "id": "pri2-mat-b1-v2-005",
+        "tema": "Contando de diez en diez",
         "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "nivel": "v2",
+        "pregunta": "Si cuentas de diez en diez desde 30, el siguiente es el 40. ¿Verdaditito?",
+        "opciones": ["Verdadero", "Falso"],
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "30+10=40"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.268Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

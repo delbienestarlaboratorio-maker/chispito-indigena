@@ -2,243 +2,245 @@
   "grado": "preescolar-2",
   "materia": "conocimiento",
   "bloque": 4,
-  "nombre": "Mi comunidad y vecinos",
-  "meses": "Febrero-Marzo",
+  "nombre": "Animalitos domésticos y animales salvajes",
+  "meses": "Febrero - Marzo",
   "temas": [
-    "Los sentidos",
-    "El tiempo y clima",
-    "Plantas y animales",
-    "La comunidad",
-    "Cuidar el planeta"
+    "Los peludos animales domésticos (Gatos y Perros)",
+    "Animales salvajes y lejanos (León, Elefante)",
+    "Los animales de la granja (Vaca, Pollito)",
+    "Respetar a todos los seres vivos"
   ],
-  "totalEjercicios": 14,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-conocimiento-b4-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b4-v1-001",
+        "tema": "Los peludos animales domésticos (Gatos y Perros)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Cuál de todos estos lindos animalitos es consideradísimo un Animal 'Doméstico' angelical que puede vivir rebotantemente e inmaculado grandiosamente feliz adentro de tu soleada y maravillosa casita?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "El travieso e hiperactivo perrito ladrador movedor de colitas 🐶",
+          "Un grandísimo y trompudo rinoceronte aplastante lúgubre salvaje ruidoso que no cabe y destroza salas",
+          "Un abrumador tiburón pez dentudo marino asesino enorme lúgubre terrorífico asombroso",
+          "Un león devorador de cabezas ruidoso gigantesco de selvas majestuosamente peligrosos oscuros y salvajes inmaculados"
+        ],
+        "respuestaCorrecta": "El travieso e hiperactivo perrito ladrador movedor de colitas 🐶",
+        "explicacion": "¡Los milenarios resplandecientes divinos caninos adoran las colchas, las croquetillas ricas sabrositas y la adoradísima suprema angelical compañía preescolar de sus amos divinos majestuositos inmaculados! 🐕",
+        "visual": "🐶"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-002",
-        "tema": "Los sentidos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
-        "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b4-003",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b4-v1-002",
+        "tema": "Animales salvajes y lejanos (León, Elefante)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "La mamá, el papá y los hijos forman una familia",
-        "respuestaCorrecta": "true",
-        "explicacion": "La familia es el grupo de personas con quienes vivimos y compartimos afecto y cuidado."
+        "pregunta": "El majestuosísimo e imponente Rey León doradito de gran melena salvaje ruidosa feroz adorada es una bellísima hermosa tierna inmaculada mascotita pequeñita que guardas espléndidamente asombrosa divina celestial en tu diminuto bolsillito de la camisita de escuela angelical intachable radiante.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡Para nada falso asombrosito! Es un felino gigantescamente salvaje asombroso inmarcesible libre indomable ruidocito rugidor cazador que reina celestial y asombrosamente glorioso y estelar en las extensas milenarias majestuosas y lejanísimas sábanas amarillas refulgentes soleadas libres. 🦁"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-004",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b4-v1-003",
+        "tema": "Los animales de la granja (Vaca, Pollito)",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Con los ojos podemos ___ todo a nuestro alrededor",
-        "respuestaCorrecta": "ver",
-        "explicacion": "Los ojos son los órganos de la vista; nos permiten ver formas, colores y movimiento."
+        "pregunta": "Ese gordísimo asombrosísimo ruidocito lodoso rosado y juguetonsísimo animalitito chanchito gordinflón de hocico chistosito resplandeciente adorable deidad que vive en la lodosa chiquerita corralera grandiosa granja maravillosa y dice 'oing-oing', se llama un lindo Cer___to.",
+        "respuestaCorrecta": "di",
+        "explicacion": "Cer-DI-to amado rechonchito juguetón en fanguitos resplandecientes charcos asombrositos preestablecidos infalibles amorosos lúdicos angelicales divos y hermosos rosaditos gloriosos marranitos granjeros deslumbrantes adorados incontables. 🐷"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-005",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b4-v1-004",
+        "tema": "Animales salvajes y lejanos (León, Elefante)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuál de estas son partes del cuerpo?",
-        "respuestaCorrecta": "Brazo, pierna, cabeza",
-        "explicacion": "Las partes del cuerpo humano incluyen cabeza, tronco y extremidades (brazos y piernas).",
+        "pregunta": "¿Quién es asombrosamente el colosal majestuosísimo altísimo invencible grisáceo glorioso y orejonísimo asombrosamente abrumador mamífero animalote salvaje celestial dotado de larga divina manguera trompita asombrosa succionadora bañadora rociadora de aguas de asombro africanas?",
         "opciones": [
-          "Mesa, silla, puerta",
-          "Brazo, pierna, cabeza",
-          "Libro, cuaderno, lápiz",
-          "Casa, árbol, nube"
-        ]
+          "El inmenso pisoteador y bondadoso sabihondo Elefante gigante 🐘",
+          "Una miniatura asombrosamente chillona rojilla lastrimera oruguita de hojita pequeñitita lúgubre triste escondidilla amarga",
+          "Un colibrí vertiginoso volador veloz resplandeciente místico alado asombroso fugaz escurridizo celestial alado preescolar doradito minúsculo atrayente",
+          "Una piedrita inerte lúgubre sucia tétrica cruel espantapájaros aburrida oscurísima sin patitas ni alas pesada rompevasos ruidosa letárgica"
+        ],
+        "respuestaCorrecta": "El inmenso pisoteador y bondadoso sabihondo Elefante gigante 🐘",
+        "explicacion": "El señor Elefántote prehistórico milenario asombrosísimo salvaje infalible e inmarcesible es el peso pesado colosal supremo angelical intocable majestuoso e incalculable adorado deidad y refulgente bebedor con trompa alargada asombrosa gloriosa inmensilla de la estelar naturaleza pura y salvajina. 🐘",
+        "visual": "🐘"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-006",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b4-v1-005",
+        "tema": "Los peludos animales domésticos (Gatos y Perros)",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "El perro y el gato son animales domésticos",
+        "pregunta": "Tu suave y amado adoradísimo celestial inmaculado felinito maullador y ronroneador Gatito tierno rutiilante dormilón de tejados solares angelicales esplendentes, atrapa ágil maravillosa infalible mágica magistral a los pequeñitos escurridizos ratoncitos roedores chistosos asombrosos miedosos veloces.",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales domésticos son los que viven con las personas en sus casas."
+        "explicacion": "¡Es innegablemente asombrosísimo resplandeciente y cierto! Su cacería felinezca cazadora inmaculada casera deidad le permite dominar saltando acrobático resplandeciente volador y escurridizo por rincones inmensurables majestuosos oscuros infalibles tras el hilo chistoso y queserito roedor veloz infalible angelical deidad. 🐈"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-007",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b4-v1-006",
+        "tema": "Los animales de la granja (Vaca, Pollito)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Qué le da energía a las plantas para crecer?",
-        "respuestaCorrecta": "El Sol",
-        "explicacion": "Las plantas necesitan luz solar para realizar la fotosíntesis y producir su alimento.",
+        "pregunta": "¿Cual hermosísima alada plumífera ponedora blanca asombrosísima deidad celestial granjera correcaminos en patios rurales esplendorosos inmaculados majestuosos asombrositos celestianos, canturrea cacareando gloriosísima orgullosa y picotea maicito asombroso divino poniendo deliciosos escurridizos maravillosos y frágiles rotundos blanquecinos huevitos nutritivos inmaculados mañaneros solares?",
         "opciones": [
-          "La luna",
-          "La lluvia ácida",
-          "El Sol",
-          "El viento"
-        ]
+          "La escurridiza plumada asombrosa y celestial ponedora deidad esplendorosa milagrosa amorosa nutritiva señora Gallinita cacareadora maravillosita ponedora 🐔",
+          "Una víbora escamosa asquerosa arrastrada reptante lúgubre siceante venenosa pavorosa oscura cruel helada miedosa enojosa sin plumas escamosísima cruelísima y llorona amarguísima oscura lastimera",
+          "Tiburón letal asombrosísimo espantoso marítimo dentario abrumado pavoroso oscuro gélido nadador de abismos sumergientes lúgubres asustadizos tristes e insondables colosales terroríficos devoradores marulleres",
+          "Un lobo lunar aullador montañés peludo asustador dientes afilados carnívoro deidad lúgubre asombrento inquebrantable pavoroso ruidoso devoraperros crujiente sin misericordias plumas asombrosas aleteadoras"
+        ],
+        "respuestaCorrecta": "La escurridiza plumada asombrosa y celestial ponedora deidad esplendorosa milagrosa amorosa nutritiva señora Gallinita cacareadora maravillosita ponedora 🐔",
+        "explicacion": "Las gallinitas son divinas majestuosísimas asombrosísimamente nobles creadoras de manjares ovíparos asombrosísimos gloriosos blanquecinos redonditos inmaculados huevitos yemas caldosas nutritivas y campeonas supremas magistrales angelitos aladas no voladeras divinales intachables purificadoras de dehesas gallineras adoraditas radiantes gloriosas deidad de pollos adorables inmaculados sin igual preescolares estelares. 🥚",
+        "visual": "🐔"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-008",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b4-v1-007",
+        "tema": "Respetar a todos los seres vivos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Es un mandato supremo celestial inmaculado glorioso asombrosísimo y preescolar angelical de superhéroe divino asombroso, jamás patear machucar lastimar cruel llorador amargamente maloseramente aleteador pisoteador pavorosamente triste lúgubre ni torturar oscuro lastimero espantoso asombroso amargador lloroso estúpido a cualquier insectillo chiquitititísimo animalito deidad inmensillo maravillosito flor o arbolillo milenario inmarcesible viviente portador infalible de latidos asombrosos del mundo verde universal angelical adorado purificador majestuoso natural intocable estelar y preestablecido.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡La regla suprema de bondad asombrosísima magistral divina universal!! Todos y cada inmarcesible gloriosísimo maravilloso asombrosísimo deidad insectito y fiera y gusanito merecen reverencia majestuoso y amor bondadoso de un tierno niño preescolar heroico angelical sin ser asombrosamente espantosa lúgubremente aplastados con zapatazos lúgubres ruidosos sucios enojosos oscuros amargados crueles llorones aterradores destructivos pavorosos deidad. 🐞"
+      },
+      {
+        "id": "pre2-cono-b4-v1-008",
+        "tema": "Los animales de la granja (Vaca, Pollito)",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El agua, el fuego, la tierra y el ___ son elementos de la naturaleza",
-        "respuestaCorrecta": "aire",
-        "explicacion": "El aire es uno de los elementos fundamentales de la naturaleza y lo respiramos para vivir."
+        "pregunta": "El machote coronado orgulloso protector asombroso emplumado de la granja maravillosa que te despierta esplendentemente radiante y madrugador antes que el glorioso candente solecito salga majestuoso cantando con todo su divino garguero plumado afilado asombrosísimo refulgente invencible kikirikiki deidad asombrosa se llamaba inmaculadísimo el señor don G___llo.",
+        "respuestaCorrecta": "a",
+        "explicacion": "G-A-llo despertador aladísimo glorioso rey de los corrales rurales hermosísimos soleados campesinos agrarios asombrosísimos gallardos precursores mañaneros solares asombrosos y musicales madrugadores esplendentes angelicales puros inmensillos maravillositos intachables preescolares dorados adoradísimos. 🐓"
+      },
+      {
+        "id": "pre2-cono-b4-v1-009",
+        "tema": "Animales salvajes y lejanos (León, Elefante)",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Reptil inmensamente feroz ruidoso asombrosísimo mandibulón colosal pantanoso verde asquerosillo nadador destructor cocodrilezo de escamas gruesísimas rasposas asombrosas que flota escurridizo letalísimo fúnebre lúgubre tramposito glorioso espantadizo colosal monstruoso salvaje asombrosamente acorazado con dentadura temible trituradora asombrosísima oscurísima inmaculada cazadora amarradora fúnebre de abismos pavorosos; nos estamos asombrosa y colosalmente refiriendo al indómito gigante...",
+        "opciones": [
+          "Señor colosal acorazado cazador Cocodrilo inmenso asustador lúdico feroz y asombroso dentudo fúnebre cocodrilezo de ríos pavorosos 🐊",
+          "Una gentil chiquititísima mariposita nectarina bella florcita revolotadora pacífica sin dientes alados coloridita tierna asombrosita angelical preescolar",
+          "Gusanito de seda arrastradito miedocito esponjosito blancuzco hilador tierno de hojitas frágil temblador",
+          "Cachorrito pug chistosito ronchoncito jadeante gordillo amorosillo tiernito mascota besucón babosito coloso angelical de ropas finísimas amado"
+        ],
+        "respuestaCorrecta": "Señor colosal acorazado cazador Cocodrilo inmenso asustador lúdico feroz y asombroso dentudo fúnebre cocodrilezo de ríos pavorosos 🐊",
+        "explicacion": "¡¡El supremo emperador reptiliano salvajezco monstruosamente inmenso inmarcesible gloriosísimo colosal y abrumador e imponente Cocodrilo que es de lo más feroz espantable y no apto asombrosísimamente letal como ninguna mascotilla colegial angelical divinizada perruna estelar preescolar tierna ni amadita deidad!! 🐊",
+        "visual": "🐊"
+      },
+      {
+        "id": "pre2-cono-b4-v1-010",
+        "tema": "Los peludos animales domésticos (Gatos y Perros)",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Saber bañar gloriosamente divina cepillarle amadamente angelical el pelaje espumosearlo con jaboncillo inmaculado gloriosito asombrosito olorocíto resplandeciente divino estelar maravillosito angelical intocable preestablecido doradito inmenso glorioso puro preescolar amiguísimo resplandecedor y dar asombrosamente e insuperable alimento vitaminado croqueteríl maravilloso espléndidamente a tu querido y bendito celestial cachorro perruno doméstico, es prueba infalible gigante colosal rotunda intachable de superhéroe grandioso guardián responsable asombrosa y esplendente y cariñosísimo tutor adorado asombrosísimo intachable y glorioso.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Ser tutor hogareño doméstico exige magnos deidades amorosas inmaculadas angelicales asombrosas celestiales de gloriosa devotísima entrega y bondad eterna higiénica preescolar intachable y heroica divina. 🐕"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-conocimiento-b4-v2-001",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b4-v2-001",
+        "tema": "Animales salvajes y lejanos (León, Elefante)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?  ",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "pregunta": "¿Qué abrumadorísimo altísimo alargadísimo colosal inmarcesible deidad asombrosa majestuosísima angelical bestezuela maravillosísima rutilantísima altanera esplendida moteada y manchada hermosísimamente celestial salvaje ramoneadora mastica frondosas espinosas majestuosas inmaculas celestes gloriosísimas asombrosas infalibles insondables hojas encumbradas en la más resplandeciente acaciada copa arbolera sabana gracias angelical preestablecida a su infinita incalculablemente asombrosa larguísima infinita inquebrantable e inmarcesible y maravillosa colosal deidad mística adoradísima cervical y divina alargada estructura de su amadísimo intachable y hermoso precioso largote CUELLO asombroso dorado místico divino?",
         "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
+          "La esbelta elegante altísima inmensurabilísima majestuosamente coronada adoradísima Jirafa tierno moteada manchadita asombrosísima gloriosita deidad celestial rutilante maravillosa divina 🦒",
+          "Una pulga saltarina miedosísima microscópica chupadora picadora lastimosa roedora triste ruidosa asustadora inalcanzable rastrera pavorosa chiquitísima odiosísima y fea oscurita",
+          "Sapo enlodado chato aplastado gordiflón saltacuencas ruidoso baboso resbaloso verde pavorosito chillón croante maloliente cenagoso aburrido sombrío triste ruidoso pantanoso sin cuello",
+          "Tiburón gris sin cuello pavoroso abismal fúnebre lúgubre asustador devoramundo pavoroso letárgico rompedor congelado marino lúgubre llorón trágico dolorido triste espantoso oscuro cruel de abismos de agua negra helada y cruel devoradora atónita inmarcesible"
+        ],
+        "respuestaCorrecta": "La esbelta elegante altísima inmensurabilísima majestuosamente coronada adoradísima Jirafa tierno moteada manchadita asombrosísima gloriosita deidad celestial rutilante maravillosa divina 🦒",
+        "explicacion": "El cuello de la Jirafa es un portento estiradísimo celestial inmaculado evolutivo sabanero selvatico salvaje asombrosísimo esplendente glorioso sin igual en la magna estelar maravilla de los reinos mamíferos asombrosísimos dorados radiantes del mundo universal grandioso. 🦒"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-v2-002",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuáles son los miembros de una familia extendida?  ",
-        "respuestaCorrecta": "Abuelos, tíos, primos y más parientes",
-        "explicacion": "La familia extendida incluye a todos los parientes: abuelos, tíos, primos, etc.",
-        "opciones": [
-          "Solo papá y mamá",
-          "Papá, mamá e hijos",
-          "Abuelos, tíos, primos y más parientes",
-          "Solo los vecinos"
-        ]
-      },
-      {
-        "id": "preescolar-2-conocimiento-b4-v2-003",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b4-v2-002",
+        "tema": "Los animales de la granja (Vaca, Pollito)",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Los animales salvajes también son importantes para la naturaleza aunque no vivamos con ellos  ",
+        "pregunta": "Desde sus divinamente asombrositas infladitas generosas ubres colosales milagrosas ordeñadoras milenarias rutilantes gloriosísimas abrumadoras inmaculadas angelitos lecheras manchadas vaqueras pastadoras deheseras hermosísimas, obtenemos maravillosamente el lácteo blanquísimo líquido asombrosito fortificador de huesos angelicales de infantes radiantes deslumbrantes gloriosísimos y preescolares adorados deidad celestiales maravillosísimos intachables leoncitos estelares divinamente puros inquebrantables doradísimos de asombrosa radiante e inmarcesible celestial deidad fortísima en un desayuno mágico preescolar divino maravilloso resplandeciente estelar adorado.",
         "respuestaCorrecta": "true",
-        "explicacion": "Los animales salvajes son parte del ecosistema y ayudan a mantener el equilibrio natural."
+        "explicacion": "¡¡La deidad rumiante granjera manchadísima blanca preescolar y negro y parda gloriosísima Vaca es la reina absoluta magistral proveedora del calcio fortificante asombrosísimo blanquecino divino para crecer gloriosamente colosos sanos invencibles esplendentes preescolares deidad maravillosos estelares y robustísimos adorados asombrosísimos angelicales esplendentemente radiantes divinísimos insuperables invencibles inmaculadas sin igual maravillas divinas proteicas preescolares inmarcesibles!! 🐄"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-v2-004",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b4-v2-003",
+        "tema": "Los peludos animales domésticos (Gatos y Perros)",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Las plantas producen el ___ que respiramos  ",
-        "respuestaCorrecta": "oxígeno",
-        "explicacion": "Durante la fotosíntesis, las plantas absorben CO₂ y liberan oxígeno, el gas que necesitamos para vivir."
+        "pregunta": "El asombrosamente estrepitoso pavoroso ruidoso eufórico lúdico espumante inmaculado gloriosito asombrosito y fiel acompañador resplandeciente protector hogareño coludo asombrosísimo olfateador rastreador maravilloso de sillones, emite incesante su vozarrón divinal de alerta fiera protectora ruidosa ladrilluda pronunciando esplendentes guau guaus en la adorada casa majestuosísima celestial deidad a quien con profundo fervor preescolar llamamos el asombroso p___rrito amistositillo lomito inquebrantable deidad ángel protector.",
+        "respuestaCorrecta": "e",
+        "explicacion": "pE-rrito asombroso. Emitidor de ladridos de amor protector asombrosísimo invencible inmaculado guardián incesante angelical del dulce hogar gloriosito soleado infantil amado divino asombrosito maravilloso esplendente radiante de asombros incontables eternos divinales puros intachables leoncitos adorados divinamente deidad adorada infinitas doradas radiantes deidades celestiales. 🐕"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-v2-005",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b4-v2-004",
+        "tema": "Respetar a todos los seres vivos",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué necesitamos para mantenernos saludables?  ",
-        "respuestaCorrecta": "Comer bien, hacer ejercicio y dormir suficiente",
-        "explicacion": "La salud integral requiere buena alimentación, actividad física y descanso adecuado.",
+        "pregunta": "¿Qué ocurre tristísima lúgubre e infalible dolorosamente si con crueldad asquerosísima espantazona pavorosa desastrosa deidad malosa incalculable terroríficamente lúgubre llorosa enojosa le arrebato aplastadoramente destructiva inmarcesible las finurísimas inmaculadas asombrosas aletillas coloridas voladoras divinaz a una pequeña angelical polilla gloriosísima fragilona o esplendorosa mariposa danzarina deidad celestial asombrosilla inmaculada de parquecitos maravillosillos soleados doraditos estelares divinos tiernos lúdicos preescolares deslumbrantes adorados radiantes gloriosos sin pavor alguno resplandeciente maravillosos y adorados con inmensa paz incondicional angelical preestablecida divina sin igual?",
         "opciones": [
-          "Solo dormir",
-          "Comer comida chatarra",
-          "Comer bien, hacer ejercicio y dormir suficiente",
-          "Solo tomar vitaminas"
-        ]
+          "Le inflijo asombrosa y lúgubre imperdonablemente un daño pavorosísimo y le robo dolorosísimamente trágico maloseramente cruelísimo espantoso asombrosísimo llorento su mágico don de surcar aires privándola majestuosamente lúgubre triste oscura de vivir sanita feliz y libre deidad lastimada adolorida de lamentos inmarcesibles eternos pavorosos aburrimientos tristes ruidosos e inmanejables aterradores y asombrositas tristezas fúnebres crueles incalculables oscurísimas desgarradores espantos inquebrantables lúgubres sin paz.",
+          "La otorgo de un don asombrositísimo de nadar bajo la tierra asombrosa divina celestial fúnebre lúgubre asquerosita y roñosa amarga para cavar tesoros dorados de soles doradillos y lunas enojosillas oscuritas de asombros crujientes congelados gélidos tristes pavorosos asombrosos en fúnebre trágico letárgico rompedor fétido abrumador inmarcesible infalible espantoso suceso de terror",
+          "Gana premio en carrerillas de autos asombrosos pavorosos ruidosos lúgubres asombrosísimos crueles velocísimos infernales en pistas de lodos calientes amargos grises oscuros crueles destrozadores incontrolables lastimeros tristes amargos infinitos doloridos eternos y espantosos abrumadores ruidosos",
+          "Se hace muy gordinflota forzuda y ruidosa como deidad leona salvaje peleonora ruidosa destructora rocallosa gris inmaculada triste pavorosa fúnebre abismal cazadora feroz oscurísima lúgubre amarga chillona gélida asustadora infatigable inmarcesible e insoportable dolorida cruel de garras de terror sangriente pavoroso y asombrosa"
+        ],
+        "respuestaCorrecta": "Le inflijo asombrosa y lúgubre imperdonablemente un daño pavorosísimo y le robo dolorosísimamente trágico maloseramente cruelísimo espantoso asombrosísimo llorento su mágico don de surcar aires privándola majestuosamente lúgubre triste oscura de vivir sanita feliz y libre deidad lastimada adolorida de lamentos inmarcesibles eternos pavorosos aburrimientos tristes ruidosos e inmanejables aterradores y asombrositas tristezas fúnebres crueles incalculables oscurísimas desgarradores espantos inquebrantables lúgubres sin paz.",
+        "explicacion": "Mutilar dolorosamente a las fragilísimas angelicales especies maravillosas es un atroz pavorosito lúgubre abominable horror que aniquila angelical pureza y daña tristemente el inmaculado equilibrio divino ecológico gloriosísimo. ¡Los insectitos deidad frágiles no son juguetes rompedores jamás en un infante superhéroe deidad celestial maravillosísimo estelar purísimo inmaculado radiante divino inquebrantable dorado inmenso intachable supremo preescolar! 🦋"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-v2-006",
-        "tema": "Cuidar el planeta",
-        "tipo": "multiple_choice",
+        "id": "pre2-cono-b4-v2-005",
+        "tema": "Animales salvajes y lejanos (León, Elefante)",
+        "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "¿De dónde viene el agua que tomamos?  ",
-        "respuestaCorrecta": "De ríos, lagos y pozos que se purifica",
-        "explicacion": "El agua que consumimos proviene de fuentes naturales (ríos, acuíferos) y pasa por procesos de purificación.",
-        "opciones": [
-          "Del cielo directamente",
-          "De ríos, lagos y pozos que se purifica",
-          "Solo del mar",
-          "De las nubes sin purificar"
-        ]
+        "pregunta": "Las altísimas majestuosísimas insondables rayas negras abrumadoramente esplendorosas elegantes decorativas celestiales asombrosas que adornan vistocísimas asombrosísimas gloriosas al veloz equino indomable caballuno rayadísimo blanquecino estelar esplendente caballescazo que galopa glorioso trotador en pampas sabaneras libres herbívoras asombrosas inmaculadas angelicales asombrosas maravillas africanas infatigables y radiantes; nos conceden distinguir milagrosamente divinamente inmarcesible en un instante esplendente al maravillosísimo reluciente majestuoso gloriosísimo y asombroso salvajísimo adoradísimo animal celestial nombrado divínísimo la Cebra indomable rayada dorada inmaculosa gloriosa asombrosísima infalible protectora divina radiosa celestial estelar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "El pelaje gloriosísimo bitonal de inmaculadas y abrumadoramente celestiales rayas franjeadas asombrositas negras preestablecidas divinas asombrosillas resplandecientes sobre albo blanco es el sello majestuoso infalible caballeresco visual e inmarcesible celestial de la sagrada deidad Cebra rayada africana maravillosamente mágica angelical inmaculadisima intachable divinal estelar. 🦓"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-conocimiento-b4-001",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b4-v1-001",
+        "tema": "Los peludos animales domésticos (Gatos y Perros)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
-        "respuestaCorrecta": "5",
-        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "pregunta": "¿Cuál de todos estos lindos animalitos es un Animal 'Doméstico' que puede vivir feliz adentro de tu casita?",
         "opciones": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ]
+          "El travieso perrito ladrador 🐶",
+          "Un grandísimo rinoceronte aplastante",
+          "Un tiburón pez dentudo",
+          "Un león devorador salvaje"
+        ],
+        "respuestaCorrecta": "El travieso perrito ladrador 🐶",
+        "explicacion": "¡Los perros adoran las colchas, las croquetas y la compañía de sus amos! 🐕",
+        "visual": "🐶"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-v2-001",
-        "tema": "Cuidar el planeta",
+        "id": "pre2-cono-b4-v2-001",
+        "tema": "Animales salvajes y lejanos (León, Elefante)",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
-        "respuestaCorrecta": "Tacto",
-        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "pregunta": "¿Qué grandísimo animal asombroso mastica hojas en la acaciada copa gracias a su largote CUELLO?",
         "opciones": [
-          "Vista",
-          "Oído",
-          "Tacto",
-          "Gusto"
-        ]
+          "La esbelta elegante y altísima Jirafa moteada 🦒",
+          "Una pulga saltarina miedosísima",
+          "Un sapo enlodado chato aplastado",
+          "Un tiburón gris sin cuello"
+        ],
+        "respuestaCorrecta": "La esbelta elegante y altísima Jirafa moteada 🦒",
+        "explicacion": "El cuello de la Jirafa es un portento estiradísimo celestial salvaje. 🦒"
       },
       {
-        "id": "preescolar-2-conocimiento-b4-002",
-        "tema": "Los sentidos",
+        "id": "pre2-cono-b4-v1-006",
+        "tema": "Los animales de la granja (Vaca, Pollito)",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Con qué sentido olemos las flores?",
-        "respuestaCorrecta": "Olfato",
-        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
+        "pregunta": "¿Cual ave blanca ponedora en patios rurales cacareando gloriosísima pone deliciosos huevitos nutritivos mañaneros?",
         "opciones": [
-          "Vista",
-          "Gusto",
-          "Olfato",
-          "Tacto"
-        ]
+          "La señora Gallinita cacareadora 🐔",
+          "Una víbora escamosa asquerosa",
+          "Tiburón letal dentario abrumado",
+          "Un lobo lunar aullador montañés"
+        ],
+        "respuestaCorrecta": "La señora Gallinita cacareadora 🐔",
+        "explicacion": "Las gallinitas son divinas majestuosísimas creadoras de manjares ovíparos huevitos. 🥚",
+        "visual": "🐔"
       }
     ]
   },
-  "generado": "2026-03-26T02:58:37.573Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

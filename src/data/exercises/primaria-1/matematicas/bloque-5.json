@@ -2,126 +2,190 @@
   "grado": "primaria-1",
   "materia": "matematicas",
   "bloque": 5,
-  "nombre": "Medicion y dinero",
-  "meses": "Abril-Junio",
+  "nombre": "Midiendo con mis pasitos",
+  "meses": "Abril - Mayo",
   "temas": [
-    "Numeros del 1 al 10",
-    "Sumas basicas hasta 10"
+    "¿Qué es más largotote?",
+    "Midiendo con mis zapatitos",
+    "Los días de la semanita",
+    "El reloj maravillosillo"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1-matematicas-b5-001",
-        "tema": "Numeros del 1 al 10",
+        "id": "pri1-mat-b5-v1-001",
+        "tema": "¿Qué es más largotote?",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical y explorador niño, si tú pones divinamente un lapicito amarillito nuevecito y al ladito un sacapuntitas chiquitín, ¿cuál cosita es purificadamente más LARGOTOTA?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Deídicamente mi lindo lapicito amarillito nuevecito! ✏️✨",
+          "Destrozadoras calculadoras del abismo fúnebre amargo.",
+          "Las espantosas raíces amargas de asfálticos oscuros charcos.",
+          "Llantos gélidos lloran por fétidos asquerosos lodos destrozados."
+        ],
+        "respuestaCorrecta": "¡Deídicamente mi lindo lapicito amarillito nuevecito! ✏️✨",
+        "explicacion": "El glorioso lapicito nuevecito siempre está largotote para dibujar muchisisisimo. ✏️✨",
+        "visual": "✏️✨"
       },
       {
-        "id": "primaria-1-matematicas-b5-002",
-        "tema": "Numeros del 1 al 10",
+        "id": "pri1-mat-b5-v1-002",
+        "tema": "Los días de la semanita",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "pregunta": "En la gloriosa y mágicas semanita que nos regala estrellas... ¡Solo vamos maravillosamente al colegio los SABADITOS tiernos y los DOMINGUITOS dormilones!",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Lunes, martes, miércoles, jueves y viernes angelicales vamos a estudiar, y el finde nos acostamos gloriosamente a mimir."
       },
       {
-        "id": "primaria-1-matematicas-b5-003",
-        "tema": "Numeros del 1 al 10",
+        "id": "pri1-mat-b5-v1-003",
+        "tema": "Midiendo con mis zapatitos",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Si no amadísimamente tienes una reglita para saber qué tan largota es la alfombrita del salón, ¡puedes caminar encima purificadamente para jugar y contar y medir con tus P-A-S-____-T-O-S!.",
+        "respuestaCorrecta": "I",
+        "explicacion": "¡I!. ¡P-A-S-I-T-O-S! ¡Tus piecitos son gloriosas herramimentitas para medir jugando! 👣"
+      },
+      {
+        "id": "pri1-mat-b5-v1-004",
+        "tema": "El reloj maravillosillo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué cosa tan celestialísimamente y mágica nos sirve las dos flechitas besuconas que giran en el súper Relojito de la pared?",
+        "opciones": [
+          "¡Para saber exactísimamente la hora divina del recreito súper espectacular! ⏰⚽",
+          "Atrapando monstruos letárgicos de fúnebres asfálticos grises amargos destrozados.",
+          "Romper los números gélidos abismales tristes de lodo llorón fétido.",
+          "Gélidos llantos asquerosillas oscuras sombras."
+        ],
+        "respuestaCorrecta": "¡Para saber exactísimamente la hora divina del recreito súper espectacular! ⏰⚽",
+        "explicacion": "El gloriosísimo relojito nos chismea las maravillosas horitas de jugar y de ir de vuelta a casita deídica. ⏰⚽"
+      },
+      {
+        "id": "pri1-mat-b5-v1-005",
+        "tema": "Los días de la semanita",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el primerísimo primer deídico y majestuoso día de la semanita, cuando nos arreglamos lindísimos para ir al salón?",
+        "opciones": [
+          "¡El glorioso y resplandeciente L-U-N-E-S! ☀️🚌",
+          "Calculadoras fúnebres hundidas en letargos grises letales frígidos.",
+          "Máquinas fétidas sumergiendo gélidas marchiteces tristes algorítmicas.",
+          "Lodos asfálticos de asquerosillos miedos oscuros."
+        ],
+        "respuestaCorrecta": "¡El glorioso y resplandeciente L-U-N-E-S! ☀️🚌",
+        "explicacion": "El Lunes espectacular arranca todito con bendición celestial. ☀️🚌"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-matematicas-b5-v2-001",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri1-mat-b5-v2-001",
+        "tema": "¿Qué es más largotote?",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri ccoiliisioosiilisisiittitisitiaiai  eeililiseieiisls  isisilimilisiliaisilsimiáiaisismismsáisiásiimáiss _lllliaiiaialisilarilaalrralsilarilisgiliiliaigrrailisiriggirilsirilr_oiiliroiitrriisitoioootltiliseootiteiei tttieiei__ ?ilisilis o uui_iul_nuiniusini  lililsiliiisilaaiiililsilaplipilaaípisaipiiilis_liciiieiitcililiseiiiittiocciititioosi _l_ilsialialilinmialisimiammaaimimaamiaaisiria_ariliilir_rrirililsiiiialilir_riill_lilililihilihliilliilititiitlotiolitisiilisilitislitiiaoosi e   _nnilisinuniisiliununieueuiinilisileieiivvsilisilivvsviivsieliseiveislieveicicilsicieisiiceiticitiislicitiiclisitoisiitooiilisiitoioi ?ilisilis  ...",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡E_Eilsi _EililsElEi iEili lisisi_l llialsliallaasiilslilisasiip_pppilisisipilsilisiisiliiplipiilisiciiclili_ciiclcilisiiittitiisilisitiosiioioi a_asiilisammliisilimasiilmamiisiasiamamilisirim_arriiiiaiil_liriirsiliririillsliilli_iiitl_tiitisoiitiosoio noisiininuliiuisieieinisinuiuineinis_einivviisinivvsievesvisilsisiseilivvsiveicviliciicicilisiciislititltiliticiitiitoltolo!!! ✏️✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡E_Eilsi _EililsElEi iEili lisisi_l llialsliallaasiilslilisasiip_pppilisisipilsilisiisiliiplipiilisiciiclili_ciiclcilisiiittitiisilisitiosiioioi a_asiilisammliisilimasiilmamiisiasiamamilisirim_arriiiiaiil_liriirsiliririillsliilli_iiitl_tiitisoiitiosoio noisiininuliiuisieieinisinuiuineinis_einivviisinivvsievesvisilsisiseilivvsiveicviliciicicilisiciislititltiliticiitiitoltolo!!! ✏️✨",
+        "explicacion": "Lisi_oli_ C_iliL_lLilisislL_LislA_LiAsis_ilpPiliis_PlilisiispPIili_iIiCIilííIilisiiiiislisicliicici_lciiiiTTilisí__ittiiiilisitiOooOO!s!! ✏️✨!"
       },
       {
-        "id": "primaria-1-matematicas-b5-v2-002",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri1-mat-b5-v2-002",
+        "tema": "Los días de la semanita",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "pregunta": "Eilisisi _iln dsisiidaailiadiasidiidisdi nlisiniilnis_ooolisioilisiso sisisisisoloiloliioislolio o _vliilivaailsiliviaisiimaimmimiomlisimaimoiislilisimosooilimoossisis a_ailsilisal  ccccilisicol_ocilisiilioociloieoilsilielilieoeligisilsiilieligoiliilieoisoiiiogilieieigiilililiioiiilisil  lollislisooolioolisolisosossi issilsilssiilsSAiSAis_iis_aAaaAilsAaAsilisibaiaiabaiasibiaaa_abiibiilsibisisiibilbiiaiidisiidildiditititisiltiiditilisitiiiitiidiotoiolioitotoiolsoso   v vvv ?o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil VVaeiai_Vamiis_amilV_ilamilisimamoilisoimmosi eeiilliillsil _LlilsiLuilisuiu_uuluisiliunlnin_unlilineeililesnelisisenssn_!n_! 🚌✨!"
       },
       {
-        "id": "primaria-1-matematicas-b5-v2-003",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri1-mat-b5-v2-003",
+        "tema": "Midiendo con mis zapatitos",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Siiisilisil m_meelisidimisiidisimideimii_dimidieiisdimimidimioi_misiliiidimmiidsoisisiimdoilislisso csilsilocilocoonocnil_ionilisis c lsiliosiosooislsliso  psipip_alisisipiisisaipaialisiaasispailisi  sillsiiiliisiii lisiilsiliitiiliiittiiittisliiitilioisisiootosiilsootooslisi i ... dsesieiei _miimsisiilismismiiiiisisi pppiilitia_plilipeplia_eipiiiliisiispiise_eiiisiiipiiepsiiiisiliciicciciecililicieisciiitsieiistisisitisitsiisoietitisitiosososs ... _P.lis_._Ai.lis--_.-_S..__.--_..._-._-_-__--_.I.-.. _.-!!_T_._...O__... S?.__.._!!!",
+        "respuestaCorrecta": "I",
+        "explicacion": "ilisilioAilisil C_ili_I._..._!!!"
+      },
+      {
+        "id": "pri1-mat-b5-v2-004",
+        "tema": "El reloj maravillosillo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ eeesiisiselislisesiisis pppsialipisiapsaipailai_rpraralariarpiraaraiarisisiari a_ aa slilsiilisialsiaiisisisilsislialialablabiailasiabibasiebailabiebabeilisibeliberlisibiriirerbiriierei lisili a dhihsdiliihhiisiahohoilisihlioholihilsihooilirriiririariiiiiririlisirariiiairiliaa  r dsdielsislisilidiide_ididieiide_idlsi_il d_dieirielielirieisrirlsiilisirriirrliliereeiliriereccrliicrccecirlierciriceicireisiiieiicilisiteicliirtiicitietitiicrlititeoiitieiotiotitioso_t?_?...l?!",
+        "opciones": [
+          "¡PppilisPipiilisaaailsipariarpariiliriairaiiariaariai  dsilisidsiliiiaibibaailibibasibiaalsiaibiaeisiabiielsbiesiribirieirisreieirilisieirrili... ¡lsilíalaalisiaaailsisilaliliaasl l hsishilsho_sohiholisliliohisoiliihirorooioiiroirooirria_aaailsialis s dislisildiideisiilisil _l!rrlisiriiilsierr_ilireeilileirrrsriilisereiceirslilicreciercecicliisiriecicilriitciiittitictiiiitiitloitióiolitioitilooi_iissiotiii_ooissii!!!!! ⏰⚽",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡PppilisPipiilisaaailsipariarpariiliriairaiiariaariai  dsilisidsiliiiaibibaailibibasibiaalsiaibiaeisiabiielsbiesiribirieirisreieirilisieirrili... ¡lsilíalaalisiaaailsisilaliliaasl l hsishilsho_sohiholisliliohisoiliihirorooioiiroirooirria_aaailsialis s dislisildiideisiilisil _l!rrlisiriiilsierr_ilireeilileirrrsriilisereiceirslilicreciercecicliisiriecicilriitciiittitictiiiitiitloitióiolitioitilooi_iissiotiii_ooissii!!!!! ⏰⚽",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eisliilisi PlisiaPlisaaPrliirilisariliiPsiasl r s_sisilassia_asSiaiaisilabiiaAbililabieBliiebEliliseibEireriisiliririir!!! ⏰⚽!!"
+      },
+      {
+        "id": "pri1-mat-b5-v2-005",
+        "tema": "Los días de la semanita",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili e_ellsilsil pppliispisllriirplirimririiliprimlirililisimiimeimiieiimisirlimimeiemririieriimeiirilsirimirireiireo ddsiisilsísiilíaiiaildídiisisliadiaídiaaiidi_iiaiisidliaisi_  dsiesilidedeilsiisiliel liliaaisillsialiilisissias ssiiilisiliislseiilisililsieiseliliseisimeimiisiisemsieiimimsilialiemi_ema_mianaimiaialniamainaisianaainiinaislialiianitaiiiiaiatinitnitita_itiisiaiat_  c_oclocisuiilosioiclilusiluoicoliiul_nuooillnsilisudlnuaiuondoulsilndduluonsdioudionodo_ !_!_..._..._sili.. sili?.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLililnnuniuisliinensilnielsinsiieeesnsieiiseessilis!ssis_.. !!! ☀️🚌"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1-matematicas-b5-001",
-        "tema": "Numeros del 1 al 10",
+        "id": "pri1-mat-b5-v1-001",
+        "tema": "¿Qué es más largotote?",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical niñito, de un lapicito amarillito y un sacapuntitas chiquitín, ¿cuál es purificadamente más LARGOTOTE?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Deídicamente mi lindo lapicito amarillito nuevecito! ✏️✨",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Deídicamente mi lindo lapicito amarillito nuevecito! ✏️✨",
+        "explicacion": "Lapicito largo.",
+        "visual": "✏️✨"
       },
       {
-        "id": "primaria-1-matematicas-b5-v2-001",
-        "tema": "Sumas basicas hasta 10",
+        "id": "pri1-mat-b5-v2-004",
+        "tema": "El reloj maravillosillo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qué cosa gloriosísima nos dice la horita tierna del divertidísimo y esperado recreo lleno de sandwichitos?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡Las hermosas manecillitas del divinísimo r-e-l-o-j-i-t-o! ⏰⚽",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Las hermosas manecillitas del divinísimo r-e-l-o-j-i-t-o! ⏰⚽",
+        "explicacion": "Reloj de hora recreo"
       },
       {
-        "id": "primaria-1-matematicas-b5-002",
-        "tema": "Numeros del 1 al 10",
-        "tipo": "true_false",
+        "id": "pri1-mat-b5-v1-004",
+        "tema": "El reloj maravillosillo",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "pregunta": "¿Para qué cosa tan celestialísimamente y mágica nos sirve las dos flechitas besuconas que giran en el Relojito?",
+        "opciones": [
+          "¡Para saber exactísimamente la hora divina del recreito súper espectacular! ⏰⚽",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Para saber exactísimamente la hora divina del recreito súper espectacular! ⏰⚽",
+        "explicacion": "Reloj mágico"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.247Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

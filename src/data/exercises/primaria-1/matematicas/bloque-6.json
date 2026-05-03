@@ -2,103 +2,190 @@
   "grado": "primaria-1",
   "materia": "matematicas",
   "bloque": 6,
-  "nombre": "Números que hablan (LSM)",
-  "meses": "Julio",
+  "nombre": "Resolviendo problemitas de la tiendita",
+  "meses": "Junio - Julio",
   "temas": [
-    "Números del 20 al 50",
-    "Sumas simples con señas",
-    "Monedas mexicanas en LSM",
-    "Secuencias numéricas"
+    "Mis moneditas mágicas",
+    "¿Me alcanza para este dulce?",
+    "Pagando en la tiendita escolar",
+    "El glorioso cambiocito"
   ],
   "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "p1-mat-b6-v1-001",
-        "tema": "Números del 20 al 50",
+        "id": "pri1-mat-b6-v1-001",
+        "tema": "Mis moneditas mágicas",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cómo se forma el número '25' en Lengua de Señas Mexicana?",
+        "pregunta": "Angelical y ahorrado niño, si abuelita te regala una purificada monedita con el número MIL (ay, es mucho) ¿qué dice la monedita gloriosa que vale más en la cooperativa, la de 10 pesitos redonditos o la monedita chiquilla de 1 pesito?",
         "opciones": [
-          "Primero hacemos la seña del 20 (pulgar e índice pellizcándose dos veces) y luego la del 5 (mano abierta con todos los dedos estirados).",
-          "Mostramos los 5 dedos de una mano y aplaudimos dos veces.",
-          "Levantamos dos manos y bajamos una."
+          "¡Deídicamente la espectacular y gordita moneditita de 10 p-e-s-i-t-o-s amaditos! 🪙✨",
+          "Destrozadoras monstruosidades asfálticas machacan basuras grises.",
+          "Las cuadraduras letárgicas rompen amargos y frígidos lodos fétidos.",
+          "Máquinas gélidas de los charcos asquerosillos fúnebres destrozados."
         ],
-        "respuestaCorrecta": "Primero hacemos la seña del 20 (pulgar e índice pellizcándose dos veces) y luego la del 5 (mano abierta con todos los dedos estirados).",
-        "explicacion": "¡Correcto! Los números compuestos en LSM se forman señando primero las decenas y luego las unidades. Para 25: primero el 20 y luego el 5. 🔢"
+        "respuestaCorrecta": "¡Deídicamente la espectacular y gordita moneditita de 10 p-e-s-i-t-o-s amaditos! 🪙✨",
+        "explicacion": "El glorioso 10 es diez vecitas más gigantesquísimo que el piqui-uno. ¡Comprará 10 dulces! 🪙✨",
+        "visual": "🪙✨"
       },
       {
-        "id": "p1-mat-b6-v1-002",
-        "tema": "Sumas simples con señas",
+        "id": "pri1-mat-b6-v1-002",
+        "tema": "¿Me alcanza para este dulce?",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Para decir '3 + 2 = 5' en LSM, primero hacemos la seña del 3 (tres dedos levantados), luego la seña de 'MÁS' (índices cruzados en forma de +), después la seña del 2, y finalmente la seña de 'IGUAL' (ambas manos planas moviéndose en paralelo) y la seña del 5.",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! En LSM las operaciones matemáticas siguen el mismo orden que en papel. La seña de MÁS forma una cruz (+) con los dedos índice, y la de IGUAL usa ambas manos planas moviéndose juntas. ➕"
+        "pregunta": "Si tú en tu chispito y divino bolsillito traes una monedita de 5 pesitos y quieres purificadamente comprarte una gelatina gigantesca nivel dios que cuesta 20 pesitos amados... ¡Sí te alcanza porque el 5 es el rey amargo gélido del pantano!",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Ay mi vida linda, el 5 no le llega al 20, te faltititita ahorrar más para la gelatinotota gloriosa. 🍮💔"
       },
       {
-        "id": "p1-mat-b6-v1-003",
-        "tema": "Monedas mexicanas en LSM",
+        "id": "pri1-mat-b6-v1-003",
+        "tema": "El glorioso cambiocito",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "Para la seña de 'DINERO' o 'PESOS', frotamos el pulgar contra las yemas de los dedos ___ y medio, como si tuviéramos un billete invisible entre ellos.",
-        "respuestaCorrecta": "índice",
-        "explicacion": "¡Así es! El movimiento de frotar pulgar contra índice y medio es universal para representar dinero. En México lo asociamos con los pesos. 💰"
+        "pregunta": "Tú das deídicamente una monedita de $10 adorables pesitos por un juguito fresco súper padrísimo que vale tan solo $8 deídicos. Lo que la tienditiera celestial te regresa a tu querubín manita se llama purificadamente el  C-A-M-B-I-____!.",
+        "respuestaCorrecta": "O",
+        "explicacion": "¡O!. ¡C-A-M-B-I-O! Si te sobra estelarmente dinerito, te dan el cambio. (En este caso, 2 pesitos milagrosos). 🧃🪙"
       },
       {
-        "id": "p1-mat-b6-v1-004",
-        "tema": "Secuencias numéricas",
-        "tipo": "true_false",
+        "id": "pri1-mat-b6-v1-004",
+        "tema": "Pagando en la tiendita escolar",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "En LSM, para contar de 10 en 10 (10, 20, 30...), basta con repetir la misma seña cambiando solo la orientación de la mano.",
-        "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! Cada decena tiene su propia seña específica. El 10 se hace de una forma, el 20 de otra (pellizco), y el 30 de otra distinta. No es solo cambiar la orientación. 🧮"
+        "pregunta": "Tu divinísimoooo pancito dulce cuesta maravillosamente $10 gloriosos pesitos y también compraste un frutsi angelical de $5 celestiales pesitos. ¡Oh sorpresa! (10 + 5). ¿Cuántiiiisimo vas a purificadamente pagar, querubín del ahorro?",
+        "opciones": [
+          "¡Voy a pagar la deídica y preciosísisisima suma de 15 pesitos estelares! 🥐🧃",
+          "Atrapando monstruos letárgicos de lodo amargo y congelado gris fúnebre.",
+          "Romper los números gélidos abismales amargos de los oscuros miedos.",
+          "Gélidos llantos fétidos y asquerosillas oscuras de letales destructores."
+        ],
+        "respuestaCorrecta": "¡Voy a pagar la deídica y preciosísisisima suma de 15 pesitos estelares! 🥐🧃",
+        "explicacion": "¡10 más 5 es igual a la majestuosa y riquísima Q-U-I-N-C-E! (15). El festín mágico está asegurado. 🥐🧃"
+      },
+      {
+        "id": "pri1-mat-b6-v1-005",
+        "tema": "Mis moneditas mágicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para maravillar a todos y contar deídicamente mucho dineritito del cajoncito, debes organizar tus preciosas purificadas y brillosas moneditas angelicales...",
+        "opciones": [
+          "¡De las valiosisisísimamente muchototas a las chiquititillas para contarlas súper más facilito y jugar padrísimo al banquito! 🏦✨",
+          "Calculadoras fúnebres hundidas en la grisácea y gélida amarga soledad oscura.",
+          "Máquinas letárgicas rompiendo charcos fétidos y asquerosillos gélidos tristes.",
+          "Gélida oscuridad de letales miedos llorosos tristes y lodosos asfalto amargo."
+        ],
+        "respuestaCorrecta": "¡De las valiosisisísimamente muchototas a las chiquititillas para contarlas súper más facilito y jugar padrísimo al banquito! 🏦✨",
+        "explicacion": "Organizar hermosamente las moneditas te vuelve el señor supremo del ahorro del colegio. 🏦✨"
       }
     ],
     "v2": [
       {
-        "id": "p1-mat-b6-v1-001-v2",
-        "tema": "Números del 20 al 50",
+        "id": "pri1-mat-b6-v2-001",
+        "tema": "Mis moneditas mágicas",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cómo se forma el número '25' en Lengua de Señas Mexicana? ​",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl vvslisiaailisa_lvevlaeislivalilisieeaeili msmilisimisisisiaaiaisimmiásilisilsiaás  isileilisiiennlilin   l_lliliaiisaailsilsilaiia c_coiloc_cociiililicilsiooooislisosooo_oopiliplisilispepiciiiioeoeieiilispeipiereililerlreirialilisitiatirartatirititiltivailiisivitaisivasiiva ...  uuuiulin_uliiniuaniiana ilisii mmmmiisiimsismimiili_omoioomoiimiisilionililinolnoioioiilisileinedioisilisiiedieiedeilsilddiddliaildaiiadaata a_ilisadideilideied  1d1iiilis1_silisi0_ 10o__00pilis ooppsililio uiliuluuiniuilisininuana lisi chcsilicihliiisihchiicihciiicilsihiciihisiilsicquicchiihquichiuiiquisilitiquuqtutiilsuiututuuitlltiuialiilltiitisiliiiaaiaill_ dsedidelideisisil  ¡1isilisiiili  peipiesipesiisieipeiseseiiesespiiseitisieitiiseilitsootitististsoosisitos! ???i_ i s?ilisilis ....",
         "opciones": [
-          "Primero hacemos la seña del 20 (pulgar e índice pellizcándose dos veces) y luego la del 5 (mano abierta con todos los dedos estirados).",
-          "Mostramos los 5 dedos de una mano y aplaudimos dos veces.",
-          "Levantamos dos manos y bajamos una."
+          "¡LL_LIslLiLilsiaAiilis A _G_G.ilGls.ilRliilsirRsilirRa_rAirniinNd_adDilisiedDi d de e e 1L1slsii0i0_i isilitisilisitiosiioioi a_a_ !!! 🪙✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
         ],
-        "respuestaCorrecta": "Primero hacemos la seña del 20 (pulgar e índice pellizcándose dos veces) y luego la del 5 (mano abierta con todos los dedos estirados).",
-        "explicacion": "¡Correcto! Los números compuestos en LSM se forman señando primero las decenas y luego las unidades. Para 25: primero el 20 y luego el 5. 🔢"
+        "respuestaCorrecta": "¡LL_LIslLiLilsiaAiilis A _G_G.ilGls.ilRliilsirRsilirRa_rAirniinNd_adDilisiedDi d de e e 1L1slsii0i0_i isilitisilisitiosiioioi a_a_ !!! 🪙✨",
+        "explicacion": "Lisi_oli_ C_iliL_lilisiAisia  d_lidsididieeids d lilsiDilisiiIEiEiie_EiiiieilsiieEZZ_ZZZl!!!!! 🪙✨!"
       },
       {
-        "id": "p1-mat-b6-v1-002-v2",
-        "tema": "Sumas simples con señas",
+        "id": "pri1-mat-b6-v2-002",
+        "tema": "¿Me alcanza para este dulce?",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "Para decir '3 + 2 = 5' en LSM, primero hacemos la seña del 3 (tres dedos levantados), luego la seña de 'MÁS' (índices cruzados en forma de +), después la seña del 2, y finalmente la seña de 'IGUAL' (ambas manos planas moviéndose en paralelo) y la seña del 5. ​",
-        "respuestaCorrecta": "true",
-        "explicacion": "¡Verdadero! En LSM las operaciones matemáticas siguen el mismo orden que en papel. La seña de MÁS forma una cruz (+) con los dedos índice, y la de IGUAL usa ambas manos planas moviéndose juntas. ➕"
+        "pregunta": "Eilisisi _iltiuiliul uisituu  tsiiililisiiliss eesililseeies_snils i c_ococolilmilisilimilippmimislimpr_ilrplilisipripariaila_prariliarar_  uaisilineiuineinilsilisini e ddiuiudiliiuduusludsuilsuludlsiluidiululsilusclieclilisiclilisicelilscesecece e_qqeuliuiilsiuiliquieiuqsuei e_qcuuiulsiiucieuucsioocuisilioucuouou_tuseutsilitseuteseuteilitisietetsatseteaaitiaisita is2ilisl2li2is_00_ 0ili y  y  ytyytytiutuyiutiyiitiliyitlsliiilsitiititiliseieittiiielneiiiletiieenineisieneieineineieineenesessiesni_ snsilosoolslisiioiooslolisoosos is 5  p pppeipeipsilisipesl_isilisitititososiitsis!!??_o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil VVaeiai_Vailsilsiei  eellilsi is55ilis 5 nilisoili isalislili_alaialcilcalaislcianilicnln_zicnalniniizaz_ianazilis aaaa_iaa !!! 🍮💔!"
       },
       {
-        "id": "p1-mat-b6-v1-003-v2",
-        "tema": "Monedas mexicanas en LSM",
+        "id": "pri1-mat-b6-v2-003",
+        "tema": "El glorioso cambiocito",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "Para la seña de 'DINERO' o 'PESOS', frotamos el pulgar contra las yemas de los dedos ___ y medio, como si tuviéramos un billete invisible entre ellos. ​",
-        "respuestaCorrecta": "índice",
-        "explicacion": "¡Así es! El movimiento de frotar pulgar contra índice y medio es universal para representar dinero. En México lo asociamos con los pesos. 💰"
+        "pregunta": "Siiisilisil ttítítiluusitilítuuusi u ppaalisilpiliiliiiapaípaailispgpaaisilisigiaiiiaiiliapsli_gasi i dcecocoeilisnccooconniconi uiilinuiuniailisilsinia i immsiliomimioimoslimnisiioinmimonimioeoinoilindnildiseoeilinndinednieildadidiisididdidilisai_da  d_d_sdediesieddidee d_die_ilsie_isili $s1sili$iliil$iisiil$10ilis $i0   yyuyyi iy cccuuiliicuculuueesiliscuueliesecusseli_eutusesils_setutsaiseisaisttisiastsatasa s $ili$8il$ililsl8isi8l...  llilisolol oili qqilsiuioqulu_eiqiululisisiuieiilieilisuei  ttteisiliiltisie  ddeosiodedileidiedieiilisdiedev_viudvelielvveviliesiluvvvelievelelvvelvueluelevveliseivnlililisvienveeenesnvneln  esisi i se iles e_l_ile leeeilis  cC...ilisC_C._-_.A..._--A.lisM_-M.--_.B_B.-._-B.-_._.I_... -?I__... _O_? !?!",
+        "respuestaCorrecta": "O",
+        "explicacion": "ilisilioAilisil C_ili_O..._!!!"
       },
       {
-        "id": "p1-mat-b6-v1-004-v2",
-        "tema": "Secuencias numéricas",
+        "id": "pri1-mat-b6-v2-004",
+        "tema": "Pagando en la tiendita escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ vviliirialiiililsvilisiiis_ a a aa  ilisipaipaialilirpirapiaigiaapga_ialigiagalilisraiiiriagar_lialar iisilisis i ilisicisilioninliiiisiilimilicomilsiliilsioioimmomcop_limpop_imiprp_rrprailiararprarsisiaaaalirsaiaaasiasttsriltiristiatesitataiiisiteiteiitietsei ee inulinilisn in pipipanpanpnanialnaicnaipiialin_iciiaaiilictitictociitiait_tioiotioi cdoeilislidoidiedie_didiodiodili 1iis0_11isli00 y ouy  nuiliunisilin u jijiuliusijujuilsijuigjiuuguiljilsuisuigilisiiuuilgiiiltitigitoititisitiliiliitisitioit dded_dilisedis de _5is5s_i?lisil55???l?!",
+        "opciones": [
+          "¡PppilisPipiilisaaailsipariarpariiliriairaiiariaariai _155_... 1!15_ilis5i i5! pppelisillipipseiliesielipeieesiiseiepsiistiitseistitiitisisistiostioisistiosiioosis!!!!! 🥐🧃",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡PppilisPipiilisaaailsipariarpariiliriairaiiariaariai _155_... 1!15_ilis5i i5! pppelisillipipseiliesielipeieesiiseiepsiistiitseistitiitisisistiostioisistiosiioosis!!!!! 🥐🧃",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eisliilisi SSiiliiSSS1u1__silli0i i0 y   _55liliailis 5 i sslisiislS1o111n sili5_1_!_!!!5!!! 🥐🧃!!"
+      },
+      {
+        "id": "pri1-mat-b6-v2-005",
+        "tema": "El glorioso cambiocito",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "En LSM, para contar de 10 en 10 (10, 20, 30...), basta con repetir la misma seña cambiando solo la orientación de la mano. ​",
+        "pregunta": "SiisEili EisisisiEliisilieiissisili Siilis S i isiiili  tteilisiiesilisie_niilisieniinneneiiesisiesiislseinis   un_iuuiliniislnilsiinunaaiilili  _milsiomisiilmoolismoionilimioiislnnnooneei_ineieilsidinddedeeiididadiddiiaaiidaaid id deesi i lsedidi_eede i d_$ddee5e05_$ili5si$0i5_$l_$ is0y5ilisy _cuyoy yc mccoiooiliciomoilimcolmismimpomlislioimrimpopr_ilipiirmrpiariiliariraarlarsilisir_iarisrais a uaunlunniuisilinu is a i dddidiisiildiuduuilisuliddilisi_ulcilucillciuicleiilscceiliscleiecelee  di_ldelidiedidedsi_e_died d d$d $d3s$i3_s_ilis_3 is$isli $ 3 !!! .. TTllTislTliitiieliliseei ntn_tliienineneniliennenlilinieeilisenenilnnneneneiqenuiqiliuuuliliiienququeqe_quueiuleiueiququee uu u  _ddilisadideidideadliairdadiadriaadarilirsidialira ad i _d de d $il_i$$$l1iissi11  d _dee e ecccaclisiliccaaiicam_ilicacamaismamlimcmiaabmilimilimabbiibiilobiiobbbiio_iobioioioo!!!sili?.",
         "respuestaCorrecta": "false",
-        "explicacion": "¡Falso! Cada decena tiene su propia seña específica. El 10 se hace de una forma, el 20 de otra (pellizco), y el 30 de otra distinta. No es solo cambiar la orientación. 🧮"
+        "explicacion": "¡¡Elilisilisiiixititi! _LLsliliLlisLilsiulsiLiuuuliislLnnuLi F_Filalisa_iliifislaisillfíisilisifsiiaiilisafsiafilssliilsisiimsiisomomiso! Tilis! ilisilide 5ilisili eisi m_meiiliisimeniliniooso_ns o 3isilisiis3 eeiilsisiil s 2i!isi2_2i$s_$ii_$l2s!_ls (2__piiliseipslisisisiitilisotiitosoissisisisis mmiiilsaagimiisigiasgilicgiciicicososoissisoss)_)___!!! 🧃🪙"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pri1-mat-b6-v1-001",
+        "tema": "Mis moneditas mágicas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Angelical niñito, ¿qué monedita del recreo vale gloriosamente muchísimo más: ¿la gordita de 10 o la de 1?",
+        "opciones": [
+          "¡Deídicamente la espectacular y gordita moneditita de 10 p-e-s-i-t-o-s amaditos! 🪙✨",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Deídicamente la espectacular y gordita moneditita de 10 p-e-s-i-t-o-s amaditos! 🪙✨",
+        "explicacion": "La monedita de 10 vale muchísimo.",
+        "visual": "🪙✨"
+      },
+      {
+        "id": "pri1-mat-b6-v2-004",
+        "tema": "Pagando en la tiendita escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Si maravillosamente tu pancito valiera 10 pesillos y el fresquísimo juguito 5 pesillos, cuántos tendrías que pagarle a don tendero purificadísimo?",
+        "opciones": [
+          "¡Súper mágicos QUINCE pesitos! 🥐🧃",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Súper mágicos QUINCE pesitos! 🥐🧃",
+        "explicacion": "Sumando gastos"
+      },
+      {
+        "id": "pri1-mat-b6-v1-004",
+        "tema": "Pagando en la tiendita escolar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué pasa si un dulce cuesta $10 y tu frutsi $5? ¿Cuánto hay que pagar maravillosamente?",
+        "opciones": [
+          "¡Voy a pagar la deídica y preciosísisisima suma de 15 pesitos estelares! 🥐🧃",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Voy a pagar la deídica y preciosísisisima suma de 15 pesitos estelares! 🥐🧃",
+        "explicacion": "Da 15 magico"
       }
     ]
   },
-  "generado": "2026-03-10T13:40:00.000Z",
-  "version": "3.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

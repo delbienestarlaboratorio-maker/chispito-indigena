@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "historia",
-  "bloque": 2,
-  "nombre": "Edad Media y Renacimiento",
-  "meses": "Octubre-Noviembre",
-  "temas": [
-    "La Edad Media y el Renacimiento"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-historia-b2-001",
-        "tema": "La Edad Media y el Renacimiento",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b2-002",
-        "tema": "La Edad Media y el Renacimiento",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      },
-      {
-        "id": "primaria-3-historia-b2-003",
-        "tema": "La Edad Media y el Renacimiento",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "La gran ciudad construida por los aztecas sobre un lago se llamaba ___",
-        "respuestaCorrecta": "Tenochtitlán",
-        "explicacion": "Esta ciudad fue el corazón del imperio mexica hasta la conquista española."
-      }
+  "grado":"primaria-3","materia":"historia","bloque":2,"nombre":"Las grandes civilizaciones mesoamericanas","meses":"Octubre - Noviembre",
+  "temas":["Los Olmecas: la cultura madre","Los Mayas: astronomía y matemáticas","Los Zapotecas y Monte Albán","Los Teotihuacanos y la ciudad de los dioses"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-his-b2-v1-001","tema":"Los Olmecas: la cultura madre","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se conoce a la civilización olmeca y por qué es tan importante?","opciones":["¡La C-U-L-T-U-R-A M-A-D-R-E porque fue la primera gran civilización de Mesoamérica! 🗿👑","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡La C-U-L-T-U-R-A M-A-D-R-E porque fue la primera gran civilización de Mesoamérica! 🗿👑","explicacion":"Olmecas = primera civilización. Crearon las famosas cabezas colosales de piedra. 🗿👑","visual":"🗿👑"},
+      {"id":"pri3-his-b2-v1-002","tema":"Los Mayas: astronomía y matemáticas","tipo":"true_false","nivel":"v1","pregunta":"Los mayas inventaron el concepto del C-E-R-O y tenían un sistema matemático muy avanzado.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! Los mayas usaban un sistema vigesimal y fueron de los primeros en usar el cero. 🔢0️⃣"},
+      {"id":"pri3-his-b2-v1-003","tema":"Los Teotihuacanos","tipo":"fill_blank","nivel":"v1","pregunta":"La gran pirámide en Teotihuacán se llama la Pirámide del S-O-____ .","respuestaCorrecta":"L","explicacion":"¡L!. ¡SOL! La Pirámide del Sol en Teotihuacán es la tercera más grande del mundo. ☀️🏛️"},
+      {"id":"pri3-his-b2-v1-004","tema":"Los Zapotecas y Monte Albán","tipo":"multiple_choice","nivel":"v1","pregunta":"¿En qué actual estado de México se encuentra Monte Albán, la gran ciudad zapoteca?","opciones":["¡En O-A-X-A-C-A, donde los zapotecas construyeron una ciudad impresionante en la montaña! 🏔️🏛️","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡En O-A-X-A-C-A, donde los zapotecas construyeron una ciudad impresionante en la montaña! 🏔️🏛️","explicacion":"Monte Albán, Oaxaca = centro ceremonial zapoteca construido en la cima de un cerro. 🏔️🏛️"},
+      {"id":"pri3-his-b2-v1-005","tema":"Los Olmecas","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué escultura famosa dejaron los olmecas que pesa hasta 40 toneladas?","opciones":["¡Las C-A-B-E-Z-A-S C-O-L-O-S-A-L-E-S de piedra: enormes cabezas talladas! 🗿😮","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Las C-A-B-E-Z-A-S C-O-L-O-S-A-L-E-S de piedra: enormes cabezas talladas! 🗿😮","explicacion":"Se han encontrado 17 cabezas colosales olmecas, cada una con rasgos diferentes. 🗿😮"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-historia-b2-v2-001",
-        "tema": "La Edad Media y el Renacimiento",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?  ",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b2-v2-002",
-        "tema": "La Edad Media y el Renacimiento",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "El Tratado de Guadalupe Hidalgo puso fin a la guerra de Reforma  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "Dicho tratado finalizó la guerra México-Estados Unidos, resultando en la pérdida de la mitad del territorio nacional."
-      },
-      {
-        "id": "primaria-3-historia-b2-v2-003",
-        "tema": "La Edad Media y el Renacimiento",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "Durante tres siglos, gran parte del territorio de Norteamérica y Centroamérica formó el Virreinato de la Nueva ___  ",
-        "respuestaCorrecta": "España",
-        "explicacion": "Se estableció en 1535 con Antonio de Mendoza como primer virrey."
-      }
+    "v2":[
+      {"id":"pri3-his-b2-v2-001","tema":"Los Olmecas","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí o ol lm me ec ca as s_ = =_ ¿ ¿c có óm mo o_ s se e_ c co on no oc ce en n ? ??","opciones":["¡C CU UL LT TU UR RA A_ M MA AD DR RE E ! !! 🗿👑","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡C CU UL LT TU UR RA A_ M MA AD DR RE E ! !! 🗿👑","explicacion":"C Cu ul lt tu ur ra a_ M Ma ad dr re e !! 🗿👑!"},
+      {"id":"pri3-his-b2-v2-002","tema":"Los Mayas","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi m ma ay ya as s_ i in nv ve en nt ta ar ro on n_ e el l_ C CE ER RO O_ ( (0 0) ) ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"C Ce er ro o !! 🔢0️⃣!"},
+      {"id":"pri3-his-b2-v2-003","tema":"Los Teotihuacanos","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil P Pi ir rá ám mi id de e_ d de el l_ S SO O_ __ __ _ e en n_ T Te eo ot ti ih hu ua ac cá án n ? ?? Aili _? ls...","respuestaCorrecta":"L","explicacion":"S SO OL L !! ☀️🏛️"},
+      {"id":"pri3-his-b2-v2-004","tema":"Los Zapotecas","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil M Mo on nt te e_ A Al lb bá án n_ ¿ ¿q qu ué é_ e es st ta ad do o ? ?? ?! a?_?...l?!","opciones":["¡O OA AX XA AC CA A ! !! 🏔️🏛️","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡O OA AX XA AC CA A ! !! 🏔️🏛️","explicacion":"O Oa ax xa ac ca a !! 🏔️🏛️!!"},
+      {"id":"pri3-his-b2-v2-005","tema":"Los Olmecas","tipo":"true_false","nivel":"v2","pregunta":"SiisEili c ca ab be ez za as s_ c co ol lo os sa al le es s_ = =_ e es sc cu ul lt tu ur ra as s_ o ol lm me ec ca as s ? ?? !","respuestaCorrecta":"true","explicacion":"C Ca ab be ez za as s_ c co ol lo os sa al le es s !! 🗿😮"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-historia-b2-001",
-        "tema": "La Edad Media y el Renacimiento",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
-        "respuestaCorrecta": "1492",
-        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
-        "opciones": [
-          "1492",
-          "1521",
-          "1810",
-          "1910"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b2-v2-001",
-        "tema": "La Edad Media y el Renacimiento",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?",
-        "respuestaCorrecta": "La Revolución Mexicana",
-        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
-        "opciones": [
-          "La Guerra de Reforma",
-          "La Independencia",
-          "La Revolución Mexicana",
-          "La Guerra Cristera"
-        ]
-      },
-      {
-        "id": "primaria-3-historia-b2-002",
-        "tema": "La Edad Media y el Renacimiento",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
-        "respuestaCorrecta": "true",
-        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
-      }
+    "preview":[
+      {"id":"pri3-his-b2-v1-001","tema":"Olmecas","tipo":"multiple_choice","nivel":"v1","pregunta":"Olmecas = ¿cómo se les conoce?","opciones":["¡Cultura Madre! 🗿","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Cultura Madre! 🗿","explicacion":"Cultura madre","visual":"🗿"},
+      {"id":"pri3-his-b2-v1-004","tema":"Zapotecas","tipo":"multiple_choice","nivel":"v1","pregunta":"Monte Albán está en ¿qué estado?","opciones":["¡OAXACA! 🏔️","Triste","Gris.","Feo."],"respuestaCorrecta":"¡OAXACA! 🏔️","explicacion":"Oaxaca"},
+      {"id":"pri3-his-b2-v2-002","tema":"Mayas","tipo":"true_false","nivel":"v2","pregunta":"Los mayas inventaron el cero. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Cero"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.288Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

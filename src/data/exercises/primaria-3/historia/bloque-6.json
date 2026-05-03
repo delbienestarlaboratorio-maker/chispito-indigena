@@ -1,0 +1,27 @@
+{
+  "grado":"primaria-3","materia":"historia","bloque":6,"nombre":"La Independencia de México","meses":"Junio - Julio",
+  "temas":["Las causas de la Independencia","El Grito de Dolores: Miguel Hidalgo","José María Morelos y los Sentimientos de la Nación","La consumación de la Independencia"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-his-b6-v1-001","tema":"Las causas de la Independencia","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Por qué los mexicanos querían independizarse de España después de 300 años?","opciones":["¡Porque los criollos no tenían los mismos derechos que los españoles y había mucha injusticia! ⚖️😤","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡Porque los criollos no tenían los mismos derechos que los españoles y había mucha injusticia! ⚖️😤","explicacion":"Desigualdad social + inspiración de la Revolución Francesa = deseo de libertad. ⚖️😤","visual":"⚖️😤"},
+      {"id":"pri3-his-b6-v1-002","tema":"El Grito de Dolores: Miguel Hidalgo","tipo":"true_false","nivel":"v1","pregunta":"El cura Miguel Hidalgo tocó la campana y dio el Grito de Independencia el 16 de septiembre de 1810.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! ¡Viva México! El 16 de septiembre de 1810 inició la Guerra de Independencia. 🔔🇲🇽"},
+      {"id":"pri3-his-b6-v1-003","tema":"José María Morelos","tipo":"fill_blank","nivel":"v1","pregunta":"José María Morelos escribió un documento llamado 'Los Sentimientos de la N-A-C-I-Ó-____ '.","respuestaCorrecta":"N","explicacion":"¡N!. ¡Los Sentimientos de la NACIÓN! Proponía igualdad y libertad para todos. 📜🇲🇽"},
+      {"id":"pri3-his-b6-v1-004","tema":"La consumación de la Independencia","tipo":"multiple_choice","nivel":"v1","pregunta":"¿En qué año se logró finalmente la Independencia de México?","opciones":["¡En 1-8-2-1, con la entrada triunfal del Ejército Trigarante a la Ciudad de México! 🎉🇲🇽","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡En 1-8-2-1, con la entrada triunfal del Ejército Trigarante a la Ciudad de México! 🎉🇲🇽","explicacion":"1821 = consumación. Agustín de Iturbide y Vicente Guerrero unieron fuerzas. 🎉🇲🇽"},
+      {"id":"pri3-his-b6-v1-005","tema":"El Grito de Dolores: Miguel Hidalgo","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Con qué estandarte luchó Hidalgo y su ejército insurgente?","opciones":["¡Con el estandarte de la V-I-R-G-E-N de Guadalupe como símbolo de su causa! 🙏⚔️","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Con el estandarte de la V-I-R-G-E-N de Guadalupe como símbolo de su causa! 🙏⚔️","explicacion":"La Virgen de Guadalupe fue el símbolo que unió al pueblo en la lucha. 🙏⚔️"}
+    ],
+    "v2":[
+      {"id":"pri3-his-b6-v2-001","tema":"Causas","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí ¿ ¿p po or r_ q qu ué é_ i in nd de ep pe en nd de en nc ci ia a ? ??","opciones":["¡D De es si ig gu ua al ld da ad d_ y y_ i in nj ju us st ti ic ci ia a ! !! ⚖️😤","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡D De es si ig gu ua al ld da ad d_ y y_ i in nj ju us st ti ic ci ia a ! !! ⚖️😤","explicacion":"D De es si ig gu ua al ld da ad d !! ⚖️😤!"},
+      {"id":"pri3-his-b6-v2-002","tema":"Hidalgo","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi H Hi id da al lg go o_ G Gr ri it to o_ 1 16 6_ s se ep pt t_ 1 18 81 10 0 ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"1 16 6_ s se ep pt t_ 1 18 81 10 0 !! 🔔🇲🇽!"},
+      {"id":"pri3-his-b6-v2-003","tema":"Morelos","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil M Mo or re el lo os s_ 'S Se en nt ti im mi ie en nt to os s_ d de e_ l la a_ N NA AC CI IÓ Ó_ __ __ _'  ? ?? Aili _? ls...","respuestaCorrecta":"N","explicacion":"N NA AC CI IÓ ÓN N !! 📜🇲🇽"},
+      {"id":"pri3-his-b6-v2-004","tema":"Consumación","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil I In nd de ep pe en nd de en nc ci ia a_ ¿ ¿e en n_ q qu ué é_ a añ ño o ? ?? ?! a?_?...l?!","opciones":["¡1 18 82 21 1 ! !! 🎉🇲🇽","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡1 18 82 21 1 ! !! 🎉🇲🇽","explicacion":"1 18 82 21 1 !! 🎉🇲🇽!!"},
+      {"id":"pri3-his-b6-v2-005","tema":"Hidalgo","tipo":"true_false","nivel":"v2","pregunta":"SiisEili e es st ta an nd da ar rt te e_ V Vi ir rg ge en n_ G Gu ua ad da al lu up pe e_ = =_ H Hi id da al lg go o ? ?? !","respuestaCorrecta":"true","explicacion":"V Vi ir rg ge en n_ d de e_ G Gu ua ad da al lu up pe e !! 🙏⚔️"}
+    ],
+    "preview":[
+      {"id":"pri3-his-b6-v1-002","tema":"Hidalgo","tipo":"true_false","nivel":"v1","pregunta":"Hidalgo dio el Grito el 16 de sept de 1810. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"1810","visual":"🔔"},
+      {"id":"pri3-his-b6-v1-004","tema":"Consumación","tipo":"multiple_choice","nivel":"v1","pregunta":"¿En qué año se logró la Independencia?","opciones":["¡1821! 🎉","Triste","Gris.","Feo."],"respuestaCorrecta":"¡1821! 🎉","explicacion":"1821"},
+      {"id":"pri3-his-b6-v2-001","tema":"Causas","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Por qué querían independencia?","opciones":["¡Desigualdad! ⚖️","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Desigualdad! ⚖️","explicacion":"Desigualdad"}
+    ]
+  },
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
+}

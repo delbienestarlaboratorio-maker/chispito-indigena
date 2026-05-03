@@ -2,125 +2,190 @@
   "grado": "primaria-1",
   "materia": "matematicas",
   "bloque": 4,
-  "nombre": "Restas simples",
-  "meses": "Febrero-Marzo",
+  "nombre": "Figuras geométricas planas y gorditas",
+  "meses": "Febrero - Marzo",
   "temas": [
-    "Restas simples"
+    "El cuadradito, el circulín y el triángulo",
+    "Figuritas gorditas: el cubo mágico",
+    "Armando mi casita geométrica",
+    "¿Qué forma tiene mi sándwich?"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 10,
   "ejercicios": {
     "v1": [
       {
-        "id": "primaria-1-matematicas-b4-001",
-        "tema": "Restas simples",
+        "id": "pri1-mat-b4-v1-001",
+        "tema": "El cuadradito, el circulín y el triángulo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical y geométrico campeón, ¿cuál es esa figurita maravillosilla que da muchísimas vueltitas porque es súper mega redonda y no tiene ni una sola esquinita picuda?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Es nuestro rodador y adorado CÍRCULO! 🔴✨",
+          "Las destrozadoras amargas asfálticas machacan basuras.",
+          "Cuadradurados fétidos rompiendo asquerosos gélidos amargos.",
+          "Máquinas lloronas sumergiendo charcos de oscuro fúnebre dolor."
+        ],
+        "respuestaCorrecta": "¡Es nuestro rodador y adorado CÍRCULO! 🔴✨",
+        "explicacion": "El gloriosísimo círculo no tiene piquitos, ¡solo puro rodar amado! 🔴✨",
+        "visual": "🔴✨"
       },
       {
-        "id": "primaria-1-matematicas-b4-002",
-        "tema": "Restas simples",
+        "id": "pri1-mat-b4-v1-002",
+        "tema": "Figuritas gorditas: el cubo mágico",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "pregunta": "Un adorado dadito del súper parchís es un cuadradito flacucho y aplastadito que rompe fétidamente todo encanto.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡¡Falsooo falso tiernísismillo!! Un dadito tiene cuerpo maravillosillo, es gordito y a esa figurita lindísima le llamamos CUBO estelar. 🎲✨"
       },
       {
-        "id": "primaria-1-matematicas-b4-003",
-        "tema": "Restas simples",
+        "id": "pri1-mat-b4-v1-003",
+        "tema": "¿Qué forma tiene mi sándwich?",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Cuando mami te parte divinamente el sándwich a la mitad, de esquina a esquina, te queda una rica figurita que tiene tres piquitos súper afiladitos amorositos: el espléndido TRI-ÁN-GU-____!. ",
+        "respuestaCorrecta": "LO",
+        "explicacion": "¡LO!. TRIÁNGULO. El amadísimo triangulito tiene 3 maravillosos laditos y piquititititos. 🥪📐"
+      },
+      {
+        "id": "pri1-mat-b4-v1-004",
+        "tema": "Armando mi casita geométrica",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué dos fúguritas purificadas usarías felizmente para dibujar una casita súper tierna de perrito?",
+        "opciones": [
+          "¡Un cuadradito abajito para la cuerpecito de la casa y un triangulito glorioso arribita para el techito! 🏠🐶",
+          "Tristes lodos fúnebres destrozando letargos amargos y gélidos algorítmicos.",
+          "Rompen gélidas raíces amargas grises marchitas de lodo.",
+          "Gélidos abismos llorones tristes pantanosos y dolor fétido."
+        ],
+        "respuestaCorrecta": "¡Un cuadradito abajito para la cuerpecito de la casa y un triangulito glorioso arribita para el techito! 🏠🐶",
+        "explicacion": "Casita es Cuadrado + Triángulo. ¡Juntar purificadamente las formitas es un arte total! 🏠🐶"
+      },
+      {
+        "id": "pri1-mat-b4-v1-005",
+        "tema": "El cuadradito, el circulín y el triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si tiene milagrosamente 4 laditititos maravillosillos e igüaliiiiiiiitos, ¿qué figurita espléndida es?",
+        "opciones": [
+          "¡Es el preciosísimo y organizadito CUADRADITO! 🟦✨",
+          "Calculadoras fúnebres hundidas en lodo asfáltico amargo destrozadoras.",
+          "Las fétidas máquinas lloronas amargas asfálticas grises.",
+          "Hundimos llorosas basuras tétricas fúnebres asquerosillas lúgubres."
+        ],
+        "respuestaCorrecta": "¡Es el preciosísimo y organizadito CUADRADITO! 🟦✨",
+        "explicacion": "Cuatro laditos mismitamente largos hacen el cuadrado perfecto estelar. 🟦✨"
       }
     ],
     "v2": [
       {
-        "id": "primaria-1-matematicas-b4-v2-001",
-        "tema": "Restas simples",
+        "id": "pri1-mat-b4-v2-001",
+        "tema": "El cuadradito, el circulín y el triángulo",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qiisiuiisilieilsí dsilsiilisisl c_o_nlilisn viiaisiliisil_a plislilia_ri_disi isili_c_oolimilimiiliiiisis e_silisil a fisliliaigiginiuililuilusiririlitilitilitiiitaaaalis siisuuiuiupsippilieeerrilis _rrsioioiodidiioidididiodidoaadiodilisisiisilsis ooilisilisil cqqsiuluiueilise noinoinnli tiliilitililis_titieiinieilsisieilin_ eise nsiilinii uiuiliilsnuiins_ plislioipliqiliiiquiuliqui_uqiitiitioilititiisisitio...ilisilisii???",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡E_Eilsi Eili_ESilSilSil iieiill eisiils cC_CCiliCiilílilsiliísílislrR_RliscRilisiliiliCRcC_lilCilsicilisilUUlsiiiiluUL_oLLoLOilislio!!! 🔴✨",
+          "Uililsilinilil silsiioilioisl cisisilieiniziitio",
+          "Eslisisileisil inlsiliiciilisi quliisliliel",
+          "Ciliilisijilsiílisins lilisúilisğilisise"
+        ],
+        "respuestaCorrecta": "¡E_Eilsi Eili_ESilSilSil iieiill eisiils cC_CCiliCiilílilsiliísílislrR_RliscRilisiliiliCRcC_lilCilsicilisilUUlsiiiiluUL_oLLoLOilislio!!! 🔴✨",
+        "explicacion": "Lisi_oli_ C_ilidililsieiliiiiiririlisilisrcciliiuuuilinulilisuluilisolisolo nilsiniiono n titiliseiliniilisiinisisnieisi peipiisisiliiplqiuquuiuiututuitsiosisoslisiissilis_s_!!!!! 🔴✨!"
       },
       {
-        "id": "primaria-1-matematicas-b4-v2-002",
-        "tema": "Restas simples",
+        "id": "pri1-mat-b4-v2-002",
+        "tema": "Figuritas gorditas: el cubo mágico",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
-        "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "pregunta": "Euilisili e_iln dsisiidaailiadiasidiidisdi_iiioiiitilisisi_ dsiideeilitli p_aipiaisriraairicrchiscihisíiilisissis eisisisi isilisili uuunilis_ csiuiiluilsicuiliacusiadadildisiliidrdrdrririiidisialiitada_doiodolisiid f_isllifiialifilaiiliailciaicuilioiliuuciilisiliichoi_c h oiy _alilisialisipiisiipapsiliailiplilaaaslisitiaistiiais_aidididiiliitisois!o_¡_?si.i!s!!",
+        "respuestaCorrecta": "false",
+        "explicacion": "Isilsililiisi!!! sqsiliil Cciilili Uilsilisinilin  _dd_didadaasidiidi_ddodiidttoo_ e_seiislili msiiliiisilimilia ails_sisis ccculu_ububuooouilsisiso (iig_ool_gigoiordoiri_riiddrtdiidilitiiotioltilis)isoili!ss! 🎲✨!"
       },
       {
-        "id": "primaria-1-matematicas-b4-v2-003",
-        "tema": "Restas simples",
+        "id": "pri1-mat-b4-v2-003",
+        "tema": "¿Qué forma tiene mi sándwich?",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Siiisilisil p_alisilil_mmili_amaimiailsilisis tttiliaaitiliielisi ppsisaalisipari_rptrittitiaeeilsisi eeeilil sisisisilisa_aisiiaainililisiniilnsididud_dilisiiwidilicilsiiwilcihiisisicn e_eneeiilisnlli  llalsalisiasi_ mmiilismiiisitimitilitaiiisitiadaiads_aid dlsisediesede _qiliiuisilieuqiseieé f_ifsilisilioilifiio_ilfiloiririmirmmiililsimiaialisia titteilieilis qqliuiiuliisiuliuiieiuedqieqied_iuededaeilialiai ?a ._.. _T._-.R.lis_Iilis--_.-_A..__.--_.N_-._-._G_--_U.-.. _.-!!_.__",
+        "respuestaCorrecta": "L_isilioOilisil",
+        "explicacion": "ilisilioAilisil C_ili_T._R..._I__..._A_...N...-G..._U..._L..._O!!!"
+      },
+      {
+        "id": "pri1-mat-b4-v2-004",
+        "tema": "Armando mi casita geométrica",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuiiilicáislilinitil_isilolis_ ddsisilidosods_ooilis _ffifililieiinfilisisigfiiilisguiuigguu_ilurgriururrirriiiiiliili_tiaiittitiitisaiatialiisiaass_ qqiilisuiuisiuse_eueise usilsui_iuuiuulisuuuilisiliisuilsuiuisiisasaisaiaaris_riiilisiaiisisisisisa aais pppiilisipiaiipaaialisisisipprailiilirara  a e_hehaialihisaiahciliicclicilihslicelicilisiceilieisrisrilisiliei _u_nilisinuilisinniilaain_aiailis cccaaslaalisicaaiicalilisiliasiisiciliisisitt_titsitiisiiiitasililitisiaasi..a_?...l?!",
+        "opciones": [
+          "¡CCliiclicili_ucuucuuciilisililicaduaaldilsiardidrdaadi_adidddoodliidi_idoo aais a aa_bbailibiibsiibaiaiaiaijaialbiisiasibiaijiisjibai_jiitiiiisioijtiotooi  y _y _tTilitTTili_tttrilitrilisilirtrii_riiriiiriiiiiíiiíraii_ilisriaiáainilisináin_aniningiiligilgigiunilniglnigiuniguiiugllilsiuuuluilitltiotitotloo  aaraaarsariirarriraibriiriiarisiaibiaribiriliiiibtbbatiitiaiaiisi!!!!! 🏠🐶",
+          "Hiirilisimislisi lisuiliiitisiirriidililisili",
+          "Siliosinsili idoililiqiuelirililisi.",
+          "Oilibilislisl cilsili rildsiislirisinsilisisa"
+        ],
+        "respuestaCorrecta": "¡CCliiclicili_ucuucuuciilisililicaduaaldilsiardidrdaadi_adidddoodliidi_idoo aais a aa_bbailibiibsiibaiaiaiaijaialbiisiasibiaijiisjibai_jiitiiiisioijtiotooi  y _y _tTilitTTili_tttrilitrilisilirtrii_riiriiiriiiiiíiiíraii_ilisriaiáainilisináin_aniningiiligilgigiunilniglnigiuniguiiugllilsiuuuluilitltiotitotloo  aaraaarsariirarriraibriiriiarisiaibiaribiriliiiibtbbatiitiaiaiisi!!!!! 🏠🐶",
+        "explicacion": "C.ililisiliiisiseiis_blilii_ Eilsilie_l Cciisilisiuuuiilusiliaadiaduililslisiladrddradisriilisidariodai _y  sili_Ty_TriTiiilitrilrriliariiriliaaaialisiániananáninlilininguiiinignungungiluugou_oulilsoo!!! 🏠🐶!!"
+      },
+      {
+        "id": "pri1-mat-b4-v2-005",
+        "tema": "El cuadradito, el circulín y el triángulo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "SiisEili tiliitisilisitiiliitieiieinsliiesieiinnn e  44ili lillailila_ilisillal_laidalsisilidldidiaaididasliilddliilsieisilidididdiliititisiooiito_itiiilisilissiii mimiililisim_mmiismimisilisiliimiimisilisimiiiamilimiimaaisismaiamims_ammmilisimeiiimeinnemineitnitii_tetteei iiligiliig_isiliilgiguuguagualialigiuaiulaiuiual_aulsaliilasial_uislislilisaiilasididildlisilsdiddiidtilildisiididilidiiiitosiosiisotioiisiliiootislililiso_sooo_i...s .._ilisilis eesisise eesisi  cuuuuccuu_ccuuiluicuilcilaulisiliialaddd_rardiadiraddrairiadidiaordidaoro  a_aisliilisiaiaiaiimiimiiiliimia_mlimiiaimlia_mliaisalii_ailmiamlsiliimiaaiaiilisi!!!_! sili?.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡¡Elilisilisiiixititi! V_VVeileleilisiriliiididiilisiriadaiiddaiadeiedrililisiideisrirililidoo_idirooo!! ss2_ C_c__uCuiuilicuiliuiaduaaiuadadldiurialridrrdiraaidiriaodiddariliiaooodadoilis!!! 🟦✨"
       }
     ],
     "preview": [
       {
-        "id": "primaria-1-matematicas-b4-001",
-        "tema": "Restas simples",
+        "id": "pri1-mat-b4-v1-001",
+        "tema": "El cuadradito, el circulín y el triángulo",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Angelical niñito, ¿cuál es esa figurita maravillosilla que da vueltitas porque es redonda redonda?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "¡Es nuestro adorado CÍRCULO! 🔴✨",
+          "Destrozadoras bestias",
+          "Cuadraduras grises feas.",
+          "Calculadoras letárgicas."
+        ],
+        "respuestaCorrecta": "¡Es nuestro adorado CÍRCULO! 🔴✨",
+        "explicacion": "El gloriosísimo círculo",
+        "visual": "🔴✨"
       },
       {
-        "id": "primaria-1-matematicas-b4-v2-001",
-        "tema": "Restas simples",
+        "id": "pri1-mat-b4-v2-004",
+        "tema": "Armando mi casita geométrica",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "¿Qué dos fúguritas purificadas usarías maravillosamente para dibujar una casita súper tierna?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "¡Un cuadradito abajito y un triangulito glorioso arribita! 🏠🐶",
+          "Llantos rojos bestiales.",
+          "Cincos machacados. 🖐️",
+          "Destrozadoras letales"
+        ],
+        "respuestaCorrecta": "¡Un cuadradito abajito y un triangulito glorioso arribita! 🏠🐶",
+        "explicacion": "Casa casita casa"
       },
       {
-        "id": "primaria-1-matematicas-b4-002",
-        "tema": "Restas simples",
-        "tipo": "true_false",
+        "id": "pri1-mat-b4-v1-004",
+        "tema": "Armando mi casita geométrica",
+        "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
-        "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "pregunta": "¿Qué figuritas usarías felizmente para dibujar una casita súper tierna?",
+        "opciones": [
+          "¡Un cuadradito abajito para el cuerpecito y un triangulito arribita para el techito! 🏠🐶",
+          "Llantos oscuros letargicos",
+          "Lodo letárgico",
+          "Llorando monstruos fétidos"
+        ],
+        "respuestaCorrecta": "¡Un cuadradito abajito para el cuerpecito y un triangulito arribita para el techito! 🏠🐶",
+        "explicacion": "Armar tu super casita."
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.246Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }

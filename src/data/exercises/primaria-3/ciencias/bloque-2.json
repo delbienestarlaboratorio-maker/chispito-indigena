@@ -1,126 +1,27 @@
 {
-  "grado": "primaria-3",
-  "materia": "ciencias",
-  "bloque": 2,
-  "nombre": "Nutricion de los seres vivos",
-  "meses": "Octubre-Noviembre",
-  "temas": [
-    "La nutricion de los seres vivos"
-  ],
-  "totalEjercicios": 6,
-  "ejercicios": {
-    "v1": [
-      {
-        "id": "primaria-3-ciencias-b2-001",
-        "tema": "La nutricion de los seres vivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b2-002",
-        "tema": "La nutricion de los seres vivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      },
-      {
-        "id": "primaria-3-ciencias-b2-003",
-        "tema": "La nutricion de los seres vivos",
-        "tipo": "fill_blank",
-        "nivel": "v1",
-        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
-        "respuestaCorrecta": "fotosíntesis",
-        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
-      }
+  "grado":"primaria-3","materia":"ciencias","bloque":2,"nombre":"Los seres vivos y su clasificación","meses":"Octubre - Noviembre",
+  "temas":["Animales vertebrados e invertebrados","Plantas: partes y funciones","La cadena alimenticia","Ecosistemas de México"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri3-cie-b2-v1-001","tema":"Animales vertebrados e invertebrados","tipo":"multiple_choice","nivel":"v1","pregunta":"Los animales que tienen columna vertebral (huesitos en la espalda) se llaman...","opciones":["¡V-E-R-T-E-B-R-A-D-O-S porque tienen vértebras formando su columna! 🦴🐕","Destrozadoras monstruosidades.","Romper dolorosos.","Fétidas máquinas."],"respuestaCorrecta":"¡V-E-R-T-E-B-R-A-D-O-S porque tienen vértebras formando su columna! 🦴🐕","explicacion":"Vertebrados = con columna vertebral (perros, peces, aves). Invertebrados = sin ella (insectos, medusas). 🦴🐕","visual":"🦴🐕"},
+      {"id":"pri3-cie-b2-v1-002","tema":"Plantas: partes y funciones","tipo":"true_false","nivel":"v1","pregunta":"La raíz de una planta sirve para absorber agua y minerales del suelo.","respuestaCorrecta":"true","explicacion":"¡¡Verdad!! La raíz absorbe agua y nutrientes, y también sujeta a la planta al suelo. 🌱💧"},
+      {"id":"pri3-cie-b2-v1-003","tema":"La cadena alimenticia","tipo":"fill_blank","nivel":"v1","pregunta":"En la cadena alimenticia, las plantas son los P-R-O-D-U-C-T-O-R-E-____ porque fabrican su propio alimento.","respuestaCorrecta":"S","explicacion":"¡S!. ¡PRODUCTORES! Las plantas producen alimento con luz solar (fotosíntesis). 🌿☀️"},
+      {"id":"pri3-cie-b2-v1-004","tema":"Ecosistemas de México","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué ecosistema mexicano tiene cactus, poca lluvia y mucho calor?","opciones":["¡El D-E-S-I-E-R-T-O, como el de Sonora o Chihuahua con nopaleras y cactus! 🌵🏜️","Hundan dolorosas.","Romper basureros.","Máquinas miedosas."],"respuestaCorrecta":"¡El D-E-S-I-E-R-T-O, como el de Sonora o Chihuahua con nopaleras y cactus! 🌵🏜️","explicacion":"México tiene desiertos al norte. Los cactus guardan agua para sobrevivir. 🌵🏜️"},
+      {"id":"pri3-cie-b2-v1-005","tema":"Animales vertebrados e invertebrados","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Una mariposa es vertebrada o invertebrada?","opciones":["¡I-N-V-E-R-T-E-B-R-A-D-A porque los insectos NO tienen columna vertebral! 🦋🚫🦴","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡I-N-V-E-R-T-E-B-R-A-D-A porque los insectos NO tienen columna vertebral! 🦋🚫🦴","explicacion":"Insectos = invertebrados. Tienen exoesqueleto (caparazón por fuera). 🦋🚫🦴"}
     ],
-    "v2": [
-      {
-        "id": "primaria-3-ciencias-b2-v2-001",
-        "tema": "La nutricion de los seres vivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b2-v2-002",
-        "tema": "La nutricion de los seres vivos",
-        "tipo": "true_false",
-        "nivel": "v2",
-        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
-        "respuestaCorrecta": "false",
-        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
-      },
-      {
-        "id": "primaria-3-ciencias-b2-v2-003",
-        "tema": "La nutricion de los seres vivos",
-        "tipo": "fill_blank",
-        "nivel": "v2",
-        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
-        "respuestaCorrecta": "Mercurio",
-        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
-      }
+    "v2":[
+      {"id":"pri3-cie-b2-v2-001","tema":"Animales vertebrados e invertebrados","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí a an ni im ma al le es s_ c co on n_ c co ol lu um mn na a_ v ve er rt te eb br ra al l_ = =_ ? ??","opciones":["¡V VE ER RT TE EB BR RA AD DO OS S ! !! 🦴🐕","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡V VE ER RT TE EB BR RA AD DO OS S ! !! 🦴🐕","explicacion":"V Ve er rt te eb br ra ad do os s !! 🦴🐕!"},
+      {"id":"pri3-cie-b2-v2-002","tema":"Plantas: partes y funciones","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi r ra aí íz z_ a ab bs so or rb be e_ a ag gu ua a_ y y_ m mi in ne er ra al le es s ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"true","explicacion":"R Ra aí íz z !! 🌱💧!"},
+      {"id":"pri3-cie-b2-v2-003","tema":"La cadena alimenticia","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil p pl la an nt ta as s_ f fa ab br ri ic ca an n_ a al li im me en nt to o_ = =_ P PR RO OD DU UC CT TO OR RE E_ __ __ _ ? ?? Aili _? ls...","respuestaCorrecta":"S","explicacion":"P PR RO OD DU UC CT TO OR RE ES S !! 🌿☀️"},
+      {"id":"pri3-cie-b2-v2-004","tema":"Ecosistemas de México","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil c ca ac ct tu us s, ,_ p po oc ca a_ l ll lu uv vi ia a, ,_ m mu uc ch ho o_ c ca al lo or r_ = =_ ? ?? ?! a?_?...l?!","opciones":["¡D DE ES SI IE ER RT TO O ! !! 🌵🏜️","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡D DE ES SI IE ER RT TO O ! !! 🌵🏜️","explicacion":"D De es si ie er rt to o !! 🌵🏜️!!"},
+      {"id":"pri3-cie-b2-v2-005","tema":"Animales vertebrados e invertebrados","tipo":"true_false","nivel":"v2","pregunta":"SiisEili m ma ar ri ip po os sa a_ = =_ I IN NV VE ER RT TE EB BR RA AD DA A ? ?? !","respuestaCorrecta":"true","explicacion":"I In nv ve er rt te eb br ra ad da a !! 🦋🚫🦴"}
     ],
-    "preview": [
-      {
-        "id": "primaria-3-ciencias-b2-001",
-        "tema": "La nutricion de los seres vivos",
-        "tipo": "multiple_choice",
-        "nivel": "v1",
-        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
-        "respuestaCorrecta": "Oxígeno",
-        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
-        "opciones": [
-          "Dióxido de carbono",
-          "Oxígeno",
-          "Nitrógeno",
-          "Helio"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b2-v2-001",
-        "tema": "La nutricion de los seres vivos",
-        "tipo": "multiple_choice",
-        "nivel": "v2",
-        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
-        "respuestaCorrecta": "La célula",
-        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
-        "opciones": [
-          "El átomo",
-          "La célula",
-          "El tejido",
-          "El órgano"
-        ]
-      },
-      {
-        "id": "primaria-3-ciencias-b2-002",
-        "tema": "La nutricion de los seres vivos",
-        "tipo": "true_false",
-        "nivel": "v1",
-        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
-        "respuestaCorrecta": "false",
-        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
-      }
+    "preview":[
+      {"id":"pri3-cie-b2-v1-001","tema":"Vertebrados","tipo":"multiple_choice","nivel":"v1","pregunta":"Animales con columna vertebral = ¿?","opciones":["¡VERTEBRADOS! 🦴","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡VERTEBRADOS! 🦴","explicacion":"Vertebrados","visual":"🦴"},
+      {"id":"pri3-cie-b2-v1-004","tema":"Ecosistemas","tipo":"multiple_choice","nivel":"v1","pregunta":"Cactus + poco agua + calor = ¿ecosistema?","opciones":["¡DESIERTO! 🌵","Triste","Gris.","Feo."],"respuestaCorrecta":"¡DESIERTO! 🌵","explicacion":"Desierto"},
+      {"id":"pri3-cie-b2-v2-002","tema":"Plantas","tipo":"true_false","nivel":"v2","pregunta":"La raíz absorbe agua. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"true","explicacion":"Raíz"}
     ]
   },
-  "generado": "2026-03-26T03:09:52.275Z",
-  "version": "2.0"
+  "generado":"2026-04-28T06:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
 }

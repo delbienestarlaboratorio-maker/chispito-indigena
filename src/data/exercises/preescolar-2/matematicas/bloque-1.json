@@ -2,129 +2,302 @@
   "grado": "preescolar-2",
   "materia": "matematicas",
   "bloque": 1,
-  "nombre": "Números del 1 al 10",
-  "meses": "Agosto-Septiembre",
+  "nombre": "Conteo, números y colecciones",
+  "meses": "Septiembre - Octubre",
   "temas": [
-    "Números del 1 al 10",
-    "Formas geométricas",
-    "Más, menos, igual",
-    "Orden y secuencias",
-    "Medición básica"
+    "Contando hasta 20",
+    "Correspondencia uno a uno",
+    "Juntar y separar colecciones",
+    "Concepto de más, menos o igual"
   ],
-  "totalEjercicios": 6,
+  "totalEjercicios": 20,
   "ejercicios": {
     "v1": [
       {
-        "id": "preescolar-2-matematicas-b1-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b1-v1-001",
+        "tema": "Contando hasta 20",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si tienes 4 manzanas rojas y 2 manzanas verdes, ¿cuántas manzanas tienes en total?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "5 manzanas",
+          "6 manzanas",
+          "7 manzanas",
+          "4 manzanas"
+        ],
+        "respuestaCorrecta": "6 manzanas",
+        "explicacion": "¡Muy bien! Si sumamos 4 y 2, contamos: 1, 2, 3, 4, 5... ¡6! Tienes 6 manzanas. 🍎🍏",
+        "visual": "🍎"
       },
       {
-        "id": "preescolar-2-matematicas-b1-002",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b1-v1-002",
+        "tema": "Contando hasta 20",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Después del número 9, sigue el número 10.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡Exacto! La serie es 7, 8, 9... ¡10! 🔟"
       },
       {
-        "id": "preescolar-2-matematicas-b1-003",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b1-v1-003",
+        "tema": "Concepto de más, menos o igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quien tiene más juguetes: Ana con 10 o Luis con 7?",
+        "opciones": [
+          "Ana",
+          "Luis",
+          "Tienen la misma cantidad",
+          "Ninguno"
+        ],
+        "respuestaCorrecta": "Ana",
+        "explicacion": "¡Ana! Porque 10 es un número mayor (más grande) que 7. 🎁",
+        "visual": "🎁"
+      },
+      {
+        "id": "pre2-mat-b1-v1-004",
+        "tema": "Correspondencia uno a uno",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Si hay 5 niños y solo 4 sillas, un niño se quedará de pie.",
+        "respuestaCorrecta": "true",
+        "explicacion": "Así es, porque 5 es más grande que 4. ¡A un niño le falta silla! 🪑"
+      },
+      {
+        "id": "pre2-mat-b1-v1-005",
+        "tema": "Contando hasta 20",
         "tipo": "fill_blank",
         "nivel": "v1",
-        "pregunta": "El resultado de una suma se llama ___",
-        "respuestaCorrecta": "total",
-        "explicacion": "También se le conoce como suma o adición."
+        "pregunta": "Tengo 8 globos, si se me ponchan 2, me quedan ___ globos.",
+        "respuestaCorrecta": "6",
+        "explicacion": "¡Correcto! A 8 le quitas 2, te quedan 6. 🎈"
+      },
+      {
+        "id": "pre2-mat-b1-v1-006",
+        "tema": "Concepto de más, menos o igual",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Paco tiene 3 pelotas y María tiene 3 pelotas. Ellos tienen la ___ cantidad.",
+        "opciones": [
+          "Misma / Igual",
+          "Menos",
+          "Más",
+          "Ninguna"
+        ],
+        "respuestaCorrecta": "Misma / Igual",
+        "explicacion": "¡Tienen la misma cantidad! 3 pelotas y 3 pelotas es igual. ⚽⚽",
+        "visual": "⚽"
+      },
+      {
+        "id": "pre2-mat-b1-v1-007",
+        "tema": "Contando hasta 20",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué número falta? 11, 12, __, 14",
+        "opciones": [
+          "13",
+          "15",
+          "10",
+          "16"
+        ],
+        "respuestaCorrecta": "13",
+        "explicacion": "¡Muy bien! Después del 12 sigue el 13. 🔢",
+        "visual": "🔢"
+      },
+      {
+        "id": "pre2-mat-b1-v1-008",
+        "tema": "Juntar y separar colecciones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Si separo mis 6 colores en 2 cajas diferentes, no significa que se me perdieron, sigo teniendo 6 colores en total.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! El total sigue siendo el mismo, aunque estén en distintos lugares. 🖍️"
+      },
+      {
+        "id": "pre2-mat-b1-v1-009",
+        "tema": "Contando hasta 20",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El número que se escribe con un 1 y un 5 juntos es el ___.",
+        "respuestaCorrecta": "15",
+        "explicacion": "¡Ese es el número quince! ✨"
+      },
+      {
+        "id": "pre2-mat-b1-v1-010",
+        "tema": "Juntar y separar colecciones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Tengo 5 estampas, si mi mamá me regala 5 más, ¿cuántas tendré?",
+        "opciones": [
+          "10",
+          "8",
+          "15",
+          "5"
+        ],
+        "respuestaCorrecta": "10",
+        "explicacion": "¡10! Tienes 5 y le pones 5 más, es como los deditos de tus dos manos juntos. 🖐️🖐️",
+        "visual": "🖐"
       }
     ],
     "v2": [
       {
-        "id": "preescolar-2-matematicas-b1-v2-001",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b1-v2-001",
+        "tema": "Contando hasta 20",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?  ",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "Cuenta conmigo: 15, 16, 17, 18, ___. ¿Qué número sigue?  ",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "19",
+          "20",
+          "14",
+          "21"
+        ],
+        "respuestaCorrecta": "19",
+        "explicacion": "¡El diecinueve! Sigue justo después del dieciocho y antes del veinte. 🛤️"
       },
       {
-        "id": "preescolar-2-matematicas-b1-v2-002",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b1-v2-002",
+        "tema": "Correspondencia uno a uno",
         "tipo": "true_false",
         "nivel": "v2",
-        "pregunta": "El número Pi (π) equivale a la relación entre la longitud de una circunferencia y su diámetro  ",
+        "pregunta": "Si tengo 8 calcetines puedo hacer exactamente 4 pares de calcetines.  ",
         "respuestaCorrecta": "true",
-        "explicacion": "Esta constante matemática es aproximadamente 3.14159..."
+        "explicacion": "¡Sí! Porque cada par tiene 2 calcetines (2 + 2 + 2 + 2 = 8). 🧦"
       },
       {
-        "id": "preescolar-2-matematicas-b1-v2-003",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b1-v2-003",
+        "tema": "Juntar y separar colecciones",
         "tipo": "fill_blank",
         "nivel": "v2",
-        "pregunta": "El ángulo que mide exactamente 90 grados se llama ángulo ___  ",
-        "respuestaCorrecta": "recto",
-        "explicacion": "Un ángulo recto forma una L perfecta."
+        "pregunta": "Si tienes 12 dulces y te comes 2, te quedan ___ dulces.  ",
+        "respuestaCorrecta": "10",
+        "explicacion": "¡Quedan 10! Cuenta hacia atrás desde el 12: once, diez. 🍬"
+      },
+      {
+        "id": "pre2-mat-b1-v2-004",
+        "tema": "Concepto de más, menos o igual",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué caja de galletas debe elegir Inés si quiere invitar a 12 amigos y darle una a cada uno sin que falten?  ",
+        "opciones": [
+          "La caja de 12 galletas u otra más grande",
+          "La caja de 10 galletas",
+          "La caja de 5 galletas",
+          "Ninguna"
+        ],
+        "respuestaCorrecta": "La caja de 12 galletas u otra más grande",
+        "explicacion": "¡Necesita al menos 12! Si toma menos, algunos niños no tendrán galleta. 🍪"
+      },
+      {
+        "id": "pre2-mat-b1-v2-005",
+        "tema": "Contando hasta 20",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El número veinte se escribe poniendo un 2 y después un 0 (20).  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correcto! Así formamos el 20. 🥈"
+      },
+      {
+        "id": "pre2-mat-b1-v2-006",
+        "tema": "Contando hasta 20",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Antes del 15 está el número ___.  ",
+        "respuestaCorrecta": "14",
+        "explicacion": "¡Muy bien! Contando del 10 al 15: ..., 13, 14, 15... ⏳"
+      },
+      {
+        "id": "pre2-mat-b1-v2-007",
+        "tema": "Concepto de más, menos o igual",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Hay 9 abejitas y 9 flores. Eso significa que hay:  ",
+        "opciones": [
+          "Igual número de abejitas que de flores",
+          "Más abejitas",
+          "Más flores",
+          "Cero flores"
+        ],
+        "respuestaCorrecta": "Igual número de abejitas que de flores",
+        "explicacion": "¡Cada abejita tendrá su flor! Son la misma cantidad. 🐝🌸"
+      },
+      {
+        "id": "pre2-mat-b1-v2-008",
+        "tema": "Contando hasta 20",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Trece se escribe 13.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Todos los números del 11 al 19 empiezan siempre con el 1. 🌟"
+      },
+      {
+        "id": "pre2-mat-b1-v2-009",
+        "tema": "Juntar y separar colecciones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿De qué otra manera se puede decir 10 deditos?  ",
+        "opciones": [
+          "5 en una mano y 5 en la otra",
+          "4 en una y 4 en la otra",
+          "8 y 1",
+          "No sé"
+        ],
+        "respuestaCorrecta": "5 en una mano y 5 en la otra",
+        "explicacion": "¡Juntar 5 y 5 es una forma genial de armar un 10! 🖐️🖐️"
+      },
+      {
+        "id": "pre2-mat-b1-v2-010",
+        "tema": "Contando hasta 20",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El número más grande entre el 15 y el 19 es el ___.  ",
+        "respuestaCorrecta": "19",
+        "explicacion": "¡El 19! Está casi por llegar al 20. 🐘"
       }
     ],
     "preview": [
       {
-        "id": "preescolar-2-matematicas-b1-001",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b1-v1-001",
+        "tema": "Contando hasta 20",
         "tipo": "multiple_choice",
         "nivel": "v1",
-        "pregunta": "¿Cuánto es 8 x 7?",
-        "respuestaCorrecta": "56",
-        "explicacion": "8 multiplicado por 7 es igual a 56.",
+        "pregunta": "Si tienes 4 manzanas rojas y 2 verdes, ¿cuántas manzanas tienes?",
         "opciones": [
-          "48",
-          "54",
-          "56",
-          "64"
-        ]
+          "5 manzanas",
+          "6 manzanas",
+          "7 manzanas",
+          "4 manzanas"
+        ],
+        "respuestaCorrecta": "6 manzanas",
+        "explicacion": "Si sumamos 4 y 2, tenemos 6. 🍎🍏",
+        "visual": "🍎"
       },
       {
-        "id": "preescolar-2-matematicas-b1-v2-001",
-        "tema": "Medición básica",
+        "id": "pre2-mat-b1-v2-001",
+        "tema": "Contando hasta 20",
         "tipo": "multiple_choice",
         "nivel": "v2",
-        "pregunta": "¿Cuál es el área de un cuadrado de lado 5 cm?",
-        "respuestaCorrecta": "25 cm²",
-        "explicacion": "El área de un cuadrado se calcula multiplicando lado por lado (5 x 5).",
+        "pregunta": "Cuenta conmigo: 15, 16, 17, 18, ___. ¿Qué número sigue?",
         "opciones": [
-          "10 cm²",
-          "20 cm²",
-          "25 cm²",
-          "30 cm²"
-        ]
+          "19",
+          "20",
+          "14",
+          "21"
+        ],
+        "respuestaCorrecta": "19",
+        "explicacion": "¡El diecinueve! Sigue justo después del dieciocho. 🛤️"
       },
       {
-        "id": "preescolar-2-matematicas-b1-002",
-        "tema": "Números del 1 al 10",
+        "id": "pre2-mat-b1-v1-002",
+        "tema": "Contando hasta 20",
         "tipo": "true_false",
         "nivel": "v1",
-        "pregunta": "Un triángulo equilátero tiene sus tres lados iguales",
+        "pregunta": "Después del número 9, sigue el número 10.",
         "respuestaCorrecta": "true",
-        "explicacion": "El prefijo \"equi\" significa igual, y \"látero\" lado."
+        "explicacion": "¡Exacto! La serie es 7, 8, 9... ¡10! 🔟"
       }
     ]
   },
-  "generado": "2026-03-26T03:09:52.218Z",
-  "version": "2.0"
+  "generado": "2026-04-27T12:00:00.000Z",
+  "version": "4.0-SEP-Calidad-Alta"
 }
